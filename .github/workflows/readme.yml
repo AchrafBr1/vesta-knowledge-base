@@ -6,16 +6,16 @@ on:
     types: [ created ]
 
 jobs:
-  gpt_translate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Run GPT Translate
-        if: |
-          contains(github.event.comment.body, '/gpt-translate') || 
-          contains(github.event.comment.body, '/gt')
-        uses: 3ru/gpt-translate@master
+      - uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
         with:
-          apikey: ${{ secrets.OPENAI_API_KEY }}
+          node-version: 12.x
+
+      - name: Adding README - Español
+        uses: AchrafBr1/translate-readme@main
+        with:
+          LANG: es
