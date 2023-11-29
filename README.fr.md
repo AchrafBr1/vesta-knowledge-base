@@ -7,10 +7,10 @@ mise en page : couverture : visible : vrai taille : titre du héros : visible : 
 
 * * *
 
-# 📚 manuels et guides
+# 📚 MANUELS ET GUIDES
 
 ## Ici vous pouvez obtenir tous les manuels et guides du système VESTA.
 
 #### 🔍 Utilisez le moteur de recherche pour pouvoir poser des questions naturelles, par exemple :
 
-"A quelle hauteur dois-je installer un PIRCAM ?"
+          "At which height should I install a PIRCAM?"
