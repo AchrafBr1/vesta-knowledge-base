@@ -1,0 +1,2 @@
+- name: Translate Markdown Action
+  uses: camposdelima/translate-markdown@v0.0.6
