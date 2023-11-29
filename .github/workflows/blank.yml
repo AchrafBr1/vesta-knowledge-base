@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Translate Markdown Action
+        uses: camposdelima/translate-markdown@v0.0.6
       - uses: actions/checkout@v2
       - name: Setup Node.js
         uses: actions/setup-node@v1
