@@ -16,14 +16,14 @@ jobs:
           node-version: 12.x
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
       - name: Adding README - Hindi
-        uses: dephraiim/translate-readme@main
+        uses: AchrafBr1/translate-readme@main
         with:
-          LANG: hi
+          LANG: es
       - name: Adding README - Arabic
-        uses: dephraiim/translate-readme@main
+        uses: AchrafBr1/translate-readme@main
         with:
-          LANG: ar
+          LANG: it
       - name: Adding README - French
-        uses: dephraiim/translate-readme@main
+        uses: AchrafBr1/translate-readme@main
         with:
           LANG: fr
