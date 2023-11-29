@@ -1,29 +1,21 @@
-name: Translate README S
+# .github/workflows/gpt-translate.yml
+name: GPT Translate
 
 on:
-  push:
-    branches:
-      - main
-      - master
+  issue_comment:
+    types: [ created ]
+
 jobs:
-  build:
+  gpt_translate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+
+      - name: Run GPT Translate
+        if: |
+          contains(github.event.comment.body, '/gpt-translate') || 
+          contains(github.event.comment.body, '/gt')
+        uses: 3ru/gpt-translate@master
         with:
-          node-version: 12.x
-      # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
-      - name: Adding README - Hindi
-        uses: AchrafBr1/translate-readme@main
-        with:
-          LANG: es
-      - name: Adding README - Arabic
-        uses: AchrafBr1/translate-readme@main
-        with:
-          LANG: it
-      - name: Adding README - French
-        uses: AchrafBr1/translate-readme@main
-        with:
-          LANG: fr
+          apikey: ${{ secrets.OPENAI_API_KEY }}
