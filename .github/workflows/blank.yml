@@ -15,23 +15,15 @@ jobs:
         with:
           node-version: 12.x
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
-      - name: Adding README - Chinese Simplified
-        uses: camposdelima/translate-markdown@v0.0.6
-        with:
-          LANG: zh-CN
-      - name: Adding README - Chinese Traditional
-        uses: camposdelima/translate-markdown@v0.0.6
-        with:
-          LANG: zh-TW
       - name: Adding README - Hindi
-        uses: camposdelima/translate-markdown@v0.0.6
+        uses: dephraiim/translate-readme@main
         with:
           LANG: hi
       - name: Adding README - Arabic
-        uses: camposdelima/translate-markdown@v0.0.6
+        uses: dephraiim/translate-readme@main
         with:
           LANG: ar
       - name: Adding README - French
-        uses: camposdelima/translate-markdown@v0.0.6
+        uses: dephraiim/translate-readme@main
         with:
           LANG: fr
