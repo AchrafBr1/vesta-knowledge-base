@@ -27,7 +27,7 @@ En el modo de funcionamiento normal, el indicador LED permanece apagado excepto 
 -   Cada vez que el contacto óptico de la puerta se activa en condiciones de manipulación o batería baja.
 -   Cada vez que el Contacto de Puerta se activa y transmite la señal en el modo de Prueba.
 -   _**Supervisión**_
--   El contacto óptico de puerta transmitirá automáticamente señales de supervisión periódicamente al panel de control en intervalos aleatorios de 30 a 50 minutos en el modo de funcionamiento normal.
+-   El contacto óptico de la puerta transmitirá automáticamente señales de supervisión periódicamente al panel de control en intervalos aleatorios de 30 a 50 minutos en el modo de funcionamiento normal.
 -   Si el panel de control no ha recibido la señal del contacto óptico de la puerta durante un período de tiempo preestablecido, el panel de control indicará que el contacto de la puerta en particular está experimentando un problema de falta de señal.
 -   _**Manibela de encendido**_
 -   Está diseñado para proteger contra la apertura no autorizada de la cubierta. Cuando se activa la manipulación, el contacto óptico de la puerta emitirá una señal al panel de control para informar y el LED también se iluminará.
