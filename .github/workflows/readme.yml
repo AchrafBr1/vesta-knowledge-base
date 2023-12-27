@@ -17,7 +17,7 @@ jobs:
           node-version: 12.x
       - name: Get pushed file name
         run: 
-          echo git diff-tree --no-commit-id --name-only -r ${{ github.sha }}
+          echo git log --name-only
 
       - name: Adding README - Español
         uses: AchrafBr1/translate-readme@main
