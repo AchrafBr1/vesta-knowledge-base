@@ -13,7 +13,7 @@ _**Identifying the parts**_
 1. **LED Indicator**
 2. **Learn / Test Button**
    * Press the Test button to transmit a learn code.
-   * Press the Test button once to enter Test Mode for 3 minutes.
+   * Press the Test button once to enter Test Mode for 3 minutes s.
 3. **Tamper**
 4. **Battery**
 5. **Infrared Detection Area**
