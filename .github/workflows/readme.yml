@@ -1,9 +1,8 @@
-# .github/workflows/gpt-translate.yml
 name: Translate
 
 on:
   issue_comment:
-    types: [ created ]
+    types: [created]
 
 jobs:
   build:
@@ -20,3 +19,4 @@ jobs:
         uses: AchrafBr1/translate-readme@main
         with:
           LANG: es
+          MODEL: ${{ github.event.comment.body }}
