@@ -2,9 +2,8 @@
 name: Translate
 
 on:
-  push:
-    paths:
-      - 'main/**' # Trigger only on changes in the 'main' path
+  issue_comment:
+    types: [ created ]
 
 jobs:
   build:
@@ -15,13 +14,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: Get pushed file name
-        run: |
-        # Get the list of pushed files
-        files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
 
-        # Print the first file (assuming there is only one)
-        echo "Pushed file: $files"
       - name: Adding README - Español
         uses: AchrafBr1/translate-readme@main
         with:
