@@ -18,7 +18,7 @@ jobs:
       - name: Get pushed file name
         run: |
           # Replace 'your-correct-commit-SHA' with the actual commit SHA
-          files=$(git diff --name-only 86f7557418a864209df7fcf0ad02ba269a13c556 ${{ github.sha }})
+          files=$(git diff --name-only '86f7557418a864209df7fcf0ad02ba269a13c556' ${{ github.sha }})
 
           # Print the list of pushed files
           echo "Pushed files: $files"
