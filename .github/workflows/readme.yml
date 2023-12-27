@@ -3,7 +3,7 @@ name: Translate
 
 on:
   issue_comment:
-    types: [ created ]
+    types: [ created, updated ]
 
 jobs:
   build:
