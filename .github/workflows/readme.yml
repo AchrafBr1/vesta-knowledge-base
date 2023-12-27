@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 12.x
       - name: print name
-        uses:
+        run:
           github.event.comment.body
       - name: Adding README - Español
         uses: AchrafBr1/translate-readme@main
