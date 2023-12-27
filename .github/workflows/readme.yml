@@ -1,5 +1,5 @@
 # .github/workflows/gpt-translate.yml
-name: GPT Translate
+name: Translate
 
 on:
   issue_comment:
