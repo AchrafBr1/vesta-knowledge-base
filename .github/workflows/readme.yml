@@ -16,13 +16,9 @@ jobs:
         with:
           node-version: 12.x
       - name: Get pushed file name
-        run: |
-          # Replace 'your-correct-commit-SHA' with the actual commit SHA
-          files=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})
+        run: 
+          git diff-tree --no-commit-id --name-only -r ${{ github.sha }}
 
-          # Print the list of pushed files
-          echo "Pushed files: $files"
-           
       - name: Adding README - Español
         uses: AchrafBr1/translate-readme@main
         with:
