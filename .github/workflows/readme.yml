@@ -4,7 +4,7 @@ name: Translate
 on:
   push:
     paths:
-      - 'main/**' # Trigger only on changes in the 'main' path
+      - '**/*' # Trigger on any file change
 
 jobs:
   build:
