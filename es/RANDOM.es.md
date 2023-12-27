@@ -13,4 +13,4 @@ diseño: portada: visible: tamaño real: título principal: visible: verdadero d
 
 #### 🔍 Utiliza el buscador para poder hacer preguntas naturales, por ejemplo:
 
-"¿A qué altura debo instalar una PIRCAM?"
+          "At which height should I install a PIRCAM?"
