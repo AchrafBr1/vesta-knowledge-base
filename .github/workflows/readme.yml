@@ -17,8 +17,8 @@ jobs:
           node-version: 12.x
       - name: Get pushed file name
         run: |
-          # Get the list of pushed files
-          files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
+          # Replace 'your-correct-commit-SHA' with the actual commit SHA
+          files=$(git diff --name-only 86f7557418a864209df7fcf0ad02ba269a13c556 ${{ github.sha }})
 
           # Print the list of pushed files
           echo "Pushed files: $files"
@@ -28,6 +28,7 @@ jobs:
           for file in $files; do
             # Print the name of each pushed file
             echo "Pushed file name: $(basename $file)"
+          done
           
       - name: Adding README - Español
         uses: AchrafBr1/translate-readme@main
