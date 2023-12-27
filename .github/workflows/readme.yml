@@ -2,9 +2,8 @@
 name: Translate
 
 on:
-  push:
-    paths:
-      - '**/*' # Trigger on any file change
+  issue_comment:
+    types: [ created ]
 
 jobs:
   build:
@@ -15,10 +14,9 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: Get pushed file name
-        run: 
-          git diff-tree --no-commit-id --name-only -r ${{ github.sha }}
-
+      - name: print name
+        uses:
+          github.event.comment.body
       - name: Adding README - Español
         uses: AchrafBr1/translate-readme@main
         with:
