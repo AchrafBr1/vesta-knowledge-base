@@ -18,18 +18,11 @@ jobs:
       - name: Get pushed file name
         run: |
           # Replace 'your-correct-commit-SHA' with the actual commit SHA
-          files=$(git diff --name-only '86f7557418a864209df7fcf0ad02ba269a13c556' ${{ github.sha }})
+          files=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})
 
           # Print the list of pushed files
           echo "Pushed files: $files"
-
-          # Loop through each file (assuming there is only one in this example)
-          IFS=$'\n' # Set Internal Field Separator to newline
-          for file in $files; do
-            # Print the name of each pushed file
-            echo "Pushed file name: $(basename $file)"
-          done
-          
+           
       - name: Adding README - Español
         uses: AchrafBr1/translate-readme@main
         with:
