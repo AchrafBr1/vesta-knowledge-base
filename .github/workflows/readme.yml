@@ -26,19 +26,23 @@ jobs:
 
             # Add translation steps for each language
             echo "Añadiendo $reference - Español"
-            echo "Run translation action for Español using AchrafBr1/translate-readme@main"
-            # Use the correct syntax to run an action, for example:
-            # - name: Run Español Translation
-            #   uses: AchrafBr1/translate-readme@main
-            #   with:
-            #     LANG: es
-            #     MODEL: $reference
+            - name: Run Español Translation
+              uses: AchrafBr1/translate-readme@main
+              with:
+                LANG: es
+                MODEL: $reference
 
             echo "Añadiendo $reference - Frances"
-            echo "Run translation action for Frances using AchrafBr1/translate-readme@main"
-            # Use the correct syntax to run an action for Frances
+            - name: Run Frances Translation
+              uses: AchrafBr1/translate-readme@main
+              with:
+                LANG: fr
+                MODEL: $reference
 
             echo "Añadiendo $reference - Italiano"
-            echo "Run translation action for Italiano using AchrafBr1/translate-readme@main"
-            # Use the correct syntax to run an action for Italiano
+            - name: Run Italiano Translation
+              uses: AchrafBr1/translate-readme@main
+              with:
+                LANG: it
+                MODEL: $reference
           done
