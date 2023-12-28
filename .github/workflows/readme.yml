@@ -20,7 +20,7 @@ jobs:
 
       - name: Loop over references
         run: |
-          references="${{ steps.extract-references.outputs.references }}"
+          references=$(echo "${{ github.event.comment.body }}" | grep -o 'vesta-[0-9]*')
           for ref in $references; do
             echo "Processing reference: $ref"
 
