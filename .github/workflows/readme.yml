@@ -8,41 +8,37 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
+      - uses: actions/checkout@v2
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
 
-      - name: Print Detected References
-        run: echo "${{ github.event.comment.body }}"
+      - name: Extracting references from comment body
+        id: extract-references
+        run: echo "::set-output name=references::$(echo ${{ github.event.comment.body }} | grep -o 'vesta-[0-9]*')"
 
-      - name: Translate References
+      - name: Loop over references
         run: |
-          echo "vesta-006 vesta-007 vesta-008 vesta-009 vesta-010" | tr ' ' '\n' | while read -r reference; do
-            echo "Processing reference: $reference"
+          for ref in ${{ steps.extract-references.outputs.references }}; do
+            echo "Processing reference: $ref"
 
             # Add translation steps for each language
-            echo "Añadiendo $reference - Español"
-            echo "Run Español Translation"
-            echo "uses: AchrafBr1/translate-readme@main" >> $GITHUB_ENV
-            echo "with:" >> $GITHUB_ENV
-            echo "  LANG: es" >> $GITHUB_ENV
-            echo "  MODEL: $reference" >> $GITHUB_ENV
+            - name: Añadiendo $ref - Español
+              uses: AchrafBr1/translate-readme@main
+              with:
+                LANG: es
+                MODEL: $ref
 
-            echo "Añadiendo $reference - Frances"
-            echo "Run Frances Translation"
-            echo "uses: AchrafBr1/translate-readme@main" >> $GITHUB_ENV
-            echo "with:" >> $GITHUB_ENV
-            echo "  LANG: fr" >> $GITHUB_ENV
-            echo "  MODEL: $reference" >> $GITHUB_ENV
+            - name: Añadiendo $ref - Frances
+              uses: AchrafBr1/translate-readme@main
+              with:
+                LANG: fr
+                MODEL: $ref
 
-            echo "Añadiendo $reference - Italiano"
-            echo "Run Italiano Translation"
-            echo "uses: AchrafBr1/translate-readme@main" >> $GITHUB_ENV
-            echo "with:" >> $GITHUB_ENV
-            echo "  LANG: it" >> $GITHUB_ENV
-            echo "  MODEL: $reference" >> $GITHUB_ENV
+            - name: Añadiendo $ref - Italiano
+              uses: AchrafBr1/translate-readme@main
+              with:
+                LANG: it
+                MODEL: $ref
           done
