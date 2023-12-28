@@ -13,15 +13,23 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-
       - name: Imprimir nombre detectado
         run: echo "${{ github.event.comment.body }}"
+        
+      - name: Añadiendo ${{ github.event.comment.body }} - Español
+        uses: AchrafBr1/translate-readme@main
+        with:
+          LANG: es
+          MODEL: ${{ github.event.comment.body }}
+          
+      - name: Añadiendo ${{ github.event.comment.body }} - Frances
+        uses: AchrafBr1/translate-readme@main
+        with:
+          LANG: fr
+          MODEL: ${{ github.event.comment.body }}
 
-      - name: Translate comments
-        run: |
-          for MODEL in $(seq -f "vesta-%03g" 1 10); do
-            echo "Translating using model $MODEL"
-            echo "traduciendo: $MODEL" | AchrafBr1/translate-readme@main --LANG=es --MODEL=$MODEL
-            echo "traduciendo: $MODEL" | AchrafBr1/translate-readme@main --LANG=fr --MODEL=$MODEL
-            echo "traduciendo: $MODEL" | AchrafBr1/translate-readme@main --LANG=it --MODEL=$MODEL
-          done
+      - name: Añadiendo ${{ github.event.comment.body }} - Italiano
+        uses: AchrafBr1/translate-readme@main
+        with:
+          LANG: it
+          MODEL: ${{ github.event.comment.body }}
