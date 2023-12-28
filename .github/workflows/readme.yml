@@ -13,32 +13,30 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
+      - name: Print detected references
+        run: echo "${{ github.event.comment.body }}"
 
-      - name: Extracting references from comment body
-        id: extract-references
-        run: echo "::set-output name=references::$(echo ${{ github.event.comment.body }} | grep -o 'vesta-[0-9]*')"
-
-      - name: Loop over references
+      - name: Translate references
         run: |
-          for ref in ${{ steps.extract-references.outputs.references }}; do
-            echo "Processing reference: $ref"
+          for reference in ${{ split(' ', github.event.comment.body) }}; do
+            echo "Processing reference: $reference"
 
             # Add translation steps for each language
-            - name: Añadiendo $ref - Español
-              uses: AchrafBr1/translate-readme@main
-              with:
-                LANG: es
-                MODEL: $ref
+            echo "Añadiendo $reference - Español"
+            uses: AchrafBr1/translate-readme@main
+            with:
+              LANG: es
+              MODEL: $reference
 
-            - name: Añadiendo $ref - Frances
-              uses: AchrafBr1/translate-readme@main
-              with:
-                LANG: fr
-                MODEL: $ref
+            echo "Añadiendo $reference - Frances"
+            uses: AchrafBr1/translate-readme@main
+            with:
+              LANG: fr
+              MODEL: $reference
 
-            - name: Añadiendo $ref - Italiano
-              uses: AchrafBr1/translate-readme@main
-              with:
-                LANG: it
-                MODEL: $ref
+            echo "Añadiendo $reference - Italiano"
+            uses: AchrafBr1/translate-readme@main
+            with:
+              LANG: it
+              MODEL: $reference
           done
