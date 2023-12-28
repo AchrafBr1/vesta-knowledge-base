@@ -13,30 +13,34 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
+      - name: Imprimir nombre detectado
+        run: echo "${{ github.event.comment.body }}"
 
-
-      - name: Loop over references
+      - name: Loop through models
+        id: loop
         run: |
-          references=$(echo "${{ github.event.comment.body }}" | grep -o 'vesta-[0-9]*')
-          for ref in $references; do
-            echo "Processing reference: $ref"
-
-            # Add translation steps for each language
-            - name: "Añadiendo $ref - Español"
-              uses: AchrafBr1/translate-readme@main
-              with:
-                LANG: es
-                MODEL: $ref
-
-            - name: "Añadiendo $ref - Frances"
-              uses: AchrafBr1/translate-readme@main
-              with:
-                LANG: fr
-                MODEL: $ref
-
-            - name: "Añadiendo $ref - Italiano"
-              uses: AchrafBr1/translate-readme@main
-              with:
-                LANG: it
-                MODEL: $ref
+          for i in {6..10}; do
+            echo "Model: vesta-$(printf "%03d" $i)"
+            echo "::set-output name=model::vesta-$(printf "%03d" $i)"
+            if [[ "$i" -eq 1 ]]; then
+              break
+            fi
           done
+
+      - name: Añadiendo ${{ github.event.comment.body }} - Español
+        uses: AchrafBr1/translate-readme@main
+        with:
+          LANG: es
+          MODEL: ${{ steps.loop.outputs.model }}
+
+      - name: Añadiendo ${{ github.event.comment.body }} - Frances
+        uses: AchrafBr1/translate-readme@main
+        with:
+          LANG: fr
+          MODEL: ${{ steps.loop.outputs.model }}
+
+      - name: Añadiendo ${{ github.event.comment.body }} - Italiano
+        uses: AchrafBr1/translate-readme@main
+        with:
+          LANG: it
+          MODEL: ${{ steps.loop.outputs.model }}
