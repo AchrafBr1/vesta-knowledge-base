@@ -61,7 +61,7 @@ El enlace del puente se inserta conectando los dos pines.
 
 ![jumper open](<.gitbook/assets/3 (3).png>)![jumper close](<.gitbook/assets/4 (3).png>)
 
-**Puente apagado**
+**Jumper Off**
 
 si se elimina el enlace del puente o "**estacionado**”en un alfiler.
 
@@ -124,7 +124,7 @@ La cámara PIR realizará una autoprueba periódicamente transmitiendo una seña
 -   Inserte las baterías. Oriente la batería según la indicación de polaridad.
 -   Coloque el Panel de control en modo de aprendizaje; consulte el manual del Panel de control para obtener más detalles.
 -   Mantenga presionado el botón de función durante 3 segundos, suelte el botón cuando se encienda el LED azul. (Para el panel que funciona con baterías, después de presionar y mantener presionado el botón de función durante 3 segundos, presione el botón de función**de nuevo**por un segundo.)
--   El LED azul se encenderá durante 25 segundos en modo de aprendizaje; agregue la cámara PIR al Panel de control durante este período (consulte su Panel de control para finalizar el proceso de aprendizaje). Si el PIR se agrega exitosamente al Panel de control, el LED azul parpadeará 6 veces para indicarlo. Si no se agrega PIR en 25 segundos, repita el proceso de aprendizaje.
+-   El LED azul se encenderá durante 25 segundos en modo de aprendizaje; agregue la cámara PIR al panel de control durante este período (consulte su panel de control para finalizar el proceso de aprendizaje). Si el PIR se agrega exitosamente al Panel de control, el LED azul parpadeará 6 veces para indicarlo. Si no se agrega PIR en 25 segundos, repita el proceso de aprendizaje.
 
 \\<Note>
 
@@ -163,11 +163,11 @@ La cámara PIR realizará una autoprueba periódicamente transmitiendo una seña
 -   Evite grandes obstáculos en el área de detección.
 -   No apuntar directamente a fuentes de calor, p. Fuegos o calderas, y no encima de radiadores.
 -   Evite mover objetos en el área de detección, como cortinas, tapices de pared, etc.
--   **Asegúrese de mantener siempre la intensidad de la señal RSSI estable en “4”.**
+-   **Asegúrese de mantener siempre la intensidad de la señal RSSI estable en "4".**
 -   ![852 r3 knockouts](<.gitbook/assets/6 (2).jpeg>)_Montaje de la cámara PIR_
 -   El PIR está diseñado para montarse en una superficie plana o en una esquina con los tornillos y tapones de fijación incluidos.
 -   Para el montaje en esquina, se proporciona un soporte triangular para agregar protección contra manipulación trasera. El soporte también incluye dos orificios ciegos para montar en la pared.
--   Para montaje en superficie, se proporciona un soporte giratorio opcional para que los usuarios ajusten el rango de detección. Con el soporte giratorio, el VST-862 se puede girar 80 grados horizontalmente y 70 grados verticalmente para brindar una cobertura óptima.
+-   Para montaje en superficie, se proporciona un soporte giratorio opcional para que los usuarios ajusten el rango de detección. Con el soporte giratorio, el VST-862 se puede girar 80 grados horizontalmente y 70 grados verticalmente para proporcionar una cobertura óptima.
 -   **Montaje en esquina:**
 
 1.  Rompe los dos orificios ciegos del soporte triangular.
