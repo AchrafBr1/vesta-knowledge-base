@@ -23,22 +23,13 @@ jobs:
             
             # Acciones de traducción para Español
             echo "Añadiendo $model - Español"
-            uses: AchrafBr1/translate-readme@main
-            with:
-              LANG: es
-              MODEL: $model
+            npx AchrafBr1/translate-readme@main es $model
             
             # Acciones de traducción para Francés
             echo "Añadiendo $model - Francés"
-            uses: AchrafBr1/translate-readme@main
-            with:
-              LANG: fr
-              MODEL: $model
+            npx AchrafBr1/translate-readme@main fr $model
             
             # Acciones de traducción para Italiano
             echo "Añadiendo $model - Italiano"
-            uses: AchrafBr1/translate-readme@main
-            with:
-              LANG: it
-              MODEL: $model
+            npx AchrafBr1/translate-readme@main it $model
           done
