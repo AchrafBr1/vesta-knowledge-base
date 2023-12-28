@@ -6,9 +6,9 @@
 
 VST-862 est une caméra à capteur de mouvement infrarouge passif (PIR). Il est capable d'envoyer des signaux sans fil et des images capturées (qualité d'image jusqu'à 640 x 480 pixels) au panneau de commande lors de la détection de mouvement.
 
-La caméra PIR est conçue pour offrir une portée de détection typique de 12 mètres lorsqu'elle est montée à 2 mètres au-dessus du sol. Pour les modèles immunisés contre les animaux, une portée de 7 mètres est fournie, vos animaux domestiques ne déclencheront pas de fausses alarmes à cette distance. Pour les modèles compatibles avec le répéteur RP-29/le routeur RMB-29 de Climax**(Modèles P5 uniquement)**, la portée de communication RF peut être encore étendue dans les zones difficiles d'accès.
+La caméra PIR est conçue pour offrir une portée de détection typique de 12 mètres lorsqu'elle est montée à 2 mètres au-dessus du sol. Pour les modèles immunisés contre les animaux, une portée de 7 mètres est fournie, vos animaux domestiques ne déclencheront pas de fausses alarmes à cette distance. Pour les modèles compatibles avec le répéteur RP-29/routeur RMB-29 de Climax**(Modèles P5 uniquement)**, la portée de communication RF peut être encore étendue dans les zones difficiles d'accès.
 
-La caméra PIR se compose d'une conception en deux parties composée d'un couvercle et d'une base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre le montage sur une surface plane ou dans un coin avec un support triangulaire pour le montage en coin.
+La caméra PIR se compose d'une conception en deux parties composée d'un couvercle et d'une base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un coin avec un support triangulaire pour un montage en coin.
 
 -   La série VST-862 comprend les modèles suivants :
 
@@ -29,7 +29,7 @@ La LED flash (pour 862(P)) ou la LED infrarouge (pour 862(P)-IL) fournit suffisa
 
 **LED bleue :**
 
-(Please refer to _**Indicateur LED**_description ci-dessous pour plus de détails)
+(Prière de se référer à_**Indicateur LED**_description ci-dessous pour plus de détails)
 
 **Utilisation du bouton de fonction :**
 
@@ -88,7 +88,7 @@ Lorsque le système d'alarme est armé, la caméra PIR capturera 1, 3 ou 6 image
 
 -   _**Période d'échauffement**_
 
-Lorsque le système du panneau de commande passe en mode armé ou lorsque la caméra PIR est mise en mode test, la caméra PIR se réchauffe pendant 30 secondes. Pendant la période de préchauffage de 30 secondes, la caméra PIR ne sera pas activée. La LED bleue clignotera lentement pendant la période de préchauffage uniquement lorsque le PIR entre en mode test.
+When the Control Panel system enters arm mode, or when PIR Camera is put into Test Mode, the PIR Camera will warm up for 30 seconds. During the 30-second warm up period, the PIR Camera will not be activated. The Blue LED will slow flash during the warm up period only when PIR enters for Test Mode.
 
 -   _**Minuterie de mise en veille**_
 
@@ -114,7 +114,7 @@ La caméra PIR effectuera périodiquement un auto-test en transmettant un signal
 -   Le mode test vous permet de vérifier la plage de détection de la caméra PIR (et non la couverture de prise de vue).
 -   Appuyez une fois sur le bouton Fonction pour passer en mode Test pendant 3 minutes, la LED bleue clignotera pendant 1 seconde.
 -   La caméra PIR se réchauffera pendant 30 secondes. Veuillez ne pas déclencher la caméra pendant cette période d'échauffement.
--   Après la période d'échauffement, vous pouvez déclencher la caméra PIR pour vérifier la plage de détection IR. Si la caméra PIR est déclenchée, la LED bleue clignote pendant 2 secondes.
+-   Après la période de préchauffage, vous pouvez déclencher la caméra PIR pour vérifier la plage de détection IR. Si la caméra PIR est déclenchée, la LED bleue clignote pendant 2 secondes.
 
 \\<Note>
 
@@ -161,7 +161,7 @@ La caméra PIR effectuera périodiquement un auto-test en transmettant un signal
 -   N'installez pas la caméra PIR complètement exposée à la lumière directe du soleil.
 -   Évitez d'installer la caméra PIR dans des zones où les appareils peuvent provoquer un changement rapide de température dans la zone de détection, c'est-à-dire un climatiseur, un chauffage, etc.
 -   Évitez les gros obstacles dans la zone de détection.
--   Ne pas pointer directement vers des sources de chaleur, par ex. Feux ou chaudières, et pas au-dessus des radiateurs.
+-   Not pointing directly at sources of heat e.g. Fires or boilers, and not above radiators.
 -   Évitez de déplacer des objets dans la zone de détection, par exemple un rideau, une tenture murale, etc.
 -   **Assurez-vous de toujours maintenir la force du signal RSSI stable à « 4 ».**
 -   ![852 r3 knockouts](<.gitbook/assets/6 (2).jpeg>)_Montage de la caméra PIR_
