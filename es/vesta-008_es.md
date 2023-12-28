@@ -17,7 +17,7 @@ La cámara PIR consta de un diseño de dos partes formada por una cubierta y una
 | VST-862-(P5)          | EN                   |                    |                           | Sólo modelo P5               |
 | VST-862-IL-(P5)       |                      | EN                 |                           | Sólo modelo P5               |
 | VST-862P-(P5)         | EN                   |                    | EN                        | Sólo modelo P5               |
-| VST-862P-IL-(P5)      |                      | EN                 | EN                        | Sólo modelo P5               |
+| VST-862P-IL-(P5)      |                      | EN                 | V                         | Sólo modelo P5               |
 
 -   ![852Pro R8_20160629](<.gitbook/assets/0 (1).jpeg>)Identificación de piezas
 
@@ -70,7 +70,7 @@ si se elimina el enlace del puente o "**estacionado**”en un alfiler.
 El enlace del puente se inserta conectando los dos pines.
 
 -   Puente encendido: Después de la detección de movimiento, la cámara PIR no entra en modo de suspensión y transmitirá la señal de detección nuevamente inmediatamente si se activa (**Predeterminado de fábrica**).
--   Puente apagado: la cámara PIR tiene un "**hora de dormir**”de aproximadamente 1 minuto después de la detección de movimiento para ahorrar energía.
+-   Puente apagado: la cámara PIR tiene un "**sleep time**”de aproximadamente 1 minuto después de la detección de movimiento para ahorrar energía.
 -   Características
 -   _**Indicador LED**_
 
