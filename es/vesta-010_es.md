@@ -6,7 +6,7 @@
 
 -   El teclado remoto incluye los siguientes modelos:
 -   KP-15 / KP-15-F1: Teclado remoto con interruptor de manipulación
--   KP-15-NT / KP-15-NT-F1: Remote Keypad without Tamper Switch
+-   KP-15-NT / KP-15-NT-F1: Teclado remoto sin interruptor antisabotaje
 -   _**Identificación de piezas**_
 
 ![](<.gitbook/assets/0 (4).png>)
@@ -84,12 +84,12 @@
 -   Antes del envío, la batería viene preinstalada de fábrica.
 -   _**Protección contra manipulación:**_
 -   El teclado está protegido contra cualquier intento de abrir la tapa o separar el teclado de su superficie de montaje.
--   La protección contra manipulaciones está desactivada cuando está en modo de prueba.
+-   La protección contra manipulaciones está desactivada en el modo de prueba.
 -   Cuando se activa la manipulación del teclado, enviará una señal de falla de manipulación del KP al panel de control y el LED naranja de falla se encenderá. Además, durante el uso del teclado, el LED de falla naranja permanecerá encendido para indicar la falla de manipulación del KP.
 -   _**Función de ahorro de energía:**_
 -   Cuando el teclado no se utiliza, no se consume energía. Cada vez que se presiona una tecla, el teclado se activará y "**despertar**”durante 5 segundos cuando se presiona cualquier tecla.
 -   Después de 5 segundos de inactividad de la tecla, la alimentación se apaga nuevamente y vuelve al modo de espera.
--   Al finalizar una entrada de comando, la alimentación se apaga y vuelve al modo de espera.
+-   Al finalizar la entrada de un comando, la alimentación se apaga y vuelve al modo de espera.
 -   _**Modo de prueba:**_
 -   El teclado se puede poner en modo de prueba ingresando el código PIN (predeterminado:**0000**) seguido por \*. El LED verde activo parpadeará y el teclado emitirá un pitido largo.
 -   Para salir del modo de prueba, presione![](<.gitbook/assets/5 (5).png>)**dos veces**, El teclado emitirá un pitido largo y el LED verde activo se encenderá, luego el teclado volverá al modo de funcionamiento normal.
@@ -104,7 +104,7 @@ _El**Modo de prueba del teclado**permite las siguientes funciones:_
 
 -   -   -   -   -   Transmitir la señal de aprendizaje del teclado: presione ＊ y luego**1**
                 -   Habilitación de alarma de pánico con dos teclas: presione ＊ y luego**2**
-                -   Habilitación de alarma contra incendios con dos teclas: presione ＊ y luego**3**
+                -   Habilitar alarma contra incendios con dos teclas: presione ＊ y luego**3**
                 -   Habilitación de alarma médica de doble tecla: presione ＊ y luego**4**
                 -   Cambie el código PIN: presione ＊ y luego**6**
 
@@ -138,7 +138,7 @@ Paso 2. Agregar teclado al Panel de control:
 
 1.  Consulte el manual del Panel de control para completar el proceso de aprendizaje.
 
-**Aprendizaje de doble clave:**
+**Aprendizaje de doble tecla:**
 
 1.  Presione ambos**#**y ＊ juntas en el modo de funcionamiento normal. El teclado remoto emitirá un pitido largo.
 
@@ -178,7 +178,7 @@ Después de terminar de aprender el teclado en el panel de control del sistema d
 
 Hay dos formas de armar el sistema.
 
-1.  Armar Ausente / Casa Armar el sistema ingresando el Código PIN de Usuario del Panel de Control.
+1.  Armar Ausente / Casa Armar el sistema ingresando el código PIN de usuario del panel de control.
 2.  Armar Ausente / Casa Armar el sistema sin ingresar el código PIN de usuario del panel de control.
 
 Para desarmar el sistema siempre es necesario ingresar el código PIN del usuario del panel de control.
