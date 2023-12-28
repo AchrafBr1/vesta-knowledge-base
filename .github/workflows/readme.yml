@@ -13,26 +13,15 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
+
       - name: Imprimir nombre detectado
         run: echo "${{ github.event.comment.body }}"
 
-      - name: Loop through models
-        id: loop
+      - name: Translate comments
         run: |
-          for i in {1..500}; do
-            echo "Model: vesta-$(printf "%03d" $i)"
-            echo "::set-output name=model::vesta-$(printf "%03d" $i)"
-          done
-
-      - name: Añadir traducciones
-        run: |
-          for model in ${{ steps.loop.outputs.model }}; do
-            echo "Model: $model"
-            # Añadir aquí tus pasos de traducción para cada modelo
-            # Ejemplo:
-             - name: Añadiendo ${{ github.event.comment.body }} - Español
-               uses: AchrafBr1/translate-readme@main
-               with:
-                 LANG: es
-                 MODEL: $model
+          for MODEL in $(seq -f "vesta-%03g" 1 10); do
+            echo "Translating using model $MODEL"
+            echo "traduciendo: $MODEL" | AchrafBr1/translate-readme@main --LANG=es --MODEL=$MODEL
+            echo "traduciendo: $MODEL" | AchrafBr1/translate-readme@main --LANG=fr --MODEL=$MODEL
+            echo "traduciendo: $MODEL" | AchrafBr1/translate-readme@main --LANG=it --MODEL=$MODEL
           done
