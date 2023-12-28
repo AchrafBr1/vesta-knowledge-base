@@ -19,28 +19,20 @@ jobs:
       - name: Loop through models
         id: loop
         run: |
-          for i in {6..10}; do
+          for i in {1..500}; do
             echo "Model: vesta-$(printf "%03d" $i)"
             echo "::set-output name=model::vesta-$(printf "%03d" $i)"
-            if [[ "$i" -eq 1 ]]; then
-              break
-            fi
           done
 
-      - name: Añadiendo ${{ github.event.comment.body }} - Español
-        uses: AchrafBr1/translate-readme@main
-        with:
-          LANG: es
-          MODEL: ${{ steps.loop.outputs.model }}
-
-      - name: Añadiendo ${{ github.event.comment.body }} - Frances
-        uses: AchrafBr1/translate-readme@main
-        with:
-          LANG: fr
-          MODEL: ${{ steps.loop.outputs.model }}
-
-      - name: Añadiendo ${{ github.event.comment.body }} - Italiano
-        uses: AchrafBr1/translate-readme@main
-        with:
-          LANG: it
-          MODEL: ${{ steps.loop.outputs.model }}
+      - name: Añadir traducciones
+        run: |
+          for model in ${{ steps.loop.outputs.model }}; do
+            echo "Model: $model"
+            # Añadir aquí tus pasos de traducción para cada modelo
+            # Ejemplo:
+             - name: Añadiendo ${{ github.event.comment.body }} - Español
+               uses: AchrafBr1/translate-readme@main
+               with:
+                 LANG: es
+                 MODEL: $model
+          done
