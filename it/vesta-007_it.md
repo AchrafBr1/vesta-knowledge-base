@@ -14,10 +14,10 @@ La telecamera PIR è costituita da un design in due parti composto da una copert
 
 | **Nome del modello** | **LED lampeggiante** | **LED a infrarossi** | **Immune agli animali domestici** | **Compatibile con ripetitore** |
 | -------------------- | -------------------- | -------------------- | --------------------------------- | ------------------------------ |
-| VST-862-(P5)         | V                    |                      |                                   | Solo modello P5                |
-| VST-862-IL-(P5)      |                      | IN                   |                                   | P5 model only                  |
+| VST-862-(P5)         | IN                   |                      |                                   | Solo modello P5                |
+| VST-862-IL-(P5)      |                      | IN                   |                                   | Solo modello P5                |
 | VST-862P-(P5)        | IN                   |                      | IN                                | Solo modello P5                |
-| VST-862P-IL-(P5)     |                      | V                    | IN                                | Solo modello P5                |
+| VST-862P-IL-(P5)     |                      | IN                   | IN                                | Solo modello P5                |
 
 -   ![852Pro R8_20160629](.gitbook/assets/0.jpeg)Identificazione delle parti
 
@@ -48,11 +48,11 @@ Il LED flash (per 862(P)) o il LED a infrarossi (per 862(P)-IL) forniscono luce 
 
 **Ponticello spento**
 
-se il collegamento del ponticello viene rimosso o “**parcheggiato**" su un perno.
+se il collegamento del ponticello viene rimosso o “**parcheggiato**"su un perno.
 
 **Ponticello acceso**
 
-Il ponticello viene inserito collegando i due pin.
+Il collegamento del ponticello viene inserito collegando i due pin.
 
 -   Jumper On: il livello di sensibilità del PIR è impostato su Alto.
 -   Jumper Off: il livello di sensibilità del PIR è impostato su Normale. (**Impostazione di fabbrica**)
@@ -63,11 +63,11 @@ Il ponticello viene inserito collegando i due pin.
 
 **Ponticello spento**
 
-se il collegamento del ponticello viene rimosso o “**parcheggiato**" su un perno.
+se il collegamento del ponticello viene rimosso o “**parcheggiato**"su un perno.
 
 **Ponticello acceso**
 
-Il ponticello viene inserito collegando i due pin.
+Il collegamento del ponticello viene inserito collegando i due pin.
 
 -   Jumper On: Dopo il rilevamento del movimento, la telecamera PIR non entra in modalità di sospensione e trasmetterà nuovamente il segnale di rilevamento immediatamente se attivata (**Impostazione di fabbrica**).
 -   Jumper disattivato: la telecamera PIR ha un "**ora di dormire**" di circa 1 minuto dopo il rilevamento del movimento per risparmiare energia.
@@ -131,7 +131,7 @@ La telecamera PIR effettuerà periodicamente un autotest trasmettendo un segnale
 -   Se la telecamera PIR esiste già in un sistema di pannello di controllo, sarà necessario rimuovere la telecamera PIR dal pannello di controllo prima di poterla acquisire in un pannello di controllo diverso.
 -   Quando si apprende la telecamera PIR in un ripetitore/router, premere una volta il pulsante funzione (invece di tenerlo premuto per 3 secondi) per inviare un codice di apprendimento. (Solo modelli P5)
 -   _Prova della camminata_
--   Dopo aver appreso la telecamera PIR, inserire il pannello di controllo in "**Prova della camminata**", tenere la telecamera PIR nella posizione desiderata e premere il pulsante funzione per confermare che questa posizione rientra nel raggio del segnale del pannello di controllo, fare riferimento al manuale del pannello di controllo per completare il test di copertura.
+-   Dopo aver appreso la telecamera PIR, inserire il pannello di controllo in “**Prova della camminata**", tenere la telecamera PIR nella posizione desiderata e premere il pulsante funzione per confermare che questa posizione rientra nel raggio del segnale del pannello di controllo, fare riferimento al manuale del pannello di controllo per completare il test di copertura.
 -   Quando sei soddisfatto che la telecamera PIR funzioni nella posizione scelta, puoi procedere al montaggio.
 -   _**Modifica l'area operativa della telecamera PIR**_
 -   Seguire le istruzioni di seguito per modificare l'area della telecamera PIR nel pannello di controllo
