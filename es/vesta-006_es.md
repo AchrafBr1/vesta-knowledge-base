@@ -33,7 +33,7 @@ En el modo de funcionamiento normal, el indicador LED permanece apagado excepto 
 -   Está diseñado para proteger contra la apertura no autorizada de la cubierta. Cuando se activa la manipulación, el contacto óptico de la puerta emitirá una señal al panel de control para informar y el LED también se iluminará.
 -   _**Batería**_
 
-The Optical Door Contact uses one **Batería alcalina AAA de 1,5 V**como fuente de energía y también es capaz de detectar batería baja. Cuando la batería está baja, se enviará una señal de batería baja al panel de control junto con una transmisión regular. El LED se iluminará cuando el contacto de puerta se active en estado de batería baja. Cuando la batería se agota, el contacto óptico de la puerta detendrá todas sus funciones y el LED parpadeará cada 4 segundos.
+El contacto óptico de puerta utiliza uno**Batería alcalina AAA de 1,5 V**como fuente de energía y también es capaz de detectar batería baja. Cuando la batería está baja, se enviará una señal de batería baja al panel de control junto con una transmisión regular. El LED se iluminará cuando el contacto de puerta se active en estado de batería baja. Cuando la batería se agota, el contacto óptico de la puerta detendrá todas sus funciones y el LED parpadeará cada 4 segundos.
 
 -   _**Cambio de batería**_
 
