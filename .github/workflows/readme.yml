@@ -22,21 +22,21 @@ jobs:
             echo "Processing reference: $ref"
 
             # Add translation steps for each language
-            echo "Añadiendo $ref - Español"
-            uses: AchrafBr1/translate-readme@main
-            with:
-              LANG: es
-              MODEL: $ref
+            - name: "Añadiendo $ref - Español"
+              uses: AchrafBr1/translate-readme@main
+              with:
+                LANG: es
+                MODEL: $ref
 
-            echo "Añadiendo $ref - Frances"
-            uses: AchrafBr1/translate-readme@main
-            with:
-              LANG: fr
-              MODEL: $ref
+            - name: "Añadiendo $ref - Frances"
+              uses: AchrafBr1/translate-readme@main
+              with:
+                LANG: fr
+                MODEL: $ref
 
-            echo "Añadiendo $ref - Italiano"
-            uses: AchrafBr1/translate-readme@main
-            with:
-              LANG: it
-              MODEL: $ref
+            - name: "Añadiendo $ref - Italiano"
+              uses: AchrafBr1/translate-readme@main
+              with:
+                LANG: it
+                MODEL: $ref
           done
