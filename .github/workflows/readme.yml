@@ -14,9 +14,6 @@ jobs:
         with:
           node-version: 12.x
 
-      - name: Extracting references from comment body
-        id: extract-references
-        run: echo "::set-output name=references::$(echo ${{ github.event.comment.body }} | grep -o 'vesta-[0-9]*')"
 
       - name: Loop over references
         run: |
