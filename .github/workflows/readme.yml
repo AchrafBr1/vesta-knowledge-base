@@ -13,10 +13,23 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: print name
+      - name: Imprimir nombre detectado
         run: echo "${{ github.event.comment.body }}"
-      - name: Adding README - Español
+        
+      - name: Añadiendo ${{ github.event.comment.body }} - Español
         uses: AchrafBr1/translate-readme@main
         with:
           LANG: es
+          MODEL: ${{ github.event.comment.body }}
+          
+      - name: Añadiendo ${{ github.event.comment.body }} - Frances
+        uses: AchrafBr1/translate-readme@main
+        with:
+          LANG: fr
+          MODEL: ${{ github.event.comment.body }}
+
+      - name: Añadiendo ${{ github.event.comment.body }} - Italiano
+        uses: AchrafBr1/translate-readme@main
+        with:
+          LANG: it
           MODEL: ${{ github.event.comment.body }}
