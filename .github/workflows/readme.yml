@@ -27,22 +27,22 @@ jobs:
             # Add translation steps for each language
             echo "Añadiendo $reference - Español"
             echo "Run Español Translation"
-            uses: AchrafBr1/translate-readme@main
-            with:
-              LANG: es
-              MODEL: $reference
+            echo "uses: AchrafBr1/translate-readme@main" >> $GITHUB_ENV
+            echo "with:" >> $GITHUB_ENV
+            echo "  LANG: es" >> $GITHUB_ENV
+            echo "  MODEL: $reference" >> $GITHUB_ENV
 
             echo "Añadiendo $reference - Frances"
             echo "Run Frances Translation"
-            uses: AchrafBr1/translate-readme@main
-            with:
-              LANG: fr
-              MODEL: $reference
+            echo "uses: AchrafBr1/translate-readme@main" >> $GITHUB_ENV
+            echo "with:" >> $GITHUB_ENV
+            echo "  LANG: fr" >> $GITHUB_ENV
+            echo "  MODEL: $reference" >> $GITHUB_ENV
 
             echo "Añadiendo $reference - Italiano"
             echo "Run Italiano Translation"
-            uses: AchrafBr1/translate-readme@main
-            with:
-              LANG: it
-              MODEL: $reference
+            echo "uses: AchrafBr1/translate-readme@main" >> $GITHUB_ENV
+            echo "with:" >> $GITHUB_ENV
+            echo "  LANG: it" >> $GITHUB_ENV
+            echo "  MODEL: $reference" >> $GITHUB_ENV
           done
