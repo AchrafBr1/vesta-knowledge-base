@@ -26,23 +26,20 @@ jobs:
 
             # Add translation steps for each language
             echo "Añadiendo $reference - Español"
-            - name: Run Español Translation
-              uses: AchrafBr1/translate-readme@main
-              with:
-                LANG: es
-                MODEL: $reference
+            echo "Run Español Translation"
+            AchrafBr1/translate-readme@main
+            LANG=es
+            MODEL=$reference
 
             echo "Añadiendo $reference - Frances"
-            - name: Run Frances Translation
-              uses: AchrafBr1/translate-readme@main
-              with:
-                LANG: fr
-                MODEL: $reference
+            echo "Run Frances Translation"
+            AchrafBr1/translate-readme@main
+            LANG=fr
+            MODEL=$reference
 
             echo "Añadiendo $reference - Italiano"
-            - name: Run Italiano Translation
-              uses: AchrafBr1/translate-readme@main
-              with:
-                LANG: it
-                MODEL: $reference
+            echo "Run Italiano Translation"
+            AchrafBr1/translate-readme@main
+            LANG=it
+            MODEL=$reference
           done
