@@ -8,34 +8,37 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: Print detected references
+
+      - name: Print Detected References
         run: echo "${{ github.event.comment.body }}"
 
-      - name: Translate references
+      - name: Translate References
         run: |
           echo "${{ github.event.comment.body }}" | tr ' ' '\n' | while read -r reference; do
             echo "Processing reference: $reference"
 
             # Add translation steps for each language
             echo "Añadiendo $reference - Español"
-            run: uses: AchrafBr1/translate-readme@main
+            uses: AchrafBr1/translate-readme@main
             with:
               LANG: es
               MODEL: $reference
 
             echo "Añadiendo $reference - Frances"
-            run: uses: AchrafBr1/translate-readme@main
+            uses: AchrafBr1/translate-readme@main
             with:
               LANG: fr
               MODEL: $reference
 
             echo "Añadiendo $reference - Italiano"
-            run: uses: AchrafBr1/translate-readme@main
+            uses: AchrafBr1/translate-readme@main
             with:
               LANG: it
               MODEL: $reference
