@@ -21,25 +21,28 @@ jobs:
 
       - name: Translate References
         run: |
-          echo "${{ github.event.comment.body }}" | tr ' ' '\n' | while read -r reference; do
+          echo "vesta-006 vesta-007 vesta-008 vesta-009 vesta-010" | tr ' ' '\n' | while read -r reference; do
             echo "Processing reference: $reference"
 
             # Add translation steps for each language
             echo "Añadiendo $reference - Español"
             echo "Run Español Translation"
-            AchrafBr1/translate-readme@main
-            LANG=es
-            MODEL=$reference
+            uses: AchrafBr1/translate-readme@main
+            with:
+              LANG: es
+              MODEL: $reference
 
             echo "Añadiendo $reference - Frances"
             echo "Run Frances Translation"
-            AchrafBr1/translate-readme@main
-            LANG=fr
-            MODEL=$reference
+            uses: AchrafBr1/translate-readme@main
+            with:
+              LANG: fr
+              MODEL: $reference
 
             echo "Añadiendo $reference - Italiano"
             echo "Run Italiano Translation"
-            AchrafBr1/translate-readme@main
-            LANG=it
-            MODEL=$reference
+            uses: AchrafBr1/translate-readme@main
+            with:
+              LANG: it
+              MODEL: $reference
           done
