@@ -1,0 +1,21 @@
+name: Queue Manager
+
+on:
+  workflow_run:
+    workflows: ["translate-workflow"]
+    types:
+      - completed
+
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for lock release
+        id: wait_for_lock
+        run: echo "Waiting for lock" && test -e /tmp/translate_lock
+      - name: Check if workflow completed
+        id: check_workflow
+        run: echo "Workflow completed" && gh run list --json status | jq '.workflow_runs[0].status' | grep -q 'completed'
+      - name: Release lock if previous workflow completed
+        if: steps.check_workflow.outputs.status == 'completed'
+        run: rm -f /tmp/translate_lock
