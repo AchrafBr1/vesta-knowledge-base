@@ -1,16 +1,6 @@
-# ⏰VESTA028
+# VESTA028
 
 DI/DO Module (DIO-52-B)
-
-Simile:
-
-[vesta-155.md](vesta-155.md "mention")
-
-Caratteristiche:
-
-[Frequenza RF: 868 MHz 1 ingresso digitale 1 uscita digitale (carico massimo 2 A a 30 V CC o 0,5 A a 125 V CA) Alimentazione: 5 V~Batteria di backup da 12 V CC: 3 batterie CR123 o 2 batterie AA L91 Durata della batteria di 4,7 anni (CR123), 3,5 anni (L91) Intervallo di temperatura operativa -10°C~+45°C Umidità relativa fino a 85% (senza condensa) Dimensioni: 111 (L) x 91 (A) x 29 mm](#user-content-fn-1)[^1]
-
-NOTA: questo è un manuale per i moduli relè autonomi VESTA. per maggiori informazioni visita bydemes web.
 
 introduzione
 
@@ -60,7 +50,7 @@ I morsetti vengono utilizzati per fissare i cavi e fornire un pressacavo per pro
 
 1.  **Fori di cablaggio**
 
-Caratteristiche
+Features
 
 -   _**Alimentazione elettrica**_
 
@@ -133,7 +123,7 @@ Il terminale di ingresso DI è collegato a un sensore di perdite d'acqua e l'usc
 
 -   **Seguace di input:**
 
-In this mode, the input and output terminals of DIO-52-B are connected to separate devices. The output terminal device is interconnected with the input terminal device.
+In questa modalità, i terminali di ingresso e uscita di DIO-52-B sono collegati a dispositivi separati. Il dispositivo terminale di uscita è interconnesso con il dispositivo terminale di ingresso.
 
 Quando il dispositivo terminale di ingresso viene attivato, il dispositivo terminale di uscita si attiverà in base all'impostazione Segui ingresso uscita. Si prega di fare riferimento alla sezione seguente_**DI and DO Settings**_per dettagli.
 
@@ -198,6 +188,4 @@ DIO-52-B può essere utilizzato su una superficie piana o montato a parete. Dopo
 2.  Allentare la vite di fissaggio inferiore e rimuovere il coperchio superiore di DIO-52-B.
 3.  Utilizzare i fori sulla base per contrassegnare la posizione di montaggio sulla parete.
 4.  Praticare i fori nella posizione contrassegnata e inserire i tasselli se necessario, avvitare la base nella posizione di montaggio.
-5.  Riposizionare il coperchio superiore e serrare la vite di fissaggio inferiore.
-
-[^1]&#x3A;
+5.  Replace the top cover and tighten the bottom fixing screw.
