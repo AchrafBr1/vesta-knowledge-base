@@ -1,5 +1,7 @@
 # VESTA 006
 
+$$f(x) = x * e^{2 pi i \xi x}$$
+
 * Manual del usuario del contacto óptico de puerta (OPDC-1)
 
 El contacto óptico de puerta, que integra un sensor de infrarrojos, monitorea la apertura/cierre de dispositivos específicos (por ejemplo, puerta o ventana). Mediante el uso de tecnología de detección por infrarrojos, el OPDC puede detectar si la puerta o ventana está abierta o cerrada, sin necesidad de un imán adicional. El OPDC transmitirá señales de alarma cuando detecte un cambio y mantendrá su hogar protegido.
