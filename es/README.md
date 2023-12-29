@@ -1,6 +1,6 @@
 # VESTA 006
 
-$$f(x) = x * e^{2 pi i \xi x}$$
+
 
 * Manual del usuario del contacto óptico de puerta (OPDC-1)
 
