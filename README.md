@@ -25,3 +25,9 @@ layout:
 #### 🔍 Use the search engine to be able to ask natural questions, for example:&#x20;
 
 &#x20;          "At which height should I install a PIRCAM?"
+
+
+
+✨  **I am also able to give you step by step support on the platform, here I show you how to configure the APN of a panel:**
+
+{% @arcade/embed flowId="7NazF7Y168alDmWGgmmI" url="https://app.arcade.software/share/7NazF7Y168alDmWGgmmI" %}
