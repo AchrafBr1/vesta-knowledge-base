@@ -17,7 +17,7 @@
 * [VESTA 023](vesta-023.md)
 * [VESTA 026](vesta-026.md)
 * [VESTA 025](vesta-025.md)
-* [⏰ VESTA 028](vesta-028.md)
+* [VESTA 028](vesta-028.md)
 * [VESTA 030](vesta-030.md)
 * [VESTA 031](vesta-031.md)
 * [VESTA 032](vesta-032.md)

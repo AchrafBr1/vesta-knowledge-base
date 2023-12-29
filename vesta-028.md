@@ -1,20 +1,6 @@
-# ⏰ VESTA 028
+# VESTA 028
 
 DI/DO Module (DIO-52-B)
-
-Similar:&#x20;
-
-[vesta-155.md](vesta-155.md "mention")
-
-
-
-Characteristics:&#x20;
-
-[RF frequency: 868MHz 1 digital input 1 digital output (maximum load 2A at 30V DC or 0.5A at 125V AC) Power supply: 5V \~ 12V DC Battery backup: 3 CR123 batteries or 2 L91 AA batteries Battery life of 4.7 years (CR123), 3.5 years (L91) Operating temperature range -10°C \~ +45°C Relative humidity up to 85% (non-condensing) Dimensions: 111 (W) x 91 (H) x 29 mm](#user-content-fn-1)[^1]
-
-
-
-NOTE: This is a manual for VESTA stand-alone relay modules. for more information visit bydemes web.
 
 
 
@@ -205,5 +191,3 @@ DIO-52-B can be deployed on a flat surface or mounted on the wall. After you hav
 3. Use the holes on the base to mark mounting location on the wall.
 4. Drill holes into marked location and insert wall plugs if required, screw the base onto the mounting location.
 5. Replace the top cover and tighten the bottom fixing screw.
-
-[^1]: 
