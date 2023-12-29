@@ -1,16 +1,6 @@
-# ⏰VESTA 028
+# VESTA 028
 
 Module DI/DO (DIO-52-B)
-
-Similaire:
-
-[vesta-155.md](vesta-155.md "mention")
-
-Caractéristiques:
-
-[Fréquence RF : 868 MHz 1 entrée numérique 1 sortie numérique (charge maximale 2 A à 30 V DC ou 0,5 A à 125 V AC) Alimentation : 5 V~12 V DC Batterie de secours : 3 piles CR123 ou 2 piles AA L91 Autonomie des piles de 4,7 ans (CR123), 3,5 ans (L91) Plage de température de fonctionnement -10°C~+45°C Humidité relative jusqu'à 85% (sans condensation) Dimensions : 111 (L) x 91 (H) x 29 mm](#user-content-fn-1)[^1]
-
-REMARQUE : Il s'agit d'un manuel pour les modules de relais autonomes VESTA. pour plus d'informations, visitez le site Web de Bydemes.
 
 Introduction
 
@@ -78,7 +68,7 @@ DIO-52-B transmettra régulièrement un signal de supervision toutes les 30 à 5
 
 -   _Commencer_
 
-1.  Insérez les piles ou connectez l'adaptateur 5-12 V CC à deux fils pour alimenter le DIO-52-B.
+1.  Insert batteries or connect the two-wired 5-12V DC adapter to power on DIO-52-B.
 2.  Mettez le panneau de commande en mode d'apprentissage, reportez-vous au manuel du panneau de commande pour plus de détails.
 3.  Appuyez une fois sur le bouton Test, la LED clignotera 6 fois.
 4.  Si le panneau de commande reçoit le signal, il affichera les informations en conséquence, reportez-vous au manuel du panneau de commande pour terminer le processus d'apprentissage.
@@ -125,7 +115,7 @@ La borne d'entrée DI est connectée à un capteur de fuite d'eau et la sortie D
 | ------------------------------------------------------------------ | ----------------------------------------------------------------- |
 | <img src=".gitbook/assets/5 (11).png" alt="" data-size="original"> | <img src=".gitbook/assets/6 (6).png" alt="" data-size="original"> |
 
-| **Règle domotique**                                               |
+| **Home Automation rule**                                          |
 | ----------------------------------------------------------------- |
 | <img src=".gitbook/assets/7 (4).png" alt="" data-size="original"> |
 
@@ -152,7 +142,7 @@ Après avoir sélectionné le mode « Input Follower » sur la page d'édition
 
 Programmez les paramètres DO dans**FAIRE Modifier l'appareil**sur la page Web du Panel ou sur le serveur du portail d'accueil.
 
-| **Page Web du panneau de configuration**                           | **Serveur de portail domestique**                               |
+| **Page Web du panneau de configuration**                           | **Home Portal Server**                                          |
 | ------------------------------------------------------------------ | --------------------------------------------------------------- |
 | <img src=".gitbook/assets/11 (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/12.jpeg" alt="" data-size="original"> |
 
@@ -199,5 +189,3 @@ Le DIO-52-B peut être déployé sur une surface plane ou monté au mur. Une foi
 3.  Utilisez les trous sur la base pour marquer l'emplacement de montage sur le mur.
 4.  Percez des trous à l'emplacement marqué et insérez des chevilles murales si nécessaire, vissez la base sur l'emplacement de montage.
 5.  Remettez le capot supérieur et serrez la vis de fixation inférieure.
-
-[^1]&#x3A;
