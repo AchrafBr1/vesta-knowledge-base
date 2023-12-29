@@ -1,16 +1,6 @@
-# ⏰ VESTA 028
+# VESTA 028
 
 Módulo DI/DO (DIO-52-B)
-
-Similar:
-
-[vesta-155.md](vesta-155.md "mention")
-
-Características:
-
-[Frecuencia RF: 868 MHz 1 entrada digital 1 salida digital (carga máxima 2 A a 30 V CC o 0,5 A a 125 V CA) Fuente de alimentación: 5 V~Batería de respaldo de 12 VCC: 3 baterías CR123 o 2 baterías L91 AA Duración de la batería de 4,7 años (CR123), 3,5 años (L91) Rango de temperatura de funcionamiento -10 °C~+45°C Humedad relativa hasta 85% (sin condensación) Dimensiones: 111 (An) x 91 (Al) x 29 mm](#user-content-fn-1)[^1]
-
-NOTA: Este es un manual para módulos de relés autónomos VESTA. Para más información visita la web de bydemes.
 
 Introducción
 
@@ -160,7 +150,7 @@ Encendido a través de la aplicación:
 
 -   **Hacer nada**– El dispositivo de salida Do no se puede encender a través de la aplicación.
 -   **No apagues**- El dispositivo de salida Do no se apagará después de encenderlo a través de la APLICACIÓN.
--   **Apagar después de 1-240 seg/5-30 min**– Después de encenderse a través de la APP durante el tiempo seleccionado, el dispositivo de salida Do se apagará.
+-   **Switch off after 1-240 sec/5-30 min**– Después de encenderse a través de la APP durante el tiempo seleccionado, el dispositivo de salida Do se apagará.
 
 Estado para 0: Ingrese la descripción del Estado 0 para el terminal de salida.
 
@@ -199,5 +189,3 @@ DIO-52-B se puede implementar sobre una superficie plana o montarse en la pared.
 3.  Utilice los orificios de la base para marcar la ubicación de montaje en la pared.
 4.  Taladre agujeros en el lugar marcado e inserte tacos de pared si es necesario, atornille la base en el lugar de montaje.
 5.  Vuelva a colocar la cubierta superior y apriete el tornillo de fijación inferior.
-
-[^1]&#x3A;
