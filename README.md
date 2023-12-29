@@ -26,6 +26,8 @@ layout:
 
 &#x20;          "At which height should I install a PIRCAM?"
 
+Aquí hay una errata
+
 
 
 ✨  **I am also able to give you step by step support on the platform, here I show you how to configure the APN of a panel:**
