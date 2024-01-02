@@ -1,10 +1,10 @@
 # VESTA 344
 
-![](<.gitbook/assets/0 (1).png>)**WIEGAND Module (WGT-1-Combo)**
+![](<.gitbook/assets/0 (1) (1).png>)**WIEGAND Module (WGT-1-Combo)**
 
 WGT-1-COMBO is a WIEGAND module that can be connected to HIKVISION Card Reader to covert WIEGAND 26 \[W26] Protocol into RF wireless signals or BUS wired signals. When WIEGAND Card Reader reads a tag for arming/disarming request, WGT-1-COMBO will transmit ARM/Disarm signal with the tag number to the Control Panel.
 
-![](<.gitbook/assets/1 (1).png>)
+![](<.gitbook/assets/1 (1) (1).png>)
 
 * _**Identifying the parts**_
   1. **Pluggable BUS Terminal**
@@ -27,7 +27,7 @@ When the WIEGAND module is connected as the furthest BUS device on a BUS line, p
 
 * **DC 12V Input / GND**
 
-![](<.gitbook/assets/2 (1).png>)
+![](<.gitbook/assets/2 (1) (1).png>)
 
 Connect to 12V 1A power supply.
 

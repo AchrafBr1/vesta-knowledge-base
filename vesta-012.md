@@ -2,13 +2,27 @@
 
 
 
+## CERTIFICATIONS
+
 {% hint style="success" %}
-**CERTIFICATION**: EN50131 Grade 2, Class II
+[**CERTIFICATION**: EN50131 Grade 2, Class II](certificates.md)
 {% endhint %}
 
+## QUICK GUIDE
 
 
-REMOTE KEYPAD (KPT-39N)
+
+
+
+
+
+
+
+
+
+## MANUAL
+
+&#x20;     REMOTE KEYPAD (KPT-39N)
 
 * _**Parts Identification**_
 
