@@ -12,7 +12,7 @@ VST-892 is designed with the digital proximity detector. The anti-masking featur
 
 The PIR Camera consists of a two-part design made up of a cover and a base. The cover contains all the electronics and optics and the base provides a means of fixing. The base has knockouts to allow mounting on either a flat surface or in a corner situation with a triangular bracket for corner mounting.
 
-* ![](<.gitbook/assets/0 (1).png>)
+* ![](<.gitbook/assets/0 (1) (1).png>)
 * Parts Identification
 
 1. **Flash LED**
@@ -38,10 +38,10 @@ The digital proximity detector is used to detect any masking (blocking) attempt 
 1. **IR Sensor**
 2. **PIR Camera Lens**
 3. **Battery Compartment**
-4. ![](<.gitbook/assets/1 (1).png>)**Tamper Switch**
+4. ![](<.gitbook/assets/1 (1) (1).png>)**Tamper Switch**
 5. **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
-![jumper open](<.gitbook/assets/2 (1).png>) ![jumper close](<.gitbook/assets/3 (1).png>)
+![jumper open](<.gitbook/assets/2 (1) (1).png>) ![jumper close](<.gitbook/assets/3 (1) (1).png>)
 
 **Jumper Off**
 
@@ -157,7 +157,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 
 VST-892 **Detection Range**
 
-![](<.gitbook/assets/4 (1).png>)
+![](<.gitbook/assets/4 (1) (1).png>)
 
 **It is recommended to install the PIR Camera in the following locations**
 
@@ -170,7 +170,7 @@ VST-892 **Detection Range**
 * **Limitations**
 * Do not install the PIR Camera completely exposed to direct sunlight.
 * Avoid installing the PIR Camera in areas where devices may cause rapid change of temperature in the detection area, i.e. air conditioner, heaters, etc.
-* ![](.gitbook/assets/5.png)Avoid large obstacles in the detection area.
+* ![](<.gitbook/assets/5 (9).png>)Avoid large obstacles in the detection area.
 * Not pointing directly at sources of heat e.g. Fires or boilers, and not above radiators.
 * Avoid moving objects in the detection area i.e. curtain, wall hanging etc.
 * **Be sure to always remain the RSSI signal strength steady at “4”.**
@@ -193,14 +193,14 @@ VST-892 **Detection Range**
 2. Use the two holes as template to drill holes on the corner surface.
 3. Insert the wall plugs.
 4. Screw the triangular bracket into the wall plugs with _the two pointing sticks (E)_ on top facing you.
-5. ![triangular bracket](.gitbook/assets/6.jpeg)![](.gitbook/assets/7.png)Fit the PIR Camera onto the hooks of the triangular bracket.
+5. ![triangular bracket](<.gitbook/assets/6 (8).jpeg>)![](<.gitbook/assets/7 (7).png>)Fit the PIR Camera onto the hooks of the triangular bracket.
 
 * **Surface mounting:**
 
 1. Open the cover by loosening the Cover Screw using a Philips screwdriver.
 2. Break through the 2 Surface knockouts at the center of base.
 3. Use the holes as template to drill holes on the surface.
-4. ![](.gitbook/assets/8.png)Insert the wall plugs if fixing it into plaster or brick.
+4. ![](<.gitbook/assets/8 (8).png>)Insert the wall plugs if fixing it into plaster or brick.
 5. Screw the base into the wall plugs.
 6. Fit the cover onto the base and tighten.
 

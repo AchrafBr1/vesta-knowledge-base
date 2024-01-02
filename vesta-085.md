@@ -62,7 +62,7 @@ In Normal operation mode, the LED indicator remains off except in the following 
 
 **Step 1:** The mounting surface should be clean, dry, and smooth. Clean the mounting surface with
 
-![](<.gitbook/assets/1 (8).jpeg>)a suitable degreaser if needed.
+![](<.gitbook/assets/1 (8) (1).jpeg>)a suitable degreaser if needed.
 
 **Step 2:** Remove paper backing of the adhesive tape on the back of the Door Contact.
 

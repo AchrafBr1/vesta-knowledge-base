@@ -28,7 +28,7 @@ SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wirele
 * When changing battery, use a sharp tool to open the battery slot to remove and insert battery.
 * When inserting battery, the **positive(+)** side of the battery must face upward. **NEVER** insert the battery with negative(-) side facing upward.
 
-![](<.gitbook/assets/1 (6).jpeg>)
+![](<.gitbook/assets/1 (6) (1).jpeg>)
 
 * _**Supervision**_
 
@@ -127,7 +127,7 @@ When mounting on Safety Box, mount the Sensor no more than 2cm away from the doo
 
 * Please do not apply the double-sided adhesive tape to the front cover where Test Button and LED indicator are located, and do not apply the tape twice.
 
-![](<.gitbook/assets/6 (7).png>)
+![](<.gitbook/assets/6 (7) (1).png>)
 
 * _**Installation Guideline**_
 * Always make sure to test detection range after installation to confirm the actual detection range.

@@ -74,7 +74,7 @@ Please make sure the plastic plug is well inserted when using this type of detec
 * If the Control Panel receives the learn code, it will display the information accordingly, refer to the Control Panel manual to complete the learning process. You can start Mounting process
 * Installation
 
-![](<.gitbook/assets/1 (1).jpeg>)
+![](<.gitbook/assets/1 (1) (1).jpeg>)
 
 (**Fig 1**.)
 
@@ -114,11 +114,11 @@ A Water Sensing Cable or Water Probe Cable is available for selection. The cable
 
 * It is recommended to air dry residual water in a ventilated place for at least two hours before inserting the sensing cable.
 
-![](<.gitbook/assets/5 (9).png>)
+![](<.gitbook/assets/5 (9) (1).png>)
 
 **\<NOTE>**
 
 * Avoid direct or indirect sunshine.
 * Improper storage can cause damage to the sensor and the cable.
 
-![](<.gitbook/assets/6 (4).png>)
+![](<.gitbook/assets/6 (4) (1).png>)

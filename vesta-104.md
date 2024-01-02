@@ -60,7 +60,7 @@ The Thermostat uses 2 AA Alkaline batteries as its power source. The Sensor will
 
 The Thermostat control home heating/cooling system through relay control. Open and flip over the back cover, remove the internal cover on the relay to reveal the terminals for wiring. When wiring the Thermostat, wire the cable through the central opening on the back cover.
 
-![](<.gitbook/assets/3 (4).jpeg>)
+![](<.gitbook/assets/3 (4) (1).jpeg>)
 
 * _**Mode Control**_
 
@@ -149,13 +149,13 @@ The Remote Mode allows you to control remote relay via the Control Panel when fu
 * If remote mode is disabled, “dS RM” will be displayed on the LCD screen.
 * If remote mode is enabled, “En RM” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/7 (7).png>)
+![](<.gitbook/assets/7 (7) (1).png>)
 
 **Setpoint Offset:**
 
 In this mode, “Pro OFS” will be displayed on the LCD screen. Setpoint Offset function allows you to compensate the deviation. To calculate setpoint offset, simply subtract room temperature with device temperature. When under local mode, press and hold Down (-) button for 3 seconds to enter programming mode. After finishing selection, wait for a few seconds for the Thermostat to enter mode selection.
 
-![](<.gitbook/assets/8 (7).png>)
+![](<.gitbook/assets/8 (7) (1).png>)
 
 For example: If device temperature is 20°C and room temperature is 18°C, then setpoint offset = 18 – 20 = -2°C.
 

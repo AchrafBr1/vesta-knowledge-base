@@ -6,7 +6,7 @@ The Repeater is designed to increase the effectiveness and versatility of the al
 
 * **Identifying the Parts**
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 20140415.jpg](<.gitbook/assets/0 (5).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 20140415.jpg](<.gitbook/assets/0 (5) (1).jpeg>)
 
 1. **Power LED (Green)**
 
@@ -67,7 +67,7 @@ The Repeater can detect the battery voltage. When the battery voltage is low, th
 
 * **Functional Switch Block**
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 switch block.jpg](<.gitbook/assets/1 (2).jpeg>)The Functional Switch Block determines which Mode the Repeater is in. A switch in the up position indicates the (**ON**) Mode. Likewise, a switch in the down position indicates the (**OFF**) Mode.
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 switch block.jpg](<.gitbook/assets/1 (2) (1).jpeg>)The Functional Switch Block determines which Mode the Repeater is in. A switch in the up position indicates the (**ON**) Mode. Likewise, a switch in the down position indicates the (**OFF**) Mode.
 
 |              | Function                 | ON                     | OFF                   |
 | ------------ | ------------------------ | ---------------------- | --------------------- |
@@ -211,13 +211,13 @@ The Device needs to be learned into its closest repeater (Repeated B). Repeater 
 
 Example:
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage device.jpg](<.gitbook/assets/5 (2).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage device.jpg](<.gitbook/assets/5 (2) (1).jpeg>)
 
 1. If a device is located between the RF coverage of multiple repeaters and the Control Panel:
 
 Example 1:
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg1.jpg](<.gitbook/assets/6 (5).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg1.jpg](<.gitbook/assets/6 (5) (1).jpeg>)
 
 From the displayed diagram, the device is located between the RF coverage areas of Repeater B and C. Users can choose to learn the device into Repeater B only, learn into Repeater C only, or learn into both Repeaters B and C.
 
@@ -229,7 +229,7 @@ It is **recommended** to learn the device into Repeater B only (and not to Repea
 
 Example 2:
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg2.jpg](<.gitbook/assets/7 (4).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg2.jpg](<.gitbook/assets/7 (4) (1).jpeg>)
 
 From the displayed diagram, the device is located between the RF coverage areas of Repeater A, B and C. Users can choose to learn the device into Repeater A only, learn into Repeater B only, learn into Repeater C only, or learn into Repeaters A, B and C.
 

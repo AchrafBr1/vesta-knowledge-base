@@ -133,18 +133,18 @@ Example of DI/DO practice for Input Follower:
 
 After selecting the “Input Follower” mode on the DO device edit page, select “Latch” for the Output Follow Input setting. The output terminal device will be activated instantly when the input terminal device is triggered.
 
-![](<.gitbook/assets/9 (10).png>)
+![](<.gitbook/assets/9 (10) (1).png>)
 
-![](<.gitbook/assets/10 (4).png>)
+![](<.gitbook/assets/10 (4) (1).png>)
 
 * _**DI and DO Settings**_
 * **Output Terminal (DO):**
 
 Program the DO settings in **DO Device Edit** page on Panel webpage or Home Portal server.
 
-| **Control Panel webpage**                                          | **Home Portal Server**                                              |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src=".gitbook/assets/11 (3).png" alt="" data-size="original"> | <img src=".gitbook/assets/12 (1).jpeg" alt="" data-size="original"> |
+| **Control Panel webpage**                                              | **Home Portal Server**                                                  |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <img src=".gitbook/assets/11 (3) (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/12 (1) (1).jpeg" alt="" data-size="original"> |
 
 Swith on via APP:
 
@@ -172,9 +172,9 @@ Operation Mode: Select the Operation Mode for DIO-52-B. Please refer to previous
 
 Program the DI settings in **DI Device Edit** page on Panel webpage or Home Portal server.
 
-| **Control Panel webpage**                                          | **Home Portal Server**                                             |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/13 (3).png" alt="" data-size="original"> | <img src=".gitbook/assets/14 (2).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                              | **Home Portal Server**                                                 |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| <img src=".gitbook/assets/13 (3) (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/14 (2) (1).png" alt="" data-size="original"> |
 
 Status for 0: Enter the Status 0 description for the Input terminal.
 

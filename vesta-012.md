@@ -3,7 +3,7 @@
 * REMOTE KEYPAD (KPT-39N)
 * _**Parts Identification**_
 
-![](<.gitbook/assets/0 (6).png>)
+![](<.gitbook/assets/0 (6) (1).png>)
 
 | <ol><li>Arm Key</li><li>Home Key</li><li>Disarm Key</li><li>Panic Alarm (if enabled)</li></ol><p>- press both 1 and 3 to trigger Panic Alarm</p><ol><li>Fire Alarm (if enabled)</li></ol><p>- press both 4 and 6 to trigger Fire Alarm</p><ol><li>Medical Alarm (if enabled)</li></ol><p>- press both 7 and 9 to trigger Medical alarm</p><ol><li>Send Learning Code</li></ol><p>- press ＊ then 7 Key (under Test Mode)</p><p>- press both # and 🞸 keys (under Normal Operation Mode)</p> | <ol><li># Key</li></ol><p>- press to check current system mode</p><ol><li>🞸 Key</li><li>Fault LED (Orange LED)</li><li>Power LED (Green LED)</li><li>Detection Area for NFC Label</li></ol><ul><li>put the NFC Label close to the detection area to access the alarm system</li></ul><ol><li>Tamper Switch</li><li>Mounting Holes</li><li>NFC Label</li></ol> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -142,7 +142,7 @@ labels by applying them one by one.
 
 Step 4. The Keypad will exit NFC label removal mode automatically after idling for 5 seconds.
 
-![NFC iPhone3](<.gitbook/assets/5 (1).jpeg>)Step 5. Press ![](<.gitbook/assets/6 (3).png>) key to exit NFC label learning mode.
+![NFC iPhone3](<.gitbook/assets/5 (1) (1).jpeg>)Step 5. Press ![](<.gitbook/assets/6 (3) (1).png>) key to exit NFC label learning mode.
 
 _**C. NFC Installation Procedure**_
 
@@ -175,7 +175,7 @@ Disarming the system always requires entering Control Panel User PIN Code.
 
 Under Test mode, Pressing ＊ key and then **9** key to enable Arm/ Home with PIN Code function.
 
-NFC label. If panel has no fault and arming is successful, the ![](<.gitbook/assets/9 (3).png>) LED will turn ON along with
+NFC label. If panel has no fault and arming is successful, the ![](<.gitbook/assets/9 (3) (1).png>) LED will turn ON along with
 
 a long beep.
 

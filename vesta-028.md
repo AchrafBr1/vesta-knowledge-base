@@ -113,15 +113,15 @@ Example of DI/DO practice for Separate Devices:
 
 DI input terminal is connected to a water leakage sensor, and DO output is connected to a water valve. By setting a Home Automation rule on HPS, the Panel will automatically turn off the water valve when the water leakage sensor is triggered.
 
-| **DI settings**                                                    | **DO settings**                                                   |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| <img src=".gitbook/assets/5 (11).png" alt="" data-size="original"> | <img src=".gitbook/assets/6 (6).png" alt="" data-size="original"> |
+| **DI settings**                                                    | **DO settings**                                                       |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| <img src=".gitbook/assets/5 (11).png" alt="" data-size="original"> | <img src=".gitbook/assets/6 (6) (1).png" alt="" data-size="original"> |
 
-| **Home Automation rule**                                          |
-| ----------------------------------------------------------------- |
-| <img src=".gitbook/assets/7 (4).png" alt="" data-size="original"> |
+| **Home Automation rule**                                              |
+| --------------------------------------------------------------------- |
+| <img src=".gitbook/assets/7 (4) (1).png" alt="" data-size="original"> |
 
-![](<.gitbook/assets/8 (4).png>)
+![](<.gitbook/assets/8 (4) (1).png>)
 
 * **Input Follower:**
 
@@ -135,18 +135,18 @@ Example of DI/DO practice for Input Follower:
 
 After selecting the “Input Follower” mode on the DO device edit page, select “Latch” for the Output Follow Input setting. The output terminal device will be activated instantly when the input terminal device is triggered.
 
-![](<.gitbook/assets/9 (6).png>)
+![](<.gitbook/assets/9 (6) (1).png>)
 
-![](<.gitbook/assets/10 (1).png>)
+![](<.gitbook/assets/10 (1) (1).png>)
 
 * _**DI and DO Settings**_
 * **Output Terminal (DO):**
 
 Program the DO settings in **DO Device Edit** page on Panel webpage or Home Portal server.
 
-| **Control Panel webpage**                                          | **Home Portal Server**                                          |
-| ------------------------------------------------------------------ | --------------------------------------------------------------- |
-| <img src=".gitbook/assets/11 (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/12.jpeg" alt="" data-size="original"> |
+| **Control Panel webpage**                                              | **Home Portal Server**                                              |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <img src=".gitbook/assets/11 (1) (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/12 (3).jpeg" alt="" data-size="original"> |
 
 Swith on via APP:
 
@@ -174,9 +174,9 @@ Operation Mode: Select the Operation Mode for DIO-52-B. Please refer to previous
 
 Program the DI settings in **DI Device Edit** page on Panel webpage or Home Portal server.
 
-| **Control Panel webpage**                                          | **Home Portal Server**                                             |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/13 (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/14 (1).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                              | **Home Portal Server**                                                 |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| <img src=".gitbook/assets/13 (1) (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/14 (1) (1).png" alt="" data-size="original"> |
 
 Status for 0: Enter the Status 0 description for the Input terminal.
 

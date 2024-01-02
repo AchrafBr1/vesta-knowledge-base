@@ -10,7 +10,7 @@ The Optical Door Contact consists of a cover and base. The base contains all ele
 
 _**Identifying the parts**_
 
-![](.gitbook/assets/0.png)
+![](<.gitbook/assets/0 (8).png>)
 
 1. **LED Indicator**
 2. **Learn / Test Button**
@@ -41,9 +41,9 @@ The Optical Door Contact uses one **1.5V AAA Alkaline battery** as its power sou
 
 Hold the Learn / Test button area and gently pull up the front cover. Remove the old battery as shown in Figure 1, and then press the Learn / Test button 5-6 times to fully discharge. Insert a new battery and replace the cover, as shown in Figure 2.
 
-| Figure 1                                                      | Figure 2                                                      |
-| ------------------------------------------------------------- | ------------------------------------------------------------- |
-| <img src=".gitbook/assets/1.png" alt="" data-size="original"> | <img src=".gitbook/assets/2.png" alt="" data-size="original"> |
+| Figure 1                                                          | Figure 2                                                          |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <img src=".gitbook/assets/1 (6).png" alt="" data-size="original"> | <img src=".gitbook/assets/2 (6).png" alt="" data-size="original"> |
 
 * _**Test Mode**_
 
@@ -69,7 +69,7 @@ Step 7: After the Optical Door Contact is learnt-in, put the Control Panel into 
 
 Step 8: When you are satisfied with the Optical Door Contact at the chosen location, proceed to installation.
 
-* ![](.gitbook/assets/3.png)_**Mounting the Door Contact**_
+* ![](<.gitbook/assets/3 (6).png>)_**Mounting the Door Contact**_
 
 Find a suitable place to install the Door Contact. It is recommended to install the Optical Door Contact on the more stationary object (such as door frame or window frame). Please make sure the location is within signal range of the Control Panel before mounting.
 
@@ -79,7 +79,7 @@ Step 2: Remove the protective covering from one side of the double-sided adhesiv
 
 Step 3: Remove the other cover and firmly press the Optical Door Contact onto the desired location. Please avoid applying the adhesive pad on uneven surface or re-apply it.
 
-![](.gitbook/assets/4.png)Step 4: Mark the location for the reflecting sticker. The reflecting sticker has to be applied on the **opposite** side of the Infrared Detection Area. The gap should be no more than **3mm** when the door/window is closed.
+![](<.gitbook/assets/4 (6).png>)Step 4: Mark the location for the reflecting sticker. The reflecting sticker has to be applied on the **opposite** side of the Infrared Detection Area. The gap should be no more than **3mm** when the door/window is closed.
 
 Step 5: Apply the reflecting sticker. Please avoid applying the reflecting sticker on uneven surface or re-apply it.
 

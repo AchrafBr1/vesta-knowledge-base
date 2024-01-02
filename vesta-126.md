@@ -156,7 +156,7 @@ Installation
 2. Insert the two white caps into the magnet screw holes for aesthetic integrity.
 3. Installation is now complete.
 
-![](<.gitbook/assets/9 (9).png>)
+![](<.gitbook/assets/9 (9) (1).png>)
 
 FCC Statement
 

@@ -121,7 +121,7 @@ Installation
 | Medium                                         | 3000mm                                   | 2000mm                                | 1500mm        | -                        |   |
 | High                                           | 4000mm                                   | 3000mm                                | 2000mm        | 1400mm                   |   |
 
-![](<.gitbook/assets/7 (6).png>)
+![](<.gitbook/assets/7 (6) (1).png>)
 
 * _Mounting Procedure_
 
@@ -141,4 +141,4 @@ Installation
 \<NOTE>
 
 * Don’t mount the device on surface materials where frequent vibration occurs, to prevent false alarming.
-* ![](<.gitbook/assets/8 (6).png>)When mounting on safety box, mount the Door Contact / Shock Sensor no more than 2cm away from the door pivot (refer to the below picture).
+* ![](<.gitbook/assets/8 (6) (1).png>)When mounting on safety box, mount the Door Contact / Shock Sensor no more than 2cm away from the door pivot (refer to the below picture).

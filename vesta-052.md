@@ -136,14 +136,14 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 * The PIR is comprised of a front cover and a back cover. The back cover must be separated for battery installation and Z-Wave network setup.
 * To separate the back cover, hold the PIR in both hands and turn according to picture below to open the PIR.
 
-![Mini-PIR B](<.gitbook/assets/3 (3).jpeg>)
+![Mini-PIR B](<.gitbook/assets/3 (3) (1).jpeg>)
 
 * _Installation_
 * The PIR main body has internal magnet at bottom and back, which attaches the main body to PIR magnet base when placed on the base. The magnet locations are identified by the circle mark on the casing.
 * The PIR’s movement detection function is directional. It is more sensitive to movement from side, and less sensitive to vertical movement from top to bottom. Use the location of the bottom magnet as a reference to determine the horizontal and vertical direction of the PIR.
 * The PIR base has 2 mounting holes used for installation on surface with fixing screws and plugs provided. The base also has magnet within. One side of the base has an opening to mark the front side of the base. The main body should be placed on the base with the lens facing the front opening to ensure PIR’s detection coverage is not obstructed by the base.
 
-![](<.gitbook/assets/4 (1).jpeg>)
+![](<.gitbook/assets/4 (1) (1).jpeg>)
 
 1. Use the 2 mounting holes on PIR base as template, drill holes in the surface.
 2. Insert the wall plugs if fixing it into plaster or brick.

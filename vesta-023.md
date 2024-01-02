@@ -15,7 +15,7 @@ The Smoke Detector includes the following models:
 
 Parts Identification
 
-![](<.gitbook/assets/0 (8).png>) ![](<.gitbook/assets/1 (12).png>)
+![](<.gitbook/assets/0 (8) (1).png>) ![](<.gitbook/assets/1 (12).png>)
 
 1. **LED Indicator / Test Button / Emergency Light**
 
@@ -202,4 +202,4 @@ As the operation condition of the Smoke Detector may vary after being installed 
 
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement.
 
-![](<.gitbook/assets/5 (8).png>)
+![](<.gitbook/assets/5 (8) (1).png>)

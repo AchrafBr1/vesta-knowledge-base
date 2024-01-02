@@ -104,7 +104,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 * _Mounting Methods_
 * The PIR is designed to be mounted on either a flat surface on a wall or on a ceiling with fixing screws and plugs provided.
 * If the mounted PIR is forcedly removed, the Tamper Breakaway Area will be left on the wall separated from the PIR, the tamper will then be triggered.
-* ![未命名-5](<.gitbook/assets/5 (5).jpeg>)The base has two knockouts, where the plastic is thinner and can be broken for mounting purpose.
+* ![未命名-5](<.gitbook/assets/5 (5) (1).jpeg>)The base has two knockouts, where the plastic is thinner and can be broken for mounting purpose.
 
 1. Remove the fixing screw and cover assembly.
 2. Break through the knockouts on the inside of base.
@@ -128,7 +128,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 
 **Vertical** **Horizontal**
 
-![](<.gitbook/assets/6 (8).png>) ![](<.gitbook/assets/7 (5).png>)
+![](<.gitbook/assets/6 (8).png>) ![](<.gitbook/assets/7 (5) (1).png>)
 
 **Ceiling Mount:**
 
@@ -137,7 +137,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 * When mounted at 2.4\~3 meter height and looking down, the PIR has coverage of about **5** meters at ground level.
 * Avoid mounting over 4 meters, which may affect detection performance.
 
-![](<.gitbook/assets/8 (5).png>)
+![](<.gitbook/assets/8 (5) (1).png>)
 
 * _Installation_
 * Decide on the location of the PIR if it is to be horizontal / vertical or ceiling mounted.

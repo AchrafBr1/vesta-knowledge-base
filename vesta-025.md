@@ -46,15 +46,15 @@ Introduction 2
 
 3.7. OTA Firmware Upgrade 59
 
-### Introduction <a href="#_toc61269503" id="_toc61269503"></a>
+### Introduction <a href="#toc61269503" id="toc61269503"></a>
 
 The Touchscreen Keypad provides easy-to-use, on-premises security system control for enhanced flexibility and convenience.
 
 When connected to the system Control Panel via Wi-Fi network, the Touchscreen Keypad enables quick access to the Control Panel, allowing users to easily arm, disarm, or home arm their security system and control home devices.
 
-### System Overview <a href="#_toc61269504" id="_toc61269504"></a>
+### System Overview <a href="#toc61269504" id="toc61269504"></a>
 
-### Parts Identification <a href="#_toc61269505" id="_toc61269505"></a>
+### Parts Identification <a href="#toc61269505" id="toc61269505"></a>
 
 ![](<.gitbook/assets/1 (13).png>)
 
@@ -71,19 +71,19 @@ Slide up or down the switch to reveal or hide the camera.
 7. **Desktop Deployment Bracket**
 8. **Wall Mounting Bracket**
 
-### ![](<.gitbook/assets/3 (14).png>)Power Supply <a href="#_toc61269506" id="_toc61269506"></a>
+### ![](<.gitbook/assets/3 (14).png>)Power Supply <a href="#toc61269506" id="toc61269506"></a>
 
 The Touchscreen Keypad is powered by rechargeable battery. To charge the battery, press the latch to open the compartment and plug in a 5V/1.5A adapter to the Micro USB port of the device and connect the other end to mains power.
 
-### Getting Started <a href="#_toc61269507" id="_toc61269507"></a>
+### Getting Started <a href="#toc61269507" id="toc61269507"></a>
 
-### Equipment required <a href="#_toc61269508" id="_toc61269508"></a>
+### Equipment required <a href="#toc61269508" id="toc61269508"></a>
 
 The following equipment is required to use your Touchscreen Keypad:
 
 * A router supporting 2.4 GHz Wi-Fi network. The hub should be connected to this router with access to internet.
 
-### Setup <a href="#_toc169331962" id="_toc169331962"></a>
+### Setup <a href="#toc169331962" id="toc169331962"></a>
 
 To set up your Touchscreen Keypad for accessing hub:
 
@@ -97,13 +97,13 @@ To set up your Touchscreen Keypad for accessing hub:
 
 ![](<.gitbook/assets/5 (10).png>)
 
-![](<.gitbook/assets/6 (5).png>)
+![](<.gitbook/assets/6 (5) (1).png>)
 
 **Step 4.** Put your Hub into learning mode (refer to Hub’s user manual for details). Please note that Learning process is only required for first time setup.
 
 **Step 5.** Your Touchscreen Keypad will automatically search for available hubs. Select the hub you’d like to access to.
 
-![](<.gitbook/assets/7 (3).png>)
+![](<.gitbook/assets/7 (3) (1).png>)
 
 \<NOTE>
 
@@ -112,9 +112,9 @@ To set up your Touchscreen Keypad for accessing hub:
 
 **Step 6.** You will enter the dashboard that displays the current date and time. Now you can access and control your Hub and smart devices directly on your Touchscreen Keypad.
 
-![](<.gitbook/assets/8 (3).png>)
+![](<.gitbook/assets/8 (3) (1).png>)
 
-### Hardware Installation <a href="#_toc61269510" id="_toc61269510"></a>
+### Hardware Installation <a href="#toc61269510" id="toc61269510"></a>
 
 **2.3.1 Installation Instructions**
 
@@ -126,11 +126,11 @@ A desktop deployment bracket is provided for users to place their Touchscreen Ke
 
 **Step 1.** Attach the desktop deployment bracket to the rear side of the Touchscreen .Keypad .in the direction of the arrows as shown below until you hear a “click” .sound. If you .wish to remove the bracket, simply press the notches at both sides .and gently lift upward.
 
-![](<.gitbook/assets/9 (5).png>) ![](.gitbook/assets/10.png)
+![](<.gitbook/assets/9 (5) (1).png>) ![](<.gitbook/assets/10 (12).png>)
 
 **Step 2.** Place the Touchscreen Keypad at desired location.
 
-![](.gitbook/assets/11.png)
+![](<.gitbook/assets/11 (7).png>)
 
 **Wall Mounting**
 
@@ -142,48 +142,48 @@ A wall mounting bracket is also included for users to place their Touchscreen Ke
 
 **Step 3.** Screw the bracket into the wall with the 3 screws provided.
 
-![](<.gitbook/assets/12 (1).png>)
+![](<.gitbook/assets/12 (1) (1).png>)
 
 **Step 4.** Attach the Touchscreen Keypad onto the bracket.
 
-![](.gitbook/assets/13.png)
+![](<.gitbook/assets/13 (8).png>)
 
 **Step 5.** Hold the Touchscreen Keypad and gently push downwards until you hear a “click” sound.
 
-![](.gitbook/assets/14.png)
+![](<.gitbook/assets/14 (6).png>)
 
-### Low Battery Notification <a href="#_toc61269511" id="_toc61269511"></a>
+### Low Battery Notification <a href="#toc61269511" id="toc61269511"></a>
 
 When battery is running low, a low battery notification will be displayed to inform you to recharge the battery. Please refer to Power Supply to recharge the Touchscreen Keypad.
 
-![](<.gitbook/assets/15 (1).png>)
+![](<.gitbook/assets/15 (1) (1).png>)
 
-### Operation <a href="#_toc61269512" id="_toc61269512"></a>
+### Operation <a href="#toc61269512" id="toc61269512"></a>
 
-### Home <a href="#_toc61269513" id="_toc61269513"></a>
+### Home <a href="#toc61269513" id="toc61269513"></a>
 
-![](<.gitbook/assets/16 (1).png>)
+![](<.gitbook/assets/16 (1) (1).png>)
 
 * **Date & Time**: The Home page displays current Date & Time.
-* **Home Widget** ![](.gitbook/assets/17.png): The Home Widget list is for you to control or check currents status of the HVAC sensors or devices which have been learned into the system.
+* **Home Widget** ![](<.gitbook/assets/17 (6).png>): The Home Widget list is for you to control or check currents status of the HVAC sensors or devices which have been learned into the system.
 
 To set the list:
 
 **Step 1.** Tap the Home Widget icon. Check the devices that you are going to display on the list. Up to six devices can be displayed here.
 
-![](.gitbook/assets/18.png)
+![](<.gitbook/assets/18 (9).png>)
 
 **Step 2.** When finishing selecting the devices, tap OK to confirm.
 
-![](.gitbook/assets/19.png)
+![](<.gitbook/assets/19 (8).png>)
 
 **Step 3.** The devices that you selected are displayed on the widget list.
 
 **Step 4.** Tap the widget that you want to check. When there is a fault or supervision failure, an orange exclamation mark icon will be displayed on the widget. The color of the widget will also fade.
 
-![](.gitbook/assets/20.png)
+![](<.gitbook/assets/20 (6).png>)
 
-### Security <a href="#_toc61269514" id="_toc61269514"></a>
+### Security <a href="#toc61269514" id="toc61269514"></a>
 
 The current system status is displayed on top of the screen.
 
@@ -212,7 +212,7 @@ When there is an alarm, the Alarm dashboard will be displayed:
 
 After disarming the system, you can view these events again through the list. Tap the Close icon to close the alarm dashboard and go back to Security page.
 
-### Automation <a href="#_toc61269515" id="_toc61269515"></a>
+### Automation <a href="#toc61269515" id="toc61269515"></a>
 
 The Automation page includes Scene, Room, Group, Automation Device, and Rule. For the function of Automation Device, please refer to _**3.3 Home Automation Devices for more details**_.
 
@@ -381,7 +381,7 @@ Users can add, edit, delete, view details in Rule.
 
 
 
-### Cam <a href="#_toc61269516" id="_toc61269516"></a>
+### Cam <a href="#toc61269516" id="toc61269516"></a>
 
 The page provides access to VDP and IP Camera live streaming video.
 
@@ -441,11 +441,11 @@ To change settings of the IP Cam, click the button  on each device.
 * **Wi-Fi setup**: Change the Wi-Fi setting of the device.
 * **Delete**: Delete the item.
 
-### Events <a href="#_toc61269517" id="_toc61269517"></a>
+### Events <a href="#toc61269517" id="toc61269517"></a>
 
 The Event page records all alarm/status event, pictures and video transmitted by the Control Panel. You can view the image or video by tapping the icons.
 
-### Settings <a href="#_toc61269518" id="_toc61269518"></a>
+### Settings <a href="#toc61269518" id="toc61269518"></a>
 
 Tap on the gear icon  on the top-right corner of the screen to access the Settings menu.
 
@@ -463,7 +463,7 @@ When the virtual keypad is able to be tapped, you can disarm the system as the s
 * Language: Change language setting.
 * About: The information about App version / ROM version will be displayed here.
 
-### OTA Firmware Upgrade <a href="#_toc61269519" id="_toc61269519"></a>
+### OTA Firmware Upgrade <a href="#toc61269519" id="toc61269519"></a>
 
 When a new firmware version is released, users are able to update it via OTA automatically or manually.
 
