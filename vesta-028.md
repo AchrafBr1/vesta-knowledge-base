@@ -2,7 +2,7 @@
 
 DI/DO Module (DIO-52-B)
 
-
+This model is VESTA-028
 
 Introduction
 
