@@ -1,6 +1,15 @@
 # VESTA 012
 
-* REMOTE KEYPAD (KPT-39N)
+
+
+{% hint style="success" %}
+**CERTIFICATION**: EN50131 Grade 2, Class II
+{% endhint %}
+
+
+
+REMOTE KEYPAD (KPT-39N)
+
 * _**Parts Identification**_
 
 ![](<.gitbook/assets/0 (6) (1).png>)
