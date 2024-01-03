@@ -34,6 +34,10 @@ Step 1: Press \[ \* ] + \[ # ] for 3 seconds to learn keypad to panel
 
 
 
+&#x20;\[[❓](https://emojiterra.com/es/interrogacion-roja/)] To put panel en learn mode from **SmartHomeSec:**
+
+{% @arcade/embed flowId="nNYzAkqIZ9RJt89JI6XK" url="https://app.arcade.software/share/nNYzAkqIZ9RJt89JI6XK" %}
+
 ## CERTIFICATIONS
 
 {% hint style="success" %}
