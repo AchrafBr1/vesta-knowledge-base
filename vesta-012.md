@@ -2,7 +2,7 @@
 coverY: 0
 layout:
   cover:
-    visible: true
+    visible: false
     size: hero
   title:
     visible: true
@@ -20,9 +20,17 @@ layout:
 
 ## QUICK GUIDE
 
+<figure><img src=".gitbook/assets/VESTA-012N[1].jpg" alt="" width="225"><figcaption><p>VESTA-012 - KPT-39N-F1</p></figcaption></figure>
 
 
 
+{% hint style="info" %}
+**To add keypad in VESTA panel:**
+
+Step 0: Put panel in **learn Mode**&#x20;
+
+Step 1: Press \[ \* ] + \[ # ] for 3 seconds to learn keypad to panel
+{% endhint %}
 
 
 
