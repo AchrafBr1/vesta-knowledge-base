@@ -1,5 +1,22 @@
 # VESTA 013
 
+## QUICK GUIDE
+
+<figure><img src=".gitbook/assets/VESTA-013[1].jpg" alt="" width="225"><figcaption><p>VESTA-013 - MDC-3-F1</p></figcaption></figure>
+
+{% hint style="info" %}
+1. Remove the battery isolator from the MDC-3.&#x20;
+2. Put the VESTA control panel in learn mode (refer to the control panel manual for details).&#x20;
+3. Press the Learn/Test button on the MDC-3 to send the signal to the control panel.&#x20;
+4. If the control panel successfully receives the signal, it should respond (e.g. by beeping).
+{% endhint %}
+
+\[ ❓] How to put panel en learn mode from **SmartHomeSec**&#x20;
+
+{% @arcade/embed flowId="nNYzAkqIZ9RJt89JI6XK" url="https://app.arcade.software/share/nNYzAkqIZ9RJt89JI6XK" %}
+
+## MANUAL
+
 Mini Door Contact (MDC-3) User Manual
 
 The Mini Door Contact monitors the opening/closing of specified devices (e.g. door or window). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch causing the Door Contact to transmit alarm signal to the Control Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
