@@ -1,12 +1,22 @@
+---
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # VESTA 012
-
-
-
-## CERTIFICATIONS
-
-{% hint style="success" %}
-[**CERTIFICATION**: EN50131 Grade 2, Class II](broken-reference)
-{% endhint %}
 
 ## QUICK GUIDE
 
@@ -16,7 +26,11 @@
 
 
 
+## CERTIFICATIONS
 
+{% hint style="success" %}
+EN50131 Grade 2, Class II
+{% endhint %}
 
 
 
