@@ -5,7 +5,7 @@
 ## CERTIFICATIONS
 
 {% hint style="success" %}
-[**CERTIFICATION**: EN50131 Grade 2, Class II](certificates.md)
+[**CERTIFICATION**: EN50131 Grade 2, Class II](broken-reference)
 {% endhint %}
 
 ## QUICK GUIDE
