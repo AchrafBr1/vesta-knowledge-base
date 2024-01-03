@@ -3,6 +3,7 @@
 * PIR Motion Sensor Camera
 * VST-892
 * Introduction
+* Model: VESTA-245 [https://bydemes.com/es/productos/intrusion/alarma-vesta/detectores/VESTA-245](https://bydemes.com/es/productos/intrusion/alarma-vesta/detectores/VESTA-245)
 
 VST-892 is a passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 640 x 480 pixels) to the Control Panel upon movement detection.
 
