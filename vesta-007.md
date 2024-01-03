@@ -194,3 +194,5 @@ The rotating bracket can be mounted on the wall with provides screws.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
 ![](<.gitbook/assets/9 (11).png>)
+
+Note: Control error or error control is because a device normally PIRCAM or pir camera has not been added by pressing the learn button for 4 seconds.
