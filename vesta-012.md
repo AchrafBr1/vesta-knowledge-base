@@ -48,7 +48,7 @@ EN50131 Grade 2, Class II
 
 ## MANUAL
 
-&#x20;     REMOTE KEYPAD (KPT-39N)
+&#x20;     REMOTE KEYPAD (KPT-39N) This is VESTA-012
 
 * _**Parts Identification**_
 
