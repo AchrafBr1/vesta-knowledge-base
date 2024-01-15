@@ -1325,6 +1325,30 @@ El sistema de recepción ofrece una configuración de alta disponibilidad median
 
 ### &#x20;5.2. Programación Central VESTA <a href="#toc84228649" id="toc84228649"></a>
 
+
+
+### Configuración Rápida de CRA (Central receptora de alarmas en un panel VESTA)
+
+{% hint style="info" %}
+Paso 1:  Entra en la APP o WEB **SmartHomeSec** como instalador
+
+Paso 2: Accede a la sección **AJUSTES -> REPORTE**
+
+Paso 3: Añade una URL nueva y asigna el **GRUPO 2**
+
+Paso 4: Añade en la URL: **ip://ABONADO@IP:PUERTO/MAN**&#x20;
+
+```markup
+ABONADO = Abonado facilitado por CRA 
+IP = IP pública de CRA
+PUERTO = PUERTO de CRA 
+```
+{% endhint %}
+
+
+
+
+
 El esquema de programación aconsejado para la correcta recepción de eventos de la Central VESTA es el siguiente:&#x20;
 
 En esta figura CRA representa el software de recepción de CRA, VESTA una central instalada y AlamSpace MAIN y BACKUP son dos instancias de AlarmSpace en dos máquinas distintas. Pueden ser virtualizadas, pero aconsejamos que estén sobre máquinas físicas distintas. Si falla la conexión con AlarmSpace MAIN la central lo intentará a través de AlarmSpace BACKUP. Siempre volverá a intentar por la conexión MAIN para ver si se recupera.&#x20;
@@ -1333,7 +1357,9 @@ Para programar los parámetros de comunicaciones en la central VESTA debemos dir
 
 En las distintas URL configuramos los parámetros de comunicación. La URL1 está reservada para uso interno. En la URL 2 introducimos los datos de nuestro AlarmSpace receptor principal de la manera siguiente:&#x20;
 
-Ip://1234@123.123.123.123:23506/MAN&#x20;
+```
+ip://1234@123.123.123.123:23506/MAN 
+```
 
 Donde 1234 es el número de abonado, 123.123.123.123 es la Ip pública de AlarmSpace y 23506 el puerto abierto contra la máquina de AlarmSpace para recibir eventos.&#x20;
 
