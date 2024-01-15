@@ -207,3 +207,4 @@
 * [VESTA 384](vesta-384.md)
 * [VESTA 177](vesta-177.md)
 * [🛡 ALARMSPACE](alarmspace.md)
+* [💡 VMAX BUS TIPS](vmax-bus-tips.md)
