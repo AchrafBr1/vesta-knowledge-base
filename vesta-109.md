@@ -191,7 +191,7 @@ When accessing the Home Portal Server account of the Control Panel using a web b
 
 _Two-way voice and doorbell functions are not enabled for web browser access. To uses these functions, a smartphone app is required. Please see **22. Smartphone Access** for detail._
 
-![](<.gitbook/assets/17 (1) (1) (1).png>)
+![](<.gitbook/assets/17 (1) (1) (1) (1).png>)
 
 ### Smartphone Access <a href="#toc51257991" id="toc51257991"></a>
 

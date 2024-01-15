@@ -87,7 +87,7 @@ When enabled, the LED Indicator will light up in the following conditions:
 
 The LED will not flash if the PIR Camera is normal and is not under test mode.
 
-![](<.gitbook/assets/6 (1).png>)
+![](<.gitbook/assets/6 (1) (1).png>)
 
 _\<NOTE>_
 

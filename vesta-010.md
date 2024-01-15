@@ -124,7 +124,7 @@ Enter New 4-digit Pin Code and then press **#**
     *
       *
         * Dual Key Disable — Press ＊ and then **5**
-        * Quit Test Mode —press ![](<.gitbook/assets/6 (1) (1).png>) **twice**.
+        * Quit Test Mode —press ![](<.gitbook/assets/6 (1) (1) (1).png>) **twice**.
         * Arm/ Home without PIN Code — press ＊ and then **8**
         * Arm/ Home with PIN Code — press ＊ and then **9**
 

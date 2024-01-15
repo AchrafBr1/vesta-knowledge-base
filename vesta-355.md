@@ -103,7 +103,7 @@ When set to OFF, the PIR’s detection sensitivity is in normal level (Factory d
 
 **Features**
 
-![](<.gitbook/assets/7 (1) (1).png>)
+![](<.gitbook/assets/7 (1) (1) (1).png>)
 
 * _**LED Indicator**_
   * The Blue LED will flash for 1 second when the PIR Camera enters Test Mode. During Test mode, the Blue LED will flash once every time a movement is detected.

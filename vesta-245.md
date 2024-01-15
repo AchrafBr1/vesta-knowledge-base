@@ -13,7 +13,7 @@ VST-892 is designed with the digital proximity detector. The anti-masking featur
 
 The PIR Camera consists of a two-part design made up of a cover and a base. The cover contains all the electronics and optics and the base provides a means of fixing. The base has knockouts to allow mounting on either a flat surface or in a corner situation with a triangular bracket for corner mounting.
 
-* ![](<.gitbook/assets/0 (1) (1) (1).png>)
+* ![](<.gitbook/assets/0 (1) (1) (1) (1).png>)
 * Parts Identification
 
 1. **Flash LED**
@@ -39,10 +39,10 @@ The digital proximity detector is used to detect any masking (blocking) attempt 
 1. **IR Sensor**
 2. **PIR Camera Lens**
 3. **Battery Compartment**
-4. ![](<.gitbook/assets/1 (1) (1) (1).png>)**Tamper Switch**
+4. ![](<.gitbook/assets/1 (1) (1) (1) (1).png>)**Tamper Switch**
 5. **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
-![jumper open](<.gitbook/assets/2 (1) (1) (1).png>) ![jumper close](<.gitbook/assets/3 (1) (1).png>)
+![jumper open](<.gitbook/assets/2 (1) (1) (1) (1).png>) ![jumper close](<.gitbook/assets/3 (1) (1) (1).png>)
 
 **Jumper Off**
 
@@ -158,7 +158,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 
 VST-892 **Detection Range**
 
-![](<.gitbook/assets/4 (1) (1) (1).png>)
+![](<.gitbook/assets/4 (1) (1) (1) (1).png>)
 
 **It is recommended to install the PIR Camera in the following locations**
 

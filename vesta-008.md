@@ -193,4 +193,4 @@ The rotating bracket can be mounted on the wall with provides screws.
 2. Fit the 3 hooks of the rotating bracket into the 3 holes of the base accordingly.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-![](<.gitbook/assets/9 (1) (1).png>)
+![](<.gitbook/assets/9 (1) (1) (1).png>)

@@ -41,7 +41,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 **Jumper Off**
 
-![If the jumper link is removed or “parked” on one pin.](.gitbook/assets/4.png)
+![If the jumper link is removed or “parked” on one pin.](<.gitbook/assets/4 (1).png>)
 
 
 
@@ -160,7 +160,7 @@ Please refer to the table below for configuration details. For example, if you w
 
 _**Installation Guideline**_
 
-![](.gitbook/assets/20.png)
+![](<.gitbook/assets/20 (1).png>)
 
 **IR-35-2W Detection Range**
 
