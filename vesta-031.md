@@ -82,4 +82,4 @@ The following description and picture shows how the Door Contact and the Magnet 
 3. Insert the Door Contact main body into the door frame drill hole and tighten with screws through the mounting holes using a screwdriver.
 4. Insert the Magnet firmly into the drill hole on the door. Installation is now complete.
 
-![](<.gitbook/assets/3 (1) (1).jpeg>)![C:\Users\c0982\Desktop\影像\RDC\_03.png](<.gitbook/assets/4 (16).png>)
+![](<.gitbook/assets/3 (1) (1) (1).jpeg>)![C:\Users\c0982\Desktop\影像\RDC\_03.png](<.gitbook/assets/4 (16).png>)

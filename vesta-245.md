@@ -158,7 +158,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 
 VST-892 **Detection Range**
 
-![](<.gitbook/assets/4 (1) (1).png>)
+![](<.gitbook/assets/4 (1) (1) (1).png>)
 
 **It is recommended to install the PIR Camera in the following locations**
 

@@ -75,11 +75,11 @@ The jumper link is removed or “parked” on one pin.
   * The LED will not flash if the device tamper is normal and the device is not under test mode.
 * _**Door Opening Detection & Shock Detection**_
 
-![](<.gitbook/assets/8 (1).jpeg>)
+![](<.gitbook/assets/8 (1) (1).jpeg>)
 
 The device is triggered by door/window opening or a shock detection which exceeds detection threshold.
 
-![](.gitbook/assets/9.jpeg)
+![](<.gitbook/assets/9 (1).jpeg>)
 
 * _**Materials of Mounting Surface**_
 

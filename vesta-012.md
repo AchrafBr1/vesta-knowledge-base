@@ -191,7 +191,7 @@ labels by applying them one by one.
 
 Step 4. The Keypad will exit NFC label removal mode automatically after idling for 5 seconds.
 
-![NFC iPhone3](<.gitbook/assets/5 (1) (1).jpeg>)Step 5. Press ![](<.gitbook/assets/6 (3) (1).png>) key to exit NFC label learning mode.
+![NFC iPhone3](<.gitbook/assets/5 (1) (1) (1).jpeg>)Step 5. Press ![](<.gitbook/assets/6 (3) (1).png>) key to exit NFC label learning mode.
 
 _**C. NFC Installation Procedure**_
 

@@ -74,7 +74,7 @@ Connect to W1 of HIKVISION Card Reader.
     *
       1. **RF Wireless Application (**NOT wired to Hybrid Panel**)**
 
-![](<.gitbook/assets/4 (1).png>)
+![](<.gitbook/assets/4 (1) (1).png>)
 
 * Before wiring, make sure the power supply has been disconnected.
   * Connect **GND** terminal of WGT-1-COMBO to the Ground terminal of a Power Supply.
@@ -93,7 +93,7 @@ Connect to W1 of HIKVISION Card Reader.
 * Before connecting the WIEGAND module to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](.gitbook/assets/6.jpeg)
+![](<.gitbook/assets/6 (1).jpeg>)
 
 | **Red**    | VDD  |
 | ---------- | ---- |
@@ -145,7 +145,7 @@ To locate the WIEGAND module in the BUS system:
 
 **Step 2.** If the tag reader receives the signal from the Hybrid Panel, the webpage will display a success message and WGT-1-COMBO’s LED indicator will flash 10 times to indicate where it is to the user.
 
-![](<.gitbook/assets/10 (1).png>)
+![](<.gitbook/assets/10 (1) (1).png>)
 
 _\<NOTE>_
 
@@ -167,7 +167,7 @@ Please check whether WGT-1-COMBO is connected properly to the Panel within appro
   * Before learning a tag into the Control Panel, make sure the WGT-1-COMBO has been learned into the Control Panel.
   * After first power on HIKVISION Card Reader, please wait until the buzzer sound a beep, indicating that the starting up process is completed.
 
-![](<.gitbook/assets/13 (1).png>)
+![](<.gitbook/assets/13 (1) (1).png>)
 
 **Tag Learning**
 
@@ -175,13 +175,13 @@ Please check whether WGT-1-COMBO is connected properly to the Panel within appro
 
 **Step 2.** Go to the **Local webpage** > **PIN Code**. Select the **Area**. Pass tag **two times** through the HIKVISION Card Reader in **less than 4 seconds**, two beeps will be emitted by the card reader, and then WGT-1-COMBO will transmit signal with the tag number to the Control Panel. Click **Load** button on the webpage.
 
-![](<.gitbook/assets/14 (1).png>)
+![](<.gitbook/assets/14 (1) (1).png>)
 
 4
 
 **Step 3.** When the tag ID number is shown on the webpage, enter a 4-digit or a 6- digit User Code and assign a user name for the tag.
 
-![](<.gitbook/assets/15 (1).png>)
+![](<.gitbook/assets/15 (1) (1).png>)
 
 **Step 4.** Click **OK** button on the webpage to save.
 
@@ -193,13 +193,13 @@ Please check whether WGT-1-COMBO is connected properly to the Panel within appro
 
 **Step 2.** Go to the **Local webpage** > **PIN Code**. Select the **Area**. Pass tag **two times** through the HIKVISION Card Reader in **less than 4 seconds**, two beeps will be emitted by the card reader, and then WGT-1-COMBO will transmit signal with the tag number to the Control Panel. Find a blank tag number row and click Load button to check the tag ID number you are going to delete**.**
 
-![](<.gitbook/assets/16 (1).png>)
+![](<.gitbook/assets/16 (1) (1).png>)
 
 **Step 3.** According to the newly loaded tag ID number, find the same tag ID number on the list and select **Delete**.
 
 * **Example:** As the picture shown below, No. 1 & No. 2 on the list are the existing learned tags. After you pass tag **two times** through the Card Reader and click **Load** button in the blank No.3 row, the tag ID number will be shown in No. 3. As No.3 is the same as No.2, so No.2 is the tag to be removed. Select **Delete** on the No.2 row to remove the tag.
 
-![](<.gitbook/assets/17 (1).png>)
+![](<.gitbook/assets/17 (1) (1).png>)
 
 **Step 4.** Click **OK** on the webpage to save the change.
 

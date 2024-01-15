@@ -16,7 +16,7 @@ Remote configuration is supported for the PIR motion sensor camera. Besides adju
 
 * _**Identifying the Parts**_
 
-![](<.gitbook/assets/1 (1).jpeg>)
+![](<.gitbook/assets/1 (1) (1).jpeg>)
 
 1. **Digital Proximity Detector**
 
@@ -50,7 +50,7 @@ There are 8 DIP Switches for setting the function & detection sensitivity levels
 
 When the PIR motion sensor camera is connected as the furthest BUS device on a BUS line, please set the PIR motion sensor camera 's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’ communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (1).jpeg>) ![](<.gitbook/assets/3 (3).png>)
+![](<.gitbook/assets/2 (1) (1).jpeg>) ![](<.gitbook/assets/3 (3).png>)
 
 **Jumper On**
 

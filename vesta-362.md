@@ -48,7 +48,7 @@ The tamper switch will be activated when the Siren is removed from the mounting 
 
 * When SR-35-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
 
-![](<.gitbook/assets/5 (1).jpeg>)
+![](<.gitbook/assets/5 (1) (1).jpeg>)
 
 **Supervision**
 

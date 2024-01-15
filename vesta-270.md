@@ -193,7 +193,7 @@ VST-892 **Detection Range**
 2. Use the two holes as template to drill holes on the corner surface.
 3. Insert the wall plugs.
 4. Screw the triangular bracket into the wall plugs with _the two pointing sticks (E)_ on top facing you.
-5. ![triangular bracket](<.gitbook/assets/6 (1) (1).jpeg>)![](<.gitbook/assets/7 (1) (1).png>)Fit the PIR Camera onto the hooks of the triangular bracket.
+5. ![triangular bracket](<.gitbook/assets/6 (1) (1) (1).jpeg>)![](<.gitbook/assets/7 (1) (1) (1).png>)Fit the PIR Camera onto the hooks of the triangular bracket.
 
 * **Surface mounting:**
 

@@ -12,7 +12,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1).jpeg>)
 
 1. **Test Button / LED Indicator**
    * Press the test button once to enter test mode for 3 minutes.
@@ -42,7 +42,7 @@ The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-![](.gitbook/assets/3.jpeg)
+![](<.gitbook/assets/3 (1).jpeg>)
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -72,7 +72,7 @@ In Normal operation mode, the LED Indicator will flash 3 times in the following 
 
 The LED will not flash if the PIR tamper is normal and PIR is not under test mode.
 
-![](.gitbook/assets/5.jpeg)
+![](<.gitbook/assets/5 (1).jpeg>)
 
 * _**Tamper Protection**_
 

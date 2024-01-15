@@ -23,7 +23,7 @@ Press the Test button to enter test mode for 3 minutes.
 
 **Jumper On** **Jumper Off**
 
-![](<.gitbook/assets/2 (3).jpeg>) ![](<.gitbook/assets/3 (1).jpeg>)
+![](<.gitbook/assets/2 (3).jpeg>) ![](<.gitbook/assets/3 (1) (1).jpeg>)
 
 The jumper link is inserted, connecting the two The jumper link is removed or “**parked**” on one
 
@@ -95,7 +95,7 @@ DC-23-BUS has an extension terminal to provide enhanced flexibility. According t
 2. The upper end of the front case has a thinner plastic knockout. Break through the knockout to create a hole for the wiring connection to the extension terminal.
 3. Connect the device to the extension terminal.
 
-![](.gitbook/assets/8.jpeg)
+![](<.gitbook/assets/8 (1).jpeg>)
 
 The extension terminal may be useful for the following situations:
 

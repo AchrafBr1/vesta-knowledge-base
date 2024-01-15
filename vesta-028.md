@@ -137,16 +137,16 @@ After selecting the “Input Follower” mode on the DO device edit page, select
 
 ![](<.gitbook/assets/9 (6) (1).png>)
 
-![](<.gitbook/assets/10 (1) (1).png>)
+![](<.gitbook/assets/10 (1) (1) (1).png>)
 
 * _**DI and DO Settings**_
 * **Output Terminal (DO):**
 
 Program the DO settings in **DO Device Edit** page on Panel webpage or Home Portal server.
 
-| **Control Panel webpage**                                              | **Home Portal Server**                                              |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src=".gitbook/assets/11 (1) (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/12 (3).jpeg" alt="" data-size="original"> |
+| **Control Panel webpage**                                                  | **Home Portal Server**                                              |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <img src=".gitbook/assets/11 (1) (1) (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/12 (3).jpeg" alt="" data-size="original"> |
 
 Swith on via APP:
 
@@ -174,9 +174,9 @@ Operation Mode: Select the Operation Mode for DIO-52-B. Please refer to previous
 
 Program the DI settings in **DI Device Edit** page on Panel webpage or Home Portal server.
 
-| **Control Panel webpage**                                              | **Home Portal Server**                                                 |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| <img src=".gitbook/assets/13 (1) (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/14 (1) (1).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                                  | **Home Portal Server**                                                     |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <img src=".gitbook/assets/13 (1) (1) (1).png" alt="" data-size="original"> | <img src=".gitbook/assets/14 (1) (1) (1).png" alt="" data-size="original"> |
 
 Status for 0: Enter the Status 0 description for the Input terminal.
 

@@ -19,7 +19,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 | VST-862P-(P5)    | V             |                  | V              | P5 model only                |
 | VST-862P-IL-(P5) |               | V                | V              | P5 model only                |
 
-* ![852Pro R8\_20160629](<.gitbook/assets/0 (1) (1).jpeg>)Parts Identification
+* ![852Pro R8\_20160629](<.gitbook/assets/0 (1) (1) (1).jpeg>)Parts Identification
 
 1. **Flash LED / Infrared LED**
 
@@ -178,7 +178,7 @@ The PIR Camera will conduct a Self-test Periodically by transmitting a superviso
 
 * **Surface mounting:**
 
-1. ![triangular bracket](<.gitbook/assets/7 (1) (1).jpeg>)![triangular bracket](<.gitbook/assets/8 (1) (1).jpeg>)Open the cover by loosening the Cover Screw using a Philips screwdriver.
+1. ![triangular bracket](<.gitbook/assets/7 (1) (1).jpeg>)![triangular bracket](<.gitbook/assets/8 (1) (1) (1).jpeg>)Open the cover by loosening the Cover Screw using a Philips screwdriver.
 2. Break through the 2 Surface knockouts at the center of base.
 3. Use the holes as template to drill holes on the surface.
 4. Insert the wall plugs if fixing it into plaster or brick.

@@ -59,7 +59,7 @@ The Panic Button can be wall mounting using Velcro tape provided.
 
 **Picture 1 Picture 2 Picture 3**
 
-![image3](<.gitbook/assets/2 (1) (1).jpeg>) ![image1](<.gitbook/assets/3 (2) (1).jpeg>) ![](<.gitbook/assets/4 (10).jpeg>)
+![image3](<.gitbook/assets/2 (1) (1) (1).jpeg>) ![image1](<.gitbook/assets/3 (2) (1).jpeg>) ![](<.gitbook/assets/4 (10).jpeg>)
 
 Loops
 

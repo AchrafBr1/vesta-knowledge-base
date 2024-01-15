@@ -20,7 +20,7 @@ VST-892-BUS – Wired PIR motion sensor camera with flash LED VST-892-IL-BUS –
 
 **Parts Identification**
 
-![](.gitbook/assets/0.jpeg)
+![](<.gitbook/assets/0 (1).jpeg>)
 
 **1. Flash LED/Infrared LED**
 
@@ -45,7 +45,7 @@ The digital proximity detector is used to detect any masking (blocking) attempt 
 2. **PIR Camera Lens**
 3. **BUS Terminal**
 
-![](.gitbook/assets/1.jpeg)
+![](<.gitbook/assets/1 (1).jpeg>)
 
 Hardwire the four terminals (VCC, GND, A, B) to the BUS Terminal on the Control Panel. Please refer to _**PIR Camera Wiring**_ section for details.
 
@@ -55,7 +55,7 @@ Hardwire the four terminals (VCC, GND, A, B) to the BUS Terminal on the Control 
 
 When the PIR Camera is connected as the furthest BUS device on a BUS line, please set the PIR Camera's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](.gitbook/assets/2.jpeg) ![](<.gitbook/assets/3 (2).png>)
+![](<.gitbook/assets/2 (1).jpeg>) ![](<.gitbook/assets/3 (2).png>)
 
 **Jumper On**
 
@@ -78,7 +78,7 @@ The jumper link is removed or “**parked**” on one pin.
 
 **Jumper On**
 
-![](<.gitbook/assets/6 (1).jpeg>)
+![](<.gitbook/assets/6 (1) (1).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 
@@ -103,7 +103,7 @@ When set to OFF, the PIR’s detection sensitivity is in normal level (Factory d
 
 **Features**
 
-![](<.gitbook/assets/7 (1).png>)
+![](<.gitbook/assets/7 (1) (1).png>)
 
 * _**LED Indicator**_
   * The Blue LED will flash for 1 second when the PIR Camera enters Test Mode. During Test mode, the Blue LED will flash once every time a movement is detected.

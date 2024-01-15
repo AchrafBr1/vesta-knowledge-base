@@ -310,7 +310,7 @@ When installing the IR Remote Control, select the IR LED used via your Control P
 
 Please refer to diagram below for IR signal coverage:
 
-![](<.gitbook/assets/9 (1) (1).jpeg>)
+![](<.gitbook/assets/9 (1) (1) (1).jpeg>)
 
 * _IR Transmission Power_
 

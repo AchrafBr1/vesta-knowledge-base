@@ -74,7 +74,7 @@ Please make sure the plastic plug is well inserted when using this type of detec
 * If the Control Panel receives the learn code, it will display the information accordingly, refer to the Control Panel manual to complete the learning process. You can start Mounting process
 * Installation
 
-![](<.gitbook/assets/1 (1) (1).jpeg>)
+![](<.gitbook/assets/1 (1) (1) (1).jpeg>)
 
 (**Fig 1**.)
 
