@@ -186,7 +186,7 @@ Cada tipo de aparato puede aprender hasta 8 señales IR, seleccionadas con el co
 | X         | X         | EN        | APAGADO   | APAGADO   | APAGADO   | APAGADO   | APAGADO   | **3**            |
 | X         | X         | X         | EN        | APAGADO   | APAGADO   | APAGADO   | APAGADO   | **4**            |
 | X         | X         | X         | X         | EN        | APAGADO   | APAGADO   | APAGADO   | **5**            |
-| X         | X         | X         | X         | X         | EN        | APAGADO   | OFF       | **6**            |
+| X         | X         | X         | X         | X         | EN        | APAGADO   | APAGADO   | **6**            |
 | X         | X         | X         | X         | X         | X         | EN        | APAGADO   | **7**            |
 | X         | X         | X         | X         | X         | X         | X         | EN        | **8**            |
 
