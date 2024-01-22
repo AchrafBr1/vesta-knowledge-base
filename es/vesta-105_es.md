@@ -110,7 +110,7 @@ Paso 5. Para reemplazar la cubierta:
 -   _**Métodos de montaje**_
 -   Monte el contacto de puerta utilizando uno de los siguientes métodos de montaje:**Montaje con cinta de velcro**o**Montaje con tornillos.**
 -   Monte el imán en el objeto más móvil (como una puerta) utilizando la almohadilla adhesiva de doble cara o los tornillos suministrados.
--   Align the magnet according the rib mark on Door Contact. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
+-   Alinee el imán según la marca de la nervadura en el contacto de la puerta. Cuando sea necesario, utilice el espaciador magnético para alinear mejor el imán con las marcas de las nervaduras.
 
 &lt;Nota>
 
