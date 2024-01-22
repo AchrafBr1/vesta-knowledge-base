@@ -17,7 +17,7 @@ El sensor sirve como dispositivo final en la red ZigBee. Puede incluirse en la r
     -   **Parpadea dos veces:**Después de que el sensor se haya unido con éxito a una red ZigBee.
     -   **Parpadea 3 veces:**Batería insertada.
     -   **Parpadea 5 veces:**Batería baja detectada al insertar la batería.
-    -   **Parpadea una vez cada 20 minutos:**El sensor ha perdido la conexión con su red ZigBee actual.
+    -   **Parpadea una vez cada 20 minutos:**El sensor ha perdido la conexión a su red ZigBee actual.
 2.  **Sensor de temperatura**
 3.  **Compartimiento de la batería**
 4.  **Botón de función**
@@ -74,7 +74,7 @@ Debido a la estructura fundamental de la red ZigBee, el dispositivo ZigBee busca
 
 Como dispositivo ZigBee, el sensor necesita unirse a una red ZigBee para transmitir la señal. Siga los pasos a continuación para unir el sensor a la red ZigBee.
 
--   1.  Retire el conjunto de la cubierta superior y la base e inserte la batería.
+-   1.  Separe el conjunto de la cubierta superior y la base e inserte la batería.
     2.  Mantenga presionado el botón de función durante 10 segundos mientras el sensor se reinicia (el LED parpadea una vez) y comienza a buscar la red ZigBee existente. Asegúrese de que la función de permiso para unirse en el enrutador o coordinador de su red ZigBee esté habilitada.
     3.  Si el sensor se une exitosamente a una red ZigBee, el indicador LED parpadeará dos veces para confirmar.
     4.  Después de unirse a la red ZigBee, el sensor se registrará en la red automáticamente. Consulte con su coordinador ZigBee, panel de control del sistema o CIE (Equipo de control e indicación) para confirmar si la inscripción y el registro se realizaron correctamente.
@@ -127,7 +127,7 @@ Si la ubicación de instalación del sensor está lejos del panel de control de 
 
 El sensor de luz ambiental, humedad y temperatura admite la función de actualización de firmware OTA a través de la red ZigBee, que se puede iniciar desde el coordinador de la red ZigBee. Siga los pasos a continuación para realizar la actualización del firmware OTA.**Paso 1.**Debe acceder a su Coordinador ZigBee para realizar la actualización del firmware en el aire.
 
-**Paso 2.**En la página web de configuración, seleccione el dispositivo que desea actualizar y seleccione el nuevo firmware ZigBee proporcionado. Consulte el Manual del usuario del Coordinador ZigBee para obtener más detalles.
+**Paso 2.** On the configuration webpage, select the device that you wish to upgrade and select the new ZigBee firmware provided. Please refer to ZigBee Coordinator User Manual for details.
 
 **Paso 3.**Presione "OK" para iniciar el proceso de actualización y el LED seguirá parpadeando. Durante el proceso de OTA, por favor haga
 
@@ -245,7 +245,7 @@ No realice ninguna otra acción ni apague el panel.
 | Entero            | - 0xffffe             | solo                |                      |            |                 |                 |   |
 |                   |                       |                     |                      |            |                 |                 |   |
 
--   _**Attribute of Temperature Measurement Cluster Information**_
+-   _**Atributo de información del grupo de medición de temperatura**_
 
 | **Identificador** | **Nombre**          | **Tipo**            | **Rango**           | **Acceso** | **Por defecto** | **Obligatorio** |   |
 | ----------------- | ------------------- | ------------------- | ------------------- | ---------- | --------------- | --------------- | - |
