@@ -82,7 +82,7 @@ En el modo de funcionamiento normal, el LED azul no se encenderá excepto en las
 -   Cuando la condición de Tamper persiste, cada vez que transmita un movimiento detectado, el LED Azul parpadeará durante 2 segundos.
 -   Cuando la cámara PIR ingresa al modo de prueba, el LED azul parpadeará durante 1 segundo. Durante el modo de prueba, el LED azul también parpadeará durante 2 segundos cada vez que se detecte un movimiento.
 -   Cuando la cámara PIR esté en el período de calentamiento de 30 segundos, el LED azul parpadeará lentamente.
--   Cuando la cámara PIR transmite imágenes capturadas en condiciones de falla (batería baja, interruptor de manipulación activado), el LED azul parpadeará continuamente.
+-   When the PIR Camera is transmitting captured images under fault conditions (low battery, tamper switch activated), the Blue LED will continuous flash.
 -   _**Captura de imagen**_
 
 Cuando el sistema de alarma está armado, la cámara PIR capturará 1, 3 o 6 imágenes de alarma en resoluciones de 640 x 480 o 320 x 240 (programables desde el panel de control) al detectar movimiento. También puede solicitar manualmente a la cámara PIR que tome una fotografía a través del Panel de control. Las imágenes capturadas se transferirán al Panel de control para que los usuarios las vean.
@@ -125,11 +125,11 @@ La cámara PIR realizará una autoprueba periódicamente transmitiendo una seña
 -   Inserte las baterías. Oriente la batería según la indicación de polaridad.
 -   Coloque el Panel de control en modo de aprendizaje; consulte el manual del Panel de control para obtener más detalles.
 -   Mantenga presionado el botón de función durante 3 segundos, suelte el botón cuando se encienda el LED azul. (Para el panel que funciona con baterías, después de presionar y mantener presionado el botón de función durante 3 segundos, presione el botón de función**de nuevo**por un segundo.)
--   El LED azul se encenderá durante 25 segundos en modo de aprendizaje; agregue la cámara PIR al panel de control durante este período (consulte su panel de control para finalizar el proceso de aprendizaje). Si el PIR se agrega exitosamente al Panel de control, el LED azul parpadeará 6 veces para indicarlo. Si no se agrega PIR en 25 segundos, repita el proceso de aprendizaje.
+-   El LED azul se encenderá durante 25 segundos en modo de aprendizaje; agregue la cámara PIR al Panel de control durante este período (consulte su Panel de control para finalizar el proceso de aprendizaje). Si el PIR se agrega exitosamente al Panel de control, el LED azul parpadeará 6 veces para indicarlo. Si no se agrega PIR en 25 segundos, repita el proceso de aprendizaje.
 
 \\<Note>
 
--   Si la cámara PIR ya existe en un sistema de Panel de control, primero deberá eliminar la cámara PIR del Panel de control antes de poder acceder a ella en un Panel de control diferente.
+-   Si la cámara PIR ya existe en un sistema de Panel de control, primero deberá eliminar la cámara PIR del Panel de control antes de poder aprenderla en un Panel de control diferente.
 -   Al aprender la cámara PIR en un repetidor/enrutador, presione el botón de función una vez (en lugar de presionarlo y mantenerlo presionado durante 3 segundos) para enviar un código de aprendizaje. (solo modelos P5)
 -   _Prueba de caminata_
 -   Una vez memorizada la cámara PIR, coloque el panel de control en "**Prueba de caminata**", sostenga la cámara PIR en la ubicación deseada y presione el botón de función para confirmar que esta ubicación está dentro del alcance de la señal del panel de control; consulte el manual del panel de control para completar la prueba de caminata.
@@ -168,7 +168,7 @@ La cámara PIR realizará una autoprueba periódicamente transmitiendo una seña
 -   ![852 r3 knockouts](<.gitbook/assets/6 (8) (1).jpeg>)_Montaje de la cámara PIR_
 -   El PIR está diseñado para montarse en una superficie plana o en una esquina con los tornillos y tapones de fijación incluidos.
 -   Para el montaje en esquina, se proporciona un soporte triangular para agregar protección contra manipulación trasera. El soporte también incluye dos orificios ciegos para montar en la pared.
--   Para montaje en superficie, se proporciona un soporte giratorio opcional para que los usuarios ajusten el rango de detección. Con el soporte giratorio, el VST-862 se puede girar 80 grados horizontalmente y 70 grados verticalmente para proporcionar una cobertura óptima.
+-   Para montaje en superficie, se proporciona un soporte giratorio opcional para que los usuarios ajusten el rango de detección. Con el soporte giratorio, el VST-862 se puede girar 80 grados horizontalmente y 70 grados verticalmente para brindar una cobertura óptima.
 -   **Montaje en esquina:**
 
 1.  ![triangular bracket](<.gitbook/assets/7 (7) (1).jpeg>)![triangular bracket](<.gitbook/assets/8 (4) (1).jpeg>)Rompe los dos orificios ciegos del soporte triangular.
