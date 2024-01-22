@@ -6,7 +6,7 @@ DCSV-23 es un sensor de contacto de puerta/choque capaz de enviar una señal de 
 
 ![DCSV-23ZBS](<.gitbook/assets/0 (13).jpeg>)El diseño del sensor de contacto de puerta/vibración de impacto consta de una cubierta y una base. La cubierta contiene todos los componentes electrónicos y la base proporciona un medio para fijar el dispositivo. Un interruptor antisabotaje de PCB incluido proporciona protección contra manipulación contra la apertura y/o extracción no autorizada del dispositivo.
 
-Parts Identification
+Identificación de piezas
 
 1.  **Indicador LED/Botón de prueba**
 
@@ -31,7 +31,7 @@ Parts Identification
 
 -   Consulte la sección_**Interruptor de láminas**_para detalles.
 
-1.  **Compartimiento de la batería**
+1.  **Battery Compartment**
 2.  **Imán**
 3.  **Imán Orificio para tornillo**
 4.  **Espaciador magnético**
@@ -84,7 +84,7 @@ El dispositivo se activa por cualquiera de las siguientes condiciones:
 -   Si el panel de control no ha recibido la señal del sensor de vibración de impacto/contacto de puerta durante un período de tiempo preestablecido, el panel de control indicará que el sensor de vibración de impacto/contacto de puerta en particular está experimentando un problema de falta de señal.
 -   _**Modo de prueba**_
 -   En el modo normal, presione el botón de prueba para transmitir una señal de prueba y un código de aprendizaje al panel de control. El sensor de contacto de puerta/vibración de impacto también entrará en el modo de prueba durante 3 minutos.
--   Under Test Mode, the LED will light up whenever the Door Contact / Shock Vibration Sensor is activated.
+-   En el modo de prueba, el LED se iluminará cada vez que se active el sensor de contacto de puerta/vibración de impacto.
 -   Cada pulsación adicional del botón de prueba restablecerá el tiempo del modo de prueba a 3 minutos.
 -   _**Empezando**_
 -   Retire el aislante de la batería en el sensor de contacto de puerta/vibración de impacto para encenderlo.
@@ -128,7 +128,7 @@ Instalación
 1.  Utilice los 2 orificios de montaje de la cubierta posterior como plantilla para el posicionamiento.
 2.  Utilice los tacos de pared proporcionados para la instalación de marcos de ventanas, paredes de concreto o cajas de seguridad.
 3.  Atornille el sensor de contacto de puerta/vibración de impacto en los tacos de pared. (Se recomienda taladrar cuando se monta en acero, como una caja de seguridad, o también puede utilizar la pegatina proporcionada en el paquete).
-4.  Coloque el imán en la puerta usando un pequeño trozo de cinta adhesiva de doble cara o con los tornillos proporcionados.
+4.  Fit magnet on the door using small piece of double sided adhesive tape or with provided screws.
 5.  Para montar el imán, utilice los 2 orificios de los tornillos del imán como plantilla para la colocación adecuada de los orificios.
 
 &lt;Nota>
