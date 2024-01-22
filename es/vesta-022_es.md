@@ -57,9 +57,9 @@ Normalmente se necesitan alrededor de 2~16 minutos para finalizar la calibració
 
 \\<NOTE>
 
--   Durante el período de calibración, el aprendizaje está deshabilitado. Si no terminó de aprender (Paso 3) durante el período de calentamiento de 6 minutos, deberá esperar hasta que se complete la calibración (Paso 4) para realizar el aprendizaje.
+-   Durante el período de calibración, el aprendizaje está deshabilitado. Si no terminó de aprender (Paso 3) durante el período de calentamiento de 6 minutos, deberá esperar hasta que se haya completado la calibración (Paso 4) para realizar el aprendizaje.
 
-Paso 5. Después de completar el calentamiento, el aprendizaje y la calibración, debe probar el rango de transmisión de la señal del detector de humo. Coloque el panel de control en modo de prueba de caminata y coloque el detector de humo en la ubicación de montaje deseada y luego presione el botón Aprender/Probar para transmitir la señal al panel de control.
+Paso 5. Después de completar el calentamiento, el aprendizaje y la calibración, debe probar el rango de transmisión de la señal del detector de humo. Coloque el panel de control en modo de prueba de recorrido y coloque el detector de humo en la ubicación de montaje deseada y luego presione el botón Aprender/Probar para transmitir la señal al panel de control.
 
 Si el panel puede recibir señal normalmente, proceda a montar el detector de humo. Si no se pudo recibir la señal, cambie la ubicación de montaje.
 
@@ -83,7 +83,7 @@ Paso 3. Ubique la marca de una sola línea en el detector y alinéela con uno de
 
 Presione el botón Aprender/Probar en el detector de humo para probar si el detector de humo está funcionando normalmente.
 
--   If the Smoke Detector functions normally, the LED will turn on briefly, and the Smoke Detector will sound a 2-tone beep.
+-   Si el detector de humo funciona normalmente, el LED se encenderá brevemente y el detector de humo emitirá un pitido de dos tonos.
 -   Si el timbre suena 3 veces de 2 tonos, significa que "**Cámara óptica**”en el detector de humo está sucio o fuera de servicio.
 -   Si el LED no se enciende y no suena ningún pitido, significa que el detector de humo no funciona o sus baterías están agotadas.
 -   Señal de supervisión
@@ -98,7 +98,7 @@ Presione el botón Aprender/Probar en el detector de humo para probar si el dete
 -   Cuando expire el período de 10 minutos, el detector de humo emitirá un pitido de dos tonos y luego volverá al modo de funcionamiento normal. Si la concentración de humo aún supera el valor del umbral de alarma, el detector de humo iniciará la alarma nuevamente.
 -   Recalibración
 
-Como las condiciones de funcionamiento del detector de humo pueden variar después de haber sido instalado durante algún tiempo, es posible que desee recalibrar el detector de humo para tomar un nuevo valor umbral de detección de humo y garantizar un rendimiento óptimo del detector de humo. Para hacer esto,
+Como las condiciones de funcionamiento del detector de humo pueden variar después de haber sido instalado durante algún tiempo, es posible que desee recalibrarlo para tomar un nuevo valor umbral de detección de humo y garantizar un rendimiento óptimo del detector de humo. Para hacer esto,
 
 -   Mantenga presionado el botón Aprender/Probar durante 10 segundos hasta que el LED comience a parpadear. El detector de humo emitirá 2 pitidos cortos y luego seguirá el proceso descrito en el proceso de calibración en la sección Aprendizaje/Introducción para tomar el nuevo valor de referencia.
 -   Siempre que se retiren y vuelvan a insertar las baterías, el detector de humo también se recalibrará de acuerdo con las instrucciones anteriores.
