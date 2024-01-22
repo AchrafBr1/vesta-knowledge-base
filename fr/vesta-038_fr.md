@@ -53,8 +53,8 @@ Le bouton panique peut être monté de deux manières : montage auto-adhésif o
 -   **Montage autocollant**
 
 1.  Nettoyer la surface avec un dégraissant adapté.
-2.  Retirez le revêtement protecteur d'un côté du tampon adhésif double face et appliquez-le fermement à l'arrière de l'appareil.
-3.  Retirez l'autre revêtement et placez/appuyez fermement sur l'appareil à l'endroit souhaité.
+2.  Retirez le revêtement de protection d'un côté du tampon adhésif double face et appliquez-le fermement à l'arrière de l'appareil.
+3.  Retirez l'autre revêtement et placez/appuyez fermement sur l'appareil à l'emplacement souhaité.
 
 &lt;Remarque>
 
