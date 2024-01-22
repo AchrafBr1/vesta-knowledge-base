@@ -100,7 +100,7 @@ Pour tester si le capteur est capable de communiquer avec la passerelle Z-Wave o
 
 -   _**Montage du capteur**_
 
-The sensor can be mounted using two methods: Self-adhesive or Screw mounting.
+Le capteur peut être monté de deux manières : montage autocollant ou montage par vis.
 
 **Montage autocollant**
 
@@ -128,7 +128,7 @@ La base du capteur comporte deux alvéoles de vis, où le plastique est plus fin
 
 **Type de rôle :**Signalement de l'esclave endormi (RSS)
 
-**Command Class Support/Control**
+**Prise en charge/contrôle de classe de commande**
 
 **Support CC obligatoire :**
 
