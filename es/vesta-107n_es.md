@@ -176,7 +176,7 @@ Paso 7. Vuelva a colocar la cubierta superior y apriete el tornillo inferior con
 
 Paso 8. Habilite la función de manipulación de sirena en el Panel de control (consulte el manual de instrucciones del Panel de control). Paso 9. Verifique si la instalación se realizó correctamente probando desde el Panel de control armando y desarmando la función.
 
-El armado/desarmado exitoso se indica en la tabla proporcionada en**Indicación de estado visual y auditiva**.
+El armado/desarmado exitoso se indica en la tabla proporcionada en**Indicación de estado audiovisual**.
 
 ![](<.gitbook/assets/20 (14).png>)
 
