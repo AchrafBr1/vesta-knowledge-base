@@ -146,7 +146,7 @@ Sensor multinivel CC, V5
 
 Versión CC, v2
 
-Wake UP CC, v2
+Despierta CC, v2
 
 Z-Wave Plus Información CC, v2
 
