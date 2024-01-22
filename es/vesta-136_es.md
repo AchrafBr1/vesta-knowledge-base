@@ -78,7 +78,7 @@ El PIR se puede poner en modo de prueba presionando el botón de prueba en la cu
 
 -   _Indicador LED_
 
-En el modo de funcionamiento normal, el indicador LED se enciende en las siguientes situaciones (para los modelos F1, el LED parpadea):
+En el modo de funcionamiento normal, el indicador LED se ilumina en las siguientes situaciones (para los modelos F1, el LED parpadea):
 
 -   Cuando se detecta movimiento en condiciones de batería baja
 -   Cuando se abre la cubierta y se activa el interruptor de manipulación.
@@ -180,7 +180,7 @@ Para aprovechar al máximo el PIR, se deben considerar las siguientes pautas:
 -   Al decidir la altura del lugar de montaje del PIR, recuerde tener en cuenta el posible punto ciego. El punto ciego debajo del PIR aumenta proporcionalmente a la altura del sitio de montaje del PIR.
 -   Tenga en cuenta que el rendimiento se ve afectado por factores externos, como la altura del objeto detectado, el rango de detección deseado, el área de instalación, etc. La altura de montaje sugerida se puede ajustar según los factores reales del entorno de instalación.
 -   Cuando el IR-29 se monta con un soporte giratorio, no tendrá el área de detección normal (como en el diagrama anterior) ni el rango inmune típico a las mascotas.
--   Montar donde los animales no puedan llegar a la zona de detección trepando a muebles u otros objetos.
+-   Monte donde los animales no puedan llegar a la zona de detección trepando a muebles u otros objetos.
 -   No apunte el detector hacia escaleras por las que puedan subir los animales.
 -   En una posición tal que un intruso normalmente se movería a través del campo de visión del PIR de lado a lado.
 -   En una esquina para dar la vista más amplia.
