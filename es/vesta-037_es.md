@@ -64,7 +64,7 @@ La sensibilidad del detector de rotura de vidrio se puede ajustar mediante los d
 |              |                   |                   |                    |
 | Bajo         | EN                | APAGADO           | tío paterno        |
 |              |                   |                   |                    |
-| Mínimo       | EN                | ON                | 1,5 metros         |
+| Mínimo       | EN                | EN                | 1,5 metros         |
 |              |                   |                   |                    |
 
 ![](<.gitbook/assets/6 (22).jpeg>)
@@ -79,7 +79,7 @@ Durante el modo de prueba, los LED rojos se encenderán cuando se detecte una ro
 
 -   _**Probando el detector**_
 
-El detector debe probarse para garantizar que pueda detectar correctamente la rotura del vidrio.
+El detector debe probarse para garantizar que pueda detectar con éxito la rotura del vidrio.
 
 ![](<.gitbook/assets/8 (14).jpeg>)
 
@@ -102,7 +102,7 @@ Coloque el detector en la ubicación de instalación deseada y asegúrese de que
 1.  Utilice un destornillador para aflojar el tornillo de fijación del ACGS-23 y quitar la tapa.
 2.  Presione el botón Aprender/Probar una vez, el detector de rotura de vidrio ingresará al modo de prueba durante 5 minutos. El LED verde parpadeará lentamente.
 3.  Presione el botón rojo de inicio del FG-701. En 8 segundos, golpee el vidrio con una herramienta acolchada para crear un sonido de golpe. El FG-701 responderá produciendo una ráfaga de audio de rotura de cristal.
-4.  ACGS-23 se activará si tanto el sonido de golpe como de rotura de vidrio se reciben correctamente. El LED verde parpadeará rápidamente y el LED rojo se iluminará; la señal de rotura de cristal se transmitirá al panel de control.
+4.  ACGS-23 se activará si tanto el sonido de golpe como el de rotura de vidrio se reciben correctamente. El LED verde parpadeará rápidamente y el LED rojo se iluminará; la señal de rotura de cristal se transmitirá al panel de control.
 
 ![](<.gitbook/assets/10 (19).png>)
 
@@ -113,7 +113,7 @@ _\\<NOTE>_
 
 ![](<.gitbook/assets/11 (15).jpeg>)
 
-Cuando el detector de rotura de vidrio está en funcionamiento normal, transmitirá una señal de supervisión regularmente cada 30~50 minutos.
+Cuando el detector de rotura de vidrio esté en funcionamiento normal, transmitirá una señal de supervisión regularmente cada 30~50 minutos.
 
 ![](<.gitbook/assets/12 (10).jpeg>)
 
@@ -153,7 +153,7 @@ Montaje con tornillos
 ![](<.gitbook/assets/15 (13).png>)
 
 1.  Rompe los orificios ciegos en la cubierta posterior y úsalos como plantilla para marcar la posición en la pared/techo.
-2.  Taladre agujeros en el lugar marcado y atornille la cubierta posterior a la pared/techo, inserte el taco de pared si es necesario.
+2.  Taladre agujeros en el lugar marcado y atornille la cubierta posterior a la pared/techo; inserte el taco de pared si es necesario.
 3.  Vuelva a colocar el cuerpo principal del detector en la cubierta posterior. Asegúrese de que la tapa esté correctamente cerrada y que el dispositivo esté bien fijado a la pared.
 
 ![](<.gitbook/assets/16 (9).jpeg>)
