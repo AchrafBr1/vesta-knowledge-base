@@ -34,7 +34,7 @@ Cuando se presiona el botón de pánico, el LED primero parpadeará lentamente d
 
 1.  **COMPARTIMIENTO DE LA BATERÍA**
 
-El RC-15 utiliza una batería de litio “CR2032” de 3 V como fuente de alimentación. El estado de la batería baja se enviará al Panel de control junto con la transmisión de señal regular y el Panel de control mostrará el estado correspondiente.
+The RC-15 uses one “CR2032” 3V Lithium battery as its power source. The low battery status will be sent to the Control Panel along with regular signal transmission, and, the Control Panel will display the status accordingly.
 
 _\\<NOTE>_
 
@@ -50,4 +50,4 @@ _\\<NOTE>_
 -   Asegure la cubierta usando una moneda para girarla en el sentido de las agujas del reloj.
 -   Coloque el Panel de control en "**Dispositivo +/-**"Menú y luego seleccione"**Añadir dispositivo**”menú.
 -   Presione cualquier botón en el control remoto.
--   Please refer to the operation manual of your control panel under the section of “**Dispositivo +/-**”para completar el proceso de aprendizaje.
+-   Consulte el manual de funcionamiento de su panel de control en la sección "**Dispositivo +/-**”para completar el proceso de aprendizaje.
