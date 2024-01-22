@@ -77,7 +77,7 @@ Ce produit peut être inclus et utilisé dans n'importe quel réseau Z-Wave avec
 -   -   Retirez le couvercle à l'aide d'un tournevis.
     -   Insérez la batterie puis replacez le couvercle.
     -   Mettez le panneau de commande Z-Wave dans**Mode d'inclusion**(veuillez vous référer au manuel du panneau de commande Z-Wave).
-    -   Within 1.5 seconds, press the Function Button 3 times.
+    -   Dans un délai de 1,5 seconde, appuyez 3 fois sur le bouton de fonction.
     -   Reportez-vous au manuel d'utilisation de la passerelle Z-Wave ou du panneau de commande pour terminer le processus d'ajout.
     -   Si l'appareil a déjà été ajouté (inclus) dans une autre passerelle/panneau de configuration Z-Wave, ou si l'appareil ne peut pas être ajouté à la passerelle/panneau de configuration Z-Wave actuelle, essayez d'abord de le supprimer (voir_**Suppression d'un périphérique**_).
 -   _**Suppression d'un périphérique (exclusion)**_
@@ -165,7 +165,7 @@ Activation de scène CC
 
 (COMMANDE_CLASSE_SCÈNE_ACTIVATION)
 
-Batterie CC (COMMANDE_CLASSE_BASIC)
+Batterie CC (COMMANDE_CLASSE_BASIQUE)
 
 Réinitialisation de l'appareil localement CC
 
