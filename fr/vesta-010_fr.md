@@ -15,7 +15,7 @@
 
 **1. LED verte active**
 
-**2. LED d'émission rouge**
+**2. LED rouge d'émission**
 
 **3. LED de défaut orange**
 
@@ -120,7 +120,7 @@ Entrez le nouveau code PIN à 4 chiffres, puis appuyez sur**#**
 **\\<NOTE>**
 
 -   En cas de saisie ou d'utilisation incorrecte, le clavier émettra 4 bips courts.
--   Lorsqu'un mauvais code PIN est saisi 4 fois, le clavier émettra 6 bips et toutes les LED 3 fois. Le clavier sera verrouillé pendant 1 min. Après 1 minute, le clavier émettra un bip et pourra être réutilisé.
+-   Lorsqu'un mauvais code PIN est saisi 4 fois, le clavier émettra 6 bips et toutes les LED 3 fois. Le clavier sera verrouillé pendant 1 min. Après 1 minute, le clavier émettra un bip et pourra être à nouveau utilisé.
 -   _**Procédures d'installation :**_
 
 Étape 1. Mettez le panneau de commande dans**Mode d'apprentissage**. Veuillez vous référer au manuel du panneau de commande.
@@ -129,7 +129,7 @@ Entrez le nouveau code PIN à 4 chiffres, puis appuyez sur**#**
 
 **Apprentissage en mode test :**
 
-1.  Put remote keypad in Test mode by entering KP PIN code (default: **0000**), puis appuyez sur la touche ＊. La LED bleue active s'allumera avec un long bip sonore.
+1.  Mettez le clavier déporté en mode Test en saisissant le code PIN KP (par défaut :**0000**), puis appuyez sur la touche ＊. La LED bleue active s'allumera avec un long bip sonore.
 2.  Appuyez ensuite sur la touche ＊**1**clé. Le clavier à distance émettra un bip.
 
 \\<NOTE>
@@ -160,11 +160,11 @@ Entrez le nouveau code PIN à 4 chiffres, puis appuyez sur**#**
 4.  Entrez votre nouveau code à 4 chiffres.
 5.  Presse**#**, Le clavier émet un long bip.
 
-Étape 6. Appuyez sur![](<.gitbook/assets/7 (2) (1).png>)**deux fois**pour quitter le mode Test et l'installation est terminée.
+Étape 6. Appuyez sur![](<.gitbook/assets/7 (2) (1).png>)**deux fois**pour quitter le mode Test et l’installation est terminée.
 
 -   _**Montage du clavier :**_
 
-To mount the Keypad:
+Pour monter le clavier :
 
 1.  Retirez les 2 sections coulissantes du capot avant.
 2.  En utilisant les 2 trous de montage comme gabarit, marquez les positions à l'endroit le plus approprié.
@@ -178,7 +178,7 @@ Après avoir fini d'apprendre le clavier dans le panneau de commande du système
 
 Il existe deux manières d'armer le système.
 
-1.  Armement Absent / Domicile Armez le système en entrant le code PIN utilisateur du panneau de commande.
+1.  Armement Absent / Domicile Armez le système en saisissant le code PIN utilisateur du panneau de commande.
 2.  Armement Absent / Domicile Armez le système sans saisir le code PIN utilisateur du panneau de commande.
 
 Le désarmement du système nécessite toujours la saisie du code PIN utilisateur du panneau de commande.
