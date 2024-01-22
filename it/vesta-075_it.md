@@ -55,7 +55,7 @@ Il trasmettitore da polso è dotato della funzione di rilevamento automatico del
 
 ![](<.gitbook/assets/4 (31).jpeg>)
 
-**PASSO 2.**Infila il cappuccio piccolo attraverso il filo e fai un nodo vicino all'estremità del filo.
+**STEP 2.**Infila il cappuccio piccolo attraverso il filo e fai un nodo vicino all'estremità del filo.
 
 ![](<.gitbook/assets/5 (20).jpeg>)
 
