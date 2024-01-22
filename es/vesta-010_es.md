@@ -43,7 +43,7 @@
 
 \-presione 7 y 9 para activar la alarma médica
 
-**12. Llave de fuego**
+**12. Fire Key**
 
 \-presione 4 y 6 para activar la alarma de incendio
 
@@ -62,7 +62,7 @@
 -   _**Indicador LED:**_
 -   **LED verde activo:**
     -   -   LED verde activo encendido: el sistema está en**Modo de funcionamiento normal**.
-        -   LED verde activo parpadeando: el sistema está en**Modo de prueba**.
+        -   LED verde activo parpadeando: el sistema está en**Test Mode**.
         -   Cuando el teclado está inactivo, todos los LED están apagados. Después de presionar cualquier tecla, el LED verde activo se enciende durante 5 segundos, lo que indica que el teclado está activo.
         -   El LED verde activo se apagará después de completar exitosamente una secuencia de pulsaciones de teclas válida o cuando la pausa entre pulsaciones de teclas sea superior a 5 segundos.
         -   Cuando el LED verde activo se apaga antes de que se complete una secuencia de pulsación de tecla válida (5 segundos), se ignoran las teclas ingresadas anteriormente.
@@ -84,11 +84,11 @@
 -   Antes del envío, la batería viene preinstalada de fábrica.
 -   _**Protección contra manipulación:**_
 -   El teclado está protegido contra cualquier intento de abrir la tapa o separar el teclado de su superficie de montaje.
--   La protección contra manipulaciones está desactivada en el modo de prueba.
+-   La protección contra manipulaciones está desactivada cuando está en modo de prueba.
 -   Cuando se activa la manipulación del teclado, enviará una señal de falla de manipulación del KP al panel de control y el LED naranja de falla se encenderá. Además, durante el uso del teclado, el LED de falla naranja permanecerá encendido para indicar la falla de manipulación del KP.
 -   _**Función de ahorro de energía:**_
--   Cuando el teclado no se utiliza, no se consume energía. Cada vez que se presiona una tecla, el teclado se activará y "**despertar**” for 5 seconds when any key is pressed.
--   Después de 5 segundos de inactividad de la tecla, la alimentación se apaga nuevamente y vuelve al modo de espera.
+-   Cuando el teclado no se utiliza, no se consume energía. Cada vez que se presiona una tecla, el teclado se activará y "**despertar**”durante 5 segundos cuando se presiona cualquier tecla.
+-   Después de 5 segundos de inactividad de la tecla, la alimentación se apaga nuevamente y regresa al modo de espera.
 -   Al finalizar la entrada de un comando, la alimentación se apaga y vuelve al modo de espera.
 -   _**Modo de prueba:**_
 -   El teclado se puede poner en modo de prueba ingresando el código PIN (predeterminado:**0000**) seguido por \*. El LED verde activo parpadeará y el teclado emitirá un pitido largo.
@@ -96,7 +96,7 @@
 
 **\\<NOTE>**
 
--   El modo de prueba es útil para evitar la alarma de manipulación del teclado al instalar, reemplazar baterías bajas o trasladarlo a un lugar de montaje diferente.
+-   El modo de prueba es útil para evitar la alarma de manipulación del teclado al instalar, reemplazar baterías bajas o trasladarlo a un sitio de montaje diferente.
 -   Cuando el teclado está en modo de prueba, funciona como**despertar**Por lo tanto, esta condición NO se desconectará después de 5 segundos.
 -   En el modo de prueba, si no se presiona ninguna tecla dentro de 30 minutos, el teclado saldrá automáticamente del modo de prueba al modo de operación normal.
 
@@ -104,7 +104,7 @@ _El**Modo de prueba del teclado**permite las siguientes funciones:_
 
 -   -   -   -   -   Transmitir la señal de aprendizaje del teclado: presione ＊ y luego**1**
                 -   Habilitación de alarma de pánico con dos teclas: presione ＊ y luego**2**
-                -   Habilitar alarma contra incendios con dos teclas: presione ＊ y luego**3**
+                -   Habilitación de alarma contra incendios con dos teclas: presione ＊ y luego**3**
                 -   Habilitación de alarma médica de doble tecla: presione ＊ y luego**4**
                 -   Cambie el código PIN: presione ＊ y luego**6**
 
@@ -136,9 +136,9 @@ Paso 2. Agregar teclado al Panel de control:
 
 -   Si el teclado remoto no emitió un pitido, significa que el teclado remoto no envió el código de aprendizaje al Panel de control, presione la tecla ＊ y luego**1**clave nuevamente en Modo de prueba para enviar el código de aprendizaje.
 
-1.  Consulte el manual del Panel de control para completar el proceso de aprendizaje.
+1.  Refer to the Control Panel manual to complete the learn-in process.
 
-**Aprendizaje de doble clave:**
+**Aprendizaje de doble tecla:**
 
 1.  Presione ambos**#**y ＊ juntas en el modo de funcionamiento normal. El teclado remoto emitirá un pitido largo.
 
@@ -215,5 +215,5 @@ Paso 4 Liberación**3**
 
 **\\<NOTE>**
 
--   Después del reinicio, el código PIN vuelve a los valores predeterminados de fábrica, "**0000**”. El teclado necesitará un nuevo proceso de aprendizaje para comenzar a funcionar.
+-   Después del reinicio, el código PIN vuelve a los valores predeterminados de fábrica, “**0000**”. El teclado necesitará un nuevo proceso de aprendizaje para comenzar a funcionar.
 -   Siempre que se retira el teclado del Panel de control, también se debe restablecer a los valores de fábrica para borrar la memoria del Panel de control.
