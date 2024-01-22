@@ -61,7 +61,7 @@ L'appareil prend en charge la détection des chocs sur divers matériaux, notamm
     -   Le capteur de contact/choc de porte utilise une pile au lithium CR123 3 V comme source d'alimentation. La batterie est installée dans le compartiment à batterie avec un isolant de batterie inséré. Pour activer la batterie, retirez simplement l'isolant de la batterie.
     -   Le capteur de contact de porte/choc peut détecter un état de batterie faible. Lorsque la tension de la batterie est faible, un signal de batterie faible sera envoyé au panneau de commande pour informer de la condition. La LED s'allumera lorsque le contact de porte/capteur de choc est activé en cas de batterie faible. Lorsque la batterie est épuisée, le contact de porte/capteur de choc arrêtera toutes les fonctions, la LED clignotera toutes les 4 secondes.
     -   Lors du changement des piles, après avoir retiré les anciennes piles, appuyez deux fois sur l'interrupteur anti-sabotage pour les décharger complètement avant d'insérer de nouvelles piles.
--   _**Tamper Protection**_
+-   _**Autoprotection**_
     -   Le contact de porte/capteur de choc est protégé par un interrupteur anti-sabotage qui est comprimé contre la surface de montage lorsque le contact de porte/capteur de choc est monté. Chaque fois que le contact de porte/capteur de choc est retiré de la surface montée ou que le couvercle est ouvert, l'interrupteur d'autoprotection sera activé et l'appareil enverra un signal d'ouverture d'autoprotection pour rappeler à l'utilisateur la condition.
     -   Le signal d'auto-ouverture sera transmis avec le contact de porte au panneau de commande. L'état de défaut d'autoprotection sera affiché uniquement dans la zone des dispositifs CC du panneau de commande.
 -   _**Surveillance**_
@@ -117,13 +117,13 @@ Reportez-vous au tableau ci-dessous pour obtenir des informations sur l'emplacem
 |                                |                  |                        |          |                     |              |   |
 | **Emplacement d'installation** | Cadre de fenêtre | Porte                  | Mur      |                     |              |   |
 |                                |                  |                        |          |                     |              |   |
-|                                |                  | **Faible sensibilité** | 0,5M     | 0.5M                | 0,25 M       |   |
+|                                |                  | **Faible sensibilité** | 0,5M     | 0,5M                | 0,25 M       |   |
 | **Détection des chocs**        |                  |                        |          |                     |              |   |
 | **Sensibilité moyenne**        | 1M               | 1M                     | 0,5M     |                     |              |   |
 | **Rayon**                      |                  |                        |          |                     |              |   |
 |                                |                  |                        |          |                     |              |   |
 |                                |                  |                        |          |                     |              |   |
-|                                |                  | **Haute sensibilité**  | 1,5M     | 2M                  | 1M           |   |
+|                                |                  | **Haute sensibilité**  | 1,5M     | Une mere            | 1M           |   |
 |                                |                  |                        |          |                     |              |   |
 
 ![](<.gitbook/assets/16 (10).jpeg>)
