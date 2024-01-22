@@ -13,7 +13,7 @@
 
 ![](<.gitbook/assets/1 (6) (1).png>)
 
-**1. Green Active LED**
+**1. LED verde attivo**
 
 **2. LED rosso di trasmissione**
 
@@ -71,7 +71,7 @@
 -   **LED arancione di guasto:**
     -   -   Il LED di guasto arancione lampeggia: la batteria è scarica durante il funzionamento.
         -   LED arancione di guasto acceso: la manomissione è stata attivata durante il funzionamento.
-        -   Quando viene attivata la manomissione della tastiera e la batteria è scarica, il LED arancione di guasto si accende durante il funzionamento.
+        -   When Keypad Tamper is trigger and battery is low, the Orange Fault LED turns on during operation.
 
 **\\<NOTE>**
 
@@ -80,7 +80,7 @@
 -   _**Energia:**_
 -   La tastiera utilizza come fonte di alimentazione una batteria al litio CR2450 3V 540mAH.
 -   La tastiera può anche rilevare lo stato della batteria. Il rilevamento di batteria scarica funziona quando la tastiera dispone di energia di riserva sufficiente per funzionare normalmente per 4 mesi prima del completo esaurimento.
--   When the Keypad has low battery, the Orange Fault LED will flash during operation and a low battery signal will be transmitted along with regular signal transmissions.
+-   Quando la batteria della tastiera è scarica, il LED arancione di guasto lampeggerà durante il funzionamento e verrà trasmesso un segnale di batteria scarica insieme alle normali trasmissioni del segnale.
 -   Prima della spedizione, la batteria viene preinstallata in fabbrica.
 -   _**Protezione antisabotaggio:**_
 -   La tastiera è protetta contro qualsiasi tentativo di aprire il coperchio o di staccarla dalla superficie di montaggio.
@@ -150,7 +150,7 @@ Passaggio 2. Aggiunta della tastiera al pannello di controllo:
 
 Passo 3. Dopo aver appreso la tastiera, inserire il pannello di controllo**Prova della camminata**modalità. Tenere la tastiera nella posizione desiderata e inviare il codice di apprendimento al pannello di controllo per confermare che questa posizione rientra nel raggio del segnale del pannello di controllo. Per inviare il codice di apprendimento, premere quindi il tasto ＊**1**tasto in modalità test o premerli entrambi**#**e ＊ insieme in modalità di funzionamento normale.
 
-Passo 4. Quando sei sicuro che il tastierino funzioni nella posizione scelta, puoi procedere con il montaggio del tastierino seguendo i passaggi descritti di seguito (vedi_**Mounting Keypad**)_.
+Passo 4. Quando sei sicuro che il tastierino funzioni nella posizione scelta, puoi procedere con il montaggio del tastierino seguendo i passaggi descritti di seguito (vedi_**Montaggio della tastiera**)_.
 
 Passaggio 5. Impostazione del codice PIN:
 
