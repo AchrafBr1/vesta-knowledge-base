@@ -1,6 +1,6 @@
 # VESTA 030
 
-**Repetidor (RP-29)**
+**Repeater (RP-29)**
 
 El Repetidor está diseñado para aumentar la eficacia y versatilidad del sistema de alarma. Es un dispositivo que hace que su sistema sea más potente al aumentar la distancia máxima posible entre la Unidad Principal (Panel de Control) y los Dispositivos.
 
@@ -233,7 +233,7 @@ Ejemplo 2:
 
 En el diagrama mostrado, el dispositivo está ubicado entre las áreas de cobertura de RF de los Repetidores A, B y C. Los usuarios pueden elegir programar el dispositivo solo en el Repetidor A, aprender solo en el Repetidor B, aprender solo en el Repetidor C o aprender en Repetidores. A, B y C.
 
-Es**recomendado**para programar el dispositivo solo en el Repetidor A o solo en el Repetidor B (y no en el Repetidor C) para reducir el tráfico de señal.
+Es**recomendado** to learn the device into Repeater A only or Repeater B only (and not to Repeater C) to reduce signal traffic.
 
 \\<Note>
 
