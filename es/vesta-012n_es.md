@@ -1,6 +1,6 @@
 # CHALECO 012N
 
-![](<.gitbook/assets/0 (24).jpeg>)**TECLADO REMOTO BLUETOOTH (KPT-39N-BLE)**
+![](<.gitbook/assets/0 (24).jpeg>)**BLUETOOTH REMOTE KEYPAD (KPT-39N-BLE)**
 
 KPT-39N-BLE es un teclado remoto con función Bluetooth y lector NFC. Está diseñado para tener un control de acceso rápido al Panel de control del sistema mediante el código PIN de usuario, la etiqueta NFC o acercándose al teclado con el teléfono inteligente emparejado para desarmar el sistema. El teclado puede enviar señales inalámbricas y recibir señales inalámbricas desde el panel de control.
 
@@ -16,7 +16,7 @@ El teclado remoto se puede montar en una superficie plana o en una pared con tor
 
 1.  Tecla de brazo
 2.  Llave de la casa
-3.  Tecla de desarmar
+3.  Disarm Key
 4.  Alarma de pánico (si está habilitada)
     -   presione 1 y 3 para activar la alarma de pánico
 5.  Alarma de incendio (si está habilitada)
@@ -70,7 +70,7 @@ Parpadea junto con 4 pitidos: el código PIN era incorrecto.
     -   -   -   Ingrese al modo de programación: ingrese el código PIN del teclado y luego presione la tecla ＊.
             -   Alarma de pánico: presione**1**tecla +**3**clave al mismo tiempo. (si la función está habilitada)
             -   Alarma de incendio: presione**4**tecla +**6**clave al mismo tiempo. (si la función está habilitada)
-            -   Alarma médica: presione**7**tecla +**9**clave al mismo tiempo. (si la función está habilitada)
+            -   Alarma médica — Presione**7**tecla +**9**clave al mismo tiempo. (si la función está habilitada)
             -   Verificar el estado del panel de control: modo normal Presione**#**llave.
             -   Activar/desactivar sonido de entrada y salida: presione**1**tecla +**2**tecla al mismo tiempo durante 2 segundos. (El teclado emitirá un pitido largo para indicar que la función está habilitada y emitirá 2 pitidos cortos para indicar que la función está deshabilitada).
 -   _**Fuerza**_
@@ -87,7 +87,7 @@ Parpadea junto con 4 pitidos: el código PIN era incorrecto.
 -   _**Señal de supervisión**_
     -   -   Después de la instalación, el teclado remoto transmitirá automáticamente señales de supervisión al panel de control en
 
-![](<.gitbook/assets/6 (15).png>)![](<.gitbook/assets/7 (15).jpeg>)![](<.gitbook/assets/8 (11).jpeg>)![](<.gitbook/assets/9 (6).jpeg>)![](<.gitbook/assets/10 (6).jpeg>)![](<.gitbook/assets/11 (10).jpeg>)
+![](<.gitbook/assets/6 (15).png>)![](<.gitbook/assets/7 (15).jpeg>)![](<.gitbook/assets/8 (11).jpeg>)![](<.gitbook/assets/9 (6).jpeg>)![](<.gitbook/assets/10 (6).jpeg>) ![](<.gitbook/assets/11 (10).jpeg>)
 
 un intervalo de 30-50 minutos.
 
@@ -243,7 +243,7 @@ Conéctese para iniciar sesión en su cuenta._Nota:_Asegúrese de que Bluetooth 
 
 escaneando automáticamente, toque el botón en la pantalla para buscar el teclado.
 
-Cuando el teclado detectado se muestre en la lista, tóquelo para ingresar a la página del código PIN de emparejamiento. Ingrese el código PIN de emparejamiento BLE**(Predeterminado: 000000)**y toque**Par**botón para continuar.
+Cuando el teclado detectado se muestre en la lista, tóquelo para ingresar a la página Código PIN de emparejamiento. Ingrese el código PIN de emparejamiento BLE**(Predeterminado: 000000)**y toque**Par**botón para continuar.
 
 _Nota:_Para editar el código PIN de emparejamiento, ingrese el código PIN de 6 dígitos y ＊ en el teclado en el modo de emparejamiento BLE.
 
@@ -313,9 +313,9 @@ _**Restablecer los valores predeterminados de fábrica:**_
 
 Paso 1 Retire las baterías y libere el manipulador.
 
-Paso 2 Si “**Armar/Inicio con código PIN del panel de control**"Método seleccionado, mantenga presionado**3**mientras vuelve a insertar la batería.
+Paso 2 Si “**Armar/Inicio con código PIN del panel de control**"Método seleccionado, mantenga presionado**3**llave mientras vuelve a insertar la batería.
 
-.Si "**Armar/Inicio sin código PIN del panel de control**"Método seleccionado, mantenga presionado**4**mientras vuelve a insertar la batería.
+.Si "**Armar/Inicio sin código PIN del panel de control**"Método seleccionado, mantenga presionado**4**llave mientras vuelve a insertar la batería.
 
 Paso 3 Continuar presionando**3**hasta que el KP emita 3 pitidos para indicar que el reinicio se realizó correctamente.
 
