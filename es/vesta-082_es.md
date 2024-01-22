@@ -134,8 +134,8 @@ En el modo de funcionamiento normal, los indicadores LED parpadearán en las sig
     -   Cuando la batería se agota, WADC-1 detendrá todas las funciones, tanto el LED verde como el LED rojo parpadearán cada 4 segundos.
 -   _**Batería**_
     -   WADC-1 utiliza una batería de litio CR123 de 3V como fuente de energía:
-    -   WADC-1 presenta una función de detección de batería baja. Si se detecta un voltaje bajo de la batería, se enviará una señal de batería baja al Panel de control junto con transmisiones regulares de señales para que el Panel de control muestre el estado correspondiente.
-    -   Al cambiar la batería, después de retirar la batería vieja, presione el interruptor de manipulación dos veces para descargarla por completo antes de insertar una batería nueva.
+    -   WADC-1 presenta una función de detección de batería baja. Si se detecta un voltaje bajo de la batería, se enviará una señal de batería baja al Panel de control junto con transmisiones de señal regulares para que el Panel de control muestre el estado correspondiente.
+    -   Al cambiar la batería, después de retirar la batería vieja, presione el interruptor de manipulación dos veces para descargarla completamente antes de insertar una batería nueva.
 -   _**Empezando**_
     -   Saque el aislante de la batería para activar la batería.
     -   Coloque el Panel de control en modo de aprendizaje; consulte el manual del Panel de control para obtener más detalles.
