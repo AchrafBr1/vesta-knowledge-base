@@ -182,7 +182,7 @@ Para aprovechar al máximo el PIR, se deben considerar las siguientes pautas:
 -   Cuando el IR-29 se monta con un soporte giratorio, no tendrá el área de detección normal (como en el diagrama anterior) ni el rango inmune típico a las mascotas.
 -   Monte donde los animales no puedan llegar a la zona de detección trepando a muebles u otros objetos.
 -   No apunte el detector hacia escaleras por las que puedan subir los animales.
--   In a position such that an intruder would normally move across the PIR’s field of view from side to side.
+-   En una posición tal que un intruso normalmente se movería a través del campo de visión del PIR de lado a lado.
 -   En una esquina para dar la vista más amplia.
 -   Donde su campo de visión no esté obstruido, p.e. por cortinas, adornos, etc.
 -   **Limitaciones**
