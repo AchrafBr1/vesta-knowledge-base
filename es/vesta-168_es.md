@@ -105,7 +105,7 @@ Para probar si el dispositivo puede comunicarse con la puerta de enlace Z-Wave o
     -   La puerta de enlace/panel debe mostrar si el dispositivo está dentro del rango de operación (consulte el manual de operación de la puerta de enlace/panel).
 -   _**Modo de suspensión Z-Wave**_
     -   El interruptor de control del obturador ingresará al modo de suspensión Z-Wave (para conservar energía) después de despertarse por un corto período de tiempo (~10 segundos). Mientras está en el modo de suspensión Z-Wave, las puertas de enlace o paneles de control Z-Wave no pueden enviar comandos al interruptor de control del obturador.
-    -   Para programar el interruptor de control del obturador usando el panel de control/puerta de enlace Z-Wave, envíe comandos al interruptor de control del obturador dentro del período de activación.
+    -   Para programar el interruptor de control del obturador utilizando el panel de control/puerta de enlace Z-Wave, envíe comandos al interruptor de control del obturador dentro del período de activación.
 
 ![](<.gitbook/assets/7 (32).png>)![](<.gitbook/assets/8 (29).jpeg>)
 
