@@ -21,7 +21,7 @@ El Botón de Pánico se utiliza para activar (o desactivar) una alarma de pánic
 El indicador LED se iluminará brevemente cuando el dispositivo esté transmitiendo una señal.
 
 1.  **Tornillo de fijación de la tapa**
-2.  **Fixing Hook**
+2.  **Gancho de fijación**
 3.  **Compartimiento de la batería**
 
 -   **Batería**
