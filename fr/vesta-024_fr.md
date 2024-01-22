@@ -20,7 +20,7 @@ VST-862EX-IL – Caméra à capteur de mouvement PIR avec LED infrarouge
 
 ![](<.gitbook/assets/0 (27).jpeg>)
 
-**Vue de face****Vue de l'intérieur**
+**Front View****Vue de l'intérieur**
 
 ![](<.gitbook/assets/1 (22).jpeg>)
 
@@ -32,7 +32,7 @@ Le flash LED (pour le VST-862EX) ou le LED infrarouge (pour le VST-862EX-IL) fou
 
 L'indicateur LED est utilisé pour indiquer l'état du système.
 
-1.  **Capteur IR**
+1.  **IR Sensor**
 
 Le capteur est destiné à détecter des objets en mouvement.
 
@@ -66,7 +66,7 @@ Lorsqu'il est activé, l'indicateur LED s'allume dans les conditions suivantes 
 
 _\\<NOTE>_
 
--   -   L'indicateur LED peut être activé en réglant le DIP Switch2 sur la position ON. Prière de se référer à**Tableau de position des commutateurs DIP** for details.
+-   -   L'indicateur LED peut être activé en réglant le DIP Switch2 sur la position ON. Prière de se référer à**Tableau de position des commutateurs DIP**pour plus de détails.
 -   _**Capture d'image**_
 
 Lorsque le système d'alarme est armé, la caméra PIR capturera 1, 3 ou 6 images d'alarme en résolutions 640 x 480 ou 320 x 240 (programmable depuis le panneau de commande) lors de la détection de mouvement. Vous pouvez également demander manuellement à la caméra PIR de prendre une photo via le panneau de configuration. Les images capturées seront transférées au panneau de commande pour vérification visuelle des alarmes.
