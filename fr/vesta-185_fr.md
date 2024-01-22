@@ -8,7 +8,7 @@ LMHT-1ZBS est un capteur de lumière ambiante, d'humidité et de température Zi
 
 Le capteur utilise la technologie ZigBee pour la transmission du signal sans fil. ZigBee est un protocole de communication sans fil fiable, à faible consommation d'énergie et à haute efficacité de transmission. Basé sur la norme IEEE802.15.4, ZigBee permet d'inclure un grand nombre d'appareils dans un réseau et de les coordonner pour l'échange de données et la transmission de signaux.
 
-Le capteur sert de périphérique final dans le réseau ZigBee. Il peut être inclus dans le réseau ZigBee pour transmettre le signal lors de l'activation, mais ne peut permettre à aucun autre appareil ZigBee de rejoindre le réseau via le capteur.
+Le capteur sert de périphérique final dans le réseau ZigBee. Il peut être inclus dans le réseau ZigBee pour transmettre un signal lors de l'activation, mais ne peut permettre à aucun autre appareil ZigBee de rejoindre le réseau via le capteur.
 
 **Identification des pièces**
 
@@ -35,7 +35,7 @@ La lecture de l'éclairement est transmise toutes les 30 minutes.
 
 La lecture de l'humidité et de la température est transmise toutes les 10 minutes. Le capteur transmettra également automatiquement le signal lorsque :
 
--   -   -   The temperature changes by +/- 2°C.
+-   -   -   La température change de +/- 2°C.
         -   L'humidité change de +/- 10%.
         -   Lorsque l'éclairement actuel change de +/- 10 %.
         -   Le niveau de changement requis pour déclencher la transmission du signal est programmable à l'aide de la commande ZigBee Configure Reporting – paramètre Reportable Change. Les valeurs par défaut sont :
@@ -67,7 +67,7 @@ ZigBee est un protocole de communication sans fil fiable, à faible consommation
 
 En raison de la structure fondamentale du réseau ZigBee, l'appareil ZigBee recherchera et rejoindra activement le réseau après la mise sous tension. Étant donné que l'exécution d'une tâche de connexion au réseau peut consommer de l'énergie, il est nécessaire de suivre les instructions pour éviter de vider la batterie d'un appareil ZigBee.
 
--   -   Assurez-vous que votre routeur ou coordinateur réseau ZigBee est allumé avant d'insérer la batterie dans l'appareil ZigBee.
+-   -   Assurez-vous que votre routeur ou coordinateur réseau ZigBee est sous tension avant d'insérer la batterie dans l'appareil ZigBee.
     -   Assurez-vous que le routeur ou le coordinateur réseau ZigBee est sous tension et à portée lorsqu'un appareil ZigBee est en cours d'utilisation.
     -   Ne retirez pas un appareil ZigBee du routeur ou du coordinateur réseau ZigBee sans retirer la batterie d'un appareil ZigBee.
 -   _**Rejoindre le réseau ZigBee**_
@@ -78,7 +78,7 @@ En tant qu'appareil ZigBee, le capteur doit rejoindre un réseau ZigBee pour tra
     2.  Appuyez et maintenez enfoncé le bouton de fonction pendant 10 secondes pendant que le capteur se réinitialise (la LED clignote une fois) et commence à rechercher le réseau ZigBee existant. Veuillez vous assurer que la fonction d'autorisation de rejoindre sur le routeur ou le coordinateur de votre réseau ZigBee est activée.
     3.  Si le capteur rejoint avec succès un réseau ZigBee, l'indicateur LED clignote deux fois pour confirmer.
     4.  Après avoir rejoint le réseau ZigBee, le capteur sera automatiquement enregistré dans le réseau. Veuillez vérifier votre coordinateur ZigBee, votre panneau de contrôle du système ou votre CIE (équipement de contrôle et d'indication) pour confirmer si l'adhésion et l'enregistrement ont réussi.
-    5.  Après avoir rejoint le réseau ZigBee, si le capteur perd la connexion avec le réseau ZigBee actuel, la LED clignotera toutes les 20 minutes pour l'indiquer. Veuillez vérifier l'état de votre réseau ZigBee et la portée du signal du capteur pour corriger la situation.
+    5.  Après avoir rejoint le réseau ZigBee, si le capteur perd la connexion avec le réseau ZigBee actuel, la LED clignotera toutes les 20 minutes pour l'indiquer. Veuillez vérifier l'état de votre réseau ZigBee et la plage du signal du capteur pour corriger la situation.
 -   _**Suppression d'un appareil du réseau ZigBee (réinitialisation d'usine)**_
 
 Pour supprimer l'appareil du réseau ZigBee actuel, le capteur doit être mis en configuration d'usine pour terminer la suppression de l'appareil. La fonction de réinitialisation d'usine effacera l'appareil de ses informations de configuration stockées et invitera le capteur à rechercher un nouveau réseau ZigBee.
@@ -92,13 +92,13 @@ Pour supprimer l'appareil du réseau ZigBee actuel, le capteur doit être mis en
 
 -   _**Montage du capteur**_
 
-Le capteur peut être monté de deux manières : montage autocollant ou montage par vis.
+Le capteur peut être monté de deux manières : montage auto-adhésif ou par vis.
 
 **Montage autocollant**
 
 1.  Nettoyer la surface avec un dégraissant adapté.
-2.  Retirez le revêtement protecteur d'un côté du tampon adhésif double face et appliquez-le fermement à l'arrière de l'appareil.
-3.  Retirez l'autre revêtement et placez/appuyez fermement sur l'appareil à l'endroit souhaité.
+2.  Retirez le revêtement de protection d'un côté du tampon adhésif double face et appliquez-le fermement à l'arrière de l'appareil.
+3.  Retirez l'autre revêtement et placez/appuyez fermement sur l'appareil à l'emplacement souhaité.
 
 ![](<.gitbook/assets/1 (65).jpeg>)
 
@@ -129,7 +129,7 @@ Le capteur de lumière ambiante, d'humidité et de température prend en charge 
 
 **Étape 2.**Sur la page Web de configuration, sélectionnez l'appareil que vous souhaitez mettre à niveau et sélectionnez le nouveau firmware ZigBee fourni. Veuillez vous référer au manuel d'utilisation du coordinateur ZigBee pour plus de détails.
 
-**Étape 3.**Appuyez sur « OK » pour démarrer le processus de mise à niveau et la LED continuera à clignoter. Pendant le processus OTA, veuillez faire
+**Étape 3.**Appuyez sur « OK » pour démarrer le processus de mise à niveau et la LED continuera de clignoter. Pendant le processus OTA, veuillez faire
 
 n'effectuez aucune autre action et n'éteignez pas le panneau.
 
@@ -188,7 +188,7 @@ n'effectuez aucune autre action et n'éteignez pas le panneau.
 | 0x0005           | _Identifiant du modèle_  | Personnage       | 0 – 32 octets | Lire        | (Version modèle) | Ô               |   |
 | Chaîne           | seulement                |                  |               |             |                  |                 |   |
 |                  |                          |                  |               |             |                  |                 |   |
-| 0x0006           | _CodeDate_               | Personnage       | 0 – 16 octets | Lire        |                  | Ô               |   |
+| 0x0006           | _DateCode_               | Personnage       | 0 – 16 octets | Lire        |                  | Ô               |   |
 | Chaîne           | seulement                |                  |               |             |                  |                 |   |
 |                  |                          |                  |               |             |                  |                 |   |
 | 0x0007           | _Source d'énergie_       | 8 bits           | 0x00 –0xff    | Lire        |                  | M.              |   |
@@ -229,21 +229,21 @@ n'effectuez aucune autre action et n'éteignez pas le panneau.
 
 _**Attribut des informations sur le cluster de mesure de l'éclairement**_
 
-| **Identifier**   | **Nom**               | **Taper**          | **Gamme**             | **Accéder** | **Défaut** | **Obligatoire** |   |
-| ---------------- | --------------------- | ------------------ | --------------------- | ----------- | ---------- | --------------- | - |
-| **/ Facultatif** |                       |                    |                       |             |            |                 |   |
-|                  |                       |                    |                       |             |            |                 |   |
-|                  |                       | Signé 16 bits      | Valeur MinMeasured    | Lire        |            |                 |   |
-| 0x0000           | _La valeur de mesure_ | à                  | 0x00                  | M.          |            |                 |   |
-| Entier           | seulement             |                    |                       |             |            |                 |   |
-|                  |                       | Valeur MaxMeasured |                       |             |            |                 |   |
-|                  |                       |                    |                       |             |            |                 |   |
-| 0x0001           | _Valeur MinMeasured_  | Signé 16 bits      | 0x0001 - 0xffffd      | Lire        | 1          | M.              |   |
-| Entier           | seulement             |                    |                       |             |            |                 |   |
-|                  |                       |                    |                       |             |            |                 |   |
-| 0x0002           | _Valeur MaxMeasured_  | Signé 16 bits      | Valeur MinMeasured +1 | Lire        | 52742      | M.              |   |
-| Entier           | - 0xffffe             | seulement          |                       |             |            |                 |   |
-|                  |                       |                    |                       |             |            |                 |   |
+| **Identifier**   | **Nom**               | **Taper**          | **Gamme**             | **Accéder** | **Default** | **Obligatoire** |   |
+| ---------------- | --------------------- | ------------------ | --------------------- | ----------- | ----------- | --------------- | - |
+| **/ Facultatif** |                       |                    |                       |             |             |                 |   |
+|                  |                       |                    |                       |             |             |                 |   |
+|                  |                       | Signé 16 bits      | Valeur MinMeasured    | Lire        |             |                 |   |
+| 0x0000           | _La valeur de mesure_ | à                  | 0x00                  | M.          |             |                 |   |
+| Entier           | seulement             |                    |                       |             |             |                 |   |
+|                  |                       | Valeur MaxMeasured |                       |             |             |                 |   |
+|                  |                       |                    |                       |             |             |                 |   |
+| 0x0001           | _Valeur MinMeasured_  | Signé 16 bits      | 0x0001 - 0xffffd      | Lire        | 1           | M.              |   |
+| Entier           | seulement             |                    |                       |             |             |                 |   |
+|                  |                       |                    |                       |             |             |                 |   |
+| 0x0002           | _Valeur MaxMeasured_  | Signé 16 bits      | Valeur MinMeasured +1 | Lire        | 52742       | M.              |   |
+| Entier           | - 0xffffe             | seulement          |                       |             |             |                 |   |
+|                  |                       |                    |                       |             |             |                 |   |
 
 -   _**Attribut des informations sur le cluster de mesure de la température**_
 
