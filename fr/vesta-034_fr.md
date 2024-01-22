@@ -67,7 +67,7 @@ La conception du capteur d’inclinaison du garage se compose d’un couvercle e
 
 ![](<.gitbook/assets/1 (27).jpeg>)
 
--   _**Directives d'installation et recommandations**_
+-   _**Installation Guideline & Recommendations**_
 
 **Ligne directrice:**
 
