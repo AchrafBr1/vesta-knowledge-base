@@ -2,7 +2,7 @@
 
 **Telecomando (RC-16-2W)**
 
-Il telecomando viene utilizzato per inserire il sistema in modalità Casa o Fuori, disinserire il sistema e inviare un segnale di panico.
+The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
 -   _**Identificazione delle parti**_
 
@@ -32,9 +32,9 @@ _\\<NOTE>_
 
 -   -   L'allarme panico non può essere interrotto dopo l'attivazione premendo il pulsante di disinserimento sul telecomando.
 
-1.  **INDICATORE LED (rosso e verde)**
+1.  **LED INDICATOR (Red & Green)**
 
-Rosso lampeggiante: segnale in trasmissione
+Red Flash: Transmitting signal
 
 Verde lampeggiante: ricezione del riconoscimento e conferma dell'avvenuto cambio di modalità dal pannello
 
@@ -42,7 +42,7 @@ Rosso Lampeggiante veloce 8 volte: riceve la conferma e l'errore di cambio modal
 
 Rosso acceso per 5 secondi: riceve conferma ma nessuna conferma/errore di cambio modalità dalla centrale
 
-Red Flash 3 times: Failed to receive any acknowledgement from panel
+Rosso lampeggiante 3 volte: impossibile ricevere alcun riconoscimento dalla centrale
 
 1.  **COMPARTIMENTO DELLA BATTERIA**
 
