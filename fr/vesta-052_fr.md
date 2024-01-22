@@ -52,7 +52,7 @@ La sensibilité PIR peut être ajustée pour répondre à différentes exigences
 2.  Dans les 10 secondes, réglez la nouvelle sensibilité PIR à partir du panneau de commande (veuillez vous référer au manuel de votre panneau de commande pour plus de détails). Le panneau enverra un signal au PIR pour terminer le réglage.
 3.  Si le réglage de la sensibilité n'est pas terminé dans cet intervalle, recommencez à partir de l'étape 1.
 
-Please refer to _**Configuration de la classe de commande**_pour plus de détails sur les paramètres.
+Prière de se référer à_**Configuration de la classe de commande**_pour plus de détails sur les paramètres.
 
 -   _Détection de batterie et de batterie faible_
 
@@ -174,12 +174,12 @@ Pour tester si l'appareil est capable de communiquer avec la passerelle Z-Wave o
 
 **Identifiant du produit :**0x0104
 
-**Supported Command Class:**
+**Classe de commande prise en charge :**
 
 | **Classe de commande**                      | **Version** | **Classe de sécurité requise**             |
 | ------------------------------------------- | ----------- | ------------------------------------------ |
 | Association                                 | 2           | Classe de sécurité accordée la plus élevée |
-| Informations sur le groupe d'associations   | 3           | Highest Granted Security Class             |
+| Informations sur le groupe d'associations   | 3           | Classe de sécurité accordée la plus élevée |
 | Réinitialisation de l'appareil localement   | 1           | Classe de sécurité accordée la plus élevée |
 | Métadonnées de mise à jour du micrologiciel | 5           | Classe de sécurité accordée la plus élevée |
 | Spécifique à la fabrication                 | 2           | Classe de sécurité accordée la plus élevée |
@@ -198,14 +198,14 @@ Pour tester si l'appareil est capable de communiquer avec la passerelle Z-Wave o
 
 **Groupes associatifs :**
 
-| **IDENTIFIANT** | **Nom**           | **Nombre de nœuds** | **Description**                                                                                                                                                                                                                                   |
-| --------------- | ----------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1               | Corde de sécurité | 5                   | <p>Prend en charge les classes de commandes suivantes :</p><ul><li>Device Reset Locally: triggered upon reset</li><li>Rapport de notification : déclenché par PIR</li><li>Rapport de batterie : lorsque le niveau de la batterie change</li></ul> |
-| 2               | Ensemble de base  | 5                   | <p>Lorsque le PIR se déclenche, le groupe 2 envoie 0xFF.</p><p>Lors de la restauration PIR, le groupe 2 envoie 0x00.</p>                                                                                                                          |
+| **IDENTIFIANT** | **Nom**           | **Nombre de nœuds** | **Description**                                                                                                                                                                                                                                                                       |
+| --------------- | ----------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1               | Corde de sécurité | 5                   | <p>Prend en charge les classes de commandes suivantes :</p><ul><li>Réinitialisation locale de l'appareil : déclenchée lors de la réinitialisation</li><li>Rapport de notification : déclenché par PIR</li><li>Rapport de batterie : lorsque le niveau de la batterie change</li></ul> |
+| 2               | Ensemble de base  | 5                   | <p>Lorsque le PIR se déclenche, le groupe 2 envoie 0xFF.</p><p>Lors de la restauration PIR, le groupe 2 envoie 0x00.</p>                                                                                                                                                              |
 
 **Configuration de la classe de commande :**
 
-| **Nombre** | **Nom**                  | **Taille** | **Le minimum** | **Maximum** | **Default** | **Description**                                                                                                                                                                                                                                                             |
-| ---------- | ------------------------ | ---------- | -------------- | ----------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1          | Sensibilité IR           | 1          | 1              | 5           | 4           | <p>Réglage du niveau de sensibilité :</p><ul><li>1 : le plus bas ; 5 : le plus élevé</li><li>Lorsque le maximum est supérieur à 5, 5 sera la valeur définie ; lorsque le minimum est inférieur à 1, 1 sera la valeur définie.</li></ul>                                     |
-| 2          | Temps de restauration IR | 1          | 1              | 120         | 1           | <p>La durée de la minuterie est réglable de 30 secondes à 60 minutes :</p><ul><li>1 : 30 secondes ; 120 : 60 minutes</li><li>Lorsque le maximum est supérieur à 120, 120 sera la valeur définie ; lorsque le minimum est inférieur à 1, 1 sera la valeur définie.</li></ul> |
+| **Nombre** | **Nom**                  | **Taille** | **Le minimum** | **Maximum** | **Défaut** | **Description**                                                                                                                                                                                                                                                             |
+| ---------- | ------------------------ | ---------- | -------------- | ----------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Sensibilité IR           | 1          | 1              | 5           | 4          | <p>Réglage du niveau de sensibilité :</p><ul><li>1 : le plus bas ; 5 : le plus élevé</li><li>Lorsque le maximum est supérieur à 5, 5 sera la valeur définie ; lorsque le minimum est inférieur à 1, 1 sera la valeur définie.</li></ul>                                     |
+| 2          | Temps de restauration IR | 1          | 1              | 120         | 1          | <p>La durée de la minuterie est réglable de 30 secondes à 60 minutes :</p><ul><li>1 : 30 secondes ; 120 : 60 minutes</li><li>Lorsque le maximum est supérieur à 120, 120 sera la valeur définie ; lorsque le minimum est inférieur à 1, 1 sera la valeur définie.</li></ul> |
