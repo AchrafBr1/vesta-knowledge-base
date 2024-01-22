@@ -170,7 +170,7 @@ Entrée de suivi de sortie : Cette fonction est disponible uniquement lorsque l
 
 Mode de fonctionnement : sélectionnez le mode de fonctionnement du DIO-52-B. Veuillez vous référer à la section précédente pour plus de détails.
 
--   **Entrée terminale (DI) :**
+-   **Input Terminal (DI):**
 
 Programmez les paramètres DI dans**Modifier le périphérique DI**sur la page Web du Panel ou sur le serveur du portail d'accueil.
 
