@@ -12,7 +12,7 @@ PCU-5: Unidad de cable de tracción con estándar de impermeabilidad IPX4
 
 ![](<.gitbook/assets/1 (45).png>)
 
--   _**Identificación de piezas**_
+* _**Identificación de piezas**_
 
 ![](<.gitbook/assets/2 (52).png>)
 
@@ -20,24 +20,29 @@ PCU-5: Unidad de cable de tracción con estándar de impermeabilidad IPX4
 
 El indicador LED se iluminará cuando se active la PCU.
 
--   1.  **Interruptor de cable de tracción**
+*
+  1. **Interruptor de cable de tracción**
 
-Tire del cable adjunto para activar la PCU. Para la instalación del cable, consulte la_**Instalación**_sección siguiente.
+Tire del cable adjunto para activar la PCU. Para la instalación del cable, consulte la\_**Instalación**\_sección siguiente.
 
--   1.  **Orificios de montaje (perforaciones)**
--   _**Batería**_
-    -   -   La PCU utiliza una batería de litio CR2 de 3V.
-        -   La PCU puede detectar automáticamente la batería baja. Cuando se detecta batería baja, transmitirá una señal de batería baja para notificar al Panel de control.
-        -   Cuando se inserta una batería, si el voltaje de la batería es bajo, el indicador LED parpadeará 3 veces para indicarlo.
-        -   Para insertar la batería, consulte_**Instalación**_para detalles.
--   _**Aprendiendo**_
-    -   -   Coloque el panel de control en modo de aprendizaje (consulte el manual del panel de control para obtener más detalles), tire del cable de la PCU para transmitir el código de aprendizaje.
-        -   Consulte el manual del Panel de control para completar el aprendizaje en proceso.
--   _**Operación**_
-    -   -   En caso de emergencia, tire del cable para activar la PCU; la PCU transmitirá una señal de emergencia al panel de control y el LED también se iluminará.
--   _**Instalación**_
+*
+  1. **Orificios de montaje (perforaciones)**
+* _**Batería**_
+  *
+    * La PCU utiliza una batería de litio CR2 de 3V.
+    * La PCU puede detectar automáticamente la batería baja. Cuando se detecta batería baja, transmitirá una señal de batería baja para notificar al Panel de control.
+    * Cuando se inserta una batería, si el voltaje de la batería es bajo, el indicador LED parpadeará 3 veces para indicarlo.
+    * Para insertar la batería, consulte\_**Instalación**\_para detalles.
+* _**Aprendiendo**_
+  *
+    * Coloque el panel de control en modo de aprendizaje (consulte el manual del panel de control para obtener más detalles), tire del cable de la PCU para transmitir el código de aprendizaje.
+    * Consulte el manual del Panel de control para completar el aprendizaje en proceso.
+* _**Operación**_
+  *
+    * En caso de emergencia, tire del cable para activar la PCU; la PCU transmitirá una señal de emergencia al panel de control y el LED también se iluminará.
+* _**Instalación**_
 
-![](<.gitbook/assets/3 (51).png>)![](<.gitbook/assets/4 (47).png>)![](<.gitbook/assets/5 (46).png>)![](<.gitbook/assets/6 (29).png>)
+![](<.gitbook/assets/3 (51).png>) ![](<.gitbook/assets/4 (47).png>) ![](<.gitbook/assets/5 (46).png>) ![](<.gitbook/assets/6 (29).png>)
 
 **Instalación de la batería**
 
@@ -53,7 +58,7 @@ Paso 2. Abra la cubierta superior de la PCU utilizando el destornillador de punt
 
 **Tapa**
 
-**(Foto 1.)****(Foto 2.)**
+**(Foto 1.)\*\*\*\*(Foto 2.)**
 
 Paso 3. Afloje los dos tornillos en la base de la PCU que sujetan el estabilizador con un destornillador Philips para que el estabilizador se vuelva móvil (**Foto 3.**)_No es obligatorio retirar ambos tornillos por completo._.
 
@@ -71,7 +76,7 @@ Paso 4. Gire el estabilizador suavemente en el sentido contrario a las agujas de
 
 ![](<.gitbook/assets/9 (30).png>)
 
-**(Elija 4.)****(Foto 5.)**
+**(Elija 4.)\*\*\*\*(Foto 5.)**
 
 Paso 5. Se completa la extracción de la caja de la PCU; Ahora puedes insertar la batería.
 
@@ -85,11 +90,11 @@ Paso 8. Vuelva a colocar la tapa. Haga coincidir el LED de la PCU con la marca L
 
 ![](<.gitbook/assets/12 (24).png>)
 
-**CONDUJO****Marca LED**
+**CONDUJO\*\*\*\*Marca LED**
 
 ![](<.gitbook/assets/13 (19).png>)
 
-**(Foto 6.)****(Foto 7.)**
+**(Foto 6.)\*\*\*\*(Foto 7.)**
 
 2
 
@@ -97,13 +102,13 @@ Paso 8. Vuelva a colocar la tapa. Haga coincidir el LED de la PCU con la marca L
 
 La PCU-3 o PCU-5 se suministra con un cable largo que incorpora un mango en forma de campana. Los usuarios pueden tirar de la manija para activar una alarma. Siga los pasos a continuación para atar la PCU-3/PCU-5 con el cable.
 
-**Paso 1.**Mida la altura a la que desea montar la PCU-3/PCU-5 y la longitud del cable. Asegúrese de que la PCU-3/PCU-5 y el cable sean accesibles para que los usuarios puedan agarrar y tirar del mango sin obstrucciones.
+\*\*Paso 1.\*\*Mida la altura a la que desea montar la PCU-3/PCU-5 y la longitud del cable. Asegúrese de que la PCU-3/PCU-5 y el cable sean accesibles para que los usuarios puedan agarrar y tirar del mango sin obstrucciones.
 
-**Paso 2.**Corte o modifique la longitud del cable largo para que el usuario pueda agarrar el mango fácilmente.
+\*\*Paso 2.\*\*Corte o modifique la longitud del cable largo para que el usuario pueda agarrar el mango fácilmente.
 
-**Paso 3.**Previamente se conecta un cable corto a la PCU-3/PCU-5. Ate el cable que cortó con el cable corto conectado con la PCU-3/PCU-5.
+\*\*Paso 3.\*\*Previamente se conecta un cable corto a la PCU-3/PCU-5. Ate el cable que cortó con el cable corto conectado con la PCU-3/PCU-5.
 
-**Etapa 4.**La instalación del cable está completa.
+\*\*Etapa 4.\*\*La instalación del cable está completa.
 
 ![](<.gitbook/assets/14 (14).png>)
 
@@ -113,9 +118,9 @@ La PCU-3 o PCU-5 se suministra con un cable largo que incorpora un mango en form
 
 Hay dos formas de montar la PCU:
 
--   _**Montaje con tornillos:**_
+* _**Montaje con tornillos:**_
 
-Paso 1. Abra la cubierta de la PCU como se indicó anteriormente (**pasos 1~4**) bajo_**Instalación de la batería.**_Paso 2. Rompe los 4 nocauts apropiados en la base (**Foto 8.**).
+Paso 1. Abra la cubierta de la PCU como se indicó anteriormente (**pasos 1\~4**) bajo\_**Instalación de la batería.**\_Paso 2. Rompe los 4 nocauts apropiados en la base (**Foto 8.**).
 
 ![](<.gitbook/assets/15 (15).png>)
 
@@ -127,11 +132,11 @@ Paso 4. Inserte los tacos de pared si los fija en yeso o ladrillo.
 
 Paso 5. Atornille la base a los tacos de pared con un destornillador Philips.
 
-Paso 6. Vuelva a ensamblar la PCU para completar el proceso de montaje (consulte**pasos 6~8**arriba).
+Paso 6. Vuelva a ensamblar la PCU para completar el proceso de montaje (consulte**pasos 6\~8**arriba).
 
--   _**Montaje en enchufe de pared:**_
+* _**Montaje en enchufe de pared:**_
 
-Paso 1. Abra la cubierta de la PCU como se indicó anteriormente (**pasos 1~4**) bajo_**Instalación de la batería.**_
+Paso 1. Abra la cubierta de la PCU como se indicó anteriormente (**pasos 1\~4**) bajo\_**Instalación de la batería.**\_
 
 Paso 2. Inserte el estabilizador en el orificio (o caja) de la pared y apriete los cuatro tornillos en las esquinas del estabilizador con un destornillador Phillips.
 
@@ -143,7 +148,7 @@ _**Declaración de la FCC**_
 
 _Este dispositivo cumple con la Parte 15 de las normas de la FCC. La operación está sujeta a las dos condiciones siguientes:_
 
-1.  _Es posible que este dispositivo no cause interferencias dañinas y_
-2.  _Este dispositivo debe aceptar cualquier interferencia recibida, incluidas las interferencias que puedan provocar un funcionamiento no deseado._
+1. _Es posible que este dispositivo no cause interferencias dañinas y_
+2. _Este dispositivo debe aceptar cualquier interferencia recibida, incluidas las interferencias que puedan provocar un funcionamiento no deseado._
 
 4

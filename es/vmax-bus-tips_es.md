@@ -1,21 +1,21 @@
-# 💡 CONSEJOS PARA EL AUTOBÚS VMAX
+# CONSEJOS PARA EL VMAX BUS DE VESTA
 
 **Consejos del SISTEMA DE BUS V-MAX en paneles VESTA:**
 
 ## **REGLAS GENERALES:**
 
--   De un dispositivo o salida de autobús a otro no se podrán superar los 300 metros.
--   Tenga en cuenta la corriente requerida por el sistema (use calculadora o tabla de consumo de los dispositivos).
--   Tener en cuenta la caída de voltaje (calculadora) Si hay una caída de voltaje, se puede utilizar una fuente de alimentación o un aislador-amplificador.
--   El límite del sistema BUS a nivel de distancia dependerá del consumo y voltaje en cada punto, si se garantiza una corriente y voltaje suficiente en cada dispositivo el sistema funcionará correctamente.
+* De un dispositivo o salida de autobús a otro no se podrán superar los 300 metros.
+* Tenga en cuenta la corriente requerida por el sistema (use calculadora o tabla de consumo de los dispositivos).
+* Tener en cuenta la caída de voltaje (calculadora) Si hay una caída de voltaje, se puede utilizar una fuente de alimentación o un aislador-amplificador.
+* El límite del sistema BUS a nivel de distancia dependerá del consumo y voltaje en cada punto, si se garantiza una corriente y voltaje suficiente en cada dispositivo el sistema funcionará correctamente.
 
 ![](<.gitbook/assets/4 (70).jpeg>)
 
-## **CASO 1: UNA LÍNEA DE AUTOBÚS**
+## **CASO 1: UNA LÍNEA DE BUS**
 
 ![](<.gitbook/assets/5 (48).jpeg>)
 
-## **CASO 2: DOS LINEAS DE AUTOBUS (STAR)**
+## **CASO 2: DOS LINEAS DE BUS (ESTRELLA)**
 
 ![](<.gitbook/assets/6 (53).jpeg>)
 
@@ -29,7 +29,7 @@
 
 ![](<.gitbook/assets/8 (50).jpeg>)
 
-## **CASO 4: CUATRO LÍNEAS DE AUTOBÚS**
+## **CASO 4: CUATRO LÍNEAS DE BUS**
 
 ![](<.gitbook/assets/9 (40).jpeg>)
 

@@ -4,7 +4,7 @@
 
 TSO-9EL es un sensor de temperatura inalámbrico con sonda de temperatura adjunta. Transmite automáticamente la condición de temperatura al panel de control cada media hora (30 minutos).
 
--   _**Identificando las partes**_
+* _**Identificando las partes**_
 
 Retire la cubierta aflojando el tornillo de fijación inferior; el interior del sensor de temperatura quedará revelado como se muestra.
 
@@ -26,12 +26,12 @@ Parpadea: cuando se presiona el botón Probar o Aprender. Parpadea continuamente
 
 Presione el botón para transmitir una señal de aprendizaje/prueba para aprender el sensor de temperatura.
 
-1.  **Compartimiento de la batería**
-2.  **Sonda de temperatura externa**
+1. **Compartimiento de la batería**
+2. **Sonda de temperatura externa**
 
 Conecte la sonda al terminal de la sonda de temperatura externa
 
--   _**Batería**_
+* _**Batería**_
 
 El sensor de temperatura utiliza uno**CR123 - Batería de litio de 3V**. Reemplace siempre la batería con una del tamaño y voltaje correctos.
 
@@ -39,9 +39,9 @@ Cuando el sensor de temperatura tiene batería baja, se enviará una señal de b
 
 Cuando la batería se agota, el LED parpadea cada 4 segundos y el sensor de temperatura detendrá todas sus funciones.
 
--   **Cambio de batería**
+* **Cambio de batería**
 
-1.  Retire la cubierta aflojando el tornillo de fijación inferior.
+1. Retire la cubierta aflojando el tornillo de fijación inferior.
 
 II. Retire la batería vieja.
 
@@ -49,8 +49,9 @@ III. Presione el interruptor de manipulación o el botón de aprendizaje/estado 
 
 IV. Coloque una batería nueva en el compartimiento de la batería. Oriente la batería según la polaridad correcta.
 
--   1.  Vuelva a colocar la cubierta.
--   _**Empezando**_
+*
+  1. Vuelva a colocar la cubierta.
+* _**Empezando**_
 
 **Paso 1**Retire el tornillo de fijación y el conjunto de la cubierta.
 
@@ -64,7 +65,7 @@ manual.
 
 **Paso 6**Consulte el manual de usuario del Panel de control para completar el proceso de aprendizaje.
 
--   _**Prueba de caminata (prueba de alcance)**_
+* _**Prueba de caminata (prueba de alcance)**_
 
 1
 
@@ -74,37 +75,40 @@ manual.
 
 **Paso 3**Si el panel de control recibe la señal, mostrará la información correspondiente. Consulte su Panel de control para completar el procedimiento de prueba de caminata.
 
--   _**Métodos de montaje**_
+* _**Métodos de montaje**_
 
 Hay dos formas de montar el sensor de temperatura: mediante instalación autoadhesiva o mediante montaje con tornillos.
 
--   **Montaje autoadhesivo**
+* **Montaje autoadhesivo**
 
-1.  Limpiar la superficie con un desengrasante adecuado.
-2.  Retire la cubierta protectora de un lado de la almohadilla adhesiva de doble cara y aplíquela firmemente en la parte posterior del dispositivo.
+1. Limpiar la superficie con un desengrasante adecuado.
+2. Retire la cubierta protectora de un lado de la almohadilla adhesiva de doble cara y aplíquela firmemente en la parte posterior del dispositivo.
 
 III. Luego retire la otra cubierta y presione firmemente el artículo en la ubicación deseada.
 
-_\\<NOTE>_
+_\\_
 
--   -   No utilice el método de instalación con almohadilla adhesiva sobre una superficie con pintura descascarada o agrietada, o sobre una superficie rugosa.
--   **Montaje con tornillos**
+*
+  * No utilice el método de instalación con almohadilla adhesiva sobre una superficie con pintura descascarada o agrietada, o sobre una superficie rugosa.
+* **Montaje con tornillos**
 
 La base tiene dos orificios ciegos, donde el plástico es más delgado, para fines de montaje. Para montar el sensor de temperatura
 
-1.  Retire la cubierta
+1. Retire la cubierta
 
 II. Rompe los nocauts en la base.
 
-1.  Usando los agujeros como plantilla, taladre agujeros en la superficie IV. Inserte los tacos de pared si se fija en yeso o ladrillo.
-    -   1.  Atornille la base a los tacos VI. Vuelva a atornillar la tapa a su base.
+1. Usando los agujeros como plantilla, taladre agujeros en la superficie IV. Inserte los tacos de pared si se fija en yeso o ladrillo.
+   *
+     1. Atornille la base a los tacos VI. Vuelva a atornillar la tapa a su base.
 
--   _**Operación**_
-    -   El rango de detección de temperatura del sensor de temperatura es de aproximadamente -30 ℃~100℃
+* _**Operación**_
+  * El rango de detección de temperatura del sensor de temperatura es de aproximadamente -30 ℃\~100℃
 
-( -22°F~212 °F) ±2 ℃.
+( -22°F\~212 °F) ±2 ℃.
 
--   -   El Sensor de Temperatura transmitirá una señal de temperatura periódicamente a intervalos de 30 minutos que también sirve como señal de supervisión. Si el panel de control no recibe la señal transmitida desde un determinado sensor de temperatura durante un período programado, determinará que el sensor de temperatura está averiado e informará la condición.
-    -   También puede presionar el botón Aprender o Probar para transmitir manualmente la señal de temperatura.
+*
+  * El Sensor de Temperatura transmitirá una señal de temperatura periódicamente a intervalos de 30 minutos que también sirve como señal de supervisión. Si el panel de control no recibe la señal transmitida desde un determinado sensor de temperatura durante un período programado, determinará que el sensor de temperatura está averiado e informará la condición.
+  * También puede presionar el botón Aprender o Probar para transmitir manualmente la señal de temperatura.
 
 2
