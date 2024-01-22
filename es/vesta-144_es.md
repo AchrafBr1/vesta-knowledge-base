@@ -6,7 +6,7 @@ El control remoto se utiliza para armar el sistema en modo local o ausente, desa
 
 -   _**Identificando las partes**_
 
-**1.**![](<.gitbook/assets/0 (54).jpeg>)**BOTÓN**
+**1.**![](<.gitbook/assets/0 (54).jpeg>)**BUTTON**
 
 Presione este botón para armar el sistema en modo ausente.
 
