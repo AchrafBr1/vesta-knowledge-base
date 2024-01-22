@@ -45,7 +45,7 @@
 
 **Lorsqu'elles sont allumées, toutes les LED clignotent séquentiellement pendant 1 cycle.**
 
-**En mode apprentissage, toutes les LED clignotent une fois par seconde.**
+**En mode d'apprentissage, toutes les LED clignotent une fois par seconde.**
 
 **Lorsque l'apprentissage est réussi, toutes les LED clignotent rapidement 3 fois.**
 
@@ -92,7 +92,7 @@
 
 **Tous les travaux sur l'appareil, y compris l'installation et la maintenance, doivent être effectués par un électricien qualifié et agréé.**
 
-**Avant l'installation ou tout travail de maintenance, assurez-vous que l'alimentation électrique a été débranchée. Ne connectez pas l'appareil à des charges dépassant le courant de charge pris en charge.**
+**Before installation or any maintenance work, make sure the power supply has been disconnected. Do not connect the device to loads exceeding supported load current.**
 
 **Installation**
 
@@ -113,11 +113,11 @@
 
 **Ajout d'un appareil (inclusion)**
 
-**Connectez l'entrée d'alimentation au commutateur de relais conformément aux instructions d'installation ci-dessus et mettez le commutateur de relais sous tension.**
+**Connect the power input to the Relay Switch according to Installation instruction above and power up the Relay Switch.**
 
 **Mettez la passerelle ou le panneau de commande Z-Wave en mode Inclusion (veuillez vous référer au manuel de la passerelle ou du panneau de commande Z-Wave).**
 
-**En 1 seconde, appuyez 3 fois sur le bouton de fonction.**
+**Within 1 second, press the Function Button 3 times.**
 
 **2**
 
@@ -147,11 +147,11 @@
 
 **Mettez la passerelle/le panneau en mode test de portée (Walk Test). Appuyez sur le bouton de fonction de l'appareil**
 
-**La passerelle/panneau doit afficher si l'appareil se trouve dans la plage de fonctionnement (veuillez vous référer au manuel d'utilisation de la passerelle/panneau).**
+**La passerelle/le panneau doit afficher si l'appareil se trouve dans la plage de fonctionnement (veuillez vous référer au manuel d'utilisation de la passerelle/du panneau).**
 
 **Montage**
 
-**Une fois que vous avez terminé le test de portée et que vous êtes convaincu que l'appareil est capable de communiquer avec la passerelle Z-Wave à l'emplacement choisi, procédez au montage.**
+**After you have finished the range test, and you are satisfied that the device is able to communicate with the Z-Wave gateway in the chosen location, proceed to mounting.**
 
 **Débranchez l'alimentation principale.**
 
@@ -163,7 +163,7 @@
 
 ![](<.gitbook/assets/6 (37).jpeg>)
 
-**Opération**
+**Operation**
 
 ![](<.gitbook/assets/7 (35).jpeg>)
 
@@ -179,7 +179,7 @@
 
 **Classe d'appareil générique : GÉNÉRIQUE_TAPER_CHANGER_BINAIRE**
 
-**Classe d'appareil spécifique : SPÉCIFIQUE_TAPER_POUVOIR_CHANGER_BINAIRE**
+**Classe d'appareil spécifique : SPÉCIFIQUE_TAPER_POWER_CHANGER_BINAIRE**
 
 **Type de rôle : Toujours sur esclave (AOS)**
 
@@ -187,11 +187,11 @@
 
 **Bibliothèque : 232 esclave amélioré**
 
-**Type d'appareil du point de terminaison 1 : interrupteur de type générique binaire et interrupteur d'alimentation marche/arrêt de type spécifique**
+**Type d'appareil du point final 1 : interrupteur de type générique binaire et interrupteur d'alimentation marche/arrêt de type spécifique**
 
-**Type d'appareil du point de terminaison 1 : interrupteur de type générique binaire et interrupteur d'alimentation marche/arrêt de type spécifique**
+**Type d'appareil du point final 1 : interrupteur de type générique binaire et interrupteur d'alimentation marche/arrêt de type spécifique**
 
-**Type d'appareil du point de terminaison 1 : interrupteur de type générique binaire et interrupteur d'alimentation marche/arrêt de type spécifique**
+**Type d'appareil du point final 1 : interrupteur de type générique binaire et interrupteur d'alimentation marche/arrêt de type spécifique**
 
 **Prise en charge/contrôle de classe de commande**
 
@@ -245,7 +245,7 @@
 
 ![](<.gitbook/assets/8 (35).png>)
 
-**Groupes de Z-Wave (classe de commande d'association version 2)**
+**Z-Wave’s Groups (Association Command Class Version 2)**
 
 | **Périphérique racine :** |                       |                     |                                                                                     |
 | ------------------------- | --------------------- | ------------------- | ----------------------------------------------------------------------------------- |
