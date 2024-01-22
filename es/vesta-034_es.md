@@ -22,7 +22,7 @@ El diseño del sensor de inclinación del garaje consta de una cubierta y una ba
 -   -   El LED parpadeará 3 veces cuando esté transmitiendo un código de aprendizaje.
     -   El LED se iluminará cada vez que el dispositivo se active en el modo de prueba.
     -   El LED se iluminará cada vez que se active el interruptor de manipulación.
-    -   (Puerta abierta) Cuando experimente una falla en el dispositivo o esté en modo de prueba, el LED parpadeará 6 veces.
+    -   (Door opened) When experiencing device fault or under Test Mode, the LED will flash for 6 times.
     -   (Puerta cerrada) Cuando experimente una falla en el dispositivo o esté en modo de prueba, el LED parpadeará 6 veces. Después de 10 segundos, el LED parpadeará 3 veces.
 
 1.  **Orificios de montaje**
@@ -52,12 +52,12 @@ El diseño del sensor de inclinación del garaje consta de una cubierta y una ba
     -   Presione el botón de prueba del sensor de inclinación del garaje para enviar un código de aprendizaje, el LED parpadeará 3 veces.
     -   Consulte el manual de funcionamiento de su panel de control para completar el proceso de aprendizaje.
     -   Una vez que se haya aprendido el sensor de inclinación del garaje, coloque el panel de control en el modo de prueba de recorrido, sostenga el sensor de inclinación del garaje en la ubicación deseada y presione el botón de prueba para transmitir la señal de prueba al panel de control. Si el panel de control está dentro del rango de señal del sensor de inclinación del garaje, el panel mostrará la información del sensor de inclinación del garaje en consecuencia.
-    -   Asegúrese de que el sensor de inclinación del garaje esté dentro del alcance de la señal del panel de control antes del proceso de montaje e instalación.
+    -   Ensure the Garage Tilt Sensor is within signal range of the Control Panel prior to mounting and installation process.
 -   _**Modo de prueba**_
     -   El sensor de inclinación del garaje se puede poner en modo de prueba de 3 minutos presionando el botón de prueba (también conocido como indicador LED) en la cubierta frontal.
     -   En el modo de prueba, el LED se iluminará cada vez que se active el sensor de inclinación del garaje.
     -   Para extender el temporizador del modo de prueba por otros 3 minutos, simplemente presione el botón de prueba.
--   _**Tamper Switch**_
+-   _**Manibela de encendido**_
     -   El sensor de inclinación del garaje estará protegido por un interruptor de manipulación cuando se monte al ras contra la superficie de montaje. Cuando se retira el dispositivo de la superficie de montaje o cuando se abre la cubierta del dispositivo, se activará su interruptor de manipulación. Luego, el dispositivo enviará una señal de apertura por manipulación al panel de control para notificar a los usuarios de esta condición.
 -   _**Señal de supervisión**_
     -   El sensor de inclinación del garaje transmitirá una señal de supervisión al panel de control en intervalos aleatorios de 30 a 50 minutos.
