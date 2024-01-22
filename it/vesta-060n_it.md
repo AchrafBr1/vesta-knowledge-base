@@ -53,7 +53,7 @@ Il dispositivo supporta il rilevamento degli urti su vari materiali tra cui vetr
 
 -   _**Sensibilità**_
     -   La sensibilità richiesta per attivare il contatto porta/sensore d'urto viene determinata dal pannello di controllo.
-    -   Sono selezionabili tre livelli di sensibilità:**Basso**,**medio**, E**Alto**. L'impostazione predefinita è impostata come**medio**.
+    -   Sono selezionabili tre livelli di sensibilità:**Basso**,**medio**, E**Alto**. The default is set as **medio**.
 
 1
 
@@ -88,7 +88,7 @@ Il dispositivo supporta il rilevamento degli urti su vari materiali tra cui vetr
 
 -   -   1.  Premere il pulsante Test di DCSV-29-2W per ricevere i dati sul livello di materiale e sensibilità dal pannello di controllo. Il LED prima si spegnerà, quindi diventerà più luminoso e poi si spegnerà, indicando che il comando di programmazione dal pannello di controllo è stato ricevuto con successo.
 -   _**Prova della camminata**_
-    -   After the Door Contact / Shock Sensor is learned-in, place the Control Panel into (**Prova della camminata**), tenere il contatto della porta/sensore d'urto nella posizione desiderata e premere il pulsante Test per trasmettere il segnale di test al pannello di controllo. Se il pannello di controllo si trova nel raggio d'azione del segnale del contatto porta/sensore d'urto, il pannello visualizzerà di conseguenza le informazioni sul contatto porta/sensore d'urto.
+    -   Dopo l'apprendimento del contatto porta/sensore d'urto, posizionare il pannello di controllo in (**Prova della camminata**), tenere il contatto della porta/sensore d'urto nella posizione desiderata e premere il pulsante Test per trasmettere il segnale di test al pannello di controllo. Se il pannello di controllo si trova nel raggio d'azione del segnale del contatto porta/sensore d'urto, il pannello visualizzerà di conseguenza le informazioni sul contatto porta/sensore d'urto.
     -   Procedere con il montaggio e l'installazione una volta accertato che il contatto porta/sensore d'urto funzioni correttamente nella posizione desiderata.
 
 ![](<.gitbook/assets/13 (14).jpeg>)
