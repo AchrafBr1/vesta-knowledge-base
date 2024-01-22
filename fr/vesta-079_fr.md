@@ -13,13 +13,13 @@
 
 Étape 1. Mettez le panneau de configuration en mode d'apprentissage.
 
-Étape 2. Appuyez sur le bouton du pendentif. Un signal radio sera transmis au panneau de commande.
+Step 2. Press the Button on the Pendant. A radio signal will be transmitted to the Control Panel.
 
 Étape 3. Veuillez vous référer au manuel d'utilisation de votre panneau de contrôle pour terminer le processus d'apprentissage.
 
 -   _**Vie de la batterie**_
 
-The Pendant uses one CR2032 3V Lithium battery as its power source.
+Le pendentif utilise une pile au lithium CR2032 3V comme source d'alimentation.
 
 Chaque fois que le bouton actif est enfoncé, le pendentif vérifie la tension de la batterie. Si une batterie faible est détectée 3 fois de suite, le pendentif entrera dans l'état de batterie faible et transmettra un signal de batterie faible ainsi qu'un signal régulier à chaque fois que vous appuierez sur le bouton.
 
