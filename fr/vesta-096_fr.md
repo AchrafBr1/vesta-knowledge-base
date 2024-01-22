@@ -6,18 +6,18 @@
 
 VST-862 est une caméra à capteur de mouvement infrarouge passif (PIR). Il est capable d'envoyer des signaux sans fil et des images capturées (qualité d'image jusqu'à 640 x 480 pixels) au panneau de commande lors de la détection de mouvement.
 
-La caméra PIR est conçue pour offrir une portée de détection typique de 12 mètres lorsqu'elle est montée à 2 mètres au-dessus du sol. Pour les modèles immunisés contre les animaux, une portée de 7 mètres est fournie, vos animaux domestiques ne déclencheront pas de fausses alarmes à cette distance. Pour les modèles compatibles avec le répéteur RP-29/le routeur RMB-29 de Climax**(Modèles P5 uniquement)**, la portée de communication RF peut être encore étendue dans les zones difficiles d'accès.
+La caméra PIR est conçue pour offrir une portée de détection typique de 12 mètres lorsqu'elle est montée à 2 mètres au-dessus du sol. Pour les modèles immunisés contre les animaux, une portée de 7 mètres est fournie, vos animaux domestiques ne déclencheront pas de fausses alarmes à cette distance. Pour les modèles compatibles avec le répéteur RP-29/routeur RMB-29 de Climax**(Modèles P5 uniquement)**, la portée de communication RF peut être encore étendue dans les zones difficiles d'accès.
 
-La caméra PIR se compose d'une conception en deux parties composée d'un couvercle et d'une base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un coin avec un support triangulaire pour un montage en coin.
+La caméra PIR se compose d'une conception en deux parties composée d'un couvercle et d'une base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre le montage sur une surface plane ou dans un coin avec un support triangulaire pour le montage en coin.
 
 -   La série VST-862 comprend les modèles suivants :
 
-| **Nom du modèle** | **LED clignotante** | **LED infrarouge** | **Immunisé contre les animaux** | **Compatible avec le répéteur** |
-| ----------------- | ------------------- | ------------------ | ------------------------------- | ------------------------------- |
-| VST-862-(P5)      | DANS                |                    |                                 | Modèle P5 uniquement            |
-| VST-862-IL-(P5)   |                     | DANS               |                                 | Modèle P5 uniquement            |
-| VST-862P-(P5)     | DANS                |                    | DANS                            | Modèle P5 uniquement            |
-| VST-862P-IL-(P5)  |                     | DANS               | DANS                            | Modèle P5 uniquement            |
+| **Nom du modèle** | **LED clignotante** | **LED infrarouge** | **Immunité aux animaux** | **Compatible avec le répéteur** |
+| ----------------- | ------------------- | ------------------ | ------------------------ | ------------------------------- |
+| VST-862-(P5)      | DANS                |                    |                          | Modèle P5 uniquement            |
+| VST-862-IL-(P5)   |                     | DANS               |                          | Modèle P5 uniquement            |
+| VST-862P-(P5)     | DANS                |                    | DANS                     | Modèle P5 uniquement            |
+| VST-862P-IL-(P5)  |                     | DANS               | DANS                     | Modèle P5 uniquement            |
 
 -   ![](<.gitbook/assets/0 (15).png>)
 -   Identification des pièces
@@ -71,7 +71,7 @@ si le cavalier est retiré ou "**garé**» sur une épingle.
 Le cavalier est inséré pour relier les deux broches.
 
 -   Cavalier activé : après la détection de mouvement, la caméra PIR n'entre pas en mode veille et transmettra à nouveau le signal de détection immédiatement si elle est déclenchée (**Défaut de fabrication**).
--   Cavalier : la caméra PIR a un "**Temps de sommeil**" d'environ 1 minute après la détection de mouvement pour économiser l'énergie.
+-   Cavalier : la caméra PIR a un "**Temps de sommeil**” of approximately 1 minute after motion detection to conserve power.
 -   Caractéristiques
 -   _**Indicateur LED**_
 
@@ -93,7 +93,7 @@ Lorsque le système du panneau de commande passe en mode armé ou lorsque la cam
 
 -   _**Minuterie de mise en veille**_
 
-When **Cavalier 2**est réglé sur Off, la caméra PIR a un «**Temps de sommeil**" d'environ 1 minute pour économiser l'énergie. Après avoir transmis un mouvement détecté, la caméra PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera le temps de sommeil à 1 minute. Un mouvement continu devant la caméra PIR n'épuisera donc pas la batterie.
+Quand**Cavalier 2**est réglé sur Off, la caméra PIR a un «**Temps de sommeil**" d'environ 1 minute pour économiser l'énergie. Après avoir transmis un mouvement détecté, la caméra PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera le temps de sommeil à 1 minute. Un mouvement continu devant la caméra PIR n'épuisera donc pas la batterie.
 
 -   _Détection de batterie et de batterie faible_
 
@@ -115,7 +115,7 @@ La caméra PIR effectuera périodiquement un auto-test en transmettant un signal
 -   Le mode test vous permet de vérifier la plage de détection de la caméra PIR (et non la couverture de prise de vue).
 -   Appuyez une fois sur le bouton Fonction pour passer en mode Test pendant 3 minutes, la LED bleue clignotera pendant 1 seconde.
 -   La caméra PIR se réchauffera pendant 30 secondes. Veuillez ne pas déclencher la caméra pendant cette période d'échauffement.
--   Après la période de préchauffage, vous pouvez déclencher la caméra PIR pour vérifier la plage de détection IR. Si la caméra PIR est déclenchée, la LED bleue clignote pendant 2 secondes.
+-   Après la période d'échauffement, vous pouvez déclencher la caméra PIR pour vérifier la plage de détection IR. Si la caméra PIR est déclenchée, la LED bleue clignote pendant 2 secondes.
 
 \\<Note>
 
@@ -124,7 +124,7 @@ La caméra PIR effectuera périodiquement un auto-test en transmettant un signal
 -   Retirez le couvercle du compartiment à piles en desserrant la vis du compartiment à piles.
 -   Insérez les piles. Orientez la batterie selon l'indication de polarité.
 -   Mettez le panneau de commande en mode apprentissage, reportez-vous au manuel du panneau de commande pour plus de détails.
--   Appuyez et maintenez le bouton de fonction pendant 3 secondes, relâchez le bouton lorsque la LED bleue s'allume. (Pour le panneau fonctionnant sur batterie, après avoir appuyé et maintenu enfoncé le bouton de fonction pendant 3 secondes, veuillez appuyer sur le bouton de fonction**encore**pendant une seconde.)
+-   Appuyez et maintenez le bouton de fonction pendant 3 secondes, relâchez le bouton lorsque la LED bleue s'allume. (Pour le panneau fonctionnant sur batterie, après avoir appuyé et maintenu le bouton de fonction pendant 3 secondes, veuillez appuyer sur le bouton de fonction**encore**pendant une seconde.)
 -   La LED bleue s'allumera pendant 25 secondes en mode d'apprentissage, ajoutez la caméra PIR au panneau de commande pendant cette période (référez-vous à votre panneau de commande pour terminer l'apprentissage en cours). Si le PIR est ajouté avec succès au panneau de commande, la LED bleue clignotera 6 fois pour l'indiquer. Si le PIR n'est pas ajouté dans les 25 secondes, veuillez répéter le processus d'apprentissage.
 
 \\<Note>
@@ -138,7 +138,7 @@ La caméra PIR effectuera périodiquement un auto-test en transmettant un signal
 -   Suivez les instructions ci-dessous pour modifier la zone de la caméra PIR dans le panneau de configuration.
 
 1.  Utilisez la fonction Modifier l'appareil du panneau pour modifier les paramètres de la zone de la caméra PIR.
-2.  Appuyez et maintenez enfoncé le bouton de fonction pendant 3 secondes sur la caméra PIR pour envoyer un signal au panneau, puis relâchez le bouton lorsque la LED s'allume. (Pour le panneau fonctionnant sur batterie, après avoir appuyé et maintenu enfoncé le bouton de fonction pendant 3 secondes, veuillez appuyer sur le bouton de fonction**encore**pendant une seconde pour envoyer un signal.)
+2.  Appuyez et maintenez enfoncé le bouton de fonction pendant 3 secondes sur la caméra PIR pour envoyer un signal au panneau, puis relâchez le bouton lorsque la LED s'allume. (Pour le panneau fonctionnant sur batterie, après avoir appuyé et maintenu le bouton de fonction pendant 3 secondes, veuillez appuyer sur le bouton de fonction**encore**pendant une seconde pour envoyer un signal.)
 
 -   Installation
 -   _Directive d'installation_
