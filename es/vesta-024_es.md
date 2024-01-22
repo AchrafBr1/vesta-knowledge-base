@@ -43,14 +43,14 @@ El sensor está destinado a detectar objetos en movimiento.
 
 \-Presione el botón una vez para ingresar al modo de prueba durante 10 minutos.
 
-\-Press the button once to send a learn code to the repeater/router.
+\-Presione el botón una vez para enviar un código de aprendizaje al repetidor/enrutador.
 
 1.  **Sabotaje interno**
 2.  **Bloque de interruptores DIP**
 
 Hay 8 interruptores DIP para configurar los niveles de sensibilidad de detección y función.
 
--   1.  **Battery Compartment**
+-   1.  **Compartimiento de la batería**
     2.  **Soporte de montaje**
 -   _**Indicador LED**_
 
@@ -205,7 +205,7 @@ Siga las instrucciones a continuación para cambiar el área de la cámara PIR e
 
 _\\<NOTE>_
 
--   Please make sure the PIR Camera is properly hooked onto the mounting bracket, so that the internal tamper switch is fully compressed.
+-   Asegúrese de que la cámara PIR esté correctamente enganchada al soporte de montaje, de modo que el interruptor de manipulación interno esté completamente comprimido.
 
 ![](<.gitbook/assets/5 (27).png>)
 
