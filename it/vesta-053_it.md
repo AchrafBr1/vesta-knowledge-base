@@ -91,7 +91,7 @@ Per verificare se il sensore è in grado di comunicare con il gateway Z-Wave o i
     -   Premere il pulsante funzione sul sensore.
     -   Il gateway/pannello dovrebbe essere visualizzato se il dispositivo si trova all'interno del raggio d'azione (fare riferimento al manuale operativo del gateway/pannello).
 -   _**Modalità di sospensione Z-Wave**_
-    -   The Sensor will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (~10 secondi). Durante la modalità di sospensione Z-Wave, i gateway Z-Wave o i pannelli di controllo non sono in grado di inviare comandi al sensore.
+    -   Il sensore entrerà in modalità sospensione Z-Wave (per risparmiare energia) dopo essersi risvegliato per un breve periodo di tempo (~10 secondi). Durante la modalità di sospensione Z-Wave, i gateway Z-Wave o i pannelli di controllo non sono in grado di inviare comandi al sensore.
     -   Per programmare il sensore utilizzando il gateway/pannello di controllo Z-Wave, inviare i comandi al sensore entro il periodo di riattivazione.
 
 2
