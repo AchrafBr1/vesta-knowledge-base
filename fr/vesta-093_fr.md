@@ -4,7 +4,7 @@
 
 L'unité à cordon de traction est utilisée pour activer une alarme lorsque le cordon est tiré. Il peut être rapidement installé dans des endroits intérieurs facilement accessibles pour que l'utilisateur puisse le tirer en cas d'urgence.
 
-The PCU Pull Cord Unit includes the following models:
+L'unité à cordon de traction PCU comprend les modèles suivants :
 
 PCU-3 : unité à cordon de traction
 
@@ -67,11 +67,11 @@ Veuillez suivre les étapes ci-dessous pour insérer la batterie :
 
 **(Photo 3.)**
 
-Step 4. Rotate the stabilizer gently in anti-clockwise direction until both screw heads meets the end of the screw holes as picture shown below (**Choisissez-en 4.**), puis retirez le stabilisateur du boîtier inférieur et retournez-le, vous verrez le compartiment de la batterie comme (**Photo 5.**)
+Étape 4. Faites pivoter doucement le stabilisateur dans le sens inverse des aiguilles d'une montre jusqu'à ce que les deux têtes de vis rencontrent l'extrémité des trous de vis, comme illustré ci-dessous (**Pic 4.**), puis retirez le stabilisateur du boîtier inférieur et retournez-le, vous verrez le compartiment de la batterie comme (**Photo 5.**)
 
 ![](<.gitbook/assets/9 (30).png>)
 
-**(Pic 4.)****(Photo 5.)**
+**(Choisissez 4.)****(Photo 5.)**
 
 Étape 5. Le retrait du boîtier PCU est terminé ; vous pouvez maintenant insérer la batterie.
 
@@ -115,7 +115,7 @@ Il existe deux manières de monter le PCU :
 
 -   _**Montage à vis :**_
 
-Étape 1. Ouvrez le capot du PCU comme indiqué ci-dessus (**étapes 1~4**) sous_**Installation de la batterie.**_Étape 2. Percez les 4 découpes appropriées sur la base (**Pic 8.**).
+Étape 1. Ouvrez le capot du PCU comme indiqué ci-dessus (**étapes 1~4**) sous_**Installation de la batterie.**_Étape 2. Percez les 4 découpes appropriées sur la base (**Photo 8.**).
 
 ![](<.gitbook/assets/15 (15).png>)
 
@@ -143,7 +143,7 @@ _**Déclaration FCC**_
 
 _Cet appareil est conforme à la partie 15 des règles FCC. L’exploitation est soumise aux deux conditions suivantes :_
 
-1.  _This device may not cause harmful interference, and_
+1.  _Cet appareil ne doit pas provoquer d'interférences nuisibles et_
 2.  _Cet appareil doit accepter toute interférence reçue, y compris les interférences susceptibles de provoquer un fonctionnement indésirable._
 
 4
