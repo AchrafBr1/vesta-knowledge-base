@@ -109,7 +109,7 @@ En este modo, los terminales de entrada y salida del DIO-52-B están conectados 
 
 Cuando DIO-52-B está funcionando en este modo, la configuración de entrada de seguimiento de salida en DO está desactivada. Los usuarios pueden programar reglas de automatización del hogar, escenas en la página web del panel o Home Portal Server para convertir el punto DI en disparador de eventos y el punto DO en respondedor de eventos.
 
-Example of DI/DO practice for Separate Devices:
+Ejemplo de práctica DI/DO para dispositivos separados:
 
 El terminal de entrada DI está conectado a un sensor de fuga de agua y la salida DO está conectada a una válvula de agua. Al establecer una regla de automatización del hogar en HPS, el panel cerrará automáticamente la válvula de agua cuando se active el sensor de fuga de agua.
 
