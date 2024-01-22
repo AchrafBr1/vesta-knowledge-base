@@ -53,7 +53,7 @@ El dispositivo admite la detección de impactos en diversos materiales, incluido
 
 -   _**Sensibilidad**_
     -   La sensibilidad requerida para activar el sensor de contacto/choque de la puerta se determina desde el panel de control.
-    -   Se pueden seleccionar tres niveles de sensibilidad:**Bajo**,**Medio**, and **Alto**. El valor predeterminado se establece como**Medio**.
+    -   Se pueden seleccionar tres niveles de sensibilidad:**Bajo**,**Medio**, y**Alto**. El valor predeterminado se establece como**Medio**.
 
 1
 
@@ -113,7 +113,7 @@ Consulte la siguiente tabla para obtener información sobre la ubicación de ins
 
 |                                 |                     |                       | Ventana de vidrio | Puerta de madera/metal | Pared de concreto |   |
 | ------------------------------- | ------------------- | --------------------- | ----------------- | ---------------------- | ----------------- | - |
-|                                 | **Espesor**         | >5mm                  | &lt;40mm          | -                      |                   |   |
+|                                 | **Espesor**         | >5mm                  | &lt;40 mm         | -                      |                   |   |
 |                                 |                     |                       |                   |                        |                   |   |
 | **Ubicación de la instalación** | Marco de la ventana | Puerta                | Muro              |                        |                   |   |
 |                                 |                     |                       |                   |                        |                   |   |
