@@ -32,7 +32,7 @@ Identificazione delle parti
 -   Fare riferimento alla sezione_**Interruttore a lamella**_per dettagli.
 
 1.  **Compartimento della batteria**
-2.  **Magnet**
+2.  **Magnete**
 3.  **Foro per vite magnetica**
 4.  **Distanziatore magnetico**
 
@@ -79,7 +79,7 @@ Il dispositivo viene attivato da una delle seguenti condizioni:
 -   Quando si sostituiscono le batterie, dopo aver rimosso quelle vecchie, premere due volte l'interruttore antimanomissione per scaricarle completamente prima di inserire le nuove batterie.
 -   _**Protezione antisabotaggio**_
 -   Il contatto porta/sensore vibrazione d'urto è protetto da un interruttore antimanomissione che viene compresso contro la superficie di montaggio quando il contatto porta/sensore vibrazione d'urto è montato. Ogni volta che il contatto porta/sensore vibrazione shock viene rimosso dalla superficie montata o il coperchio viene aperto, l'interruttore antimanomissione verrà attivato e il dispositivo invierà un segnale di apertura antimanomissione per ricordare all'utente la condizione.
--   _**Supervision**_
+-   _**Supervisione**_
 -   Il contatto della porta/sensore di vibrazione d'urto trasmetterà automaticamente periodicamente il segnale di supervisione al pannello di controllo a intervalli casuali di 30-50 minuti.
 -   Se il pannello di controllo non ha ricevuto il segnale dal contatto della porta/sensore di vibrazione d'urto per un periodo di tempo prestabilito, il pannello di controllo indicherà che il particolare contatto della porta/sensore di vibrazione d'urto sta riscontrando un problema di mancanza di segnale.
 -   _**Modalità di prova**_
