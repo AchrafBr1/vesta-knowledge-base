@@ -188,7 +188,7 @@ La telecamera PIR effettuerà periodicamente un autotest trasmettendo un segnale
 
 -   **Montaggio su superficie con staffa rotante (articolo opzionale, venduto separatamente):**
 
-The rotating bracket can be mounted on the wall with provides screws.
+La staffa rotante può essere montata a parete tramite viti in dotazione.
 
 1.  Avvitare la staffa rotante al muro.
 2.  Montare opportunamente i 3 ganci della staffa rotante nei 3 fori della base.
