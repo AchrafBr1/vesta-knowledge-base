@@ -1,6 +1,6 @@
 # VESTA 144
 
-**Télécommande (RC-16-2W)**
+**Remote Controller (RC-16-2W)**
 
 La télécommande est utilisée pour armer le système en mode domicile ou absent, désarmer le système et envoyer un signal de panique.
 
@@ -57,6 +57,6 @@ _\\<NOTE>_
     -   Insérez la batterie avec le côté non marqué (négatif) de la batterie vers le bas.
     -   Fixez le couvercle.
     -   Mettez le panneau de commande en mode apprentissage, reportez-vous au manuel du panneau de commande pour plus de détails.
-    -   Appuyez sur n'importe quel bouton de la télécommande.
+    -   Appuyez sur n’importe quel bouton de la télécommande.
     -   Si le panneau de commande reçoit le signal de la télécommande avec succès, il affichera les informations en conséquence.
     -   Veuillez vous référer au manuel de votre panneau de contrôle pour terminer le processus d'apprentissage.
