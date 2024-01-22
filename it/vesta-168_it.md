@@ -36,7 +36,7 @@ Quando l'interruttore di controllo Sutter trasmette un segnale.
 
 -   -   Lampeggia due volte:
 
-L'interruttore di controllo dell'otturatore è stato aggiunto correttamente a una rete Z-Wave.
+The Shutter Control Switch has successfully added into a Z-Wave network.
 
 1.  **Foro per pulsante funzione**
 
