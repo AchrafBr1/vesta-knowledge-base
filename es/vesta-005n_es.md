@@ -54,7 +54,7 @@ La sirena funciona con alimentación de CA. Conecte la sirena a una toma de corr
 
 -   _**Detección de batería baja**_
 
-After AC power failure, the Siren will transmit a Low Battery signal to the Control Panel when low battery voltage is detected. To restore battery, re-plug AC power into the power socket. After 12 hours, the Siren will transmit a low battery restored notification to the Control Panel.
+Después de un corte de energía de CA, la sirena transmitirá una señal de batería baja al panel de control cuando se detecte un voltaje de batería bajo. Para restaurar la batería, vuelva a enchufar la alimentación de CA a la toma de corriente. Después de 12 horas, la sirena transmitirá una notificación de restauración de batería baja al panel de control.
 
 1
 
