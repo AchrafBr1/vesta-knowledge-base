@@ -1,6 +1,6 @@
 # VESTA079
 
-**Ciondolo per collana di gioielli (JLPD)**
+**Jewelry Necklace Pendant (JLPD)**
 
 Elegante e compatto, il ciondolo per collana gioielli è progettato per essere indossato dagli anziani mentre si spostano nei locali. In caso di emergenza, l'utente può chiedere aiuto con la semplice pressione di un pulsante.
 
