@@ -30,7 +30,7 @@ Il LED flash (per VST-862EX) o il LED a infrarossi (per VST-862EX-IL) fornisce l
 
 1.  **Indicatore LED (rosso)**
 
-The LED indicator is used to indicate the system status.
+L'indicatore LED viene utilizzato per indicare lo stato del sistema.
 
 1.  **Sensore IR**
 
@@ -92,7 +92,7 @@ Il LED rosso lampeggerà lentamente durante il periodo di riscaldamento. Durante
 -   _**Sveglia**_
     -   La telecamera PIR dispone di un "tempo di sospensione" automatico di circa un minuto per il risparmio energetico. Dopo aver trasmesso un movimento rilevato, la telecamera PIR non ritrasmetterà per un minuto. Qualsiasi ulteriore movimento rilevato entro questo periodo di sonno di un minuto prolungherà la durata del sonno di un altro minuto. In questo modo, il movimento continuo davanti alla telecamera PIR non scaricherà eccessivamente la batteria.
 -   _**Funzione doppio colpo**_
-    -   The PIR Camera has a double knock function. If the double knock function is enabled, the PIR Camera will report an alarm to the control panel only if two movements are detected within 10 seconds. If the double knock function is disabled, the PIR Camera will report an alarm to the control panel when a movement is detected.
+    -   La telecamera PIR ha una funzione di doppia detonazione. Se è abilitata la funzione doppio battito, la telecamera PIR segnalerà un allarme alla centrale solo se vengono rilevati due movimenti entro 10 secondi. Se la funzione del doppio colpo è disabilitata, la telecamera PIR segnalerà un allarme alla centrale quando viene rilevato un movimento.
 -   _**Protezione antisabotaggio**_
     -   La telecamera PIR è protetta da un interruttore antimanomissione interno che viene compresso quando la telecamera PIR viene agganciata alla staffa di montaggio. Quando la telecamera PIR viene rimossa dalla staffa di montaggio, l'interruttore antimanomissione verrà attivato e la telecamera PIR invierà un segnale di apertura antimanomissione alla centrale di controllo per ricordare all'utente questa condizione.
 -   _**Tabella delle posizioni dei DIP switch**_
