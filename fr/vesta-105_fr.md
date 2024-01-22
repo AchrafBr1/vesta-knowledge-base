@@ -47,7 +47,7 @@ En mode de fonctionnement normal, le voyant LED reste éteint sauf dans les situ
 -   Si le panneau de commande n'a pas reçu le signal du contact de porte pendant une période prédéfinie, le panneau de commande indiquera que ce contact de porte particulier rencontre un problème de manque de signal.
 -   _**Interrupteur anti-sabotage**_
 -   Il est conçu pour protéger contre toute ouverture non autorisée du couvercle. Lorsque l'autoprotection est déclenchée, le contact de porte émettra un signal au panneau de commande pour rapport, la LED s'allumera également.
--   _**Batterie**_
+-   _**Battery**_
 
 Le MDC-3 en utilise un**Pile au lithium 3V CR2450**comme source d'énergie
 
