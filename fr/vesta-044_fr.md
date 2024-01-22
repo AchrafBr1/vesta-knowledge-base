@@ -230,7 +230,7 @@ Après avoir terminé l'apprentissage des signaux IR, suivez les instructions ci
 
 Pour supprimer tous les signaux IR appris pour un type d'appareil, suivez les instructions ci-dessous :
 
-1.  Remote batteries to power down IR Remote Control.
+1.  Piles à distance pour éteindre la télécommande IR.
 2.  Sélectionnez le type d'appareil que vous souhaitez supprimer à l'aide du jeu de commutateurs Dip 1 selon le tableau suivant.
 
 | Commutateur 1 | Commutateur 2 | Commutateur 3 | Commutateur 4 | Commutateur 5 | Commutateur 6 | Sélection d'appareils         |
@@ -238,7 +238,7 @@ Pour supprimer tous les signaux IR appris pour un type d'appareil, suivez les in
 | SUR           | DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | **Type 1 (climatiseur)**      |
 | DÉSACTIVÉ     | SUR           | DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | **Type 2 (Télévision)**       |
 | DÉSACTIVÉ     | DÉSACTIVÉ     | SUR           | DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | **Type 3 (audio domestique)** |
-| DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | SUR           | DÉSACTIVÉ     | DÉSACTIVÉ     | **Type 4 (Set Top Box)**      |
+| DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | SUR           | DÉSACTIVÉ     | DÉSACTIVÉ     | **Type 4 (décodeur)**         |
 | DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | DÉSACTIVÉ     | SUR           | DÉSACTIVÉ     | **Type 5 (Autres)**           |
 
 Faites glisser plusieurs interrupteurs sur ON pour sélectionner plusieurs types d'appareils,
