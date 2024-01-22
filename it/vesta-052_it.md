@@ -77,7 +77,7 @@ Questa funzione utilizza la classe di comando Wake Up Z-Wave. La Classe Comando 
 Il dispositivo supporta sia il processo di inclusione classico che il processo di inclusione SmartStart. Questo prodotto può essere incluso e utilizzato in qualsiasi rete Z-Wave con altri dispositivi certificati Z-Wave di altri produttori e/o altre applicazioni. Tutti i nodi non alimentati a batteria all'interno della rete fungeranno da ripetitori indipendentemente dal fornitore per aumentare l'affidabilità della rete.
 
 -   **Inclusione classica**
--   Inserisci il gateway Z-Wave o il pannello di controllo**Modalità di inclusione**(fare riferimento al manuale del gateway Z-Wave o del pannello di controllo).
+-   Inserisci il gateway Z-Wave o il pannello di controllo**Inclusion mode**(fare riferimento al manuale del gateway Z-Wave o del pannello di controllo).
 -   Inserire la batteria e premere il pulsante una volta entro 30 secondi. Fare riferimento al manuale operativo del gateway Z-Wave o del pannello di controllo per completare il processo di aggiunta.
 -   Se il dispositivo è già stato aggiunto (incluso) in un altro gateway/pannello di controllo Z-Wave, o se non è possibile aggiungere il dispositivo all'attuale gateway/pannello di controllo Z-Wave, provare prima a rimuoverlo (vedere_**Rimozione del dispositivo**_).
 
@@ -120,7 +120,7 @@ _(Utilizzare il ripristino delle impostazioni di fabbrica solo quando il pannell
 -   Prima di rimuovere o ripristinare le impostazioni di fabbrica del POVS-1-ZW, assicurarsi che le informazioni DSK del dispositivo siano state rimosse o non esistano nel gateway. Se rimuovi o ripristini le impostazioni di fabbrica del dispositivo, ma il relativo DSK esiste ancora nel gateway, il gateway includerà nuovamente automaticamente il dispositivo.
 -   _**Prova di portata**_
 
-To test whether the device is able to communicate with the Z-Wave gateway or control panel:
+Per verificare se il dispositivo è in grado di comunicare con il gateway Z-Wave o la centrale di controllo:
 
 -   Mettere il gateway/pannello in modalità test di portata (Walk Test).
 -   Premere il pulsante funzione sul dispositivo.
@@ -183,7 +183,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 | Reimpostazione del dispositivo localmente | 1            | Classe di sicurezza più alta garantita |
 | Metadati di aggiornamento del firmware    | 5            | Classe di sicurezza più alta garantita |
 | Specifico del produttore                  | 2            | Classe di sicurezza più alta garantita |
-| Multicanale                               | 4            | Highest Granted Security Class         |
+| Multicanale                               | 4            | Classe di sicurezza più alta garantita |
 | Associazione multicanale                  | 3            | Classe di sicurezza più alta garantita |
 | Livello di potenza                        | 1            | Classe di sicurezza più alta garantita |
 | Notifica                                  | 8            | Classe di sicurezza più alta garantita |
@@ -193,7 +193,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 | Versione                                  | 3            | Classe di sicurezza più alta garantita |
 | Servizio di trasporto                     | 2            | Nessuno                                |
 | Informazioni su Z-Wave Plus               | 2            | Nessuno                                |
-| Sicurezza 2                               | 1            | Nessuno                                |
+| Sicurezza 2                               | 1            | None                                   |
 | Supervisione                              | 1            | Nessuno                                |
 
 **Gruppi associativi:**
