@@ -12,7 +12,7 @@ Il rilevatore di rottura vetro rileva il suono ad alta frequenza emesso dalla ro
         3.  **Microfono**
         4.  **Dip-Interruttore**
         5.  **Compartimento della batteria**
-        6.  **Learn / Test Button**
+        6.  **Pulsante Impara/Test**
 
 \-Premere una volta il pulsante per inviare un codice di apprendimento.
 
@@ -89,7 +89,7 @@ Utilizzare il simulatore di rottura vetro FlexGuard FG-701 per creare il suono d
 
 1.  Impostare gli interruttori FlexGuard FG-701 sulla modalità “FLEX” e “TEST”. Premere il pulsante rosso di avvio.
 2.  Posizionare l'FG-701 nella posizione di test desiderata sul vetro e puntare l'altoparlante verso il rilevatore. Chiudere la copertura della finestra se presente.
-3.  Colpisci il vetro con uno strumento imbottito per creare un suono sorprendente. Quando FG-701 rileva il rumore del vetro che colpisce, reagisce emettendo il suono della rottura del vetro.
+3.  Colpisci il vetro con uno strumento imbottito per creare un suono sorprendente. Quando FG-701 rileva il rumore del vetro che colpisce, reagisce emettendo il suono del vetro rotto.
 
 ![](<.gitbook/assets/9 (10).jpeg>)
 
@@ -165,7 +165,7 @@ Quando si utilizza il nastro biadesivo fornito, assicurarsi di installare il ril
 ![](<.gitbook/assets/17 (8).jpeg>)
 
 1.  Pulire sia il coperchio posteriore del rilevatore che la posizione di montaggio con uno sgrassatore adatto.
-2.  Apply the double side adhesive tape to back cover of detector, then apply to mounting location. _\\<NOTE>_
+2.  Applicare il nastro biadesivo alla copertura posteriore del rilevatore, quindi applicarlo alla posizione di montaggio._\\<NOTE>_
     -   Quando si monta con nastro biadesivo, la protezione antimanomissione per la rimozione della posizione di montaggio verrà disabilitata. La protezione dall'apertura del coperchio è ancora disponibile.
 
 ![](<.gitbook/assets/18 (12).png>)
