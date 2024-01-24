@@ -174,3 +174,5 @@
 * [VESTA 393](vesta-393.md)
 * [💡 VMAX BUS TIPS](vmax-bus-tips.md)
 * [🔎 MODELS](models.md)
+* [VESTA 338](vesta-338.md)
+* [VESTA 370](vesta-370.md)
