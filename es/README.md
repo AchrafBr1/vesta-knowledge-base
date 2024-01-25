@@ -1,10 +1,12 @@
-# README\_es
+---
+cover: >-
+  https://images.unsplash.com/photo-1635850967683-17df1f33e749?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxndWlkZXxlbnwwfHx8fDE3MDYxNzY2Mjh8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
 
-***
+# 📙 MANUALES Y GUÍAS
 
-***
-
-## 📚 MANUALES Y GUÍAS
+## BIENVENIDO AL REPOSITORIO DE MANUALES DE VESTA
 
 ### Aquí puede obtener todos los manuales y guías del sistema VESTA.
 
@@ -12,9 +14,8 @@
 
 "¿A qué altura debo instalar una PIRCAM?"
 
-Aquí hay una errata
+
 
 ✨**También estoy en condiciones de darte soporte paso a paso en la plataforma, aquí te muestro cómo configurar el APN de un panel:**
 
-{% @arcade/embed flowid="7NazF7Y168alDmWGgmmI" url="<https://app.arcade.software/share/7NazF7Y168alDmWGgmmI" %}
-
+{% embed url="https://demo.arcade.software/7NazF7Y168alDmWGgmmI?embed" %}
