@@ -1,13 +1,13 @@
-# 💡 CONSIGLI PER GLI AUTOBUS VMAX
+# CONSIGLI PER GLI AUTOBUS VMAX
 
 **V-MAX BUS SYSTEM nei pannelli VESTA consigli:**
 
 ## **REGOLE GENERALI:**
 
--   Da un dispositivo o dalla partenza dell'autobus al successivo non si possono superare i 300 metri.
--   Tenere conto della corrente richiesta dall'impianto (usare calcolatore o tabella consumi dei dispositivi).
--   Tenere conto della caduta di tensione (calcolatrice) Se è presente una caduta di tensione, è possibile utilizzare un alimentatore o un amplificatore-isolatore
--   The limit of the BUS system at distance level will depend on the consumption and voltage at each point, if a sufficient current and voltage is guaranteed at each device, the system will operate correctly.
+* Da un dispositivo o dalla partenza dell'autobus al successivo non si possono superare i 300 metri.
+* Tenere conto della corrente richiesta dall'impianto (usare calcolatore o tabella consumi dei dispositivi).
+* Tenere conto della caduta di tensione (calcolatrice) Se è presente una caduta di tensione, è possibile utilizzare un alimentatore o un amplificatore-isolatore
+* The limit of the BUS system at distance level will depend on the consumption and voltage at each point, if a sufficient current and voltage is guaranteed at each device, the system will operate correctly.
 
 ![](<.gitbook/assets/4 (70).jpeg>)
 
