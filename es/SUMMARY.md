@@ -174,3 +174,4 @@
 * [VESTA 393](vesta-393\_es.md)
 * [CONSEJOS PARA EL VMAX BUS DE VESTA](vmax-bus-tips\_es.md)
 * [🛡 ALARMSPACE](alarmspace.md)
+* [🙍 GUÍA DE USUARIO SmartHomeSec](guia-de-usuario-smarthomesec.md)
