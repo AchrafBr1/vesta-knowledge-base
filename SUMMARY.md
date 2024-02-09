@@ -178,3 +178,5 @@
 * [VESTA 370](vesta-370.md)
 * [🟥 SIMALARM](simalarm.md)
 * [💡 Trubleshouting & tips \[Cameras\]](trubleshouting-and-tips-cameras.md)
+* [VESTA 068N](vesta-068n.md)
+* [VESTA 067](vesta-067.md)
