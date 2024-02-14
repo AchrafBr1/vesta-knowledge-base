@@ -1,4 +1,4 @@
-# 🔎 MODELS
+# MODELS
 
 Here is a table with the relation of the reference and manufacturer model, to take into account when searching in the manuals, as they are the same device with two references or models for example DIO-52-F1 is VESTA-028 and vice versa
 

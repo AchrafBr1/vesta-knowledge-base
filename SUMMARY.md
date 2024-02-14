@@ -1,7 +1,6 @@
 # Table of contents
 
-* [📚 MANUALS AND GUIDES](README.md)
-* [🛡 ALARMSPACE](alarmspace.md)
+* [📚 WELCOME TO VESTA KNOLEDGE BASE](README.md)
 * [VESTA 005N](vesta-005n.md)
 * [VESTA 006](vesta-006.md)
 * [VESTA 007](vesta-007.md)
@@ -172,12 +171,8 @@
 * [VESTA 384](vesta-384.md)
 * [VESTA 387](vesta-387.md)
 * [VESTA 393](vesta-393.md)
-* [💡 VMAX BUS TIPS](vmax-bus-tips.md)
-* [🔎 MODELS](models.md)
 * [VESTA 338](vesta-338.md)
 * [VESTA 370](vesta-370.md)
-* [🟥 SIMALARM](simalarm.md)
-* [💡 Trubleshouting & tips \[Cameras\]](trubleshouting-and-tips-cameras.md)
 * [VESTA 068N](vesta-068n.md)
 * [VESTA 067](vesta-067.md)
 
@@ -185,6 +180,14 @@
 
 * [VESTA-177 / VESTA-176](certificates/vesta-177-vesta-176.md)
 
-***
+## 🧩 THIRD PARTIES
 
-* [CUDY & VESTA INTEGRATION](cudy-and-vesta-integration.md)
+* [CUDY-21](third-parties/cudy-21.md)
+* [SIMALARM](third-parties/simalarm.md)
+* [🛡 ALARMSPACE](third-parties/alarmspace.md)
+
+## ❓ TIPS & HELP
+
+* [MODELS](tips-and-help/models.md)
+* [CAMERAS](tips-and-help/cameras.md)
+* [VMAX BUS TIPS](tips-and-help/vmax-bus-tips.md)

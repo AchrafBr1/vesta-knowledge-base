@@ -18,15 +18,13 @@ layout:
     visible: true
 ---
 
-# 📚 MANUALS AND GUIDES
+# 📚 WELCOME TO VESTA KNOLEDGE BASE
 
 ## Here you can get all manuals and guides for the VESTA system.
 
 #### 🔍 Use the search engine to be able to ask natural questions, for example:&#x20;
 
 &#x20;          "At which height should I install a PIRCAM?"
-
-Aquí hay una errata
 
 
 

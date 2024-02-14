@@ -1,4 +1,8 @@
-# 💡 Trubleshouting & tips \[Cameras]
+---
+description: Trubleshouting & tips
+---
+
+# CAMERAS
 
 ## I can't find the IP of the camera in the configuration steps
 
@@ -19,5 +23,5 @@
 4. Make sure to **enable the connectivity permissions** in the SmartHomeSEC APP check _\[Trouble sheet 1]_.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>[Trouble sheet 1]</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>[Trouble sheet 1]</p></figcaption></figure>
 
