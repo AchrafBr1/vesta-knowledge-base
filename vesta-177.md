@@ -5,7 +5,7 @@
 
 
 {% hint style="success" %}
-[GRADE 2: EN50131](https://app.gitbook.com/o/9Ef2rB1V3pOriiGTBXMv/s/ZJzpNocHhYVmD43GZobR/\~/changes/43/certificates/vesta-177-vesta-176)
+[GRADE 2: EN50131](certificates/vesta-177-vesta-176.md)
 {% endhint %}
 
 ## MANUAL GUIDE
