@@ -180,3 +180,7 @@
 * [💡 Trubleshouting & tips \[Cameras\]](trubleshouting-and-tips-cameras.md)
 * [VESTA 068N](vesta-068n.md)
 * [VESTA 067](vesta-067.md)
+
+## 📄 CERTIFICATES
+
+* [VESTA-177 / VESTA-176](certificates/vesta-177-vesta-176.md)
