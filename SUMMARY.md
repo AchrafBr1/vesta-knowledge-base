@@ -184,3 +184,7 @@
 ## 📄 CERTIFICATES
 
 * [VESTA-177 / VESTA-176](certificates/vesta-177-vesta-176.md)
+
+***
+
+* [CUDY & VESTA INTEGRATION](cudy-and-vesta-integration.md)
