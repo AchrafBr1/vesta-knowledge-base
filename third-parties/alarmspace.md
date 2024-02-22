@@ -6,9 +6,9 @@
 
 **Software de CRA para control de dispositivos de seguridad e incendio**
 
-![](../.gitbook/assets/0.png)
+![](<../.gitbook/assets/0 (3).png>)
 
-![](../.gitbook/assets/1.png)
+![](<../.gitbook/assets/1 (3).png>)
 
 \
 **ÍNDICE**
@@ -261,7 +261,7 @@ Contraseña: 12345
 
 Después se puede cambiar la contraseña del administrador y crear más usuarios administradores en el menú Usuarios.
 
-![](../.gitbook/assets/2.png)
+![](<../.gitbook/assets/2 (3).png>)
 
 La pantalla de acceso al servidor nos informa de la versión actual de AlarmSpace, nos pide Usuario y contraseña y podemos _Aceptar_ para entrar en el Servidor o _Salir_ para abortar la operación. El último usuario utilizado queda registrado y aparecerá por defecto la próxima vez que se ejecute el Servidor.
 
@@ -271,11 +271,11 @@ Altas y modificaciones de usuarios.
 
 #### &#x20;2.2.1. Gestión de Usuarios <a href="#toc84228593" id="toc84228593"></a>
 
-![](../.gitbook/assets/3.png)
+![](<../.gitbook/assets/3 (3).png>)
 
 En esta tabla vemos todos los usuarios del sistema. Al hacer doble click sobre el usuario lo cargamos en la parte inferior para editarlo:
 
-![](../.gitbook/assets/4.png)
+![](<../.gitbook/assets/4 (3).png>)
 
 Podemos cambiar la descripción del usuario, el nombre, la contraseña y el nivel (administrador u operador). Sólo los administradores pueden acceder al módulo servidor.
 
@@ -291,19 +291,19 @@ A los usuarios que hemos definido en el punto anterior podemos asignarles uno o 
 
 Para asignar un grupo a un usuario primero seleccionamos el usuario en el desplegable:
 
-![](../.gitbook/assets/5.png)
+![](<../.gitbook/assets/5 (3).png>)
 
 Una vez seleccionado en la parte inferior asignamos el grupo/grupos que le queramos asignar (o seleccionamos “Todos los Grupos”) y pulsamos en “Añadir Grupo”:
 
-![](../.gitbook/assets/6.png)
+![](<../.gitbook/assets/6 (3).png>)
 
 El Grupo quedará asignado al Usuario:
 
-![](../.gitbook/assets/7.png)
+![](<../.gitbook/assets/7 (2).png>)
 
 Si deseamos quitar un grupo a un usuario, seleccionamos el usuario en el desplegable, doble-click sobre el grupo a quitar, se carga en la sección inferior y le damos a “Quitar Grupo”:
 
-![](../.gitbook/assets/8.png)
+![](<../.gitbook/assets/8 (2).png>)
 
 #### &#x20;2.2.3. Logout P2P Hyundai/Hikvision <a href="#toc84228595" id="toc84228595"></a>
 
@@ -322,7 +322,7 @@ Altas y modificaciones de los equipos.
 
 Gestión de altas y modificaciones de los equipos. Se presentan en una tabla:
 
-![](../.gitbook/assets/9.png)
+![](<../.gitbook/assets/9 (3).png>)
 
 En cada fila vemos la información del equipo. Si tiene problemas de conexión la fila aparece en rojo.
 
@@ -336,7 +336,7 @@ Los equipos que se están visualizando según el filtro se pueden exportar a CSV
 
 Para gestionar cambios doble-click sobre la fila del equipo:
 
-![](../.gitbook/assets/10.png)
+![](<../.gitbook/assets/10 (2).png>)
 
 Si queremos añadir un nuevo equipo pulsamos en el botón Nuevo.
 
@@ -380,7 +380,7 @@ Contraseña: la contraseña del usuario anterior.
 
 Al pulsar _Cargar configuración_ el software intentará conectar con el equipo por las vías disponibles e informará de la correcta o incorrecta conexión por cada una de ellas.
 
-![](../.gitbook/assets/11.png)
+![](<../.gitbook/assets/11 (3).png>)
 
 Además, carga el número de serie leído en _Número de Serie,_ los canales totales del equipo en _Canales,_ los canales de salida y la Fecha del equipo.
 
@@ -388,11 +388,11 @@ Si pulsamos en _Guardar_ se guardarán los cambios y se añadirá la fila si era
 
 El botón _Datos_ permite asignar datos adicionales al equipo:
 
-![](../.gitbook/assets/12.png)
+![](<../.gitbook/assets/12 (2).png>)
 
 Se han añadido nuevos filtros para poder utilizar estos cambios:
 
-![](../.gitbook/assets/13.png)
+![](<../.gitbook/assets/13 (3).png>)
 
 Permite filtrar por población, provincia, teléfono y email.
 
@@ -401,7 +401,7 @@ Permite filtrar por población, provincia, teléfono y email.
 
 Al instalar o actualizar AlarmSpace aparece en la lista de DVR un grabador máster llamado MASTER\_BYDEMES. Se utiliza para enviar eventos genéricos del sistema al software de CRA. Se puede editar como cualquier otro DVR aunque no podemos conectar con él porque no existe físicamente. Podemos modificar el número de abonado que se mandará (por defecto 0000) y podemos elegir los eventos de alarma que queramos enviar:
 
-![](../.gitbook/assets/14.png)
+![](<../.gitbook/assets/14 (3).png>)
 
 Los tipos de alarmas a gestionar son:
 
@@ -422,7 +422,7 @@ _Rest. serv, P2P_ avisa cuando se restaura el servicio P2P contra ByDemes
 
 AlarmSpace es capaz de importar datos del programa SmartPSS de Dahua. La importación se hace a través del fichero devices.xml resultado de la exportación de SmartPSS. Importamos los datos sobre la plantilla de un DVR ya existente, para completar los datos que no contenga el fichero devices con los del modelo:
 
-![](../.gitbook/assets/15.png)
+![](<../.gitbook/assets/15 (3).png>)
 
 En este caso si pulsamos sobre _Importar DVR XML copiando el resto de datos,_ daríamos de alta los nuevos grabadores en AlarmSpace con los datos de devices.xml y el resto de datos del DVR _ColEvoP2PPrb._
 
@@ -433,7 +433,7 @@ También podemos crear nuevos equipos copiando los datos de otro. Si pulsamos en
 
 Programamos distintas opciones generales del equipo:
 
-![](../.gitbook/assets/16.png)
+![](<../.gitbook/assets/16 (3).png>)
 
 _Segundos grabación pre vídeo alarma:_ en caso de tener las entradas de vídeo cableadas, por detección de movimiento o eventos IVS, cuando llega una alarma de grabador AlarmSpace descarga un vídeo de unos segundos antes de la cámara asociada con la duración asignada en esta casilla. En el ejemplo 30 segundos de vídeo.
 
@@ -473,7 +473,7 @@ Sin uso en la actualidad
 
 Configurar las Alarmas que deseamos recibir y reenviar:
 
-![](../.gitbook/assets/17.png)
+![](<../.gitbook/assets/17 (2).png>)
 
 En esta pantalla inicial de alarmas marcamos los eventos generales del equipo que queremos monitorizar. Pulsamos el check al lado del evento y elegimos un tipo de evento a mandar en el desplegable. Los tipos de eventos se corresponden a los códigos (ContactID,SIA) que enviaremos al software de CRA. Son configurables a través de la sección _Pasarela_ del menú _Alarmas._ También elegimos la zona que mandaremos con el evento. En la sección enviar email podemos elegir no enviarlo, enviarlo al mail administrador (AS), configurado en _Configuración -> Parámetros Receptora,_ enviarlos al email de _Grupo_ o al email de cliente configurado en _Opciones_.
 
@@ -487,7 +487,7 @@ El botón _Calendario Alarmas_ establece un calendario en el que se reciben o no
 
 En el caso de vídeo-porteros tenemos otro tipo de alarma para monitorizar:
 
-![](../.gitbook/assets/18.png)
+![](<../.gitbook/assets/18 (2).png>)
 
 Es la _Llamada VTO._ Si está marcada se mandará el evento asociado a ALARMA MEDICA (Ver _Alarmas -> Pasarela_) cuando un usuario pulse el botón de llamada del VTO. Esto permitirá gestionar la llamada desde el Módulo ActiveX de AlarmSpace y hacer gestiones con los bObject de los softwares de CRA.
 
@@ -495,11 +495,11 @@ _Alarmas de incendio_
 
 En el caso de centrales de incendio convencionales de Honywell, nos aparece un botón para poder seleccionar más eventos para enviar a CRA:
 
-![](../.gitbook/assets/19.png)
+![](<../.gitbook/assets/19 (2).png>)
 
 Pulsando el botón _Más Eventos_ accedemos al siguiente formulario:
 
-![](../.gitbook/assets/20.png)
+![](<../.gitbook/assets/20 (2).png>)
 
 En el formulario aparecen todos los eventos genéricos de la central que no tenemos en la pestaña Alarmas anterior. Podemos marcar qué eventos queremos enviar a CRA marcando el check al lado del evento. El código que se enviará lo elegimos con el desplegable (con los códigos disponibles definidos en Alarmas - Pasarela). También podemos asignar un número de zona a asignar al evento tecleándolo en las casillas de _Zona._ Cuando hemos terminado los cambios debemos pulsar en el botón _Guardar_ para conservarlos.
 

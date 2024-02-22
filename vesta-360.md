@@ -8,7 +8,7 @@ The Wired Door Contact / Shock Sensor design consists of a cover and base. The c
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (3).png>)
+![](<.gitbook/assets/0 (3) (1).png>)
 
 1. **LED Indicator / Test Button**
 
@@ -19,7 +19,7 @@ The Wired Door Contact / Shock Sensor design consists of a cover and base. The c
 
 When the Door Contact / Shock Sensor is connected as the furthest BUS device on a BUS line, please set the Door Contact / Shock Sensor 's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/1 (2).jpeg>) ![](<.gitbook/assets/2 (2).png>)
+![](<.gitbook/assets/1 (2).jpeg>) ![](<.gitbook/assets/2 (2) (1).png>)
 
 **Jumper On**
 
@@ -75,7 +75,7 @@ The jumper link is removed or “parked” on one pin.
   * The LED will not flash if the device tamper is normal and the device is not under test mode.
 * _**Door Opening Detection & Shock Detection**_
 
-![](<.gitbook/assets/8 (1) (1).jpeg>)
+![](<.gitbook/assets/8 (1) (1) (1).jpeg>)
 
 The device is triggered by door/window opening or a shock detection which exceeds detection threshold.
 
@@ -107,7 +107,7 @@ The device supports shock detection on various materials including glass, wood, 
     * Wiring of the Door Contact / Shock Sensor should only be performed by certified technicians with proper knowledge and training in electric equipment.
     * Before installation or any maintenance work, make sure the power supply has been disconnected.
 
-![](<.gitbook/assets/11 (2).jpeg>) ![](<.gitbook/assets/12 (1).jpeg>) ![](.gitbook/assets/13.jpeg) ![](<.gitbook/assets/14 (1).jpeg>) ![](<.gitbook/assets/15 (3).jpeg>) ![](<.gitbook/assets/16 (6).png>)
+![](<.gitbook/assets/11 (2).jpeg>) ![](<.gitbook/assets/12 (1) (1).jpeg>) ![](.gitbook/assets/13.jpeg) ![](<.gitbook/assets/14 (1).jpeg>) ![](<.gitbook/assets/15 (3).jpeg>) ![](<.gitbook/assets/16 (6).png>)
 
 2
 

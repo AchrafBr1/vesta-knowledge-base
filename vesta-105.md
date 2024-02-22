@@ -148,9 +148,9 @@ Loops
 
 (**Pic 6.**) (**Pic 7.**)
 
-1. ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (1) (1).jpeg>)Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
+1. ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (1) (1) (1).jpeg>)Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
 
-![](<.gitbook/assets/11 (1) (1).jpeg>) ![](<.gitbook/assets/12 (2) (1).png>)
+![](<.gitbook/assets/11 (1) (1).jpeg>) ![](<.gitbook/assets/12 (2) (1) (1).png>)
 
 (**Pic 8.**) (**Pic 9.**)
 
@@ -173,7 +173,7 @@ To mount the Magnet:
   2. Screw the back cover into the door/window using a Philips screwdriver. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
   3. Attach the front cover to the back cover. If the front cover is stabilized onto the back cover, you should hear a Click sound.
 
-![](<.gitbook/assets/15 (2) (1).png>)
+![](<.gitbook/assets/15 (2) (1) (1).png>)
 
 * **Adhesive Mounting**
 
@@ -183,7 +183,7 @@ The Magnet can also be mounted using the double-sided adhesive tape pad or the d
 2. Remove the protective covering from one side of the double-sided adhesive pad or the double-sided adhesive Magnet Spacer. Apply to the back of the Magnet and press firmly for 30 seconds to ensure good contact.
 3. Remove the other cover and firmly press the Magnet onto the desired location for 30 seconds..
 
-![](<.gitbook/assets/16 (2) (1).png>)
+![](<.gitbook/assets/16 (2) (1) (1).png>)
 
 \<Note>
 

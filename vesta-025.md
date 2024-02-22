@@ -142,7 +142,7 @@ A wall mounting bracket is also included for users to place their Touchscreen Ke
 
 **Step 3.** Screw the bracket into the wall with the 3 screws provided.
 
-![](<.gitbook/assets/12 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/12 (1) (1) (1) (1) (1).png>)
 
 **Step 4.** Attach the Touchscreen Keypad onto the bracket.
 
@@ -156,13 +156,13 @@ A wall mounting bracket is also included for users to place their Touchscreen Ke
 
 When battery is running low, a low battery notification will be displayed to inform you to recharge the battery. Please refer to Power Supply to recharge the Touchscreen Keypad.
 
-![](<.gitbook/assets/15 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/15 (1) (1) (1) (1) (1).png>)
 
 ### Operation <a href="#toc61269512" id="toc61269512"></a>
 
 ### Home <a href="#toc61269513" id="toc61269513"></a>
 
-![](<.gitbook/assets/16 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/16 (1) (1) (1) (1) (1).png>)
 
 * **Date & Time**: The Home page displays current Date & Time.
 * **Home Widget** ![](<.gitbook/assets/17 (6).png>): The Home Widget list is for you to control or check currents status of the HVAC sensors or devices which have been learned into the system.

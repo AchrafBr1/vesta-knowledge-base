@@ -81,7 +81,7 @@ When KP-35-Combo is hardwired to Control Panel, 13.5V (typical) power supply can
   * Two L91 1.5V AA lithium batteries can be installed inside the battery compartment to serve as a backup power source in case of power failure. Prior to inserting batteries, ensure correct battery placement to protect your device.
   * The wired/wireless keypad can also monitor the battery life. When batteries are low in power, a low battery signal will be sent along with regular signal transmission to the Control Panel to alert users to battery replacement.
 
-![](.gitbook/assets/10.jpeg)
+![](<.gitbook/assets/10 (1).jpeg>)
 
 _\<NOTE>_
 

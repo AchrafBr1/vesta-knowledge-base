@@ -147,7 +147,7 @@ The PIR Camera will conduct a Self-test Periodically by transmitting a superviso
 * The Pet-Immune models give a typical PET IMMUNE range of 7 meters when mounted at 1.9 to 2 meters above ground. If required, you can adjust the height of the PIR Camera according to the size of your pet for optimal pet immune performance. Higher installation location will provide larger pet-immune space, but also increases the blind spot under the PIR Camera.
 * When VST-862 is mounted with rotating bracket, it will not have the regular detection area (as in the diagram), or the typical pet immue range.
 
-![](<.gitbook/assets/5 (3) (1).png>)
+![](<.gitbook/assets/5 (3) (1) (1).png>)
 
 **It is recommended to install the PIR Camera in the following locations**
 
@@ -178,7 +178,7 @@ The PIR Camera will conduct a Self-test Periodically by transmitting a superviso
 
 * **Surface mounting:**
 
-1. ![triangular bracket](<.gitbook/assets/7 (1) (1).jpeg>)![triangular bracket](<.gitbook/assets/8 (1) (1) (1).jpeg>)Open the cover by loosening the Cover Screw using a Philips screwdriver.
+1. ![triangular bracket](<.gitbook/assets/7 (1) (1) (1).jpeg>)![triangular bracket](<.gitbook/assets/8 (1) (1) (1) (1).jpeg>)Open the cover by loosening the Cover Screw using a Philips screwdriver.
 2. Break through the 2 Surface knockouts at the center of base.
 3. Use the holes as template to drill holes on the surface.
 4. Insert the wall plugs if fixing it into plaster or brick.
@@ -193,4 +193,4 @@ The rotating bracket can be mounted on the wall with provides screws.
 2. Fit the 3 hooks of the rotating bracket into the 3 holes of the base accordingly.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-![](<.gitbook/assets/9 (1) (1) (1).png>)
+![](<.gitbook/assets/9 (1) (1) (1) (1).png>)

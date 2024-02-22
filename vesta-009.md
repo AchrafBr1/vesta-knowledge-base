@@ -20,7 +20,7 @@ IRP-29 / IRP-29 F1 – Pet Immune PIR sensor with alkaline batteries
 
 IR-29SL / IR-29SL-F1 – PIR sensor with lithium battery.
 
-![](<.gitbook/assets/0 (3) (1).png>)IRP-29SL / IRP-29SL-F1 – Pet Immune PIR sensor with lithium battery
+![](<.gitbook/assets/0 (3) (1) (1).png>)IRP-29SL / IRP-29SL-F1 – Pet Immune PIR sensor with lithium battery
 
 * _**Identifying the Parts**_
 

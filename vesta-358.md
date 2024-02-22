@@ -32,7 +32,7 @@ When the PIR motion sensor is connected as the furthest BUS device on a BUS line
    * When set as ON, Pet Immunity is disabled (Factory default).
    * When set as OFF, Pet Immunity is enabled.
 
-![](<.gitbook/assets/1 (2).png>)
+![](<.gitbook/assets/1 (2) (1).png>)
 
 **Jumper On**
 
@@ -135,11 +135,11 @@ The PIR can be put into Test mode by pressing the Test Button. Every time the Te
   * Wiring of the PIR motion sensor should only be performed by certified technician with proper knowledge and training in electric equipment.
   * Before installation or any maintenance work, make sure the power supply has been disconnected.
 
-![](<.gitbook/assets/11 (1).jpeg>) ![](.gitbook/assets/12.jpeg) ![](<.gitbook/assets/13 (4).png>)
+![](<.gitbook/assets/11 (1).jpeg>) ![](<.gitbook/assets/12 (1).jpeg>) ![](<.gitbook/assets/13 (4).png>)
 
 2
 
-* ![](<.gitbook/assets/14 (3).png>)_**PIR Motion Sensor Wiring**_
+* ![](<.gitbook/assets/14 (3) (1).png>)_**PIR Motion Sensor Wiring**_
   * Before connecting the PIR motion sensor to the system bus, please switch the power off.
   * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 

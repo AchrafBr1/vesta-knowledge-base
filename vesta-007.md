@@ -44,7 +44,7 @@ The Flash LED (For 862(P)) or Infrared LED (For 862(P)-IL) delivers sufficient l
 5. **Battery Compartment**
 6. **Sensitivity Adjustment Jumper Switch (JP3)**
 
-![jumper open](<.gitbook/assets/1 (3) (1).png>)![jumper close](<.gitbook/assets/2 (3) (1).png>)
+![jumper open](<.gitbook/assets/1 (3) (1) (1).png>)![jumper close](<.gitbook/assets/2 (3) (1) (1).png>)
 
 **Jumper Off**
 
@@ -59,7 +59,7 @@ The jumper link is inserted connecting the two pins.
 
 1. **Sleep Timer Jumper Switch (JP2)**
 
-![jumper open](<.gitbook/assets/3 (3) (1).png>)![jumper close](<.gitbook/assets/4 (3) (1).png>)
+![jumper open](<.gitbook/assets/3 (3) (1) (1).png>)![jumper close](<.gitbook/assets/4 (3) (1) (1).png>)
 
 **Jumper Off**
 
@@ -147,7 +147,7 @@ The PIR Camera will conduct a Self-test Periodically by transmitting a superviso
 * The Pet-Immune models give a typical PET IMMUNE range of 7 meters when mounted at 1.9 to 2 meters above ground. If required, you can adjust the height of the PIR Camera according to the size of your pet for optimal pet immune performance. Higher installation location will provide larger pet-immune space, but also increases the blind spot under the PIR Camera.
 * When VST-862 is mounted with rotating bracket, it will not have the regular detection area (as in the diagram), or the typical pet immue range.
 
-![](<.gitbook/assets/5 (2) (1).png>)
+![](<.gitbook/assets/5 (2) (1) (1).png>)
 
 **It is recommended to install the PIR Camera in the following locations**
 

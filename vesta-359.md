@@ -19,7 +19,7 @@ Press the Test button to enter test mode for 3 minutes.
 1. **Cover Fixing Screw**
 2. **Input Jumper Switch (JP2)**
 
-![](<.gitbook/assets/1 (3).png>)
+![](<.gitbook/assets/1 (3) (1).png>)
 
 **Jumper On** **Jumper Off**
 
@@ -37,7 +37,7 @@ pins. pin.
 
 When the Door Contact is connected as the furthest BUS device on a BUS line, please set the Door Contact 's terminal resistor jumper and the first BUS device’s (usually Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/4 (2).png>)
+![](<.gitbook/assets/4 (2) (1).png>)
 
 **Jumper On**
 
@@ -81,7 +81,7 @@ Used to fix and screw the Door Contact directly onto the door frame or the wall.
   * When the Wired Door Contact is in test mode, the LED will flash 3 times every time it is activated.
 * _**Extension Terminal**_
 
-![](<.gitbook/assets/6 (2).png>)
+![](<.gitbook/assets/6 (2) (1).png>)
 
 DC-23-BUS has an extension terminal to provide enhanced flexibility. According to the setting of JP2, the extension terminal forms a closed (Normally Closed (N.C.)) or open (Normally Open (N.O.)) loop with the device connected to it. When the device connected to the extension terminal is triggered, the Wired Door Contact will be triggered.
 
@@ -89,13 +89,13 @@ DC-23-BUS has an extension terminal to provide enhanced flexibility. According t
 | ------------------------------------------------ | --------------------------- | - |
 |                                                  |                             |   |
 
-![](<.gitbook/assets/7 (1).jpeg>)
+![](<.gitbook/assets/7 (1) (1).jpeg>)
 
 1. Open the Wired Door Contact’s cover with a screwdriver by loosening the cover fixing screw at the bottom of the device.
 2. The upper end of the front case has a thinner plastic knockout. Break through the knockout to create a hole for the wiring connection to the extension terminal.
 3. Connect the device to the extension terminal.
 
-![](<.gitbook/assets/8 (1).jpeg>)
+![](<.gitbook/assets/8 (1) (1).jpeg>)
 
 The extension terminal may be useful for the following situations:
 
@@ -117,7 +117,7 @@ The extension terminal may be useful for the following situations:
   * Under Test Mode, the LED will flash 3 times whenever the Wired Door Contact is activated.
   * Each additional Test Button press will reset the Test Mode period to 3 minutes.
 
-![](<.gitbook/assets/10 (5).png>) ![](<.gitbook/assets/11 (3).png>) ![](<.gitbook/assets/12 (4).png>)
+![](<.gitbook/assets/10 (5).png>) ![](<.gitbook/assets/11 (3) (1).png>) ![](<.gitbook/assets/12 (4).png>)
 
 2
 

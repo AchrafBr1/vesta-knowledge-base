@@ -191,7 +191,7 @@ labels by applying them one by one.
 
 Step 4. The Keypad will exit NFC label removal mode automatically after idling for 5 seconds.
 
-![NFC iPhone3](<.gitbook/assets/5 (1) (1) (1).jpeg>)Step 5. Press ![](<.gitbook/assets/6 (3) (1).png>) key to exit NFC label learning mode.
+![NFC iPhone3](<.gitbook/assets/5 (1) (1) (1).jpeg>)Step 5. Press ![](<.gitbook/assets/6 (3) (1) (1).png>) key to exit NFC label learning mode.
 
 _**C. NFC Installation Procedure**_
 
@@ -224,7 +224,7 @@ Disarming the system always requires entering Control Panel User PIN Code.
 
 Under Test mode, Pressing ＊ key and then **9** key to enable Arm/ Home with PIN Code function.
 
-NFC label. If panel has no fault and arming is successful, the ![](<.gitbook/assets/9 (3) (1).png>) LED will turn ON along with
+NFC label. If panel has no fault and arming is successful, the ![](<.gitbook/assets/9 (3) (1) (1).png>) LED will turn ON along with
 
 a long beep.
 

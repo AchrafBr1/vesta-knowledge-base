@@ -165,7 +165,7 @@ Loops
 
 (**Pic 6.**) (**Pic 7.**)
 
-1. ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (1).jpeg>)Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
+1. ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (1) (1).jpeg>)Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
 
 ![](<.gitbook/assets/11 (6).jpeg>) ![](<.gitbook/assets/12 (10).png>)
 

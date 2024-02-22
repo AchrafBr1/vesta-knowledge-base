@@ -21,7 +21,7 @@ The Tamper switch will be activated when the Bell box is removed from mounted su
 
 When the Bell Box is connected as the furthest BUS device on a BUS line, please set the Bell Box's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/1 (3).jpeg>) ![](<.gitbook/assets/2 (3).png>)
+![](<.gitbook/assets/1 (3).jpeg>) ![](<.gitbook/assets/2 (3) (1).png>)
 
 **Jumper On**
 
@@ -58,7 +58,7 @@ The Bell box will transmit a supervisory signal every 20-30 seconds in normal op
 
 **Function Overview**
 
-![](<.gitbook/assets/4 (3).png>)
+![](<.gitbook/assets/4 (3) (1).png>)
 
 * **Alarm Memory**
 
@@ -85,7 +85,7 @@ If the Bell box detects a tamper condition, it will activate the siren & strobe 
 
 While arming / disarming the system, the Bell box uses different methods to distinguish various statuses for the user, as listed in the table below.
 
-![](<.gitbook/assets/5 (6).png>) ![](<.gitbook/assets/6 (3).png>) ![](<.gitbook/assets/7 (4).png>)
+![](<.gitbook/assets/5 (6).png>) ![](<.gitbook/assets/6 (3) (1).png>) ![](<.gitbook/assets/7 (4).png>)
 
 |                  | **Siren Audio** |                                   | **Strobe light indication**  |
 | ---------------- | --------------- | --------------------------------- | ---------------------------- |
@@ -173,7 +173,7 @@ Please check whether the Bell Box is connected properly to the Panel within appr
 * To make sure the Bell Box is able to communicate with the Panel after it is learned-in, place the Control Panel in **Walk Test** mode and press the learn button on the Bell Box to transmit a test signal to the Control Panel.
 * When the Panel receives the test signal, it will beep once and display the Bell Box’s information accordingly on the top of the device list.
 
-![](<.gitbook/assets/15 (3).png>)
+![](<.gitbook/assets/15 (3) (1).png>)
 
 _\<NOTE>_
 

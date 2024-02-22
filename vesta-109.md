@@ -173,13 +173,13 @@ Flashing LED indicates the Video Doorbell does not have a working Wi-Fi setting 
 
 4.1. Manual: Use your VDP as an AP. Connect to your Wi-Fi. Make sure your smartphone’s Wi-Fi is enabled. Follow on-screen instructions and wait for your VDP to connect to your Wi-Fi network. After successfully joining to your Wi-Fi network, the app proceeds to learn the VDP into the Control Panel. When learning is completed, re-login to the app and start using your VDP.
 
-![](<.gitbook/assets/7 (8).png>) ![](<.gitbook/assets/8 (8) (1).png>) ![](<.gitbook/assets/9 (8) (1).png>) ![](<.gitbook/assets/10 (3) (1).png>) ![](<.gitbook/assets/11 (2) (1).png>) ![](<.gitbook/assets/12 (3) (1).png>)
+![](<.gitbook/assets/7 (8).png>) ![](<.gitbook/assets/8 (8) (1).png>) ![](<.gitbook/assets/9 (8) (1).png>) ![](<.gitbook/assets/10 (3) (1).png>) ![](<.gitbook/assets/11 (2) (1) (1).png>) ![](<.gitbook/assets/12 (3) (1).png>)
 
-![](<.gitbook/assets/13 (2) (1).png>)
+![](<.gitbook/assets/13 (2) (1) (1).png>)
 
 4.2. QR Code: Enter your SSID information to generate QR Code for VDP to scan. The QR Code includes information about the Wi-Fi network and the Control Panel. Follow on-screen instructions. Tap “QR Code” for your smartphone to display it. VDP will emit a short beep to indicate the scanning is successful. When the LED stops flashing, tap “Done” to complete the setup. After VDP successfully joins to your Wi-Fi network, the app will proceed to learn the VDP into the Control Panel. When learning is completed, the VDP is able to be viewed on the app.
 
-![](<.gitbook/assets/14 (2) (1).jpeg>) ![](<.gitbook/assets/15 (3) (1).png>) ![](<.gitbook/assets/16 (3) (1).png>)
+![](<.gitbook/assets/14 (2) (1).jpeg>) ![](<.gitbook/assets/15 (3) (1) (1).png>) ![](<.gitbook/assets/16 (3) (1) (1).png>)
 
 ### Operation <a href="#toc51257989" id="toc51257989"></a>
 
@@ -191,7 +191,7 @@ When accessing the Home Portal Server account of the Control Panel using a web b
 
 _Two-way voice and doorbell functions are not enabled for web browser access. To uses these functions, a smartphone app is required. Please see **22. Smartphone Access** for detail._
 
-![](<.gitbook/assets/17 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/17 (1) (1) (1) (1) (1).png>)
 
 ### Smartphone Access <a href="#toc51257991" id="toc51257991"></a>
 

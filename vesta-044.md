@@ -330,7 +330,7 @@ Item ID MSB: for appliance type, 01\~05
 
 Item ID LSB: for IR signal data, 01\~08
 
-![](<.gitbook/assets/10 (2) (1).png>)
+![](<.gitbook/assets/10 (2) (1) (1).png>)
 
 **Z-Wave Information**
 

@@ -12,7 +12,7 @@ In addition, VST-892EX-BUS is designed with the digital proximity detector. The 
 
 Remote configuration is supported for the PIR motion sensor camera. Besides adjusting the DIP Switch, users can also enable/disable the double knock function and pet immunity, and adjust the sensitivity of the PIR Camera from the Control Panel webpage or Home Portal Server.
 
-![](<.gitbook/assets/0 (2).png>)
+![](<.gitbook/assets/0 (2) (1).png>)
 
 * _**Identifying the Parts**_
 
@@ -50,7 +50,7 @@ There are 8 DIP Switches for setting the function & detection sensitivity levels
 
 When the PIR motion sensor camera is connected as the furthest BUS device on a BUS line, please set the PIR motion sensor camera 's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’ communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (1) (1).jpeg>) ![](<.gitbook/assets/3 (3).png>)
+![](<.gitbook/assets/2 (1) (1).jpeg>) ![](<.gitbook/assets/3 (3) (1).png>)
 
 **Jumper On**
 
@@ -75,7 +75,7 @@ The jumper link is removed or “**parked**” on one pin.
 3. **Hooks**
 4. **Mounting Holes**
 
-![](<.gitbook/assets/5 (3).png>)
+![](<.gitbook/assets/5 (3) (1).png>)
 
 * _**LED Indicator**_
 
@@ -87,7 +87,7 @@ When enabled, the LED Indicator will light up in the following conditions:
 
 The LED will not flash if the PIR Camera is normal and is not under test mode.
 
-![](<.gitbook/assets/6 (1) (1).png>)
+![](<.gitbook/assets/6 (1) (1) (1).png>)
 
 _\<NOTE>_
 
@@ -95,7 +95,7 @@ _\<NOTE>_
   * The LED indicator can be enabled by setting the DIP Switch 2 to ON position. Please refer to **DIP Switch Position Table** below for details.
 * _**Image Capture**_
 
-![](<.gitbook/assets/7 (2).png>)
+![](<.gitbook/assets/7 (2) (1).png>)
 
 When the alarm system is armed, the PIR Camera will capture 1, 3 or 6 alarm images with resolution of 640 x 480 or 320 x 240 (programmable from the Control Panel) upon movement detection. You can also manually request the PIR Camera to take a picture through the Control Panel. The captured images will be transferred to the Control Panel for visual alarm verification.
 
@@ -107,7 +107,7 @@ _\<NOTE>_
   * If your PIR Camera is installed at a location where the camera’s field of view is a complex environment with intense light or lots of colors, the images captured will be great in file size, possibly leading to truncation when the images are transmitted to the Control Panel.
 * _**Warm Up Period**_
 
-![](<.gitbook/assets/9 (3).png>)
+![](<.gitbook/assets/9 (3) (1).png>)
 
 The PIR Camera will warm up for 60 seconds when the PIR Camera is turned on by the Control Panel upon entering armed mode.
 
@@ -122,11 +122,11 @@ The PIR Camera will warm up for 60 seconds when the PIR Camera is turned on by t
   * The PIR Camera has a double knock function. If the double knock function is enabled, the PIR Camera will report an alarm to the control panel only if two movements are detected within 10 seconds. If the double knock function is disabled, the PIR Camera will report an alarm to the Control Panel when a movement is detected.
 * _**DIP Switch Position Table**_
 
-![](<.gitbook/assets/11 (2).png>) ![](<.gitbook/assets/12 (3).png>)
+![](<.gitbook/assets/11 (2) (1).png>) ![](<.gitbook/assets/12 (3).png>)
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON, and bottom position indicates OFF.
 
-![](<.gitbook/assets/13 (3).png>)
+![](<.gitbook/assets/13 (3) (1).png>)
 
 DIP Position
 
@@ -156,7 +156,7 @@ LED Indicator Disabled
 | OFF      | ON                | High; 20 kg pet             | OFF |   |
 |          |                   |                             |     |   |
 
-![](<.gitbook/assets/14 (2).png>)
+![](<.gitbook/assets/14 (2) (1).png>)
 
 Switch
 
@@ -204,7 +204,7 @@ _\<NOTE>_
 
 2
 
-* ![](<.gitbook/assets/16 (3).png>)_**Remote Setting**_
+* ![](<.gitbook/assets/16 (3) (1).png>)_**Remote Setting**_
   * The PIR motion sensor camera supports remote setting of the double knock function, sensitivity and pet immunity.
   * When the PIR camera is powered on, its double knock function is determined by DIP SW7 setting, sensitivity is determined by DIP SW5 & SW6, and pet immunity is determined by DIP SW8. Users can either adjust the DIP Switch settings or remotely change the double knock function, sensitivity and pet immunity settings in the Control Panel webpage or Home Portal Server. Remote setting will overwrite the DIP Switch settings.
 
@@ -256,7 +256,7 @@ Please refer to the table below for configuration details. For example, if you w
     * Before connecting the PIR Camera to the system bus, please switch the power off.
     * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/18 (3).png>) ![](<.gitbook/assets/19 (3).png>) ![](<.gitbook/assets/20 (2).png>)
+![](<.gitbook/assets/18 (3).png>) ![](<.gitbook/assets/19 (3).png>) ![](<.gitbook/assets/20 (2) (1).png>)
 
 | **Red**    | VDD  |
 | ---------- | ---- |

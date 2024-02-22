@@ -124,7 +124,7 @@ Enter New 4-digit Pin Code and then press **#**
     *
       *
         * Dual Key Disable — Press ＊ and then **5**
-        * Quit Test Mode —press ![](<.gitbook/assets/6 (1) (1) (1).png>) **twice**.
+        * Quit Test Mode —press ![](<.gitbook/assets/6 (1) (1) (1) (1).png>) **twice**.
         * Arm/ Home without PIN Code — press ＊ and then **8**
         * Arm/ Home with PIN Code — press ＊ and then **9**
 
@@ -171,7 +171,7 @@ Step 5. Setting the Pin Code:
 4. Enter your new 4-digit code.
 5. Press **#**, Keypad sounds a long beep.
 
-Step 6. Press ![](<.gitbook/assets/7 (2) (1).png>) **twice** to exit Test mode and the installation is completed.
+Step 6. Press ![](<.gitbook/assets/7 (2) (1) (1).png>) **twice** to exit Test mode and the installation is completed.
 
 * _**Mounting the Keypad:**_
 

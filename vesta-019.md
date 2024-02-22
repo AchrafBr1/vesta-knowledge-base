@@ -104,7 +104,7 @@ The Extension terminal may be useful for the following situation.
 * Any dry contact device with N.C. (Normal Close) loop can be connected to the Extension Terminal making the Door Contact serve as an Universal Transmitter.
 * Multiple dry contact device can be wired together with Door Contact, as show in diagram below.
 
-![](<.gitbook/assets/8 (2) (1).png>)
+![](<.gitbook/assets/8 (2) (1) (1).png>)
 
 * The extension terminal and internal magnetic switch can function together to trigger the Door Contact when either of them is activated, you can also choose to disable the internal magnetic switch through JP3 Jumper setting. If both extension terminal and internal magnetic switch is in use and any of them is triggered (opened). The Door Contact will only send Door Contact close (restore) signal when both of them are closed.
 * _**Battery**_
