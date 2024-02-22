@@ -1,5 +1,19 @@
 # VESTA-429
 
+
+
+### PLUG & PLAY WITH VESTA
+
+
+
+{% hint style="success" %}
+Wiring guide with VESTA HYBRID PANEL:&#x20;
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### INTRUDUCTION
 
 VESTA wired detectors represent the best choice for residential and industrial installations in the security sector. It use only digital PIRs, thus avoiding the conversion that generally must be done in traditional detectors, where the analog PIR is amplified and converted to digital. Thanks to the TOTALLY digital technology, the detector is much more accurate in detecting intrusions and not suffering of alterations such as: white light, ultraviolet light, temperature, air movement due to heating/cooling systems and it is totally immune to radiated and conducted electromagnetic disturbances. ProLine detectors are equipped with lenses designed by AMC and made by Fresnel Technologies, Inc. LODIFF® technology for optics realization in combination with POLY IR® materials make it a product with highest quality and efficiency. All ProLine detectors are pet immune with range of 15 mt, with 100 degrees angle. The sensor is equipped with latest generation microwave modules, with very low background noise, and can be supplied with different frequencies in compliance with the legislation of the individual countries.
