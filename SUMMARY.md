@@ -184,7 +184,7 @@
 
 * [CUDY-21](third-parties/cudy-21.md)
 * [SIMALARM](third-parties/simalarm.md)
-* [🛡 ALARMSPACE](third-parties/alarmspace.md)
+* [🛡️ ALARMSPACE](third-parties/alarmspace.md)
 
 ## ❓ TIPS & HELP
 
@@ -195,3 +195,5 @@
 ***
 
 * [VESTA-429](vesta-429.md)
+* [VESTA-432](vesta-432.md)
+* [VESTA-433](vesta-433.md)

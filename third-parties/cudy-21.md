@@ -18,7 +18,7 @@ Before starting the upgrade process, ensure you have the following:
 2. Access the router's IP: 192.168.10.1 (Get in the same range if connecting directly via PC) or cudy.net
 3. Enable WAN:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
 
