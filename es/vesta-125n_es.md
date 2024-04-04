@@ -1,6 +1,60 @@
 # VESTA 125N
 
-![](<.gitbook/assets/0 (7).png>)**TECLADO COMBO CABLE/INALÁMBRICO con LECTOR NFC (KPT-35N-Combo-BYD)**
+**TECLADO COMBO BUS/RF con LECTOR NFC (KPT-35N-Combo-BYD)**
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-v-max-bus-para-hibrida/VESTA-125N">VESTA-125N</a></p></figcaption></figure>
+
+## GUÍA RAPIDA
+
+### 🔗 Añadir el teclado por BUS
+
+Para añadir un teclado utilizando el protocolo BUS, siga los siguientes pasos detalladamente:
+
+{% hint style="success" %}
+a. Cablea el BUS (A,B, + y -) en el teclado y en la central.
+
+b. En el teclado, selecciona el área y la zona.
+
+c. Introduce el código de usuario e instalador cuando se solicite.
+{% endhint %}
+
+{% hint style="warning" %}
+Nota: Si las opciones de área y zona no aparecen, reinicia el panel.
+{% endhint %}
+
+
+
+### ᯤ Añadir el teclado por RF (Con pilas):
+
+Para añadir un teclado utilizando el protocolo F1 o SF1, siga los siguientes pasos detalladamente:
+
+{% hint style="success" %}
+a. Pon el panel en modo aprendizaje.
+
+b. Inserta las pilas en el teclado.
+
+c. Pulsa <mark style="color:blue;">**OK**</mark> para despertar el teclado. Una vez despierto, mantén pulsado <mark style="color:blue;">**OK**</mark> (\~10s) hasta que aparezca el mensaje de reinicio.
+
+d. El teclado aparecerá en [SmartHomeSec ](guia-de-usuario-smarthomesec.md)en el buscador de dispositivos.
+{% endhint %}
+
+{% hint style="warning" %}
+Nota: Si al mantener el botón <mark style="color:blue;">**OK**</mark> por 10 segundos no aparece el mensaje de vinculación, retirar las pilas y volver a realizar el proceso&#x20;
+{% endhint %}
+
+### ⚙️Entrar en configuración del teclado:
+
+Para entrar a la configuración del teclado seguir las instrucciones:
+
+{% hint style="success" %}
+a. Introduce un \[**código de usuario]** y pulsa **OK**.
+
+b. En menos de 10 segundos -> pulsa en el teclado **\*** y mantén pulsado durante _**3 segundos**_ para entrar en configuración.
+{% endhint %}
+
+
+
+## MANUAL COMPLETO
 
 KPT-35N-Combo-BYD es un teclado cableado e inalámbrico con lector NFC diseñado para tener un control de acceso rápido al panel de control del sistema. El teclado puede enviar señales cableadas e inalámbricas y recibir señales desde el panel de control dentro de la distancia del cable, según el calibre del cable y el consumo total de energía de todos los dispositivos cableados. La pantalla LCD mostrará la información que envía el panel de control del sistema.
 
