@@ -1,5 +1,13 @@
 # VESTA 271
 
+## QUICK START
+
+{% embed url="https://www.youtube.com/watch?v=7S-SnQFvaZA" %}
+
+## MANUAL GUIDE
+
+
+
 **TX for OPTEX outdoor PIR Instructions**
 
 **The transmitter is installed in the motion detector, allowing them to send wireless RF signals to the Control Panel. 4**
