@@ -1,5 +1,11 @@
 # VESTA 271
 
+## INICIO RÁPIDO
+
+{% embed url="https://www.youtube.com/watch?v=7S-SnQFvaZA" %}
+
+## MANUAL
+
 **TX para instrucciones PIR exteriores OPTEX**
 
 **El transmisor está instalado en el detector de movimiento, lo que les permite enviar señales de RF inalámbricas al panel de control. 4**
@@ -24,9 +30,9 @@
 
 **Identificar las piezas**
 
-1.  **Indicador LED (rojo)**
-2.  **Botón Aprender/Probar**
-3.  **Batería (CR123)**
+1. **Indicador LED (rojo)**
+2. **Botón Aprender/Probar**
+3. **Batería (CR123)**
 
 ![](<.gitbook/assets/2 (77).png>)
 
@@ -72,7 +78,7 @@
 
 **Instalación del transmisor**
 
-![](<.gitbook/assets/3 (75).png>)![](<.gitbook/assets/4 (80).png>)![](<.gitbook/assets/5 (80).png>)![](<.gitbook/assets/6 (60).png>)![](<.gitbook/assets/7 (55).png>)
+![](<.gitbook/assets/3 (75).png>) ![](<.gitbook/assets/4 (80).png>) ![](<.gitbook/assets/5 (80).png>) ![](<.gitbook/assets/6 (60).png>) ![](<.gitbook/assets/7 (55).png>)
 
 **La sección ilustra cómo instalar el transmisor en el detector de movimiento QXI-RDT-X5, BXS-RAM, VXS-RAM y WXI-RAM.**
 
@@ -212,9 +218,9 @@
 
 **6**
 
-**Paso 4. Gire el frente del tablero hacia la****Paso 5. Tire de los cables hacia abajo y**
+**Paso 4. Gire el frente del tablero hacia la\*\*\*\*Paso 5. Tire de los cables hacia abajo y**
 
-**más a la izquierda. Luego, inserte los cables.****Pegue los cables en el dispositivo.**
+\*\*más a la izquierda. Luego, inserte los cables.\*\***Pegue los cables en el dispositivo.**
 
 **Paso 6. Debería verse como la imagen cuando se complete el pegado del cable.**
 
