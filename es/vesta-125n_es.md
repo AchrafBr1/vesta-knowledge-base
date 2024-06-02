@@ -2,7 +2,7 @@
 
 **TECLADO COMBO BUS/RF con LECTOR NFC (KPT-35N-Combo-BYD)**
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-v-max-bus-para-hibrida/VESTA-125N">VESTA-125N</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-v-max-bus-para-hibrida/VESTA-125N">VESTA-125N</a></p></figcaption></figure>
 
 ## GUÍA RAPIDA
 
@@ -22,8 +22,6 @@ c. Introduce el código de usuario e instalador cuando se solicite.
 Nota: Si las opciones de área y zona no aparecen, reinicia el panel.
 {% endhint %}
 
-
-
 ### ᯤ Añadir el teclado por RF (Con pilas):
 
 Para añadir un teclado utilizando el protocolo F1 o SF1, siga los siguientes pasos detalladamente:
@@ -39,7 +37,7 @@ d. El teclado aparecerá en [SmartHomeSec ](guia-de-usuario-smarthomesec.md)en e
 {% endhint %}
 
 {% hint style="warning" %}
-Nota: Si al mantener el botón <mark style="color:blue;">**OK**</mark> por 10 segundos no aparece el mensaje de vinculación, retirar las pilas y volver a realizar el proceso&#x20;
+Nota: Si al mantener el botón <mark style="color:blue;">**OK**</mark> por 10 segundos no aparece el mensaje de vinculación, retirar las pilas y volver a realizar el proceso
 {% endhint %}
 
 ### ⚙️Entrar en configuración del teclado:
@@ -52,8 +50,6 @@ a. Introduce un \[**código de usuario]** y pulsa **OK**.
 b. En menos de 10 segundos -> pulsa en el teclado **\*** y mantén pulsado durante _**3 segundos**_ para entrar en configuración.
 {% endhint %}
 
-
-
 ## MANUAL COMPLETO
 
 KPT-35N-Combo-BYD es un teclado cableado e inalámbrico con lector NFC diseñado para tener un control de acceso rápido al panel de control del sistema. El teclado puede enviar señales cableadas e inalámbricas y recibir señales desde el panel de control dentro de la distancia del cable, según el calibre del cable y el consumo total de energía de todos los dispositivos cableados. La pantalla LCD mostrará la información que envía el panel de control del sistema.
@@ -65,39 +61,32 @@ El teclado cableado/inalámbrico se puede montar en una superficie plana o en un
 ![](<.gitbook/assets/1 (5).png>)
 
 1. **Pantalla LCD retroiluminada**
-2. **LED verde**
-   *
-     * El LED verde está apagado en modo de espera.
-     * El LED verde se iluminará cuando se presione cualquier tecla.
-3. **LED amarillo**
-   *
-     * El LED amarillo parpadeará una vez cada 3 segundos cuando se detecte cualquier situación de falla y se apagará cuando se restablezcan todas las condiciones de falla. El comportamiento del LED está controlado por el Panel de Control.
+2. **LED verde** \*
+   * El LED verde está apagado en modo de espera.
+   * El LED verde se iluminará cuando se presione cualquier tecla.
+3. **LED amarillo** \*
+   * El LED amarillo parpadeará una vez cada 3 segundos cuando se detecte cualquier situación de falla y se apagará cuando se restablezcan todas las condiciones de falla. El comportamiento del LED está controlado por el Panel de Control.
 4. **Teclas numéricas retroiluminadas**
 5. **Tecla de estrella retroiluminada (＊)**
 6. **Caso de la cubierta**
-7. **Restauración retroiluminada (**![](<.gitbook/assets/2 (8).jpeg>))**Llave**
-   *
-     * Esta tecla se utiliza para eliminar un dígito, cancelar la selección, cancelar la pantalla actual y regresar a la pantalla anterior, etc.
+7. **Restauración retroiluminada (**![](<.gitbook/assets/2 (8).jpeg>))**Llave** \*
+   * Esta tecla se utiliza para eliminar un dígito, cancelar la selección, cancelar la pantalla actual y regresar a la pantalla anterior, etc.
 8. **Tecla OK retroiluminada**
-9. **Tecla de libra (＃) retroiluminada**
-   *
-     * Para confirmar los datos introducidos o confirmar la selección.
-10. **Brazo retroiluminado/tecla **
-    *
-      * Utilice esta tecla para mover el cursor y desplazar la pantalla hacia arriba.
-      * La tecla también se utiliza para ingresar al modo "Armado Ausente".
+9. **Tecla de libra (＃) retroiluminada** \*
+   * Para confirmar los datos introducidos o confirmar la selección.
+10. **Brazo retroiluminado/tecla ** \*
+    * Utilice esta tecla para mover el cursor y desplazar la pantalla hacia arriba.
+    * La tecla también se utiliza para ingresar al modo "Armado Ausente".
 11. **Zona de sensor NFC retroiluminada**
-12. **Tecla Inicio retroiluminada/**
-    *
-      * Utilice esta tecla para mover el cursor y desplazar la pantalla hacia abajo.
-      * La clave también se utiliza para ingresar al modo "Armado en casa".
+12. **Tecla Inicio retroiluminada/** \*
+    * Utilice esta tecla para mover el cursor y desplazar la pantalla hacia abajo.
+    * La clave también se utiliza para ingresar al modo "Armado en casa".
 13. **Zumbador**
 14. **Compartimiento de la batería**
 15. **Terminal de autobus**
     * Cableado de los cuatro terminales (V, G, A, B) al terminal del teclado en el panel de control. Se pueden conectar en serie hasta cuatro KPT-35N-Combo-BYD. Para el cableado del teclado, consulte\_**Cableado del teclado**\_sección en la página siguiente para más detalles.
-16. **Orificio de gestión de cables**
-    *
-      * Orificio preperforado utilizado para mejorar la flexibilidad de gestión del cableado.
+16. **Orificio de gestión de cables** \*
+    * Orificio preperforado utilizado para mejorar la flexibilidad de gestión del cableado.
 
 1
 
@@ -162,15 +151,14 @@ _\\_
   * Después de que aparezca "Ingresar código PIN" en la pantalla LCD, si no se presiona ninguna tecla, el teclado cableado/inalámbrico volverá a**apoyar**modo en 5 segundos.
   * Después de enviar la solicitud de cambio de modo, si no se recibe ninguna señal del Panel de control, el teclado volverá a**apoyar**modo en 15 segundos.
   * Al finalizar la entrada de un comando, el teclado cableado/inalámbrico volverá a**apoyar**modo.
-* _**Cableado del teclado**_
-  *
-    * Para conectar KPT-35N-Combo-BYD al panel de control, abra la cubierta frontal usando un destornillador Phillips para aflojar el tornillo de fijación de la cubierta.
-    * Antes de conectar los terminales “V”, “G”, “A”, “B”, retire las baterías del KPT-35N-Combo-BYD y asegúrese de que la fuente de alimentación del Panel de Control haya sido desconectada.
-    * Afloje el terminal “V” del KPT-35N-Combo-BYD y el terminal “VDD” del panel de control. Conecte el terminal “V” al terminal “VDD” y apriete ambos tornillos del terminal.
-    * Afloje el terminal “G” del KPT-35N-Combo-BYD y el terminal “GND” del panel de control. Conecte el terminal “G” al terminal “GND” y apriete ambos tornillos del terminal.
-    * Afloje el terminal “A” del KPT-35N-Combo-BYD y el terminal “485A” del panel de control. Conecte el terminal “A” al terminal “485A” y apriete ambos tornillos del terminal.
-    * Afloje el terminal “B” del KPT-35N-Combo-BYD y el terminal “485B” del panel de control. Conecte el terminal “B” al terminal “485B” y apriete ambos tornillos del terminal.
-    * Encienda el panel de control y espere a que aparezca "KPT-35N-Combo-BYD" en la pantalla LCD del teclado cableado/inalámbrico.
+* _**Cableado del teclado**_ \*
+  * Para conectar KPT-35N-Combo-BYD al panel de control, abra la cubierta frontal usando un destornillador Phillips para aflojar el tornillo de fijación de la cubierta.
+  * Antes de conectar los terminales “V”, “G”, “A”, “B”, retire las baterías del KPT-35N-Combo-BYD y asegúrese de que la fuente de alimentación del Panel de Control haya sido desconectada.
+  * Afloje el terminal “V” del KPT-35N-Combo-BYD y el terminal “VDD” del panel de control. Conecte el terminal “V” al terminal “VDD” y apriete ambos tornillos del terminal.
+  * Afloje el terminal “G” del KPT-35N-Combo-BYD y el terminal “GND” del panel de control. Conecte el terminal “G” al terminal “GND” y apriete ambos tornillos del terminal.
+  * Afloje el terminal “A” del KPT-35N-Combo-BYD y el terminal “485A” del panel de control. Conecte el terminal “A” al terminal “485A” y apriete ambos tornillos del terminal.
+  * Afloje el terminal “B” del KPT-35N-Combo-BYD y el terminal “485B” del panel de control. Conecte el terminal “B” al terminal “485B” y apriete ambos tornillos del terminal.
+  * Encienda el panel de control y espere a que aparezca "KPT-35N-Combo-BYD" en la pantalla LCD del teclado cableado/inalámbrico.
 
 2
 
@@ -336,11 +324,10 @@ presione el**Armar/Armar en casa/Aceptar**y luego deslice la etiqueta. Si la inf
   * Cuando el modo del sistema se cambia al modo desarmado, la pantalla LCD mostrará “Memoria de alarma número de área” y el LED amarillo parpadeará una vez cada 3 segundos con 5 pitidos si hay alarmas activadas antes. Los usuarios pueden ingresar manualmente al Menú de usuario para ver la memoria de alarmas (consulte la sección Menú de usuario a continuación para obtener más detalles).
   * **Función de armado rápido:Los usuarios pueden ingresar al menú de configuración para activar la función de armado rápido (elijaConfiguración > Armado Rápido > Activar**y luego presione OK), lo que permitirá a los usuarios cambiar el modo presionando la tecla Armar o la tecla Armar en casa sin ingresar el código PIN ni deslizar la etiqueta. Para desarmar el sistema, los usuarios aún deben ingresar el código PIN o usar la etiqueta.
   * Después de ingresar al Menú de usuario con el sistema desarmado, los usuarios también pueden seleccionar**Brazo ausente**o**Brazo de inicio**y presione OK para cambiar el modo del sistema.
-* _**Menú del Usuario**_
-  *
-    * El teclado se comunicará con el sistema para recuperar información antes de ingresar al Menú de Usuario. Las siguientes opciones se mostrarán en la pantalla LCD para su selección. Usar****y****para seleccionar y presione la tecla**DE ACUERDO**para confirmar su selección.
-    * Para ingresar al Menú de Usuario, presione y mantenga presionado “**＊**”durante 2 segundos en modo inactivo del teclado cuando el sistema del área donde se encuentra KPT-35N-Combo-BYD ya está en**Modo desarmado**.
-    * El teclado saldrá del Menú de Usuario automáticamente después de 20 segundos de inactividad.
+* _**Menú del Usuario**_ \*
+  * El teclado se comunicará con el sistema para recuperar información antes de ingresar al Menú de Usuario. Las siguientes opciones se mostrarán en la pantalla LCD para su selección. Usar****y****para seleccionar y presione la tecla**DE ACUERDO**para confirmar su selección.
+  * Para ingresar al Menú de Usuario, presione y mantenga presionado “**＊**”durante 2 segundos en modo inactivo del teclado cuando el sistema del área donde se encuentra KPT-35N-Combo-BYD ya está en**Modo desarmado**.
+  * El teclado saldrá del Menú de Usuario automáticamente después de 20 segundos de inactividad.
 
 |   | **A** | **En** | **a**     | **y**  |           | **A**     | **r**     | **metro** |           |         |        |       |       |   |   |
 | - | ----- | ------ | --------- | ------ | --------- | --------- | --------- | --------- | --------- | ------- | ------ | ----- | ----- | - | - |
@@ -388,28 +375,26 @@ idioma de visualización y presione la tecla para regresar al Menú de Usuario.
 
 *
   * **Cambiar código M.:Esta función solo está disponible mediante conexión inalámbrica. El código M. predeterminado es1111**. Los usuarios pueden cambiarlo manualmente y solo cuando se ingresa el código M. correcto el usuario puede ingresar al menú de configuración.
-* _**Resultado del cambio de modo**_
-  *
-    * \*\*Armado Ausente:\*\*Cuando el sistema cambia al modo "Armado Ausente", se mostrará "N.º de área Armado Ausente" en la pantalla LCD junto con un pitido largo que indica la operación exitosa.
-    * \*\*Armado en casa:\*\*Cuando el sistema cambia al modo "Armado en casa", se mostrará "N.º de área armado en casa" en la pantalla LCD junto con 3 pitidos que indican una operación exitosa.
-    * \*\*Sistema Desarmado:\*\*Cuando el sistema cambia al modo "Sistema desarmado", se mostrará "N.º de área Sistema desarmado" en la pantalla LCD junto con 2 pitidos que indican una operación exitosa.
-    * \*\*Retraso de salida/entrada:\*\*Cuando el temporizador de retardo de entrada/salida está habilitado en el panel de control y la función de pitido de entrada/salida está habilitada en el teclado cableado/inalámbrico, el teclado cableado/inalámbrico realizará una cuenta regresiva con el sistema cuando comience el temporizador de retardo de entrada/salida. "Número de área de cuenta regresiva". se mostrará en la pantalla LCD durante 10 segundos. El LED verde también se iluminará durante 10 segundos junto con 1 pitido cada segundo. Después de 10 segundos, la pantalla LCD y el LED verde se apagarán, pero los pitidos de advertencia continuarán con la cuenta regresiva del sistema.
-    * **Error de operación:Se mostrará "Error de operación" en la pantalla LCD junto con 2 pitidos que indican una operación fallida; por ejemplo, cuando envía la solicitud de cambio de modo desdeAusente armado**a**Armado en casa**modo.
-    * **Visualización de fallos**: Cuando el sistema se arma con falla, se mostrará "Visualización de falla" en la pantalla LCD junto con 3 pitidos que indican una falla de armado.
-    * \*\*Código PIN incorrecto:\*\*Cuando se envía una contraseña incorrecta, se mostrará "Código PIN incorrecto" en la pantalla LCD junto con 4 pitidos que indican que se ingresó una contraseña incorrecta.
+* _**Resultado del cambio de modo**_ \*
+  * \*\*Armado Ausente:\*\*Cuando el sistema cambia al modo "Armado Ausente", se mostrará "N.º de área Armado Ausente" en la pantalla LCD junto con un pitido largo que indica la operación exitosa.
+  * \*\*Armado en casa:\*\*Cuando el sistema cambia al modo "Armado en casa", se mostrará "N.º de área armado en casa" en la pantalla LCD junto con 3 pitidos que indican una operación exitosa.
+  * \*\*Sistema Desarmado:\*\*Cuando el sistema cambia al modo "Sistema desarmado", se mostrará "N.º de área Sistema desarmado" en la pantalla LCD junto con 2 pitidos que indican una operación exitosa.
+  * \*\*Retraso de salida/entrada:\*\*Cuando el temporizador de retardo de entrada/salida está habilitado en el panel de control y la función de pitido de entrada/salida está habilitada en el teclado cableado/inalámbrico, el teclado cableado/inalámbrico realizará una cuenta regresiva con el sistema cuando comience el temporizador de retardo de entrada/salida. "Número de área de cuenta regresiva". se mostrará en la pantalla LCD durante 10 segundos. El LED verde también se iluminará durante 10 segundos junto con 1 pitido cada segundo. Después de 10 segundos, la pantalla LCD y el LED verde se apagarán, pero los pitidos de advertencia continuarán con la cuenta regresiva del sistema.
+  * **Error de operación:Se mostrará "Error de operación" en la pantalla LCD junto con 2 pitidos que indican una operación fallida; por ejemplo, cuando envía la solicitud de cambio de modo desdeAusente armado**a**Armado en casa**modo.
+  * **Visualización de fallos**: Cuando el sistema se arma con falla, se mostrará "Visualización de falla" en la pantalla LCD junto con 3 pitidos que indican una falla de armado.
+  * \*\*Código PIN incorrecto:\*\*Cuando se envía una contraseña incorrecta, se mostrará "Código PIN incorrecto" en la pantalla LCD junto con 4 pitidos que indican que se ingresó una contraseña incorrecta.
 
 _\\_
 
 *
   * Después de enviar la solicitud de cambio de modo, si no se recibe ninguna señal del Panel de control, el teclado volverá al modo de espera dentro de 15 segundos.
   * Si hay 5 intentos de código PIN incorrectos en 10 minutos, el teclado cableado/inalámbrico se bloqueará automáticamente durante 5 minutos. Durante este período, cualquier operación será inválida. Cuando expire el tiempo de bloqueo, el teclado cableado/inalámbrico emitirá 1 pitido largo.
-* _**Funciones de alarma de doble tecla**_
-  *
-    * La función de doble tecla está desactivada de forma predeterminada. Para habilitarlo, ingrese al menú de configuración del teclado cableado/inalámbrico para configurar los activadores de alarma (elija**Configuración > Alarma de pánico/Alarma de incendio/Alarma médica > Activar**y luego presione Aceptar).
-    * Alarma de pánico: Presione “1 + 3” para activar una alarma de pánico.
-    * Alarma de incendio: presione “4 + 6” para activar una alarma de incendio.
-    * Alarma médica: presione “7 + 9” para activar una alarma médica.
-    * Cuando se activa una alarma, “¡Alarma! ¡Alarma!" se mostrará en la pantalla LCD y el LED verde se iluminará durante 10 segundos.
+* _**Funciones de alarma de doble tecla**_ \*
+  * La función de doble tecla está desactivada de forma predeterminada. Para habilitarlo, ingrese al menú de configuración del teclado cableado/inalámbrico para configurar los activadores de alarma (elija**Configuración > Alarma de pánico/Alarma de incendio/Alarma médica > Activar**y luego presione Aceptar).
+  * Alarma de pánico: Presione “1 + 3” para activar una alarma de pánico.
+  * Alarma de incendio: presione “4 + 6” para activar una alarma de incendio.
+  * Alarma médica: presione “7 + 9” para activar una alarma médica.
+  * Cuando se activa una alarma, “¡Alarma! ¡Alarma!" se mostrará en la pantalla LCD y el LED verde se iluminará durante 10 segundos.
 * _**Control de pitido:**_
 
 Esta función le permite configurar las funciones de pitido de advertencia del teclado.

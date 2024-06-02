@@ -44,10 +44,9 @@ El PIR consta de un diseño de dos partes formado por una cubierta y una base. L
 * Cuando está activado, la inmunidad a mascotas está desactivada (valor predeterminado de fábrica).
 * Cuando se establece en APAGADO, la inmunidad a mascotas está habilitada.
 
-1. **Interruptor de puente aumentador de sensibilidad (JP4)**
-   *
-     * Cuando se establece en ON, la sensibilidad de detección del PIR es alta.
-     * Cuando se configura en APAGADO, la sensibilidad de detección del PIR está en el nivel normal. (Predeterminado de fábrica)
+1. **Interruptor de puente aumentador de sensibilidad (JP4)** \*
+   * Cuando se establece en ON, la sensibilidad de detección del PIR es alta.
+   * Cuando se configura en APAGADO, la sensibilidad de detección del PIR está en el nivel normal. (Predeterminado de fábrica)
 2. **Manibela de encendido**
 3. **Tornillo de fijación inferior**
    1. **Orificio aislante de batería IR-35-2W**
@@ -192,6 +191,6 @@ _**Guía de instalación**_
     * En una posición donde su campo de visión no quede obstruido por, por ejemplo, cortinas, adornos, etc.
   * **Limitaciones**
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Do not install outdoors. / Avoid large obstacles in the detection area.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Do not install outdoors. / Avoid large obstacles in the detection area.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Do not install the PIR completely exposed to direct sunlight. / Avoid vapor or high humidity that can cause condensation.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Do not install the PIR completely exposed to direct sunlight. / Avoid vapor or high humidity that can cause condensation.</p></figcaption></figure>

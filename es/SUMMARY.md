@@ -2,6 +2,7 @@
 
 * [📙 MANUALES Y GUÍAS](README.md)
 * [MODELOS](models\_es.md)
+* [VESTA-068N: Manual instalador \[BOGP\]](vesta-068n\_es.md)
 * [VESTA 005N](vesta-005n\_es.md)
 * [VESTA 006](vesta-006\_es.md)
 * [VESTA 007](vesta-007\_es.md)
@@ -172,7 +173,6 @@
 * [VESTA 384](vesta-384\_es.md)
 * [VESTA 387](vesta-387\_es.md)
 * [VESTA 393](vesta-393\_es.md)
-* [VESTA 429](vesta-429\_es.md)
 * [CONSEJOS PARA EL VMAX BUS DE VESTA](vmax-bus-tips\_es.md)
 * [🛡️ ALARMSPACE](alarmspace.md)
 * [🙍 GUÍA DE USUARIO SmartHomeSec](guia-de-usuario-smarthomesec.md)
