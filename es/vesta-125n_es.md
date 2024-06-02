@@ -2,7 +2,7 @@
 
 **TECLADO COMBO BUS/RF con LECTOR NFC (KPT-35N-Combo-BYD)**
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-v-max-bus-para-hibrida/VESTA-125N">VESTA-125N</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-v-max-bus-para-hibrida/VESTA-125N">VESTA-125N</a></p></figcaption></figure>
 
 ## GUÍA RAPIDA
 
