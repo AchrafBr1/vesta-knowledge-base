@@ -73,6 +73,8 @@ Registro de usuario completado completado! para información como operar con la 
 
 Para añadir y configurar dispositivos RF de VESTA, siga los siguientes pasos:
 
+### 3.1 Añadir dispositivos
+
 **Paso 1:** Acceda a la configuración del panel desde la APP instalador:&#x20;
 
 <figure><img src=".gitbook/assets/image (20).png" alt="" width="192"><figcaption><p>Instalador -> Ajustes</p></figcaption></figure>
@@ -90,7 +92,7 @@ Para añadir y configurar dispositivos RF de VESTA, siga los siguientes pasos:
 {% hint style="info" %}
 El panel se pondrá en modo escucha, es el momento de pulsar nuestros botones "**learn**" de los dispostivos VESTA (Normalmente botón frontal, consultar manual del dispositivos en caso de duda)
 
-![](<.gitbook/assets/image (26).png>)
+<img src=".gitbook/assets/image (26).png" alt="" data-size="original">
 {% endhint %}
 
 
@@ -109,9 +111,17 @@ Una vez añadidos, los dispositivos RF estarán listos para su uso y podrán ser
 
 
 
+### 3.2 Configuración de la zona
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (28).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (30).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (31).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
 
+{% hint style="info" %}
+Para configurar las zonas correctamente, es importante familiarizarse con los atributos disponibles y su impacto en el comportamiento del sistema de alarma.
 
+Por ejemplo: Interior es una zona instantánea y Entrada es una zona retardada; Podemos asignar estos atributos en el apartado Respuesta en armado que significa "Cuando el sistema está armado"
+{% endhint %}
+
+## 4. Configuración del panel y reporte a CRA (Central Receptor de Alarmas)
 
 
 
