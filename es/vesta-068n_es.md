@@ -1,5 +1,5 @@
 ---
-description: Manual para centrales tipo BOGP de VESTA (VESTA-068N y VESTA-067
+description: Manual para centrales tipo BOGP de VESTA (VESTA-068N y VESTA-067)
 ---
 
 # VESTA-068N: Manual instalador \[BOGP]
