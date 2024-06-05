@@ -184,7 +184,7 @@ _ANNEX 1_.
 
 It is crucial to keep the control panel up to date to ensure optimal system performance and security. Updates may contain essential enhancements, bug fixes and security patches that protect against known vulnerabilities.
 
-<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Settings -> Panel</td><td><td></td></td></tr><tr><tr><td><img src="es/.gitbook/assets/image (11). png" alt="" data-size="original"></td><td>Panel -> FW Update</td><td><td></td></tr><tr><tr><tr><td><img src="es/.gitbook/assets/image (12).png" alt="" data-size="original"></td><td>Select from the list the firmware with highest version (Highest number and highest letter)</td><td><td></td></tr></tbody></table>.
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Settings -> Panel</td><td><td></td></td></tr><tr><tr><td><img src="es/.gitbook/assets/image (11).png" alt="" data-size="original"></td><td>Panel -> FW Update</td><td><td></td></tr><tr><tr><tr><td><img src="es/.gitbook/assets/image (12).png" alt="" data-size="original"></td><td>Select from the list the firmware with highest version (Highest number and highest letter)</td><td><td></td></tr></tbody></table>.
 
 {% hint style="info" %}
 NOTE: The panel by 2G or low coverage may take 8 minutes to update.&#x20;
@@ -206,7 +206,7 @@ Translated with www.DeepL.com/Translator (free version)
 
 _**Reporte Eventos**_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td>Ajustes -> Reporte</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (14). png" alt="" data-size="original"></td><td>En el apartado reporte disponemos de configuración de reporte para eventos y archivos capturados para fotos de PIRCAMS</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (15). png" alt="" data-size="original"></td><td>En este apartado configuramos la URL de repote de nuestra CRA, y muy importante el <strong>GRUPO 2</strong> o superior ya que el gruopo 1 está empleado para la APP. ANEXO 2 para ejemplos</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td>Ajustes -> Reporte</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (14).png" alt="" data-size="original"></td><td>En el apartado reporte disponemos de configuración de reporte para eventos y archivos capturados para fotos de PIRCAMS</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (15).png" alt="" data-size="original"></td><td>En este apartado configuramos la URL de repote de nuestra CRA, y muy importante el <strong>GRUPO 2</strong> o superior ya que el gruopo 1 está empleado para la APP. ANEXO 2 para ejemplos</td><td></td></tr></tbody></table>
 
 
 APPENDIX 2_
@@ -223,7 +223,7 @@ Examples of **EVENTS** reporting in different protocols:&#x20;
 
 _**Photo report**_.
 
-<table data-view="cards"><thead><tr><th></th><th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="es/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td><td>Settings -> Report</td><td><td></td></td></tr><tr><tr><td><img src="es/.gitbook/assets/image (14). png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos</td><td><td></td></td></tr><tr><tr><td><td><img src="es/.gitbook/assets/image (16).png" alt="" data-size="original"></td><td>In this section we configure the repote URL of our CRA for sending photos. APPENDIX 3 for examples</td><td><td></td></tr></tr></tbody></table>.
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="es/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td><td>Settings -> Report</td><td><td></td></td></tr><tr><tr><td><img src="es/.gitbook/assets/image (14).png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos</td><td><td></td></td></tr><tr><tr><td><td><img src="es/.gitbook/assets/image (16).png" alt="" data-size="original"></td><td>In this section we configure the repote URL of our CRA for sending photos. APPENDIX 3 for examples</td><td><td></td></tr></tr></tbody></table>.
 
 {% hint style="success" %}
 Examples of **PHOTOS** reporting in different protocols:&#x20;
