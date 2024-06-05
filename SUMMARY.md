@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📚 WELCOME TO VESTA KNOLEDGE BASE](README.md)
+* [Installer manual VESTA 068N](vesta-068n.md)
 * [VESTA 005N](vesta-005n.md)
 * [VESTA 006](vesta-006.md)
 * [VESTA 007](vesta-007.md)
@@ -173,7 +174,6 @@
 * [VESTA 393](vesta-393.md)
 * [VESTA 338](vesta-338.md)
 * [VESTA 370](vesta-370.md)
-* [VESTA 068N](vesta-068n.md)
 * [VESTA 067](vesta-067.md)
 
 ## 📄 CERTIFICATES
