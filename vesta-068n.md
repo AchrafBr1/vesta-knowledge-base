@@ -1,165 +1,144 @@
 ---
-description: Manual para centrales tipo BOGP de VESTA (VESTA-068N y VESTA-067)
+description: Manual for VESTA BOGP-type panels (VESTA-068N and VESTA-067)
 ---
 
-# VESTA-068N: Manual instalador \[BOGP]
+# VESTA-068N: Installer Manual \[BOGP]
 
-## Introducción: Manual para Centrales Tipo BOGP Autónomas
+## Introduction: Manual for Autonomous BOGP Type Panels
 
 <figure><img src="es/.gitbook/assets/image (19).png" alt="" width="325"><figcaption><p>VESTA-068N/VESTA-067</p></figcaption></figure>
 
-Este manual está diseñado para guiarte en la puesta en marcha y configuración de centrales tipo BOGP autónomas, operadas a pilas o con batería externa. El contenido del manual está organizado de la siguiente manera:
+This manual is designed to guide you through the setup and configuration of autonomous BOGP-type panels, operated by batteries or an external battery. The content of the manual is organized as follows:
 
-1. Conexión de batería externa y SIM
-2. Alta del panel en instalador y Master
-3. Añadir y configurar dispositivos
-4. Completar configuraciones del sistema y reporte a CRA
+1. External battery and SIM connection
+2. Panel registration as installer and Master
+3. Add and configure devices
+4. Complete system configurations and report to ARC
 
-## 1. Conexión de batería externa + SIM y configuración de APN
+## 1. External Battery + SIM Connection and APN Configuration
 
 {% hint style="info" %}
-Es crucial configurar el APN para que el panel pueda comunicarse con el cloud de SmartHomeSec. Asimismo, la conexión de la batería externa es fundamental para que el panel mantenga una comunicación constante y efectiva con el cloud. Si el panel solo cuenta con pilas internas, no se conectará al cloud a menos que se habilite el XMPP en los ajustes del panel.
+It is crucial to configure the APN so the panel can communicate with the SmartHomeSec cloud. Also, connecting the external battery is essential for the panel to maintain constant and effective communication with the cloud. If the panel only has internal batteries, it will not connect to the cloud unless XMPP is enabled in the panel settings.
 {% endhint %}
 
-### 1.1 Conexión de SIM y batería externa
+### 1.1 SIM and External Battery Connection
 
-<figure><img src="es/.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Insertar la SIM y Batería externa</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Insert SIM and External Battery</p></figcaption></figure>
 
-#### Baterías externas recomendadas:&#x20;
+#### Recommended external batteries:&#x20;
 
 {% hint style="success" %}
-El panel con batería externa está **conectado al cloud al 100%. Usará las pilas de BACKUP en caso de agotar la batería externa**&#x20;
+The panel with an external battery is 100% connected to the cloud. It will use BACKUP batteries if the external battery is exhausted.
 {% endhint %}
 
 {% tabs %}
-{% tab title="8 meses de duración" %}
+{% tab title="8 months duration" %}
 [DEM-7M-BACKUP](https://bydemes.com/es/productos/intrusion/alarma-vesta/baterias/DEM-7M-BACKUP/especificaciones)
 
-<figure><img src="es/.gitbook/assets/image (17).png" alt="" width="225"><figcaption><p>Batería externa 7,5V /400Ah/3000W</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (17).png" alt="" width="225"><figcaption><p>External Battery 7.5V /400Ah/3000W</p></figcaption></figure>
 {% endtab %}
+{% tab title="14 months duration" %}
 
-{% tab title="14 meses de duración" %}
 [DEM-16M-BACKUP](https://bydemes.com/es/productos/intrusion/alarma-vesta/baterias/DEM-16M-BACKUP/especificaciones)
 
-<figure><img src="es/.gitbook/assets/image (18).png" alt="" width="225"><figcaption><p>Batería externa 12V/500Ah, 6000W</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (18).png" alt="" width="225"><figcaption><p>External Battery 12V/500Ah, 6000W</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 
 
-### 1.2 Configuración del APN
+### 1.2 APN Configuration
 
-<figure><img src="es/.gitbook/assets/Multimedia1.gif" alt=""><figcaption><p>Configuración del APN en la central</p></figcaption></figure>
-
-
+<figure><img src="es/.gitbook/assets/Multimedia1.gif" alt=""><figcaption><p>APN configuration on the panel</p></figcaption></figure>
 
 {% hint style="info" %}
-Nota: También podemos configurar el APN con un comando SMS, que debemos enviar al número de teléfono de la SIM conectada en el panel:
+Note: We can also configure the APN with an SMS command, which we must send to the phone number of the SIM connected to the panel:
 
+PROG 7982 GAPN:<mark style="color:orange;">internet</mark>,<mark style="color:purple;">user</mark>,<mark style="color:blue;">password</mark>
 
+<mark style="color:orange;">Parameter 1</mark>: GPRS APN
 
-**PROG 7982 GAPN:**<mark style="color:orange;">**internet**</mark>**,**<mark style="color:purple;">**user**</mark>**,**<mark style="color:blue;">**password**</mark>
+<mark style="color:purple;">Parameter 2</mark>: GPRS username
 
-&#x20;_<mark style="color:orange;">Parameter 1</mark>: GPRS APN_&#x20;
-
-_<mark style="color:purple;">Parameter 2</mark>: GPRS user name_&#x20;
-
-_<mark style="color:blue;">Parameter 3</mark>: GPRS password_
+<mark style="color:blue;">Parameter 3</mark>: GPRS password
 {% endhint %}
-
-
 
 {% hint style="warning" %}
-Advertencia! Para paneles que NO disponen de batería externa, solo pilas internas, habilitar el cloud usando el teclado y pantalla LCD del propio panel de la siguiente forma antes de proceder:
+Warning! For panels that DO NOT have an external battery, only internal batteries, enable the cloud using the keyboard and LCD screen of the panel as follows before proceeding:
 {% endhint %}
 
-<figure><img src="es/.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Habilitar el cloud, cuando se usa el panel únicamente por pilas</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Enable cloud when using the panel with batteries only</p></figcaption></figure>
 
 
+## 2. Panel Registration as Installer and User
 
+### 2.1 Installer Registration
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Log in as an installer in the <a href="guia-de-usuario-smarthomesec.md">SmartHomeSec</a> APP</td><td><img src="es/.gitbook/assets/image (9) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 2:</strong> Select the + button </p><p>(Add panel) </p></td><td><img src="es/.gitbook/assets/image (10) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 3:</strong> Enter the panel's MAC address found on a label</td><td><img src="es/.gitbook/assets/image (11) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
-## 2. Registro del panel como instalador y usuario
-
-### 2.1 Registro como instalador
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Paso 1:</strong> Entrar como instalador en la APP <a href="guia-de-usuario-smarthomesec.md">SmartHomeSec</a></td><td><img src="es/.gitbook/assets/image (9) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Paso 2:</strong> Seleccionar el botón + </p><p>(Añadir panel) </p></td><td><img src="es/.gitbook/assets/image (10) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Paso 3:</strong> Introducir la dirección MAC del panel que viene una etiqueta</td><td><img src="es/.gitbook/assets/image (11) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
-
-Una vez registrado el panel como instalador, está listo ✨ para su configuración.
+Once the panel is registered as an installer, it is ready ✨ for configuration.
 
 {% hint style="danger" %}
-El panel deberá estar encendido y con conexión a internet. Dispondremos de 15 minutos tras la alimentación para registrar el panel.
+The panel must be on and connected to the internet. We have 15 minutes after powering it up to register the panel.
 {% endhint %}
 
 {% hint style="success" %}
-La MAC del panel siempre está en un lateral del mismo físicamente. En el campo **NOMBRE**, debemos colocar el abonado o cualquier identificativo del panel.
+The MAC of the panel is always on one side of the panel physically. In the NAME field, we should place the subscriber or any identifier of the panel.
 {% endhint %}
 
-### 2.2 Registro de la cuenta de usuario
+### 2.2 User Account Registration
 
-La cuenta de usuario es la que se emplea para controlar el sistema y está destinada al usuario final. Desde la APP [SmartHomeSec](guia-de-usuario-smarthomesec.md), esta cuenta permite armar, desarmar y realizar cualquier operativa. Existen dos tipos de cuentas de usuario: Master y Esclava.
+The user account is used to control the system and is intended for the end user. From the SmartHomeSec APP, this account allows arming, disarming, and performing any operation. There are two types of user accounts: Master and Slave.
 
-La primera cuenta que registramos es la Master. La diferencia principal entre la cuenta Master y la Esclava es que la Master permite crear nuevos usuarios, mientras que la Esclava no puede crear nuevas cuentas.
+The first account we register is the Master. The main difference between the Master and Slave accounts is that the Master allows creating new users, while the Slave cannot create new accounts.
 
-
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Paso 1:</strong> Acceder al panel como instaladores el código por defecto es [7982]</td><td><img src="es/.gitbook/assets/Imagen de WhatsApp 2024-06-02 a las 15.19.19_5e1f9a7f.jpg" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Paso 2:</strong> Seleccionar el apartado Menú principal del sistema<img src="es/.gitbook/assets/image (14) (1).png" alt=""></td><td></td><td></td></tr><tr><td><strong>Paso 3:</strong> Seleccionar lista de cuentas</td><td></td><td><img src="es/.gitbook/assets/image (15) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Paso 4:</strong> Seleccionar añadir</td><td></td><td><img src="es/.gitbook/assets/image (17) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Paso 5:</strong> Si es un usuario nuevo: Seleccionamos crear una cuenta</td><td><img src="es/.gitbook/assets/image (18) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Paso 6:</strong> Rellenamos los datos de nuestro usuario para el acceso a la APP</p><p><img src="es/.gitbook/assets/image (19) (1).png" alt="" data-size="original"></p></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Access the panel as installers, the default code is [7982]</td><td><img src="es/.gitbook/assets/Imagen de WhatsApp 2024-06-02 a las 15.19.19_5e1f9a7f.jpg" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 2:</strong> Select the Main system menu section<img src="es/.gitbook/assets/image (14) (1).png" alt=""></td><td></td><td></td></tr><tr><td><strong>Step 3:</strong> Select account list</td><td></td><td><img src="es/.gitbook/assets/image (15) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Step 4:</strong> Select add</td><td></td><td><img src="es/.gitbook/assets/image (17) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Step 5:</strong> If it's a new user: Select create an account</td><td><img src="es/.gitbook/assets/image (18) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 6:</strong> Fill in the user data for APP access</p><p><img src="es/.gitbook/assets/image (19) (1).png" alt="" data-size="original"></p></td><td></td><td></td></tr></tbody></table>
 
 {% hint style="success" %}
-Registro de usuario completado completado! para información como operar con la APP de usuario seguír la guía de usuario de [SmartHomeSec](guia-de-usuario-smarthomesec.md)
+User registration completed! For information on how to operate with the user APP, follow the SmartHomeSec user guide.
 {% endhint %}
 
-## 3. Añadir y configurar dispositivos&#x20;
+## 3. Add and Configure Devices&#x20;
 
-Para añadir y configurar dispositivos RF de VESTA, siga los siguientes pasos:
+To add and configure VESTA RF devices, follow these steps:
 
-### 3.1 Añadir dispositivos
+### 3.1 Add Devices
 
-**Paso 1:** Acceda a la configuración del panel desde la APP instalador:&#x20;
+Step 1: Access the panel configuration from the installer APP:
 
-<figure><img src="es/.gitbook/assets/image (20).png" alt="" width="192"><figcaption><p>Instalador -> Ajustes</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (20).png" alt="" width="192"><figcaption><p>Installer -> Settings</p></figcaption></figure>
+Step 2: Select "Devices" in the menu.
 
-**Paso 2:** Seleccione "Dispositivos" en el menú.
+<figure><img src="es/.gitbook/assets/image (21).png" alt="" width="190"><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
+Step 3: In the menu click "Add device".
 
-<figure><img src="es/.gitbook/assets/image (21).png" alt="" width="190"><figcaption><p>Instalador -> Ajustes -> Dispositivos</p></figcaption></figure>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (23).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (24).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
+Step 4: Select the device type you want to add, e.g., Motion Detector. Press and hold the pairing button on the device until the LED flashes (refer to the device's manual for specific instructions).
 
-**Paso 3:** En el **menú** haga clic en "**Añadir dispositivo**".
-
-
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (23).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (24).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (25).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
-
-{% hint style="info" %}
-El panel se pondrá en modo escucha, es el momento de pulsar nuestros botones "**learn**" de los dispostivos VESTA (Normalmente botón frontal, consultar manual del dispositivos en caso de duda)
-
-<img src="es/.gitbook/assets/image (26).png" alt="" data-size="original">
-{% endhint %}
-
-
-
-**Paso 5:** El panel en modo escucha pulsar el botón learn, aquí una guía de la ubicación de botónes de los dispositivos más usados:&#x20;
+Step 5: Follow the on-screen instructions to complete the pairing process. The panel will confirm the successful addition of the device.
 
 <figure><img src="es/.gitbook/assets/image (27).png" alt=""><figcaption><p>Botón learn de los dispositivos VESTA</p></figcaption></figure>
 
 {% hint style="danger" %}
-Importante! En caso de los PIRCAMS y teclados: La pulsación debe ser de 3 o 4 segundos. Mientras que el resto de dispositivos con una pulsación corta es suficiente para añadirlos.&#x20;
+Important! In case of PIRCAMS and keyboards: The keystroke must be 3 or 4 seconds. While the rest of the devices with a short press is enough to add them.&#x20;
 {% endhint %}
 
 
 
-Una vez añadidos, los dispositivos RF estarán listos para su uso y podrán ser gestionados desde el mismo apartado, aquí un ejemplo de configuración del atributo del sensor:&#x20;
+Once added, the RF devices will be ready for use and can be managed from the same section, here is an example of sensor attribute configuration:&#x20;
 
 
 
-### 3.2 Configuración de la zona
+### 3.2 Zone configuration
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (28).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (30).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (31).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="en/.gitbook/assets/image (28).png" alt="" data-size="original"></td><td><td></td></td></tr><tr><tr><tr><td><img src="en/. gitbook/assets/image (30).png" alt="" data-size="original"></td><td></td></td><td></td></tr><tr><tr><td><td><img src="en/.gitbook/assets/image (31).png" alt="" data-size="original"></td><td></td></td></td></td></tr></tbody></table>.
 
 {% hint style="info" %}
-Para configurar las zonas correctamente, es importante familiarizarse con los atributos disponibles y su impacto en el comportamiento del sistema de alarma.
+To configure the zones correctly, it is important to be familiar with the available attributes and their impact on the behavior of the alarm system.
 
-Por ejemplo: Interior es una zona instantánea y Entrada es una zona retardada; Podemos asignar estos atributos en el apartado Respuesta en armado que significa "Cuando el sistema está armado"
+For example: Interior is an instant zone and Entry is a delayed zone; we can assign these attributes in the section Response on arming which means "When the system is armed."
 {% endhint %}
+
 
 ## 4. Configuración del panel y reporte a CRA (Central Receptor de Alarmas)
 
@@ -169,26 +148,28 @@ En esta sección, se detalla cómo ajustar la **duración de la sirena** durante
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Ajustes -> Panel</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (3).png" alt="" data-size="original"></td><td>Ajustes -> Panel -> Seguridad</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (4).png" alt="" data-size="original"></td><td><ol><li>La <strong>duración de sirena</strong> en caso de alarma </li><li>Al habilitar esta opción se retarda el reporte de las alarmas 30 segundos (<strong>Recomendable dejar DESACTIVADA</strong>)</li><li>Ajustar los <strong>retardos de entrada y salida</strong></li></ol></td><td></td></tr></tbody></table>
-
-### 4.2 Configuración de panel
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Ajustes -> Panel</td><td></td></tr><tr><td><img src="es/. gitbook/assets/image (3).png" alt="" data-size="original"></td><td>Ajustes -> Panel -> Seguridad</td><td></td></tr><tr><td><img src="es/. gitbook/assets/image (4). png" alt="" data- size="original"></td><td><ol><li>La <strong>duración de sirena</strong> en caso de alarma </li><li>Al habilitar esta opción se retarda el reporte de las alarmas 30 segundos (<strong>Recomendable dejar DESACTIVADA</strong>)</li><li>Ajustar los <strong>retardos de entrada y salida</strong></li></ol></td><td></td></tr></tbody></table>
 
 
+### 4.2 Panel configuration
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Ajustes -> Panel</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (10).png" alt="" data-size="original"></td><td>Ajustes -> Panel -> Panel</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (7).png" alt="" data-size="original"></td><td>NOTAS ANEXO 1</td><td></td></tr></tbody></table>
 
-_ANEXO 1_
+
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="en/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td><td>Settings -> Panel</td><td><td></td></tr><tr><tr><tr><td><img src="en/. gitbook/assets/image (10).png" alt="" data-size="original"></td><td><td>Settings -> Panel -> Panel</td><td><td></td></tr><tr><tr><tr><td><img src="en/.gitbook/assets/image (7).png" alt="" data-size="original"></td><td>NOTES ANNEX 1</td><td><td></td></td></tr></tbody></table>.
+
+_ANNEX 1_.
 
 {% hint style="info" %}
-1. El **Polling con Central Receptora de Alarma** (Muy importante configurar acorde al tiempo facilitado por la CRA)
-2. Conectar Alarma: Cuando el panel se encuentra únicamente por pilas (<mark style="color:red;">**SIN BATERÍA EXTERNA**</mark>)  esta opción nos permite acceder al panel por **CLOUD durante la ALARMA**
-3.  **Modo ahorro Activado:**&#x20;
+1. The **Polling with Alarm Receiving Centre** (Very important to configure according to the time provided by the ARC).
+2. Connect Alarm: When the panel is only battery operated (<mark style="color:red;">**WITHOUT EXTERNAL BATTERY**</mark>) this option allows us to access the panel by **CLOUD during the ALARM**.
+3.  **SAVINGS MODE ON:**&#x20;
 
-    1. **El panel cuando solo opera por PILAS, estará OFFLINE, solo se conecta en caso de alarma** \
-       **a. MODO AHORRO **<mark style="color:red;">**DESACTIVADO**</mark>**: El panel se quedará en CLOUD 100% con las pilas **<mark style="color:blue;">**\[Advertencia! Las pilas durarán 14 días]**</mark>
+    1. **The panel when only operating by BATTERIES, will be OFFLINE, only connected in case of alarm** \2.
+       **a. SAVING MODE **<mark style="color:red;">**DISABLED**</mark>**: The panel will stay in CLOUD 100% on batteries **<mark style="color:blue;">**[Warning! Batteries will last 14 days]**</mark>.
 
-    &#x20;       b. **MODO AHORRO **<mark style="color:green;">**ACTIVADO**</mark>**: El panel se quedará en OFFLINE  reportará todos los eventos tanto a la APP como CRA **<mark style="color:blue;">**\[Las pilas durarán 7 meses aprox.]**</mark>
+    &#x20; b. **SAVE MODE **<mark style="color:green;">**ON**</mark>**: The panel will stay OFFLINE will report all events to both the APP and CRA **<mark style="color:blue;">**[Batteries will last 7 months approx.]**</mark>.
 {% endhint %}
+
 
 
 
@@ -196,25 +177,28 @@ _ANEXO 1_
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (20).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Instalador -> Ajustes</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (8).png" alt="" data-size="original"></td><td>Ajustes -> PIN de usuario</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (9).png" alt="" data-size="original"></td><td>Añadir el Nombre y código para cada usuario, este código permitirá al usuario cambiar de modo desde la APP o teclados consultar  <a href="guia-de-usuario-smarthomesec.md">Manual de usuario</a> para más información</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (20).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Instalador -> Ajustes</td><td></td></tr><tr><td><img src="es/. gitbook/assets/image (8).png" alt="" data-size="original"></td><td>Ajustes -> PIN de usuario</td><td></td></tr><tr><td><img src="es/. gitbook/assets/image (9).png" alt="" data-size="original"></td><td><td>Add the Name and code for each user, this code will allow the user to switch modes from the APP or keyboards refer to <a href="user-guide-smarthomesec.md">User Manual</a> for more information</td><td><td></td></td></tr></tbody></table>.
 
-### 4.4 Actualización del panel&#x20;
 
-Es crucial mantener el panel de control actualizado para asegurar un rendimiento óptimo y la seguridad del sistema. Las actualizaciones pueden contener mejoras esenciales, correcciones de errores y parches de seguridad que protegen contra vulnerabilidades conocidas.
+### 4.4 Updating the panel&#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Ajustes -> Panel</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (11).png" alt="" data-size="original"></td><td>Panel -> Actualización de FW</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (12).png" alt="" data-size="original"></td><td>Seleccionar del listado el firmware con versión más alta (Número más alto y letra más alta)</td><td></td></tr></tbody></table>
+It is crucial to keep the control panel up to date to ensure optimal system performance and security. Updates may contain essential enhancements, bug fixes and security patches that protect against known vulnerabilities.
+
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="en/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Settings -> Panel</td><td><td></td></td></tr><tr><tr><td><img src="en/.gitbook/assets/image (11). png" alt="" data-size="original"></td><td>Panel -> FW Update</td><td><td></td></tr><tr><tr><tr><td><img src="en/.gitbook/assets/image (12).png" alt="" data-size="original"></td><td>Select from the list the firmware with highest version (Highest number and highest letter)</td><td><td></td></tr></tbody></table>.
 
 {% hint style="info" %}
-NOTA: El panel por 2G o poca cobertura puede tardar 8 minutos en actualizar.&#x20;
+NOTE: The panel by 2G or low coverage may take 8 minutes to update.&#x20;
 
-Si el panel comunica por 4G/LTE con buena cobertura la actualización puede tardar entre 3-5 minutos&#x20;
+If the panel communicates over 4G/LTE with good coverage the update may take 3-5 minutes&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
-Una vez el panel en modo actualización <mark style="color:red;">**NO apagar**</mark> ni desconectar bajo ningún concepto. El panel se reiniciará automáticamente.
+Once the panel is in upgrade mode <mark style="color:red;">**Do NOT turn off**</mark> or disconnect under any circumstances. The panel will restart automatically.
 
-APAGAR EL PANEL DURANTE UNA ACTUALIZACIÓN PUEDE DEJARLO TOTALMENTE INOPERATIVO
+SWITCHING OFF THE PANEL DURING AN UPGRADE MAY RENDER IT COMPLETELY INOPERATIVE.
 {% endhint %}
+
+Translated with www.DeepL.com/Translator (free version)
 
 
 
@@ -222,28 +206,29 @@ APAGAR EL PANEL DURANTE UNA ACTUALIZACIÓN PUEDE DEJARLO TOTALMENTE INOPERATIVO
 
 _**Reporte Eventos**_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td>Ajustes -> Reporte</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (14).png" alt="" data-size="original"></td><td>En el apartado reporte disponemos de configuración de reporte para eventos y archivos capturados para fotos de PIRCAMS</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (15).png" alt="" data-size="original"></td><td>En este apartado configuramos la URL de repote de nuestra CRA, y muy importante el <strong>GRUPO 2</strong> o superior ya que el gruopo 1 está empleado para la APP. ANEXO 2 para ejemplos</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td>Ajustes -> Reporte</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (14). png" alt="" data-size="original"></td><td>En el apartado reporte disponemos de configuración de reporte para eventos y archivos capturados para fotos de PIRCAMS</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (15). png" alt="" data-size="original"></td><td>En este apartado configuramos la URL de repote de nuestra CRA, y muy importante el <strong>GRUPO 2</strong> o superior ya que el gruopo 1 está empleado para la APP. ANEXO 2 para ejemplos</td><td></td></tr></tbody></table>
 
-_ANEXO 2_
+
+APPENDIX 2_
 
 {% hint style="success" %}
-Ejemplos de reporte de **EVENTOS** en diferentes protocolos:&#x20;
+Examples of **EVENTS** reporting in different protocols:&#x20;
 
-:fire: **MANITOU (**más usado en España): **ip://**<mark style="color:blue;">**ABONADO**</mark>**@**<mark style="color:orange;">**IP\_DE\_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**/MAN**&#x20;
+:fire: **MANITOU (**most used in Spain): **ip://**<mark style="color:blue;">**ABONADO**</mark>**@**<mark style="color:orange;">**IP_DEDE_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**/MAN**&#x20;
 
-:flag\_fr: SIA: **ip://**<mark style="color:blue;">**ABONADO**</mark>**@**<mark style="color:orange;">**IP\_DE\_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**/SIA2**
+:flag: SIA: **ip://****<mark style="color:blue;">**WELCOME**</mark>**@**<mark style="color:orange;">**IP\_DE\_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**/SIA2**
 
-:map: CID: **ip://**<mark style="color:blue;">**ABONADO**</mark>**@**<mark style="color:orange;">**IP\_DE\_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**/CID**
+:map: CID: **ip://****<mark style="color:blue;">**ABONED**</mark>**@**<mark style="color:orange;">**IP\_DE\_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**/CID**.
 {% endhint %}
 
-_**Reporte fotos**_
+_**Photo report**_.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td>Ajustes -> Reporte</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (14).png" alt="" data-size="original"></td><td>En el apartado reporte disponemos de configuración de reporte para eventos y archivos capturados para fotos de PIRCAMS</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (16).png" alt="" data-size="original"></td><td>En este apartado configuramos la URL de repote de nuestra CRA para el envío de fotos. ANEXO 3 para ejmplos</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="en/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td><td>Settings -> Report</td><td><td></td></td></tr><tr><tr><td><img src="en/.gitbook/assets/image (14). png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos</td><td><td></td></td></tr><tr><tr><td><td><img src="en/.gitbook/assets/image (16).png" alt="" data-size="original"></td><td>In this section we configure the repote URL of our CRA for sending photos. APPENDIX 3 for examples</td><td><td></td></tr></tr></tbody></table>.
 
 {% hint style="success" %}
-Ejemplos de reporte de **FOTOS** en diferentes protocolos:&#x20;
+Examples of **PHOTOS** reporting in different protocols:&#x20;
 
-:fire: **MANITOU**: <mark style="color:blue;">**ABONADO**</mark>**@**<mark style="color:orange;">**IP\_DE\_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>
+:fire: **MANITOU**: <mark style="color:blue;">**ABONADO**</mark>**@**<mark style="color:orange;">**IP\_DEVELOPMENT_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>.
 {% endhint %}
 
 
