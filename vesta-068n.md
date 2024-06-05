@@ -6,7 +6,7 @@ description: Manual for VESTA BOGP-type panels (VESTA-068N and VESTA-067)
 
 ## Introduction: Manual for Autonomous BOGP Type Panels
 
-<figure><img src="es/es/.gitbook/assets/image (19).png" alt="" width="325"><figcaption><p>VESTA-068N/VESTA-067</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (19).png" alt="" width="325"><figcaption><p>VESTA-068N/VESTA-067</p></figcaption></figure>
 
 This manual is designed to guide you through the setup and configuration of autonomous BOGP-type panels, operated by batteries or an external battery. The content of the manual is organized as follows:
 
@@ -23,7 +23,7 @@ It is crucial to configure the APN so the panel can communicate with the SmartHo
 
 ### 1.1 SIM and External Battery Connection
 
-<figure><img src="es/es/.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Insert SIM and External Battery</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Insert SIM and External Battery</p></figcaption></figure>
 
 #### Recommended external batteries:&#x20;
 
@@ -35,13 +35,13 @@ The panel with an external battery is 100% connected to the cloud. It will use B
 {% tab title="8 months duration" %}
 [DEM-7M-BACKUP](https://bydemes.com/es/productos/intrusion/alarma-vesta/baterias/DEM-7M-BACKUP/especificaciones)
 
-<figure><img src="es/es/.gitbook/assets/image (17).png" alt="" width="225"><figcaption><p>External Battery 7.5V /400Ah/3000W</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (17).png" alt="" width="225"><figcaption><p>External Battery 7.5V /400Ah/3000W</p></figcaption></figure>
 {% endtab %}
 {% tab title="14 months duration" %}
 
 [DEM-16M-BACKUP](https://bydemes.com/es/productos/intrusion/alarma-vesta/baterias/DEM-16M-BACKUP/especificaciones)
 
-<figure><img src="es/es/.gitbook/assets/image (18).png" alt="" width="225"><figcaption><p>External Battery 12V/500Ah, 6000W</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (18).png" alt="" width="225"><figcaption><p>External Battery 12V/500Ah, 6000W</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -49,7 +49,7 @@ The panel with an external battery is 100% connected to the cloud. It will use B
 
 ### 1.2 APN Configuration
 
-<figure><img src="es/es/.gitbook/assets/Multimedia1.gif" alt=""><figcaption><p>APN configuration on the panel</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/Multimedia1.gif" alt=""><figcaption><p>APN configuration on the panel</p></figcaption></figure>
 
 {% hint style="info" %}
 Note: We can also configure the APN with an SMS command, which we must send to the phone number of the SIM connected to the panel:
@@ -67,14 +67,14 @@ PROG 7982 GAPN:<mark style="color:orange;">internet</mark>,<mark style="color:pu
 Warning! For panels that DO NOT have an external battery, only internal batteries, enable the cloud using the keyboard and LCD screen of the panel as follows before proceeding:
 {% endhint %}
 
-<figure><img src="es/es/.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Enable cloud when using the panel with batteries only</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Enable cloud when using the panel with batteries only</p></figcaption></figure>
 
 
 ## 2. Panel Registration as Installer and User
 
 ### 2.1 Installer Registration
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Log in as an installer in the <a href="guia-de-usuario-smarthomesec.md">SmartHomeSec</a> APP</td><td><img src="es/es/.gitbook/assets/image (9) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 2:</strong> Select the + button </p><p>(Add panel) </p></td><td><img src="es/es/.gitbook/assets/image (10) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 3:</strong> Enter the panel's MAC address found on a label</td><td><img src="es/es/.gitbook/assets/image (11) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Log in as an installer in the <a href="guia-de-usuario-smarthomesec.md">SmartHomeSec</a> APP</td><td><img src="es/.gitbook/assets/image (9) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 2:</strong> Select the + button </p><p>(Add panel) </p></td><td><img src="es/.gitbook/assets/image (10) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 3:</strong> Enter the panel's MAC address found on a label</td><td><img src="es/.gitbook/assets/image (11) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 Once the panel is registered as an installer, it is ready ✨ for configuration.
 
@@ -92,7 +92,7 @@ The user account is used to control the system and is intended for the end user.
 
 The first account we register is the Master. The main difference between the Master and Slave accounts is that the Master allows creating new users, while the Slave cannot create new accounts.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Access the panel as installers, the default code is [7982]</td><td><img src="es/es/.gitbook/assets/Imagen de WhatsApp 2024-06-02 a las 15.19.19_5e1f9a7f.jpg" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 2:</strong> Select the Main system menu section<img src="es/es/.gitbook/assets/image (14) (1).png" alt=""></td><td></td><td></td></tr><tr><td><strong>Step 3:</strong> Select account list</td><td></td><td><img src="es/es/.gitbook/assets/image (15) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Step 4:</strong> Select add</td><td></td><td><img src="es/es/.gitbook/assets/image (17) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Step 5:</strong> If it's a new user: Select create an account</td><td><img src="es/es/.gitbook/assets/image (18) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 6:</strong> Fill in the user data for APP access</p><p><img src="es/es/.gitbook/assets/image (19) (1).png" alt="" data-size="original"></p></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Access the panel as installers, the default code is [7982]</td><td><img src="es/.gitbook/assets/Imagen de WhatsApp 2024-06-02 a las 15.19.19_5e1f9a7f.jpg" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 2:</strong> Select the Main system menu section<img src="es/.gitbook/assets/image (14) (1).png" alt=""></td><td></td><td></td></tr><tr><td><strong>Step 3:</strong> Select account list</td><td></td><td><img src="es/.gitbook/assets/image (15) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Step 4:</strong> Select add</td><td></td><td><img src="es/.gitbook/assets/image (17) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Step 5:</strong> If it's a new user: Select create an account</td><td><img src="es/.gitbook/assets/image (18) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 6:</strong> Fill in the user data for APP access</p><p><img src="es/.gitbook/assets/image (19) (1).png" alt="" data-size="original"></p></td><td></td><td></td></tr></tbody></table>
 
 {% hint style="success" %}
 User registration completed! For information on how to operate with the user APP, follow the SmartHomeSec user guide.
@@ -106,18 +106,18 @@ To add and configure VESTA RF devices, follow these steps:
 
 Step 1: Access the panel configuration from the installer APP:
 
-<figure><img src="es/es/.gitbook/assets/image (20).png" alt="" width="192"><figcaption><p>Installer -> Settings</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (20).png" alt="" width="192"><figcaption><p>Installer -> Settings</p></figcaption></figure>
 Step 2: Select "Devices" in the menu.
 
-<figure><img src="es/es/.gitbook/assets/image (21).png" alt="" width="190"><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (21).png" alt="" width="190"><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
 Step 3: In the menu click "Add device".
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/es/.gitbook/assets/image (23).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="es/es/.gitbook/assets/image (24).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (23).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (24).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
 Step 4: Select the device type you want to add, e.g., Motion Detector. Press and hold the pairing button on the device until the LED flashes (refer to the device's manual for specific instructions).
 
 Step 5: Follow the on-screen instructions to complete the pairing process. The panel will confirm the successful addition of the device.
 
-<figure><img src="es/es/.gitbook/assets/image (27).png" alt=""><figcaption><p>Botón learn de los dispositivos VESTA</p></figcaption></figure>
+<figure><img src="es/.gitbook/assets/image (27).png" alt=""><figcaption><p>Botón learn de los dispositivos VESTA</p></figcaption></figure>
 
 {% hint style="danger" %}
 Important! In case of PIRCAMS and keyboards: The keystroke must be 3 or 4 seconds. While the rest of the devices with a short press is enough to add them.&#x20;
@@ -140,15 +140,15 @@ For example: Interior is an instant zone and Entry is a delayed zone; we can ass
 {% endhint %}
 
 
-## 4. Configuración del panel y reporte a CRA (Central Receptor de Alarmas)
+## 4. Panel configuration and reporting to ARC (Alarm Receiving Central Station)
 
-### 4.1 Configuración de seguridad&#x20;
+### 4.1 Security configuration&#x20;
 
-En esta sección, se detalla cómo ajustar la **duración de la sirena** durante una alarma y establecer los **retardos de entrada y salida**. Para facilitar la identificación y el ajuste, las opciones críticas se resaltan en **color **<mark style="color:red;">**rojo**</mark>.
+This section details how to adjust the **siren duration** during an alarm and set the **input and output delays**. For ease of identification and adjustment, critical options are highlighted in **color **<mark style="color:red;">**red**</mark>.
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Ajustes -> Panel</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (3).png" alt="" data-size="original"></td><td>Ajustes -> Panel -> Seguridad</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (4).png" alt="" data-size="original"></td><td><ol><li>La <strong>duración de sirena</strong> en caso de alarma </li><li>Al habilitar esta opción se retarda el reporte de las alarmas 30 segundos (<strong>Recomendable dejar DESACTIVADA</strong>)</li><li>Ajustar los <strong>retardos de entrada y salida</strong></li></ol></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Ajustes -> Panel</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (3).png" alt="" data-size="original"></td><td>Ajustes -> Panel -> Seguridad</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (4).png" alt="" data-size="original"></td><td><ol><li>La <strong>siren duration</strong> en in case of alarm </li><li>Enabling this option delays the alarm reporting by 30 seconds. (<strong>Recommended to leave OFF</strong>)</li><li>Ajustar los <strong>entry and exit delays</strong></li></ol></td><td></td></tr></tbody></table>
 
 
 ### 4.2 Panel configuration
@@ -173,7 +173,7 @@ _ANNEX 1_
 
 
 
-### 4.3 Configurar códigos de usuario
+### 4.3 Configure user codes
 
 
 
@@ -202,7 +202,7 @@ SWITCHING OFF THE PANEL DURING AN UPGRADE MAY RENDER IT COMPLETELY INOPERATIVE.
 
 
 
-### 4.5 Configuración de reporte a CRA (Central Receptora de Alarmas)
+### 4.5 Reporting configuration to ARC (Alarm Receiving Center)
 
 _**Reporte Eventos**_
 
