@@ -131,7 +131,7 @@ Once added, the RF devices will be ready for use and can be managed from the sam
 
 ### 3.2 Zone configuration
 
-<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="es/.gitbook/assets/image (28).png" alt="" data-size="original"></td><td><td></td></td></tr><tr><tr><tr><td><img src="es/.gitbook/assets/image (30).png" alt="" data-size="original"></td><td></td></td><td></td></tr><tr><tr><td><td><img src="es/.gitbook/assets/image (31).png" alt="" data-size="original"></td><td></td></td></td></td></tr></tbody></table>.
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="en/.gitbook/assets/image (28).png" alt="" data-size="original"></td><td><td></td></td></tr><tr><tr><tr><td><img src="en/. gitbook/assets/image (30).png" alt="" data-size="original"></td><td></td></td><td></td></tr><tr><tr><td><td><img src="en/.gitbook/assets/image (31).png" alt="" data-size="original"></td><td></td></td></td></td></tr></tbody></table>.
 
 {% hint style="info" %}
 To configure the zones correctly, it is important to be familiar with the available attributes and their impact on the behavior of the alarm system.
@@ -155,7 +155,7 @@ En esta sección, se detalla cómo ajustar la **duración de la sirena** durante
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td><td>Settings -> Panel</td><td><td></td></tr><tr><tr><tr><td><img src="es/.gitbook/assets/image (10).png" alt="" data-size="original"></td><td><td>Settings -> Panel -> Panel</td><td><td></td></tr><tr><tr><tr><td><img src="es/.gitbook/assets/image (7).png" alt="" data-size="original"></td><td>NOTES ANNEX 1</td><td><td></td></td></tr></tbody></table>.
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="en/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td><td>Settings -> Panel</td><td><td></td></tr><tr><tr><tr><td><img src="en/. gitbook/assets/image (10).png" alt="" data-size="original"></td><td><td>Settings -> Panel -> Panel</td><td><td></td></tr><tr><tr><tr><td><img src="en/.gitbook/assets/image (7).png" alt="" data-size="original"></td><td>NOTES ANNEX 1</td><td><td></td></td></tr></tbody></table>.
 
 _ANNEX 1_.
 
@@ -177,14 +177,14 @@ _ANNEX 1_.
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (20).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Instalador -> Ajustes</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (8).png" alt="" data-size="original"></td><td>Ajustes -> PIN de usuario</td><td></td></tr><tr><td><img src="es/.gitbook/assets/image (9).png" alt="" data-size="original"></td><td><td>Add the Name and code for each user, this code will allow the user to switch modes from the APP or keyboards refer to <a href="user-guide-smarthomesec.md">User Manual</a> for more information</td><td><td></td></td></tr></tbody></table>.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="es/.gitbook/assets/image (20).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Instalador -> Ajustes</td><td></td></tr><tr><td><img src="es/. gitbook/assets/image (8).png" alt="" data-size="original"></td><td>Ajustes -> PIN de usuario</td><td></td></tr><tr><td><img src="es/. gitbook/assets/image (9).png" alt="" data-size="original"></td><td><td>Add the Name and code for each user, this code will allow the user to switch modes from the APP or keyboards refer to <a href="user-guide-smarthomesec.md">User Manual</a> for more information</td><td><td></td></td></tr></tbody></table>.
 
 
 ### 4.4 Updating the panel&#x20;
 
 It is crucial to keep the control panel up to date to ensure optimal system performance and security. Updates may contain essential enhancements, bug fixes and security patches that protect against known vulnerabilities.
 
-<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="es/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Settings -> Panel</td><td><td></td></td></tr><tr><tr><td><img src="es/.gitbook/assets/image (11). png" alt="" data-size="original"></td><td>Panel -> FW Update</td><td><td></td></tr><tr><tr><tr><td><img src="es/.gitbook/assets/image (12).png" alt="" data-size="original"></td><td>Select from the list the firmware with highest version (Highest number and highest letter)</td><td><td></td></tr></tbody></table>.
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="en/.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Settings -> Panel</td><td><td></td></td></tr><tr><tr><td><img src="en/.gitbook/assets/image (11). png" alt="" data-size="original"></td><td>Panel -> FW Update</td><td><td></td></tr><tr><tr><tr><td><img src="en/.gitbook/assets/image (12).png" alt="" data-size="original"></td><td>Select from the list the firmware with highest version (Highest number and highest letter)</td><td><td></td></tr></tbody></table>.
 
 {% hint style="info" %}
 NOTE: The panel by 2G or low coverage may take 8 minutes to update.&#x20;
@@ -223,7 +223,7 @@ Examples of **EVENTS** reporting in different protocols:&#x20;
 
 _**Photo report**_.
 
-<table data-view="cards"><thead><tr><th></th><th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="es/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td><td>Settings -> Report</td><td><td></td></td></tr><tr><tr><td><img src="es/.gitbook/assets/image (14). png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos</td><td><td></td></td></tr><tr><tr><td><td><img src="es/.gitbook/assets/image (16).png" alt="" data-size="original"></td><td>In this section we configure the repote URL of our CRA for sending photos. APPENDIX 3 for examples</td><td><td></td></tr></tr></tbody></table>.
+<table data-view="cards"><thead><tr><th></th><th></th></th></th></tr></thead></thead><tbody><tr><td><td><img src="en/.gitbook/assets/image (13).png" alt="" data-size="original"></td><td><td>Settings -> Report</td><td><td></td></td></tr><tr><tr><td><img src="en/.gitbook/assets/image (14). png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos</td><td><td></td></td></tr><tr><tr><td><td><img src="en/.gitbook/assets/image (16).png" alt="" data-size="original"></td><td>In this section we configure the repote URL of our CRA for sending photos. APPENDIX 3 for examples</td><td><td></td></tr></tr></tbody></table>.
 
 {% hint style="success" %}
 Examples of **PHOTOS** reporting in different protocols:&#x20;
