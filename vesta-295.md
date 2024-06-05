@@ -10,7 +10,7 @@ The Shutter Control utilizes ZigBee technology for wireless signal transmission.
 
 The Shutter Control serves as an end device in the ZigBee network. It can be included in the ZigBee network to transmit or receive signal, but cannot permit any other ZigBee device to join the network through the Shutter Control.
 
-![](<.gitbook/assets/0 (102).jpeg>)
+![](<.gitbook/assets/0 (111).jpeg>)
 
 The SCM-6 ZigBee Shutter Control series includes the following models:
 
@@ -62,7 +62,7 @@ Connect to the Close terminal of the Shutter Motor.
 
 1
 
-![](<.gitbook/assets/1 (84).jpeg>)**Caution**
+![](<.gitbook/assets/1 (95).jpeg>)**Caution**
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * Before installation or any maintenance work, make sure the power supply has been disconnected.
@@ -112,19 +112,19 @@ The Shutter Control will transmit a supervision signal to report its condition r
 
 **Picture 1** **Picture 2**
 
-![](<.gitbook/assets/2 (78).png>)
+![](<.gitbook/assets/2 (89).png>)
 
 1. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
 **Picture 3** **Picture 4**
 
-![](<.gitbook/assets/3 (77).png>)
+![](<.gitbook/assets/3 (87).png>)
 
 *
   1. In the same way as step 1 & 2, connect the other wires with connectors.
 * SCM-6 should be connected according to the diagram below:
 
-![](<.gitbook/assets/4 (59).jpeg>)
+![](<.gitbook/assets/4 (61).jpeg>)
 
 * Connect N terminal of SCM to the N terminal of Power Supply.
 * Connect L terminal of SCM to the L terminal of Power Supply.

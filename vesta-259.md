@@ -2,7 +2,7 @@
 
 **DIN-Rail Power Switch Meter (PSM-DIN2-ZW Series)**
 
-![](<.gitbook/assets/0 (97).jpeg>)
+![](<.gitbook/assets/0 (106).jpeg>)
 
 The Power Switch is capable of receiving wireless signals from the coordinator in the Z-Wave network to toggle On/Off of appliances that are attached to it. The Power Switch also features keeping tracks of energy consumption with built-in power meter and transmit the data to the Z-Wave network regularly.
 
@@ -10,7 +10,7 @@ The Power Switch is a Z-Wave enabled device and is fully compatible with any Z-W
 
 Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be transmitted to their destination via intermediary “listening” Z-Wave products.
 
-![](<.gitbook/assets/1 (81).jpeg>)
+![](<.gitbook/assets/1 (92).jpeg>)
 
 The PSM-DIN2-ZW series includes the following models:
 
@@ -18,7 +18,7 @@ PSM-DIN2-ZW
 
 PSM-DIN2-ZW-OTA
 
-![](<.gitbook/assets/2 (75).png>) ![](<.gitbook/assets/3 (68).jpeg>)
+![](<.gitbook/assets/2 (86).png>) ![](<.gitbook/assets/3 (75).jpeg>)
 
 * _**Identifying the Parts**_
   1. **Input Connector**
@@ -31,7 +31,7 @@ PSM-DIN2-ZW-OTA
 
 \-Press and hold for 10 seconds to factory reset.
 
-![](<.gitbook/assets/4 (78).png>)
+![](<.gitbook/assets/4 (89).png>)
 
 * _**LED Indicator**_
   * On: power on
@@ -44,11 +44,11 @@ PSM-DIN2-ZW-OTA
   * Do not connect the device to loads exceeding supported load current.
 * _**Wiring and Installation**_
 
-![](<.gitbook/assets/5 (78).png>) ![](<.gitbook/assets/6 (58).png>)
+![](<.gitbook/assets/5 (91).png>) ![](<.gitbook/assets/6 (69).png>)
 
 **Before installation, make sure the power supply has been disconnected.**
 
-![](<.gitbook/assets/7 (46).jpeg>)
+![](<.gitbook/assets/7 (55).jpeg>)
 
 *
   * Connect L terminal of input connector to the L terminal of Power Supply, please use fuse for the wire. Connect N terminal of input connector to the N terminal of Power Supply.
@@ -57,7 +57,7 @@ PSM-DIN2-ZW-OTA
   * Mount the device inside the electrical enclosure using a DIN rail.
 * _**Inclusion (Adding or Learning Device)**_
 
-![](<.gitbook/assets/8 (53).png>)
+![](<.gitbook/assets/8 (64).png>)
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
@@ -72,7 +72,7 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
   * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, please exclude it first (see _**Exclusion**_) before attempting to include it into the current Z-Wave Gateway/Control Panel.
 * _**Exclusion (Removing Device)**_
 
-![](<.gitbook/assets/9 (49).png>)
+![](<.gitbook/assets/9 (63).png>)
 
 The device must be removed from existing Z-Wave network before being included into another. There are two methods available to exclude a device.
 
@@ -96,7 +96,7 @@ _\<NOTE>_
     * Factory resetting the device will also clear all accumulated power data.
 * _**Range Test**_
 
-![](<.gitbook/assets/10 (51).png>) ![](<.gitbook/assets/11 (41).png>)
+![](<.gitbook/assets/10 (59).png>) ![](<.gitbook/assets/11 (49).png>)
 
 To test whether the device is able to communicate with the Z-Wave Gateway or Control Panel:
 
@@ -123,7 +123,7 @@ If the power output is above 1kW, PSM-DIN2 will transmit a signal to Z-Wave Gate
   * For **230V:** the maximum operation load is 3680W and 16A. Warning: please do not exceed the maximum load.
 * _**Z-Wave Information**_
 
-![](<.gitbook/assets/12 (43).png>) ![](<.gitbook/assets/13 (32).png>) ![](<.gitbook/assets/14 (31).png>)
+![](<.gitbook/assets/12 (50).png>) ![](<.gitbook/assets/13 (40).png>) ![](<.gitbook/assets/14 (38).png>)
 
 **Device Type:** Generic Type Switch Binary
 
@@ -163,7 +163,7 @@ Supervision CC ,(S2)
 
 Firmware Update Md CC ,(S2)
 
-![](<.gitbook/assets/15 (31).png>)
+![](<.gitbook/assets/15 (39).png>)
 
 * _**Z-Wave’s Groups (Association Command Class Version 2)**_
 

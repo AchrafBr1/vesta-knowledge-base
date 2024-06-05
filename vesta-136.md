@@ -20,7 +20,7 @@ IRP-29 / IRP-29 F1 – Pet Immune PIR sensor with alkaline batteries
 
 IR-29SL / IR-29SL-F1 – PIR sensor with lithium battery.
 
-![](<.gitbook/assets/0 (20).png>)IRP-29SL / IRP-29SL-F1 – Pet Immune PIR sensor with lithium battery
+![](<.gitbook/assets/0 (33).png>)IRP-29SL / IRP-29SL-F1 – Pet Immune PIR sensor with lithium battery
 
 * _**Identifying the Parts**_
 
@@ -34,7 +34,7 @@ The LED indicator is used to indicate the status of system.
 
 **3. Supervision Enable/Disable Jumper Switch (JP2)**
 
-![jumper open](<.gitbook/assets/1 (27).png>) ![jumper close](<.gitbook/assets/2 (32).png>)
+![jumper open](<.gitbook/assets/1 (38).png>) ![jumper close](<.gitbook/assets/2 (43).png>)
 
 **Jumper Off**
 
@@ -109,7 +109,7 @@ For each installation, the battery is installed in by the factory before shipmen
 * When you are satisfied that the PIR work in the chosen location, you can proceed to mounting.
 * _Mounting Method_
 * The PIR is designed to be mounted on either a flat surface or in a corner situation with fixing screws and plugs provided.
-* ![](<.gitbook/assets/3 (28).png>)The base has knockouts, where the plastic is thinner and can be broken for mounting purpose. Two knockouts are for surface fixing and four knockouts are for corner fixing as shown in the picture.
+* ![](<.gitbook/assets/3 (38).png>)The base has knockouts, where the plastic is thinner and can be broken for mounting purpose. Two knockouts are for surface fixing and four knockouts are for corner fixing as shown in the picture.
 * For corner mounting, a triangular bracket is provided to add Back Tamper Protection. The bracket also includes two knockouts to mount on the wall.
 * For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, the IR-29 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.
 * **Corner mounting:**
@@ -118,7 +118,7 @@ For each installation, the battery is installed in by the factory before shipmen
 2. Using the four holes as a template, drill holes in the surface of the corner
 3. Insert the wall plugs
 4. Screw the base into the wall plug.
-5. ![](<.gitbook/assets/4 (27).png>)Screw the cover onto the base.
+5. ![](<.gitbook/assets/4 (38).png>)Screw the cover onto the base.
 
 * **Corner mounting with triangular bracket:**
 
@@ -142,7 +142,7 @@ Self-adhesive Mounting
 * **Surface mounting:**
 
 1. Remove the fixing screw and cover assembly.
-2. ![](<.gitbook/assets/5 (19).png>)Break through the knockouts on the inside of base
+2. ![](<.gitbook/assets/5 (32).png>)Break through the knockouts on the inside of base
 3. Using the holes as a template, drill holes in the surface.
 4. Insert the wall plugs if fixing it into plaster or brick.
 5. Screw the base into the wall plugs.
@@ -172,7 +172,7 @@ To take full advantage of PIR, the following guidelines should be considered:
 * **It is recommended to install the PIR in the following locations**
 * Mount the detector at 1.9M-2.0M height for best performance:
 
-![](<.gitbook/assets/6 (11).png>)
+![](<.gitbook/assets/6 (22).png>)
 
 \<Important NOTE>
 

@@ -52,7 +52,7 @@ EN50131 Grade 2, Class II
 
 * _**Parts Identification**_
 
-![](<.gitbook/assets/0 (6) (1).png>)
+![](<.gitbook/assets/0 (19).png>)
 
 | <ol><li>Arm Key</li><li>Home Key</li><li>Disarm Key</li><li>Panic Alarm (if enabled)</li></ol><p>- press both 1 and 3 to trigger Panic Alarm</p><ol><li>Fire Alarm (if enabled)</li></ol><p>- press both 4 and 6 to trigger Fire Alarm</p><ol><li>Medical Alarm (if enabled)</li></ol><p>- press both 7 and 9 to trigger Medical alarm</p><ol><li>Send Learning Code</li></ol><p>- press ＊ then 7 Key (under Test Mode)</p><p>- press both # and 🞸 keys (under Normal Operation Mode)</p> | <ol><li># Key</li></ol><p>- press to check current system mode</p><ol><li>🞸 Key</li><li>Fault LED (Orange LED)</li><li>Power LED (Green LED)</li><li>Detection Area for NFC Label</li></ol><ul><li>put the NFC Label close to the detection area to access the alarm system</li></ul><ol><li>Tamper Switch</li><li>Mounting Holes</li><li>NFC Label</li></ol> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -103,7 +103,7 @@ Step 2. Adding remote keypad into the Control Panel:
 
 1. Put remote keypad in Test mode by entering KP PIN code (default: **0000**), then press **＊** key.
 
-The three![](<.gitbook/assets/1 (8).png>)![](<.gitbook/assets/2 (8).png>)![](<.gitbook/assets/3 (8).png>) LEDs will turn on along with a long beep.
+The three![](<.gitbook/assets/1 (19).png>)![](<.gitbook/assets/2 (19).png>)![](<.gitbook/assets/3 (18).png>) LEDs will turn on along with a long beep.
 
 1. Press ＊ key then **7** key to transmit learning signal. Remote keypad will sound a long beep.
 
@@ -164,7 +164,7 @@ Step 4. Within 5 seconds, put a NFC label close to the Keypad detection area to 
 
 Step 5. To learn in another label, please repeat step 3 to step 4. The keypad will exit NFC label learning mode automatically after idling for 5 seconds.
 
-Step 6. Press ![](<.gitbook/assets/4 (8).png>) key to exit NFC label learning mode.
+Step 6. Press ![](<.gitbook/assets/4 (19).png>) key to exit NFC label learning mode.
 
 * Error Condition:
 * If the Control Panel User Code entered exceeds maximum PIN code digits, the Orange LED will flash along with 4 short beeps to indicate error.
@@ -191,7 +191,7 @@ labels by applying them one by one.
 
 Step 4. The Keypad will exit NFC label removal mode automatically after idling for 5 seconds.
 
-![NFC iPhone3](<.gitbook/assets/5 (1) (1) (1).jpeg>)Step 5. Press ![](<.gitbook/assets/6 (3) (1) (1).png>) key to exit NFC label learning mode.
+![NFC iPhone3](<.gitbook/assets/5 (9).jpeg>)Step 5. Press ![](<.gitbook/assets/6 (14).png>) key to exit NFC label learning mode.
 
 _**C. NFC Installation Procedure**_
 
@@ -224,7 +224,7 @@ Disarming the system always requires entering Control Panel User PIN Code.
 
 Under Test mode, Pressing ＊ key and then **9** key to enable Arm/ Home with PIN Code function.
 
-NFC label. If panel has no fault and arming is successful, the ![](<.gitbook/assets/9 (3) (1) (1).png>) LED will turn ON along with
+NFC label. If panel has no fault and arming is successful, the ![](<.gitbook/assets/9 (18).png>) LED will turn ON along with
 
 a long beep.
 

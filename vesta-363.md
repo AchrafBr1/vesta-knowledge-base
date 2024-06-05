@@ -8,7 +8,7 @@ The ISL-1-BUS is an isolated range extender. It can extend the communication ran
 
 **Identifying the Parts**
 
-![](<.gitbook/assets/0 (5).png>)
+![](<.gitbook/assets/0 (10).png>)
 
 1. **BUS Wiring Outlet for Input Lines**
 2. **Pluggable BUS Terminal for Input**
@@ -18,11 +18,11 @@ The LED lights up when the BUS output terminal A is powered.
 
 1. **Terminal Resistor Jumper for Terminal Input**
 
-![](<.gitbook/assets/1 (5).jpeg>)
+![](<.gitbook/assets/1 (6).jpeg>)
 
 Turn the jumper to OFF by removing or “parking” the jumper link.
 
-![](<.gitbook/assets/2 (4).jpeg>)
+![](<.gitbook/assets/2 (5).jpeg>)
 
 Turn the jumper to ON by resting the jumper link on both pins.
 
@@ -32,7 +32,7 @@ The LED lights up when the BUS output terminal A is powered.
 
 1. **Terminal Resistor Jumper for BUS Terminal (Output A)**
 
-![](<.gitbook/assets/3 (4).jpeg>) Turn the jumper to OFF by removing or “parking” the jumper link.
+![](<.gitbook/assets/3 (5).jpeg>) Turn the jumper to OFF by removing or “parking” the jumper link.
 
 ![](<.gitbook/assets/4 (5).jpeg>)
 
@@ -74,7 +74,7 @@ When adding the ISL-1-BUS to the BUS system, BUS will be split into 3 independen
 * The two individual output terminals of ISL-1-BUS are each connected to separate BUS devices through **BUS line 2** and **BUS line 3**. Output terminal A is the first device on BUS line 2; output terminal B is the first device on BUS line 3. Be sure to set the Terminal Resistor Jumpers to ON for the two ISL-1-BUS outputs as well as for the furthest BUS devices at the end of each BUS line to serve as a terminating resistor.
 * The total number of BUS devices (refer to as “nodes”; the Hybrid Panel is counted as one node) on each BUS line must be within 32 or less. Otherwise, BUS signal abnormalities may occur. In the example below, there are a total of 3 BUS lines: **BUS line 1** contains 2 nodes (Hybrid Panel and ISL-1-BUS), **BUS line 2** contains 3 nodes (ISL-1-BUS and 2 BUS devices), **BUS line 3** has 3 nodes (ISL-1-BUS and 2 BUS devices).
 
-![](<.gitbook/assets/5 (2).jpeg>)
+![](<.gitbook/assets/5 (3).jpeg>)
 
 _**Please also note:**_
 

@@ -1,12 +1,12 @@
 # VESTA 237
 
-![](<.gitbook/assets/0 (55).png>)**REMOTE KEYPAD KP-23B-EL-(F1) / KP-23B-EL-NT-(F1)**
+![](<.gitbook/assets/0 (68).png>)**REMOTE KEYPAD KP-23B-EL-(F1) / KP-23B-EL-NT-(F1)**
 
 The Remote Keypad includes following models:
 
 KP-23B-EL / KP-23B-EL-F1: Remote Keypad with Tamper Switch
 
-![](<.gitbook/assets/1 (68).png>)
+![](<.gitbook/assets/1 (79).png>)
 
 KP-23B-EL-NT / KP-23B-EL-NT-F1: Remote Keypad without Tamper Switch
 
@@ -22,16 +22,16 @@ KP-23B-EL-NT / KP-23B-EL-NT-F1: Remote Keypad without Tamper Switch
 | **4.**            | **Arm Key**                                         | - press both 4 and 6 to trigger fire alarm    |   |
 |                   |                                                     |                                               |   |
 
-![](<.gitbook/assets/2 (73).png>)
+![](<.gitbook/assets/2 (84).png>)
 
-1. ![](<.gitbook/assets/3 (73).png>) **Home Key**
+1. ![](<.gitbook/assets/3 (83).png>) **Home Key**
 2. **Key**
-3. ![](<.gitbook/assets/4 (77).png>) **Disarm Key**
+3. ![](<.gitbook/assets/4 (88).png>) **Disarm Key**
 4. **# Key**
 5. ** Key**
-6. **Dual Key Learning** _\<NOTE>_![](<.gitbook/assets/5 (40).jpeg>)
+6. **Dual Key Learning** _\<NOTE>_![](<.gitbook/assets/5 (47).jpeg>)
 
-![](<.gitbook/assets/6 (57).png>)
+![](<.gitbook/assets/6 (68).png>)
 
 **13. Dual Key Panic Alarm (if enabled)**
 
@@ -46,7 +46,7 @@ KP-23B-EL-NT / KP-23B-EL-NT-F1: Remote Keypad without Tamper Switch
 
 * _**LED Indicator**_
 
-![](<.gitbook/assets/7 (53).png>)
+![](<.gitbook/assets/7 (64).png>)
 
 *
   * **Active LED (Blue/Amber):**
@@ -62,7 +62,7 @@ KP-23B-EL-NT / KP-23B-EL-NT-F1: Remote Keypad without Tamper Switch
     * Blue LED on: activation of **Disarm Mode**.
     * Blue LED flash: failure due to the following reasons:
 
-![](<.gitbook/assets/8 (41).jpeg>) ![](<.gitbook/assets/9 (48).png>)
+![](<.gitbook/assets/8 (48).jpeg>) ![](<.gitbook/assets/9 (62).png>)
 
 1
 
@@ -78,7 +78,7 @@ KP-23B-EL-NT / KP-23B-EL-NT-F1: Remote Keypad without Tamper Switch
     * On: Alarm Memory (depend on Control Panel).
 * _**Power**_
 
-![](<.gitbook/assets/10 (50).png>) ![](<.gitbook/assets/11 (27).jpeg>)
+![](<.gitbook/assets/10 (58).png>) ![](<.gitbook/assets/11 (28).jpeg>)
 
 *
   * Remote keypad uses one EL123AP 3V Lithium battery as its power source.
@@ -91,9 +91,9 @@ KP-23B-EL-NT / KP-23B-EL-NT-F1: Remote Keypad without Tamper Switch
   * Upon completion of a command input, the power goes off and Remote keypad returns to **Stand-by** mode.
 * _**Test Mode**_
   * Remote keypad can be put into Test mode by entering the Keypad PIN code (default: **0000**) followed by ＊ key. The Active Amber LED will turn on along with a long beep.
-  * To exit Test mode, press ![](<.gitbook/assets/12 (42).png>) key **twice**, Remote keypad will sound a long beep and the Active LED will turn off, then Remote keypad returns to Normal Operation mode. Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to Normal Operation mode.
+  * To exit Test mode, press ![](<.gitbook/assets/12 (49).png>) key **twice**, Remote keypad will sound a long beep and the Active LED will turn off, then Remote keypad returns to Normal Operation mode. Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to Normal Operation mode.
 
-![](<.gitbook/assets/13 (32).jpeg>) ![](<.gitbook/assets/14 (26).jpeg>) ![](<.gitbook/assets/15 (23).jpeg>) ![](<.gitbook/assets/16 (33).png>) ![](<.gitbook/assets/17 (27).png>)
+![](<.gitbook/assets/13 (33).jpeg>) ![](<.gitbook/assets/14 (28).jpeg>) ![](<.gitbook/assets/15 (23).jpeg>) ![](<.gitbook/assets/16 (41).png>) ![](<.gitbook/assets/17 (32).png>)
 
 _\<NOTE>_
 
@@ -108,7 +108,7 @@ _**Test Mode Function:**_
 * Press **＊** key and then **5** key — Disable all Dual Key function (**Default**)
 * Press **＊** key and then **6** key — Edit Keypad Pin Code
   *
-    * Press ![](<.gitbook/assets/18 (32).png>) key **twice** — to leave the Test Mode**.**
+    * Press ![](<.gitbook/assets/18 (35).png>) key **twice** — to leave the Test Mode**.**
     * Press **＊** key and then **8** key — Enable Arm/ Home without PIN Code function
     * Press **＊** key and then **9** key — Enable Arm/ Home with Control Panel User PIN Code function (**Default**)
 * _**Tamper Protection**_
@@ -116,7 +116,7 @@ _**Test Mode Function:**_
   * Tamper protection is disabled when the keypad is in Test Mode.
 * _**Installation Procedures**_
 
-![](<.gitbook/assets/19 (33).png>) ![](<.gitbook/assets/20 (16).jpeg>)
+![](<.gitbook/assets/19 (36).png>) ![](<.gitbook/assets/20 (16).jpeg>)
 
 Step 1. Put the Control panel into learning mode, .
 

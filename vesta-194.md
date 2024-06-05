@@ -1,12 +1,12 @@
 # VESTA 194
 
-![](<.gitbook/assets/0 (79).jpeg>)**Fall Sensor-3**
+![](<.gitbook/assets/0 (88).jpeg>)**Fall Sensor-3**
 
 This fall sensor is designed to activate the Control Panel by manual button press or auto fall detection to summon help in emergency condition.
 
 **A. Identifying the Parts**
 
-![](<.gitbook/assets/1 (59).png>) ![](<.gitbook/assets/2 (64).jpeg>)
+![](<.gitbook/assets/1 (70).png>) ![](<.gitbook/assets/2 (69).jpeg>)
 
 *
   1. **Lanyard Loop**
@@ -24,7 +24,7 @@ This fall sensor is designed to activate the Control Panel by manual button pres
 
 1. **Auto Low Battery Detection**
 
-![](<.gitbook/assets/3 (57).jpeg>) ![](<.gitbook/assets/4 (64).png>)
+![](<.gitbook/assets/3 (64).jpeg>) ![](<.gitbook/assets/4 (75).png>)
 
 Fall Sensor features Auto Low Battery detection.
 
@@ -43,7 +43,7 @@ The Fall Sensor uses one CR2477 3V lithium battery as its power source.
 
 If the battery voltage is low, a Low Battery signal will be sent to the Control Panel to notify the user. Moreover, when activated under low battery status, the Red LED will flash to remind the user to replace the battery.
 
-![](<.gitbook/assets/5 (66).png>)
+![](<.gitbook/assets/5 (79).png>)
 
 _\<NOTE>_
 
@@ -70,7 +70,7 @@ Level 1 refers to lowest sensitivity level, while Level 5 refers to highest sens
 | Level 5           | 50ms           |
 |                   |                |
 
-![](<.gitbook/assets/6 (46).png>)
+![](<.gitbook/assets/6 (57).png>)
 
 _\<NOTE>_
 
@@ -78,7 +78,7 @@ _\<NOTE>_
 
 1
 
-![](<.gitbook/assets/7 (41).png>)seconds to receive the sensitivity level data from the Control Panel. The LED (green under normal mode; red under low battery status) will light up upon receiving data from the Control Panel.
+![](<.gitbook/assets/7 (52).png>)seconds to receive the sensitivity level data from the Control Panel. The LED (green under normal mode; red under low battery status) will light up upon receiving data from the Control Panel.
 
 **F. Inactivity Detection**
 
@@ -90,7 +90,7 @@ If a fall is detected, the sensor will transmit an alarm signal to Control Panel
   1. Let it hang in front of the chest and adjust necklace length so that the sensor hangs at the bottom of the sternum as shown in the picture below.
   2. Wear the pendant exposed outside and in front of any clothes or heavy/feather jacket.
 
-![](<.gitbook/assets/8 (37).jpeg>)
+![](<.gitbook/assets/8 (44).jpeg>)
 
 *
   *
@@ -107,7 +107,7 @@ If a fall is detected, the sensor will transmit an alarm signal to Control Panel
 
 During testing, do not trigger the fall sensor twice within a 10-second interval.
 
-![](<.gitbook/assets/9 (38).png>)
+![](<.gitbook/assets/9 (52).png>)
 
 _**FCC Statement**_
 
@@ -116,7 +116,7 @@ _This device complies with Part 15 of the FCC Rules. Operation is subject to the
 1. _This device may not cause harmful interference, and_
 2. _This device must accept any interference received, including interference that may cause undesired operation._
 
-![](<.gitbook/assets/10 (21).jpeg>)
+![](<.gitbook/assets/10 (23).jpeg>)
 
 _**FCC Caution:**_
 

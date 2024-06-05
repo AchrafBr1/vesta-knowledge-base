@@ -22,11 +22,11 @@ The Door Contact design is consisted of a cover and base. The cover contains all
 
 **869F1**
 
-![](<.gitbook/assets/0 (80).jpeg>)
+![](<.gitbook/assets/0 (89).jpeg>)
 
 * _**Identifying the parts**_
 
-![](<.gitbook/assets/1 (60).png>)
+![](<.gitbook/assets/1 (71).png>)
 
 1. **LED Indicator**
 2. **Learn / Test Button**
@@ -39,11 +39,11 @@ The Door Contact design is consisted of a cover and base. The cover contains all
 
 **Jumper On**
 
-![](<.gitbook/assets/2 (65).jpeg>)
+![](<.gitbook/assets/2 (70).jpeg>)
 
 **Jumper Off**
 
-![](<.gitbook/assets/3 (59).jpeg>)
+![](<.gitbook/assets/3 (66).jpeg>)
 
 The jumper link is inserted if the jumper link is removed or “**parked**” on one pin.
 
@@ -79,7 +79,7 @@ _**433FM-F1, 868FM-F1 and 869-F1 models do not have this Jumper installed and Su
     7. 2 White Caps
 * _**LED Indicator**_
 
-![](<.gitbook/assets/4 (55).jpeg>) ![](<.gitbook/assets/5 (36).jpeg>)
+![](<.gitbook/assets/4 (57).jpeg>) ![](<.gitbook/assets/5 (43).jpeg>)
 
 In Normal operation mode, the LED indicator remains off except in the following situations:
 
@@ -94,7 +94,7 @@ In Normal operation mode, the LED indicator remains off except in the following 
   * It is designed to protect against unauthorized removal from mounted location, cover opening or unsteady installation. When the tamper is triggered, Door Contact will emit a signal to the Control Panel for reporting, the LED will also light up.
 * _**Battery**_
 
-![](<.gitbook/assets/6 (45).jpeg>) ![](<.gitbook/assets/7 (42).jpeg>) ![](<.gitbook/assets/8 (38).jpeg>)
+![](<.gitbook/assets/6 (54).jpeg>) ![](<.gitbook/assets/7 (51).jpeg>) ![](<.gitbook/assets/8 (45).jpeg>)
 
 The Door Contact uses one **3V CR2 Lithium battery** as its power source, it is also capable of detecting low battery. When the battery is low, a low battery signal will be sent to the Control Panel along with regular transmission. The LED will light up when the Door Contact is activated under low battery status. When battery is exhausted, the Door Contact will stop all function and the LED will flash every 4 seconds.
 
@@ -102,7 +102,7 @@ The Door Contact uses one **3V CR2 Lithium battery** as its power source, it is 
 
 After the battery has been removed, press the Learn / Test button 5-6 times to fully discharge before inserting the new battery.
 
-![](<.gitbook/assets/9 (39).png>)
+![](<.gitbook/assets/9 (53).png>)
 
 _\<NOTE>_
 
@@ -110,11 +110,11 @@ _\<NOTE>_
   * Due to the battery characteristic, after inserting a new battery in the Door Contact, it will self-check whether this battery is working properly or not within 16 minutes after the insertion.
 * _**Test Mode**_
 
-![](<.gitbook/assets/10 (22).jpeg>)
+![](<.gitbook/assets/10 (24).jpeg>)
 
 The Door Contact can be put into Test mode for 3 minutes by pressing the Test Button on the front cover once. During Test mode, the LED indicator will turn on upon triggering. Each press on the Test Button, the Door Contact will transmit a test signal to the Control Panel for radio range test and resets the test mode back to the 3-minute duration. It will exit Test Mode automatically after the 3 minutes and returns to Normal Operation mode.
 
-![](<.gitbook/assets/11 (25).jpeg>)
+![](<.gitbook/assets/11 (26).jpeg>)
 
 * _**Getting Started**_
 
@@ -132,7 +132,7 @@ the desired location, and press the Test button to confirm if this location is w
 
 Step 6: When you are satisfied with the Door Contact at the chosen location, proceed to installation.
 
-![](<.gitbook/assets/12 (21).jpeg>)
+![](<.gitbook/assets/12 (23).jpeg>)
 
 * _**Installation**_
 
@@ -144,7 +144,7 @@ Align the magnet according the rib mark on Door Contact.
 
 Where required, use the Magnet Spacer to better align the magnet to the rib marks.
 
-![](<.gitbook/assets/13 (28).png>)
+![](<.gitbook/assets/13 (36).png>)
 
 * _NOTE >_
   * The magnet should be no more than **15mm** from the detector when the door is closed.
@@ -152,7 +152,7 @@ Where required, use the Magnet Spacer to better align the magnet to the rib mark
 
 2
 
-* ![](<.gitbook/assets/14 (21).jpeg>)_**Mounting Methods**_
+* ![](<.gitbook/assets/14 (23).jpeg>)_**Mounting Methods**_
 
 There are two ways to mount the Door Contact: Self-adhesive mounting or Screw mounting.
 
@@ -172,7 +172,7 @@ mounting surface with a suitable degreaser if needed.
 
 the desired location for 30 seconds.
 
-![](<.gitbook/assets/16 (27).png>)
+![](<.gitbook/assets/16 (35).png>)
 
 _\<NOTE>_
 

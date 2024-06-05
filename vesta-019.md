@@ -12,7 +12,7 @@ DC-23: Door Contact cover is secured by a bottom fixing screw.
 
 DC-23-R3: Door Contact cover is secured by two latches at top and bottom
 
-![](<.gitbook/assets/0 (3) (1).jpeg>)
+![](<.gitbook/assets/0 (12).jpeg>)
 
 Parts Identification
 
@@ -41,14 +41,14 @@ if the jumper link is removed or “**parked**” on one pin.
 
 The jumper link is inserted, connecting the two pins
 
-![jumper close](<.gitbook/assets/1 (10).png>) ![jumper open](<.gitbook/assets/2 (11).png>)
+![jumper close](<.gitbook/assets/1 (21).png>) ![jumper open](<.gitbook/assets/2 (22).png>)
 
 * Jumper ON: Supervision disabled
 * Jumper OFF: Supervision enabled. **(Factory Default)**
 
 1. **Reed Switch Jumper Switch (JP3)**
 
-![jumper close](<.gitbook/assets/3 (10).png>) ![jumper open](<.gitbook/assets/4 (10).png>)
+![jumper close](<.gitbook/assets/3 (20).png>) ![jumper open](<.gitbook/assets/4 (21).png>)
 
 **Jumper On**
 
@@ -65,7 +65,7 @@ if the jumper link is removed or “**parked**” on one pin.
 
 In addition to the built-in magnet switch, an additional 2-pin dry contact terminal is provided for an extension magnet switch or any device with N.C. (Normally Closed) functionality.
 
-1. ![](<.gitbook/assets/5 (7) (1).png>)**Battery Compartment**
+1. ![](<.gitbook/assets/5 (20).png>)**Battery Compartment**
 2. **Magnet**
 3. **Magnet Screw hole**
 4. **Magnet Spacer**
@@ -86,7 +86,7 @@ The extension terminal and the internal magnetic switch can function together to
 
 To connect the device to extension terminal:
 
-![](<.gitbook/assets/6 (4) (1).jpeg>)**For DC-23 model:**
+![](<.gitbook/assets/6 (13).jpeg>)**For DC-23 model:**
 
 1. Open the Door Contact’s cover by using a screwdriver to loosen the cover fixing screw at the bottom of the Door Contact’s cover. (See picture below picture from upper view angle).
 2. The upper end of the front case has a thinner plastic knockout. Break through the knockout to create a hole for the wiring connection to the extension terminal.
@@ -94,7 +94,7 @@ To connect the device to extension terminal:
 
 **For DC-23-R3 model:**
 
-1. ![](<.gitbook/assets/7 (3) (1).jpeg>)Use your thumb to press on the Latch, while pressing it, pull out the cover from the base of the Door Contact (see below picture from upper view angle).
+1. ![](<.gitbook/assets/7 (12).jpeg>)Use your thumb to press on the Latch, while pressing it, pull out the cover from the base of the Door Contact (see below picture from upper view angle).
 2. The upper end of the front case has a thinner plastic knockout. Break through the knockout to create a hole for the wiring connection to the extension terminal.
 3. Connect the device to the extension terminal
 
@@ -104,7 +104,7 @@ The Extension terminal may be useful for the following situation.
 * Any dry contact device with N.C. (Normal Close) loop can be connected to the Extension Terminal making the Door Contact serve as an Universal Transmitter.
 * Multiple dry contact device can be wired together with Door Contact, as show in diagram below.
 
-![](<.gitbook/assets/8 (2) (1) (1).png>)
+![](<.gitbook/assets/8 (13).png>)
 
 * The extension terminal and internal magnetic switch can function together to trigger the Door Contact when either of them is activated, you can also choose to disable the internal magnetic switch through JP3 Jumper setting. If both extension terminal and internal magnetic switch is in use and any of them is triggered (opened). The Door Contact will only send Door Contact close (restore) signal when both of them are closed.
 * _**Battery**_
@@ -156,7 +156,7 @@ Installation
 2. Insert the two white caps into the magnet screw holes for aesthetic integrity.
 3. Installation is now complete.
 
-![](<.gitbook/assets/9 (4) (1).png>)
+![](<.gitbook/assets/9 (19).png>)
 
 FCC Statement
 

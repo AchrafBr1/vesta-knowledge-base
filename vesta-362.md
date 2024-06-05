@@ -4,11 +4,11 @@
 
 SR-35-BUS is a hardwired Indoor Siren that is used for system alarm indication. When an alarm signal is received from the Control Panel, the Wired Indoor Siren will activate to attract attention. The device can also work with the Control Panel to emit entry and exit delay sounds, and also alert you to tamper violation.
 
-![](<.gitbook/assets/0 (3).jpeg>)
+![](<.gitbook/assets/0 (4).jpeg>)
 
 **Identifying the Parts**
 
-![](<.gitbook/assets/1 (4).jpeg>)
+![](<.gitbook/assets/1 (5).jpeg>)
 
 1. **Learn Button**
 2. **Terminal Resistor Jumper Switch**
@@ -17,7 +17,7 @@ When the Wired Indoor Siren is connected as the furthest BUS device on a BUS lin
 
 resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (4).png>)
+![](<.gitbook/assets/2 (9).png>)
 
 **Jumper On**
 
@@ -40,7 +40,7 @@ The tamper switch will be activated when the Siren is removed from the mounting 
 1. **Breakaway Area for BUS Wiring**
 2. **Mounting Bracket**
 
-![](<.gitbook/assets/3 (4).png>)
+![](<.gitbook/assets/3 (8).png>)
 
 1
 
@@ -48,7 +48,7 @@ The tamper switch will be activated when the Siren is removed from the mounting 
 
 * When SR-35-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
 
-![](<.gitbook/assets/5 (1) (1).jpeg>)
+![](<.gitbook/assets/5 (2).jpeg>)
 
 **Supervision**
 
@@ -56,7 +56,7 @@ The Wired Indoor Siren will transmit a supervisory signal every 20-30 seconds in
 
 If this signal is not received, the Control Panel will indicate that the particular Siren is experiencing an out-of-order problem.
 
-![](<.gitbook/assets/6 (4).png>)
+![](<.gitbook/assets/6 (8).png>)
 
 **Function Overview**
 
@@ -85,7 +85,7 @@ If the device detects a tamper condition, it will activate the siren for the pro
 
 While arming / disarming the system, different methods are used to distinguish various statuses for the user, as listed in the table below.
 
-![](<.gitbook/assets/7 (5).png>) ![](<.gitbook/assets/8 (5).png>) ![](<.gitbook/assets/9 (6).png>)
+![](<.gitbook/assets/7 (9).png>) ![](<.gitbook/assets/8 (8).png>) ![](<.gitbook/assets/9 (10).png>)
 
 | **Status**             | **Siren Audio**  |
 | ---------------------- | ---------------- |
@@ -96,7 +96,7 @@ While arming / disarming the system, different methods are used to distinguish v
 | Disarm (Tamper)        | 5 beeps          |
 | Entry/Exit Delay Sound | Count-down beeps |
 
-![](<.gitbook/assets/10 (8).png>) ![](<.gitbook/assets/11 (4).jpeg>) ![](<.gitbook/assets/12 (2).jpeg>)
+![](<.gitbook/assets/10 (12).png>) ![](<.gitbook/assets/11 (4).jpeg>) ![](<.gitbook/assets/12 (3).jpeg>)
 
 **Caution**
 
@@ -122,7 +122,7 @@ While arming / disarming the system, different methods are used to distinguish v
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
-![](<.gitbook/assets/15 (4).png>)
+![](<.gitbook/assets/15 (9).png>)
 
 _\<NOTE>_
 
@@ -131,7 +131,7 @@ _\<NOTE>_
   * After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/16 (7).png>)
+![](<.gitbook/assets/16 (12).png>)
 
 **Learning**
 
@@ -159,7 +159,7 @@ To locate the Wired Indoor Siren in the BUS system:
 
 **Step 2.** If SR-35-BUS receives the signal from the Hybrid Panel, the webpage will display a success message and the Wired Indoor Siren will emit 10 beeps to indicate where it is to the user.
 
-![](<.gitbook/assets/18 (7).png>)
+![](<.gitbook/assets/18 (10).png>)
 
 _\<NOTE>_
 
@@ -167,7 +167,7 @@ _\<NOTE>_
 
 Please check whether SR-35-BUS is connected properly to the Panel within appropriate wiring distance.
 
-![](<.gitbook/assets/19 (6).png>)
+![](<.gitbook/assets/19 (9).png>)
 
 3
 

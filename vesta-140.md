@@ -10,7 +10,7 @@ PRL-8-ZW-AC is a Z-Wave Relay Controller that can be connected to wired devices 
 
 **1. Function Button**
 
-![](<.gitbook/assets/0 (53).jpeg>)
+![](<.gitbook/assets/0 (62).jpeg>)
 
 Press the button 3 times within 1.5 seconds to send a learn code.
 
@@ -57,7 +57,7 @@ The Wiring Buckle is used for managing wires.
 * Humidity: Up to 85% non-condensing
 * Dimension: 86mm x 72mm x 29mm
 
-![](<.gitbook/assets/1 (45).jpeg>)
+![](<.gitbook/assets/1 (56).jpeg>)
 
 **Installation Environment**
 
@@ -68,7 +68,7 @@ The Wiring Buckle is used for managing wires.
 * It is recommended to install the device in a fire resistant plastic gangbox.
 * Do not install the device in a metal gangbox for optimization of Z-Wave range.
 
-![](<.gitbook/assets/2 (41).jpeg>)
+![](<.gitbook/assets/2 (46).jpeg>)
 
 **Caution**
 
@@ -79,7 +79,7 @@ Do not connect the device to loads exceeding supported load current.
 
 **Installation**
 
-![](<.gitbook/assets/3 (38).jpeg>)
+![](<.gitbook/assets/3 (45).jpeg>)
 
 Wiring of the PRL should only be performed by certified technician with proper knowledge and training in electric equipment. Wire the Relay according to the instructions below:
 
@@ -91,13 +91,13 @@ Wiring of the PRL should only be performed by certified technician with proper k
 
 the wiring buckle to manage the wires, and place the wiring buckle on the base with its gap (opening) positioned on the left (as in the diagram below).
 
-![](<.gitbook/assets/4 (39).jpeg>)
+![](<.gitbook/assets/4 (41).jpeg>)
 
 1. Replace the top cover. Turn on the power supply to power on the Relay Controller.
 
 **Z-Wave Network**
 
-![](<.gitbook/assets/5 (51).png>)
+![](<.gitbook/assets/5 (64).png>)
 
 * _**Adding Device (Inclusion)**_
   * Connect the power supply to the Relay Controller according to the installation instruction in previous section and power up the Relay Controller.
@@ -107,7 +107,7 @@ the wiring buckle to manage the wires, and place the wiring buckle on the base w
   * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see _**Removing Device**_).
 * _**Removing Device (Exclusion)**_
 
-![](<.gitbook/assets/6 (33).png>)
+![](<.gitbook/assets/6 (44).png>)
 
 The device must be removed from existing Z-Wave network before being added into another. **Exclusion Mode**
 
@@ -123,7 +123,7 @@ The device must be removed from existing Z-Wave network before being added into 
   * Press and hold the Function Button of the device for 10 seconds to factory reset.
 * _**Range Test**_
 
-![](<.gitbook/assets/7 (28).png>)
+![](<.gitbook/assets/7 (39).png>)
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
@@ -133,7 +133,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 **Operation**
 
-![](<.gitbook/assets/8 (23).jpeg>)
+![](<.gitbook/assets/8 (30).jpeg>)
 
 * _**Relay Control**_
   * When the Relay Controller has successfully joined a Z-Wave network, the gateway/control panel will be able to remotely control the Relay to turn On, Off or toggle between On and Off condition. Please refer to your Z-Wave gateway/control panel for details.

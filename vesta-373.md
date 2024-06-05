@@ -10,7 +10,7 @@ SR-35 – Indoor Siren powered by two alkaline batteries
 
 SR-35SL – Indoor Siren powered by two L91 lithium batteries
 
-![](<.gitbook/assets/0 (62).png>)
+![](<.gitbook/assets/0 (75).png>)
 
 **Identifying the Parts**
 
@@ -27,7 +27,7 @@ The Tamper switch will be activated when the Siren is removed from mounting brac
 1. **Battery Compartment Cover**
 2. **Mounting Bracket**
 
-![](<.gitbook/assets/1 (88).jpeg>)
+![](<.gitbook/assets/1 (99).jpeg>)
 
 **Battery and Low Battery Detection**
 
@@ -42,17 +42,17 @@ When changing the batteries, after removing the used batteries, press the Tamper
 
 1
 
-![](<.gitbook/assets/2 (88).png>)_\<NOTE>_
+![](<.gitbook/assets/2 (99).png>)_\<NOTE>_
 
 * Use only the specified batteries with the device. When replacing batteries, always replace the whole set and do not mix different types of batteries or new and used ones to avoid damaging the device.
 
-![](<.gitbook/assets/3 (73).jpeg>)
+![](<.gitbook/assets/3 (80).jpeg>)
 
 **Supervision**
 
 The Siren will transmit a supervisory signal every 30-50 minutes in normal operation mode. If this signal is not received, the Control Panel will indicate that the particular Siren is experiencing an out-of-order problem.
 
-![](<.gitbook/assets/4 (90).png>)
+![](<.gitbook/assets/4 (101).png>)
 
 **Function Overview**
 
@@ -83,7 +83,7 @@ The tamper feature can be disabled temporaily from the Control Panel using the S
 
 While arming / disarming the system, the Siren uses different methods to distinguish various statuses for the user, as listed in the table below.
 
-![](<.gitbook/assets/5 (89).png>) ![](<.gitbook/assets/6 (71).png>) ![](<.gitbook/assets/7 (61).png>)
+![](<.gitbook/assets/5 (102).png>) ![](<.gitbook/assets/6 (82).png>) ![](<.gitbook/assets/7 (72).png>)
 
 | **Status**           | **Siren Audio**  |
 | -------------------- | ---------------- |
@@ -96,11 +96,11 @@ While arming / disarming the system, the Siren uses different methods to disting
 | Disarm (Tamper)      | 5 beeps          |
 | Entry/Exit Sound     | Count-down beeps |
 
-![](<.gitbook/assets/8 (61).png>)
+![](<.gitbook/assets/8 (72).png>)
 
 * The Siren’s Audio indication will be affected by the Confirmation ON / OFF setting. When setting Confirmation to OFF, the confirmation sound will not be available. Refer to the Control Panel’s Siren Setting for Confirmation function.
 
-![](<.gitbook/assets/9 (57).png>)
+![](<.gitbook/assets/9 (71).png>)
 
 **Getting Started**
 
@@ -124,7 +124,7 @@ Step 6: If the Control Panel receives the learning code, it will list the device
 
 Step 7: Refer to the Control Panel’s user manual and use the “Edit Device” function to check Siren Settings. You can edit the operation area, zone number, and device name for the Siren.
 
-![](<.gitbook/assets/10 (59).png>)
+![](<.gitbook/assets/10 (67).png>)
 
 _\<NOTE>_
 
@@ -141,17 +141,17 @@ The Siren will return to normal operation.
 
 * **Programming Sound/Siren Setting**
 
-![](<.gitbook/assets/11 (32).jpeg>)
+![](<.gitbook/assets/11 (33).jpeg>)
 
 Use the Control Panel’s “**Sound/Siren Setting**” webpage to set siren configuration function:
 
-![](<.gitbook/assets/12 (30).jpeg>) ![](<.gitbook/assets/13 (35).jpeg>)
+![](<.gitbook/assets/12 (32).jpeg>) ![](<.gitbook/assets/13 (36).jpeg>)
 
 * _**Tamper On/ Tamper Off**_
 
 You can enable or disable all RF Sirens’ tamper protection with this function. Select to turn on or off the siren’s tamper function.
 
-![](<.gitbook/assets/14 (40).png>)
+![](<.gitbook/assets/14 (47).png>)
 
 _\<NOTE>_
 
@@ -206,7 +206,7 @@ Step 3. Push in the plugs and fix the mounting bracket on the wall with the 3 sc
 
 Step 4. Mount the Siren with the hooks of the mounting bracket latched on the back cover of the Siren, and then push downwards until you hear a click sound.
 
-![](<.gitbook/assets/17 (32).png>)
+![](<.gitbook/assets/17 (37).png>)
 
 _\<NOTE>_
 
@@ -216,7 +216,7 @@ Step 5. Check if the installation is successful by testing from the Control Pane
 
 Successful arming/disarming is indicated by the table provided in **Audio Status Indication**.
 
-![](<.gitbook/assets/18 (39).png>)
+![](<.gitbook/assets/18 (42).png>)
 
 _\<NOTE>_
 
@@ -224,13 +224,13 @@ _\<NOTE>_
 
 Step 6. The installation is now completed.
 
-![](<.gitbook/assets/19 (39).png>)
+![](<.gitbook/assets/19 (42).png>)
 
 **Changing the Batteries**
 
 Step 1: Disable the Siren Tamper function on the Control Panel. The Siren will sound a beep to indicate the tamper switch is now disabled.
 
-![](<.gitbook/assets/20 (28).png>)
+![](<.gitbook/assets/20 (32).png>)
 
 _\<NOTE>_
 

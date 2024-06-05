@@ -6,7 +6,7 @@ TS-29 is a wireless temperature sensor. It transmits temperature condition to th
 
 * _**Part Idenfication**_
 
-![](<.gitbook/assets/0 (56).jpeg>)
+![](<.gitbook/assets/0 (65).jpeg>)
 
 **1. Function Button**
 
@@ -27,7 +27,7 @@ sent to the Control Panel along with regular signal transmissions for the Contro
   * When inserting battery, the positive (+) side of the battery must face upward. NEVER insert the battery with negative (-) side facing upward.
 * _**Getting Started**_
 
-![](<.gitbook/assets/1 (51).png>)
+![](<.gitbook/assets/1 (62).png>)
 
 **Step 1** Use a sharp tool to open the battery slot to insert a battery.
 

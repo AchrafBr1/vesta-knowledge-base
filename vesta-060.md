@@ -4,7 +4,7 @@ Door Contact / Shock Vibration Sensor (DCSV-23)
 
 DCSV-23 is a Door Contact / Shock Sensor is capable of sending a door open signal to the Control Panel upon detection of door/window opening or shock/vibration detection.
 
-![DCSV-23ZBS](<.gitbook/assets/0 (13).jpeg>)The Door Contact / Shock Vibration Sensor design consists of a cover and base. The cover contains all electronics and the base provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening and/or removal.
+![DCSV-23ZBS](<.gitbook/assets/0 (22).jpeg>)The Door Contact / Shock Vibration Sensor design consists of a cover and base. The cover contains all electronics and the base provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening and/or removal.
 
 Parts Identification
 
@@ -40,7 +40,7 @@ Features
 
 Jumper **ON** (The jumper link is inserted): The Reed Switch is _**disabled.**_
 
-![jumper open](<.gitbook/assets/3 (21).png>)
+![jumper open](<.gitbook/assets/3 (31).png>)
 
 Jumper **OFF** (The jumper link is removed or parked on one pin): The Reed Switch is _**enabled**_ and device now works as a Door Contact. (_**Default**_)
 
@@ -60,9 +60,9 @@ The device is triggered by either of the following condition:
 
 * The detection modes are selected using jumper switch JP3:
 
-![jumper close](<.gitbook/assets/4 (20).png>)Jumper **ON** (The jumper link is inserted): **Single Pulse Mode**. (_**Default**_)
+![jumper close](<.gitbook/assets/4 (31).png>)Jumper **ON** (The jumper link is inserted): **Single Pulse Mode**. (_**Default**_)
 
-![jumper open](<.gitbook/assets/5 (13).png>)Jumper **OFF** (The jumper link is removed or parked on one pin): **Pulse Count / Accumulated Vibration Mode**
+![jumper open](<.gitbook/assets/5 (26).png>)Jumper **OFF** (The jumper link is removed or parked on one pin): **Pulse Count / Accumulated Vibration Mode**
 
 * _**Sensitivity Adjustment**_
 * Use the jumper switch JP4 and JP5 to determine the sensitivity required to activate the Door Contact / Shock Vibration Sensor. Refer to table below to select desired sensitivity.
@@ -98,7 +98,7 @@ Installation
 
 * _Mounting the Door Contact / Shock Vibration Sensor_
 
-![](<.gitbook/assets/6 (9).png>) **Mounting as Door Contact:**
+![](<.gitbook/assets/6 (20).png>) **Mounting as Door Contact:**
 
 * The Door Contact / Shock Vibration Sensor should be installed either upright or inverted to ensure the rib-marked side faces the magnet.
 * The distance between Door Contact / Shock Vibration Sensor and the magnet should be no more than 15mm when the door is closed.
@@ -121,7 +121,7 @@ Installation
 | Medium                                         | 3000mm                                   | 2000mm                                | 1500mm        | -                        |   |
 | High                                           | 4000mm                                   | 3000mm                                | 2000mm        | 1400mm                   |   |
 
-![](<.gitbook/assets/7 (6) (1).png>)
+![](<.gitbook/assets/7 (17).png>)
 
 * _Mounting Procedure_
 
@@ -141,4 +141,4 @@ Installation
 \<NOTE>
 
 * Don’t mount the device on surface materials where frequent vibration occurs, to prevent false alarming.
-* ![](<.gitbook/assets/8 (6) (1).png>)When mounting on safety box, mount the Door Contact / Shock Sensor no more than 2cm away from the door pivot (refer to the below picture).
+* ![](<.gitbook/assets/8 (17).png>)When mounting on safety box, mount the Door Contact / Shock Sensor no more than 2cm away from the door pivot (refer to the below picture).

@@ -18,7 +18,7 @@ The SDCO-1 Series include the following models:
 
 Parts Identification
 
-![](<.gitbook/assets/0 (11).png>)
+![](<.gitbook/assets/0 (24).png>)
 
 1. **Test Button**
 
@@ -184,14 +184,14 @@ The SDCO will calibrate its smoke detector sensor every time when power is appli
 3. After the Smoke Detector finishes recalibration, it will emit two quick beeps to indicate. The LED will turn off.
 4. If calibration process fails, Smoke Detector will emit alarm sound. Please remove and reinsert battery to restart process again.
 
-![100-2](<.gitbook/assets/1 (15).png>)Installation
+![100-2](<.gitbook/assets/1 (26).png>)Installation
 
 * Installation Guideline
 * It is recommended that the installation site be in the center area of the ceiling.
 * The ideal mounting height for the SDCO Detector is 2.4 meters to 3 meters. Mounting above 3 meters can affect detection performance.
 * Do not locate the detector in the following locations:
 * The Kitchen – Smoke from cooking might cause an unwanted alarm.
-* ![100-3](<.gitbook/assets/2 (18).png>)Near a ventilating fan, florescent lamp or air-conditioning equipment – air drafts from them may affect the sensitivity of the detector.
+* ![100-3](<.gitbook/assets/2 (29).png>)Near a ventilating fan, florescent lamp or air-conditioning equipment – air drafts from them may affect the sensitivity of the detector.
 * Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the detector.
 * In the peak of an “A” frame type of ceiling.
 * Installation Recommendation
@@ -216,7 +216,7 @@ The SDCO will calibrate its smoke detector sensor every time when power is appli
 
 **Step 7.** The SDCO has three notches on its back cover for easy identification, as shown below.
 
-![](<.gitbook/assets/3 (17).png>)
+![](<.gitbook/assets/3 (27).png>)
 
 **Step 8.** Hold the SDCO Detector with extra care and align the three notches with the hooks on the mounting bracket.
 

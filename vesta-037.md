@@ -4,7 +4,7 @@
 
 The Glass Break Detector detects the high frequency sound emitted by glass breakage and transmits signal to notify the alarm system control panel when it is triggered.
 
-![](<.gitbook/assets/0 (31).png>)
+![](<.gitbook/assets/0 (44).png>)
 
 * _**Parts Identification**_
   *
@@ -37,7 +37,7 @@ The Breakaway Area has 2 knockouts where plastic is thinner for screw mounting. 
       * Learn/Test button is pressed.
       * Glass break detected under Test Mode, Low Battery or Tamper open condition
 
-![](<.gitbook/assets/1 (28).jpeg>)
+![](<.gitbook/assets/1 (39).jpeg>)
 
 (The Red LED does not light up when glass break is detected during normal operation)
 
@@ -48,7 +48,7 @@ The Green LED activates when glass break is detected under Test mode.
 
 * _**Getting Started**_
 
-![](<.gitbook/assets/2 (26).jpeg>) ![](<.gitbook/assets/3 (24).jpeg>)
+![](<.gitbook/assets/2 (31).jpeg>) ![](<.gitbook/assets/3 (31).jpeg>)
 
 *
   1. Insert the battery to power on the device.
@@ -57,7 +57,7 @@ The Green LED activates when glass break is detected under Test mode.
   4. Refer to panel manual to complete learning process.
 * _**Sensitivity Adjustment**_
 
-![](<.gitbook/assets/4 (37).png>) ![](<.gitbook/assets/5 (33).png>)
+![](<.gitbook/assets/4 (48).png>) ![](<.gitbook/assets/5 (46).png>)
 
 The Glass Break Detector sensitivity can be adjusted using the two dip switches. Adjust the sensitivity to change detector range.
 
@@ -75,7 +75,7 @@ The Glass Break Detector sensitivity can be adjusted using the two dip switches.
 | Minimum     | ON           | ON           | 1.5m            |
 |             |              |              |                 |
 
-![](<.gitbook/assets/6 (22).jpeg>)
+![](<.gitbook/assets/6 (31).jpeg>)
 
 * _**Test Mode**_
 
@@ -83,13 +83,13 @@ The Test mode is used to help check the Glass Break Detector’s detection dista
 
 During Test mode, the Red LEDs will light up when glass break is detected.
 
-![](<.gitbook/assets/7 (20).jpeg>)
+![](<.gitbook/assets/7 (29).jpeg>)
 
 * _**Testing the Detector**_
 
 The Detector should be tested to ensure it is able to detect glass breakage successfully.
 
-![](<.gitbook/assets/8 (14).jpeg>)
+![](<.gitbook/assets/8 (21).jpeg>)
 
 **Testing Tool**
 
@@ -99,7 +99,7 @@ Use the FlexGuard FG-701 Glassbreak Simulator to create glass break sound.
 2. Put FG-701 at desired testing location on the glass and point the speaker at the Detector. Close the window covering if it is present.
 3. Strike the glass with a cushioned tool to create a glass striking sound. When FG-701 detects the glass striking sound, it will react by emitting glass break sound.
 
-![](<.gitbook/assets/9 (10).jpeg>)
+![](<.gitbook/assets/9 (13).jpeg>)
 
 **Testing the Detector**
 
@@ -112,7 +112,7 @@ Put the detector at the desired installation location, and make sure the sensiti
 3. Press the red start button of the FG-701. Within 8 seconds, strike the glass with a cushioned tool to create a glass striking sound. The FG-701 will respond by producing a burst of glass-break audio.
 4. ACGS-23 will be activated if both glass striking and glass break sounds are properly received. The Green LED will flash quickly and Red LED will light up, glass break signal will be transmitted to the control panel.
 
-![](<.gitbook/assets/10 (19).png>)
+![](<.gitbook/assets/10 (27).png>)
 
 _\<NOTE>_
 
@@ -120,11 +120,11 @@ _\<NOTE>_
   * After the red start button of the FG-701 is pressed, if there is no action for 8 seconds, the simulator will automatically "click" off. You will need to press the start button again to restart testing.
 * _**Supervision Function**_
 
-![](<.gitbook/assets/11 (15).jpeg>)
+![](<.gitbook/assets/11 (16).jpeg>)
 
 When the Glass Break Detector is in normal operation, it will transmit a supervision signal regularly every 30\~50 minutes.
 
-![](<.gitbook/assets/12 (10).jpeg>)
+![](<.gitbook/assets/12 (12).jpeg>)
 
 * _**Battery**_
 
@@ -134,7 +134,7 @@ The Glass Break Detector can detect low battery voltage. When low battery voltag
 
 When changing battery, press the learn/test button a couple times to discharge after removing battery before inserting a new one.
 
-![](<.gitbook/assets/13 (10).jpeg>)
+![](<.gitbook/assets/13 (11).jpeg>)
 
 * _**Glass Thickness**_
 
@@ -146,7 +146,7 @@ Wired Glass: 3.2 to 6.4 mm (1/8 to 1/4")
 
 Laminated Glass 3.2 to 6.4 mm (1/8" to 1/4")
 
-![](<.gitbook/assets/14 (11).jpeg>)
+![](<.gitbook/assets/14 (13).jpeg>)
 
 * _**Installation**_
 
@@ -159,7 +159,7 @@ The Glass Break Detector should be mounted on ceiling or wall. For the optimal d
 
 Screw Mounting
 
-![](<.gitbook/assets/15 (13).png>)
+![](<.gitbook/assets/15 (21).png>)
 
 1. Break through the knockouts on back cover and use them as template to mark position on wall/ceiling.
 2. Drill holes at marked location and screw the back cover onto the wall/ceiling, insert wall plug if needed.
@@ -177,6 +177,6 @@ When using provided double side adhesive tape, make sure to install the detector
 2. Apply the double side adhesive tape to back cover of detector, then apply to mounting location. _\<NOTE>_
    * When mounting with double side adhesive tape, the tamper protection for mounting location removal will be disabled. Protection from cover opening is still available.
 
-![](<.gitbook/assets/18 (12).png>)
+![](<.gitbook/assets/18 (15).png>)
 
 3

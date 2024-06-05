@@ -10,7 +10,7 @@ The Room Sensor utilizes ZigBee technology for wireless signal transmission. Zig
 
 The Room Sensor serves as an end device in the ZigBee network. It can be included in the ZigBee network to transmit signal upon activation, but cannot permit any other ZigBee device to join the network through the Room Sensor.
 
-![](<.gitbook/assets/0 (72).jpeg>)
+![](<.gitbook/assets/0 (81).jpeg>)
 
 **Parts Identification**
 
@@ -21,7 +21,7 @@ The LCD displays the following information:
 *
   * Temperature in Farenheit / Celcius setting
   * Humidity RH%.
-  * ZigBee network connectivity ( ![](<.gitbook/assets/1 (64).jpeg>) icon).
+  * ZigBee network connectivity ( ![](<.gitbook/assets/1 (75).jpeg>) icon).
   * Low Battery status (icon).
   * LCD Backlight on: when function button is pressed.
 
@@ -35,7 +35,7 @@ Send a supervision signal with temperature/humidity info Light up the LCD backli
 
 1. **Base Screw (Open/Close Cover)**
 
-![](<.gitbook/assets/2 (58).jpeg>)
+![](<.gitbook/assets/2 (63).jpeg>)
 
 When the front cover is installed on the back cover, open the cover by loosen the base screw and close it likewise.
 
@@ -44,7 +44,7 @@ When the front cover is installed on the back cover, open the cover by loosen th
    * If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
 2. **Battery Compartment**
 
-![](<.gitbook/assets/3 (64).png>)
+![](<.gitbook/assets/3 (74).png>)
 
 The Room Sensor is powered by two AA 1.5 V Alkaline batteries
 

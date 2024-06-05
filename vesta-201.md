@@ -4,7 +4,7 @@
 
 SVGS-1 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wireless signals to the Control Panel upon detection of window glass break or shock/vibration.
 
-![](<.gitbook/assets/0 (82).jpeg>)
+![](<.gitbook/assets/0 (91).jpeg>)
 
 **Parts Identification**
 
@@ -21,7 +21,7 @@ The LED flashes when:
 
 **Features**
 
-![](<.gitbook/assets/1 (61).png>)
+![](<.gitbook/assets/1 (72).png>)
 
 * _**Battery and Low Battery Detection**_
   * The Sensor uses one **CR2032 3V** Lithium battery as its power source. Please note: **ALWAYS** replace battery with the correct size and voltage.
@@ -31,13 +31,13 @@ The LED flashes when:
   * When inserting battery, the **positive(+)** side of the battery must face upward. **NEVER** insert the battery with negative(-) side facing upward.
   * When the battery is inserted, the LED indicator will light up briefly.
 
-![](<.gitbook/assets/2 (65).png>)
+![](<.gitbook/assets/2 (76).png>)
 
 * _**Supervision**_
 
 The Sensor will transmit a supervision signal to report its condition regularly according to the user’s setting. The factory default interval is 30-40 minutes. The user can also press the Test Button once to transmit a supervision signal manually.
 
-![](<.gitbook/assets/3 (67).png>)
+![](<.gitbook/assets/3 (77).png>)
 
 * _**Sensitivity**_
 
@@ -71,7 +71,7 @@ III. Release the button when the LED flash for the third time to set sensitivity
 
 **Learning and Installation**
 
-![](<.gitbook/assets/4 (66).png>)
+![](<.gitbook/assets/4 (77).png>)
 
 * _**Learning**_
   1. Pull out the battery insulator power on the sensor.
@@ -85,20 +85,20 @@ III. Release the button when the LED flash for the third time to set sensitivity
   4. Adjust the sensor’s sensitivity as desired according to the table in previous section.
   5. Determine the mounting location on window or wall. The sensor may be mounted at the center of or at the corner. If one sensor is unable to cover the entire surface, use multiple sensors.
 
-![](<.gitbook/assets/5 (67).png>) ![](<.gitbook/assets/6 (47).png>)
+![](<.gitbook/assets/5 (80).png>) ![](<.gitbook/assets/6 (58).png>)
 
 _\<NOTE>_
 
 * When mounting at corner, make sure to keep at least 10mm distance between the sensor and the edge of window or wall. Adjust the battery slot direction (**Do not face the corner**) to avoid difficulty when removing the battery slot.
 
-![](<.gitbook/assets/7 (42).png>)
+![](<.gitbook/assets/7 (53).png>)
 
 1. Clean and dry the mounting location. Do not install on dirty or web surface.
 2. Use the provided double-sided adhesive tape (Ø35mm x 8mm) to apply to the back cover of SVGS-1 and stick the
 
 sensor onto window/wall.
 
-![](<.gitbook/assets/8 (42).png>) ![](<.gitbook/assets/9 (30).jpeg>)
+![](<.gitbook/assets/8 (53).png>) ![](<.gitbook/assets/9 (33).jpeg>)
 
 _\<NOTE>_
 
@@ -120,6 +120,6 @@ Make sure to test the sensor if chosen to mount at such location.
 *
   * Sensor detection range is affected by double-side adhesive tape size and material. The sensitivity-range table provided in this document is tested with factory provided adhesive tape. If different adhesive tape is used, make sure to retest the detection range.
 
-![](<.gitbook/assets/10 (42).png>)
+![](<.gitbook/assets/10 (50).png>)
 
 2

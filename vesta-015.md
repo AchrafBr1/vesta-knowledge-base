@@ -23,7 +23,7 @@ The test button and also doubles as the LED indicator. The test button is used f
 1. **IR Sensor**
 2. **Sensitivity Increaser Jumper Switch (JP3)**
 
-![](<.gitbook/assets/0 (25).jpeg>)
+![](<.gitbook/assets/0 (34).jpeg>)
 
 It is a 2-pin jumper switch
 
@@ -31,7 +31,7 @@ It is a 2-pin jumper switch
 
 the the PIR’s detection sensitivity is in normal level. (**Factory default**)
 
-![](<.gitbook/assets/1 (18).jpeg>)
+![](<.gitbook/assets/1 (29).jpeg>)
 
 *
   * If the jumper is ON, the PIR’s detection sensitivity is high.
@@ -67,11 +67,11 @@ In Normal operation mode, the LED Indicator will not light except in the followi
 
 _**PIR Main Body**_
 
-![](<.gitbook/assets/2 (17).jpeg>)
+![](<.gitbook/assets/2 (22).jpeg>)
 
 _**Back Cover**_
 
-![](<.gitbook/assets/3 (16).jpeg>)
+![](<.gitbook/assets/3 (23).jpeg>)
 
 The PIR has a “**sleep time**” of approximately 1 minute to conserve power. After transmitting a detected movement, the PIR will not retransmit for 1 minute; any further movement detected during this sleep period will extend the sleep time by another minute. In this way continuous movement in front of a PIR will not unduly exhaust the battery.
 
@@ -127,7 +127,7 @@ _\<NOTE>_
   * To find out the “sides” of the PIR. Hold the PIR with LED indicator pointing upward, and the left and right sides of the PIR are considered the PIR’s sides. The PIR sensor is most sensitive when the intruder is moving from one side to the other
 * Refer to the diagrams below for more information.
 
-![](<.gitbook/assets/4 (32).png>)
+![](<.gitbook/assets/4 (43).png>)
 
 * **It is recommended to install the PIR in the following locations.**
   * In an ceiling area with full view of its detection coverage unobstructed by appliances and furniture.
@@ -163,12 +163,12 @@ IV. The back cover has numbers on the insides to mark the mounting hole number, 
 
 _**PIR Main Body Rear View**_ _**Back Cover Inside View**_
 
-![](<.gitbook/assets/5 (13).jpeg>)
+![](<.gitbook/assets/5 (20).jpeg>)
 
 1. Install the PIR main body onto the back cover. Fit the hooks on the back cover to the mounting holes on PIR main body VI. Rotate the PIR main body clockwise to lock the hooks into the mounting hole. Refer to figure below,
 
 VII. PIR mounting is now complete.
 
-![](<.gitbook/assets/6 (16).jpeg>)
+![](<.gitbook/assets/6 (25).jpeg>)
 
 3

@@ -14,7 +14,7 @@ The Z-Wave Room Sensor series includes the following models:
 
 RS-23-ZW
 
-![](<.gitbook/assets/0 (33).png>)
+![](<.gitbook/assets/0 (46).png>)
 
 RS-23-ZW-OTA
 
@@ -26,9 +26,9 @@ The LCD displays the following information:
 
 * Temperature in Farenheit / Celcius setting
 * Humidity RH%.
-* Z-Wave network connectivity (![](<.gitbook/assets/1 (30).jpeg>) icon).
+* Z-Wave network connectivity (![](<.gitbook/assets/1 (41).jpeg>) icon).
 
-![](<.gitbook/assets/2 (27).jpeg>)
+![](<.gitbook/assets/2 (32).jpeg>)
 
 \- Low Battery status ( icon).
 
@@ -53,7 +53,7 @@ When the front cover is installed on the back cover, open the cover by loosen th
    * If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
 2. **Battery Compartment**
 
-![](<.gitbook/assets/3 (25).jpeg>) ![](<.gitbook/assets/4 (27).jpeg>)
+![](<.gitbook/assets/3 (32).jpeg>) ![](<.gitbook/assets/4 (29).jpeg>)
 
 The Room Sensor is powered by two AA 1.5 V Alkaline batteries
 

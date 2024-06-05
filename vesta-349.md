@@ -1,22 +1,22 @@
 # VESTA 349
 
-![](<.gitbook/assets/0 (61).png>)VCP-LTE-SV Quick Start Guide
+![](<.gitbook/assets/0 (74).png>)VCP-LTE-SV Quick Start Guide
 
 **1. Package Content**
 
-![](<.gitbook/assets/1 (80).png>)
+![](<.gitbook/assets/1 (91).png>)
 
 Voice Call Point A power supply (DC 9V 1A SPS adaptor) A Wall Mounting Bracket
 
 **2. Identifying the Parts**
 
-![](<.gitbook/assets/2 (87).png>) ![](<.gitbook/assets/3 (85).png>) ![](<.gitbook/assets/4 (89).png>)
+![](<.gitbook/assets/2 (98).png>) ![](<.gitbook/assets/3 (95).png>) ![](<.gitbook/assets/4 (100).png>)
 
 ▼ Front View ▼ Side View ▼ Back View
 
 LED Indicator (Red) LED Indicator (Green)
 
-![](<.gitbook/assets/5 (88).png>) ![](<.gitbook/assets/6 (70).png>)
+![](<.gitbook/assets/5 (101).png>) ![](<.gitbook/assets/6 (81).png>)
 
 Speaker
 
@@ -26,7 +26,7 @@ Alarm Button
 
 DC Jack
 
-![](<.gitbook/assets/7 (60).png>)
+![](<.gitbook/assets/7 (71).png>)
 
 Battery
 
@@ -53,7 +53,7 @@ Micro USB Jack Nano SIM Card Slot
 |                           | Flashes once every 5 seconds: | GSM fault.                                       |
 |                           |                               |                                                  |
 
-![](<.gitbook/assets/8 (60).png>)
+![](<.gitbook/assets/8 (71).png>)
 
 **3. Power Supply**
 
@@ -63,7 +63,7 @@ In addition to the AC power adapter, a rechargeable battery is installed inside 
 
 You need to switch the battery switch to ON for the battery to be charged when AC power is connected and serve as a backup power source when AC power is missing.
 
-![](<.gitbook/assets/9 (56).png>)
+![](<.gitbook/assets/9 (70).png>)
 
 **4. Hardware Installation**
 
@@ -77,7 +77,7 @@ You need to switch the battery switch to ON for the battery to be charged when A
 
 • SIM Card will delete its SMS messages whenever the VCP-LTE-SV is powered on.
 
-![](<.gitbook/assets/10 (58).png>)
+![](<.gitbook/assets/10 (66).png>)
 
 *
   * _**Note >**_
@@ -96,21 +96,21 @@ You need to switch the battery switch to ON for the battery to be charged when A
 
 **Step 4.** Connect a DC 9V 1A SPS power adapter to the DC jack of VCP-LTE-SV and keep the cable well-placed.
 
-![](<.gitbook/assets/11 (48).png>)
+![](<.gitbook/assets/11 (56).png>)
 
-ON ![](<.gitbook/assets/12 (49).png>)![](<.gitbook/assets/13 (38).png>)
+ON ![](<.gitbook/assets/12 (56).png>)![](<.gitbook/assets/13 (46).png>)
 
-ON ![](<.gitbook/assets/14 (39).png>)
+ON ![](<.gitbook/assets/14 (46).png>)
 
 **Step 5.** Fit VCP-LTE-SV onto the mounting bracket. Make sure the imprinted mark on VCP-LTE-SV is aligned with the upper mark on the bracket.
 
 **Step 6.** Rotate VCP-LTE-SV clockwise to the lock position.
 
-![](<.gitbook/assets/15 (38).png>)
+![](<.gitbook/assets/15 (46).png>)
 
-![](<.gitbook/assets/16 (40).png>)![](<.gitbook/assets/17 (31).png>)![](<.gitbook/assets/18 (38).png>) Open position
+![](<.gitbook/assets/16 (48).png>)![](<.gitbook/assets/17 (36).png>)![](<.gitbook/assets/18 (41).png>) Open position
 
-![](<.gitbook/assets/19 (38).png>)![](<.gitbook/assets/20 (27).png>) Lock position
+![](<.gitbook/assets/19 (41).png>)![](<.gitbook/assets/20 (31).png>) Lock position
 
 **Surface Placement**
 

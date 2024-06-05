@@ -13,7 +13,7 @@ _**Waterproof**_
   * Press and hold the Active Button for 8 seconds to send a Cancel Code to the Control Panel. (This function is not compatible with every control panel).
 * _**Learn in the Transmitter**_
 
-![](<.gitbook/assets/0 (42).jpeg>)
+![](<.gitbook/assets/0 (51).jpeg>)
 
 Step 1. Put the Control Panel into the learning mode.
 
@@ -39,15 +39,15 @@ The Wrist Transmitter features Auto Low Battery detection function.
 
 **STEP 1.** Insert the pendant into the wristband cover.
 
-![](<.gitbook/assets/1 (36).jpeg>)
+![](<.gitbook/assets/1 (47).jpeg>)
 
 **STEP 2.** Thread the band through the wristband cover.
 
-![](<.gitbook/assets/2 (47).png>)
+![](<.gitbook/assets/2 (58).png>)
 
 **Step 3.** Continue to thread through and the wristband is done.
 
-![](<.gitbook/assets/3 (28).jpeg>)
+![](<.gitbook/assets/3 (35).jpeg>)
 
 1
 
@@ -55,15 +55,15 @@ The Wrist Transmitter features Auto Low Battery detection function.
 
 **STEP 1.** Thread the neck cord through the hook.
 
-![](<.gitbook/assets/4 (31).jpeg>)
+![](<.gitbook/assets/4 (33).jpeg>)
 
 **STEP 2.** Thread the small cap through the thread and make a knot near the end of the thread.
 
-![](<.gitbook/assets/5 (20).jpeg>)
+![](<.gitbook/assets/5 (27).jpeg>)
 
 **Step 3.** Connect the caps at both ends of the thread.
 
-![](<.gitbook/assets/6 (27).jpeg>)
+![](<.gitbook/assets/6 (36).jpeg>)
 
 * _**Compliance with Standards**_
 

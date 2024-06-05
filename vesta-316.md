@@ -1,10 +1,10 @@
 # VESTA 316
 
-![](<.gitbook/assets/0 (59).png>)Mobile Lite-R29 Quick Start Guide
+![](<.gitbook/assets/0 (72).png>)Mobile Lite-R29 Quick Start Guide
 
 **1.Package Content**
 
-![](<.gitbook/assets/1 (73).png>)
+![](<.gitbook/assets/1 (84).png>)
 
 | Mobile Lite-R29 | Charging & Programming | Regular Micro USB Cable | 5V/1A Adaptor | Lanyard | Belt Clip |
 | --------------- | ---------------------- | ----------------------- | ------------- | ------- | --------- |
@@ -14,11 +14,11 @@
 
 **Mobile Lite-R29**
 
-![](<.gitbook/assets/2 (82).png>) ![](<.gitbook/assets/3 (80).png>)
+![](<.gitbook/assets/2 (93).png>) ![](<.gitbook/assets/3 (90).png>)
 
 Front View Side View
 
-![](<.gitbook/assets/4 (84).png>) ![](<.gitbook/assets/5 (83).png>) ![](<.gitbook/assets/6 (63).png>)
+![](<.gitbook/assets/4 (95).png>) ![](<.gitbook/assets/5 (96).png>) ![](<.gitbook/assets/6 (74).png>)
 
 Microphone
 
@@ -26,7 +26,7 @@ Active Button
 
 LED (Green/Red)
 
-![](<.gitbook/assets/7 (57).png>)![](<.gitbook/assets/8 (58).png>) LED (Amber)
+![](<.gitbook/assets/7 (68).png>)![](<.gitbook/assets/8 (69).png>) LED (Amber)
 
 SIM Card Cover
 
@@ -34,7 +34,7 @@ Fixing Screw
 
 Speaker
 
-![](<.gitbook/assets/9 (53).png>)
+![](<.gitbook/assets/9 (67).png>)
 
 | SIM Card | SIM Card Slot |
 | -------- | ------------- |
@@ -63,7 +63,7 @@ Speaker
 | **Bottom LED (Amber)**  | 1 Flash every 3 seconds                                                         | Cellular Network fault                        |                                           |   |   |
 |                         |                                                                                 |                                               | Contact Plates                            |   |   |
 
-![](<.gitbook/assets/10 (55).png>)
+![](<.gitbook/assets/10 (63).png>)
 
 **3.Power Supply**
 
@@ -83,7 +83,7 @@ To charge Mobile Lite, please place Mobile Lite into the Charging Cradle, and ma
 
 **Step 3.** Replace the Protective Cover and tighten the Protective Cover Fixing Screws using a Philips screwdriver.
 
-![](<.gitbook/assets/11 (44).png>)
+![](<.gitbook/assets/11 (52).png>)
 
 _**< NOTE >**_
 
@@ -93,7 +93,7 @@ _**< NOTE >**_
 
 **4.2 Lanyard and Belt Clip**
 
-![](<.gitbook/assets/12 (47).png>)
+![](<.gitbook/assets/12 (54).png>)
 
 **Lanyard Attachment**
 
@@ -111,7 +111,7 @@ Press the button and then push the hook backward to remove the lanyard.
 | attach the Mobile Lite to the     |                                      |   |   |   |
 | user’s waistband or belt.         |                                      |   |   |   |
 
-![](<.gitbook/assets/13 (35).png>)
+![](<.gitbook/assets/13 (43).png>)
 
 _**< NOTE >**_
 
@@ -127,14 +127,14 @@ To use PC Programming Tool for programming Mobile Lite, follow the steps below:
 
 **Step 3.** Insert the programming end of the Programming Micro USB Cable into a computer USB port.
 
-![](<.gitbook/assets/14 (35).png>)
+![](<.gitbook/assets/14 (42).png>)
 
 * _**WARNING >**_
   * _If programming cable is not provided, please contact your supplier. DO NOT attempt to connect Mobile Lite to computer with a Regular Micro USB cable._
 
 Programming Regular
 
-![](<.gitbook/assets/15 (35).png>)
+![](<.gitbook/assets/15 (43).png>)
 
 Micro-USB Cable Micro-USB Cable
 
@@ -155,6 +155,6 @@ Micro-USB Cable Micro-USB Cable
 | “**Mobile Lite R29 Installer Guide**” from Climax’s website.                  |                                                                  |   |   |
 |                                                                               |                                                                  |   |   |
 
-![](<.gitbook/assets/16 (37).png>)
+![](<.gitbook/assets/16 (45).png>)
 
 **2** 2021.11.3

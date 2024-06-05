@@ -1,16 +1,16 @@
 # VESTA 114
 
-![](<.gitbook/assets/0 (5).jpeg>)**WIRED/WIRELESS COMBO KEYPAD (KP-35-COMBO)**
+![](<.gitbook/assets/0 (6).jpeg>)**WIRED/WIRELESS COMBO KEYPAD (KP-35-COMBO)**
 
 KP-35-COMBO is a hardwired and wireless keypad designed to have quick access control of the system control panel. The keypad can send wired and wireless signals to and receive signals from the Control Panel within wire distance, depending on the wire gauge and the total power consumption of all wired devices. The LCD screen will display information the system control panel sends back.
 
 The wired/wireless keypad can either be mounted on a flat surface or a wall with screws. It also has a tamper protection switch which will be activated upon any unauthorized attempt to open the back cover.
 
-![](<.gitbook/assets/1 (7).jpeg>)
+![](<.gitbook/assets/1 (8).jpeg>)
 
 * **Parts Identification**
 
-![](<.gitbook/assets/2 (7).jpeg>)
+![](<.gitbook/assets/2 (8).jpeg>)
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -23,7 +23,7 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 6. **Backlit Pound (＃) Key**
 7. **Backlit OK Key**
    * For confirming the keyed-in data or confirming the selection.
-8. **Backlit Restore (**![](<.gitbook/assets/3 (6).jpeg>)) **Key**
+8. **Backlit Restore (**![](<.gitbook/assets/3 (7).jpeg>)) **Key**
    * This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
 9. **Backlit Arm/ Key**
    * Use this key to move the cursor and scroll the display upwards
@@ -44,17 +44,17 @@ BUS Terminal on the Control Panel. Up to four KP-35-Combos can be _**Keypad Wiri
 2. **Terminal Resistor Jumper Switch**
    * When the keypad is connected as the furthest BUS device on a BUS line, please set the keypad's terminal resistor jumper and the first BUS device’s Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/4 (7).jpeg>) ![](<.gitbook/assets/5 (4).jpeg>)
+![](<.gitbook/assets/4 (7).jpeg>) ![](<.gitbook/assets/5 (5).jpeg>)
 
 **Jumper On**
 
-![](<.gitbook/assets/6 (4).jpeg>)
+![](<.gitbook/assets/6 (5).jpeg>)
 
 If the jumper is ON, the communication ability will be enhanced.
 
 **Jumper Off**
 
-![](<.gitbook/assets/7 (4).jpeg>)
+![](<.gitbook/assets/7 (5).jpeg>)
 
 If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
 
@@ -64,7 +64,7 @@ If the jumper is OFF (the jumper link is removed or “parked” on one pin), th
 
 1
 
-![](<.gitbook/assets/8 (4).jpeg>)**Caution**
+![](<.gitbook/assets/8 (6).jpeg>)**Caution**
 
 * Wiring of the wired/wireless keypad should only be performed by certified technicians with proper knowledge and training in electric equipment.
 * Before installation or any maintenance work, make sure the power supply of the Control Panel has been disconnected.
@@ -75,7 +75,7 @@ If the jumper is OFF (the jumper link is removed or “parked” on one pin), th
 
 When KP-35-Combo is hardwired to Control Panel, 13.5V (typical) power supply can be provided by the Control Panel to KP-35-Combo.
 
-![](<.gitbook/assets/9 (2).jpeg>)
+![](<.gitbook/assets/9 (3).jpeg>)
 
 * _**Battery and Low Battery Detection**_
   * Two L91 1.5V AA lithium batteries can be installed inside the battery compartment to serve as a backup power source in case of power failure. Prior to inserting batteries, ensure correct battery placement to protect your device.
@@ -113,7 +113,7 @@ _\<NOTE>_
 
 For example, for KP-35-COMBO-**B** in the picture below, it is the farthest device on the BUS line, and Hybrid Panel is the first device on the BUS line. Ensure to set the KP-35-COMBO-**B**'s terminal resistor jumper switch and Hybrid Panel's J53 Jumper Switch to ON to serve as terminating resistors.
 
-![](<.gitbook/assets/12 (7).png>)
+![](<.gitbook/assets/12 (11).png>)
 
 * _**Tamper Protection**_
   * The wired/wireless keypad is protected against any unauthorized attempts to open the back cover with a tamper switch. When the back cover is opened, the tamper switch will be triggered and the wired/wireless keypad will transmit a tamper open signal to the system control panel.

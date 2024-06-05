@@ -10,7 +10,7 @@ The IR Remote Control serves as an end device in the ZigBee network. It can be i
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (76).jpeg>)
+![](<.gitbook/assets/0 (85).jpeg>)
 
 1. **IR Eye**
 
@@ -37,11 +37,11 @@ Off – IR Remote Control is storing received IR signal under learning mode.
 1. **IR Signal Receiver**
 2. **Low IR Transmission Power Jumper (JP1)**
 
-![](<.gitbook/assets/1 (57).png>)
+![](<.gitbook/assets/1 (68).png>)
 
 **Jumper On** **Jumper Off**
 
-![](<.gitbook/assets/2 (61).jpeg>) ![](<.gitbook/assets/3 (54).jpeg>)
+![](<.gitbook/assets/2 (66).jpeg>) ![](<.gitbook/assets/3 (61).jpeg>)
 
 The jumper link is inserted connecting the two pins
 
@@ -51,11 +51,11 @@ Jumper ON –IR Transmission power set to Low. **(Factory Default)** Jumper OFF 
 
 **8. High IR Transmission Power Jumper (JP2)**
 
-![](<.gitbook/assets/4 (52).jpeg>)
+![](<.gitbook/assets/4 (54).jpeg>)
 
 **Jumper On** **Jumper Off**
 
-![](<.gitbook/assets/5 (63).png>)
+![](<.gitbook/assets/5 (76).png>)
 
 The jumper link is inserted connecting the two pins
 
@@ -150,7 +150,7 @@ In order to use the IR Remote Control to control your home appliance, , the IR R
 3. Press and hold the IR button for 10 seconds and release when IR LED begins to flash.
 4. The IR LED will begin flashing slowly to indicate the IR Remote Control is
 
-![](<.gitbook/assets/6 (44).png>)
+![](<.gitbook/assets/6 (55).png>)
 
 | now entering IR Learn Mode.       | ON  |   |
 | --------------------------------- | --- | - |
@@ -272,7 +272,7 @@ The IR Remote Control is designed to be mounted on wall. It can be mounted by ei
 
 * _**Mounting the IR Remote Control**_
 
-![](<.gitbook/assets/7 (40).jpeg>)
+![](<.gitbook/assets/7 (49).jpeg>)
 
 The IR Remote Control is designed to be mounted on wall. It can be mounted by either directly screwing the back cover onto the wall, or by installing the rotational bracket first, then install the main body on the bracket. The IR Eye should be pointed to the home appliance you want to control when the IR Remote Control is installed.
 
@@ -296,7 +296,7 @@ The Rotational Bracket has an adjustable head which can be attached to the IR Re
 
 4
 
-![](<.gitbook/assets/8 (35).jpeg>)
+![](<.gitbook/assets/8 (42).jpeg>)
 
 **Operation**
 
@@ -313,7 +313,7 @@ Conditioner appliance type.
 
 * _**IR Signal Coverage & IR LED Selection**_
 
-![](<.gitbook/assets/9 (27).jpeg>)
+![](<.gitbook/assets/9 (30).jpeg>)
 
 The IR Eye of the IR Remote Control includes 6 LEDs which are used to transmit IR signals, with 1 central LED and 5 surrounding LEDs. The 5 surrounding LEDs are positioned at 45° angle to the PCB board. **LED Signal Coverage:**
 
@@ -331,7 +331,7 @@ Please refer to diagram below for IR signal coverage:
 
 5
 
-![](<.gitbook/assets/10 (20).jpeg>)
+![](<.gitbook/assets/10 (22).jpeg>)
 
 * _**IR Transmission Power**_
 

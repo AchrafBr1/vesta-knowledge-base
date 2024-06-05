@@ -6,7 +6,7 @@ Introduction
 
 The SD-8-EL / SD-8-EL-F1 Smoke Detector is designed to be mounted on ceiling or top of stairwells where smoke would concentrate to raise alarm timely and protect your home from fire hazards.
 
-* Parts Identification![SD-8](<.gitbook/assets/0 (4) (1).jpeg>)
+* Parts Identification![SD-8](<.gitbook/assets/0 (13).jpeg>)
 
 **1. Learn / Test Button**
 
@@ -71,7 +71,7 @@ If the panel can receive signal normally, proceed to mount the Smoke Detector. I
 * Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the detector.
 * In the peak of an “**A**” frame type of ceiling.
 
-![SD-7\_4](<.gitbook/assets/1 (11).png>) ![100-2](<.gitbook/assets/2 (12).png>) ![100-3](<.gitbook/assets/3 (11).png>)
+![SD-7\_4](<.gitbook/assets/1 (22).png>) ![100-2](<.gitbook/assets/2 (23).png>) ![100-3](<.gitbook/assets/3 (21).png>)
 
 Step 1. Use the mounting bracket as template to mark the two mounting holes. Drill holes in mounting location and insert wall plugs if needed.
 

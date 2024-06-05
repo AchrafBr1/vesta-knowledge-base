@@ -1,6 +1,6 @@
 # VESTA 336
 
-![](<.gitbook/assets/0 (108).jpeg>)**SD-32 Smoke Detector Series**
+![](<.gitbook/assets/0 (117).jpeg>)**SD-32 Smoke Detector Series**
 
 SD-32 Series is a wireless smoke detector designed to protect you against potential fire hazards. The Smoke detector uses multi criteria sensor technology for detecting between fast burning flames and slow smoldering fires, while at the same time includes intelligent technology to differentiate between cooking smoke and actual life-threatening house-fire emergencies, virtually eliminating nuisance alarms.
 
@@ -20,7 +20,7 @@ The SD-32 series models are listed as below:
 | **SD-32-HM-SC** |            | O |   | O               |   | O |                |   | O |            |   |   |                 |   |   |
 |                 |            |   |   |                 |   |   |                |   |   |            |   |   |                 |   |   |
 
-![](<.gitbook/assets/1 (77).png>)
+![](<.gitbook/assets/1 (88).png>)
 
 _**Parts Identification**_
 
@@ -66,7 +66,7 @@ _**Parts Identification**_
 
 **Features**
 
-![](<.gitbook/assets/2 (85).png>)
+![](<.gitbook/assets/2 (96).png>)
 
 * _**Battery**_
   * Three CR123 3V Lithium batteries are used to supply power to the Smoke Detector.
@@ -75,7 +75,7 @@ _**Parts Identification**_
   * Under low battery status, low battery signal will be transmitted along with regular signal transmissions; the Orange LED will flash once every 45 seconds.
   * The Red and Orange LED will flash once every 4 seconds when the battery is exhausted.
 
-![](<.gitbook/assets/3 (83).png>)
+![](<.gitbook/assets/3 (93).png>)
 
 _\<NOTE>_
 
@@ -83,7 +83,7 @@ _\<NOTE>_
   * When changing the batteries, after removing the old batteries, press the Test Button twice to fully discharge before inserting new batteries.
 * _**Getting Started**_
 
-![](<.gitbook/assets/4 (87).png>)
+![](<.gitbook/assets/4 (98).png>)
 
 **Step 1.** Insert three CR123 3V Lithium batteries to power on the Smoke Detector. Orient the battery according to the battery compartment polarity before insertion.
 
@@ -93,7 +93,7 @@ mode lasts for **1 minute** (If calibration fails, the smoke detector will retry
 
 **Step 4.** When calibration is completed, the Smoke Detector will emit 2 short beeps and turn off LED to return to normal mode.
 
-![](<.gitbook/assets/5 (86).png>)
+![](<.gitbook/assets/5 (99).png>)
 
 _\<NOTE>_
 
@@ -109,7 +109,7 @@ After warm up and calibration process are successfully completed, you can procee
 
 **Step 7.** Immediately add the detected sensor(s) to Control Panel.
 
-![](<.gitbook/assets/6 (67).png>)
+![](<.gitbook/assets/6 (78).png>)
 
 _\<NOTE>_
 
@@ -117,7 +117,7 @@ _\<NOTE>_
   * For SC model, the Smoke Detector will emit a 2-tone beep upon receiving acknowledgement from the Control Panel for Smoke/Temperature sensor learn code.
 * _**Testing the Smoke Detector**_
 
-![](<.gitbook/assets/7 (58).png>)
+![](<.gitbook/assets/7 (69).png>)
 
 By pressing the Test Button on the Smoke Detector, you can test if the Smoke Detector is functioning normally.
 
@@ -135,7 +135,7 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
   * Users can also press the Test Button once to transmit current temperature reading manually.
 * _**Alarm Activation**_
 
-![](<.gitbook/assets/8 (43).jpeg>) ![](<.gitbook/assets/9 (55).png>) ![](<.gitbook/assets/10 (57).png>) ![](<.gitbook/assets/11 (47).png>) ![](<.gitbook/assets/12 (48).png>)
+![](<.gitbook/assets/8 (50).jpeg>) ![](<.gitbook/assets/9 (69).png>) ![](<.gitbook/assets/10 (65).png>) ![](<.gitbook/assets/11 (55).png>) ![](<.gitbook/assets/12 (55).png>)
 
 The Smoke Detector will activate fire alarm when smoke detection is triggered. The models with heat detection will also activate alarm when high heat is detected. When an alarm is activated, the Smoke Detector will transmit alarm signal and raise alarm with its built-in buzzer.
 
@@ -175,7 +175,7 @@ The Smoke Detector will activate fire alarm when smoke detection is triggered. T
   * If smoke concentration continues to rise during Alarm Silence period and exceeds a second alarm threshold, the Smoke Detector will start alarming again. An alarm activated by exceeding the second alarm threshold could not be silenced by pressing the test button.
 * _**Recalibration**_
 
-![](<.gitbook/assets/13 (34).jpeg>) ![](<.gitbook/assets/14 (38).png>) ![](<.gitbook/assets/15 (37).png>)
+![](<.gitbook/assets/13 (35).jpeg>) ![](<.gitbook/assets/14 (45).png>) ![](<.gitbook/assets/15 (45).png>)
 
 As the operation condition of the Smoke Detector may vary after being installed for some time, you may wish to recalibrate the Smoke Detector to take a new smoke detection threshold value and ensure optimal performance of the Smoke Detector. To do this:
 
@@ -184,11 +184,11 @@ As the operation condition of the Smoke Detector may vary after being installed 
 * When calibration is finished, the Smoke Detector will sound a two-tone beep. The Red LED will stop flashing to indicate it has returned to normal mode.
 * If calibration fails, the Smoke Detector will beep continuously, and the Orange LED will flash every second. Please remove the battery, press the Test Button twice to fully discharge, and then reinsert the batteries to restart Smoke Detector.
 
-![](<.gitbook/assets/16 (39).png>)
+![](<.gitbook/assets/16 (47).png>)
 
 **Installation**
 
-![](<.gitbook/assets/17 (30).png>) ![](<.gitbook/assets/18 (37).png>)
+![](<.gitbook/assets/17 (35).png>) ![](<.gitbook/assets/18 (40).png>)
 
  _**Installation Guideline**_
 
@@ -196,7 +196,7 @@ As the operation condition of the Smoke Detector may vary after being installed 
 
  Do not locate the detector in the following locations:
 
-![](<.gitbook/assets/19 (37).png>) ![](<.gitbook/assets/20 (26).png>)
+![](<.gitbook/assets/19 (40).png>) ![](<.gitbook/assets/20 (30).png>)
 
  The Kitchen – Smoke from cooking might cause an unwanted alarm.
 

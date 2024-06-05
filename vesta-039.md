@@ -6,7 +6,7 @@ The Panic Button is used to activate (or deactivate) a panic alarm.
 
 * **Parts Identification**
 
-![未命名-2](<.gitbook/assets/0 (8) (1).jpeg>)
+![未命名-2](<.gitbook/assets/0 (17).jpeg>)
 
 1. **LED Indicator**
 
@@ -44,7 +44,7 @@ The LED indicator will light up briefly when the device is transmitting a signal
 
 A Pad is included into the Panic Button as picture shown below. The padding helps to avoid pressing the button accidently when mounting the Panic Button.
 
-![image2](<.gitbook/assets/1 (5) (1).jpeg>)
+![image2](<.gitbook/assets/1 (16).jpeg>)
 
 Pad
 
@@ -59,7 +59,7 @@ The Panic Button can be wall mounting using Velcro tape provided.
 
 **Picture 1 Picture 2 Picture 3**
 
-![image3](<.gitbook/assets/2 (1) (1) (1).jpeg>) ![image1](<.gitbook/assets/3 (2) (1).jpeg>) ![](<.gitbook/assets/4 (10).jpeg>)
+![image3](<.gitbook/assets/2 (12).jpeg>) ![image1](<.gitbook/assets/3 (13).jpeg>) ![](<.gitbook/assets/4 (10).jpeg>)
 
 Loops
 
@@ -70,7 +70,7 @@ Hooks
 
 **Picture 4** **Picture 5**
 
-![image2](<.gitbook/assets/5 (3) (1).jpeg>) ![IMG\_1469](<.gitbook/assets/6 (6) (1).jpeg>)
+![image2](<.gitbook/assets/5 (11).jpeg>) ![IMG\_1469](<.gitbook/assets/6 (15).jpeg>)
 
 * **Surface Placement**
 
@@ -81,6 +81,6 @@ The Panic Button can be deployed on a flat surface without being installed at a 
 
 **Picture 6**
 
-![image6](<.gitbook/assets/7 (5) (1).jpeg>)
+![image6](<.gitbook/assets/7 (14).jpeg>)
 
 1. Place the Panic Button at desired location.

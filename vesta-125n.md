@@ -1,6 +1,6 @@
 # VESTA 125N
 
-![](<.gitbook/assets/0 (7).png>)**WIRED/WIRELESS COMBO KEYPAD with NFC READER (KPT-35N-Combo-BYD)**
+![](<.gitbook/assets/0 (12).png>)**WIRED/WIRELESS COMBO KEYPAD with NFC READER (KPT-35N-Combo-BYD)**
 
 KPT-35N-Combo-BYD is a hardwired and wireless keypad with an NFC reader designed to have quick access control of the system control panel. The keypad can send wired and wireless signals to and receive signals from the Control Panel within wire distance, depending on the wire gauge and the total power consumption of all wired devices. The LCD screen will display information the system control panel sends back.
 
@@ -8,7 +8,7 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 
 **Parts Identification**
 
-![](<.gitbook/assets/1 (5).png>)
+![](<.gitbook/assets/1 (10).png>)
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -21,7 +21,7 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 4. **Backlit Numeric Keys**
 5. **Backlit Star (＊) Key**
 6. **Cover Case**
-7. **Backlit Restore (**![](<.gitbook/assets/2 (8).jpeg>)) **Key**
+7. **Backlit Restore (**![](<.gitbook/assets/2 (9).jpeg>)) **Key**
    *
      * This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
 8. **Backlit OK Key**
@@ -51,17 +51,17 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 
 When the keypad is connected as the furthest BUS device from the Control Panel, please set the keypad’s communication Jumper Switch and Control Panel’s J53 Jumper Switch to ON to serve as a terminating resistor. The connected BUS devices’ communication ability will be enhanced.
 
-![](<.gitbook/assets/3 (7).jpeg>)
+![](<.gitbook/assets/3 (8).jpeg>)
 
 **Jumper On**
 
-![](<.gitbook/assets/4 (5).png>)
+![](<.gitbook/assets/4 (10).png>)
 
 If the jumper is ON, the communication ability will be enhanced.
 
 **Jumper Off**
 
-![](<.gitbook/assets/5 (5).jpeg>)
+![](<.gitbook/assets/5 (6).jpeg>)
 
 If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
 
@@ -71,7 +71,7 @@ If the jumper is OFF (the jumper link is removed or “parked” on one pin), th
 4. **Bottom Fixing Screw x 1**
 5. **NFC Tag**
 
-![](<.gitbook/assets/6 (5).jpeg>)
+![](<.gitbook/assets/6 (6).jpeg>)
 
 **Caution**
 
@@ -92,7 +92,7 @@ If the jumper is OFF (the jumper link is removed or “parked” on one pin), th
 
 When KPT-35N-Combo-BYD is hardwired to Control Panel, 13.5V (typical) power supply can be provided by the Control Panel to KPT-35N-Combo-BYD.
 
-![](<.gitbook/assets/7 (5).jpeg>) ![](<.gitbook/assets/8 (5).jpeg>)
+![](<.gitbook/assets/7 (6).jpeg>) ![](<.gitbook/assets/8 (7).jpeg>)
 
 * _**Battery and Low Battery Detection**_
   * Two L91 1.5V AA lithium batteries can be installed inside the battery compartment to serve as a backup power source in case of power failure. Prior to inserting batteries, ensure correct battery placement to protect your device.
@@ -120,13 +120,13 @@ _\<NOTE>_
 
 2
 
-![](<.gitbook/assets/9 (9).png>)
+![](<.gitbook/assets/9 (13).png>)
 
 * The keypad terminal can be hardwired to the Control Panel. Up to four KPT-35N-COMBO-BYDs can be connected in series. The maximum wire cable length depends on the wire gauge and the total power consumption of all wired devices, for example: maximum 3000ft @ 22-AWG cable for one KPT-35N-COMBO-BYD; maximum 1500ft @ 22-AWG cable for 2 KPT-35N-COMBO-BYDs; or maximum 1000ft @ 22-AWG cable for 3 KPT-35N-COMBO-BYDs.
 * In the picture below, KPT-35N-COMBO-BYD-**A** and KPT-35N-COMBO-BYD-**B** are wired correctly in series as the total wire distance of two keypads from the Control Panel is within 1500ft. For the KPT-35N-COMBO-BYD-**C** in the picture below, it is **NOT** wired correctly as it is farther than 1000ft from the Control Panel.
 * For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between. For example, for KPT-35N-COMBO-BYD-**B** in the picture below, it is the farthest device on the BUS line, and Hybrid Panel is the first device on the BUS line. Ensure to set the KPT-35N-COMBO-BYD-**B**'s terminal resistor jumper switch and Hybrid Panel's J53 Jumper Switch to ON to serve as terminating resistors.
 
-![](<.gitbook/assets/10 (10).png>)
+![](<.gitbook/assets/10 (14).png>)
 
 3
 
@@ -148,13 +148,13 @@ When adding a new label, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, assign the user pin code to an Area.
 
-![](<.gitbook/assets/11 (5).png>)
+![](<.gitbook/assets/11 (10).png>)
 
 Step 2. After KPT-35N-COMBO-BYD is successfully learnt into the panel, apply a new label to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this label is new (not added to the system yet).
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding label number will be loaded. Click Submit to save the user code setting.
 
-![](<.gitbook/assets/12 (8).png>)
+![](<.gitbook/assets/12 (12).png>)
 
 Step 4. The label has been added. You can use the label to arm/home arm/disarm the system. When Keypad is powered on by inserting batteries, the Orange LED will flash and the white backlight will turn on. When LED is off, wait 10 seconds for keypad tag sensor to start functioning.
 
@@ -170,7 +170,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the label number and click Submit.
 
-![](<.gitbook/assets/13 (7).png>)
+![](<.gitbook/assets/13 (12).png>)
 
 Step 3. The label is cleared.
 

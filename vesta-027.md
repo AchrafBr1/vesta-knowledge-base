@@ -11,7 +11,7 @@ The easy-to-use Converter consists of 9 input zones, each can be connected to ex
 1. **LED Indicator**
    * **Input power LED1 (Green/Red):**
 
-![](<.gitbook/assets/0 (29).jpeg>)
+![](<.gitbook/assets/0 (38).jpeg>)
 
 LED green on: AC power is connected.
 
@@ -52,7 +52,7 @@ ON: When pressing and holding the calibration button for
 1. **Tamper Switch Button (SW20).**
 2. **Power Terminal** (See _**Application Diagram**_ for detail.)
 
-![](<.gitbook/assets/1 (24).jpeg>)
+![](<.gitbook/assets/1 (35).jpeg>)
 
 **+12V/GND:** Connect to power supply.
 
@@ -88,7 +88,7 @@ The two-pin connector is used for connecting to the Rechargeable Battery Pack.
   * HWC-1B will charge the battery automatically when power is connected. When power supply is interrupted, HWC-1B will switch to using the rechargeable battery and continue operation.
 * **Application Diagram**
 
-![](<.gitbook/assets/2 (22).jpeg>)
+![](<.gitbook/assets/2 (27).jpeg>)
 
 The Terminal (Z1\~Z9 input zones) allow existing wired sensors to be connected to the HWC-1B Converter:
 
@@ -124,7 +124,7 @@ _\<NOTE>_
   * Refer to your Control Panel operation manual to complete the learn-in process.
   * Test/Learn button is also used for Walk Test function. Put the panel into Walk Test mode and press the button to check signal range and strength.
 
-![](<.gitbook/assets/3 (36).png>)
+![](<.gitbook/assets/3 (46).png>)
 
 _\<NOTE>_
 
@@ -149,17 +149,17 @@ The HWC-1B can be wall mounted with the mounting bracket provided, or with the p
 4. Drill holes at mounting location and install wall plugs if required.
 5. Install mounting screws at marked location as shown below.
 
-![](<.gitbook/assets/4 (22).jpeg>)
+![](<.gitbook/assets/4 (24).jpeg>)
 
 3
 
 1. Attach the HWC-1B onto the bracket as shown below.
 
-![](<.gitbook/assets/5 (15).jpeg>)
+![](<.gitbook/assets/5 (22).jpeg>)
 
 1. Hold the HWC-1B and gently push it downwards as shown below.
 
-![](<.gitbook/assets/6 (19).jpeg>)
+![](<.gitbook/assets/6 (28).jpeg>)
 
 **B: With Pre-punched Mounting Holes:**
 

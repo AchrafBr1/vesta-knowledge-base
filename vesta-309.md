@@ -1,6 +1,6 @@
 # VESTA 309
 
-![](<.gitbook/assets/0 (57).png>)**Smoke and Carbon Monoxide Detector (SDCO-3-RhTHM-ZW-SC-AC-OTA) Introduction**
+![](<.gitbook/assets/0 (70).png>)**Smoke and Carbon Monoxide Detector (SDCO-3-RhTHM-ZW-SC-AC-OTA) Introduction**
 
 SDCO-3-RhTHM-ZW-SC-AC-OTA is a Z-Wave Smoke and Carbon Monoxide Detector with built-in PIR Sensor, temperature, humidity, and heat detection, as well as voice prompts and allows access to the “S2 Unauthenticated” class and supports both of Z-Wave SmartStart Inclusion and classic Inclusion. It is capable of sending wireless signals to the Z-Wave gateway/control panel upon detection of smoke particles or Carbon Monoxide. The device is also serially connected with other sensors in the Z-Wave gateway to serve as an extra siren. When any other sensor in the Z-Wave network is activated and sends an alarm signal, the Smoke Detector will also raise alarm with its built-in buzzer as a siren to help sound warning (for serial connection models).
 
@@ -8,7 +8,7 @@ The SDCO-3 is designed to be mounted on ceiling or top of stairwells when smoke 
 
 The SDCO Detector is a Z-Wave enabled device and is fully compatible with any Z-Wave enabled network. Z-Wave is a wireless communication protocol that uses a low-power RF radio.
 
-![](<.gitbook/assets/1 (72).png>)
+![](<.gitbook/assets/1 (83).png>)
 
 _**Parts Identification**_
 
@@ -60,7 +60,7 @@ _**Parts Identification**_
 
 **Features**
 
-![](<.gitbook/assets/2 (80).png>)
+![](<.gitbook/assets/2 (91).png>)
 
 * _**Battery and Low Battery Detection**_
   * The SDCO-3-RhTHM-ZW-SC-AC-OTA model uses AC 100-240V as its power source and has three 600mAh AAA Ni-MH rechargeable batteries as its backup battery in case of power failure. The battery is included in the package.
@@ -78,7 +78,7 @@ _**Parts Identification**_
   * By default, the function is disabled, and it can activate by pressing the button for 5 seconds, which enables the mode for 5 minutes. You may also activate the mode using Z-Wave’s Configuration Command, and up to 36 hours can be configured. The snooze mode will be terminated as soon as you press any button or operate the device. Please refer to page 12 **“Configurations”** section for details.
 * _**Adding Device (Inclusion)**_
 
-![](<.gitbook/assets/3 (78).png>) ![](<.gitbook/assets/4 (83).png>) ![](<.gitbook/assets/5 (82).png>) ![](<.gitbook/assets/6 (62).png>)
+![](<.gitbook/assets/3 (88).png>) ![](<.gitbook/assets/4 (94).png>) ![](<.gitbook/assets/5 (95).png>) ![](<.gitbook/assets/6 (73).png>)
 
 The device supports both classic inclusion process and SmartStart inclusion process.
 
@@ -100,19 +100,19 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 
 **Step 6.** Insert the AC wires to the two connectors respectively, as shown below. If you turn the Battery Switch to ON position, the rechargeable battery will begin to charge.
 
-![](<.gitbook/assets/7 (56).png>)
+![](<.gitbook/assets/7 (67).png>)
 
 _Figure 1. Insert the white and the black wires._
 
-![](<.gitbook/assets/8 (57).png>)
+![](<.gitbook/assets/8 (68).png>)
 
 _Figure 2. Check if the wires are connected properly._
 
-![](<.gitbook/assets/9 (52).png>)
+![](<.gitbook/assets/9 (66).png>)
 
 _Figure 3. Insert the AC wires._
 
-![](<.gitbook/assets/10 (54).png>)
+![](<.gitbook/assets/10 (62).png>)
 
 2
 
@@ -135,7 +135,7 @@ _Figure 3. Insert the AC wires._
 
 **SmartStart Inclusion**
 
-![](<.gitbook/assets/11 (29).jpeg>)
+![](<.gitbook/assets/11 (30).jpeg>)
 
 Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. DSK is Device Specific Key used for authentication communication. The DSK information is stored in the QR code format that is printed on a label and adhered to the exterior of the device.
 
@@ -154,7 +154,7 @@ SmartStart inclusion request if it’s already in a Z-Wave Gateway/Control Panel
 
 * _**Removing Device (Exclusion)**_
 
-![](<.gitbook/assets/12 (46).png>)
+![](<.gitbook/assets/12 (53).png>)
 
 The SDCO Detector must be removed from existing Z-Wave network before being included into another.
 
@@ -163,7 +163,7 @@ The SDCO Detector must be removed from existing Z-Wave network before being incl
   * Within 1.5 seconds, press the button 3 times and the SDCO Detector will be removed from the Z-Wave network.
 * _**Voice Prompt (for serial connection models)**_
 
-![](<.gitbook/assets/13 (34).png>)
+![](<.gitbook/assets/13 (42).png>)
 
 The SDCO Detector allows the user to set up a location prompt for an area (e.g., kitchen or basement). When an alarm is triggered, the SDCO Detector will play the pre-programmed voice prompt to alert the user to evacuate. For first-time setup, please follow the steps below:
 
@@ -267,14 +267,14 @@ The SDCO Detector allows the user to set up a location prompt for an area (e.g.,
 |               |            |   |                                                 |                                                 |                                 |                                                |                                                 |                                         |                                        |           |           |   |   |   |   |   |   |   |   |   |   |
 |               |            |   |                                                 |                                                 |                                 |                                                |                                                 |                                         |                                        |           |           |   |   |   |   |   |   |   |   |   |   |
 
-![](<.gitbook/assets/14 (34).png>)
+![](<.gitbook/assets/14 (41).png>)
 
 * _**Fire Verification**_
   * Fire verification can be used to set up verification timer using Z-Wave’s Configuration Command for the SDCO Detector. When fire verification timer is set, the SDCO Detector will begin to count down fire verification timer when the device is triggered. Up to 150 seconds can be set (Default: 0 second). Please refer to page 10 **“Configurations”** section for details.
   * If fire verification function is enabled, the Red LED will flash quickly for 3 times every 8 seconds if smoke is detected during this period. After fire verification timer expires, the SDCO Detector will activate fire alarm if smoke concentration exceeds the detection threshold.
 * _**Alarm Detection**_
 
-![](<.gitbook/assets/15 (34).png>)
+![](<.gitbook/assets/15 (42).png>)
 
 The SDCO Detector will activate fire alarm when either of its smoke detection or high heat detection function is triggered. When an alarm is activated, the SDCO Detector will transmit alarm signal and raise alarm with its built in buzzer, the Red LED will flash rapidly.
 
@@ -338,7 +338,7 @@ The Temperature and Humidity Sensor will transmit temperature and humidity signa
   * In 60 seconds, if there is no further motion detection or alerts, the IR will be restored and return to normal operation.
 * _**Testing the SDCO Detector**_
 
-![](<.gitbook/assets/16 (36).png>) ![](<.gitbook/assets/17 (29).png>)
+![](<.gitbook/assets/16 (44).png>) ![](<.gitbook/assets/17 (34).png>)
 
 By pressing the button on the SDCO Detector, you can test if the SDCO Detector is functioning normally.
 
@@ -350,7 +350,7 @@ By pressing the button on the SDCO Detector, you can test if the SDCO Detector i
 * _**Alarm Silence**_
   * There are two ways to manually put the SDCO into Alarm Silence mode: pressing the button or sending **Scene/Siren Control or Siren On/ Off Control** command. By either method, the SDCO will enter Alarm Silence mode. After the period, a restore signal will be sent. Please refer to page 8 **“Smoke Emergency/Smoke Emergency Cleared**_**, Heat Emergency Cleared, and CO Emergency/**_** CO Emergency Cleared”** section for details.
 
-![](<.gitbook/assets/18 (35).png>)
+![](<.gitbook/assets/18 (38).png>)
 
 **Pressing the Button:**
 
@@ -372,7 +372,7 @@ By pressing the button on the SDCO Detector, you can test if the SDCO Detector i
   2. If smoke concentration continues to rise during Alarm Silence period and exceeds a second alarm threshold, the SDCO Detector will start alarming again. An alarm activated by exceeding the second alarm threshold could be silenced by pressing the button.
 * _**Recalibration**_
 
-![](<.gitbook/assets/19 (35).png>)
+![](<.gitbook/assets/19 (38).png>)
 
 The SDCO Detector will calibrate its smoke detector sensor every time when power is applied to ensure optimal smoke sensitivity. After installation, the operation condition of the Smoke Detector may vary after some time, which may affect its smoke detection function and requires recalibration. There are two ways to recalibrate the Smoke Detector: auto calibration and manual calibration.
 
@@ -392,7 +392,7 @@ The SDCO Detector will calibrate its smoke detector sensor every time when power
   4. If calibration process fails, Smoke Detector will emit alarm sound. Please remove and reinsert battery to restart process again.
 * _**Identifying the Device**_
 
-![](<.gitbook/assets/20 (25).png>)
+![](<.gitbook/assets/20 (29).png>)
 
 The function is available for you to identify the SDCO Detector among your devices by sending Z-Wave commands to the Gateway. If the device receives signal successfully, the device LED will begin to flash. The number of flashing cycles is programmable by using Z-Wave Indicator CC commands. Please refer to “_**Command Class Data Format”**_ section for details.
 

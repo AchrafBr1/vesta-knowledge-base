@@ -15,7 +15,7 @@ The Smoke Detector includes the following models:
 
 Parts Identification
 
-![](<.gitbook/assets/0 (8) (1).png>) ![](<.gitbook/assets/1 (12).png>)
+![](<.gitbook/assets/0 (21).png>) ![](<.gitbook/assets/1 (23).png>)
 
 1. **LED Indicator / Test Button / Emergency Light**
 
@@ -156,13 +156,13 @@ As the operation condition of the Smoke Detector may vary after being installed 
 * When calibration is finished, the Smoke Detector will sound a two-tone beep. The Red LED will stop flashing to indicate it has returned to normal mode.
 * If calibration fails, the Smoke Detector will beep continuously, and the Orange LED will flash every second. Please remove the battery, press the Test Button twice to fully discharge, and then reinsert the batteries to restart Smoke Detector.
 
-![100-3](<.gitbook/assets/2 (13).png>)Installation
+![100-3](<.gitbook/assets/2 (24).png>)Installation
 
 * Installation Guideline
 * It is recommended that the installation site be in the center area of the ceiling.
 * Do not locate the detector in the following locations:
 * The Kitchen – Smoke from cooking might cause an unwanted alarm.
-* ![100-2](<.gitbook/assets/3 (12).png>)Near a ventilating fan, florescent lamp or air-conditioning equipment – air drafts from them may affect the sensitivity of the detector.
+* ![100-2](<.gitbook/assets/3 (22).png>)Near a ventilating fan, florescent lamp or air-conditioning equipment – air drafts from them may affect the sensitivity of the detector.
 * Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the detector.
 * In the peak of an “**A**” frame type of ceiling.
 * Installation Recommendation
@@ -198,8 +198,8 @@ As the operation condition of the Smoke Detector may vary after being installed 
 * The Smoke Detector is designed to be mounted on the ceiling. The ideal mounting height for the Smoke Detector is 2.7 meters to 3 meters. Mounting above 3 meters can affect detection performace. **(SD-29-HM/SD-29-HME only)**
 * The Smoke Detector provides detection coverage of a 360° circle with 5 meters in diameter. Please refer to below figures for the installation details
 
-![](<.gitbook/assets/4 (11).png>)
+![](<.gitbook/assets/4 (22).png>)
 
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement.
 
-![](<.gitbook/assets/5 (8) (1).png>)
+![](<.gitbook/assets/5 (21).png>)

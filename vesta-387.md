@@ -8,7 +8,7 @@ The PWB-1-BUS is an auxiliary power supply module that can be connected in the d
 
 **Identifying the Parts**
 
-![](<.gitbook/assets/0 (4).jpeg>)
+![](<.gitbook/assets/0 (5).jpeg>)
 
 1. **BUS Connection Terminals to powered BUS device** (4 wire: V, G, A, B)
 2. **BUS Connection Terminals to powered BUS device** (4 wire: V, G, A, B)
@@ -37,11 +37,11 @@ You can set he power supply module’s Terminal Resistor Jumper and the Hybrid P
 
 If communication with the Panel is tested OK, you can start connecting the PWB-1-BUS to the powered devices. Then please set the power supply module’s Terminal Resistor Jumper to off, and set the Terminal Resistor Jumper of the farthest device in the BUS line to ON instead.
 
-![](<.gitbook/assets/1 (6).jpeg>)
+![](<.gitbook/assets/1 (7).jpeg>)
 
 If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
 
-![](<.gitbook/assets/2 (5).jpeg>)
+![](<.gitbook/assets/2 (6).jpeg>)
 
 If the jumper is ON (the jumper link rests on both pins), the communication ability is enhanced.
 
@@ -102,7 +102,7 @@ Please refer to the BUS device connection examples (VST-892-BUS & DC-23-BUS) bel
 
 2
 
-![](<.gitbook/assets/3 (5).jpeg>)
+![](<.gitbook/assets/3 (6).jpeg>)
 
 _\<NOTE>_
 
@@ -134,7 +134,7 @@ The “**Identify**” function is used to localize a specific BUS device in the
 
 To locate PWB-1-BUS in the BUS system:
 
-![](<.gitbook/assets/4 (4).png>)
+![](<.gitbook/assets/4 (9).png>)
 
 **Step 1.** On Hybrid Panel’s webpage, click “Identify” under the device list after PWB’s device column entry.
 
@@ -156,7 +156,7 @@ Please check whether PWB-1-BUS is connected properly to the Panel within appropr
 
 * After being learnt into the Control Panel, the Power Supply module will automatically transmit power consumption data, including battery level, BUS voltage, and BUS current to the Control Panel every 30-50 minutes.
 
-![](<.gitbook/assets/5 (7).png>)
+![](<.gitbook/assets/5 (11).png>)
 
 
 
@@ -168,19 +168,19 @@ When battery level is 0%, it indicates one of the follow situations: battery dis
 
 User can also manually query the power consumption data on **Device Edit** page.
 
-![](<.gitbook/assets/6 (5).png>)
+![](<.gitbook/assets/6 (9).png>)
 
 **Mounting the PWB-1-BUS in the enclosure (AWO300)**
 
 * Locate the **standoff locations on the enclosure AWO300** (○1 – A, B, C, D), and the **mounting holes on the PWB-1-BUS** (○2 – A, B, C, D).
 
-![](<.gitbook/assets/7 (6).png>)
+![](<.gitbook/assets/7 (10).png>)
 
 4
 
 * Use the provided standoffs to securely mount the PWB-1-BUS in the enclosure.
 
-![](<.gitbook/assets/8 (6).png>)
+![](<.gitbook/assets/8 (9).png>)
 
 * After all wiring is completed, install the backup battery. Battery options include: A 12V 7.0Ah or 12V 17.2Ah Sealed Lead-acid battery.
 
@@ -193,6 +193,6 @@ To Install the battery, follow the steps below:
 * Connect the enclosure door tamper switch to the tamper terminal.
 * Connect the power terminal to 20Vac 50Hz/60Hz, 4A (80VA) power supply. Slide the battery switch to ON.
 
-![](<.gitbook/assets/9 (7).png>)
+![](<.gitbook/assets/9 (11).png>)
 
 5

@@ -15,24 +15,24 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 1. **Valve Cap**
 2. **LCD Display**
 
-![](<.gitbook/assets/0 (50).png>) ![](<.gitbook/assets/1 (63).jpeg>)
+![](<.gitbook/assets/0 (63).png>) ![](<.gitbook/assets/1 (74).jpeg>)
 
-1. ![](<.gitbook/assets/2 (57).jpeg>) **ON** when device is already learned into Zig-Bee network.
-2. ![](<.gitbook/assets/3 (52).jpeg>) **Low Battery Indicator.**
-3. ![](<.gitbook/assets/4 (50).jpeg>) On: Device set to default temperature 17°C.
+1. ![](<.gitbook/assets/2 (62).jpeg>) **ON** when device is already learned into Zig-Bee network.
+2. ![](<.gitbook/assets/3 (59).jpeg>) **Low Battery Indicator.**
+3. ![](<.gitbook/assets/4 (52).jpeg>) On: Device set to default temperature 17°C.
 
-![](<.gitbook/assets/5 (32).jpeg>) Flash: Valve closing.
+![](<.gitbook/assets/5 (39).jpeg>) Flash: Valve closing.
 
-![](<.gitbook/assets/6 (41).jpeg>) On: Device set to default temperature 21°C.
+![](<.gitbook/assets/6 (50).jpeg>) On: Device set to default temperature 21°C.
 
-![](<.gitbook/assets/7 (38).jpeg>) Flash: Valve opening.
+![](<.gitbook/assets/7 (47).jpeg>) Flash: Valve opening.
 
 1. **Auto / Manual Mode.**
 2. **Boost function.**
 3. **Open Window**.
 4. **Temperature Indicator.**
 
-![](<.gitbook/assets/8 (39).png>)
+![](<.gitbook/assets/8 (50).png>)
 
 **Others: InS**: When power on device (also for learning period).
 
@@ -46,9 +46,9 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 \-**Boost/ ZigBee:** Speed up heating process/learn into ZigBee Network.
 
-\- ![](<.gitbook/assets/9 (25).jpeg>) Press this button to instantly switch day and night temperatures.
+\- ![](<.gitbook/assets/9 (28).jpeg>) Press this button to instantly switch day and night temperatures.
 
-_**Default day**_ ![](<.gitbook/assets/10 (19).jpeg>) _temperature: 21_ °C_, **Default night**_ ![](<.gitbook/assets/11 (24).jpeg>) _temperature: 17_°C
+_**Default day**_ ![](<.gitbook/assets/10 (21).jpeg>) _temperature: 21_ °C_, **Default night**_ ![](<.gitbook/assets/11 (25).jpeg>) _temperature: 17_°C
 
 1. **Temperature Sensor**
 2. **Control Knob**
@@ -63,7 +63,7 @@ The Radiator Valve is powered by two 1.5V AA alkaline batteries.
 
 **Features**
 
-![](<.gitbook/assets/12 (33).png>)
+![](<.gitbook/assets/12 (40).png>)
 
 * _**Power ON / Manual / Auto mode**_
 
@@ -72,7 +72,7 @@ The Radiator Valve is powered by two 1.5V AA alkaline batteries.
 **Manual Mode:** In the Manual mode, you can use the following functions:
 
 *
-  * ![](<.gitbook/assets/13 (23).jpeg>) button: switch day/night temperatures instantly.
+  * ![](<.gitbook/assets/13 (24).jpeg>) button: switch day/night temperatures instantly.
   * **Boost button:** Speed up heating, learning device into Control Panel.
 * **Control Knob**: Control temperature, set to ON (summer season mode) and OFF (winter season mode).
 
@@ -80,13 +80,13 @@ The Radiator Valve is powered by two 1.5V AA alkaline batteries.
 
 In the Auto Mode, you can use the same functions as in Manual mode except the Control Knob Set to ON and OFF function.
 
-![](<.gitbook/assets/14 (23).png>)
+![](<.gitbook/assets/14 (30).png>)
 
 * _**Anti-frosting**_
 
 When the Radiator Valve detects a frosting hazard, it will automatically open the valve for hot water to flow in order to maintain the temperature and to prevent further frosting.
 
-![](<.gitbook/assets/15 (21).png>)
+![](<.gitbook/assets/15 (29).png>)
 
 * _**Anti-calcification**_
 
@@ -94,13 +94,13 @@ The Radiator Valve will open and close the valve weekly to prevent calcification
 
 The default value for anti-calcification process is 23:00p.m every Saturday.
 
-![](<.gitbook/assets/16 (23).png>)
+![](<.gitbook/assets/16 (31).png>)
 
 * _**Boost Function**_
 
 Press the Boost button to temporarily speed up heating process by further opening the valve. The boost function lasts 5 minutes (LCD displays: 300 seconds countdown). If you wish to cancel boost function, press the button again.
 
-![](<.gitbook/assets/17 (19).png>)
+![](<.gitbook/assets/17 (24).png>)
 
 * _**Setpoint Offset**_
 
@@ -122,7 +122,7 @@ To program Setpoint Offset:
   3. Press any key to finish and exit offset adjustment.
 * _**Open Window**_
 
-![](<.gitbook/assets/19 (25).png>)
+![](<.gitbook/assets/19 (28).png>)
 
 If Radiator Valve detects indoor temperature drops rapidly by opening the window, the Radiator Valve will activate Open Window function by partly closing the valve to reduce temperature setting for 15 minutes. The
 

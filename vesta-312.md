@@ -29,7 +29,7 @@ The PIR is comprised of a main body and a base. The main body must be separated 
 
 To separate the main body and base, hold the PIR in both hands, and turn the base to the right and the main body to the left to separate.
 
-![](<.gitbook/assets/0 (58).png>)
+![](<.gitbook/assets/0 (71).png>)
 
 **1. IR Lens w/ LED Indicator**
 
@@ -156,7 +156,7 @@ To test whether the PIR is able to communicate with the Z-Wave gateway or contro
   * The PIR has detection coverage of a 120∘cone to the front. When deployed on a flat surface about 1.2 meters above ground, or mounted on the wall around 2 meters high, the PIR has maximum range of 10 meters.
   * The PIR direction can be changed by loosening the angle adjustment screw on the base to tilt the PIR up and down.
 
-![](<.gitbook/assets/1 (86).jpeg>)
+![](<.gitbook/assets/1 (97).jpeg>)
 
 3
 
@@ -167,7 +167,7 @@ To test whether the PIR is able to communicate with the Z-Wave gateway or contro
 
 **Figure 1** **Figure 2**
 
-![](<.gitbook/assets/2 (81).png>)
+![](<.gitbook/assets/2 (92).png>)
 
 1. Hold the PIR main body with your left hand and the base with your right hand. Do NOT touch the IR lens or the lens may be damaged during the process. (Figure 3, 4)
 2. To **lock** the main body on to the base, turn the main body with your left hand away from yourself and turn the base with your right hand toward yourself at the same time in opposite direction until you hear a click. (Figure 3)
@@ -175,7 +175,7 @@ To test whether the PIR is able to communicate with the Z-Wave gateway or contro
 
 **Figure 3** **Figure 4**
 
-![](<.gitbook/assets/3 (79).png>)
+![](<.gitbook/assets/3 (89).png>)
 
 * _**Installation**_
   1. Use the 2 mounting holes on PIR base as template, drill holes in the surface.
@@ -186,7 +186,7 @@ To test whether the PIR is able to communicate with the Z-Wave gateway or contro
 
 **Figure 5** **Figure 6** **Figure 7** **Figure 8**
 
-![](<.gitbook/assets/4 (60).jpeg>)
+![](<.gitbook/assets/4 (62).jpeg>)
 
 * _**Installation Guideline**_
   * **It is recommended to install the PIR in the following locations.**

@@ -18,11 +18,11 @@ The WEZC-8 Series Expansion Module is designed to support expansion for the Hybr
 
 **Front View** **Back View**
 
-![](<.gitbook/assets/0 (6).jpeg>)
+![](<.gitbook/assets/0 (7).jpeg>)
 
 **Internal View**
 
-![](<.gitbook/assets/1 (8).jpeg>)
+![](<.gitbook/assets/1 (9).jpeg>)
 
 1
 
@@ -59,11 +59,11 @@ For connecting the rechargeable battery pack to the PCB.
 
 When the Expansion Module is connected as the furthest BUS device on a BUS line, please set the Expansion Module’ terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (9).jpeg>)
+![](<.gitbook/assets/2 (10).jpeg>)
 
 Turn the jumper to OFF by removing the jumper link or ―parking‖ the jumper link on one pin.
 
-![](<.gitbook/assets/3 (8).jpeg>)
+![](<.gitbook/assets/3 (9).jpeg>)
 
 Turn the jumper to ON by resting the jumper link on both pins.
 
@@ -140,7 +140,7 @@ Terminal Resistor Jumper Switch and Control Panel’s J53 Jumper Switch are set 
 
 * The following is the connection of WEZC-8B to the Hybrid Panel, with WEZC-8B being powered by external power source.
 
-![](<.gitbook/assets/5 (6).jpeg>)
+![](<.gitbook/assets/5 (7).jpeg>)
 
 4
 
@@ -181,7 +181,7 @@ _\<NOTE>_
 
 1\. 2.
 
-![](<.gitbook/assets/6 (6).jpeg>) ![](<.gitbook/assets/7 (6).jpeg>)
+![](<.gitbook/assets/6 (7).jpeg>) ![](<.gitbook/assets/7 (7).jpeg>)
 
 5
 
@@ -189,23 +189,23 @@ _\<NOTE>_
 
 3\. 4.
 
-![](<.gitbook/assets/8 (7).png>)
+![](<.gitbook/assets/8 (10).png>)
 
 5\. 6.
 
-![](<.gitbook/assets/9 (10).png>)
+![](<.gitbook/assets/9 (14).png>)
 
 **Double-End-of-Line Resistor Wiring**
 
 7\. 8.
 
-![](<.gitbook/assets/10 (11).png>)
+![](<.gitbook/assets/10 (15).png>)
 
 **Triple-EOL Wiring**
 
 9\. 10.
 
-![](<.gitbook/assets/11 (6).png>)
+![](<.gitbook/assets/11 (11).png>)
 
 6
 
@@ -256,7 +256,7 @@ To locate the Expansion Module in the BUS system:
 
 **Step 1.** On Hybrid Panel’s webpage, click ―Identify‖ under the device list after the Expander’s device column entry.
 
-![](<.gitbook/assets/12 (9).png>)
+![](<.gitbook/assets/12 (13).png>)
 
 **Step 2.** If the Expansion Module receives the signal from the Hybrid Panel, the webpage will display a success message and the Expansion Module’s power LED indicator will flash for 10 times to indicate where it is to the user.
 

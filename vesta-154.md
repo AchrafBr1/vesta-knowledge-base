@@ -12,7 +12,7 @@ _**Parts Identification**_
 
 **Front** **Internal**
 
-![](<.gitbook/assets/0 (46).png>)
+![](<.gitbook/assets/0 (59).png>)
 
 **1.** **Digital Proximity Detector**
 
@@ -47,11 +47,11 @@ The LED lights up briefly when IR detection is triggered under Test Mode.
    * When the jumper is set as **ON**, the Motion sensor is under Microwave Test Mode (please see **Microwave Test Mode**)
    * When the jumper is set as **OFF**, the Microwave Test Mode is disabled. **(Factory default)**
 
-![](<.gitbook/assets/1 (49).jpeg>) ![](<.gitbook/assets/2 (46).jpeg>) ![](<.gitbook/assets/3 (56).png>)
+![](<.gitbook/assets/1 (60).jpeg>) ![](<.gitbook/assets/2 (51).jpeg>) ![](<.gitbook/assets/3 (66).png>)
 
 1
 
-![](<.gitbook/assets/4 (41).jpeg>)
+![](<.gitbook/assets/4 (43).jpeg>)
 
 1. **Microwave Range Switch**
 
@@ -148,7 +148,7 @@ IV. Fit the front cover onto the back cover and tighten the bottom fixing screw.
 
 **(Picture 3)**
 
-![](<.gitbook/assets/5 (25).jpeg>)
+![](<.gitbook/assets/5 (32).jpeg>)
 
 3
 
@@ -162,13 +162,13 @@ IV. Fit the cover onto the back cover and tighten the bottom fixing screw. **(Pi
 
 1. Insert the protective shield. **(Picture 3)** (Please remove the protective film from both sides of the protective shield before inserting.)
 
-![](<.gitbook/assets/6 (35).jpeg>)
+![](<.gitbook/assets/6 (44).jpeg>)
 
 _\<NOTE>_
 
 * There are three nuts on the mounting plate, providing two mounting levels (high/low) for selection. After the mounting plate is fixed on the wall, you can choose to mount the EIRC-1-F1 at the lower level or the higher level with two provided screws
 
-![](<.gitbook/assets/7 (34).jpeg>)
+![](<.gitbook/assets/7 (43).jpeg>)
 
 4
 
@@ -195,10 +195,10 @@ _\<IMPORTANT NOTE>_
   * Do not aim the sensor directly at sources of heat e.g. fires or boilers, and not above radiators.
   * Avoid moving objects in the detection area i.e. curtain, wall hanging etc.
 
-![](<.gitbook/assets/8 (27).jpeg>)
+![](<.gitbook/assets/8 (34).jpeg>)
 
 5
 
-![](<.gitbook/assets/9 (18).jpeg>)
+![](<.gitbook/assets/9 (21).jpeg>)
 
 6

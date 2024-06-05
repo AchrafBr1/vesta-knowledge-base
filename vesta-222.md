@@ -2,7 +2,7 @@
 
 **PSS-29-F1/ PSM-29-F1**
 
-![](<.gitbook/assets/0 (92).jpeg>)
+![](<.gitbook/assets/0 (101).jpeg>)
 
 **Power Switch Sereis**
 
@@ -22,7 +22,7 @@ The integration of the Power Switch into your home automation system will allow 
 
 **Parts Identification**
 
-![](<.gitbook/assets/1 (78).jpeg>)
+![](<.gitbook/assets/1 (89).jpeg>)
 
 **1. Test Button aka LED indicator**
 
@@ -61,7 +61,7 @@ switch, it will display the information accordingly. Refer to the Control Panel 
 
 Step 6: When the Power Switch receives the learning code from the Control Panel, the LED of the Power Switch will flash 3 times and then turn off to indicate that learning process is complete.
 
-![](<.gitbook/assets/2 (72).png>)
+![](<.gitbook/assets/2 (83).png>)
 
 _\<NOTE>_
 
@@ -85,7 +85,7 @@ To test whether the Power Switch is able to communicate with the Control Panel:
 
 **Operation**
 
-![](<.gitbook/assets/3 (67).jpeg>)
+![](<.gitbook/assets/3 (74).jpeg>)
 
 * _**Installation**_
   * Plug the Power Switch into a power outlet, then plug the appliance into the socket of the Power Switch. The appliance must be in ON status.
@@ -95,7 +95,7 @@ To test whether the Power Switch is able to communicate with the Control Panel:
   * If the Power Switch is removed from power outlet, after re-plugging the Power Switch, its previous on/off status and current energy output data (PSM-29-F1 only) will be transmitted to the Control Panel.
 * _**Energy Consumption Monitor (For PSM-29-F1 Only)**_
 
-![](<.gitbook/assets/4 (58).jpeg>) ![](<.gitbook/assets/5 (39).jpeg>)
+![](<.gitbook/assets/4 (60).jpeg>) ![](<.gitbook/assets/5 (46).jpeg>)
 
 With a built-in power meter to measure electricity consumption, the PSM-29-F1 Power Meter Switch will transmit power consumption data to the Control Panel when:
 
@@ -108,7 +108,7 @@ With a built-in power meter to measure electricity consumption, the PSM-29-F1 Po
   * For 230V: the maximum operation load is 3680W and 16A.
   * If the Power Switch is overheating, it will cut off power automatically as a safety measure. The LED indicator will flash quickly. After cut off, the Power Switch will resume normal operation if temperature drops below the threshold point.
 
-![](<.gitbook/assets/6 (49).jpeg>) ![](<.gitbook/assets/7 (52).png>)
+![](<.gitbook/assets/6 (58).jpeg>) ![](<.gitbook/assets/7 (63).png>)
 
 _\<NOTE>_
 

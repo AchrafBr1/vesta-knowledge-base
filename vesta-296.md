@@ -14,7 +14,7 @@ The Z-Wave Shutter Control allows access to the “S2 Unauthenticated” class a
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (103).jpeg>)
+![](<.gitbook/assets/0 (112).jpeg>)
 
 1. **External Antenna Port**
 2. **LED indicator**
@@ -61,7 +61,7 @@ Connect to the Open terminal of the Shutter Motor.
 
 1
 
-![](<.gitbook/assets/1 (85).jpeg>)**Caution**
+![](<.gitbook/assets/1 (96).jpeg>)**Caution**
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * Before installation or any maintenance work, make sure the power supply has been disconnected.
@@ -76,7 +76,7 @@ Connect to the Open terminal of the Shutter Motor.
 
 **Wiring 1** **Wiring 2**
 
-![](<.gitbook/assets/2 (79).png>)
+![](<.gitbook/assets/2 (90).png>)
 
 *
   * Connect AC Power Input L and N terminal of SCM to L and N terminal of Power Supply respectively.
@@ -111,7 +111,7 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 
 Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. DSK is Device Specific Key used for authentication. The DSK information is stored in the QR code format that is printed on a sticker and attached to the device.
 
-![](<.gitbook/assets/3 (69).jpeg>)
+![](<.gitbook/assets/3 (76).jpeg>)
 
 *
   *

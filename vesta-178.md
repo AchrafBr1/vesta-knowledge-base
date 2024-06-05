@@ -18,7 +18,7 @@ The Shutter Control serves as an end device in the ZigBee network. It can be inc
    * Press and hold for 10 seconds: Reset the Shutter Control to join ZigBee network.
 2. **LED indicator**
 
-![](<.gitbook/assets/0 (67).jpeg>)
+![](<.gitbook/assets/0 (76).jpeg>)
 
 The LED indicator is used to indicate Shutter Control status:
 
@@ -75,7 +75,7 @@ The Wiring Buckle is used for managing wires.
 * Supported Load Current: 1/4 HP (Horse power); 1.8Amps for motors with compensated power factor (inductive loads)
 * Communication Protocol: ZigBee Pro Home Automation 1.2, 2.4GHz
 
-![](<.gitbook/assets/1 (59).jpeg>)
+![](<.gitbook/assets/1 (70).jpeg>)
 
 **Caution**
 
@@ -88,7 +88,7 @@ The Wiring Buckle is used for managing wires.
 
 * SCM-8ZBS should be connected according to the diagram below:
 
-![](<.gitbook/assets/2 (54).jpeg>)
+![](<.gitbook/assets/2 (59).jpeg>)
 
 *
   * Connect N terminal of SCM to the N terminal of Power Supply.
@@ -101,7 +101,7 @@ The Wiring Buckle is used for managing wires.
 
 2
 
-![](<.gitbook/assets/3 (49).jpeg>)
+![](<.gitbook/assets/3 (56).jpeg>)
 
 **ZigBee Network Setup**
 

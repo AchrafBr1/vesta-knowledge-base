@@ -1,10 +1,10 @@
 # VESTA 193
 
-![](<.gitbook/assets/0 (51).png>)Mobile Lite R3-QT Quick Start Guide
+![](<.gitbook/assets/0 (64).png>)Mobile Lite R3-QT Quick Start Guide
 
 **1.Package Content**
 
-![](<.gitbook/assets/1 (58).png>)
+![](<.gitbook/assets/1 (69).png>)
 
 5V/1A Adaptor
 
@@ -20,29 +20,29 @@ Microphone
 
 LED (Green/Red)
 
-![](<.gitbook/assets/2 (63).png>)
+![](<.gitbook/assets/2 (74).png>)
 
-![](<.gitbook/assets/3 (66).png>)![](<.gitbook/assets/4 (63).png>)![](<.gitbook/assets/5 (65).png>)![](<.gitbook/assets/6 (45).png>) LED (Amber)
+![](<.gitbook/assets/3 (76).png>)![](<.gitbook/assets/4 (74).png>)![](<.gitbook/assets/5 (78).png>)![](<.gitbook/assets/6 (56).png>) LED (Amber)
 
 Speaker
 
 SIM Card Cover
 
-![](<.gitbook/assets/7 (40).png>)
+![](<.gitbook/assets/7 (51).png>)
 
 Fixing Screw
 
-![](<.gitbook/assets/8 (41).png>) SIM Card and
+![](<.gitbook/assets/8 (52).png>) SIM Card and
 
 USB Cover
 
 Micro SIM
 
-![](<.gitbook/assets/9 (37).png>)
+![](<.gitbook/assets/9 (51).png>)
 
-![](<.gitbook/assets/10 (41).png>) Card Slot
+![](<.gitbook/assets/10 (49).png>) Card Slot
 
-![](<.gitbook/assets/11 (32).png>)![](<.gitbook/assets/12 (36).png>)![](<.gitbook/assets/13 (27).png>)![](<.gitbook/assets/14 (25).png>) Micro USB Jack
+![](<.gitbook/assets/11 (40).png>)![](<.gitbook/assets/12 (43).png>)![](<.gitbook/assets/13 (35).png>)![](<.gitbook/assets/14 (32).png>) Micro USB Jack
 
 | **Component**                                                                   | **Behavior**                           |                         | **Function/Indication**                        |                                                                     |   |                  |                                                                    |   |   |
 | ------------------------------------------------------------------------------- | -------------------------------------- | ----------------------- | ---------------------------------------------- | ------------------------------------------------------------------- | - | ---------------- | ------------------------------------------------------------------ | - | - |
@@ -79,7 +79,7 @@ Micro SIM
 
 **Charging Cradle**
 
-![](<.gitbook/assets/15 (24).png>) ![](<.gitbook/assets/16 (26).png>)
+![](<.gitbook/assets/15 (32).png>) ![](<.gitbook/assets/16 (34).png>)
 
 Cradle Charging
 
@@ -95,7 +95,7 @@ Mobile Lite is powered by rechargeable battery. The typical charging time is 4 h
 
 To Charge Mobile Lite, please place Mobile Lite into the Charging Cradle, making sure that the Charging Contact Plates (of both Mobile Lite and the cradle) are in contact with each other, and then connect the Charging Cradle to power supply (Refer to _**3.2. Charging Mobile Lite**_ of the Mobile Lite Installer Guide).
 
-![](<.gitbook/assets/17 (20).png>)
+![](<.gitbook/assets/17 (25).png>)
 
 **4.Hardware Installation**
 
@@ -107,7 +107,7 @@ To Charge Mobile Lite, please place Mobile Lite into the Charging Cradle, making
 
 **Step 3.** Replace the Protective Cover and tighten the Protective Cover Fixing Screws using a Philips screwdriver.
 
-![](<.gitbook/assets/18 (25).png>)
+![](<.gitbook/assets/18 (28).png>)
 
 _**< NOTE >**_
 
@@ -115,7 +115,7 @@ _**< NOTE >**_
 * _Do not insert a SIM card with a SIM card adapter or it will cause damage to the SIM card and its holder._
 * _Please make sure that the SIM card PIN code is deactivated and all SMS messages removed before insertion._
 
-![](<.gitbook/assets/19 (27).png>)
+![](<.gitbook/assets/19 (30).png>)
 
 **4.2 Lanyard Attachment**
 

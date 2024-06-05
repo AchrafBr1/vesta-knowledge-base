@@ -1,12 +1,12 @@
 # VESTA 158
 
-![](<.gitbook/assets/0 (47).png>)**Temperature Sensor (TAS-9/TAS-9E)**
+![](<.gitbook/assets/0 (60).png>)**Temperature Sensor (TAS-9/TAS-9E)**
 
 TAS-9E is temperature wireless sensor device. It transmits temperature condition to the Control Panel every 30-50 minutes and alarm signal when temperature exceeds or drops below normal operation range set by Dip Switch.
 
 The Temperature Sensor includes the following models: **TAS-9:** Temperature Sensor with built-in temperature sensor. **TAS-9E:** Temperature Sensor with External Temperature Probe.
 
-![](<.gitbook/assets/1 (50).jpeg>)
+![](<.gitbook/assets/1 (61).jpeg>)
 
 * _**Parts Identification**_
 
@@ -48,7 +48,7 @@ Press the button once to send out a learning code along with status code to info
   4. **Internal Temperature Probe**
 * _**Battery**_
 
-![](<.gitbook/assets/2 (47).jpeg>) ![](<.gitbook/assets/3 (42).jpeg>)
+![](<.gitbook/assets/2 (52).jpeg>) ![](<.gitbook/assets/3 (49).jpeg>)
 
 The Temperature Sensor uses one **CR123 - 3V Lithium battery**. Please always replace battery with the correct size and voltage.
 
@@ -68,7 +68,7 @@ IV. Replace the Cover.
 
 1
 
-* ![](<.gitbook/assets/4 (42).jpeg>)_**Supervision**_
+* ![](<.gitbook/assets/4 (44).jpeg>)_**Supervision**_
   * A supervision signal is sent out every 30-50 minutes along with current temperature reading and battery status.
   * The supervision time is reset whenever a signal is transmitted. (such as **Tamper open** signal, **Tamper close** signal, etc.).
 * _**Getting Started**_
@@ -81,7 +81,7 @@ IV. Replace the Cover.
   * When you are satisfied that the Temperature Sensor works in the chosen location, you can proceed with installation.
 * _**Installation**_
 
-![](<.gitbook/assets/5 (26).jpeg>) ![](<.gitbook/assets/6 (36).jpeg>)
+![](<.gitbook/assets/5 (33).jpeg>) ![](<.gitbook/assets/6 (45).jpeg>)
 
 There are two ways to mount the Temperature Sensor: Self-adhesive or Screw mounting.
 
@@ -92,7 +92,7 @@ There are two ways to mount the Temperature Sensor: Self-adhesive or Screw mount
 
 III. Next remove the other cover and firmly press the item onto the desired location.
 
-![](<.gitbook/assets/7 (31).png>)
+![](<.gitbook/assets/7 (42).png>)
 
 _\<NOTE>_
 
@@ -108,7 +108,7 @@ II. Using the holes as a template, drill holes in the surface III. Insert the wa
 
 IV. Screw the base into the wall plugs, then screw the cover back onto its base.
 
-![](<.gitbook/assets/8 (28).jpeg>)
+![](<.gitbook/assets/8 (35).jpeg>)
 
 * _**Operation & Alarm Activation**_
   * The Temperature Sensor can be selected to use either the Internal or External temperature probe according to Dip Switch setting

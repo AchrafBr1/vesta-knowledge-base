@@ -1,8 +1,8 @@
 # VESTA 090
 
-![](<.gitbook/assets/0 (38).png>)**Care Watch (CW-1)**
+![](<.gitbook/assets/0 (51).png>)**Care Watch (CW-1)**
 
-![](<.gitbook/assets/1 (43).png>) ![](<.gitbook/assets/2 (33).jpeg>)
+![](<.gitbook/assets/1 (54).png>) ![](<.gitbook/assets/2 (38).jpeg>)
 
 _**Parts Identification**_
 
@@ -13,7 +13,7 @@ _**Parts Identification**_
   * Press and hold the Active Button for 8 seconds to send a Cancel Code to the Control Panel. (This function is not compatible with every control panel).
 * _**Learn In Care Watch**_
 
-![](<.gitbook/assets/3 (49).png>) ![](<.gitbook/assets/4 (45).png>)
+![](<.gitbook/assets/3 (59).png>) ![](<.gitbook/assets/4 (56).png>)
 
 Step 1. Put the Control Panel into **Learning Mode**.
 
@@ -21,7 +21,7 @@ Step 2. Press the Active Button on the Care Watch, a radio signal will be transm
 
 Step 3. Please refer to the operation manual of your control panel to complete the process.
 
-![](<.gitbook/assets/5 (44).png>)
+![](<.gitbook/assets/5 (57).png>)
 
 * _**Battery**_
 
@@ -29,7 +29,7 @@ The RF transmitter uses a CR2016 3V Lithium battery as its power source, while t
 
 Every time the Active Button is pressed, the Care Watch will check the battery voltage. If low battery is detected for 3 times successively, the Care Watch will enter low battery status and transmit Low Battery signal along with regular signal every time the button is pressed.
 
-![](<.gitbook/assets/6 (28).png>)
+![](<.gitbook/assets/6 (39).png>)
 
 _\<NOTE>_
 
@@ -44,7 +44,7 @@ The Care Watch features Auto Low Battery detection function.
 * _**Changing Battery**_
   * The CW-1 is powered by two batteries, one is for RF transmitter and the other is for the watch itself. Please note that the component is delicate, the replacement of battery shall be performed by a watchmaker or a horologist only to avoid damaging the watch.
 
-![](<.gitbook/assets/7 (24).png>)
+![](<.gitbook/assets/7 (35).png>)
 
 1
 
@@ -58,7 +58,7 @@ The Care Watch features Auto Low Battery detection function.
 
 **Figure 1** **Figure 2** **Figure 3**
 
-![](<.gitbook/assets/8 (28).png>)
+![](<.gitbook/assets/8 (39).png>)
 
 **Step 5.** To replace the battery of the watch itself, use tweezers to pick up the PCB board and put it aside for later use **(Figure 4)**.
 
@@ -72,7 +72,7 @@ PCB board is replaced **(Figure 7)**.
 
 **Figure 4** **Figure 5** **Figure 6** **Figure 7**
 
-![](<.gitbook/assets/9 (29).png>)
+![](<.gitbook/assets/9 (43).png>)
 
 **Step 10.** Use a special tool, such as a C Clamp or a watch press and slowly press down to apply pressure to close the watch back.
 

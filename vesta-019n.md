@@ -12,7 +12,7 @@ DC-23: Door Contact’s cover is secured by a bottom fixing screw.
 
 DC-23-R3: Door Contact’s cover is secured by two latches at top and the bottom.
 
-![](<.gitbook/assets/0 (26).png>)
+![](<.gitbook/assets/0 (39).png>)
 
 **Parts Identification**
 
@@ -31,11 +31,11 @@ When the Door Contact is mounted, the Tamper switch will be activated when the c
 1. **Battery Insulator**
 2. **Supervision Jumper Switch (JP2) (**_**868WF model only**_**)**
 
-![](<.gitbook/assets/1 (21).jpeg>)
+![](<.gitbook/assets/1 (32).jpeg>)
 
 **Jumper On**
 
-![](<.gitbook/assets/2 (20).jpeg>) ![](<.gitbook/assets/3 (19).jpeg>)
+![](<.gitbook/assets/2 (25).jpeg>) ![](<.gitbook/assets/3 (26).jpeg>)
 
 The jumper link is inserted, connecting the two pins
 
@@ -48,11 +48,11 @@ The jumper link is removed or “**parked**” on one pin.
 
 **6. Reed Switch Jumper Switch (JP3)**
 
-![](<.gitbook/assets/4 (18).jpeg>)
+![](<.gitbook/assets/4 (20).jpeg>)
 
 **Jumper On**
 
-![](<.gitbook/assets/5 (14).jpeg>) ![](<.gitbook/assets/6 (17).jpeg>)
+![](<.gitbook/assets/5 (21).jpeg>) ![](<.gitbook/assets/6 (26).jpeg>)
 
 The jumper link is inserted, connecting the two pins
 
@@ -73,13 +73,13 @@ In addition to the built-in magnet switch, an additional 2-pin dry contact termi
 3. **Magnet Screw hole**
 4. **Magnet Spacer**
 
-![](<.gitbook/assets/7 (16).jpeg>)
+![](<.gitbook/assets/7 (25).jpeg>)
 
 1
 
 **Features**
 
-![](<.gitbook/assets/8 (12).jpeg>)
+![](<.gitbook/assets/8 (19).jpeg>)
 
 * _**LED Indicator**_
   * In Normal Operation Mode, the LED will not light up when the Door Contact is activated.
@@ -89,7 +89,7 @@ In addition to the built-in magnet switch, an additional 2-pin dry contact termi
   * When the battery is exhausted, the Door Contact will stop all functions, and the LED will flash every 4 seconds.
 * _**Extension Terminal**_
 
-![](<.gitbook/assets/9 (7).jpeg>)
+![](<.gitbook/assets/9 (10).jpeg>)
 
 The Door Contact has an extension terminal to provide enhanced flexibility. The extension terminal forms a closed loop with the device connected to it. When the device is triggered with the loop opened, the Door Contact will also be triggered. The extension terminal and the internal magnetic switch can function together to trigger the Door Contact when either of them is activated, you can also choose to disable the internal magnetic switch through JP3 Jumper setting.
 
@@ -97,7 +97,7 @@ To connect the device to extension terminal:
 
 **For DC-23 model:**
 
-![](<.gitbook/assets/10 (8).jpeg>)
+![](<.gitbook/assets/10 (10).jpeg>)
 
 1. Open the Door Contact’s cover with a screwdriver to loosen the cover fixing screw at the bottom of the Door Contact’s cover (see the top-view picture on the right).
 2. The upper end of the front case has a thinner plastic knockout. Break through the knockout to create a hole for the wiring connection to the extension terminal.
@@ -109,7 +109,7 @@ To connect the device to extension terminal:
 2. The upper end of the front case has a thinner plastic knockout. Break through the knockout to create a hole for the wiring connection to the extension terminal.
 3. Connect the device to the extension terminal
 
-![](<.gitbook/assets/11 (12).jpeg>)
+![](<.gitbook/assets/11 (13).jpeg>)
 
 The extension terminal may be useful for the following situation.
 
@@ -120,7 +120,7 @@ additional extension magnet switch to the extension terminal to mount the Door C
 * Any dry contact devices with an N.C. (Normal Close) loop can be connected to the extension terminal making the Door Contact serve as a Universal Transmitter.
 * Multiple dry contact devices can be wired together with Door Contact, as shown in the picture below.
 
-![](<.gitbook/assets/12 (7).jpeg>)
+![](<.gitbook/assets/12 (9).jpeg>)
 
 *
   *
@@ -129,7 +129,7 @@ additional extension magnet switch to the extension terminal to mount the Door C
   * The Door Contact is powered by one CR123 3V Lithium battery. Please note: **ALWAYS** replace the battery with the correct size and voltage.
   * The Door Contact can detect low battery conditions. When the battery voltage is low, a low battery signal will be sent to the Control Panel to indicate the condition. The LED will light up when the Door Contact is activated under the low battery status. When the battery is exhausted, the Door Contact will stop all functions, and the LED will flash every 4 seconds.
 
-![](<.gitbook/assets/13 (6).jpeg>)
+![](<.gitbook/assets/13 (7).jpeg>)
 
 2
 
@@ -153,7 +153,7 @@ additional extension magnet switch to the extension terminal to mount the Door C
   * After the Door Contact is learned-in, place the Control Panel in (**Walk Test)** mode, hold the Door Contact at a desired location, and press the test button to transmit a test signal to the Control Panel. If the Control Panel is within the Door Contact signal range, the panel will display the door contact information accordingly.
   * Proceed with mounting and installation once you are satisfied that the Door Contact functions properly at the desired location.
 
-![](<.gitbook/assets/14 (8).jpeg>) ![](<.gitbook/assets/15 (7).jpeg>) ![](<.gitbook/assets/16 (7).jpeg>) ![](<.gitbook/assets/17 (7).jpeg>)
+![](<.gitbook/assets/14 (10).jpeg>) ![](<.gitbook/assets/15 (7).jpeg>) ![](<.gitbook/assets/16 (7).jpeg>) ![](<.gitbook/assets/17 (7).jpeg>)
 
 **Installation**
 
@@ -186,7 +186,7 @@ _< NOTE >_
   * Screw the magnet onto the door.
   * Insert the two white caps into the magnet screw holes for aesthetic integrity.
 
-![](<.gitbook/assets/20 (11).png>)
+![](<.gitbook/assets/20 (15).png>)
 
 3
 

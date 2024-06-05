@@ -8,7 +8,7 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (32).jpeg>)
+![](<.gitbook/assets/0 (41).jpeg>)
 
 1. **Test Button / LED Indicator**
 
@@ -67,7 +67,7 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
 
 **Installation**
 
-![](<.gitbook/assets/1 (27).jpeg>)
+![](<.gitbook/assets/1 (38).jpeg>)
 
 * _**Installation Guideline & Recommendations**_
 
@@ -75,7 +75,7 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
 
 * The Garage Tilt Sensor should be installed on garage door. When the door is open and the detected surface is tilted less than or equals to 35°(+-10) degrees, or when the door is closed and the detected surface is tilted more than or equals to 55°(+-10) degrees, the Garage Tilt Sensor will transmit alarm signal to the Control Panel.
 
-![](<.gitbook/assets/2 (25).jpeg>)
+![](<.gitbook/assets/2 (30).jpeg>)
 
 
 
@@ -83,7 +83,7 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
 
 * The Garage Tilt Sensor should be mounted on the top panel of the garage door, as shown below.
 
-![](<.gitbook/assets/3 (23).jpeg>)
+![](<.gitbook/assets/3 (30).jpeg>)
 
 **Recommendations:**
 
@@ -93,7 +93,7 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
   * Mount the device on a dry and clean surface. Ensure the device is mounted with the LED indicator on top.
 * _**Mounting the Garage Tilt Sensor**_
 
-![](<.gitbook/assets/4 (25).jpeg>)
+![](<.gitbook/assets/4 (27).jpeg>)
 
 There are two ways to mount the Garage Tilt Sensor. Ensure the location is within signal range of the Control Panel and follow steps below to proceed:
 
@@ -105,7 +105,7 @@ There are two ways to mount the Garage Tilt Sensor. Ensure the location is withi
 
 plugs. Ensure the wall plugs are flush with the wall.
 
-![](<.gitbook/assets/5 (18).jpeg>)
+![](<.gitbook/assets/5 (25).jpeg>)
 
 _\<NOTE>_
 

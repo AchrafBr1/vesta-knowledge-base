@@ -6,19 +6,19 @@ The Remote Controller is used to arm the system in home or away mode, disarm the
 
 * _**Identifying the parts**_
 
-1. ![RC-29 868WF](<.gitbook/assets/0 (17).jpeg>)![](<.gitbook/assets/1 (11).jpeg>) **AWAY ARM BUTTON**
+1. ![RC-29 868WF](<.gitbook/assets/0 (26).jpeg>)![](<.gitbook/assets/1 (22).jpeg>) **AWAY ARM BUTTON**
 
 Press this button to arm the system in away mode.
 
-1. ![panic](<.gitbook/assets/2 (4) (1).jpeg>) **PANIC BUTTON**
+1. ![panic](<.gitbook/assets/2 (15).jpeg>) **PANIC BUTTON**
 
 Press and hold this button for 3 seconds to send a panic signal regardless of system mode.
 
-1. ![](<.gitbook/assets/3 (6) (1).jpeg>) **DISARM BUTTON**
+1. ![](<.gitbook/assets/3 (17).jpeg>) **DISARM BUTTON**
 
 Press this button to disarm the system. When alarm is activated, pressing this button will stop the alarm.
 
-1. ![](<.gitbook/assets/4 (2) (1).jpeg>) **HOME ARM BUTTON**
+1. ![](<.gitbook/assets/4 (12).jpeg>) **HOME ARM BUTTON**
 
 Pressing this button will arm the system in home mode.
 

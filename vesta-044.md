@@ -19,7 +19,7 @@ The UPIC5 Z-Wave Infrared Remote Control series includes the following models:
 
 **1. IR Eye**
 
-![](<.gitbook/assets/0 (10).jpeg>)
+![](<.gitbook/assets/0 (19).jpeg>)
 
 Transmits IR signal to appliances.
 
@@ -61,7 +61,7 @@ if the jumper link is removed or “**parked**” on one pin.
 
 The jumper link is inserted connecting the two pins
 
-![](<.gitbook/assets/1 (17).png>)![](<.gitbook/assets/2 (20).png>)
+![](<.gitbook/assets/1 (28).png>)![](<.gitbook/assets/2 (31).png>)
 
 Jumper ON –IR Transmission power set to Low. **(Factory Default)**
 
@@ -77,7 +77,7 @@ if the jumper link is removed or “**parked**” on one pin.
 
 The jumper link is inserted connecting the two pins
 
-![](<.gitbook/assets/3 (19).png>)![](<.gitbook/assets/4 (18).png>)
+![](<.gitbook/assets/3 (29).png>)![](<.gitbook/assets/4 (29).png>)
 
 Jumper ON –IR Transmission power set to High.
 
@@ -148,7 +148,7 @@ In order to use the IR Remote Control to control your home appliance, the IR Rem
 
 ON
 
-![](<.gitbook/assets/5 (4) (1).jpeg>)
+![](<.gitbook/assets/5 (12).jpeg>)
 
 OFF
 
@@ -258,7 +258,7 @@ The IR Remote Control is designed to be mounted on wall. It can be mounted by ei
 
 * _Mounting the IR Remote Control_
 
-![](<.gitbook/assets/6 (7) (1).jpeg>)
+![](<.gitbook/assets/6 (16).jpeg>)
 
 The IR Remote Control is designed to be mounted on wall. It can be mounted by either directly screwing the back cover onto the wall, or by installing the rotational bracket first, then install the main body on the bracket. The IR Eye should be pointed to the home appliance you want to control when the IR Remote Control is installed.
 
@@ -282,7 +282,7 @@ The Rotational Bracket has an adjustable head which can be attached to the IR Re
 3. Hook the IR Remote Control onto the brackets using the holes on the back.
 4. After completing installation, you can use a Philip screw driver to loosen the screw on top of the bracket, then adjust the IR transmitter angle and tighten the screw to lock the bracket angle.
 
-![](<.gitbook/assets/7 (6) (1).jpeg>)
+![](<.gitbook/assets/7 (15).jpeg>)
 
 * Operation
 * _Control via Z-Wave Gateway/Control Panel_
@@ -295,7 +295,7 @@ The IR Remote Control can be controlled via Climax Z-Wave Gateway/Control Panels
 
 * _IR Signal Coverage & IR LED Selection_
 
-![](<.gitbook/assets/8 (3) (1).jpeg>)
+![](<.gitbook/assets/8 (12).jpeg>)
 
 The IR Eye of the IR Remote Control includes 6 LEDs which are used to transmit IR signals, with 1 central LED and 5 surrounding LEDs. The 5 surrounding LEDs are positioned at 45° angle to the PCB board. **LED Signal Coverage:**
 
@@ -310,7 +310,7 @@ When installing the IR Remote Control, select the IR LED used via your Control P
 
 Please refer to diagram below for IR signal coverage:
 
-![](<.gitbook/assets/9 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/9 (5).jpeg>)
 
 * _IR Transmission Power_
 
@@ -330,7 +330,7 @@ Item ID MSB: for appliance type, 01\~05
 
 Item ID LSB: for IR signal data, 01\~08
 
-![](<.gitbook/assets/10 (2) (1) (1).png>)
+![](<.gitbook/assets/10 (18).png>)
 
 **Z-Wave Information**
 

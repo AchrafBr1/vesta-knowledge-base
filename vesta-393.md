@@ -1,6 +1,6 @@
 # VESTA 393
 
-![](<.gitbook/assets/0 (6).png>)**Wired Tag Reader (TG-15N-BUS)**
+![](<.gitbook/assets/0 (11).png>)**Wired Tag Reader (TG-15N-BUS)**
 
 * _**Introduction**_
 
@@ -10,7 +10,7 @@ The Wired Tag Reader is integrated with NFC labels for you to quickly arm or dis
 
 The device consists of a two-part design made up of a cover and a base. The cover contains all the electronics and the base provides a mean of fixing. The tamper switch protects the enclosure from being opened or being removed from the mounting surface.
 
-![](<.gitbook/assets/1 (4).png>)
+![](<.gitbook/assets/1 (9).png>)
 
 * _**Identifying the Parts**_
 
@@ -21,7 +21,7 @@ The device consists of a two-part design made up of a cover and a base. The cove
 
 When the Wired Tag Reader is connected as the furthest BUS device on a BUS line, please set the Reader's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (6).jpeg>) ![](<.gitbook/assets/3 (5).png>)
+![](<.gitbook/assets/2 (7).jpeg>) ![](<.gitbook/assets/3 (9).png>)
 
 **Jumper On**
 
@@ -43,11 +43,11 @@ The jumper link is removed or “**parked**” on one pin.
 4. **Knockouts for Mounting Screws**
 5. **BUS Wiring Hole**
 
-![](<.gitbook/assets/5 (3).jpeg>)
+![](<.gitbook/assets/5 (4).jpeg>)
 
 1
 
-* ![](<.gitbook/assets/6 (6).png>)_**LED Indicator:**_
+* ![](<.gitbook/assets/6 (10).png>)_**LED Indicator:**_
   * **Green LED:**
     * Light on for 3 seconds: when Control Panel is under Disarm Mode
     * Flashes for 5 seconds: when the Arm Button is pressed (_Put the tag near the Sensor Zone to Arm the system during this 5 seconds_)
@@ -59,11 +59,11 @@ The jumper link is removed or “**parked**” on one pin.
     * Light on for 3 seconds: when TG-15N-BUS senses a tag as it loses connection with the Control Panel
 * _**Power:**_
 
-![](<.gitbook/assets/7 (3).jpeg>) ![](<.gitbook/assets/8 (3).jpeg>) ![](<.gitbook/assets/9 (8).png>)
+![](<.gitbook/assets/7 (4).jpeg>) ![](<.gitbook/assets/8 (5).jpeg>) ![](<.gitbook/assets/9 (12).png>)
 
 When TG-15N-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
 
-![](<.gitbook/assets/10 (9).png>)
+![](<.gitbook/assets/10 (13).png>)
 
 * _**Tamper Protection:**_
   * The Wired Tag Reader is protected against any attempt to open the lid or to detach the Reader from its mounting surface (see **Mounting Tag Reader** for details).
@@ -77,7 +77,7 @@ When TG-15N-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provid
   * Before connecting the Wired Tag Reader to the system bus, please switch the power off.
   * To assist cable connection, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/11 (4).png>) ![](<.gitbook/assets/12 (6).png>) ![](<.gitbook/assets/13 (6).png>) ![](<.gitbook/assets/14 (3).jpeg>)
+![](<.gitbook/assets/11 (9).png>) ![](<.gitbook/assets/12 (10).png>) ![](<.gitbook/assets/13 (11).png>) ![](<.gitbook/assets/14 (3).jpeg>)
 
 | **Red**    | VDD  |
 | ---------- | ---- |
@@ -91,7 +91,7 @@ When TG-15N-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provid
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
-![](<.gitbook/assets/15 (5).png>)
+![](<.gitbook/assets/15 (10).png>)
 
 _\<NOTE>_
 
@@ -102,7 +102,7 @@ _\<NOTE>_
 
 * Incorrect connections will result in failure or malfunction. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/16 (8).png>)
+![](<.gitbook/assets/16 (13).png>)
 
 * _**Getting Started – Learning Wired Tag Reader into the Control Panel**_
 
@@ -118,7 +118,7 @@ Please follow the steps below to learn the device into the Hybrid Panel.
 
 **Step 5.** If the device is successfully learnt into the Panel, it will be displayed in the “Learned Device” section.
 
-![](<.gitbook/assets/17 (5).png>)
+![](<.gitbook/assets/17 (9).png>)
 
 * _**Identification**_
 
@@ -130,7 +130,7 @@ To locate the Wired Tag Reader in the BUS system:
 
 **Step 2.** If TG-15N-BUS receives the signal from the Hybrid Panel, the webpage will display a success message and TG-15N-BUS’s Green LED will flash 10 times to indicate where it is to the user.
 
-![](<.gitbook/assets/18 (8).png>)
+![](<.gitbook/assets/18 (11).png>)
 
 _\<NOTE>_
 
@@ -141,7 +141,7 @@ Please check whether TG-15N-BUS is connected properly to the Panel within approp
 
 * _**Walk Test**_
 
-![](<.gitbook/assets/19 (7).png>)
+![](<.gitbook/assets/19 (10).png>)
 
 * To make sure the Wired Tag Reader is able to communicate with the Panel after it is learned-in, place the Control Panel in Walk Test mode and press the learn button on TG-15N-BUS to transmit a test signal to the Control Panel.
 
@@ -149,7 +149,7 @@ Please check whether TG-15N-BUS is connected properly to the Panel within approp
 
 * When the Panel receives the test signal, it will beep once and display the Reader’s information accordingly on the top of the device list.
 
-![](<.gitbook/assets/20 (5).png>)
+![](<.gitbook/assets/20 (9).png>)
 
 _\<NOTE>_
 

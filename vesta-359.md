@@ -10,7 +10,7 @@ The Wired Door Contact design consists of a cover and base. The cover contains a
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (2).jpeg>)
+![](<.gitbook/assets/0 (3).jpeg>)
 
 1. **LED indicator / Test button**
 
@@ -19,11 +19,11 @@ Press the Test button to enter test mode for 3 minutes.
 1. **Cover Fixing Screw**
 2. **Input Jumper Switch (JP2)**
 
-![](<.gitbook/assets/1 (3) (1).png>)
+![](<.gitbook/assets/1 (8).png>)
 
 **Jumper On** **Jumper Off**
 
-![](<.gitbook/assets/2 (3).jpeg>) ![](<.gitbook/assets/3 (1) (1).jpeg>)
+![](<.gitbook/assets/2 (4).jpeg>) ![](<.gitbook/assets/3 (2).jpeg>)
 
 The jumper link is inserted, connecting the two The jumper link is removed or “**parked**” on one
 
@@ -37,7 +37,7 @@ pins. pin.
 
 When the Door Contact is connected as the furthest BUS device on a BUS line, please set the Door Contact 's terminal resistor jumper and the first BUS device’s (usually Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/4 (2) (1).png>)
+![](<.gitbook/assets/4 (7).png>)
 
 **Jumper On**
 
@@ -73,7 +73,7 @@ Used to fix and screw the Door Contact directly onto the door frame or the wall.
 
 **Features**
 
-![](<.gitbook/assets/5 (4).png>)
+![](<.gitbook/assets/5 (8).png>)
 
 * _**LED Indicator**_
   * In Normal Operation Mode, the LED will not light up when the Wired Door Contact is activated.
@@ -81,7 +81,7 @@ Used to fix and screw the Door Contact directly onto the door frame or the wall.
   * When the Wired Door Contact is in test mode, the LED will flash 3 times every time it is activated.
 * _**Extension Terminal**_
 
-![](<.gitbook/assets/6 (2) (1).png>)
+![](<.gitbook/assets/6 (6).png>)
 
 DC-23-BUS has an extension terminal to provide enhanced flexibility. According to the setting of JP2, the extension terminal forms a closed (Normally Closed (N.C.)) or open (Normally Open (N.O.)) loop with the device connected to it. When the device connected to the extension terminal is triggered, the Wired Door Contact will be triggered.
 
@@ -89,13 +89,13 @@ DC-23-BUS has an extension terminal to provide enhanced flexibility. According t
 | ------------------------------------------------ | --------------------------- | - |
 |                                                  |                             |   |
 
-![](<.gitbook/assets/7 (1) (1).jpeg>)
+![](<.gitbook/assets/7 (2).jpeg>)
 
 1. Open the Wired Door Contact’s cover with a screwdriver by loosening the cover fixing screw at the bottom of the device.
 2. The upper end of the front case has a thinner plastic knockout. Break through the knockout to create a hole for the wiring connection to the extension terminal.
 3. Connect the device to the extension terminal.
 
-![](<.gitbook/assets/8 (1) (1).jpeg>)
+![](<.gitbook/assets/8 (2).jpeg>)
 
 The extension terminal may be useful for the following situations:
 
@@ -103,7 +103,7 @@ The extension terminal may be useful for the following situations:
 * Any dry contact devices with an N.C. (Normal Closed) or N.O. (Normally Open) loop can be connected to the extension terminal making the Wired Door Contact serve as a Universal Transmitter.
 * Multiple dry contact devices can be wired together with the Wired Door Contact, as shown in the picture below.
 
-![](<.gitbook/assets/9 (5).png>)
+![](<.gitbook/assets/9 (9).png>)
 
 * _**Power Supply**_
   * When DC-23-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
@@ -117,11 +117,11 @@ The extension terminal may be useful for the following situations:
   * Under Test Mode, the LED will flash 3 times whenever the Wired Door Contact is activated.
   * Each additional Test Button press will reset the Test Mode period to 3 minutes.
 
-![](<.gitbook/assets/10 (5).png>) ![](<.gitbook/assets/11 (3) (1).png>) ![](<.gitbook/assets/12 (4).png>)
+![](<.gitbook/assets/10 (9).png>) ![](<.gitbook/assets/11 (8).png>) ![](<.gitbook/assets/12 (8).png>)
 
 2
 
-* ![](<.gitbook/assets/13 (5).png>)_**Caution**_
+* ![](<.gitbook/assets/13 (10).png>)_**Caution**_
   * Wiring of the Door Contact should only be performed by certified technicians with proper knowledge and training in electric equipment.
   * Before installation or any maintenance work, make sure the power supply has been disconnected.
 * _**Door Contact Wiring**_
@@ -129,7 +129,7 @@ The extension terminal may be useful for the following situations:
     * Before connecting the Wired Door Contact to the system BUS, please switch the power off.
     * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/14 (4).png>) ![](<.gitbook/assets/15 (2).jpeg>)
+![](<.gitbook/assets/14 (9).png>) ![](<.gitbook/assets/15 (2).jpeg>)
 
 | **Red**    | VDD  |
 | ---------- | ---- |
@@ -146,7 +146,7 @@ _\<NOTE>_
   * After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
 * Incorrect connections will result in failure or malfunction. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/16 (5).png>)
+![](<.gitbook/assets/16 (10).png>)
 
 * _**Learning**_
 
@@ -164,11 +164,11 @@ Step 5: If the device is successfully learnt into the Panel, it will be displaye
 
 * When learnt into the Panel, DC-23-BUS will be recognized as 2 separate devices and will occupy 2 zones in the Panel.
 
-![](<.gitbook/assets/17 (3).png>)
+![](<.gitbook/assets/17 (7).png>)
 
 3
 
-![](<.gitbook/assets/18 (5).png>)
+![](<.gitbook/assets/18 (8).png>)
 
 * To differentiate the 2 separate devices, it is advised to rename the device name by
 
@@ -176,11 +176,11 @@ clicking “Edit” under the device list after the device column entry.
 
 As shown on the Device Edit page, the ID with the last two digits of “**00**” represents the internal magnetic switch.
 
-![](<.gitbook/assets/19 (4).png>)
+![](<.gitbook/assets/19 (7).png>)
 
 The ID with the last two digits of “**02**” represents the extension terminal.
 
-![](<.gitbook/assets/20 (4).png>)
+![](<.gitbook/assets/20 (8).png>)
 
 * _**Identification**_
 

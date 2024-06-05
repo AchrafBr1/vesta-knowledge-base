@@ -4,7 +4,7 @@
 
 Elegant and compact, the Jewelry Necklace Pendant is designed to be worn by seniors as they move on the premises. When an emergency arises, the user can summon help with one simple button press.
 
-![](<.gitbook/assets/0 (44).jpeg>)
+![](<.gitbook/assets/0 (53).jpeg>)
 
 * _**Active Button**_
   * Pressing the Active Button for more than 1 sec will activate the Control Panel, causing it to dial emergency call or alarm.

@@ -5,13 +5,13 @@
 
 TMST-15ZW is a battery powered thermostat. It is designed to be incorporated into household heating and cooling system for home environment control. The Thermostat can be operated manually using the LCD screen and buttons, or accessed remotely via Z-Wave coordinator. It features cooling and heating modes with temperature set point and automatic schedule for you to control your home environment easily.
 
-* ![](<.gitbook/assets/0 (14).jpeg>)Parts Identification
+* ![](<.gitbook/assets/0 (23).jpeg>)Parts Identification
 
 **1. LCD Display**
 
 The LCD displays the following information:
 
-![](<.gitbook/assets/1 (21).png>)
+![](<.gitbook/assets/1 (32).png>)
 
 1. Heat mode Icon: When displayed, the Thermostat is under Heat mode.
 2. Cool mode Icon: When displayed, the Thermostat is under Cool mode.
@@ -36,7 +36,7 @@ When displayed, it indicates that the thermostat is not yet learnt into any gate
 
 \- Press 3 times within 1.5 seconds to transmit learning code, and “Joi NET” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/2 (25).png>)
+![](<.gitbook/assets/2 (36).png>)
 
 **4. Wall Mounting Hole**
 
@@ -60,7 +60,7 @@ The Thermostat uses 2 AA Alkaline batteries as its power source. The Sensor will
 
 The Thermostat control home heating/cooling system through relay control. Open and flip over the back cover, remove the internal cover on the relay to reveal the terminals for wiring. When wiring the Thermostat, wire the cable through the central opening on the back cover.
 
-![](<.gitbook/assets/3 (4) (1).jpeg>)
+![](<.gitbook/assets/3 (15).jpeg>)
 
 * _**Mode Control**_
 
@@ -128,13 +128,13 @@ Offset. You can press either UP (+) or Down (-) button to switch modes.
 
 In this mode, “Pro Mod” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/4 (22).png>)
+![](<.gitbook/assets/4 (33).png>)
 
 Heating/Cooling modes are available for selection. Press UP (+) button to select Heating and Down (-) button to select Cooling.
 
 Heating Cooling
 
-![](<.gitbook/assets/5 (15).png>)
+![](<.gitbook/assets/5 (28).png>)
 
 After finishing selection, wait for a few seconds for the Thermostat to quit setting mode automatically. The Thermostat will enter the mode last selected.
 
@@ -144,18 +144,18 @@ In this mode, “Pro RM” will be displayed on the LCD screen.
 
 The Remote Mode allows you to control remote relay via the Control Panel when function enabled. The Thermostat will not control the local relay in Remote Mode.
 
-![](<.gitbook/assets/6 (10).png>)
+![](<.gitbook/assets/6 (21).png>)
 
 * If remote mode is disabled, “dS RM” will be displayed on the LCD screen.
 * If remote mode is enabled, “En RM” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/7 (7) (1).png>)
+![](<.gitbook/assets/7 (18).png>)
 
 **Setpoint Offset:**
 
 In this mode, “Pro OFS” will be displayed on the LCD screen. Setpoint Offset function allows you to compensate the deviation. To calculate setpoint offset, simply subtract room temperature with device temperature. When under local mode, press and hold Down (-) button for 3 seconds to enter programming mode. After finishing selection, wait for a few seconds for the Thermostat to enter mode selection.
 
-![](<.gitbook/assets/8 (7) (1).png>)
+![](<.gitbook/assets/8 (18).png>)
 
 For example: If device temperature is 20°C and room temperature is 18°C, then setpoint offset = 18 – 20 = -2°C.
 

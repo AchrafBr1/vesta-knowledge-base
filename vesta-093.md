@@ -1,6 +1,6 @@
 # VESTA 093
 
-![](<.gitbook/assets/0 (39).png>)**Pull Cord Unit (PCU-3 / PCU-5)**
+![](<.gitbook/assets/0 (52).png>)**Pull Cord Unit (PCU-3 / PCU-5)**
 
 The Pull Cord Unit is used to activate an alarm when the cord is pulled. It can be quickly installed in easily accessible indoor locations for user to pull for emergency help.
 
@@ -10,11 +10,11 @@ PCU-3: Pull Cord Unit
 
 PCU-5: Pull Cord Unit with IPX4 Waterproof standard
 
-![](<.gitbook/assets/1 (45).png>)
+![](<.gitbook/assets/1 (56).png>)
 
 * _**Parts Identification**_
 
-![](<.gitbook/assets/2 (52).png>)
+![](<.gitbook/assets/2 (63).png>)
 
 **1. LED Indicator**
 
@@ -42,7 +42,7 @@ Pull the attached cord to activate PCU. For cord installation, see the _**Instal
     * When in emergency, pull the cord to activate PCU, PCU will transmit an emergency signal to the Control Panel, the LED will also light up.
 * _**Installation**_
 
-![](<.gitbook/assets/3 (51).png>) ![](<.gitbook/assets/4 (47).png>) ![](<.gitbook/assets/5 (46).png>) ![](<.gitbook/assets/6 (29).png>)
+![](<.gitbook/assets/3 (61).png>) ![](<.gitbook/assets/4 (58).png>) ![](<.gitbook/assets/5 (59).png>) ![](<.gitbook/assets/6 (40).png>)
 
 **Battery Installation**
 
@@ -54,7 +54,7 @@ Step 2. Open the upper cover of PCU by using the flat-headed screwdriver (**Pic 
 
 1
 
-![](<.gitbook/assets/7 (25).png>)
+![](<.gitbook/assets/7 (36).png>)
 
 **Lid**
 
@@ -62,7 +62,7 @@ Step 2. Open the upper cover of PCU by using the flat-headed screwdriver (**Pic 
 
 Step 3. Loosen the two screws on the PCU base securing the stabilizer using a Philips screwdriver so that the stabilizer becomes mobile (**Pic 3.**) _It is not mandatory to entirely remove both screws_.
 
-![](<.gitbook/assets/8 (30).png>)
+![](<.gitbook/assets/8 (41).png>)
 
 **Stabilizer**
 
@@ -74,7 +74,7 @@ Step 3. Loosen the two screws on the PCU base securing the stabilizer using a Ph
 
 Step 4. Rotate the stabilizer gently in anti-clockwise direction until both screw heads meets the end of the screw holes as picture shown below (**Pic 4.**), then remove the stabilizer from the bottom case and flip it over, you will see the battery compartment as (**Pic 5.**)
 
-![](<.gitbook/assets/9 (30).png>)
+![](<.gitbook/assets/9 (44).png>)
 
 **(Pic 4.)** **(Pic 5.)**
 
@@ -86,13 +86,13 @@ Step 7. Replace the upper cover, make sure the latches on the stabilizer is expo
 
 Step 8. Replace the lid. Please match the PCU LED with LED mark behind the lid and match the latches accordingly when replacing (**Pic 7.**).
 
-![](<.gitbook/assets/10 (26).png>) **Latches**![](<.gitbook/assets/11 (21).png>)
+![](<.gitbook/assets/10 (34).png>) **Latches**![](<.gitbook/assets/11 (29).png>)
 
-![](<.gitbook/assets/12 (24).png>)
+![](<.gitbook/assets/12 (31).png>)
 
 **LED** **LED Mark**
 
-![](<.gitbook/assets/13 (19).png>)
+![](<.gitbook/assets/13 (27).png>)
 
 **(Pic 6.)** **(Pic 7.)**
 
@@ -110,7 +110,7 @@ The PCU-3 or PCU-5 comes supplied with a long cord that incorporates a bell-shap
 
 **Step 4.** The Cord Installation is complete.
 
-![](<.gitbook/assets/14 (14).png>)
+![](<.gitbook/assets/14 (21).png>)
 
 3
 
@@ -122,7 +122,7 @@ There are two ways to mount the PCU:
 
 Step 1. Open the PCU cover as instructed above (**steps 1\~4**) under _**Battery Installation.**_ Step 2. Break through the 4 appropriate knockouts on the base (**Pic 8.**).
 
-![](<.gitbook/assets/15 (15).png>)
+![](<.gitbook/assets/15 (23).png>)
 
 **(Pic 8.)**
 
@@ -142,7 +142,7 @@ Step 2. Insert the stabilizer into the hole (or box) in the wall and tighten the
 
 Step 3. Once the stabilizer is well inserted, replace the upper cover and the lid to complete mounting.
 
-![](<.gitbook/assets/16 (16).png>)
+![](<.gitbook/assets/16 (24).png>)
 
 _**FCC Statement**_
 

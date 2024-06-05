@@ -6,23 +6,23 @@ The Remote Controller is used to arm the system in home or away mode, disarm the
 
 * _**Identifying the parts**_
 
-**1.** ![](<.gitbook/assets/0 (54).jpeg>) **BUTTON**
+**1.** ![](<.gitbook/assets/0 (63).jpeg>) **BUTTON**
 
 Press this button to arm the system in away mode.
 
-![](<.gitbook/assets/1 (46).jpeg>)
+![](<.gitbook/assets/1 (57).jpeg>)
 
-**2.** ![](<.gitbook/assets/2 (43).jpeg>) **BUTTON**
+**2.** ![](<.gitbook/assets/2 (48).jpeg>) **BUTTON**
 
 Press this button to disarm the system.
 
 When alarm is activated, press the button to stop alarm
 
-1. ![](<.gitbook/assets/3 (40).jpeg>) **BUTTON**
+1. ![](<.gitbook/assets/3 (47).jpeg>) **BUTTON**
 
 Pressing this button will arm the system in home mode.
 
-1. ![](<.gitbook/assets/4 (52).png>) **BUTTON**
+1. ![](<.gitbook/assets/4 (63).png>) **BUTTON**
 
 Press and hold this button for 3 seconds to send a
 

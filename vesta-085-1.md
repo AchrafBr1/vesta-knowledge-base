@@ -6,7 +6,7 @@ The Slim Door Contact monitors the opening/closing of specified devices (e.g., d
 
 **Identifying the parts**
 
-![](<.gitbook/assets/0 (46).jpeg>)
+![](<.gitbook/assets/0 (55).jpeg>)
 
 1. **LED Indicator**
 2. **Learn/Test Button**
@@ -25,7 +25,7 @@ The Slim Door Contact monitors the opening/closing of specified devices (e.g., d
 
 **Features**
 
-![](<.gitbook/assets/1 (39).jpeg>)
+![](<.gitbook/assets/1 (50).jpeg>)
 
 * _**LED Indicator**_
 
@@ -49,7 +49,7 @@ _\<NOTE>_
 * _**Test Mode**_
   * The Door Contact can be put into Test mode for 3 minutes by pressing the Learn/Test Button once.
 
-![](<.gitbook/assets/2 (32).jpeg>) ![](<.gitbook/assets/3 (31).jpeg>) ![](<.gitbook/assets/4 (34).jpeg>) ![](<.gitbook/assets/5 (43).png>) ![](<.gitbook/assets/6 (30).jpeg>)
+![](<.gitbook/assets/2 (37).jpeg>) ![](<.gitbook/assets/3 (38).jpeg>) ![](<.gitbook/assets/4 (36).jpeg>) ![](<.gitbook/assets/5 (56).png>) ![](<.gitbook/assets/6 (39).jpeg>)
 
 1
 
@@ -59,7 +59,7 @@ _\<NOTE>_
 
 **Getting Started**
 
-![](<.gitbook/assets/7 (26).jpeg>)
+![](<.gitbook/assets/7 (35).jpeg>)
 
 * _**Learning**_
 
@@ -77,13 +77,13 @@ the desired location, and press the Learn/Test button to confirm if this locatio
 
 **Step 6:** If you are satisfied that the Door Contact works at the chosen location, you may proceed to installation.
 
-![](<.gitbook/assets/8 (19).jpeg>)
+![](<.gitbook/assets/8 (26).jpeg>)
 
 * _**Installation**_
 
 **Step 1:** The mounting surface should be clean, dry, and smooth. Clean the mounting surface with a suitable degreaser if needed.
 
-![](<.gitbook/assets/9 (28).png>)
+![](<.gitbook/assets/9 (42).png>)
 
 **Step 2:** Remove the tape liner from the adhesive tape on the back of the Door Contact.
 
@@ -93,14 +93,14 @@ the desired location, and press the Learn/Test button to confirm if this locatio
 
 **Step 5.** Apply the magnet on a mobile object, i.e., the door or window, and press firmly for 30 seconds to ensure good adhesion. The magnet must be aligned with the magnet detection area of the Door Contact (Please refer to Magnet Scope Positioning below).
 
-![](<.gitbook/assets/10 (25).png>)
+![](<.gitbook/assets/10 (33).png>)
 
 _\<NOTE>_
 
 * Do not apply the 3M adhesive tape on a surface with peeling or cracked paint, or on a rough surface.
 * The 3M adhesive tape cannot be reused.
 
-![](<.gitbook/assets/11 (20).png>)
+![](<.gitbook/assets/11 (28).png>)
 
 * _**Magnet Scope Positioning**_
   * The area near the Learn/Test Button of the Door Contact is the main magnet detection area.
@@ -109,6 +109,6 @@ _\<NOTE>_
   * The magnet should be positioned corresponding to the magnet detection area as the pictures below.
   * When installing within a door / window slot (similar as the image above), the gap between the window and window frame should be greater than **5mm**, or the window cannot be properly closed.
 
-![](<.gitbook/assets/12 (14).jpeg>)
+![](<.gitbook/assets/12 (16).jpeg>)
 
 2

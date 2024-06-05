@@ -58,7 +58,7 @@ VDP-3 Video Door Phone is designed to replace conventional doorbell by providing
 
 | **Front View**                                                     | <p><strong>Front View</strong></p><p><strong>(cover removed)</strong></p> | **Back View** |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------- |
-| <img src=".gitbook/assets/1 (23).png" alt="" data-size="original"> |                                                                           |               |
+| <img src=".gitbook/assets/1 (34).png" alt="" data-size="original"> |                                                                           |               |
 
 1. **Protective Cover**
 2. **Camera Lens**
@@ -142,7 +142,7 @@ VDP into the wall.
 
 | Figure 1                                                                                                                             | Figure 2 |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| <img src=".gitbook/assets/2 (28).png" alt="" data-size="original"><img src=".gitbook/assets/3 (24).png" alt="" data-size="original"> |          |
+| <img src=".gitbook/assets/2 (39).png" alt="" data-size="original"><img src=".gitbook/assets/3 (34).png" alt="" data-size="original"> |          |
 
 **Step 8.** Replace the protective cover on top of the VDP and tighten the cover fixing
 
@@ -158,12 +158,12 @@ In order to incorporate the Video Door Phone into existing Climax security syste
 
 A smartphone with **Vesta Home 5 TW / Vesta Home 5 US** or **Vesta Home 5 EU** app installed is required to perform setup. Search for the app in Google Play or Apple App Store, type **Vesta Home 5 TW/US/EU** on the search bar according to your server, then download the application. Refer to Climax Home Portal Server user guide for detail.
 
-![](<.gitbook/assets/4 (23).png>)
+![](<.gitbook/assets/4 (34).png>)
 
 1. Open Vesta Home 5 app and enter your existing user account & password of the Control Panel you wish to use for further setup.
 2. Tap the Camera icon in the navigation bar and the + icon on top left corner to add the VDP into your existing system. Select the VDP icon and tap “Next”.
 
-![](<.gitbook/assets/5 (6) (1).jpeg>) ![](<.gitbook/assets/6 (9).jpeg>)
+![](<.gitbook/assets/5 (14).jpeg>) ![](<.gitbook/assets/6 (18).jpeg>)
 
 1. Power up the Video Doorbell by applying AC power. The device will first warm up for about 30 seconds, and its Blue LED will begin to flash.
 
@@ -173,13 +173,13 @@ Flashing LED indicates the Video Doorbell does not have a working Wi-Fi setting 
 
 4.1. Manual: Use your VDP as an AP. Connect to your Wi-Fi. Make sure your smartphone’s Wi-Fi is enabled. Follow on-screen instructions and wait for your VDP to connect to your Wi-Fi network. After successfully joining to your Wi-Fi network, the app proceeds to learn the VDP into the Control Panel. When learning is completed, re-login to the app and start using your VDP.
 
-![](<.gitbook/assets/7 (8).png>) ![](<.gitbook/assets/8 (8) (1).png>) ![](<.gitbook/assets/9 (8) (1).png>) ![](<.gitbook/assets/10 (3) (1).png>) ![](<.gitbook/assets/11 (2) (1) (1).png>) ![](<.gitbook/assets/12 (3) (1).png>)
+![](<.gitbook/assets/7 (19).png>) ![](<.gitbook/assets/8 (19).png>) ![](<.gitbook/assets/9 (23).png>) ![](<.gitbook/assets/10 (19).png>) ![](<.gitbook/assets/11 (14).png>) ![](<.gitbook/assets/12 (17).png>)
 
-![](<.gitbook/assets/13 (2) (1) (1).png>)
+![](<.gitbook/assets/13 (15).png>)
 
 4.2. QR Code: Enter your SSID information to generate QR Code for VDP to scan. The QR Code includes information about the Wi-Fi network and the Control Panel. Follow on-screen instructions. Tap “QR Code” for your smartphone to display it. VDP will emit a short beep to indicate the scanning is successful. When the LED stops flashing, tap “Done” to complete the setup. After VDP successfully joins to your Wi-Fi network, the app will proceed to learn the VDP into the Control Panel. When learning is completed, the VDP is able to be viewed on the app.
 
-![](<.gitbook/assets/14 (2) (1).jpeg>) ![](<.gitbook/assets/15 (3) (1) (1).png>) ![](<.gitbook/assets/16 (3) (1) (1).png>)
+![](<.gitbook/assets/14 (6).jpeg>) ![](<.gitbook/assets/15 (14).png>) ![](<.gitbook/assets/16 (17).png>)
 
 ### Operation <a href="#toc51257989" id="toc51257989"></a>
 
@@ -191,7 +191,7 @@ When accessing the Home Portal Server account of the Control Panel using a web b
 
 _Two-way voice and doorbell functions are not enabled for web browser access. To uses these functions, a smartphone app is required. Please see **22. Smartphone Access** for detail._
 
-![](<.gitbook/assets/17 (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/17 (11).png>)
 
 ### Smartphone Access <a href="#toc51257991" id="toc51257991"></a>
 

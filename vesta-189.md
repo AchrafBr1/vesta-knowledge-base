@@ -18,13 +18,13 @@ TMST-15-ZBS-OTA
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (77).jpeg>)
+![](<.gitbook/assets/0 (86).jpeg>)
 
 **1. LCD Display**
 
 The LCD displays the following information:
 
-![](<.gitbook/assets/1 (68).jpeg>)
+![](<.gitbook/assets/1 (79).jpeg>)
 
 1. Heat mode Icon: When displayed, the Thermostat is under Heat mode.
 2. Cool mode Icon: When displayed, the Thermostat is under Cool mode.
@@ -49,7 +49,7 @@ Press to increase setpoint.
 
 Press and hold for 10 seconds to enter learning mode, and “Joi NET” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/2 (62).jpeg>)
+![](<.gitbook/assets/2 (67).jpeg>)
 
 1. **Wall Mounting Hole**
 2. **Battery Compartment**
@@ -66,25 +66,25 @@ Connect to home heating/cooling system.
 
 **Features**
 
-![](<.gitbook/assets/3 (55).jpeg>)
+![](<.gitbook/assets/3 (62).jpeg>)
 
 * _**Battery and Low Battery Detection**_
 
 The Thermostat uses 2 AA Alkaline batteries as its power source. The Thermostat features Low Battery Detection function. When the battery voltage is low, the Thermostat will transmit Low Battery signal to the coordinator in ZigBee network.
 
-![](<.gitbook/assets/4 (53).jpeg>)
+![](<.gitbook/assets/4 (55).jpeg>)
 
 * _**Relay Control**_
 
 The Thermostat control home heating/cooling system through relay control. Open and flip over the back cover, remove the internal cover on the relay to reveal the terminals for wiring. When wiring the Thermostat, wire the cable through the central opening on the back cover.
 
-![](<.gitbook/assets/5 (64).png>)
+![](<.gitbook/assets/5 (77).png>)
 
 * _**Mode Control**_
 
 The Thermostat has two operation modes: Local mode and Scheduled mode.
 
-![](<.gitbook/assets/6 (43).jpeg>) ![](<.gitbook/assets/7 (41).jpeg>)
+![](<.gitbook/assets/6 (52).jpeg>) ![](<.gitbook/assets/7 (50).jpeg>)
 
 * **Local Mode:**
 
@@ -92,13 +92,13 @@ Local mode allows adjustment of Thermostat Heat/Cool function and setpoints usin
 
 * **Scheduled Mode:**
 
-![](<.gitbook/assets/8 (36).jpeg>) ![](<.gitbook/assets/9 (28).jpeg>)
+![](<.gitbook/assets/8 (43).jpeg>) ![](<.gitbook/assets/9 (31).jpeg>)
 
 Scheduled mode allows Thermostat mode and setpoint control via Gateway after learning is completed.
 
 To change the operation mode, please refer to “_Programming Mode_” section for more details.
 
-![](<.gitbook/assets/10 (39).png>)
+![](<.gitbook/assets/10 (47).png>)
 
 * _**Heating/Cooling and Setpoint Control**_
 
@@ -112,7 +112,7 @@ Heat setpoint range: 9°C \~ 30°C.
 
 Cool setpoint range: 11°C \~ 32°C
 
-![](<.gitbook/assets/11 (30).png>)
+![](<.gitbook/assets/11 (38).png>)
 
 * _**Remote Control**_
 
@@ -120,7 +120,7 @@ After the Thermostat joins a ZigBee network, you can control the Thermostat via 
 
 The following functions are only available for setting via ZigBee coordinator and gateway:
 
-![](<.gitbook/assets/12 (20).jpeg>) ![](<.gitbook/assets/13 (25).jpeg>)
+![](<.gitbook/assets/12 (22).jpeg>) ![](<.gitbook/assets/13 (26).jpeg>)
 
 *
   * **Schedule:**
@@ -140,13 +140,13 @@ Hold – The Thermostat will bypass currently timed schedule and perform the nex
   * You can also press the ZigBee Network Button once to transmit a temperature signal manually.
 * _**Supervision**_
 
-![](<.gitbook/assets/14 (24).png>) ![](<.gitbook/assets/15 (23).png>)
+![](<.gitbook/assets/14 (31).png>) ![](<.gitbook/assets/15 (31).png>)
 
 The Thermostat will transmit a supervision signal every 10 minutes along with the temperature, current mode and set point information to report its condition regularly.
 
 2
 
-* ![](<.gitbook/assets/16 (25).png>)_**Programming Mode**_
+* ![](<.gitbook/assets/16 (33).png>)_**Programming Mode**_
 
 **Step 1.** Press and hold Down (-) button for 3 seconds to enter programming mode.
 
@@ -172,12 +172,12 @@ After finishing selection, wait for a few seconds for the Thermostat to quit set
 
 In this mode, “Pro RM” will be displayed on the LCD screen. The Remote Mode allows you to control remote relay via the Control Panel when function enabled. The Thermostat will not control the local relay in Remote Mode.
 
-![](<.gitbook/assets/19 (26).png>)
+![](<.gitbook/assets/19 (29).png>)
 
 * If remote mode is disabled, “dS RM” will be displayed on the LCD screen.
 * If remote mode is enabled, “En RM” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/20 (18).png>)
+![](<.gitbook/assets/20 (22).png>)
 
 **Setpoint Offset:**
 

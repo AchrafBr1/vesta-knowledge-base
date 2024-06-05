@@ -6,7 +6,7 @@ DCSV-29-2W is a Door Contact / Shock Sensor that is capable of sending wireless 
 
 The Door Contact / Shock Sensor design consists of a cover and base. The cover contains all electronics and the base provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening and/or removal.
 
-![](<.gitbook/assets/0 (43).jpeg>)
+![](<.gitbook/assets/0 (52).jpeg>)
 
 **Parts Identification**
 
@@ -24,7 +24,7 @@ The Door Contact / Shock Sensor design consists of a cover and base. The cover c
 
 **Features**
 
-![](<.gitbook/assets/1 (37).jpeg>)
+![](<.gitbook/assets/1 (48).jpeg>)
 
 * _**LED Indicator**_
   * In Normal Operation Mode, the LED will not light up when the device is activated.
@@ -37,17 +37,17 @@ The Door Contact / Shock Sensor design consists of a cover and base. The cover c
   * When the programming command from the Control Panel is successfully received, the LED will turn brighter and then turn dark.
 * _**Door Opening Detection & Shock Detection**_
 
-![](<.gitbook/assets/2 (48).png>)
+![](<.gitbook/assets/2 (59).png>)
 
 The device is triggered by door/window opening or a shock detection which exceeds detection threshold.
 
-![](<.gitbook/assets/3 (29).jpeg>)
+![](<.gitbook/assets/3 (36).jpeg>)
 
 * _**Materials of Mounting Surface**_
 
 The device supports shock detection on various materials including glass, wood, metal, and concrete. After installation, you can select the material of mounted surface on the Control Panel. The default is set as
 
-![](<.gitbook/assets/4 (43).png>)
+![](<.gitbook/assets/4 (54).png>)
 
 **Wood**
 
@@ -57,7 +57,7 @@ The device supports shock detection on various materials including glass, wood, 
 
 1
 
-* ![](<.gitbook/assets/5 (21).jpeg>)_**Battery**_
+* ![](<.gitbook/assets/5 (28).jpeg>)_**Battery**_
   * The Door Contact / Shock Sensor uses one CR123 3V Lithium battery as its power source. The battery is installed in the battery compartment with a battery insulator inserted. To activate the battery, simply pull out the battery insulator.
   * The Door Contact / Shock Sensor can detect low battery condition. When the battery voltage is low, a low battery signal will be sent to the Control Panel to notify the condition. The LED will light up when the Door Contact / Shock Sensor is activated under low battery status. When the battery is exhausted, the Door Contact / Shock Sensor will stop all function, the LED will flash every 4 seconds.
   * When changing batteries, after removing the old batteries, press the Tamper Switch twice to fully discharge before inserting new batteries.
@@ -82,7 +82,7 @@ The device supports shock detection on various materials including glass, wood, 
     2. Go to the Control Panel webpage to edit the device.
     3. Select the material and sensitivity level in the Device Setting page. Click OK to confirm.
 
-![](<.gitbook/assets/6 (28).jpeg>) ![](<.gitbook/assets/7 (25).jpeg>) ![](<.gitbook/assets/8 (18).jpeg>) ![](<.gitbook/assets/9 (26).png>) ![](<.gitbook/assets/10 (13).jpeg>) ![](<.gitbook/assets/11 (18).png>) ![](<.gitbook/assets/12 (22).png>)
+![](<.gitbook/assets/6 (37).jpeg>) ![](<.gitbook/assets/7 (34).jpeg>) ![](<.gitbook/assets/8 (25).jpeg>) ![](<.gitbook/assets/9 (40).png>) ![](<.gitbook/assets/10 (15).jpeg>) ![](<.gitbook/assets/11 (26).png>) ![](<.gitbook/assets/12 (29).png>)
 
 2
 
@@ -93,11 +93,11 @@ The device supports shock detection on various materials including glass, wood, 
   * After the Door Contact / Shock Sensor is learned-in, place the Control Panel into (**Walk Test**) mode, hold the Door Contact / Shock Sensor in the desired location, and press the Test Button to transmit test signal to Control Panel. If the Control Panel is within Door Contact / Shock Sensor signal range, the panel will display Door Contact / Shock Sensor information accordingly.
   * Proceed with mounting and installation once you are satisfied that the Door Contact / Shock Sensor functions properly in the desired location.
 
-![](<.gitbook/assets/13 (14).jpeg>)
+![](<.gitbook/assets/13 (15).jpeg>)
 
 **Installation**
 
-![](<.gitbook/assets/14 (16).jpeg>)
+![](<.gitbook/assets/14 (18).jpeg>)
 
 * _**Mounting the Door Contact / Shock Sensor**_
 
@@ -143,6 +143,6 @@ Refer to the table below for information about installation location and the thi
   6. Screw the magnet and insert the two white caps into the magnet screw holes for aesthetic integrity.
   7. Installation is now complete.
 
-![](<.gitbook/assets/18 (14).png>) ![](<.gitbook/assets/19 (4).jpeg>)
+![](<.gitbook/assets/18 (17).png>) ![](<.gitbook/assets/19 (4).jpeg>)
 
 4

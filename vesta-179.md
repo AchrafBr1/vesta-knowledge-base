@@ -16,7 +16,7 @@ SCM-5ZBS
 
 SCM-5ZBS-OTA
 
-![](<.gitbook/assets/0 (68).jpeg>)
+![](<.gitbook/assets/0 (77).jpeg>)
 
 **Parts Identification**
 
@@ -64,7 +64,7 @@ Connect to the Close terminal of the Shutter Motor.
 
 1
 
-![](<.gitbook/assets/1 (60).jpeg>)**Caution**
+![](<.gitbook/assets/1 (71).jpeg>)**Caution**
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * Before installation or any maintenance work, make sure the power supply has been disconnected.
@@ -113,19 +113,19 @@ The Shutter Control will transmit a supervision signal to report its condition r
 
 **Picture1** **Picture 2**
 
-![](<.gitbook/assets/2 (61).png>)
+![](<.gitbook/assets/2 (72).png>)
 
 1. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
 **Picture 3** **Picture 4**
 
-![](<.gitbook/assets/3 (62).png>)
+![](<.gitbook/assets/3 (72).png>)
 
 *
   1. In the same way as step 1 & 2, connect the other wires with connectors.
 * SCM-5 should be connected according to the diagram below:
 
-![](<.gitbook/assets/4 (47).jpeg>)
+![](<.gitbook/assets/4 (49).jpeg>)
 
 * Connect N terminal of SCM to the N terminal of Power Supply.
 * Connect L terminal of SCM to the L terminal of Power Supply.

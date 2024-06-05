@@ -1,6 +1,6 @@
 # VESTA 011
 
-![](<.gitbook/assets/0 (22).png>)**REMOTE KEYPAD (KP-39)**
+![](<.gitbook/assets/0 (35).png>)**REMOTE KEYPAD (KP-39)**
 
 * _**Parts Identification**_
 
@@ -14,7 +14,7 @@
 6. Medical Alarm (if enabled)
    * press both 7 and 9 to trigger Medical alarm
 
-![](<.gitbook/assets/1 (31).png>)
+![](<.gitbook/assets/1 (42).png>)
 
 1. Send Learning Code
    * press ＊then 7 Key (under Test Mode)
@@ -43,7 +43,7 @@ _\<NOTE>_
       * Disarm Key and Orange LED On along with 5 beeps: Alarm Memory (depend on Control Panel).
       * Flash:
 
-![](<.gitbook/assets/2 (35).png>) ![](<.gitbook/assets/3 (32).png>)
+![](<.gitbook/assets/2 (46).png>) ![](<.gitbook/assets/3 (42).png>)
 
 1
 
@@ -76,7 +76,7 @@ _\<NOTE>_
 * _**Supervision Signal**_
   * After installation, the Remote Keypad will automatically transmit Supervision Signals to the Control Panel at
 
-![](<.gitbook/assets/4 (15).jpeg>) ![](<.gitbook/assets/5 (10).jpeg>) ![](<.gitbook/assets/6 (14).jpeg>) ![](<.gitbook/assets/7 (13).jpeg>) ![](<.gitbook/assets/8 (9).jpeg>)
+![](<.gitbook/assets/4 (17).jpeg>) ![](<.gitbook/assets/5 (17).jpeg>) ![](<.gitbook/assets/6 (23).jpeg>) ![](<.gitbook/assets/7 (22).jpeg>) ![](<.gitbook/assets/8 (16).jpeg>)
 
 an interval of 30-50 minutes.
 
@@ -84,7 +84,7 @@ an interval of 30-50 minutes.
   * If the Control Panel has not received the signal from the Remote Keypad for a preset period of time, the Control Panel will consider the Remote Keypad out of order and react according to panel setting.
 * _**Getting Started**_
 
-![](<.gitbook/assets/9 (4).jpeg>)
+![](<.gitbook/assets/9 (7).jpeg>)
 
 Step 1. Put the Control panel into learning mode, .
 
@@ -94,7 +94,7 @@ Step 2. Adding remote keypad into the Control Panel:
 
 1. Put remote keypad in Test mode by entering KP PIN code (default: **0000**), then press **＊** key.
 
-The three![](<.gitbook/assets/10 (13).png>)![](<.gitbook/assets/11 (9).jpeg>) LEDs will turn on along with a long beep.
+The three![](<.gitbook/assets/10 (21).png>)![](<.gitbook/assets/11 (10).jpeg>) LEDs will turn on along with a long beep.
 
 1. Press ＊ key then **7** key to transmit learning signal. Remote keypad will sound a long beep.
 
@@ -120,7 +120,7 @@ VII. Press ＊ key and then 9 key — Enable Arm/ Home with Control Panel User P
 
 (_Please refer to “**Arm/Home with Control Panel PIN Code**” for details, page 3_).
 
-![](<.gitbook/assets/12 (13).png>)
+![](<.gitbook/assets/12 (20).png>)
 
 _\<NOTE>_
 
@@ -134,7 +134,7 @@ Step 4. When you are satisfied that the Remote keypad works in the chosen locati
 
 Step 5. Press Disarm key **twice** to leave Test mode and the installation is completed. Remote keypad will sound a long beep and three system mode LEDs will turn off. The Remote keypad returns to Normal Operation mode.
 
-![](<.gitbook/assets/13 (11).png>)
+![](<.gitbook/assets/13 (19).png>)
 
 _\<NOTE>_
 
@@ -142,7 +142,7 @@ _\<NOTE>_
   * The Remote keypad will automatically exit Test mode after 5 minutes of inactivity and return to Stand-by mode. All the LEDs will turn off and the Keypad will emit one long beep.
 * _**System Mode Control**_
 
-![](<.gitbook/assets/14 (6).jpeg>)
+![](<.gitbook/assets/14 (8).jpeg>)
 
 After finish learning the Keypad into alarm system Control Panel, the user may change the system using Keypad.
 

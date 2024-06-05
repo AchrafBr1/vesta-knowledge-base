@@ -4,11 +4,11 @@
 
 V:P2
 
-![](<.gitbook/assets/0 (83).jpeg>)
+![](<.gitbook/assets/0 (92).jpeg>)
 
 The CO-8 is a wireless Carbon Monoxide Detector that is capable of detecting the dangerous presence of CO in your surroundings and immediately raising alarm according to the different levels of CO concentration detected. The Carbon Monoxide Detector also features long battery life, self-diagnostics function, and loud siren for audio alert.
 
-![](<.gitbook/assets/1 (62).png>)
+![](<.gitbook/assets/1 (73).png>)
 
 * _**Parts Identification**_
   1. _**Dual Color LED (Amber & Red)**_
@@ -20,7 +20,7 @@ The CO-8 is a wireless Carbon Monoxide Detector that is capable of detecting the
      * When battery is exhausted, both the Red LED and the Amber LED will flash once every 4 seconds.
   2. _**Learn/Test Button**_
 
-![](<.gitbook/assets/2 (68).jpeg>) ![](<.gitbook/assets/3 (61).jpeg>)
+![](<.gitbook/assets/2 (73).jpeg>) ![](<.gitbook/assets/3 (68).jpeg>)
 
 Press the button to:
 
@@ -34,7 +34,7 @@ Press the button to:
   * _**Mounting Bracket**_
 * _**Battery**_
 
-![](<.gitbook/assets/4 (67).png>)
+![](<.gitbook/assets/4 (78).png>)
 
 *
   * 3 “**AA**” 1.5V alkaline batteries are used to supply power.
@@ -45,11 +45,11 @@ Press the button to:
   * After installation, the Carbon Monoxide Detector will automatically transmit Supervisory Signals to the Control Panel at random intervals of 30 to 50 minutes.
   * If the Control Panel has not received the signal from the Carbon Monoxide Detector for a preset period of time, the Control Panel will determine the Carbon Monoxide Detector has failed supervision and is out-of-order.
 
-![](<.gitbook/assets/5 (69).png>)
+![](<.gitbook/assets/5 (82).png>)
 
 1
 
-* ![](<.gitbook/assets/6 (48).png>)_**Carbon Monoxide Detection**_
+* ![](<.gitbook/assets/6 (59).png>)_**Carbon Monoxide Detection**_
   * The alarm will be activated after CO concentration is detected according to time length in following table:
 
 | **CO concentration** | **Time taken before** |
@@ -73,7 +73,7 @@ Press the button to:
   * After this 10-min period is over, the Carbon Monoxide Detector will check the Carbon Monoxide concentration again. If the Carbon Monoxide concentration is still over the set threshold value, the Carbon Monoxide Detector will sound the warning alarm again. If not, it will return to normal operation mode and transmit restore signal.
 * _**Self-diagnostics**_
 
-![](<.gitbook/assets/7 (44).png>) ![](<.gitbook/assets/8 (44).png>)
+![](<.gitbook/assets/7 (55).png>) ![](<.gitbook/assets/8 (55).png>)
 
 The Carbon Monoxide Detector will perform self-diagnostics every 12 hours. The user can also press and hold the test button for 10 seconds to perform self-diagnostics. If any fault is detected, the Carbon Monoxide Detector will transmit signal to the Control Panel, and the Amber LED will flash every 5 seconds. The following three conditions of Carbon Monoxide Sensor can be detected via self-diagnostics.
 
@@ -91,7 +91,7 @@ The Carbon Monoxide Detector will perform self-diagnostics every 12 hours. The u
 |                                                     | broken.                                                      |                             |   |
 |                                                     |                                                              |                             |   |
 
-![](<.gitbook/assets/9 (40).png>)
+![](<.gitbook/assets/9 (54).png>)
 
 * _**Learning**_
 
@@ -105,7 +105,7 @@ Control Panel for learn-in process. The Red LED will flash once with a beep.
 
 Step 5 Refer to the operation manual to finish learning process.
 
-![](<.gitbook/assets/10 (43).png>)
+![](<.gitbook/assets/10 (51).png>)
 
 * _**Walk Test**_
 
@@ -121,7 +121,7 @@ battery has exhausted.
 
 Step 3 If the Control Panel successfully receives the signal, it will display device signal strength accordingly. Exit Walk Test mode to complete test. If the signal is not received, it means the panel is outside Carbon Monoxide detector signal range. Please relocate the detector and try again.
 
-![](<.gitbook/assets/11 (34).png>)
+![](<.gitbook/assets/11 (42).png>)
 
 * _**Installation Guideline**_
 
@@ -130,7 +130,7 @@ It is recommended to install the Carbon Monoxide Detector in following locations
 * Install the Carbon Monoxide Detector in your bedrooms to protect your safety.
 * For houses with garage, also mount near the internal door to garage and the room above the garage for protection in case when car engin is not turned off.
 
-![](<.gitbook/assets/12 (23).jpeg>)
+![](<.gitbook/assets/12 (25).jpeg>)
 
 *
   * Inside kitchen and garage – to avoid false alarm
@@ -138,7 +138,7 @@ It is recommended to install the Carbon Monoxide Detector in following locations
   * Fireplace – Keep at least 4.5 meters of distance to avoid false alarm.
 * _**Installation**_
 
-![](<.gitbook/assets/13 (29).png>)
+![](<.gitbook/assets/13 (37).png>)
 
 (It is recommended that CO-8 should be installed by a competent person).
 
@@ -152,7 +152,7 @@ Step 3. Screw the mounting bracket onto the wall according to marked location. I
 
 Step 4. Hook the Carbon Monoxide Detector onto the mounting bracket. Installation is now complete.
 
-![](<.gitbook/assets/14 (26).png>)
+![](<.gitbook/assets/14 (33).png>)
 
 * _**Sensor Life and Maintenence**_
   * The Carbon Monoxide Detector uses its built-in electrochemical sensor for Carbon Monoxide detection. The sensor has approximately **10** years of operation life. Make sure to replace the device at end of its life span.

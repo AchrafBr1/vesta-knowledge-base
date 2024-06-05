@@ -12,7 +12,7 @@ POVS-1-ZW is a Z-Wave Passive Infrared Motion Sensors. It is capable of sending 
 
 **1. IR Lens w/ LED Indicator**
 
-![](<.gitbook/assets/0 (40).jpeg>)
+![](<.gitbook/assets/0 (49).jpeg>)
 
 The LED Indicator is located at the center of the IR lens.
 
@@ -37,7 +37,7 @@ The PIR is deployed on the magnetic base when installing. The magnet within PIR 
 
 **Features**
 
-![](<.gitbook/assets/1 (40).png>)
+![](<.gitbook/assets/1 (51).png>)
 
 * _**Occupancy/Vacancy Detection**_
 
@@ -49,7 +49,7 @@ When the timer expires without any motion detection, the PIR will transmit a mot
 
 Please refer to _**Command Class Configuration**_ for more details about the settings.
 
-![](<.gitbook/assets/2 (46).png>)
+![](<.gitbook/assets/2 (57).png>)
 
 * _**Sensitivity Adjustment**_
 
@@ -61,7 +61,7 @@ The PIR sensitivity can be adjusted to meet different requirements as either sec
 
 Please refer to _**Command Class Configuration**_ for more details about the settings.
 
-![](<.gitbook/assets/3 (27).jpeg>)
+![](<.gitbook/assets/3 (34).jpeg>)
 
 * _**Battery and Low Battery Detection**_
 
@@ -73,7 +73,7 @@ If battery is not changed after Low Battery and is exhausted, the PIR will stop 
 
 When changing battery, after removing the old battery, press the Function Button twice to fully discharge before inserting new battery
 
-![](<.gitbook/assets/4 (42).png>)
+![](<.gitbook/assets/4 (53).png>)
 
 * _**Wake Up**_
 
@@ -83,13 +83,13 @@ This function uses the Z-Wave Wake Up Command Class. The Wake Up Command Class a
 
 **Example only**
 
-* ![](<.gitbook/assets/5 (40).png>)_**Test Mode**_
+* ![](<.gitbook/assets/5 (53).png>)_**Test Mode**_
   * Test mode is for you to check the PIR’s detection range.
   * To enter Test mode, press the Function Button once enter the Test mode for 3 minutes.
   * During Test Mode, you can trigger PIR sensor to check its detection coverage. If PIR is triggered, the LED will flash once to indicate.
 * _**Adding Device (Inclusion)**_
 
-![](<.gitbook/assets/6 (26).png>)
+![](<.gitbook/assets/6 (37).png>)
 
 The device supports both classic inclusion process and SmartStart inclusion process. This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufacturers and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
@@ -100,13 +100,13 @@ The device supports both classic inclusion process and SmartStart inclusion proc
 
 **SmartStart Inclusion**
 
-![](<.gitbook/assets/7 (21).png>)
+![](<.gitbook/assets/7 (32).png>)
 
 SmartStart enabled products can be added into a Z-Wave network by scanning the Z-Wave QR Code presented on the product with a controller providing SmartStart inclusion. No further action is required and the SmartStart product will be added automatically within 10 minutes of being switched on in the network vicinity. Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. **DSK** is Device Specific Key used for authentication. The DSK information is stored in the QR code format that is printed on a label and adhered to the exterior of the device, as example shown on the right hand side.
 
 * Scan the QR Code on the base of POVS-1-ZW to obtain **DSK** and transfer to the Z-Wave gateway.
 
-![](<.gitbook/assets/8 (17).jpeg>)
+![](<.gitbook/assets/8 (24).jpeg>)
 
  Power on POVS-1-ZW, a SmartStart inclusion request will be automatically sent to the gateway.
 
@@ -120,7 +120,7 @@ SmartStart enabled products can be added into a Z-Wave network by scanning the Z
     * If the POVS-1-ZW has already been **included** (learnt) into another Z-Wave Gateway/Control Panel, please exclude it first (see _**Exclusion**_) before attempting to **include** it into the current Z-Wave Gateway/Control Panel. The POVS-1-ZW will not send a SmartStart inclusion request if it’s already in a Z-Wave Gateway/Control Panel.
 * _**Removing Device (Exclusion)**_
 
-![](<.gitbook/assets/9 (25).png>)![](<.gitbook/assets/10 (23).png>)
+![](<.gitbook/assets/9 (39).png>)![](<.gitbook/assets/10 (31).png>)
 
 The device must be removed from existing Z-Wave network before being added into another.
 
@@ -145,7 +145,7 @@ _(Only use factory reset when network Control Panel/Gateway is missing or inoper
     * Before you remove or factory reset the POVS-1-ZW, please ensure that the device DSK information has been removed or does not exist in the gateway. If you remove or factory reset the device, but its DSK still exists in the gateway, the gateway will automatically include the device again.
 * _**Range Test**_
 
-![](<.gitbook/assets/11 (17).png>)![](<.gitbook/assets/12 (21).png>)
+![](<.gitbook/assets/11 (25).png>)![](<.gitbook/assets/12 (28).png>)
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
@@ -157,13 +157,13 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
   * The PIR will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the PIR.
   * To program the PIR using the Z-Wave Gateway/Control Panel, please send command(s) to the PIR within the wake-up period.
 
-![](<.gitbook/assets/13 (18).png>)
+![](<.gitbook/assets/13 (26).png>)
 
 2
 
 **Installation**
 
-![](<.gitbook/assets/14 (15).jpeg>)
+![](<.gitbook/assets/14 (17).jpeg>)
 
 * _**Mounting Height and PIR Detection Coverage**_
   * The PIR has detection coverage of a 120∘cone to the front. When mounted at 1.2m to 2.1m height and facing forward, the PIR has maximum range of 10 meters.
@@ -176,7 +176,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
   * The PIR’s movement detection function is directional. It is more sensitive to movement from side, and less sensitive to vertical movement from top to bottom. Use the location of the bottom magnet as a reference to determine the horizontal and vertical direction of the PIR.
   * The PIR base has 2 mounting holes used for installation on surface with fixing screws and plugs provided. The base also has magnet within. One side of the base has an opening to mark the front side of the base. The main body should be placed on the base with the lens facing the front opening to ensure PIR’s detection coverage is not obstructed by the base.
 
-![](<.gitbook/assets/15 (11).jpeg>) ![](<.gitbook/assets/16 (15).png>) ![](<.gitbook/assets/17 (9).jpeg>)
+![](<.gitbook/assets/15 (11).jpeg>) ![](<.gitbook/assets/16 (23).png>) ![](<.gitbook/assets/17 (9).jpeg>)
 
 *
   1. Use the 2 mounting holes on PIR base as template, drill holes in the surface.

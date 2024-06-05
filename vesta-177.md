@@ -51,7 +51,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 **Jumper Off**
 
-![If the jumper link is removed or “parked” on one pin.](<.gitbook/assets/4 (1) (1).png>)
+![If the jumper link is removed or “parked” on one pin.](<.gitbook/assets/4 (4).png>)
 
 
 
@@ -170,7 +170,7 @@ Please refer to the table below for configuration details. For example, if you w
 
 _**Installation Guideline**_
 
-![](<.gitbook/assets/20 (1) (1).png>)
+![](<.gitbook/assets/20 (3).png>)
 
 **IR-35-2W Detection Range**
 
@@ -220,9 +220,9 @@ _**Installation Guideline**_
 
 
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Do not install outdoors. / Avoid large obstacles in the detection area.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>Do not install outdoors. / Avoid large obstacles in the detection area.</p></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Do not install the PIR completely exposed to direct sunlight. / Avoid vapor or high humidity that can cause condensation.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>Do not install the PIR completely exposed to direct sunlight. / Avoid vapor or high humidity that can cause condensation.</p></figcaption></figure>
 

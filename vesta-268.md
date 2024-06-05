@@ -10,7 +10,7 @@ Remove the cover by loosening the bottom fixing screw, the inside of the Tempera
 
 **1. External Temperature Probe Terminal**
 
-![](<.gitbook/assets/0 (99).jpeg>)
+![](<.gitbook/assets/0 (108).jpeg>)
 
 Connect the External Temperature Probe to this Terminal
 

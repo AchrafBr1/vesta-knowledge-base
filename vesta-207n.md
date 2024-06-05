@@ -6,11 +6,11 @@ The Outdoor Bell Box is used to attract attention when alarm signal is received 
 
 The Bell Box can also alert you to tamper violation, and low battery status.
 
-![](<.gitbook/assets/0 (85).jpeg>)
+![](<.gitbook/assets/0 (94).jpeg>)
 
 **Identifying the Parts**
 
-![](<.gitbook/assets/1 (74).jpeg>)
+![](<.gitbook/assets/1 (85).jpeg>)
 
 1. **Mounting Holes**
 2. **AC Input Terminal Block**
@@ -34,7 +34,7 @@ BT2: This configuration is currently reserved.
 5. **Battery Compartment**
 6. **Tamper Switch**
 
-![](<.gitbook/assets/2 (70).jpeg>)
+![](<.gitbook/assets/2 (75).jpeg>)
 
 **Accessories included**
 
@@ -46,7 +46,7 @@ b. 4 x 4 mm x 30 mm cross head fixing screws.
 
 c. 4 x 1.5V D alkaline cells (pre-inserted)
 
-![](<.gitbook/assets/3 (63).jpeg>)
+![](<.gitbook/assets/3 (70).jpeg>)
 
 **Power Supply**
 
@@ -76,19 +76,19 @@ Step 1. Slide the Battery switch to the OFF position.
 
 Step 2. Connect AC power according to instruction above.
 
-![](<.gitbook/assets/4 (69).png>)
+![](<.gitbook/assets/4 (80).png>)
 
 _\<NOTE>_
 
 * The Power switch position BT2 is currently reserved.
 
-![](<.gitbook/assets/5 (38).jpeg>)
+![](<.gitbook/assets/5 (45).jpeg>)
 
 **Supervision**
 
 The Bellbox will transmit a supervisory signal every 30-50 minutes in normal operation mode. If this signal is not received, the Control Panel will indicate that the particular BX-23 is experiencing an out-of-order problem.
 
-![](<.gitbook/assets/6 (50).png>)
+![](<.gitbook/assets/6 (61).png>)
 
 **Function Overview**
 
@@ -98,7 +98,7 @@ The Bellbox will transmit a supervisory signal every 30-50 minutes in normal ope
 
 If an alarm was triggered in your absence and the system was not disarmed before alarm length expiry, the Bellbox will sound a short alarm when the system is disarmed to warn the user that an alarm has been triggered when he is away. This suggests that the intruder could still be within the premises.
 
-![](<.gitbook/assets/7 (46).png>)
+![](<.gitbook/assets/7 (57).png>)
 
 * **Alarm Length**
 
@@ -122,7 +122,7 @@ Tamper feature can be disabled temporaily from the Control Panel using Siren Tam
 
 While arming / disarming the system, the BX-23 uses different methods to distinguish various statuses for the user, as listed in the table.
 
-![](<.gitbook/assets/8 (45).png>) ![](<.gitbook/assets/9 (42).png>)
+![](<.gitbook/assets/8 (56).png>) ![](<.gitbook/assets/9 (56).png>)
 
 |                      | **Siren Audio**  |                                   | **Strobe light indication**      |
 | -------------------- | ---------------- | --------------------------------- | -------------------------------- |
@@ -142,11 +142,11 @@ While arming / disarming the system, the BX-23 uses different methods to disting
 | Entry/Exit Sound     | Count-down beeps |                                   |                                  |
 |                      |                  |                                   |                                  |
 
-![](<.gitbook/assets/10 (24).jpeg>) ![](<.gitbook/assets/11 (35).png>)
+![](<.gitbook/assets/10 (26).jpeg>) ![](<.gitbook/assets/11 (43).png>)
 
 * The Siren Audio indication will be affected by the Confirmation ON / OFF setting. When setting Confirmation to OFF, the confirmation sound will not be available. Refer to Control Panel Siren setting for Confirmation function.
 
-![](<.gitbook/assets/12 (24).jpeg>) ![](<.gitbook/assets/13 (27).jpeg>)
+![](<.gitbook/assets/12 (26).jpeg>) ![](<.gitbook/assets/13 (28).jpeg>)
 
 **Getting Started**
 
@@ -164,13 +164,13 @@ Step 5: Press the Learn button once. The Bellbox will emit a short beep and LED 
 
 Step 6: If the Control Panel did not receive a learning code, press the learn button again (the Bellbox will not sound a beep this time).
 
-![](<.gitbook/assets/14 (23).jpeg>)
+![](<.gitbook/assets/14 (25).jpeg>)
 
 Step 7: If the Control Panel receives the learning code, it will list the device information accordingly, follow Control Panel manual instruction to complete the learning procedure. An acknowledgement will be sent to the Bellbox. When the acknowledgment is received, the Bellbox will sound two short beeps with LED group 2 flashing once to indicate that learning process is successful. The Bellbox will then leave learning mode.
 
 Step 8: Refer to the Control Panel manual and use Edit Device function to check Bellbox settings. You can edit the operation area, zone number, and device name for the Bellbox.
 
-![](<.gitbook/assets/15 (26).png>)
+![](<.gitbook/assets/15 (34).png>)
 
 _\<NOTE>_
 
@@ -189,7 +189,7 @@ Step 2: Press the learn button on the Bellbox to send signal to panel, the Bellb
 
 Step 3: When the Bellbox receives acknowledgement signal from panel, it will emit a beep and flash LED 2 once to indicate the setting has been updated. The Bellbox will return to normal operation.
 
-![](<.gitbook/assets/16 (28).png>) ![](<.gitbook/assets/17 (19).jpeg>)
+![](<.gitbook/assets/16 (36).png>) ![](<.gitbook/assets/17 (19).jpeg>)
 
 **Installation**
 
@@ -197,7 +197,7 @@ Proceed to installation after complete learning.
 
 Step 1. Disable the Siren Tamper function on the Control Panel (please refer to the Control Panel instruction manual). The bellbox will sound a beep to indicate the tamper switch is now disabled.
 
-![](<.gitbook/assets/18 (26).png>)
+![](<.gitbook/assets/18 (29).png>)
 
 _\<NOTE>_
 
@@ -211,7 +211,7 @@ Step 4. Remove the LED cover by releasing the 2 screws securing the cover using 
 
 Step 5. Hold the Bellbox at the position where it will be mounted, supply power to Bellbox
 
-![](<.gitbook/assets/19 (28).png>)
+![](<.gitbook/assets/19 (31).png>)
 
 Step 6. Check whether BX has a strong enough signal with the Control Panel by putting the Control Panel into **Walk Test** mode (please refer to Control Panel manual). Press the **Learn Button** check whether the signal is strong enough (please refer to Control Panel manual for signal strength).
 
@@ -219,7 +219,7 @@ Step 7. If you are satisfied with the signal strength, remove the Bellbox from m
 
 Step 8. Identify the 4 mounting holes, mount and fix the Bellbox on the wall using the large screws and wall plugs provided. Secure the screws using a Philips screwdriver. Make sure the Tamper Switch is fully depressed against the wall.
 
-![](<.gitbook/assets/20 (19).png>)
+![](<.gitbook/assets/20 (23).png>)
 
 _\<NOTE>_
 

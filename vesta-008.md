@@ -19,7 +19,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 | VST-862P-(P5)    | V             |                  | V              | P5 model only                |
 | VST-862P-IL-(P5) |               | V                | V              | P5 model only                |
 
-* ![852Pro R8\_20160629](<.gitbook/assets/0 (1) (1) (1).jpeg>)Parts Identification
+* ![852Pro R8\_20160629](<.gitbook/assets/0 (10).jpeg>)Parts Identification
 
 1. **Flash LED / Infrared LED**
 
@@ -44,7 +44,7 @@ The Flash LED (For 862(P)) or Infrared LED (For 862(P)-IL) delivers sufficient l
 5. **Battery Compartment**
 6. **Sensitivity Adjustment Jumper Switch (JP3)**
 
-![jumper open](<.gitbook/assets/1 (4) (1).png>)![jumper close](<.gitbook/assets/2 (4) (1).png>)
+![jumper open](<.gitbook/assets/1 (15).png>)![jumper close](<.gitbook/assets/2 (15).png>)
 
 **Jumper Off**
 
@@ -59,7 +59,7 @@ The jumper link is inserted connecting the two pins.
 
 1. **Sleep Timer Jumper Switch (JP2)**
 
-![jumper open](<.gitbook/assets/3 (4) (1).png>)![jumper close](<.gitbook/assets/4 (4) (1).png>)
+![jumper open](<.gitbook/assets/3 (14).png>)![jumper close](<.gitbook/assets/4 (15).png>)
 
 **Jumper Off**
 
@@ -147,7 +147,7 @@ The PIR Camera will conduct a Self-test Periodically by transmitting a superviso
 * The Pet-Immune models give a typical PET IMMUNE range of 7 meters when mounted at 1.9 to 2 meters above ground. If required, you can adjust the height of the PIR Camera according to the size of your pet for optimal pet immune performance. Higher installation location will provide larger pet-immune space, but also increases the blind spot under the PIR Camera.
 * When VST-862 is mounted with rotating bracket, it will not have the regular detection area (as in the diagram), or the typical pet immue range.
 
-![](<.gitbook/assets/5 (3) (1) (1).png>)
+![](<.gitbook/assets/5 (16).png>)
 
 **It is recommended to install the PIR Camera in the following locations**
 
@@ -164,7 +164,7 @@ The PIR Camera will conduct a Self-test Periodically by transmitting a superviso
 * Not pointing directly at sources of heat e.g. Fires or boilers, and not above radiators.
 * Avoid moving objects in the detection area i.e. curtain, wall hanging etc.
 * **Be sure to always remain the RSSI signal strength steady at “4”.**
-* ![852 r3 knockouts](<.gitbook/assets/6 (3) (1).jpeg>)_Mounting the PIR Camera_
+* ![852 r3 knockouts](<.gitbook/assets/6 (12).jpeg>)_Mounting the PIR Camera_
 * The PIR is designed to be mounted on either a flat surface or in a corner situation with fixing screws and plugs provided.
 * For corner mounting, a triangular bracket is provided to add Back Tamper Protection. The bracket also includes two knockouts to mount on the wall.
 * For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, the VST-862 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.
@@ -178,7 +178,7 @@ The PIR Camera will conduct a Self-test Periodically by transmitting a superviso
 
 * **Surface mounting:**
 
-1. ![triangular bracket](<.gitbook/assets/7 (1) (1) (1).jpeg>)![triangular bracket](<.gitbook/assets/8 (1) (1) (1) (1).jpeg>)Open the cover by loosening the Cover Screw using a Philips screwdriver.
+1. ![triangular bracket](<.gitbook/assets/7 (10).jpeg>)![triangular bracket](<.gitbook/assets/8 (10).jpeg>)Open the cover by loosening the Cover Screw using a Philips screwdriver.
 2. Break through the 2 Surface knockouts at the center of base.
 3. Use the holes as template to drill holes on the surface.
 4. Insert the wall plugs if fixing it into plaster or brick.
@@ -193,4 +193,4 @@ The rotating bracket can be mounted on the wall with provides screws.
 2. Fit the 3 hooks of the rotating bracket into the 3 holes of the base accordingly.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-![](<.gitbook/assets/9 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/9 (16).png>)

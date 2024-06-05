@@ -1,6 +1,6 @@
 # VESTA 384
 
-![](<.gitbook/assets/0 (116).jpeg>)**Wired Smoke Detector (SD-32-BUS)**
+![](<.gitbook/assets/0 (125).jpeg>)**Wired Smoke Detector (SD-32-BUS)**
 
 **Introduction**
 
@@ -10,7 +10,7 @@ The wired smoke detector can also be interconnected with other smoke detectors i
 
 **Parts Identification**
 
-![](<.gitbook/assets/1 (85).png>)
+![](<.gitbook/assets/1 (96).png>)
 
 **1. LED Indicator / Test Button**
 
@@ -46,7 +46,7 @@ The wired smoke detector can also be interconnected with other smoke detectors i
 
 When the Smoke Detector is connected as the furthest BUS device on a BUS line, please set the Smoke Detector 's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (83).jpeg>)
+![](<.gitbook/assets/2 (88).jpeg>)
 
 *
   *
@@ -57,19 +57,19 @@ When the Smoke Detector is connected as the furthest BUS device on a BUS line, p
 2. **Mounting Holes**
 3. **Mounting Sheet**
 
-![](<.gitbook/assets/3 (81).jpeg>)
+![](<.gitbook/assets/3 (88).jpeg>)
 
 1
 
 **Features**
 
-![](<.gitbook/assets/4 (96).png>)
+![](<.gitbook/assets/4 (107).png>)
 
 * _**Power Supply**_
   * When SD-32-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
 * _**Testing the Smoke Detector**_
 
-![](<.gitbook/assets/5 (98).png>)
+![](<.gitbook/assets/5 (111).png>)
 
 By pressing the Test Button on the Smoke Detector, you can test if the Smoke Detector is functioning normally.
 
@@ -85,7 +85,7 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
   * If the Control Panel has not received the signal from the Wired Smoke Detector for a preset period time, the Control Panel will indicate that the particular Smoke Detector is experiencing an out-of-signal problem.
 * _**Alarm Activation**_
 
-![](<.gitbook/assets/6 (80).png>) ![](<.gitbook/assets/7 (70).png>) ![](<.gitbook/assets/8 (69).png>)
+![](<.gitbook/assets/6 (91).png>) ![](<.gitbook/assets/7 (81).png>) ![](<.gitbook/assets/8 (80).png>)
 
 The Smoke Detector will activate fire alarm when smoke detection is triggered. When an alarm is activated, the Smoke Detector will transmit alarm signal and raise alarm with its built-in buzzer.
 
@@ -112,7 +112,7 @@ The Smoke Detector will activate fire alarm when smoke detection is triggered. W
   * Before connecting the Wired Smoke Detector to the system BUS, please switch the power off.
   * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/9 (67).png>) ![](<.gitbook/assets/10 (29).jpeg>) ![](<.gitbook/assets/11 (53).png>) ![](<.gitbook/assets/12 (56).png>) ![](<.gitbook/assets/13 (40).jpeg>)
+![](<.gitbook/assets/9 (81).png>) ![](<.gitbook/assets/10 (31).jpeg>) ![](<.gitbook/assets/11 (61).png>) ![](<.gitbook/assets/12 (63).png>) ![](<.gitbook/assets/13 (41).jpeg>)
 
 | **Red**    | VDD  |
 | ---------- | ---- |
@@ -131,7 +131,7 @@ _\<NOTE>_
   * After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
 * Incorrect connections will result in failure or malfunction. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/14 (47).png>)
+![](<.gitbook/assets/14 (54).png>)
 
 * _**Getting Started**_
 
@@ -143,7 +143,7 @@ _\<NOTE>_
 
 **Step 4.** When calibration is completed, the Smoke Detector will emit 2 short beeps and turn off LED to return to normal mode. _\<NOTE>_
 
-![](<.gitbook/assets/15 (44).png>)
+![](<.gitbook/assets/15 (52).png>)
 
 * If calibration fails, the Smoke Detector will beep continuously. Please power off the smoke detector, and then re-power on to retry from step 1.
 
@@ -155,7 +155,7 @@ After warm up and calibration process are successfully completed, you can procee
 
 **Step 7.** Click “**Add**” to include the detected smoke detector to Control Panel.
 
-![](<.gitbook/assets/16 (49).png>)
+![](<.gitbook/assets/16 (57).png>)
 
 * _**Identification**_
 
@@ -167,7 +167,7 @@ To locate the Wired Smoke Detector in the BUS system:
 
 **Step 2.** If the Wired Smoke Detector receives the signal from the Hybrid Panel, the webpage will display a success message and the Wired Smoke Detector’s Red LED indicator will flash 10 times to indicate where it is to the user.
 
-![](<.gitbook/assets/17 (39).png>)
+![](<.gitbook/assets/17 (44).png>)
 
 _\<NOTE>_
 
@@ -178,7 +178,7 @@ _\<NOTE>_
   * To make sure the Wired Smoke Detector is able to communicate with the Panel after it is learned-in, place the Control Panel in Walk Test mode and press the Test button on SD-32-BUS to transmit a test signal to the Control Panel.
   * When the Panel receives the test signal, it will beep once and display the Wired Smoke Detector’s information accordingly on the top of the device list.
 
-![](<.gitbook/assets/18 (49).png>) ![](<.gitbook/assets/19 (48).png>)
+![](<.gitbook/assets/18 (52).png>) ![](<.gitbook/assets/19 (51).png>)
 
 _\<NOTE>_
 
@@ -189,7 +189,7 @@ Please check whether the Smoke Detector is connected properly to the Panel withi
 
 * _**Recalibration**_
 
-![](<.gitbook/assets/20 (35).png>)
+![](<.gitbook/assets/20 (39).png>)
 
 As the operation condition of the Smoke Detector may vary after being installed for some time, you may wish to recalibrate the Smoke 3
 

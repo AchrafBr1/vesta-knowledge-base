@@ -6,7 +6,7 @@ The Repeater is designed to increase the effectiveness and versatility of the al
 
 * **Identifying the Parts**
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 20140415.jpg](<.gitbook/assets/0 (5) (1).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 20140415.jpg](<.gitbook/assets/0 (14).jpeg>)
 
 1. **Power LED (Green)**
 
@@ -67,7 +67,7 @@ The Repeater can detect the battery voltage. When the battery voltage is low, th
 
 * **Functional Switch Block**
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 switch block.jpg](<.gitbook/assets/1 (2) (1).jpeg>)The Functional Switch Block determines which Mode the Repeater is in. A switch in the up position indicates the (**ON**) Mode. Likewise, a switch in the down position indicates the (**OFF**) Mode.
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 switch block.jpg](<.gitbook/assets/1 (13).jpeg>)The Functional Switch Block determines which Mode the Repeater is in. A switch in the up position indicates the (**ON**) Mode. Likewise, a switch in the down position indicates the (**OFF**) Mode.
 
 |              | Function                 | ON                     | OFF                   |
 | ------------ | ------------------------ | ---------------------- | --------------------- |
@@ -173,15 +173,15 @@ The Repeater can be placed on the table, mounted on the wall or wherever desired
 1. Using the holes of the Mounting Bracket as a template, drill holes into the mounting surface.
 2. Insert the wall plugs if fixing into plaster or brick. Screw the Mounting Bracket to the wall.
 
-![](<.gitbook/assets/2 (17).png>)
+![](<.gitbook/assets/2 (28).png>)
 
 1. Hook the Repeater onto the Wall Mounting Bracket (with the Mounting Holes of the Repeater).
 
-![](<.gitbook/assets/3 (16).png>)
+![](<.gitbook/assets/3 (26).png>)
 
 1. Hold the Repeater and gently push it downwards as shown below.
 
-![](<.gitbook/assets/4 (15).png>)
+![](<.gitbook/assets/4 (26).png>)
 
 * **Tamper Protection**
 * The Tamper Switch is in normal operating position (Tamper Closed) when the Repeater is hooked onto the Wall Mounting Bracket. Tamper violation happens when the Repeater is removed from the hook where Tamper Switch is released (Tamper Opened).
@@ -211,13 +211,13 @@ The Device needs to be learned into its closest repeater (Repeated B). Repeater 
 
 Example:
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage device.jpg](<.gitbook/assets/5 (2) (1).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage device.jpg](<.gitbook/assets/5 (10).jpeg>)
 
 1. If a device is located between the RF coverage of multiple repeaters and the Control Panel:
 
 Example 1:
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg1.jpg](<.gitbook/assets/6 (5) (1).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg1.jpg](<.gitbook/assets/6 (14).jpeg>)
 
 From the displayed diagram, the device is located between the RF coverage areas of Repeater B and C. Users can choose to learn the device into Repeater B only, learn into Repeater C only, or learn into both Repeaters B and C.
 
@@ -229,7 +229,7 @@ It is **recommended** to learn the device into Repeater B only (and not to Repea
 
 Example 2:
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg2.jpg](<.gitbook/assets/7 (4) (1).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg2.jpg](<.gitbook/assets/7 (13).jpeg>)
 
 From the displayed diagram, the device is located between the RF coverage areas of Repeater A, B and C. Users can choose to learn the device into Repeater A only, learn into Repeater B only, learn into Repeater C only, or learn into Repeaters A, B and C.
 

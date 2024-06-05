@@ -8,7 +8,7 @@ The Wired Door Contact / Shock Sensor design consists of a cover and base. The c
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (3) (1).png>)
+![](<.gitbook/assets/0 (8).png>)
 
 1. **LED Indicator / Test Button**
 
@@ -19,11 +19,11 @@ The Wired Door Contact / Shock Sensor design consists of a cover and base. The c
 
 When the Door Contact / Shock Sensor is connected as the furthest BUS device on a BUS line, please set the Door Contact / Shock Sensor 's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/1 (2).jpeg>) ![](<.gitbook/assets/2 (2) (1).png>)
+![](<.gitbook/assets/1 (3).jpeg>) ![](<.gitbook/assets/2 (7).png>)
 
 **Jumper On**
 
-![](<.gitbook/assets/3 (2).jpeg>)
+![](<.gitbook/assets/3 (3).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 
@@ -40,11 +40,11 @@ The jumper link is removed or “parked” on one pin.
    * Provides tamper protection against unauthorized device opening and/or removal from mounting surface.
 3. **Reed Switch Jumper Switch**
 
-![](<.gitbook/assets/4 (3).jpeg>) ![](<.gitbook/assets/5 (5).png>)
+![](<.gitbook/assets/4 (3).jpeg>) ![](<.gitbook/assets/5 (9).png>)
 
 **Jumper On**
 
-![](<.gitbook/assets/6 (3).jpeg>)
+![](<.gitbook/assets/6 (4).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 
@@ -66,7 +66,7 @@ The jumper link is removed or “parked” on one pin.
 
 **Features**
 
-![](<.gitbook/assets/7 (2).jpeg>)
+![](<.gitbook/assets/7 (3).jpeg>)
 
 * _**LED Indicator**_
   * In Normal Operation Mode, the LED will not light up when the device is activated.
@@ -75,7 +75,7 @@ The jumper link is removed or “parked” on one pin.
   * The LED will not flash if the device tamper is normal and the device is not under test mode.
 * _**Door Opening Detection & Shock Detection**_
 
-![](<.gitbook/assets/8 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/8 (3).jpeg>)
 
 The device is triggered by door/window opening or a shock detection which exceeds detection threshold.
 
@@ -85,7 +85,7 @@ The device is triggered by door/window opening or a shock detection which exceed
 
 The device supports shock detection on various materials including glass, wood, metal, and concrete. After installation, you can select the material of the mounting surface on the Control Panel. The default is set as **Wood**.
 
-![](<.gitbook/assets/10 (6).png>)
+![](<.gitbook/assets/10 (10).png>)
 
 * _**Sensitivity**_
   * The sensitivity required to activate the Wired Door Contact / Shock Sensor is determined by the Control Panel.
@@ -107,7 +107,7 @@ The device supports shock detection on various materials including glass, wood, 
     * Wiring of the Door Contact / Shock Sensor should only be performed by certified technicians with proper knowledge and training in electric equipment.
     * Before installation or any maintenance work, make sure the power supply has been disconnected.
 
-![](<.gitbook/assets/11 (2).jpeg>) ![](<.gitbook/assets/12 (1) (1).jpeg>) ![](.gitbook/assets/13.jpeg) ![](<.gitbook/assets/14 (1).jpeg>) ![](<.gitbook/assets/15 (3).jpeg>) ![](<.gitbook/assets/16 (6).png>)
+![](<.gitbook/assets/11 (2).jpeg>) ![](<.gitbook/assets/12 (2).jpeg>) ![](.gitbook/assets/13.jpeg) ![](<.gitbook/assets/14 (1).jpeg>) ![](<.gitbook/assets/15 (3).jpeg>) ![](<.gitbook/assets/16 (11).png>)
 
 2
 
@@ -132,7 +132,7 @@ _\<NOTE>_
   * After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/19 (5).png>)
+![](<.gitbook/assets/19 (8).png>)
 
 * _**Learning**_
 

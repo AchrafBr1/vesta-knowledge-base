@@ -14,7 +14,7 @@ Models with router function also serve as a router in the ZigBee network. After 
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (70).jpeg>)
+![](<.gitbook/assets/0 (79).jpeg>)
 
 **1. LED indicator**
 
@@ -60,7 +60,7 @@ For Normal Close connection with the device
 
 1
 
-![](<.gitbook/assets/1 (62).jpeg>)
+![](<.gitbook/assets/1 (73).jpeg>)
 
 **Installation Environment**
 
@@ -68,7 +68,7 @@ For Normal Close connection with the device
 * It is recommended to install the device in a fire resistant plastic gangbox.
 * Do not install the device in a metal gangbox for optimization of RF range.
 
-![](<.gitbook/assets/2 (55).jpeg>)
+![](<.gitbook/assets/2 (60).jpeg>)
 
 **Caution**
 
@@ -76,7 +76,7 @@ For Normal Close connection with the device
 * To prevent electrical shock and/or equipment damage, disconnect electrical power at the main fuse or circuit breaker before installation and maintenance.
 * Do not connect the device to loads exceeding supported load current.
 
-![](<.gitbook/assets/3 (50).jpeg>)
+![](<.gitbook/assets/3 (57).jpeg>)
 
 **Installation**
 

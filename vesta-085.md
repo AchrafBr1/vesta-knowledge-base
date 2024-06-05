@@ -4,7 +4,7 @@
 
 The Slim Door Contact monitors the opening/closing of specified devices (e.g. door or window). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch causing the Door Contact to transmit alarm signal to the Control Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
 
-![](<.gitbook/assets/0 (14).png>)**Identifying the parts**
+![](<.gitbook/assets/0 (27).png>)**Identifying the parts**
 
 1. **LED Indicator**
 2. **Learn/Test Button**
@@ -62,7 +62,7 @@ In Normal operation mode, the LED indicator remains off except in the following 
 
 **Step 1:** The mounting surface should be clean, dry, and smooth. Clean the mounting surface with
 
-![](<.gitbook/assets/1 (8) (1).jpeg>)a suitable degreaser if needed.
+![](<.gitbook/assets/1 (19).jpeg>)a suitable degreaser if needed.
 
 **Step 2:** Remove paper backing of the adhesive tape on the back of the Door Contact.
 
@@ -75,7 +75,7 @@ In Normal operation mode, the LED indicator remains off except in the following 
 \<Note>
 
 * Do not apply the 3M adhesive tape on a surface with peeling or cracked paint, or on a rough surface.
-* ![C:\Users\c0982\Desktop\影像\SDC-1\_0622\_03.png](<.gitbook/assets/2 (23).png>)The 3M adhesive tape cannot be reused.
+* ![C:\Users\c0982\Desktop\影像\SDC-1\_0622\_03.png](<.gitbook/assets/2 (34).png>)The 3M adhesive tape cannot be reused.
 * _**Magnet Scope Positioning**_
 * The Learn/Test Button located on the front side of Door Contact is the main magnet detection area.
 * The magnet detection area is polished for easy identification.
@@ -83,4 +83,4 @@ In Normal operation mode, the LED indicator remains off except in the following 
 * The magnet should be applied vertically parallel to the Door Contact as pictures shown below.
 * When installing within a door / window slot (similar as image above), the window and window frame spacing should be greater than **5mm**, or the window cannot be properly closed.
 
-![](<.gitbook/assets/3 (22).png>)
+![](<.gitbook/assets/3 (32).png>)

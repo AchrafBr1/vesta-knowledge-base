@@ -1,19 +1,19 @@
 # VESTA 307
 
-![](<.gitbook/assets/0 (104).jpeg>)**BLUETOOTH REMOTE KEYPAD with NFC Tag (KPT-32N-BLE)**
+![](<.gitbook/assets/0 (113).jpeg>)**BLUETOOTH REMOTE KEYPAD with NFC Tag (KPT-32N-BLE)**
 
 KPT-32N-BLE is a Remote Keypad with Bluetooth feature and NFC reader. It is designed to have quick access control of the System Control Panel via PIN Code, NFC label, or by approaching the keypad with the paired smartphone to disarm the system. The Keypad can send wireless signals to and receive wireless signals from the Control Panel.
 
 The Remote Keypad can be mounted on a flat surface or wall with screws. It also has a tamper protection switch which will be activated upon any unauthorized attempt to open the lid or to detach keypad from mounting surface.
 
-![](<.gitbook/assets/1 (71).png>)
+![](<.gitbook/assets/1 (82).png>)
 
 * _**Identifying the Parts**_
 
 1. **Siren**
-2. **Orange LED: Home Arm Key** ![](<.gitbook/assets/2 (73).jpeg>)
+2. **Orange LED: Home Arm Key** ![](<.gitbook/assets/2 (78).jpeg>)
 
-**3. Red LED: Away Arm Key** ![](<.gitbook/assets/3 (70).jpeg>)
+**3. Red LED: Away Arm Key** ![](<.gitbook/assets/3 (77).jpeg>)
 
 **4. Panic Alarm (if enabled)**
 
@@ -36,7 +36,7 @@ The Remote Keypad can be mounted on a flat surface or wall with screws. It also 
 
 \- Press both 7 and 9 to trigger Medical alarm
 
-![](<.gitbook/assets/4 (82).png>)
+![](<.gitbook/assets/4 (93).png>)
 
 _**\<NOTE>**_
 
@@ -45,7 +45,7 @@ _**\<NOTE>**_
   * Backlight will be ON for any key pressed or command sent from the Keypad.
 * _**LED Indicator**_
 
-![](<.gitbook/assets/5 (81).png>)
+![](<.gitbook/assets/5 (94).png>)
 
 * **Red LED (Away Arm Key)**
   * **Red LED on:** the system is in **Programming Mode**.
@@ -58,7 +58,7 @@ _**\<NOTE>**_
   * **Orange LED flashes and backlight on** in the **Home Mode**.
   * **Orange LED flashes for 5 seconds:** low battery in Normal Operation Mode or Tamper open.
 
-![](<.gitbook/assets/6 (61).png>)
+![](<.gitbook/assets/6 (72).png>)
 
 1
 
@@ -69,7 +69,7 @@ _**\<NOTE>**_
     * Request for **Force arm**.
 * **Both Red LED and Orange LED on:** the keypad is in **BLE Pairing Mode**.
 
-![](<.gitbook/assets/7 (47).jpeg>) ![](<.gitbook/assets/8 (56).png>)
+![](<.gitbook/assets/7 (56).jpeg>) ![](<.gitbook/assets/8 (67).png>)
 
 _**\<NOTE>**_
 
@@ -78,7 +78,7 @@ _**\<NOTE>**_
   * If Arm/Home button is pressed but no Control Panel User Code/PIN code is entered, in 5 seconds the keypad will enter sleep mode.
 * _**Power**_
 
-![](<.gitbook/assets/9 (34).jpeg>)
+![](<.gitbook/assets/9 (37).jpeg>)
 
 *
   * Remote keypad uses two **1.5V “AA” Alkaline batteries** as its power source.
@@ -89,7 +89,7 @@ _**\<NOTE>**_
   * Upon completion of a command input, or after 5 seconds of key inactivity, the remote keypad returns to **Stand-by** mode, the power goes off.
 * _**Learning Keypad into Control Panel**_
 
-![](<.gitbook/assets/10 (25).jpeg>) ![](<.gitbook/assets/11 (28).jpeg>)
+![](<.gitbook/assets/10 (27).jpeg>) ![](<.gitbook/assets/11 (29).jpeg>)
 
 Step 1. Put the Control Panel into **Learning Mode**. Please refer to the Control Panel manual.
 
@@ -105,7 +105,7 @@ Step 3. Refer to Control Panel manual to complete the learning process. If learn
 
 Step 4. After the Remote keypad is learnt-in, put the Control Panel into **Walk Test** mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel.
 
-![](<.gitbook/assets/12 (26).jpeg>)
+![](<.gitbook/assets/12 (28).jpeg>)
 
 * _**Edit Keypad Operation Area**_
   * Follow instructions below to change Keypad Area in the Control Panel
@@ -115,7 +115,7 @@ Step 4. After the Remote keypad is learnt-in, put the Control Panel into **Walk 
     4. The keypad will be displayed under learned device. Area update is complete.
 * _**Add Tag/Clear Tag Procedures**_
 
-![](<.gitbook/assets/13 (33).jpeg>)
+![](<.gitbook/assets/13 (34).jpeg>)
 
 The Keypad is capable of transmitting NFC (Near Field Communication) tags to the Control Panel, and you can assign a PIN Code and user name to each NFC tag on the Panel webpage. The NFC tags can then be used to control alarm system mode through the Keypad. The number of NFC tags and PIN Codes are managed on the Control Panel webpage.
 
@@ -127,13 +127,13 @@ Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or
 
 2
 
-![](<.gitbook/assets/14 (33).png>)
+![](<.gitbook/assets/14 (40).png>)
 
 Step 2. After KPT-32N-BLE is successfully learnt into the panel, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-![](<.gitbook/assets/15 (33).png>)
+![](<.gitbook/assets/15 (41).png>)
 
 Step 4. The tag has been added. You can use the tag to arm/home arm/disarm the system. When Keypad is powered on by inserting batteries, the Orange LED will flash and the white backlight will turn on. When LED is off, wait 10 seconds for keypad tag sensor to start functioning.
 
@@ -143,7 +143,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click Submit.
 
-![](<.gitbook/assets/16 (35).png>)
+![](<.gitbook/assets/16 (43).png>)
 
 Step 3. The tag is cleared.
 
@@ -152,7 +152,7 @@ Step 3. The tag is cleared.
 * _**Programming Mode**_
 * Put the Remote keypad into Programming Mode by entering the Keypad PIN code (default: **0000**) followed by “**＊**” key along with a long beep sounding, the Red LED and backlight will turn on.
 
-![](<.gitbook/assets/18 (34).png>)
+![](<.gitbook/assets/18 (37).png>)
 
 _**\<NOTE>**_
 

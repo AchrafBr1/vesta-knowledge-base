@@ -16,7 +16,7 @@ PRS5-P5-ZW also serves as a router in the Z-Wave network. After being included i
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (58).jpeg>)
+![](<.gitbook/assets/0 (67).jpeg>)
 
 **1. LED indicator**
 
@@ -82,13 +82,13 @@ The function button is used to control the Power Relay Switch:
 
 1. Lift the lever and insert the brown wire. **(Picture 1, 2)**
 
-![](<.gitbook/assets/1 (52).png>)
+![](<.gitbook/assets/1 (63).png>)
 
 **Picture1** **Picture 2**
 
 1. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
-![](<.gitbook/assets/2 (56).png>)
+![](<.gitbook/assets/2 (67).png>)
 
 |                                               | **Picture 3**                           | **Picture 4** |   |
 | --------------------------------------------- | --------------------------------------- | ------------- | - |
@@ -97,7 +97,7 @@ The function button is used to control the Power Relay Switch:
 |                                               |                                         |               |   |
 |                                               |                                         |               |   |
 
-![](<.gitbook/assets/3 (43).jpeg>)
+![](<.gitbook/assets/3 (50).jpeg>)
 
 **Picture 5**
 
@@ -105,7 +105,7 @@ The function button is used to control the Power Relay Switch:
 
 Please be noted that the blue wire must be connected to a 3-wire connector and then connected to AC Neural Power Input and AC Neutral Power Load Output. **(Picture 6)**
 
-![](<.gitbook/assets/4 (56).png>)
+![](<.gitbook/assets/4 (67).png>)
 
 **Picture 6**
 
@@ -166,7 +166,7 @@ After joining the Z-Wave network, the Power Relay Switch can bind itself with a 
 3. If binding is successful, the Power Relay Switch LED indicator will flash 3 times to confirm. You can now use the controller to adjust power output level for the Power Relay Switch.
 4. If binding is unsuccessful, the Power Relay Switch LED indicator will flash 5 times. Please retry the binding process.
 
-![](<.gitbook/assets/5 (27).jpeg>)
+![](<.gitbook/assets/5 (34).jpeg>)
 
 **Operation**
 

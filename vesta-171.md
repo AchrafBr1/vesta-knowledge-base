@@ -15,24 +15,24 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 1. **Valve Cap**
 2. **LCD Display**
 
-![](<.gitbook/assets/0 (49).png>) ![](<.gitbook/assets/1 (56).jpeg>)
+![](<.gitbook/assets/0 (62).png>) ![](<.gitbook/assets/1 (67).jpeg>)
 
-1. ![](<.gitbook/assets/2 (51).jpeg>) **ON** when device is already added into Z-Wave network.
-2. ![](<.gitbook/assets/3 (46).jpeg>) **Low Battery Indicator.**
-3. ![](<.gitbook/assets/4 (45).jpeg>) On: Device set to default temperature 17 °C.
+1. ![](<.gitbook/assets/2 (56).jpeg>) **ON** when device is already added into Z-Wave network.
+2. ![](<.gitbook/assets/3 (53).jpeg>) **Low Battery Indicator.**
+3. ![](<.gitbook/assets/4 (47).jpeg>) On: Device set to default temperature 17 °C.
 
-![](<.gitbook/assets/5 (28).jpeg>) Flash: Valve closing.
+![](<.gitbook/assets/5 (35).jpeg>) Flash: Valve closing.
 
-![](<.gitbook/assets/6 (38).jpeg>) On: Device set to default temperature 21 °C.
+![](<.gitbook/assets/6 (47).jpeg>) On: Device set to default temperature 21 °C.
 
-![](<.gitbook/assets/7 (36).jpeg>) Flash: Valve opening.
+![](<.gitbook/assets/7 (45).jpeg>) Flash: Valve opening.
 
 1. **Auto / Manual Mode.**
 2. **Boost function.**
 3. **Open Window**.
 4. **Temperature Indicator.**
 
-![](<.gitbook/assets/8 (36).png>)
+![](<.gitbook/assets/8 (47).png>)
 
 **Others: InS**: When power on device (also for learning period).
 
@@ -46,9 +46,9 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 \-**Boost/ Z-Wave:** Speed up heating process/add into Z-Wave network.
 
-\- ![](<.gitbook/assets/9 (21).jpeg>) Press this button to instantly switch day and night temperatures.
+\- ![](<.gitbook/assets/9 (24).jpeg>) Press this button to instantly switch day and night temperatures.
 
-_**Default day**_ ![](<.gitbook/assets/10 (16).jpeg>) _temperature: 21_ °C_, **Default night**_ ![](<.gitbook/assets/11 (21).jpeg>) _temperature: 17_ °C
+_**Default day**_ ![](<.gitbook/assets/10 (18).jpeg>) _temperature: 21_ °C_, **Default night**_ ![](<.gitbook/assets/11 (22).jpeg>) _temperature: 17_ °C
 
 1. **Temperature Sensor**
 2. **Control Knob**
@@ -63,7 +63,7 @@ The Radiator Valve is powered by two 1.5V AA alkaline batteries.
 
 **Features**
 
-![](<.gitbook/assets/12 (31).png>)
+![](<.gitbook/assets/12 (38).png>)
 
 * _**Battery**_
 
@@ -71,9 +71,9 @@ The Radiator Valve uses two 1.5V AA alkaline batteries as power source. The Radi
 
 The Radiator Valve can detect if the battery is low. When low battery voltage is detected, a low battery signal
 
-will be sent to the Z-Wave Gateway/Control Panel with the LCD will display ![](<.gitbook/assets/13 (20).jpeg>) icon to notify the user.
+will be sent to the Z-Wave Gateway/Control Panel with the LCD will display ![](<.gitbook/assets/13 (21).jpeg>) icon to notify the user.
 
-![](<.gitbook/assets/14 (19).png>)
+![](<.gitbook/assets/14 (26).png>)
 
 * _**Power ON / Manual / Auto mode**_
 
@@ -87,13 +87,13 @@ will be sent to the Z-Wave Gateway/Control Panel with the LCD will display ![](<
 
 **Auto Mode:** The Auto mode is only available when device is learned with a control panel. After learning with the Control Panel you can control and set the time schedule for the Radiator Valve automatically through the control panel (please refer to your control panel manual for details).In the Auto Mode, you can use the same functions as in Manual mode except the Control Knob Set to ON and OFF function.
 
-![](<.gitbook/assets/16 (21).png>)
+![](<.gitbook/assets/16 (29).png>)
 
 * _**Anti-frosting**_
 
 When the Radiator Valve detects a frosting hazard, it will automatically open the valve for hot water to flow in order to maintain the temperature and to prevent further frosting.
 
-![](<.gitbook/assets/17 (17).png>)
+![](<.gitbook/assets/17 (22).png>)
 
 * _**Anti-calcification**_
 
@@ -101,13 +101,13 @@ The Radiator Valve will open and close the valve weekly to prevent calcification
 
 The default value for anti-calcification process is 23:00p.m every Saturday.
 
-![](<.gitbook/assets/18 (21).png>)
+![](<.gitbook/assets/18 (24).png>)
 
 * _**Boost Function**_
 
 Press and hold the Boost button for 3 seconds to temporarily speed up heating process by further opening the valve. The boost function lasts 5 minutes (LCD displays: 300 seconds countdown). If you wish to cancel boost function, press and hold the button for 3 seconds again.
 
-![](<.gitbook/assets/19 (22).png>)
+![](<.gitbook/assets/19 (25).png>)
 
 * _**Setpoint Offset**_
 

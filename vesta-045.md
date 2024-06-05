@@ -4,7 +4,7 @@
 
 The ZigBee Dongle designed to be used with Climax Control Panels to provide extra ZigBee device compatibility. It enables the Control Panel to learn in and control various ZigBee devices.
 
-![](<.gitbook/assets/0 (38).jpeg>)
+![](<.gitbook/assets/0 (47).jpeg>)
 
 **Identifying the Parts**
 

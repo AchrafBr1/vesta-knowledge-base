@@ -14,7 +14,7 @@ The Z-Wave Shutter Control allows access to the “S2 Unauthenticated” class a
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (101).jpeg>)
+![](<.gitbook/assets/0 (110).jpeg>)
 
 1. **LED indicator**
    * Power ON: LED flashes twice.
@@ -54,7 +54,7 @@ Connect to the Down terminal of the Shutter Motor.
 * Supported Load Current: 3Amps for motors with compensated power factor (inductive loads)
 * Communication Protocol: Z-Wave Plus 700 series module
 
-![](<.gitbook/assets/1 (83).jpeg>)
+![](<.gitbook/assets/1 (94).jpeg>)
 
 **Caution**
 
@@ -82,7 +82,7 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 
 **SmartStart Inclusion**
 
-![](<.gitbook/assets/2 (72).jpeg>)
+![](<.gitbook/assets/2 (77).jpeg>)
 
 Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. DSK is Device Specific Key used for authentication. The DSK information is stored in the QR code format that is printed on a sticker and attached to the device.
 
@@ -135,19 +135,19 @@ To test whether the device is able to communicate with the Z-wave gateway or con
 
 **Picture 1** **Picture 2**
 
-![](<.gitbook/assets/3 (76).png>)
+![](<.gitbook/assets/3 (86).png>)
 
 1. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
 **Picture 3** **Picture 4**
 
-![](<.gitbook/assets/4 (81).png>)
+![](<.gitbook/assets/4 (92).png>)
 
 *
   1. In the same way as step 1 & 2, connect the other wires with connectors.
 * SCM-6 should be connected according to the diagram below:
 
-![](<.gitbook/assets/5 (41).jpeg>)
+![](<.gitbook/assets/5 (48).jpeg>)
 
 * Connect N terminal of SCM to the N terminal of Power Supply.
 * Connect L terminal of SCM to the L terminal of Power Supply.

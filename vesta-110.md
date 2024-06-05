@@ -14,7 +14,7 @@ UT-15SL-NT: Tamper switch removed
 
 * _**Parts Identification**_
 
-![](<.gitbook/assets/0 (41).png>)
+![](<.gitbook/assets/0 (54).png>)
 
 **1. LED indicator a.k.a. Learn / Test button**
 
@@ -26,7 +26,7 @@ Used to fixed and screw the Universal Transmitter directly onto the Door Frame o
 
 Provides tamper protection against unauthorized device opening and/or removal from mounting surface.
 
-![](<.gitbook/assets/1 (47).png>)
+![](<.gitbook/assets/1 (58).png>)
 
 1. **Battery Insulator**
 2. **Fixing Screw**
@@ -43,7 +43,7 @@ Used for Roller shutter connection
 
 1. **DIP Switch**
 
-![](<.gitbook/assets/2 (39).jpeg>)
+![](<.gitbook/assets/2 (44).jpeg>)
 
 |   | SW1 |   |                           | Terminal 1 Type = Door Contact   |   |   |
 | - | --- | - | ------------------------- | -------------------------------- | - | - |
@@ -138,7 +138,7 @@ Step 1: Find a suitable location for mounting.
 
 Step 2: Mounting:
 
-![](<.gitbook/assets/3 (36).jpeg>)
+![](<.gitbook/assets/3 (43).jpeg>)
 
 1. Use the mounting holes on the transmitter as a template of appropriate hole positioning.
 2. Use the provided wall plugs for plaster/brick installation.
@@ -175,7 +175,7 @@ Step 4: Activate the connected device to test the signal transmission.
 
 **N.C.** **N.O.**
 
-![](<.gitbook/assets/4 (37).jpeg>)
+![](<.gitbook/assets/4 (39).jpeg>)
 
 * _**Using the Extension Terminal 2 (CON5)**_
 
@@ -191,7 +191,7 @@ The Extension Terminal 2 can be triggered by the rotations of the axle. Connect 
         * 5-axle rotations are about 9.5 cm.
         * 8-axle rotations are about 13 cm.
 
-![](<.gitbook/assets/5 (50).png>)
+![](<.gitbook/assets/5 (63).png>)
 
 Pull Cord
 

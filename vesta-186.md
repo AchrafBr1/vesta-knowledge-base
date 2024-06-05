@@ -74,7 +74,7 @@ The Power Switch has lost connection to its current ZigBee network
 
 _**Type F**_ _**Type B**_
 
-![](<.gitbook/assets/0 (74).jpeg>)
+![](<.gitbook/assets/0 (83).jpeg>)
 
 _**Type L**_ _**Type J**_
 
@@ -82,13 +82,13 @@ _**Type L**_ _**Type J**_
 
 **ZigBee Network Setup**
 
-![](<.gitbook/assets/1 (66).jpeg>)
+![](<.gitbook/assets/1 (77).jpeg>)
 
 * _**ZigBee Device Guideline**_
 
 ZigBee is a wireless communication protocol that is reliable, has low power consumption and has high transmission efficiency. Based on the IEEE802.15.4 standard, ZigBee allows a large amount of devices to be included in a network and are coordinated for data exchange and signal transmission.
 
-![](<.gitbook/assets/2 (59).jpeg>)
+![](<.gitbook/assets/2 (64).jpeg>)
 
 * _**Joining the ZigBee Network**_
 
@@ -102,7 +102,7 @@ As a ZigBee device, the Power Switch needs to join a ZigBee network to receive c
   5. If registration and joining to the network is unsuccessful, please check your ZigBee network coordinator, system control panel or CIE setting to ensure the permit-to-join function is available, and then use the Factory Reset function below to join the ZigBee network.
 * _**Binding with Controller**_
 
-![](<.gitbook/assets/3 (53).jpeg>)
+![](<.gitbook/assets/3 (60).jpeg>)
 
 After joining the ZigBee network, the Power Switch can bind itself with a controller device which can be used to turn on/off the Power Switch. To bind the Power Switch and the device:
 
@@ -113,7 +113,7 @@ After joining the ZigBee network, the Power Switch can bind itself with a contro
   4. If binding is unsuccessful, please retry the binding process.
 * _**Removing Device from ZigBee Network (Factory Reset)**_
 
-![](<.gitbook/assets/4 (62).png>)
+![](<.gitbook/assets/4 (73).png>)
 
 To remove the Power Switch from current ZigBee network, the Power Switch must be put to Factory Reset to complete device removal. Factory Reset function will clear the Power Switch of its stored setting and information and prompt the Power Switch to search for new ZigBee network.
 
@@ -124,7 +124,7 @@ To remove the Power Switch from current ZigBee network, the Power Switch must be
   2. Upon reset, the Power Switch will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
 * _**ZigBee Router Device Capacity (PSS-29ZBSR / PSM-29ZBSR Only)**_
 
-![](<.gitbook/assets/5 (62).png>)
+![](<.gitbook/assets/5 (75).png>)
 
 The Power Switch models with Router function allow other ZigBee devices to join the ZigBee Network through the Router. The Power Switch Router has maximum capacity of 40 devices, including 10 routers; the Power Switch Meter Router has maximum capacity of 10 devices including 5 routers.
 
@@ -140,7 +140,7 @@ The Power Switch models with Router function allow other ZigBee devices to join 
 
 **Operation**
 
-![](<.gitbook/assets/6 (42).jpeg>)
+![](<.gitbook/assets/6 (51).jpeg>)
 
 * _**Installation**_
   * Plug the Power Switch into a power outlet, then Plug the appliance into the socket of the Power Switch. The appliance must be in ON status.
@@ -148,7 +148,7 @@ The Power Switch models with Router function allow other ZigBee devices to join 
 
 2
 
-* ![](<.gitbook/assets/7 (39).jpeg>)_**Appliance Control**_
+* ![](<.gitbook/assets/7 (48).jpeg>)_**Appliance Control**_
   * After the Power Switch has successfully joined a ZigBee network, the coordinator can remotely turn on/off the Power Switch to control the appliance
   * You can also press the button on the Power Switch to toggle its on/off status
   * If you have bound a controller with the Power Switch, you can also use the controller to turn on/off the Power Switch.
@@ -167,11 +167,11 @@ The Power Switch models with Router function allow other ZigBee devices to join 
   * For 230V: the maximum operation load is 3680W and 16A.
   * If the Power Switch is overheating, It will cut off power automatically as a safety measure. The Power Switch must be unplugged and re-plugged after cut off to resume normal operation.
 
-![](<.gitbook/assets/8 (33).jpeg>) ![](<.gitbook/assets/9 (26).jpeg>)
+![](<.gitbook/assets/8 (40).jpeg>) ![](<.gitbook/assets/9 (29).jpeg>)
 
 **Appendix (For developers only)**
 
-![](<.gitbook/assets/10 (38).png>)
+![](<.gitbook/assets/10 (46).png>)
 
  _**Power Switch Cluster ID**_
 
@@ -253,11 +253,11 @@ _None_
 |                                                      |                       |                |              |   |            |              |             |               |   |   |
 | 0x0000                                               | _NameSupport_         | 8-bit bitmap   | x0000000     |   | Read only  |              | -           | M             |   |   |
 
-![](<.gitbook/assets/11 (29).png>) ![](<.gitbook/assets/12 (34).png>) ![](<.gitbook/assets/13 (24).jpeg>)
+![](<.gitbook/assets/11 (37).png>) ![](<.gitbook/assets/12 (41).png>) ![](<.gitbook/assets/13 (25).jpeg>)
 
 * _**Attributes of the Scenes cluster Information**_
 
-![](<.gitbook/assets/14 (20).jpeg>)
+![](<.gitbook/assets/14 (22).jpeg>)
 
 | **Identifier**                                  | **Name**       | **Type**        | **Range**       | **Access** | **Default** | **Mandatory** |   |
 | ----------------------------------------------- | -------------- | --------------- | --------------- | ---------- | ----------- | ------------- | - |
@@ -276,7 +276,7 @@ _None_
 | 0x0004                                          | _NameSupport_  | 8-bit bitmap    | x0000000        | Read only  | -           | M             |   |
 |  _**Attribute of On/Off Cluster Information**_ |                |                 |                 |            |             |               |   |
 
-![](<.gitbook/assets/15 (22).png>)
+![](<.gitbook/assets/15 (30).png>)
 
 | **Identifier** | **Name** | **Type** | **Range**  | **Access** | **Default** | **Mandatory** |   |
 | -------------- | -------- | -------- | ---------- | ---------- | ----------- | ------------- | - |
@@ -284,7 +284,7 @@ _None_
 |                |          |          |            |            |             |               |   |
 | 0x0000         | _OnOff_  | Boolean  | 0x00 –0x01 | Read only  | 0x00        | M             |   |
 
-![](<.gitbook/assets/16 (24).png>)
+![](<.gitbook/assets/16 (32).png>)
 
  _**Attributes of the Metering cluster Information (Reading Information Attribute**_
 
@@ -300,7 +300,7 @@ _**Set) (PSM-29ZBS / PSM-29ZBSR Only)**_
 | Delivered      | 48-bit Integer   | 0xFFFFFFFFFFFF | Only              |            |             |               |   |
 |                |                  |                |                   |            |             |               |   |
 
-![](<.gitbook/assets/18 (24).png>)
+![](<.gitbook/assets/18 (27).png>)
 
  _**Attributes of the Metering cluster Information (Formatting Attribute Set)**_
 
@@ -325,7 +325,7 @@ _**(PSM-29ZBS / PSM-29ZBSR Only)**_
 | 0x04           | DemandFormating    | 8-bit BitMap | 0x00 to 0xFF | Read Only  | 0x93        | O             |   |
 | 0x06           | MeteringDeviceType | 8-bit BitMap | 0x00 to 0xFF | Read Only  | 0x00        | M             |   |
 
-![](<.gitbook/assets/20 (17).png>)
+![](<.gitbook/assets/20 (21).png>)
 
 * _**Attributes of the Metering cluster Information (Historical Attribute Set) (PSM-29ZBS / PSM-29ZBSR Only)**_
 

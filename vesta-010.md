@@ -9,9 +9,9 @@ Mar-24-2017
 * KP-15-NT / KP-15-NT-F1: Remote Keypad without Tamper Switch
 * _**Parts Identification**_
 
-![](<.gitbook/assets/0 (4) (1).png>)
+![](<.gitbook/assets/0 (17).png>)
 
-![](<.gitbook/assets/1 (6) (1).png>)
+![](<.gitbook/assets/1 (17).png>)
 
 **1. Green Active LED**
 
@@ -21,19 +21,19 @@ Mar-24-2017
 
 **4. Slide Out Section**
 
-![](<.gitbook/assets/2 (6) (1).png>)
+![](<.gitbook/assets/2 (17).png>)
 
 **5. Arm Key**
 
 **6. Home Key**
 
-![](<.gitbook/assets/3 (6) (1).png>)
+![](<.gitbook/assets/3 (16).png>)
 
 **7. Key**
 
 **8. Disarm Key**
 
-![](<.gitbook/assets/4 (6) (1).png>)
+![](<.gitbook/assets/4 (17).png>)
 
 **9. ＃ Key**
 
@@ -95,7 +95,7 @@ Mar-24-2017
 * Upon completion of a command input, the power turns off and returns to Stand-by mode.
 * _**Test mode:**_
 * Keypad can be put into Test mode by entering the PIN code (default: **0000**) followed by ＊. The Green Active LED will flash and Keypad sounds a long beep.
-* To exit Test mode, press ![](<.gitbook/assets/5 (5) (1).png>) **twice**, Keypad will sound a long beep and the Green Active LED will turn on, then Keypad returns to Normal Operation mode.
+* To exit Test mode, press ![](<.gitbook/assets/5 (18).png>) **twice**, Keypad will sound a long beep and the Green Active LED will turn on, then Keypad returns to Normal Operation mode.
 
 **\<NOTE>**
 
@@ -124,7 +124,7 @@ Enter New 4-digit Pin Code and then press **#**
     *
       *
         * Dual Key Disable — Press ＊ and then **5**
-        * Quit Test Mode —press ![](<.gitbook/assets/6 (1) (1) (1) (1).png>) **twice**.
+        * Quit Test Mode —press ![](<.gitbook/assets/6 (12).png>) **twice**.
         * Arm/ Home without PIN Code — press ＊ and then **8**
         * Arm/ Home with PIN Code — press ＊ and then **9**
 
@@ -171,7 +171,7 @@ Step 5. Setting the Pin Code:
 4. Enter your new 4-digit code.
 5. Press **#**, Keypad sounds a long beep.
 
-Step 6. Press ![](<.gitbook/assets/7 (2) (1) (1).png>) **twice** to exit Test mode and the installation is completed.
+Step 6. Press ![](<.gitbook/assets/7 (13).png>) **twice** to exit Test mode and the installation is completed.
 
 * _**Mounting the Keypad:**_
 

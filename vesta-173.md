@@ -6,7 +6,7 @@
 
 **Introduction**
 
-![](<.gitbook/assets/0 (64).jpeg>)
+![](<.gitbook/assets/0 (73).jpeg>)
 
 The RSB-1ZBS is a ZigBee Smart LED Color Light Bulb. It features both multicolor adjustment and light level control. When joined into a ZigBee network, the user will be able to control Light Bulb remotely from the ZigBee network coordinator.
 
@@ -16,7 +16,7 @@ The Light Bulb also serves as a route in the ZigBee network. After being include
 
 **ZigBee Network Setup**
 
-![](<.gitbook/assets/1 (57).jpeg>)
+![](<.gitbook/assets/1 (68).jpeg>)
 
 * _**ZigBee Device Guideline**_
 
@@ -30,7 +30,7 @@ Due to the fundamental structure of ZigBee network, ZigBee device will actively 
   * Do not remove a ZigBee device from the ZigBee network router or coordinator without powering down the ZigBee device.
 * _**Joining the ZigBee Network**_
 
-![](<.gitbook/assets/2 (52).jpeg>)
+![](<.gitbook/assets/2 (57).jpeg>)
 
 As a ZigBee device, the Light Bulb needs to join a ZigBee network to send and receive command signals. Please follow the steps below to add the Light Bulb into the ZigBee network.
 
@@ -46,7 +46,7 @@ Step 5. Switch ON Light Bulb for the 5th time, the device will reset and start s
 
 Step 6. After joining the ZigBee network, the Light Bulb will be registered in the security system in the network automatically. Please check the ZigBee network coordinator, system control panel, or CIE (Control and Indicating Equipment) to confirm if joining and registration was successful.
 
-![](<.gitbook/assets/3 (61).png>) ![](<.gitbook/assets/4 (46).jpeg>)
+![](<.gitbook/assets/3 (71).png>) ![](<.gitbook/assets/4 (48).jpeg>)
 
 * _**Removing Device from ZigBee Network (Factory Reset)**_
 
@@ -63,7 +63,7 @@ To remove the Light Bulb from current ZigBee network, the device must be placed 
 
 1
 
-![](<.gitbook/assets/5 (29).jpeg>) ![](<.gitbook/assets/6 (39).jpeg>)
+![](<.gitbook/assets/5 (36).jpeg>) ![](<.gitbook/assets/6 (48).jpeg>)
 
 * _**ZigBee Router Device Capacity**_
 
@@ -71,19 +71,19 @@ The Light Bulb with Router function allows other ZigBee devices to join the ZigB
 
 **Features**
 
-![](<.gitbook/assets/7 (35).png>)
+![](<.gitbook/assets/7 (46).png>)
 
 * _**Color and Saturation Adjustment**_
 
 The Light Bulb’s color and saturation may be adjusted from the ZigBee Coordinators remotely by sending commands.
 
-![](<.gitbook/assets/8 (38).png>)
+![](<.gitbook/assets/8 (49).png>)
 
 * _**Light Level Adjustment**_
 
 The Light Bulb has dimmable lighting, the light percentage maybe adjusted from the ZigBee Coordinators remotely by sending commands.
 
-![](<.gitbook/assets/9 (36).png>)
+![](<.gitbook/assets/9 (50).png>)
 
 * _**Supervision**_
 
@@ -91,7 +91,7 @@ The Light Bulb will transmit a supervision signal to report its condition regula
 
 **Appendix (For developers only)**
 
-![](<.gitbook/assets/10 (37).png>)
+![](<.gitbook/assets/10 (45).png>)
 
 * _**Light Bulb Cluster ID**_
 
@@ -148,9 +148,9 @@ The Light Bulb will transmit a supervision signal to report its condition regula
 | **maxReportInt**      |                                                                | default value:0x258 sec (600 sec)                       |                 |        |   |   |
 |                       |                                                                | 2                                                       |                 |        |   |   |
 
-![](<.gitbook/assets/11 (22).jpeg>) ![](<.gitbook/assets/12 (18).jpeg>)
+![](<.gitbook/assets/11 (23).jpeg>) ![](<.gitbook/assets/12 (20).jpeg>)
 
-* ![](<.gitbook/assets/13 (25).png>)_**Attribute of Basic Cluster Information**_
+* ![](<.gitbook/assets/13 (33).png>)_**Attribute of Basic Cluster Information**_
 
 | **Identifier**                                    | **Name**              | **Type**       | **Range**    | **Access** | **Default**       | **Mandatory** |   |
 | ------------------------------------------------- | --------------------- | -------------- | ------------ | ---------- | ----------------- | ------------- | - |
@@ -183,7 +183,7 @@ The Light Bulb will transmit a supervision signal to report its condition regula
 | 0x0012                                            | _DeviceEnabled_       | Boolean        | 0x00 –0x01   | Read/Write | 0x01              | M             |   |
 |  _**Attribute of Identify Cluster Information**_ |                       |                |              |            |                   |               |   |
 
-![](<.gitbook/assets/14 (20).png>)
+![](<.gitbook/assets/14 (27).png>)
 
 | **Identifier**                                 | **Name**       | **Type** | **Range**    | **Access**   | **Default** | **Mandatory /** |   |
 | ---------------------------------------------- | -------------- | -------- | ------------ | ------------ | ----------- | --------------- | - |
@@ -194,7 +194,7 @@ The Light Bulb will transmit a supervision signal to report its condition regula
 |                                                |                |          |              |              |             |                 |   |
 |  _**Attribute of Group Cluster Information**_ |                |          |              |              |             |                 |   |
 
-![](<.gitbook/assets/15 (19).png>)
+![](<.gitbook/assets/15 (27).png>)
 
 | **Identifier**                                         | **Name**                 |                         |                        |                 |              | **Type**     |          |           |             | **Range**   |                |                | **Access**   |            |             | **Default** | **Mandatory /** |                 |   |   |   |   |   |   |   |
 | ------------------------------------------------------ | ------------------------ | ----------------------- | ---------------------- | --------------- | ------------ | ------------ | -------- | --------- | ----------- | ----------- | -------------- | -------------- | ------------ | ---------- | ----------- | ----------- | --------------- | --------------- | - | - | - | - | - | - | - |
@@ -237,6 +237,6 @@ The Light Bulb will transmit a supervision signal to report its condition regula
 |                                                        |                          |                         |                        | enumeration     |              |              |          |           |             |             |                |                |              |            |             |             |                 |                 |   |   |   |   |   |   |   |
 |                                                        |                          |                         |                        |                 |              |              |          |           |             |             |                |                |              |            |             |             |                 |                 |   |   |   |   |   |   |   |
 
-![](<.gitbook/assets/16 (22).png>) ![](<.gitbook/assets/17 (18).png>) ![](<.gitbook/assets/18 (22).png>) ![](<.gitbook/assets/19 (23).png>)
+![](<.gitbook/assets/16 (30).png>) ![](<.gitbook/assets/17 (23).png>) ![](<.gitbook/assets/18 (25).png>) ![](<.gitbook/assets/19 (26).png>)
 
 3

@@ -14,7 +14,7 @@
 
 **motion detector models are included, QXI-RDT-X5, BXS-RAM, VXS-RAM, and WXI-RAM. The introduction of the**
 
-![](<.gitbook/assets/0 (56).png>)
+![](<.gitbook/assets/0 (69).png>)
 
 **transmitter and the installation of the transmitter are illustrated below.**
 
@@ -28,7 +28,7 @@
 
 **function.**
 
-![](<.gitbook/assets/1 (70).png>)
+![](<.gitbook/assets/1 (81).png>)
 
 **Identifying the Parts**
 
@@ -36,7 +36,7 @@
 2. **Learn/Test Button**
 3. **Battery (CR123)**
 
-![](<.gitbook/assets/2 (77).png>)
+![](<.gitbook/assets/2 (88).png>)
 
 **LED Indicator**
 
@@ -80,35 +80,35 @@
 
 **Installation of the Transmitter**
 
-![](<.gitbook/assets/3 (75).png>) ![](<.gitbook/assets/4 (80).png>) ![](<.gitbook/assets/5 (80).png>) ![](<.gitbook/assets/6 (60).png>) ![](<.gitbook/assets/7 (55).png>)
+![](<.gitbook/assets/3 (85).png>) ![](<.gitbook/assets/4 (91).png>) ![](<.gitbook/assets/5 (93).png>) ![](<.gitbook/assets/6 (71).png>) ![](<.gitbook/assets/7 (66).png>)
 
 **The section illustrates how to install the transmitter in the motion detector QXI-RDT-X5, BXS-RAM, VXS-RAM, and WXI-RAM.**
 
 **1**
 
-![](<.gitbook/assets/8 (55).png>)**QXI-RDT-X5**
+![](<.gitbook/assets/8 (66).png>)**QXI-RDT-X5**
 
 **Step 1. Apply the foam tape on the transmitter.**
 
-![](<.gitbook/assets/9 (51).png>)
+![](<.gitbook/assets/9 (65).png>)
 
-**Apply the foam tape here.** ![](<.gitbook/assets/10 (53).png>)
+**Apply the foam tape here.** ![](<.gitbook/assets/10 (61).png>)
 
-![](<.gitbook/assets/11 (43).png>)
+![](<.gitbook/assets/11 (51).png>)
 
 **Before Application**
 
-![](<.gitbook/assets/12 (45).png>)
+![](<.gitbook/assets/12 (52).png>)
 
 **After Application**
 
 **Step 2. Remove the back cover. Align its border with the lower side of the cover case and the middle of the hole as the pictures shown below.**
 
-![](<.gitbook/assets/13 (33).png>)
+![](<.gitbook/assets/13 (41).png>)
 
 **The middle**
 
-![](<.gitbook/assets/14 (32).png>)
+![](<.gitbook/assets/14 (39).png>)
 
 **of the hole**
 
@@ -124,7 +124,7 @@
 
 **Step 3. Connect the wires and fix the wires as the pictures shown below.**
 
-![](<.gitbook/assets/15 (32).png>)
+![](<.gitbook/assets/15 (40).png>)
 
 **○1 Insert the wires and pull the**
 
@@ -146,23 +146,23 @@
 
 **Step 4. Use the wires to make a loose knot, and thread the wires’ end into the circles.**
 
-![](<.gitbook/assets/16 (34).png>)
+![](<.gitbook/assets/16 (42).png>)
 
 **Step 5. Fix the wires onto the transmitter board.**
 
-![](<.gitbook/assets/17 (28).png>)
+![](<.gitbook/assets/17 (33).png>)
 
 **Step 6. Fix the other pair of wires onto the area below the battery case. (Refer to the pictures below)**
 
-![](<.gitbook/assets/18 (33).png>)
+![](<.gitbook/assets/18 (36).png>)
 
 **Step 7. The installation is complete.**
 
-![](<.gitbook/assets/19 (34).png>)
+![](<.gitbook/assets/19 (37).png>)
 
 **3**
 
-![](<.gitbook/assets/20 (24).png>)**BXS-RAM**
+![](<.gitbook/assets/20 (28).png>)**BXS-RAM**
 
 **Step 1. Apply the foam tape on the transmitter.**
 

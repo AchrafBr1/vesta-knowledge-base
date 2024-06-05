@@ -38,7 +38,7 @@ The Shutter Control is compatible only with Z-Wave Gateway/Control Panel. Z-Wave
 11. **Wiring Buckle**
     * The Wiring Buckle is used for managing wires.
 
-![](<.gitbook/assets/0 (59).jpeg>)
+![](<.gitbook/assets/0 (68).jpeg>)
 
 **Specification**
 
@@ -47,7 +47,7 @@ The Shutter Control is compatible only with Z-Wave Gateway/Control Panel. Z-Wave
 
 1
 
-* _**Caution**_ ![](<.gitbook/assets/1 (52).jpeg>)
+* _**Caution**_ ![](<.gitbook/assets/1 (63).jpeg>)
   * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
   * Before installation or any maintenance work, ensure to disconnect the power supply.
   * Do not connect the device to loads exceeding supported load current.
@@ -88,7 +88,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 * Please use the recommended wire size of AWG 14-22 or Ø 2.08-0.326 (mm²). Connect the SCM according to the diagram below:
 
-![](<.gitbook/assets/2 (48).jpeg>)
+![](<.gitbook/assets/2 (53).jpeg>)
 
 * Connect L terminal of SCM to the L terminal of Power Supply.
 * Connect N terminal of SCM to the N terminal of Power Supply.
@@ -101,7 +101,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 * Insert each wire into the terminal that it should be connected to, tighten each screw to close the clippers and hold the wires in place.
 * After the wires are connected, use the wiring buckle to manage the wires, and place the wiring buckle on the base with its gap (opening) positioned on the left.
 
-![](<.gitbook/assets/3 (44).jpeg>)
+![](<.gitbook/assets/3 (51).jpeg>)
 
 **Operation**
 

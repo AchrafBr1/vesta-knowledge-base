@@ -14,7 +14,7 @@
 
 **Top Cover** **Base**
 
-![](<.gitbook/assets/0 (48).png>)
+![](<.gitbook/assets/0 (61).png>)
 
 1. **Switch Button 1/Function Button**
    * **Press the button 3 times within 1 second to send a learn code.**
@@ -25,7 +25,7 @@
 3. **Switch Button 3**
    * **Press the button to switch ON/OFF the Relay Channel 3.**
 
-![](<.gitbook/assets/1 (53).png>)
+![](<.gitbook/assets/1 (64).png>)
 
 * **NOTE>**
 
@@ -98,7 +98,7 @@
 
 **Wire the Relay according to the instructions below.**
 
-![](<.gitbook/assets/2 (50).jpeg>)
+![](<.gitbook/assets/2 (55).jpeg>)
 
 1. **Please turn off the power supply before connection.**
 2. **Remove the top cover and remove the strain relief clamps.**
@@ -109,7 +109,7 @@
 
 **Features**
 
-![](<.gitbook/assets/3 (59).png>)
+![](<.gitbook/assets/3 (69).png>)
 
 **Adding Device (Inclusion)**
 
@@ -127,7 +127,7 @@
 
 **Removing Device (Exclusion)**
 
-![](<.gitbook/assets/4 (58).png>)
+![](<.gitbook/assets/4 (69).png>)
 
 **The device must be removed from existing Z-Wave network before being added into another. Exclusion Mode**
 
@@ -141,7 +141,7 @@
 
 **Range Test**
 
-![](<.gitbook/assets/5 (58).png>)
+![](<.gitbook/assets/5 (71).png>)
 
 **To test whether the device is able to communicate with the Z-Wave gateway or control panel:**
 
@@ -161,11 +161,11 @@
 
 **Replace the top cover and tighten the bottom fixing screw.**
 
-![](<.gitbook/assets/6 (37).jpeg>)
+![](<.gitbook/assets/6 (46).jpeg>)
 
 **Operation**
 
-![](<.gitbook/assets/7 (35).jpeg>)
+![](<.gitbook/assets/7 (44).jpeg>)
 
 **Relay Control**
 
@@ -243,7 +243,7 @@
 
 **Basic Command Class mapping : Binary Switch CC for endpoint 1 & 2 & 3.**
 
-![](<.gitbook/assets/8 (35).png>)
+![](<.gitbook/assets/8 (46).png>)
 
 **Z-Wave’s Groups (Association Command Class Version 2)**
 
@@ -255,11 +255,11 @@
 |                   |                |                | **Switch Binary: triggered by the endpoints**   |
 | **2**             | **Relay EP 1** | **5**          | **Mirror of endpoint 1, group 2**               |
 
-![](<.gitbook/assets/9 (35).png>)
+![](<.gitbook/assets/9 (49).png>)
 
 **4**
 
-![](<.gitbook/assets/10 (36).png>)
+![](<.gitbook/assets/10 (44).png>)
 
 | **3**            | **Relay EP 2** | **5**          | **Mirror of endpoint 2, group 2**                  |
 | ---------------- | -------------- | -------------- | -------------------------------------------------- |
@@ -277,6 +277,6 @@
 | **1**            | **Lifeline**   | **0**          | **Mirror of root device, but without node count.** |
 | **2**            | **Relay EP 3** | **5**          | **Switch binary report on overload.**              |
 
-![](<.gitbook/assets/11 (27).png>) ![](<.gitbook/assets/12 (30).png>) ![](<.gitbook/assets/13 (24).png>) ![](<.gitbook/assets/14 (18).png>)
+![](<.gitbook/assets/11 (35).png>) ![](<.gitbook/assets/12 (37).png>) ![](<.gitbook/assets/13 (32).png>) ![](<.gitbook/assets/14 (25).png>)
 
 **5**

@@ -11,7 +11,7 @@ WLS-23 is a Water Leak Sensor. It is capable of sending wireless signals to the 
 
 **868FM F1**
 
-* ![](<.gitbook/assets/0 (9).png>)Parts Identification
+* ![](<.gitbook/assets/0 (22).png>)Parts Identification
 * Learn/Test Button aka LED Indicator
 
 **LED Indication:**
@@ -74,7 +74,7 @@ Please make sure the plastic plug is well inserted when using this type of detec
 * If the Control Panel receives the learn code, it will display the information accordingly, refer to the Control Panel manual to complete the learning process. You can start Mounting process
 * Installation
 
-![](<.gitbook/assets/1 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/1 (12).jpeg>)
 
 (**Fig 1**.)
 
@@ -103,22 +103,22 @@ A Water Sensing Cable or Water Probe Cable is available for selection. The cable
 
 | <p><strong>Water Sensing Cable</strong></p><p><strong>(earphone jack type)</strong></p> | <p><strong>Water Probe Cable</strong></p><p><strong>(earphone jack type)</strong></p> |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| ![](<.gitbook/assets/2 (14).png>)                                                       | ![](<.gitbook/assets/3 (13).png>)                                                     |
+| ![](<.gitbook/assets/2 (25).png>)                                                       | ![](<.gitbook/assets/3 (23).png>)                                                     |
 
 * User Guidelines
 * When water is detected through the Water Sensing Cable or Water Sensing Probe, the Water Sensor will start alarming and transmit an alarm signal to the Control Panel.
 * Upon receiving an alert notification from the Control Panel, unplug the Water Sensing Cable.
 * Use a towel to dry the Water Sensing Cable.
 
-![](<.gitbook/assets/4 (12).png>)
+![](<.gitbook/assets/4 (23).png>)
 
 * It is recommended to air dry residual water in a ventilated place for at least two hours before inserting the sensing cable.
 
-![](<.gitbook/assets/5 (9) (1).png>)
+![](<.gitbook/assets/5 (22).png>)
 
 **\<NOTE>**
 
 * Avoid direct or indirect sunshine.
 * Improper storage can cause damage to the sensor and the cable.
 
-![](<.gitbook/assets/6 (4) (1).png>)
+![](<.gitbook/assets/6 (15).png>)

@@ -12,7 +12,7 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (105).jpeg>)
+![](<.gitbook/assets/0 (114).jpeg>)
 
 1. **Light Sensor / LED Indicator**
    * **Flashes once:** Transmitting Learning Code/Factory Reset.
@@ -102,7 +102,7 @@ The sensor can be mounted using two methods: Self-adhesive or Screw mounting.
 2. Remove the protective covering from one side of double-sided adhesive pad and firmly apply to the back of the device.
 3. Remove the other covering and firmly place/press the device in the desired location.
 
-![](<.gitbook/assets/1 (87).jpeg>)
+![](<.gitbook/assets/1 (98).jpeg>)
 
 Do not use the Self-adhesive mounting method on poorly painted and/or rough surfaces.
 

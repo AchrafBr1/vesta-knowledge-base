@@ -1,10 +1,10 @@
 # VESTA 354
 
-![](<.gitbook/assets/0 (64).png>)TSP-1-BUS Quick Start Guide
+![](<.gitbook/assets/0 (77).png>)TSP-1-BUS Quick Start Guide
 
 **1. Identifying the Parts**
 
-![](<.gitbook/assets/1 (82).png>)
+![](<.gitbook/assets/1 (93).png>)
 
 _**Screen**_
 
@@ -17,7 +17,7 @@ _**Screen**_
 | _**Jack**_     |                 | _**Adjustment**_ |   |
 |                |                 | _**Buttons**_    |   |
 
-![](<.gitbook/assets/2 (89).png>)
+![](<.gitbook/assets/2 (100).png>)
 
 | _**Tamper**_               |                         |   |
 | -------------------------- | ----------------------- | - |
@@ -32,7 +32,7 @@ _**Screen**_
 | _**Power Terminal**_       | _**Bus Connection**_    |   |
 | _**(DC 12V Input / GND)**_ | _**Terminal**_          |   |
 
-![](<.gitbook/assets/3 (88).png>) ![](<.gitbook/assets/4 (92).png>)
+![](<.gitbook/assets/3 (98).png>) ![](<.gitbook/assets/4 (103).png>)
 
 **2. Package Content**
 
@@ -52,11 +52,11 @@ A router supporting 2.4 GHz Wi-Fi network is required for “WIFI” or “WIFI 
 
 Before connecting the Touchscreen Keypad to the system bus, please switch the power off.
 
-![](<.gitbook/assets/5 (92).png>)
+![](<.gitbook/assets/5 (105).png>)
 
 To assist with cable connection, the terminal blocks on each BUS module are color-coded.
 
-![](<.gitbook/assets/6 (74).png>)
+![](<.gitbook/assets/6 (85).png>)
 
 | **Red**    | VDD  |
 | ---------- | ---- |
@@ -64,7 +64,7 @@ To assist with cable connection, the terminal blocks on each BUS module are colo
 | **Yellow** | 485A |
 | **Green**  | 485B |
 
-![](<.gitbook/assets/7 (64).png>) ![](<.gitbook/assets/8 (64).png>) ![](<.gitbook/assets/9 (61).png>) ![](<.gitbook/assets/10 (62).png>) ![](<.gitbook/assets/11 (50).png>) ![](<.gitbook/assets/12 (52).png>) ![](<.gitbook/assets/13 (41).png>) ![](<.gitbook/assets/14 (41).png>) ![](<.gitbook/assets/15 (41).png>) ![](<.gitbook/assets/16 (43).png>) ![](<.gitbook/assets/17 (35).png>) ![](<.gitbook/assets/18 (42).png>) ![](<.gitbook/assets/19 (42).png>) ![](<.gitbook/assets/20 (30).png>)
+![](<.gitbook/assets/7 (75).png>) ![](<.gitbook/assets/8 (75).png>) ![](<.gitbook/assets/9 (75).png>) ![](<.gitbook/assets/10 (70).png>) ![](<.gitbook/assets/11 (58).png>) ![](<.gitbook/assets/12 (59).png>) ![](<.gitbook/assets/13 (49).png>) ![](<.gitbook/assets/14 (48).png>) ![](<.gitbook/assets/15 (49).png>) ![](<.gitbook/assets/16 (51).png>) ![](<.gitbook/assets/17 (40).png>) ![](<.gitbook/assets/18 (45).png>) ![](<.gitbook/assets/19 (45).png>) ![](<.gitbook/assets/20 (34).png>)
 
 TSP-1-BUS will be automatically turned on after power is supplied.
 

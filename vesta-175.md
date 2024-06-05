@@ -26,7 +26,7 @@ Models with router function also serve as a router in the ZigBee network. After 
 
 Models with OTA function supports OTA firmware upgrade feature via ZigBee network, which can be initiated from the ZigBee network coordinator.
 
-![](<.gitbook/assets/0 (66).jpeg>)
+![](<.gitbook/assets/0 (75).jpeg>)
 
 | **Model No.**     | **Meter** | **ZigBee Router** | **OTA** |
 | ----------------- | --------- | ----------------- | ------- |
@@ -179,13 +179,13 @@ please do not perform any other actions, or power down the panel.
   * Before wiring, please make sure the power is off. To connect the wires:
     1. Lift the lever and insert the brown wire. **(Picture 1, 2)**
 
-![](<.gitbook/assets/1 (55).png>)
+![](<.gitbook/assets/1 (66).png>)
 
 **Picture1** **Picture 2**
 
 1. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
-![](<.gitbook/assets/2 (60).png>)
+![](<.gitbook/assets/2 (71).png>)
 
 |                                               | **Picture 3**                           | **Picture 4** |   |
 | --------------------------------------------- | --------------------------------------- | ------------- | - |
@@ -194,7 +194,7 @@ please do not perform any other actions, or power down the panel.
 |                                               |                                         |               |   |
 |                                               |                                         |               |   |
 
-![](<.gitbook/assets/3 (48).jpeg>)
+![](<.gitbook/assets/3 (55).jpeg>)
 
 **Picture 5**
 
@@ -204,7 +204,7 @@ please do not perform any other actions, or power down the panel.
 
 Please be noted that the blue wire must be connected to a 3-wire connector and then connected to AC Neural Power Input and AC Neutral Power Load Output. **(Picture 6)**
 
-![](<.gitbook/assets/4 (61).png>)
+![](<.gitbook/assets/4 (72).png>)
 
 **Picture 6**
 
@@ -233,7 +233,7 @@ Please be noted that the blue wire must be connected to a 3-wire connector and t
     2. Press and hold the function button and reconnect power when holding down the button.
     3. Keep holding the button and release after 3 seconds. The accumulated power consumption data will be cleared.
 
-![](<.gitbook/assets/5 (30).jpeg>)
+![](<.gitbook/assets/5 (37).jpeg>)
 
 4
 

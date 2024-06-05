@@ -16,7 +16,7 @@ The Relay Switch also features router function. It serves as a router in the Zig
 
 **Top Cover** **Base**
 
-![](<.gitbook/assets/0 (71).jpeg>)
+![](<.gitbook/assets/0 (80).jpeg>)
 
 1. **Switch Button 1/Function Button**
    * The function button is used for resetting the Relay Switch to join an available ZigBee network.
@@ -27,7 +27,7 @@ The Relay Switch also features router function. It serves as a router in the Zig
 3. **Switch Button 3**
    * Press the button to switch ON/OFF the Relay Channel 3.
 
-![](<.gitbook/assets/1 (56).png>)
+![](<.gitbook/assets/1 (67).png>)
 
 * _NOTE>_
   * When Switch Button 2/3 is pressed, the Relay Channel 2/3 will instantly switch to ON/OFF.
@@ -103,19 +103,19 @@ Wire the Relay according to the instructions below.
 5. In the same way as step 4, connect Relay Channel 2/3 to other wired devices.
 6. After completing the wiring, replace the strain relief clamps and the top cover. Turn on the power supply to power on the Relay Switch.
 
-![](<.gitbook/assets/2 (56).jpeg>)
+![](<.gitbook/assets/2 (61).jpeg>)
 
 2
 
 **ZigBee Network Setup**
 
-![](<.gitbook/assets/3 (51).jpeg>)
+![](<.gitbook/assets/3 (58).jpeg>)
 
 * _**ZigBee Device Guideline**_
 
 ZigBee is a wireless communication protocol that is reliable, has low power consumption and has high transmission efficiency. Based on the IEEE802.15.4 standard, ZigBee allows a large amount of devices to be included in a network and are coordinated for data exchange and signal transmission.
 
-![](<.gitbook/assets/4 (49).jpeg>)
+![](<.gitbook/assets/4 (51).jpeg>)
 
 * _**Joining the ZigBee Network**_
 
@@ -128,7 +128,7 @@ As a ZigBee device, the Relay needs to join a ZigBee network to receive commands
   4. After joining the ZigBee network, the Relay will be registered in the network automatically. Please check the ZigBee network coordinator, system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
 * _**Removing Device from ZigBee Network (Factory Reset)**_
 
-![](<.gitbook/assets/5 (61).png>)
+![](<.gitbook/assets/5 (74).png>)
 
 To remove the device from current ZigBee network, the Relay Switch must be put to Factory Reset to complete device removal. Factory Reset function will clear the device of its stored setting information and prompt the device to search for new ZigBee network.
 
@@ -140,7 +140,7 @@ To remove the device from current ZigBee network, the Relay Switch must be put t
   3. Upon reset, the device will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
 * _**Range Test**_
 
-![](<.gitbook/assets/6 (42).png>)
+![](<.gitbook/assets/6 (53).png>)
 
 To test whether the device is able to communicate with the ZigBee network coordinator or control panel:
 
@@ -150,7 +150,7 @@ To test whether the device is able to communicate with the ZigBee network coordi
   * The gateway/panel should display if the device is within the operation range (please refer to the operation manual of the gateway/panel).
 * _**ZigBee Router Device Capacity**_
 
-![](<.gitbook/assets/7 (37).png>)
+![](<.gitbook/assets/7 (48).png>)
 
 The Relay Switch features Router function that allows other ZigBee devices to join the ZigBee Network through the Router. It has maximum capacity of 40 devices/routers.
 
@@ -169,18 +169,18 @@ The Relay Switch will transmit a supervision signal to report the ON/OFF status 
 
 3
 
-![](<.gitbook/assets/8 (32).jpeg>)
+![](<.gitbook/assets/8 (39).jpeg>)
 
 **Operation**
 
-![](<.gitbook/assets/9 (24).jpeg>)
+![](<.gitbook/assets/9 (27).jpeg>)
 
 * _**Relay Control**_
   * After the Relay Switch has successfully joined a ZigBee network, the gateway/control panel can remotely control the Relay Channel 1/2/3 to turn On/Off. Please refer to your ZigBee gateway/control panel for detail.
   * The user can also manually press the Switch Button 1/2/3 to switch ON/OFF the Relay Channel 1/2/3.
 * _**OTA Firmware Upgrade**_
 
-![](<.gitbook/assets/10 (18).jpeg>)
+![](<.gitbook/assets/10 (20).jpeg>)
 
 The Relay Switch supports OTA firmware upgrade feature via ZigBee network, which can be initiated from the ZigBee network coordinator.
 
@@ -198,7 +198,7 @@ new ZigBee firmware provided. Please refer to ZigBee Coordinator User Manual for
 
 **Appendix (For developers only)**
 
-![](<.gitbook/assets/11 (28).png>)
+![](<.gitbook/assets/11 (36).png>)
 
 * _**Relay Cluster ID**_
 
@@ -267,11 +267,11 @@ None
 | Write  |                       |            |              |        |                 |   |   |
 |        |                       |            |              |        |                 |   |   |
 
-![](<.gitbook/assets/12 (19).jpeg>)
+![](<.gitbook/assets/12 (21).jpeg>)
 
 * _**Attribute of Identify Cluster Information**_
 
-![](<.gitbook/assets/13 (22).jpeg>)
+![](<.gitbook/assets/13 (23).jpeg>)
 
 | **Identifier**                                  | **Name**       | **Type** | **Range**    | **Access** | **Default** | **Mandatory** |   |
 | ----------------------------------------------- | -------------- | -------- | ------------ | ---------- | ----------- | ------------- | - |
@@ -282,7 +282,7 @@ None
 |                                                 |                |          |              |            |             |               |   |
 |  _**Attribute of On/Off Cluster Information**_ |                |          |              |            |             |               |   |
 
-![](<.gitbook/assets/14 (22).png>)
+![](<.gitbook/assets/14 (29).png>)
 
 | **Identifier**                                       | **Name** | **Type** | **Range**  | **Access** | **Default** | **Mandatory** |   |
 | ---------------------------------------------------- | -------- | -------- | ---------- | ---------- | ----------- | ------------- | - |
@@ -293,7 +293,7 @@ None
 |                                                      |          |          |            |            |             |               |   |
 |  _**Attributes of the Groups cluster Information**_ |          |          |            |            |             |               |   |
 
-![](<.gitbook/assets/15 (20).png>)
+![](<.gitbook/assets/15 (28).png>)
 
 | **Identifier** | **Name**      | **Type**     | **Range** | **Access** | **Default** | **Mandatory** |   |
 | -------------- | ------------- | ------------ | --------- | ---------- | ----------- | ------------- | - |

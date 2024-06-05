@@ -20,7 +20,7 @@ VST-892-HD – PIR motion sensor camera with flash LED VST-892-HD-IL – PIR mot
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (87).jpeg>)
+![](<.gitbook/assets/0 (96).jpeg>)
 
 **1. Flash LED/Infrared LED**
 
@@ -49,11 +49,11 @@ The digital proximity detector is used to detect any masking (blocking) attempt 
 4. **Tamper Switch**
 5. **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
-![](<.gitbook/assets/1 (76).jpeg>) ![](<.gitbook/assets/2 (68).png>)
+![](<.gitbook/assets/1 (87).jpeg>) ![](<.gitbook/assets/2 (79).png>)
 
 **Jumper On**
 
-![](<.gitbook/assets/3 (65).jpeg>)
+![](<.gitbook/assets/3 (72).jpeg>)
 
 The jumper link is inserted connecting the two pins.
 
@@ -79,7 +79,7 @@ When set as OFF, the PIR’s detection sensitivity is in normal level (Factory d
 
 **Features**
 
-![](<.gitbook/assets/4 (72).png>)
+![](<.gitbook/assets/4 (83).png>)
 
 * _**LED Indicator**_
 
@@ -96,13 +96,13 @@ The LED will not flash if the PIR Camera tamper and battery are normal and is no
 
 If the LED flashes to indicate signal transmission, it will flash twice rapidly upon receiving acknowledgement from panel.
 
-![](<.gitbook/assets/5 (73).png>)
+![](<.gitbook/assets/5 (86).png>)
 
 * _**Image Capture**_
 
 When the alarm system is armed, the PIR Camera will capture 1or 3 alarm images in 1280x720, or 1/3/6 alarm images in 640 x 480 or 320 x 240 resolutions (programmable from Control Panel) upon movement detection. You can also manually request the PIR Camera to take a picture through the Control Panel. The captured images will be transferred to the Control Panel for visual alarm verification.
 
-![](<.gitbook/assets/6 (53).png>)
+![](<.gitbook/assets/6 (64).png>)
 
 _\<NOTE>_
 
@@ -110,17 +110,17 @@ _\<NOTE>_
   * If your PIR Camera is installed at a location where the camera’s field of view is a complex environment with intense light or lots of colors, the images captured will be great in file size, possibly leading to truncation when the images are transmitted to the Control Panel.
 * _**Warm Up Period**_
 
-![](<.gitbook/assets/7 (49).png>)
+![](<.gitbook/assets/7 (60).png>)
 
 When the Control Panel system enters arm mode, or when PIR Camera is put into Test Mode, the PIR Camera will warm up for 30 seconds. During the 30-second warm up period, the PIR Camera will not be activated. The Blue LED will slow flash during the warm up period only when PIR enters for Test Mode.
 
-![](<.gitbook/assets/8 (48).png>)
+![](<.gitbook/assets/8 (59).png>)
 
 * _**Sleep Timer**_
 
 The PIR Camera has a “**sleep time**” of approximately 1 minute to conserve power. After transmitting for a detected movement, the PIR Camera will not retransmit for 1 minute. Any detected movement during this period will reset the sleep time to 1 minute. Continuous movement in front of the PIR Camera will therefore not exhaust the battery.
 
-![](<.gitbook/assets/9 (33).jpeg>)
+![](<.gitbook/assets/9 (36).jpeg>)
 
 * _**Battery and Low Battery Detection**_
 
@@ -130,13 +130,13 @@ The PIR Camera features Low Battery Detection function. When the battery voltage
 
 When changing battery, after removing the old battery, press the Tamper Switch or the Function Button twice to fully discharge before inserting new batteries.
 
-![](<.gitbook/assets/10 (46).png>)
+![](<.gitbook/assets/10 (54).png>)
 
 * _**Tamper Protection**_
 
 The PIR Camera is protected by a tamper switch which is compressed when the PIR Camera is properly installed. When the PIR Camera is removed from mounted surface or its cover opened, the tamper switch will be activated and the PIR Camera will send a tamper open signal to the system control panel to remind the user of the condition. If movement is detected when the tamper switch is open, the Blue LED will flash for 2 seconds.
 
-![](<.gitbook/assets/11 (38).png>)
+![](<.gitbook/assets/11 (46).png>)
 
 * _**Supervision**_
 
@@ -144,7 +144,7 @@ The PIR Camera will conduct a self-test periodically by transmitting a superviso
 
 2
 
-* ![](<.gitbook/assets/12 (39).png>)_**Test Mode**_
+* ![](<.gitbook/assets/12 (46).png>)_**Test Mode**_
   * Test mode is for you to check the PIR camera’s detection range (not shooting coverage).
   * Press the Function button once to enter Test mode for 3 minutes, the Blue LED will flash for 1 second.
   * The PIR camera will warm up for 30 seconds. Please do not trigger the Camera during this warming-up period.
@@ -155,11 +155,11 @@ The PIR Camera will conduct a self-test periodically by transmitting a superviso
   * Press and hold the function button for 3 seconds, release the button when the Blue LED light on. (To learned into battery-operated panel, after pressing and holding the function button for 3 seconds, please press the function button again for one second.)
   * The Blue LED will light on for 25 seconds in learning mode, add PIR Camera into the Control Panel during this period (refer to your Control Panel to finish learn in process). If the PIR is successfully added into the Control Panel, the Blue LED will flash 6 times to indicate. If PIR is not added within 25 seconds, please repeat learning
 
-![](<.gitbook/assets/13 (29).jpeg>)
+![](<.gitbook/assets/13 (30).jpeg>)
 
 process.
 
-![](<.gitbook/assets/14 (28).png>)
+![](<.gitbook/assets/14 (35).png>)
 
 _\<NOTE>_
 
@@ -177,17 +177,17 @@ _\<NOTE>_
     2. Press and hold the Test button for 3 seconds on the PIR Camera to send a signal to the panel, and then release the button when the LED lights up.
 * _**Pet Immunity Function**_
 
-![](<.gitbook/assets/15 (22).jpeg>) ![](<.gitbook/assets/16 (30).png>) ![](<.gitbook/assets/17 (24).png>)
+![](<.gitbook/assets/15 (22).jpeg>) ![](<.gitbook/assets/16 (38).png>) ![](<.gitbook/assets/17 (29).png>)
 
 The PIR sensor supports pet immunity feature and will not detect pets up to 25 kg to minimize false alarm situation. The Pet Immunity function can be enabled/disabled by setting the Jumper Switch (JP3) position. When the Jumper Switch (JP3) is set to ON, Pet Immunity is disabled (factory default). When the Jumper Switch (JP3) is set to OFF, Pet Immunity is enabled. The pet immunity function can also be adjusted by remote setting as described below.
 
-![](<.gitbook/assets/18 (29).png>)
+![](<.gitbook/assets/18 (32).png>)
 
 * _**Sensitivity Increaser Function**_
 
 You can use the sensitivity increaser function to increase the PIR’s detection sensitivity. To increase detection sensitivity, set the Jumper Switch (JP4) to ON. To maintain normal detection sensitivity, set the Jumper Switch (JP4) to OFF (factory default). The sensitivity increaser function can also be adjusted by remote setting as described below.
 
-![](<.gitbook/assets/19 (30).png>)
+![](<.gitbook/assets/19 (33).png>)
 
  _**Remote Setting**_
 
@@ -224,7 +224,7 @@ Please refer to the table below for configuration details. For example, if you w
   * When a masking event is detected, and the masking condition lasts for 3 minutes, VST-892-HD will send a masking alarm signal to the Control Panel to notify user of the masking condition.
   * After masking/blocking is removed for 3 minutes, VST-892-HD will send restore signal to the Control Panel.
 
-![](<.gitbook/assets/20 (21).png>)
+![](<.gitbook/assets/20 (25).png>)
 
 **Installation**
 

@@ -16,7 +16,7 @@ SCS-1-ZBS
 
 SCS-1-ZBS-OTA
 
-![](<.gitbook/assets/0 (69).jpeg>)
+![](<.gitbook/assets/0 (78).jpeg>)
 
 **Device Introduction**
 
@@ -49,19 +49,19 @@ The Shutter Control Switch has successfully joined a ZigBee network.
 
 **Features**
 
-![](<.gitbook/assets/1 (61).jpeg>)
+![](<.gitbook/assets/1 (72).jpeg>)
 
 * _**Battery and Low Battery Detection**_
 
 The Shutter Control Switch uses two 1.5V AA Alkaline batteries as its power source. The switch feature Low Battery Detection function. When the battery voltage is low, the Shutter Control Switch will transmit Low Battery signal to the ZigBee network coordinator.
 
-![](<.gitbook/assets/2 (62).png>)
+![](<.gitbook/assets/2 (73).png>)
 
 * _**Supervision**_
 
 The Shutter Control Switch will transmit a supervision signal to report its condition regularly according to user set interval time. The factory default interval is 30 minutes.
 
-![](<.gitbook/assets/3 (63).png>)
+![](<.gitbook/assets/3 (73).png>)
 
 * _**Scenario and Shutter Control**_
 
@@ -73,7 +73,7 @@ activate the correspondent scenario (see Control Panel for details). Set the sce
 
 **ZigBee Network Setup**
 
-![](<.gitbook/assets/4 (48).jpeg>)
+![](<.gitbook/assets/4 (50).jpeg>)
 
 * _**ZigBee Device Guideline**_
 
@@ -87,7 +87,7 @@ Due to the fundamental structure of ZigBee network, ZigBee device will actively 
   * Do not remove a ZigBee device from the ZigBee network router or coordinator without removing the battery from a ZigBee device.
 * _**Joining the ZigBee Network**_
 
-![](<.gitbook/assets/5 (31).jpeg>)
+![](<.gitbook/assets/5 (38).jpeg>)
 
 As a ZigBee device, the Shutter Control Switch needs to join a ZigBee network to connect to the ZigBee devices. Please follow the steps bellow to join the Shutter Control Switch into the ZigBee network.
 
@@ -99,7 +99,7 @@ As a ZigBee device, the Shutter Control Switch needs to join a ZigBee network to
   5. After joining the ZigBee network, the Shutter Control Switch will be registered in the network automatically. Please check the ZigBee network coordinator, system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
 * _**Removing Device from ZigBee Network (Factory Reset)**_
 
-![](<.gitbook/assets/6 (41).png>)
+![](<.gitbook/assets/6 (52).png>)
 
 To remove the device from current ZigBee network, the Shutter Control Switch must be put to Factory Reset to complete device removal. Factory Reset function will clear the device of its stored setting information and prompt the Shutter Control Switch to search for new ZigBee network.
 
@@ -111,7 +111,7 @@ To remove the device from current ZigBee network, the Shutter Control Switch mus
   3. Upon reset, the Shutter Control Switch will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
 * _**OTA Firmware Upgrade (For OTA version only)**_
 
-![](<.gitbook/assets/7 (37).jpeg>)
+![](<.gitbook/assets/7 (46).jpeg>)
 
 The Shutter Control Switch supports OTA firmware upgrade feature via ZigBee network, which can be initiated from the ZigBee network coordinator.
 
@@ -127,7 +127,7 @@ Follow steps below to perform OTA firmware upgrade.
 
 **Step 5.** Wait for firmware to complete update. When the progress reaches 100%, the Device will reset automatically. You can also refresh the webpage again to ensure if the Device firmware is successfully updated with the newest version displayed.
 
-![](<.gitbook/assets/8 (31).jpeg>)
+![](<.gitbook/assets/8 (38).jpeg>)
 
 **Installation**
 
@@ -142,7 +142,7 @@ Follow steps below to perform OTA firmware upgrade.
 1. Screw the base into the surface.
 2. Replace the cover back onto the base and secure it by tightening the fixing screw.
 
-![](<.gitbook/assets/9 (23).jpeg>)
+![](<.gitbook/assets/9 (26).jpeg>)
 
 * **Appendix (For developers only)**
 

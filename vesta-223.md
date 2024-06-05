@@ -6,7 +6,7 @@
 
 LMHT-3 is an Ambient Light, Humidity and Temperature Sensor. It monitors your home environment and transmits measured Illuminance (lux), humidity and temperature to the Control Panel.
 
-![](<.gitbook/assets/0 (93).jpeg>)
+![](<.gitbook/assets/0 (102).jpeg>)
 
 **Parts Identification**
 
@@ -55,7 +55,7 @@ The sensor can be mounted using two methods: Self-adhesive or Screw mounting.
 
 1
 
-![](<.gitbook/assets/1 (79).jpeg>)**Screw Mounting**
+![](<.gitbook/assets/1 (90).jpeg>)**Screw Mounting**
 
 The base of the sensor has two screw knockouts, where the plastic is thinner for mounting purposes. To mount the sensor:
 

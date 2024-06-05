@@ -1,25 +1,25 @@
 # VESTA 324
 
-![](<.gitbook/assets/0 (60).png>)**Emergency Pendant/Wrist Transmitter (WTRSC-1)**
+![](<.gitbook/assets/0 (73).png>)**Emergency Pendant/Wrist Transmitter (WTRSC-1)**
 
 _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 
 WTRSC-1 is an emergency pendant/wrist transmitter. It is designed to be worn by seniors as they move on the premises, with WTRSC-1, seniors are able to summon help with one simple press.
 
-![](<.gitbook/assets/1 (74).png>)
+![](<.gitbook/assets/1 (85).png>)
 
 * _**Active Button**_
   * Pressing the Active Button for more than 1 second will activate the Control Panel, causing it to dial emergency call or alarm.
   * Press and hold the Active Button for 8 seconds to send a Cancel Code to the Control Panel. (This function is not compatible with every control panel).
 * _**Battery Life**_
 
-![](<.gitbook/assets/2 (83).png>)
+![](<.gitbook/assets/2 (94).png>)
 
 The Transmitter uses one CR2032 3V Lithium battery as its power source.
 
 Every time the Active Button is pressed, the Wrist Transmitter will check the battery voltage. If low battery status is detected 3 times in a row, the Wrist Transmitter will transmit Low Battery signal along with regular signal every time the button is pressed.
 
-![](<.gitbook/assets/3 (81).png>)
+![](<.gitbook/assets/3 (91).png>)
 
 _\<NOTE>_
 
@@ -35,7 +35,7 @@ The Wrist Transmitter features Auto Low Battery detection function.
   * The Wrist Transmitter will automatically check battery voltage every 16-24 hours. If low battery is detected 3 times in a row, the Wrist Transmitter will enter low battery status and transmit low battery signal every 12 hours.
 * _**Getting Started**_
 
-![](<.gitbook/assets/4 (85).png>)
+![](<.gitbook/assets/4 (96).png>)
 
 *
   * Use a coin to unlock and remove the battery cover from the back of the transmitter by turning the mark on the cover anti-clockwise from Lock position to **Open** position.
@@ -44,7 +44,7 @@ The Wrist Transmitter features Auto Low Battery detection function.
   * Make sure the baseline printed on the back of the transmitter is horizontally aligned with 2 marks of Lock position.
 * _**Learn in the Transmitter**_
 
-![](<.gitbook/assets/5 (84).png>)
+![](<.gitbook/assets/5 (97).png>)
 
 Step 1. Put the Control Panel into learning mode.
 
@@ -52,7 +52,7 @@ Step 2. Press the Active Button on the Transmitter. A radio signal will be trans
 
 Step 3. Please refer to the operation manual of your Control Panel to complete the learning process.
 
-![](<.gitbook/assets/6 (64).png>)
+![](<.gitbook/assets/6 (75).png>)
 
 * _**One-Click Lanyard / Wristband Swtich**_
 
@@ -62,27 +62,27 @@ The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wris
 
 **Step 1.** Push the **FRONT** of the transmitter to take it off from the lanyard frame.
 
-![](<.gitbook/assets/7 (48).jpeg>)
+![](<.gitbook/assets/7 (57).jpeg>)
 
 **Step 2.** Remove the transmitter.
 
-![](<.gitbook/assets/8 (42).jpeg>)
+![](<.gitbook/assets/8 (49).jpeg>)
 
 **Step 3.** Push the transmitter into the wristband frame from the **BACK** side until you hear a click sound. All done!
 
-![](<.gitbook/assets/9 (35).jpeg>)
+![](<.gitbook/assets/9 (38).jpeg>)
 
 3
 
-* ![](<.gitbook/assets/10 (56).png>)_**Wearing the Transmitter as Wrist Watch**_
+* ![](<.gitbook/assets/10 (64).png>)_**Wearing the Transmitter as Wrist Watch**_
 
 **Step 1.** Slide the top part of the wristband through the hole at the end of the bottom part of the wristband.
 
-![](<.gitbook/assets/11 (45).png>)
+![](<.gitbook/assets/11 (53).png>)
 
 **Step 2.** Push the protruding part on the inner wristband into right hole for your wrist size.
 
-![](<.gitbook/assets/12 (27).jpeg>) ![](<.gitbook/assets/13 (36).png>) ![](<.gitbook/assets/14 (36).png>)
+![](<.gitbook/assets/12 (29).jpeg>) ![](<.gitbook/assets/13 (44).png>) ![](<.gitbook/assets/14 (43).png>)
 
 * _**Compliance with Standards**_
 

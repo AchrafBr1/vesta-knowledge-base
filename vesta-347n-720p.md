@@ -22,7 +22,7 @@ VST-892EX-HD – PIR motion sensor camera with flash LED VST-892EX-HD-IL – PIR
 
 * _**Identifying the Parts**_
 
-![](<.gitbook/assets/0 (110).jpeg>)
+![](<.gitbook/assets/0 (119).jpeg>)
 
 1. **Digital Proximity Detector**
 
@@ -106,7 +106,7 @@ The Red LED will flash slowly during warm up period. During the 60-second warm u
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and bottom position indicates OFF.
 
-![](<.gitbook/assets/1 (79).png>)
+![](<.gitbook/assets/1 (90).png>)
 
 |   | DIP     |   |     | Position |                       |                                 | Function  |   |   |
 | - | ------- | - | --- | -------- | --------------------- | ------------------------------- | --------- | - | - |
@@ -161,7 +161,7 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 
 ON
 
-![](<.gitbook/assets/2 (86).png>)
+![](<.gitbook/assets/2 (97).png>)
 
 OFF
 
@@ -277,13 +277,13 @@ Follow instruction below to change PIR Camera Area in the Control Panel.
         2. Push in the plugs and fix the mounting bracket on the wall with the screws.
         3. Hook VST-892EX on the mounting bracket and then **push downwards until you hear a click sound**.
 
-![](<.gitbook/assets/3 (72).jpeg>)
+![](<.gitbook/assets/3 (79).jpeg>)
 
 _\<NOTE>_
 
 * Please make sure the PIR Camera is properly hooked onto the mounting bracket, so that the internal tamper switch is fully compressed.
 
-![](<.gitbook/assets/4 (88).png>)
+![](<.gitbook/assets/4 (99).png>)
 
 4
 
@@ -293,13 +293,13 @@ A rotating holder is provided as a user friendly mounting option **(optional ite
 
 With the rotating holder, the PIR Camera can be rotated horizontally to provide optimal coverage.
 
-![](<.gitbook/assets/5 (43).jpeg>)
+![](<.gitbook/assets/5 (50).jpeg>)
 
 A special screwdriver with reversible double-sided bit (as the left picture below), and three star socket screws are provided for fixing the rotating holder to the wall.
 
 Please use the provided screwdriver to tighten/loosen star socket screws.
 
-![](<.gitbook/assets/6 (69).png>)
+![](<.gitbook/assets/6 (80).png>)
 
 *
   * To mount VST-892EX with mounting bracket and rotating holder:
@@ -312,7 +312,7 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
 
 
 
-![](<.gitbook/assets/7 (59).png>)
+![](<.gitbook/assets/7 (70).png>)
 
 5
 
@@ -326,7 +326,7 @@ _**Installation Recommendations**_
 * On a surface or in a corner where animals are inaccessible.
 * The PIR Camera has a detection range of 10M when mounted at the height of 2.3 meters above the ground.
 
-![](<.gitbook/assets/8 (45).jpeg>)
+![](<.gitbook/assets/8 (52).jpeg>)
 
 **Limitations:**
 
@@ -336,21 +336,21 @@ _**Installation Recommendations**_
 * Never attempt to disassemble or modify the unit.
 * Please install the PIR Camera straight up. Do not tilt it.
 
-![](<.gitbook/assets/9 (37).jpeg>)
+![](<.gitbook/assets/9 (40).jpeg>)
 
 6
 
 * Do not install the motion sensor camera where objects moved by wind such as trees and laundry, which may block the motion sensor camera’s field of view.
 
-![](<.gitbook/assets/10 (28).jpeg>)
+![](<.gitbook/assets/10 (30).jpeg>)
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-![](<.gitbook/assets/11 (31).jpeg>)
+![](<.gitbook/assets/11 (32).jpeg>)
 
 * Avoid aiming at the path of outdoor unit’s intake or exhaust airflow.
 
-![](<.gitbook/assets/12 (29).jpeg>)
+![](<.gitbook/assets/12 (31).jpeg>)
 
 _\<IMPORTANT NOTE>_
 

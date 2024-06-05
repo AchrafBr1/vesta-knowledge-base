@@ -1,12 +1,12 @@
 # VESTA 078
 
-![](<.gitbook/assets/0 (36).png>)**Emergency Pendant/Wrist Transmitter**
+![](<.gitbook/assets/0 (49).png>)**Emergency Pendant/Wrist Transmitter**
 
 **(WTRS/WTRS2 Series)**
 
 _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 
-![](<.gitbook/assets/1 (41).png>)
+![](<.gitbook/assets/1 (52).png>)
 
 * _**Active Button**_
   * Pressing the Active Button for more than 1 second will activate the Control Panel, causing it to dial emergency call or alarm.
@@ -15,7 +15,7 @@ _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 * The LED will turn on when the button is pressed to indicate signal transmission.
 * _**Learn in the Transmitter**_
 
-![](<.gitbook/assets/2 (49).png>) ![](<.gitbook/assets/3 (47).png>)
+![](<.gitbook/assets/2 (60).png>) ![](<.gitbook/assets/3 (57).png>)
 
 Step 1. Put the Control Panel into learning mode.
 
@@ -23,7 +23,7 @@ Step 2. Press the Active Button on the Transmitter. A radio signal will be trans
 
 Step 3. Please refer to the operation manual of your Control Panel to complete the learning process.
 
-![](<.gitbook/assets/4 (44).png>)
+![](<.gitbook/assets/4 (55).png>)
 
 * _**Battery Life**_
 
@@ -31,7 +31,7 @@ The Transmitter uses one CR2032 3V Lithium battery as its power source.
 
 Every time the Active Button is pressed, the Wrist Transmitter will check the battery voltage. If low battery status is detected 3 times in a row, the Wrist Transmitter will transmit Low Battery signal along with regular signal every time the button is pressed.
 
-![](<.gitbook/assets/5 (41).png>)
+![](<.gitbook/assets/5 (54).png>)
 
 _\<NOTE>_
 
@@ -45,7 +45,7 @@ The Wrist Transmitter features Auto Low Battery detection function.
 
 1
 
-* ![](<.gitbook/assets/6 (27).png>)_**Pendant Lanyard /Wrist Band/Elastic Wrist Strap Configuration**_
+* ![](<.gitbook/assets/6 (38).png>)_**Pendant Lanyard /Wrist Band/Elastic Wrist Strap Configuration**_
 
 The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wrist band/elastic wrist strap. Different combinations of Pendant Lanyard/Wrist Band/ Elastic Wrist Strap will be provided based on orders from customers. Please refer to below section for Pendant lanyard, Wrist Band, and Elastic Wrist Strap attachment/removal instructions.
 
@@ -57,7 +57,7 @@ Step 1. Flip over the Transmitter to the back side as **Figure 1.**
 
 Step 2. Gently hook the buckle at the back of the Transmitter as **Figure 1.**
 
-![](<.gitbook/assets/7 (22).png>)
+![](<.gitbook/assets/7 (33).png>)
 
 **Figure 1**
 
@@ -69,7 +69,7 @@ Step 2. While holding the Transmitter, use your right hand to hold the cord as s
 
 Step 3. Pull the cord away gently in parallel direction to the Transmitter as shown in **Figure 4.**
 
-![](<.gitbook/assets/8 (26).png>)
+![](<.gitbook/assets/8 (37).png>)
 
 **Figure 2** **Figure 3** **Figure 4**
 
@@ -83,7 +83,7 @@ Step 2. Use the buckles on the wrist band and gently hook it on the back of the 
 
 **Figure 5.**
 
-![](<.gitbook/assets/9 (27).png>)
+![](<.gitbook/assets/9 (41).png>)
 
 **Figure 5**
 
@@ -99,7 +99,7 @@ Step 3. Use the thumb of your right hand to push one edge of the buckle away fro
 
 Step 4. Slightly add force with your thumb while removing the buckle (**Figure 7.**)
 
-![](<.gitbook/assets/10 (24).png>)
+![](<.gitbook/assets/10 (32).png>)
 
 **Figure 6** **Figure 7**
 
@@ -113,18 +113,18 @@ Step 2. Insert the wrist strap through two spring bars as shown in **Figure 1**.
 
 Step 3. Adjust to a comfortable length and press down the buckle to tighten the strap as shown in **Figure 2**.
 
-![](<.gitbook/assets/11 (19).png>)
+![](<.gitbook/assets/11 (27).png>)
 
 | **Transmitter and**     | **Figure 1** | **Figure 2** |   |
 | ----------------------- | ------------ | ------------ | - |
 |                         |              |              |   |
 | **Elastic Wrist Strap** |              |              |   |
 
-![](<.gitbook/assets/12 (13).jpeg>) ![](<.gitbook/assets/13 (15).jpeg>)
+![](<.gitbook/assets/12 (15).jpeg>) ![](<.gitbook/assets/13 (16).jpeg>)
 
 Removal:
 
-![](<.gitbook/assets/14 (13).png>)
+![](<.gitbook/assets/14 (20).png>)
 
 Step 1. Release the buckle as shown in **Figure 3**. Step 2. Pull up the wrist strap through two spring bars
 
@@ -138,7 +138,7 @@ to remove it from the transmitter as shown in **Figure 4**.
 
 ![](<.gitbook/assets/16 (11).jpeg>)
 
-* ![](<.gitbook/assets/17 (13).png>)_**Compliance with Standards**_
+* ![](<.gitbook/assets/17 (18).png>)_**Compliance with Standards**_
 
 Complies with the requirements of the Radio Equipment Directive 2014/53/EU
 
@@ -150,7 +150,7 @@ EMC:
 
 Radio:
 
-![](<.gitbook/assets/18 (15).png>)
+![](<.gitbook/assets/18 (18).png>)
 
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 

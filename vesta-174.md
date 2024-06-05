@@ -26,7 +26,7 @@ Models with router function (PRS2-ZBSR-P5 / PRM2-ZBSR-P5) also serve as a router
 | **PRM2-ZBSR-P5** | **Yes**   | **Yes**           |
 |                  |           |                   |
 
-![](<.gitbook/assets/0 (65).jpeg>)
+![](<.gitbook/assets/0 (74).jpeg>)
 
 **Parts Identification**
 
@@ -81,7 +81,7 @@ The Power Relay Switch has lost connection to its current ZigBee network
 
 **ZigBee Network Setup**
 
-![](<.gitbook/assets/1 (58).jpeg>)
+![](<.gitbook/assets/1 (69).jpeg>)
 
 * _**ZigBee Device Guideline**_
 
@@ -91,7 +91,7 @@ ZigBee is a wireless communication protocol that is reliable, has low power cons
 
 Due to the fundamental structure of ZigBee network, ZigBee device will actively seek and join network after powering on.
 
-![](<.gitbook/assets/2 (53).jpeg>)
+![](<.gitbook/assets/2 (58).jpeg>)
 
 * _**Joining the ZigBee Network**_
 
@@ -105,7 +105,7 @@ As a ZigBee device, the Power Relay Switch needs to join a ZigBee network to rec
   5. If registration and joining to the network is unsuccessful, please check your ZigBee network coordinator, system control panel or CIE setting to ensure the permit-to-join function is available, and then use the Factory Reset function below to join the ZigBee network.
 * _**Binding with Controller**_
 
-![](<.gitbook/assets/3 (47).jpeg>)
+![](<.gitbook/assets/3 (54).jpeg>)
 
 After joining the ZigBee network, the Power Relay Switch can bind itself with a controller device which can be used to adjust the Power Relay Switch’s power output level. To bind the Power Relay Switch and the device:
 
@@ -116,7 +116,7 @@ After joining the ZigBee network, the Power Relay Switch can bind itself with a 
   4. If binding is unsuccessful, please retry the binding process.
 * _**Removing Device from ZigBee Network (Factory Reset)**_
 
-![](<.gitbook/assets/4 (60).png>)
+![](<.gitbook/assets/4 (71).png>)
 
 To remove the Power Switch from current ZigBee network, the Power Switch must be put to Factory Reset to complete device removal. Factory Reset function will clear the Power Switch of its stored setting and information and prompt the Power Switch to search for new ZigBee network.
 
@@ -127,7 +127,7 @@ To remove the Power Switch from current ZigBee network, the Power Switch must be
   2. Upon reset, the Power Switch will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
 * _**ZigBee Router Device Capacity (PRS2-ZBSR-P5 / PRM2-ZBSR-P5 Only)**_
 
-![](<.gitbook/assets/5 (60).png>)
+![](<.gitbook/assets/5 (73).png>)
 
 The Power Switch models with Router function allow other ZigBee devices to join the ZigBee Network through the Router. The Power Switch Router has maximum capacity of 40 devices, including 10 routers; the Power Switch Meter Router has maximum capacity of 10 devices including 5 routers.
 
@@ -141,7 +141,7 @@ The Power Switch models with Router function allow other ZigBee devices to join 
 | **PSM-29ZBSR-P5**     | **10**                    | **5**              |   |
 |                       |                           |                    |   |
 
-![](<.gitbook/assets/6 (40).jpeg>)
+![](<.gitbook/assets/6 (49).jpeg>)
 
 **Caution**
 
@@ -152,7 +152,7 @@ The Power Switch models with Router function allow other ZigBee devices to join 
   * After powering on, please avoid touching the wires to prevent electrocution.
 * _**OTA Firmware Upgrade (For OTA version only)**_
 
-![](<.gitbook/assets/7 (36).png>)
+![](<.gitbook/assets/7 (47).png>)
 
 The Power Relay Switch supports OTA firmware upgrade feature via ZigBee network, which can be initiated from the ZigBee network coordinator. Follow steps below to perform OTA firmware upgrade.
 
@@ -167,7 +167,7 @@ vary based on file size or distance between your accessory and coordinator.
 
 **Operation**
 
-![](<.gitbook/assets/8 (30).jpeg>)
+![](<.gitbook/assets/8 (37).jpeg>)
 
 * _**Wire Connection Diagram**_
   * Refer to the diagram to connect your home lighting to the Power Relay Switch.
@@ -196,11 +196,11 @@ vary based on file size or distance between your accessory and coordinator.
   * For 230V: the maximum operation load is 2300W and 10A.
   * If the Power Relay Switch is overheating, it will cut off power automatically as a safety measure. The user must disconnect and reconnect AC power to the Power Relay Switch after cut off to resume normal operation.
 
-![](<.gitbook/assets/9 (22).jpeg>) ![](<.gitbook/assets/10 (17).jpeg>) ![](<.gitbook/assets/11 (23).jpeg>) ![](<.gitbook/assets/12 (32).png>) ![](<.gitbook/assets/13 (21).jpeg>)
+![](<.gitbook/assets/9 (25).jpeg>) ![](<.gitbook/assets/10 (19).jpeg>) ![](<.gitbook/assets/11 (24).jpeg>) ![](<.gitbook/assets/12 (39).png>) ![](<.gitbook/assets/13 (22).jpeg>)
 
 **Appendix (For developers only)**
 
-![](<.gitbook/assets/14 (21).png>)
+![](<.gitbook/assets/14 (28).png>)
 
 _**Power Relay Switch with Meter Cluster ID**_
 
@@ -326,6 +326,6 @@ On/Off(0x0006)
 |                                                                                            |                       | Integer |                        | 8,388,607               |             |                   |                |                |              |                |                |            |                |                |             |             |               |               |               |               |   |   |   |   |   |   |   |   |
 |                                                                                            |                       |         |                        |                         |             |                   |                |                |              |                |                |            |                |                |             |             |               |               |               |               |   |   |   |   |   |   |   |   |
 
-![](<.gitbook/assets/18 (23).png>) ![](<.gitbook/assets/19 (24).png>) ![](<.gitbook/assets/20 (16).png>)
+![](<.gitbook/assets/18 (26).png>) ![](<.gitbook/assets/19 (27).png>) ![](<.gitbook/assets/20 (20).png>)
 
 4

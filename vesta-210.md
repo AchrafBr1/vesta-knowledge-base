@@ -18,13 +18,13 @@ VST-892EXC is also compatible with Climax’s Repeater RP-29/Router RMB-29, whic
 
 VST-892-EXC – Outdoor PIR motion sensor camera with flash LED VST-892-EXC-IL – Outdoor PIR motion sensor camera with Infrared LED
 
-![](<.gitbook/assets/0 (54).png>)
+![](<.gitbook/assets/0 (67).png>)
 
 * _**Identifying the Parts**_
 
 _**Front View**_ _**Inside View**_
 
-![](<.gitbook/assets/1 (63).png>)
+![](<.gitbook/assets/1 (74).png>)
 
 **1. Digital Proximity Detector**
 
@@ -64,7 +64,7 @@ The Flash LED (for VST-892-EXC) or Infrared LED (for VST-892-EXC-IL) delivers su
 3. **Mounting Bracket**
 4. **Rotating Holder**
 
-![](<.gitbook/assets/2 (66).png>)
+![](<.gitbook/assets/2 (77).png>)
 
 * _**LED Indicator**_
 
@@ -82,7 +82,7 @@ _\<NOTE>_
   * The LED indicator can be enabled by setting the DIP Switch 2 to ON position. Please refer to **DIP Switch Position Table** for details.
 * _**Image Capture**_
 
-![](<.gitbook/assets/3 (69).png>)
+![](<.gitbook/assets/3 (79).png>)
 
 When the alarm system is armed, the PIR Camera will capture 1, 3 or 6 alarm images in 640 x 480 or 320 x 240 resolutions (programmable from Control Panel) upon movement detection. You can also manually request the PIR Camera to take a picture through the Control Panel. The captured images will be transferred to the Control Panel for visual alarm verification.
 
@@ -92,7 +92,7 @@ _\<NOTE>_
   * If your PIR Camera is installed at a location where the camera’s field of view is a complex environment with intense light or lots of colors, the images captured will be great in file size, possibly leading to truncation when the images are transmitted to the Control Panel.
 * _**Warm Up Period**_
 
-![](<.gitbook/assets/4 (70).png>)
+![](<.gitbook/assets/4 (81).png>)
 
 The PIR Camera will warm up for 60 seconds in the following conditions:
 
@@ -101,7 +101,7 @@ The PIR Camera will warm up for 60 seconds in the following conditions:
 
 The Red LED will flash slowly during warm-up period. During the warm-up period, the PIR Camera will not be activated.
 
-![](<.gitbook/assets/5 (71).png>)
+![](<.gitbook/assets/5 (84).png>)
 
 * _**Test Mode**_
   * The PIR Camera can be put into Test mode for 10 minutes by pressing the Test button once. In Test mode, the sleep timer and image capture functions are disabled. LED indicator is enabled to light up for two seconds whenever a movement is detected. The PIR Camera will automatically exit Test Mode after 10 minutes, and return to normal mode.
@@ -115,11 +115,11 @@ The Red LED will flash slowly during warm-up period. During the warm-up period, 
   * The PIR Camera is protected by an internal tamper switch which is compressed when the PIR Camera is hooked onto the mounting bracket. When the PIR Camera is removed from the mounting bracket, the tamper switch will be activated and the PIR Camera will send a tamper open signal to the control panel to remind the user of this condition.
 * _**DIP Switch Position Table**_
 
-![](<.gitbook/assets/6 (51).png>) ![](<.gitbook/assets/7 (47).png>) ![](<.gitbook/assets/8 (46).png>) ![](<.gitbook/assets/9 (43).png>)
+![](<.gitbook/assets/6 (62).png>) ![](<.gitbook/assets/7 (58).png>) ![](<.gitbook/assets/8 (57).png>) ![](<.gitbook/assets/9 (57).png>)
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and bottom position indicates OFF.
 
-![](<.gitbook/assets/10 (44).png>)
+![](<.gitbook/assets/10 (52).png>)
 
 | DIP     | Position              | Function                        | DIP      | Position | Function |     |   |   |   |
 | ------- | --------------------- | ------------------------------- | -------- | -------- | -------- | --- | - | - | - |
@@ -145,9 +145,9 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 | OFF     | Reserved              |                                 |          |          |          |     |   |   |   |
 |         |                       |                                 |          |          |          |     |   |   |   |
 
-![](<.gitbook/assets/11 (36).png>)
+![](<.gitbook/assets/11 (44).png>)
 
-* ![](<.gitbook/assets/12 (37).png>)_**Anti-masking**_
+* ![](<.gitbook/assets/12 (44).png>)_**Anti-masking**_
   * The PIR Camera has a digital proximity detector that can detect any masking (blocking) attempt by an intruder.
   * When a masking event is detected, and the masking condition lasts for 3 minutes, VST-892EXC will send a masking alarm signal to the Control Panel to notify user of the masking condition.
   * After masking/blocking is removed for 3 minutes, VST-892EXC will send restore signal to the Control Panel.
@@ -156,7 +156,7 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
   * The PIR Camera features low battery voltage detection. When low battery is detected, a low battery signal will be sent to the Control Panel along with regular signal transmissions for the Control Panel to display the status accordingly.
   * **To Change Battery:**
 
-![](<.gitbook/assets/13 (30).png>)
+![](<.gitbook/assets/13 (38).png>)
 
 **Step 1:** Navigate the Control Panel into Programming mode.
 
@@ -164,7 +164,7 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 
 **Step 3:** Push the back cover from left to right.
 
-![](<.gitbook/assets/14 (24).jpeg>)
+![](<.gitbook/assets/14 (26).jpeg>)
 
 **Step 4:** Remove the old batteries and press the test button twice to fully discharge.
 
@@ -178,7 +178,7 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 
 **Step 9:** Navigate the Control Panel to exit Programming mode and return to operation mode. The procedure is complete.
 
-![](<.gitbook/assets/15 (27).png>)
+![](<.gitbook/assets/15 (35).png>)
 
 * _**Getting Started – Learning the PIR Camera into the Control Panel**_
   * Put the Control Panel into learning mode, refer to Control Panel manual for details.
@@ -197,7 +197,7 @@ _**\<NOTE>**_
   * When learning the PIR Camera into a repeater/router, please press the Test button once (instead of pressing and holding it for 3 seconds) to send a learn code.
 * _**Edit PIR Camera Operation Area**_
 
-![](<.gitbook/assets/16 (16).jpeg>) ![](<.gitbook/assets/17 (22).png>)
+![](<.gitbook/assets/16 (16).jpeg>) ![](<.gitbook/assets/17 (27).png>)
 
 Follow instruction below to change PIR Camera Area in the Control Panel
 
@@ -206,7 +206,7 @@ Follow instruction below to change PIR Camera Area in the Control Panel
 
 3
 
-* ![](<.gitbook/assets/18 (27).png>)_**Mounting & Installation Method**_
+* ![](<.gitbook/assets/18 (30).png>)_**Mounting & Installation Method**_
 
  **Mounting with mounting bracket and rotating holder:**
 

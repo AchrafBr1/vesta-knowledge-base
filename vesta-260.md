@@ -14,7 +14,7 @@ PSM-DIN3-ZW
 
 PSM-DIN3-ZW-OTA
 
-![](<.gitbook/assets/0 (98).jpeg>)
+![](<.gitbook/assets/0 (107).jpeg>)
 
 * _**Identifying the Parts**_
   1. **Input Connector**
@@ -47,7 +47,7 @@ Press and hold for 10 seconds to factory reset Press once to toggle on/off the c
   * Mount the device inside the electrical enclosure using a DIN rail.
 * _**Inclusion (Adding or Learning Device)**_
 
-![](<.gitbook/assets/1 (82).jpeg>)
+![](<.gitbook/assets/1 (93).jpeg>)
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 

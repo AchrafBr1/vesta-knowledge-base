@@ -46,7 +46,7 @@ The LED indicator lights up in the following conditions:
 
 | _Type F_                                                           | _Type J_                                                                                                                                                                                               | _Type B_ | _Type E_ | _Type G_ |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
-| <img src=".gitbook/assets/0 (12).png" alt="" data-size="original"> | <img src=".gitbook/assets/1 (16).png" alt="" data-size="original"><img src=".gitbook/assets/2 (19).png" alt="" data-size="original"><img src=".gitbook/assets/3 (18).png" alt="" data-size="original"> |          |          |          |
+| <img src=".gitbook/assets/0 (25).png" alt="" data-size="original"> | <img src=".gitbook/assets/1 (27).png" alt="" data-size="original"><img src=".gitbook/assets/2 (30).png" alt="" data-size="original"><img src=".gitbook/assets/3 (28).png" alt="" data-size="original"> |          |          |          |
 
 **Features**
 
@@ -66,7 +66,7 @@ The device supports both classic inclusion process and SmartStart inclusion proc
 
 **SmartStart Inclusion**
 
-![](<.gitbook/assets/4 (17).png>)Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. DSK is Device Specific Key used for authentication. The DSK information is stored in the QR code format that is printed on a sticker and attached to the device.
+![](<.gitbook/assets/4 (28).png>)Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. DSK is Device Specific Key used for authentication. The DSK information is stored in the QR code format that is printed on a sticker and attached to the device.
 
 * Scan the QR Code sticker on the Power Switch to obtain DSK and transfer to the Z-Wave gateway.
 * Plug the Power Switch into a power outlet, a SmartStart inclusion request will be automatically sent to the gateway.

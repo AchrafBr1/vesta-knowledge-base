@@ -8,7 +8,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws. I
 
 * Parts Identification
 
-![C:\Users\C1386\AppData\Local\Microsoft\Windows\INetCache\Content.Word\kp-35-parts new.png](<.gitbook/assets/0 (19).png>)
+![C:\Users\C1386\AppData\Local\Microsoft\Windows\INetCache\Content.Word\kp-35-parts new.png](<.gitbook/assets/0 (32).png>)
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -27,7 +27,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws. I
 
 * For confirming the keyed-in data or confirming the selection.
 
-1. **Backlit Restore (**![](<.gitbook/assets/1 (25).png>)) **Key**
+1. **Backlit Restore (**![](<.gitbook/assets/1 (36).png>)) **Key**
 
 * This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
 
@@ -54,7 +54,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws. I
 
 1. **Jumper Switch**
 
-![jumper open](<.gitbook/assets/2 (30).png>) ![jumper close](<.gitbook/assets/3 (26).png>)
+![jumper open](<.gitbook/assets/2 (41).png>) ![jumper close](<.gitbook/assets/3 (36).png>)
 
 **Jumper Off**
 
@@ -104,7 +104,7 @@ training in electric equipment.
 * Loosen KPT-35-COMBO’s “B” terminal and the Control Panel’s “458B” terminal. Connect the “B” terminal to the “458B” terminal and tighten both terminal screws.
 * Ensure the furthest keypad’s Jumper Switch and Control Panel’s J53 Jumper Switch are set to ON to serve as a terminating resistor.
 
-![](<.gitbook/assets/4 (25).png>)
+![](<.gitbook/assets/4 (36).png>)
 
 The Keypad Terminal can be hardwired to the Control Panel in series within 500ft (152m) in wire distance.
 
@@ -112,7 +112,7 @@ The Keypad Terminal can be hardwired to the Control Panel in series within 500ft
 * KPT-35-COMBO-B is wired correctly as it is within 500ft (152m) of the Control Panel, in wire distance. Before tightening the cover fixing screw of the keypad, ensure its jumper switch is set to ON to serve as a terminating resistor since it has the furthest distance from the Control Panel.
 * KPT-35-COMBO-C is NOT wired correctly as it is farther than 500ft (152m) from the Control Panel.
 
-![](<.gitbook/assets/5 (17).png>)
+![](<.gitbook/assets/5 (30).png>)
 
 * _**Tamper Protection**_
 * The Remote Keypad is protected against any unauthorized attempt to open the back cover with a tamper switch. When the back cover is opened, the tamper switch will be triggered and the Remote Keypad will transmit a tamper open signal to the system control panel.

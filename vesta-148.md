@@ -8,7 +8,7 @@ The antennas of GEN-TX are different according to the frequency 433 and 868.
 
 **EIRP-J1** **EIRC-J2** **Frequency 433** **Frequency 868**
 
-![](<.gitbook/assets/0 (43).png>)
+![](<.gitbook/assets/0 (56).png>)
 
 * _**Identifying the Parts**_
 
@@ -17,7 +17,7 @@ The antennas of GEN-TX are different according to the frequency 433 and 868.
 3. **Supervision Jumper Switch (JP2)**
 4. **LED indicator (Red)**
 
-![](<.gitbook/assets/1 (49).png>) ![](<.gitbook/assets/2 (54).png>)
+![](<.gitbook/assets/1 (60).png>) ![](<.gitbook/assets/2 (65).png>)
 
 * _**LED Indicator**_
 
@@ -35,11 +35,11 @@ In Normal operation mode, the LED Indicator remains off except:
   * Press the Learn button.
   * Refer to Control Panel manual to complete the learn-in process.
 
-![](<.gitbook/assets/3 (53).png>)
+![](<.gitbook/assets/3 (63).png>)
 
 1
 
-* ![](<.gitbook/assets/4 (53).png>)_**Walk Test**_
+* ![](<.gitbook/assets/4 (64).png>)_**Walk Test**_
   * After the detector is learnt-in, put the Control Panel into “**Walk Test**” mode, hold the detector in the desired location, and press the Test button to confirm this location is within signal range of the Control Panel, refer to Control Panel manual to complete Walk Test.
   * When you are satisfied that the detector works in the chosen location, you can proceed to mounting.
 * _**Battery**_
@@ -51,7 +51,7 @@ In Normal operation mode, the LED Indicator remains off except:
   * After installation, the detector will automatically transmit Supervisory signals periodically to the Control Panel at random intervals of 30 to 50 minutes.
   * If the Control Panel has not received the signal from the detector for the preset period of time, the Control Panel will indicate on its display that the particular detector is experiencing an out-of-signal problem.
 
-![](<.gitbook/assets/5 (52).png>) ![](<.gitbook/assets/6 (34).png>) ![](<.gitbook/assets/7 (32).jpeg>)
+![](<.gitbook/assets/5 (65).png>) ![](<.gitbook/assets/6 (45).png>) ![](<.gitbook/assets/7 (41).jpeg>)
 
 **Jumper OFF (Factory default)**
 
@@ -59,7 +59,7 @@ In Normal operation mode, the LED Indicator remains off except:
 
 **Jumper ON**
 
-![](<.gitbook/assets/8 (25).jpeg>)
+![](<.gitbook/assets/8 (32).jpeg>)
 
 * When the jumper (JP2) is set as ON, the Supervision is disabled.
 

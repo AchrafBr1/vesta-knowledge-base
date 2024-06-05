@@ -1,8 +1,8 @@
 # VESTA 370
 
-![](<.gitbook/assets/0 (71).png>)Secure Your Way of Life
+![](<.gitbook/assets/0 (87).png>)Secure Your Way of Life
 
-![](<.gitbook/assets/1 (88).png>) ![](<.gitbook/assets/2 (96).png>)
+![](<.gitbook/assets/1 (102).png>) ![](<.gitbook/assets/2 (110).png>)
 
 **Secured Ultimate**
 
@@ -10,20 +10,20 @@
 
 **Sensing**
 
-![](<.gitbook/assets/3 (82).jpeg>)
+![](<.gitbook/assets/3 (89).jpeg>)
 
 VST-894(M)
 
 HD Outdoor Motion Sensor Camera
 
-![](<.gitbook/assets/4 (97).png>)
+![](<.gitbook/assets/4 (111).png>)
 
 * 2 independent PIR sensors only raise the alarm when both react to the movement
 * Low-mounted PIR base with installation height of 0.8-1.2m
 * Adjustment of detection range from 2.5 to 12 meters
 * Rotatable angle up to a total of 90° to achieve exible installation
 
-![](<.gitbook/assets/5 (99).png>)Secure Your Way of Life
+![](<.gitbook/assets/5 (112).png>)Secure Your Way of Life
 
 **VST-894(M)**
 
@@ -35,26 +35,26 @@ Utilizing a unique dual-lens design, an alarm is only triggered when both the up
 
 Additionally, VST-894 incorporates SF1 technology, which enables it to excel with 2 to 3 times faster VGA/QVGA alarm image transmission speed. With increased processing speed, the camera can send detailed HD images (up to 1280 x 720 pixels) for precise veri cation, thereby o ering clear visual veri cation to achieve enhanced security bene ts.
 
-![](<.gitbook/assets/6 (82).png>)
+![](<.gitbook/assets/6 (93).png>)
 
 **Two independent IR Lens**
 
 trigger alarm when both sensors detect movement, reducing false alarms
 
-![](<.gitbook/assets/7 (72).png>)
+![](<.gitbook/assets/7 (83).png>)
 
 | No        | detection | No |   |
 | --------- | --------- | -- | - |
 | detection | detection |    |   |
 |           |           |    |   |
 
-![](<.gitbook/assets/8 (71).png>)
+![](<.gitbook/assets/8 (82).png>)
 
 **High-Speed File Transfer**
 
 SF1 technology accelerates alarm image transmission by **2 to 3 times**, realizing le transfer at ground-breaking speed.
 
-![](<.gitbook/assets/9 (69).png>)
+![](<.gitbook/assets/9 (86).png>)
 
 _**3 TIMES Faster**_
 
@@ -64,11 +64,11 @@ _**3 TIMES Faster**_
 
 0.8 to 1.2 Meters
 
-![](<.gitbook/assets/10 (71).png>)
+![](<.gitbook/assets/10 (79).png>)
 
 0.8 to 1.2 Meters
 
-![](<.gitbook/assets/11 (55).png>) ![](<.gitbook/assets/12 (58).png>) ![](<.gitbook/assets/13 (46).png>)
+![](<.gitbook/assets/11 (63).png>) ![](<.gitbook/assets/12 (65).png>) ![](<.gitbook/assets/13 (54).png>)
 
 **HD Image Transmission**
 
@@ -76,31 +76,31 @@ With heightened SF1 processing speed, the camera transmits larger **HD images** 
 
 HD HD HD
 
-![](<.gitbook/assets/14 (49).png>)
+![](<.gitbook/assets/14 (56).png>)
 
-![](<.gitbook/assets/15 (46).png>)HD
+![](<.gitbook/assets/15 (54).png>)HD
 
-![](<.gitbook/assets/16 (51).png>)
+![](<.gitbook/assets/16 (59).png>)
 
 identi es obstructions on the lens during detector's operational status monitoring
 
-![](<.gitbook/assets/17 (40).png>)
+![](<.gitbook/assets/17 (45).png>)
 
 Secure Your Way of Life
 
-![](<.gitbook/assets/18 (50).png>)
+![](<.gitbook/assets/18 (53).png>)
 
 **Walk Test**
 
 Is initiated automatically upon closing the cover.
 
-![](<.gitbook/assets/19 (50).png>)
+![](<.gitbook/assets/19 (53).png>)
 
 **Not**
 
 **Detected** **Detected**
 
-![](<.gitbook/assets/20 (37).png>)
+![](<.gitbook/assets/20 (41).png>)
 
 **Rotatable angle**
 

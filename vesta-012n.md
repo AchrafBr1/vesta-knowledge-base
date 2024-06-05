@@ -1,18 +1,18 @@
 # VESTA 012N
 
-![](<.gitbook/assets/0 (24).jpeg>)**BLUETOOTH REMOTE KEYPAD (KPT-39N-BLE)**
+![](<.gitbook/assets/0 (33).jpeg>)**BLUETOOTH REMOTE KEYPAD (KPT-39N-BLE)**
 
 KPT-39N-BLE is a Remote Keypad with Bluetooth feature and NFC reader. It is designed to have quick access control of the System Control Panel via User PIN Code, NFC label, or by approaching the keypad with the paired smartphone to disarm the system. The Keypad can send wireless signals to and receive wireless signals from the Control Panel.
 
-![](<.gitbook/assets/1 (16).jpeg>)
+![](<.gitbook/assets/1 (27).jpeg>)
 
 The Remote Keypad can be mounted on a flat surface or wall with screws. It also has a tamper protection switch which will be activated upon any unauthorized attempt to open the lid or to detach keypad from mounting surface.
 
-![](<.gitbook/assets/2 (15).jpeg>)
+![](<.gitbook/assets/2 (20).jpeg>)
 
 * _**Parts Identification**_
 
-![](<.gitbook/assets/3 (14).jpeg>)
+![](<.gitbook/assets/3 (21).jpeg>)
 
 1. Arm Key
 2. Home Key
@@ -27,7 +27,7 @@ The Remote Keypad can be mounted on a flat surface or wall with screws. It also 
    * press ＊ then 7 Key (under Programming Mode)
    * press both # and  keys (under Normal Operation Mode)
 
-![](<.gitbook/assets/4 (31).png>)
+![](<.gitbook/assets/4 (42).png>)
 
 1. \# Key
    * press to check current system mode
@@ -49,7 +49,7 @@ _\<NOTE>_
 * _**LED Indicator**_
   * **Power LED (Green):**
 
-![](<.gitbook/assets/5 (24).png>)
+![](<.gitbook/assets/5 (37).png>)
 
 1
 
@@ -101,7 +101,7 @@ Flash along with 4 beeps: PIN code was incorrect.
   *
     * After installation, the Remote Keypad will automatically transmit Supervision Signals to the Control Panel at
 
-![](<.gitbook/assets/6 (15).png>) ![](<.gitbook/assets/7 (15).jpeg>) ![](<.gitbook/assets/8 (11).jpeg>) ![](<.gitbook/assets/9 (6).jpeg>) ![](<.gitbook/assets/10 (6).jpeg>) ![](<.gitbook/assets/11 (10).jpeg>)
+![](<.gitbook/assets/6 (26).png>) ![](<.gitbook/assets/7 (24).jpeg>) ![](<.gitbook/assets/8 (18).jpeg>) ![](<.gitbook/assets/9 (9).jpeg>) ![](<.gitbook/assets/10 (8).jpeg>) ![](<.gitbook/assets/11 (11).jpeg>)
 
 an interval of 30-50 minutes.
 
@@ -109,7 +109,7 @@ an interval of 30-50 minutes.
   * If the Control Panel has not received the signal from the Remote Keypad for a preset period of time, the Control Panel will consider the Remote Keypad out of order and react according to panel setting.
 * _**Learning Keypad into Control Panel**_
 
-![](<.gitbook/assets/12 (14).png>)
+![](<.gitbook/assets/12 (21).png>)
 
 Step 1. Put the Control Panel into **Learning Mode**. Please refer to the Control Panel manual.
 
@@ -121,7 +121,7 @@ Under Keypad Normal Mode, press and hold **＊** key and **#** key for 2 seconds
 
 Alternatively, you can enable Remote keypad to enter Programming Mode first. Enter Keypad PIN Code (Default:
 
-**0000**) and then press **＊** key. The three![](<.gitbook/assets/13 (13).png>)![](<.gitbook/assets/14 (7).jpeg>) LEDs will turn on along with a long beep. Press ＊ key and then **7** key to transmit learn code to Control Panel. Remote keypad will sound a long beep.
+**0000**) and then press **＊** key. The three![](<.gitbook/assets/13 (21).png>)![](<.gitbook/assets/14 (9).jpeg>) LEDs will turn on along with a long beep. Press ＊ key and then **7** key to transmit learn code to Control Panel. Remote keypad will sound a long beep.
 
 Step 3. Refer to Control Panel manual to complete the learning process. If learning is successful, the Keypad will emit 3 beeps upon receiving acknowledgement signal from Control Panel. If the Keypad does not sound 3 beeps,
 
@@ -150,13 +150,13 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, assign the user pin code to an Area.
 
-![](<.gitbook/assets/17 (8).png>)
+![](<.gitbook/assets/17 (13).png>)
 
 Step 2. After KPT-39N-BLE is successfully learnt into the panel, press ![](<.gitbook/assets/18 (5).jpeg>) key on the keypad. Then, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-![](<.gitbook/assets/19 (11).png>)
+![](<.gitbook/assets/19 (14).png>)
 
 Step 4. The tag has been added. You can use the tag to arm/home arm/disarm the system. When Keypad is powered on by inserting batteries, the Orange LED will flash and the white backlight will turn on. When LED is off, wait 10 seconds for keypad tag sensor to start functioning.
 
@@ -166,7 +166,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click Submit.
 
-![](<.gitbook/assets/20 (9).png>)
+![](<.gitbook/assets/20 (13).png>)
 
 Step 3. The tag is cleared.
 

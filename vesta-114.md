@@ -8,7 +8,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws. I
 
 * Parts Identification
 
-![](<.gitbook/assets/0 (18).png>)
+![](<.gitbook/assets/0 (31).png>)
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -27,7 +27,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws. I
 
 * For confirming the keyed-in data or confirming the selection.
 
-1. **Backlit Restore (**![](<.gitbook/assets/1 (24).png>)) **Key**
+1. **Backlit Restore (**![](<.gitbook/assets/1 (35).png>)) **Key**
 
 * This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
 
@@ -53,7 +53,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws. I
 
 1. **Jumper Switch**
 
-![jumper open](<.gitbook/assets/2 (29).png>) ![jumper close](<.gitbook/assets/3 (25).png>)
+![jumper open](<.gitbook/assets/2 (40).png>) ![jumper close](<.gitbook/assets/3 (35).png>)
 
 **Jumper Off**
 
@@ -101,7 +101,7 @@ training in electric equipment.
 * Loosen KP-35-COMBO’s “B” terminal and the Control Panel’s “458B” terminal. Connect the “B” terminal to the “458B” terminal and tighten both terminal screws.
 * Ensure the furthest keypad’s Jumper Switch and Control Panel’s J53 Jumper Switch are set to ON to serve as a terminating resistor.
 
-![kp wiring](<.gitbook/assets/4 (24).png>)
+![kp wiring](<.gitbook/assets/4 (35).png>)
 
 The Keypad Terminal can be hardwired to the Control Panel in series within 500ft (152m) in wire distance.
 
@@ -109,7 +109,7 @@ The Keypad Terminal can be hardwired to the Control Panel in series within 500ft
 * KP-35-COMBO-B is wired correctly as it is within 500ft (152m) of the Control Panel, in wire distance. Before tightening the cover fixing screw of the keypad, ensure its jumper switch is set to ON to serve as a terminating resistor since it has the furthest distance from the Control Panel.
 * KP-35-COMBO-C is NOT wired correctly as it is farther than 500ft (152m) from the Control Panel.
 
-![](<.gitbook/assets/5 (16).png>)
+![](<.gitbook/assets/5 (29).png>)
 
 * _**Tamper Protection**_
 * The Remote Keypad is protected against any unauthorized attempt to open the back cover with a tamper switch. When the back cover is opened, the tamper switch will be triggered and the Remote Keypad will transmit a tamper open signal to the system control panel.

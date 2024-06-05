@@ -6,7 +6,7 @@ The Air Quality Sensor AQS-2 is a Z-Wave™ indoor air quality sensor that aims 
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (63).jpeg>)
+![](<.gitbook/assets/0 (72).jpeg>)
 
 **1. Function Button**
 
@@ -22,7 +22,7 @@ Connects to a 12V 1A DC Adapter
 
 **Features**
 
-![](<.gitbook/assets/1 (54).png>)
+![](<.gitbook/assets/1 (65).png>)
 
 * _**Power Supply**_
 
@@ -30,14 +30,14 @@ The Air Quality Sensor is powered by connecting with a DC 12V output and 1A adap
 
 If an AC power failure is detected, the Air Quality Sensor will send an AC failure report to the Control Panel.
 
-![](<.gitbook/assets/2 (59).png>)
+![](<.gitbook/assets/2 (70).png>)
 
 * _**Carbon Dioxide Detection**_
   * The Air Quality Sensor measures CO2 concentration every 5 seconds, and reports data to the Control Panel every 30 minutes. If the CO2 concentration changes by +/- 100ppm for two consecutive times, the Air Quality sensor will report to the Control Panel.
   * If the detected CO2 concentration is above 1000ppm, the AQS-2 will send a CO2 alarm signal to the Control Panel. If the CO2 concentration drops below 1000ppm, the AQS-2 will send a CO2 restore signal to the Control Panel.
 * _**Adding Device (Inclusion)**_
 
-![](<.gitbook/assets/3 (60).png>)
+![](<.gitbook/assets/3 (70).png>)
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
@@ -49,7 +49,7 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
   * If the sensor has already been **added** (included) into another Z-Wave Gateway/Control Panel, or if the sensor is unable to be added into the current Z-Wave Gateway/Control Panel, please exclude it first (see _**Removing Device**_) before attempting to **include** it into the current Z-Wave Gateway/Control Panel.
 * _**Removing Device (Exclusion)**_
 
-![](<.gitbook/assets/4 (59).png>)
+![](<.gitbook/assets/4 (70).png>)
 
 The Air Quality Sensor must be removed from existing Z-Wave network before being included into another. There are two methods available to exclude a device.
 
@@ -71,11 +71,11 @@ _\<NOTE>_
 *
   * Factory resetting the device will restore it to factory default settings (excluded from the Z-Wave network). The Z-Wave Gateway or Control Panel will still keep its Z-Wave settings. Please refer to the Gateway or Control Panel manual on how to remove the device’s Z-Wave settings.
 
-![](<.gitbook/assets/5 (59).png>)
+![](<.gitbook/assets/5 (72).png>)
 
 **Installation**
 
-![](<.gitbook/assets/6 (40).png>)
+![](<.gitbook/assets/6 (51).png>)
 
 * _**Placing the Air Quality Sensor**_
 
@@ -127,7 +127,7 @@ Security 2 CC
 
 .Firmware Update MD CC, V4 (security 2)
 
-![](<.gitbook/assets/7 (34).png>)
+![](<.gitbook/assets/7 (45).png>)
 
 * _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
@@ -143,7 +143,7 @@ Device Reset Locally
 
 **Factory Reset:** When the AQS has been reset to factory default state, it will send Device Reset Locally to all nodes in Group 1.
 
-![](<.gitbook/assets/8 (37).png>)
+![](<.gitbook/assets/8 (48).png>)
 
 * _**Command Class Data Format**_
   * CO2 Report: \[COMMAND\_CLASS\_SENSOR\_MULTILEVEL] \[SENSOR\_MULTILEVEL\_REPORT]

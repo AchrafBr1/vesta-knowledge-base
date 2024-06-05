@@ -1,12 +1,12 @@
 # VESTA 033N
 
-![](<.gitbook/assets/0 (30).png>)
+![](<.gitbook/assets/0 (43).png>)
 
 **Tag Reader (TG-15N F1)**
 
 13-Mar-2017
 
-![](<.gitbook/assets/1 (35).png>)
+![](<.gitbook/assets/1 (46).png>)
 
 * _**Identifying the parts:**_
   *
@@ -42,7 +42,7 @@ conditions: low battery, tamper fault etc.
   * Tag Reader is protected against any attempt to open the lid or to detach Tag Reader from its mounting surface (see **Mounting Tag Reader** for details).
   * When Tag Reader’s tamper is triggered, a tamper signal will be sent to the Control Panel for the Control Panel to display the status. Once the signal is sent, Tag Reader returns to power saving mode.
 
-![](<.gitbook/assets/2 (24).jpeg>) ![](<.gitbook/assets/3 (39).png>)
+![](<.gitbook/assets/2 (29).jpeg>) ![](<.gitbook/assets/3 (49).png>)
 
 1
 
@@ -71,7 +71,7 @@ The base has three knockouts for mounting purpose. To mount the Tag Reader:
 
 **Mounting Holes:**
 
-![](<.gitbook/assets/4 (24).jpeg>)
+![](<.gitbook/assets/4 (26).jpeg>)
 
 I. Remove the fixing screw at the bottom II. Remove the cover assembly
 
@@ -83,7 +83,7 @@ IV. Use the Mounting holes of the base as a template, drill holes in the surface
 
 VII. Fix the cover with the screw and clips to the base
 
-![](<.gitbook/assets/5 (32).png>)
+![](<.gitbook/assets/5 (45).png>)
 
 _**\<NOTE>**_
 
@@ -106,7 +106,7 @@ Please start _**Learning**_ the tag into the Control Panel, follow the steps as 
 1. If an Existing tag ID has already been learnt in, the Green LED will flash once with 1 beep.
 2. If tag ID is full (a maximum of 60 tags can be learned in), the Green LED will flash 4 times with 4 beeps to indicate.
 
-![](<.gitbook/assets/6 (22).png>)
+![](<.gitbook/assets/6 (33).png>)
 
 _**\<NOTE>**_
 

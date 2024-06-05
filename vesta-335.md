@@ -10,7 +10,7 @@ The Door Contact has an extension terminal that can be connected to an existing 
 
 * _**Parts Identification**_
 
-![](<.gitbook/assets/0 (107).jpeg>)
+![](<.gitbook/assets/0 (116).jpeg>)
 
 1. **Protective Cover**
 2. **Battery Cover**
@@ -78,7 +78,7 @@ Used for wire routing.
   * Remove the battery cover and insert batteries to power on the device.
   * Put the Control Panel into Learning Mode (please refer to panel operation manual).
 
-![](<.gitbook/assets/1 (76).png>)
+![](<.gitbook/assets/1 (87).png>)
 
  Use a pointy tool to press the Door Contact learn button.
 
@@ -87,7 +87,7 @@ Used for wire routing.
 
 2
 
-![](<.gitbook/assets/2 (74).jpeg>) Replace the battery cover and proceed with mounting and installation once you are satisfied that the Door Contact location functions properly.
+![](<.gitbook/assets/2 (79).jpeg>) Replace the battery cover and proceed with mounting and installation once you are satisfied that the Door Contact location functions properly.
 
  _**Mounting Methods and Installation**_
 
@@ -102,7 +102,7 @@ Used for wire routing.
 * The door contact has a back tamper switch on its back cover. Ensure the device is positioned within the bracket so that the tamper switch spring is pressed against the breakaway area that is loosely connected to the bracket. If the door contact is forcibly removed from the wall, the breakaway area will break off from the bracket and remain attached to the mounting surface, activating the tamper switch.
 * To mount the Door Contact
 
-![](<.gitbook/assets/3 (71).jpeg>)
+![](<.gitbook/assets/3 (78).jpeg>)
 
 1. The provided mounting bracket has 3 knockouts where the plastic is thinner and can be broken for mounting purpose. (**Figure 3**)
 2. Use the mounting bracket as a template to drill holes on the wall for plugs. (**Figure 4**)
@@ -136,11 +136,11 @@ _\<NOTE>_
 
 1. The installation is now complete.
 
-![](<.gitbook/assets/4 (61).jpeg>)
+![](<.gitbook/assets/4 (63).jpeg>)
 
 **Figure 4**
 
-![](<.gitbook/assets/5 (42).jpeg>)
+![](<.gitbook/assets/5 (49).jpeg>)
 
 **Figure 5**
 
@@ -157,14 +157,14 @@ _\<NOTE>_
        * _NOTE >_
          * Use cable (AWG22-26) shorter than 3 M for this installation.
 
-![](<.gitbook/assets/6 (66).png>)
+![](<.gitbook/assets/6 (77).png>)
 
 * The extension terminal may be useful for the following situation.
   * If the Door Contact cannot be mounted on the door frame, you can connect an additional extension switch to the extension terminal to mount the Door Contact remotely.
   * Any dry contact device with N.C. (Normal Close) loop can be connected to the extension terminal, making the Door Contact serve as an Universal Transmitter.
   * Multiple dry contact devices can be wired together with the Door Contact, as shown in the diagram below.
 
-![](<.gitbook/assets/7 (50).jpeg>)
+![](<.gitbook/assets/7 (59).jpeg>)
 
 _\<NOTE>_
 

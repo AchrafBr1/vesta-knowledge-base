@@ -4,7 +4,7 @@
 
 Z-Wave Dongle designed to be used with Climax gateways to provide extra Z-wave device compatibility. It enables the Control Panel to learn in and interact with various Z-wave devices on the market.
 
-![](<.gitbook/assets/0 (95).jpeg>)
+![](<.gitbook/assets/0 (104).jpeg>)
 
 | Z-wave        |   |   |
 | ------------- | - | - |
@@ -15,7 +15,7 @@ Z-Wave Dongle designed to be used with Climax gateways to provide extra Z-wave d
 
 **Identifying the Parts**
 
-![](<.gitbook/assets/1 (80).jpeg>)
+![](<.gitbook/assets/1 (91).jpeg>)
 
 1. **Blue LED**
 
@@ -29,7 +29,7 @@ LED ON: Working Normally
 4. If the Z-Wave Dongle is detected by control panel, the “**Exclusion**” and “**Z-Wave Reset**” features will be displayed under **Device Management** in the website configuration page.
 5. Select “Z-Wave Reset” and click “**Yes**” to reset Z-wave dongle.
 
-![](<.gitbook/assets/2 (74).png>)
+![](<.gitbook/assets/2 (85).png>)
 
 1. Refer to Control Panel installation manual and individual Z-wave device manual to learn in and control your Z-wave devices.
 

@@ -1,10 +1,10 @@
 # VESTA 150N
 
-![](<.gitbook/assets/0 (44).png>)**REMOTE KEYPAD with NFC Tag (KPT-35N-S10)**
+![](<.gitbook/assets/0 (57).png>)**REMOTE KEYPAD with NFC Tag (KPT-35N-S10)**
 
 * _**Identifying the Parts**_
 
-![](<.gitbook/assets/1 (47).jpeg>)
+![](<.gitbook/assets/1 (58).jpeg>)
 
 1. **Red LED**
 2. **Yellow LED**
@@ -20,7 +20,7 @@
 8. **Backlit Pound (＃) Key**
 9. **Backlit OK Key**
 
-![](<.gitbook/assets/2 (44).jpeg>)
+![](<.gitbook/assets/2 (49).jpeg>)
 
 **10. Backlit Restore (** ) **Key**
 
@@ -38,7 +38,7 @@
 9. **Bottom Fixing Screw x 1**
 10. **Bracket for Desktop Deployment** (optional item, sold separately)
 
-![](<.gitbook/assets/3 (54).png>)
+![](<.gitbook/assets/3 (64).png>)
 
 _**\<NOTE>**_
 
@@ -49,7 +49,7 @@ _**\<NOTE>**_
 
 1
 
-* ![](<.gitbook/assets/4 (54).png>)_**LED Indicator**_
+* ![](<.gitbook/assets/4 (65).png>)_**LED Indicator**_
   * **Red LED (Away Arm Key)**
     * **Red LED on:** the system is in **Test Mode**.
     * **Red LED:** Red LED and White Backlight will turn on with long beep first, and then the Red LED and White Backlight will turn on for 1 second in the **Away Arm Mode.**
@@ -64,7 +64,7 @@ _**\<NOTE>**_
       * Request for **Home mode** during **Arm mode**.
       * Request for **Force arm**.
 
-![](<.gitbook/assets/5 (53).png>) ![](<.gitbook/assets/6 (35).png>)
+![](<.gitbook/assets/5 (66).png>) ![](<.gitbook/assets/6 (46).png>)
 
 _**\<NOTE>**_
 
@@ -74,7 +74,7 @@ _**\<NOTE>**_
   * If Control Panel User Code/Pin code is entered but the Arm/Home button is not pressed, in 5 seconds the keypad will enter sleep mode.
 * _**Built-in Siren**_
 
-![](<.gitbook/assets/7 (33).jpeg>)
+![](<.gitbook/assets/7 (42).jpeg>)
 
 1. Exit Delay — the Remote keypad continuously beeps. If enter Arm mode or Home Mode, Remote Keypad will emit long beep.
 2. Entry Delay — the Remote keypad continuously beeps. When entering Disarm Mode, the Remote Keypad will emit 2 beeps.
@@ -90,13 +90,13 @@ _**\<NOTE>**_
   * After 5 seconds of key inactivity, the power goes off and it returns t**o Stand-by** mode.
   * Upon completion of a command input, the power goes off and Remote keypad returns to **Stand-by** mode.
 
-![](<.gitbook/assets/8 (26).jpeg>) ![](<.gitbook/assets/9 (17).jpeg>) ![](<.gitbook/assets/10 (32).png>)
+![](<.gitbook/assets/8 (33).jpeg>) ![](<.gitbook/assets/9 (20).jpeg>) ![](<.gitbook/assets/10 (40).png>)
 
 _**\<NOTE>**_
 
 You can also press and hold ＊ and # key for 2 seconds to send learning code when Idle.
 
-![](<.gitbook/assets/11 (19).jpeg>)
+![](<.gitbook/assets/11 (20).jpeg>)
 
 * _**Supervisory Signal**_
   * The Remote Keypad will automatically transmit Supervisory Signals periodically to the Control Panel at random intervals of 30-50 minutes.
@@ -104,7 +104,7 @@ You can also press and hold ＊ and # key for 2 seconds to send learning code wh
   * Remote keypad can be put into Test mode by entering the Keypad PIN code (default: **0000**) followed by “＊” key along with a long beep sounding, the Red LED and backlight will turn on.
   * To exit Test mode, press # key **twice** (long beep). Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to Stand-by mode.
 
-![](<.gitbook/assets/12 (17).jpeg>)
+![](<.gitbook/assets/12 (19).jpeg>)
 
 _**Under the Test mode, the following functions can be enabled:**_
 
@@ -128,7 +128,7 @@ code checked by panel) (**Default**).
   * Press “#” key **twice** — to exit Test Mode**.**
 * _**Learning Keypad into Control Panel**_
 
-![](<.gitbook/assets/13 (19).jpeg>)
+![](<.gitbook/assets/13 (20).jpeg>)
 
 Step 1. Put the Control Panel into **Learning Mode**. Please refer to the Control Panel manual.
 
@@ -144,7 +144,7 @@ Step 3. Refer to Control Panel manual to complete the learning process. If learn
 
 Step 4. After the Remote keypad is learnt-in, put the Control Panel into **Walk Test** mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel.
 
-![](<.gitbook/assets/14 (19).jpeg>)
+![](<.gitbook/assets/14 (21).jpeg>)
 
 * _**Edit Keypad Operation Area**_
   * Follow instructions below to change Keypad Area in the Control Panel
@@ -167,7 +167,7 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, assign the user pin code to an Area.
 
-![](<.gitbook/assets/17 (15).png>)
+![](<.gitbook/assets/17 (20).png>)
 
 Step 2. After KPT-35N-S10 is successfully learnt into the panel, apply a new tag to the Keypad Tag sensor zone. The
 
@@ -177,7 +177,7 @@ white backlight will turn on with 4 beeps to indicate this tag is new (not added
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-![](<.gitbook/assets/18 (19).png>)
+![](<.gitbook/assets/18 (22).png>)
 
 Step 4. The tag has been added. You can use the tag to arm/home arm/disarm the system. When Keypad is powered on by inserting batteries, the Orange LED will flash and the white backlight will turn on. When LED is off, wait 10 seconds for keypad tag sensor to start functioning.
 
@@ -187,7 +187,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click Submit.
 
-![](<.gitbook/assets/19 (20).png>)
+![](<.gitbook/assets/19 (23).png>)
 
 Step 3. The tag is cleared.
 

@@ -16,7 +16,7 @@ WSS-4E-ZBS
 
 WSS-4E-ZBS-OTA
 
-![](<.gitbook/assets/0 (75).jpeg>)
+![](<.gitbook/assets/0 (84).jpeg>)
 
 **Device Introduction**
 
@@ -34,7 +34,7 @@ The Scenario Switch has 4 scenario touch buttons:
 
 Touch Button 1
 
-![](<.gitbook/assets/1 (67).jpeg>)
+![](<.gitbook/assets/1 (78).jpeg>)
 
 Touch Button 2
 
@@ -65,7 +65,7 @@ The Scenario Switch has successfully joined a ZigBee network.
 
 **Features**
 
-![](<.gitbook/assets/2 (60).jpeg>)
+![](<.gitbook/assets/2 (65).jpeg>)
 
 * _**Battery and Low Battery Detection**_
 
@@ -73,13 +73,13 @@ The Scenario Switch uses two 1.5V AA Alkaline batteries as its power source. The
 
 1
 
-* ![](<.gitbook/assets/3 (65).png>)_**Scenario**_
+* ![](<.gitbook/assets/3 (75).png>)_**Scenario**_
 
 When a Scenario Touch Button is pressed, the Scenario Switch will send a signal to the Control Panel to activate the correspondent scenario (see Control Panel for details).
 
 **ZigBee Network Setup**
 
-![](<.gitbook/assets/4 (51).jpeg>)
+![](<.gitbook/assets/4 (53).jpeg>)
 
 * _**ZigBee Device Guideline**_
 
@@ -93,7 +93,7 @@ Due to the fundamental structure of ZigBee network, ZigBee device will actively 
   * Do not remove a ZigBee device from the ZigBee network router or coordinator without removing the battery from a ZigBee device.
 * _**Joining the ZigBee Network**_
 
-![](<.gitbook/assets/5 (33).jpeg>)
+![](<.gitbook/assets/5 (40).jpeg>)
 
 As a ZigBee device, the Scenario Switch needs to join a ZigBee network to connect to the ZigBee devices.
 
@@ -107,7 +107,7 @@ Please follow the steps bellow to join the Scenario Switch into the ZigBee netwo
   5. After joining the ZigBee network, the Scenario Switch will be registered in the network automatically. Please check the ZigBee network coordinator, system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
 * _**Removing Device from ZigBee Network (Factory Reset)**_
 
-![](<.gitbook/assets/6 (43).png>)
+![](<.gitbook/assets/6 (54).png>)
 
 To remove the Scenario Switch from current ZigBee network, the switch must be put to Factory Reset to complete device removal. Factory Reset function will clear the d of its stored setting information and prompt the Scenario Switch to search for new ZigBee network.
 
@@ -118,7 +118,7 @@ To remove the Scenario Switch from current ZigBee network, the switch must be pu
   2. Upon reset, the Scenario Switch will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
 * _**OTA Firmware Upgrade (For OTA version only)**_
 
-![](<.gitbook/assets/7 (38).png>)
+![](<.gitbook/assets/7 (49).png>)
 
 The Four Touch Button Scenario Switch supports OTA firmware upgrade feature via ZigBee network, which can be initiated from the ZigBee network coordinator. Follow steps below to perform OTA firmware upgrade. **Step 1.** You have to access your ZigBee Coordinator to perform the firmware upgrade on the air.
 
@@ -144,7 +144,7 @@ please do not perform any other actions, or power down the panel.
 
 2
 
-![](<.gitbook/assets/8 (34).jpeg>)
+![](<.gitbook/assets/8 (41).jpeg>)
 
 * **Appendix (For developers only)**
   * _**Scene Selector Cluster ID**_

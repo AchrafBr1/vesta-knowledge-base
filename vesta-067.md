@@ -1,6 +1,6 @@
 # VESTA 067
 
-![](<.gitbook/assets/0 (119).jpeg>)
+![](<.gitbook/assets/0 (131).jpeg>)
 
 **BOGP-3 2G/4G**
 
@@ -116,19 +116,19 @@ _**5.4. Event Code \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **1.1. Parts Identification**
 
-![](<.gitbook/assets/1 (90).png>)
+![](<.gitbook/assets/1 (104).png>)
 
 **Front View**
 
-![](<.gitbook/assets/2 (98).png>)
+![](<.gitbook/assets/2 (112).png>)
 
 **Back View (With Back Cover)**
 
-![](<.gitbook/assets/3 (94).png>)
+![](<.gitbook/assets/3 (107).png>)
 
 **Back View (Without Back Cover)**
 
-![](<.gitbook/assets/4 (73).jpeg>)
+![](<.gitbook/assets/4 (75).jpeg>)
 
 1. **LED Indicator (Green)**
 
@@ -138,20 +138,20 @@ This LED is light on when any key is pressed to wake up the panel.
 
 When the panel is awake, this LED is light on if there is at least one fault in the system.
 
-![](<.gitbook/assets/5 (101).png>)
+![](<.gitbook/assets/5 (114).png>)
 
-1. ![](<.gitbook/assets/6 (84).png>) **Key:** Use this key to move the cursor and scroll the display upwards
+1. ![](<.gitbook/assets/6 (95).png>) **Key:** Use this key to move the cursor and scroll the display upwards
 
 **Arm Key:** Use this key to Away Arm the system.
 
-![](<.gitbook/assets/7 (74).png>)
+![](<.gitbook/assets/7 (85).png>)
 
-1. ![](<.gitbook/assets/8 (73).png>) **Key:** Use this key to move the cursor and scroll the display downwards.
+1. ![](<.gitbook/assets/8 (84).png>) **Key:** Use this key to move the cursor and scroll the display downwards.
 
 **Home Arm Key:** Use this key to Home Arm the system.
 
 *
-  1. ![](<.gitbook/assets/9 (42).jpeg>) **Key:** Use this key to abort current screen and return to previous screen.
+  1. ![](<.gitbook/assets/9 (45).jpeg>) **Key:** Use this key to abort current screen and return to previous screen.
 
 1. **OK Key:** Use this key to confirm an action or entered data.
 
@@ -193,7 +193,7 @@ The Control Panel is designed to be wall mounted, follow guidelines below when p
 
 The Control Panel features built-in 2G/4G communication facility to report to the Monitoring Station. To use the 2G/4G function, a SIM card is required.
 
-![](<.gitbook/assets/10 (73).png>)
+![](<.gitbook/assets/10 (81).png>)
 
 _\<NOTE>_
 
@@ -203,7 +203,7 @@ _\<NOTE>_
 * Loosen the 2 bottom screws and then remove the back cover.
 * Locate the SIM Card Slot and insert your new SIM card.
 
-![](<.gitbook/assets/11 (40).jpeg>)
+![](<.gitbook/assets/11 (41).jpeg>)
 
 * Secure the back cover by fixing screws.
 
@@ -223,14 +223,14 @@ The easiest way to get to know the system and get it up and running quickly is t
 
 **Figure 1**
 
-![](<.gitbook/assets/12 (36).jpeg>)
+![](<.gitbook/assets/12 (41).jpeg>)
 
 | **Figure 2** |  Whenever panel asks to key in **Enter** |                                         |
 | ------------ | ----------------------------------------- | --------------------------------------- |
 |              |                                           | **Code** or, please enter your User PIN |
 |              |                                           | Code.                                   |
 
-![](<.gitbook/assets/13 (42).jpeg>)
+![](<.gitbook/assets/13 (43).jpeg>)
 
 **Master Code**
 
@@ -239,7 +239,7 @@ The easiest way to get to know the system and get it up and running quickly is t
 
 **Figure 3**
 
-![](<.gitbook/assets/14 (32).jpeg>)
+![](<.gitbook/assets/14 (34).jpeg>)
 
 **1.6. Multi-User Passwords**
 
@@ -283,7 +283,7 @@ configuration, press ![](<.gitbook/assets/15 (32).jpeg>) key to to leave current
 * If the Control Panel lost power supply. When the power is restored, it will resume its previoius mode.
 * When programming settings, refer to the following tables to enter symbols and alphabets, press the key repeatedly until the desired symbol/alphabet appears.
 
-![](<.gitbook/assets/16 (53).png>)
+![](<.gitbook/assets/16 (61).png>)
 
 | 1 | 1                 | ，！？－【】@/                  |
 | - | ----------------- | ------------------------- |
@@ -364,7 +364,7 @@ This function is for you to edit the Installer code
 
 **Step 1.** Select **Install Code** and press **OK** to confirm.
 
-**E n t e r** ![](<.gitbook/assets/17 (42).png>)![](<.gitbook/assets/18 (52).png>) **n e w** ![](<.gitbook/assets/19 (52).png>)![](<.gitbook/assets/20 (39).png>) **c o d e**
+**E n t e r** ![](<.gitbook/assets/17 (47).png>)![](<.gitbook/assets/18 (55).png>) **n e w** ![](<.gitbook/assets/19 (55).png>)![](<.gitbook/assets/20 (43).png>) **c o d e**
 
 **Step 2.** Enter the new 4-digit Installer code
 

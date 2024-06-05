@@ -4,7 +4,7 @@ SVGS-5 Shock, Vibration & Glass Break Sensor
 
 SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wireless signals to the Control Panel upon detection of window glass break or shock/vibration.
 
-![](<.gitbook/assets/0 (9).jpeg>)Parts Identification
+![](<.gitbook/assets/0 (18).jpeg>)Parts Identification
 
 1. **Learn/Test Button**
 
@@ -28,7 +28,7 @@ SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wirele
 * When changing battery, use a sharp tool to open the battery slot to remove and insert battery.
 * When inserting battery, the **positive(+)** side of the battery must face upward. **NEVER** insert the battery with negative(-) side facing upward.
 
-![](<.gitbook/assets/1 (6) (1).jpeg>)
+![](<.gitbook/assets/1 (17).jpeg>)
 
 * _**Supervision**_
 
@@ -120,14 +120,14 @@ Determine the mounting location on window or wall. The sensor may be mounted at 
 
 When mounting on Safety Box, mount the Sensor no more than 2cm away from the door pivot.
 
-1. ![](<.gitbook/assets/5 (12).png>)Clean and dry the mounting location. Do not install on dirty or web surface.
+1. ![](<.gitbook/assets/5 (25).png>)Clean and dry the mounting location. Do not install on dirty or web surface.
 2. Use the provided double-sided adhesive tape (Ø35mm x 8mm) to apply to the back cover of SVGS and stick the sensor onto the mounting location.
 
 \<NOTE>
 
 * Please do not apply the double-sided adhesive tape to the front cover where Test Button and LED indicator are located, and do not apply the tape twice.
 
-![](<.gitbook/assets/6 (7) (1).png>)
+![](<.gitbook/assets/6 (18).png>)
 
 * _**Installation Guideline**_
 * Always make sure to test detection range after installation to confirm the actual detection range.

@@ -12,7 +12,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (1) (1).jpeg>)
+![](<.gitbook/assets/0 (2).jpeg>)
 
 1. **Test Button / LED Indicator**
    * Press the test button once to enter test mode for 3 minutes.
@@ -32,11 +32,11 @@ When the PIR motion sensor is connected as the furthest BUS device on a BUS line
    * When set as ON, Pet Immunity is disabled (Factory default).
    * When set as OFF, Pet Immunity is enabled.
 
-![](<.gitbook/assets/1 (2) (1).png>)
+![](<.gitbook/assets/1 (7).png>)
 
 **Jumper On**
 
-![](<.gitbook/assets/2 (2).jpeg>)
+![](<.gitbook/assets/2 (3).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 
@@ -78,19 +78,19 @@ The LED will not flash if the PIR tamper is normal and PIR is not under test mod
 
 The PIR is protected by a tamper switch which is compressed when the PIR is properly installed. When the PIR is removed from mounted surface or mounting bracket, or its cover opened, the tamper switch will be activated and the PIR will send a tamper open signal to the system control panel to remind the user of the condition. If movement is detected when the tamper switch is open, the LED will flash 3 times.
 
-![](<.gitbook/assets/6 (2).jpeg>)
+![](<.gitbook/assets/6 (3).jpeg>)
 
 * _**Supervision Function**_
 
 After installation, the PIR will automatically transmit Supervisory signals periodically to the Control Panel at random intervals of 20-30 seconds.
 
-![](<.gitbook/assets/7 (3).png>)
+![](<.gitbook/assets/7 (7).png>)
 
 * _**Test Mode**_
 
 The PIR can be put into Test mode by pressing the Test Button. Every time the Test Button is pressed, the PIR will transmit a test signal to the Control Panel for radio range test and enter the test mode for 3 minutes. Test Mode will time out after 3 minutes.
 
-![](<.gitbook/assets/8 (4).png>)
+![](<.gitbook/assets/8 (7).png>)
 
 * _**Pet Immunity Function**_
   * The PIR sensor supports pet immunity feature and will not detect pets of up to 25 kg to minimize false alarm situation.
@@ -112,7 +112,7 @@ The PIR can be put into Test mode by pressing the Test Button. Every time the Te
     2. Input the PIR motion sensor configuration in the Sensor Setting section. Click OK to confirm.
     3. Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity and set Sensitivity level to high, you can input 03.
 
-![](<.gitbook/assets/9 (4).png>) ![](<.gitbook/assets/10 (4).png>)
+![](<.gitbook/assets/9 (8).png>) ![](<.gitbook/assets/10 (8).png>)
 
 | **IR Configuration** | **Pet Immunity** | **Sensitivity** |
 | -------------------- | ---------------- | --------------- |
@@ -135,11 +135,11 @@ The PIR can be put into Test mode by pressing the Test Button. Every time the Te
   * Wiring of the PIR motion sensor should only be performed by certified technician with proper knowledge and training in electric equipment.
   * Before installation or any maintenance work, make sure the power supply has been disconnected.
 
-![](<.gitbook/assets/11 (1).jpeg>) ![](<.gitbook/assets/12 (1).jpeg>) ![](<.gitbook/assets/13 (4).png>)
+![](<.gitbook/assets/11 (1).jpeg>) ![](<.gitbook/assets/12 (1).jpeg>) ![](<.gitbook/assets/13 (9).png>)
 
 2
 
-* ![](<.gitbook/assets/14 (3) (1).png>)_**PIR Motion Sensor Wiring**_
+* ![](<.gitbook/assets/14 (8).png>)_**PIR Motion Sensor Wiring**_
   * Before connecting the PIR motion sensor to the system bus, please switch the power off.
   * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
@@ -162,7 +162,7 @@ _\<NOTE>_
   * After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/16 (4).png>)
+![](<.gitbook/assets/16 (9).png>)
 
 * _**Getting Started – Learning the PIR Motion Sensor into the Control Panel**_
 
@@ -190,7 +190,7 @@ To locate the PIR motion sensor in the BUS system:
 
 **Step 2.** If the PIR motion sensor receives the signal from the Hybrid Panel, the webpage will display a success message and PIR motion sensor’s LED indicator will flash 10 times to indicate where it is to the user.
 
-![](<.gitbook/assets/18 (4).png>)
+![](<.gitbook/assets/18 (7).png>)
 
 _\<NOTE>_
 
@@ -204,7 +204,7 @@ Please check whether the wired connection between the Panel and PIR motion senso
   * To make sure the PIR motion sensor is able to communicate with the Panel after it is learned-in, place the Control Panel in Walk Test mode and press the Test button on IR-35-BUS to transmit a test signal to the Control Panel.
   * When the Panel receives the test signal, it will beep once and display the PIR motion sensor’s information accordingly on the top of the device list.
 
-![](<.gitbook/assets/20 (3).png>)
+![](<.gitbook/assets/20 (7).png>)
 
 _\<NOTE>_
 

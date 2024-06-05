@@ -55,7 +55,7 @@ Hardwire the four terminals (VCC, GND, A, B) to the BUS Terminal on the Control 
 
 When the PIR Camera is connected as the furthest BUS device on a BUS line, please set the PIR Camera's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (1).jpeg>) ![](<.gitbook/assets/3 (2) (1).png>)
+![](<.gitbook/assets/2 (1).jpeg>) ![](<.gitbook/assets/3 (6).png>)
 
 **Jumper On**
 
@@ -74,11 +74,11 @@ The jumper link is removed or “**parked**” on one pin.
 1. **Tamper Switch**
 2. **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
-![](<.gitbook/assets/5 (2) (1).png>)
+![](<.gitbook/assets/5 (6).png>)
 
 **Jumper On**
 
-![](<.gitbook/assets/6 (1) (1).jpeg>)
+![](<.gitbook/assets/6 (2).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 
@@ -103,18 +103,18 @@ When set to OFF, the PIR’s detection sensitivity is in normal level (Factory d
 
 **Features**
 
-![](<.gitbook/assets/7 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/7 (5).png>)
 
 * _**LED Indicator**_
   * The Blue LED will flash for 1 second when the PIR Camera enters Test Mode. During Test mode, the Blue LED will flash once every time a movement is detected.
   * The LED will not flash if the PIR Camera is normal and is not under test mode.
 * _**Image Capture**_
 
-![](<.gitbook/assets/8 (2) (1).png>)
+![](<.gitbook/assets/8 (5).png>)
 
 When the alarm system is armed, the PIR Camera will capture 1, 3 or 6 alarm images with resolution of 640 x 480 or 320 x 240 (programmable from the Control Panel) upon movement detection. You can also manually request the PIR Camera to take a picture through the Control Panel. The captured images will be transferred to the Control Panel for users to view.
 
-![](<.gitbook/assets/9 (2) (1).png>)
+![](<.gitbook/assets/9 (6).png>)
 
 _\<NOTE>_
 
@@ -122,7 +122,7 @@ _\<NOTE>_
   * If your PIR Camera is installed at a location where the camera’s field of view is a complex environment with intense light or lots of colors, the images captured will be great in file size, possibly leading to truncation when the images are transmitted to the Control Panel.
 * _**Warm Up Period**_
 
-![](<.gitbook/assets/10 (2) (1).png>)
+![](<.gitbook/assets/10 (6).png>)
 
 When the Control Panel system enters armed mode, or when the PIR Camera is put into Test Mode, the PIR Camera will warm up for 30 seconds.
 
@@ -132,7 +132,7 @@ When the Control Panel system enters armed mode, or when the PIR Camera is put i
 
 When VST-892-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
 
-![](<.gitbook/assets/12 (2) (1).png>)
+![](<.gitbook/assets/12 (6).png>)
 
 * _**Anti-Masking**_
   * The PIR Camera has a digital proximity detector that can detect any masking (blocking) attempts by an intruder.
@@ -140,7 +140,7 @@ When VST-892-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provi
   * After masking/blocking is removed for 3 minutes, VST-892-BUS will send a restore signal to the Control Panel.
 * _**Tamper Protection**_
 
-![](<.gitbook/assets/13 (2) (1).png>)
+![](<.gitbook/assets/13 (7).png>)
 
 The PIR Camera is protected by a tamper switch which is depressed when the PIR Camera is properly installed. When the PIR Camera is removed from the mounting surface or its cover is opened, the tamper switch will be activated and the PIR Camera will send a tamper open signal to the system control panel to remind the user of the condition.
 
@@ -148,11 +148,11 @@ The PIR Camera is protected by a tamper switch which is depressed when the PIR C
 
 2
 
-* ![](<.gitbook/assets/15 (2) (1).png>)_**Supervision**_
+* ![](<.gitbook/assets/15 (7).png>)_**Supervision**_
 
 The PIR Camera will conduct a self-test periodically by transmitting a supervisory signal once every 20-30 seconds.
 
-![](<.gitbook/assets/16 (2) (1).png>)
+![](<.gitbook/assets/16 (7).png>)
 
 * _**Test Mode**_
   *
@@ -168,7 +168,7 @@ The PIR Camera will conduct a self-test periodically by transmitting a superviso
     * Before connection, make sure the Panel power supply has been disconnected, and the panel battery switch has been slid to OFF position.
     * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/17 (2) (1).png>) ![](<.gitbook/assets/18 (2) (1).png>)
+![](<.gitbook/assets/17 (6).png>) ![](<.gitbook/assets/18 (5).png>)
 
 | **Red**    | VDD  |
 | ---------- | ---- |
@@ -178,7 +178,7 @@ The PIR Camera will conduct a self-test periodically by transmitting a superviso
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
-![](<.gitbook/assets/19 (2) (1).png>)
+![](<.gitbook/assets/19 (5).png>)
 
 _\<NOTE>_
 

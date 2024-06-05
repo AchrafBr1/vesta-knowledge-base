@@ -18,7 +18,7 @@ PRL-3ZW-AC-OTA
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (84).jpeg>)
+![](<.gitbook/assets/0 (93).jpeg>)
 
 **1. LED indicator**
 
@@ -62,7 +62,7 @@ Connect NO & COM terminals of the wired device to NO & COM terminals of the PRL-
 * Humidity: Up to 85% non-condensing
 * Dimension: 71mm x 49mm x 26mm
 
-![](<.gitbook/assets/1 (73).jpeg>)
+![](<.gitbook/assets/1 (84).jpeg>)
 
 **Installation Environment**
 
@@ -72,7 +72,7 @@ Connect NO & COM terminals of the wired device to NO & COM terminals of the PRL-
 
 1
 
-![](<.gitbook/assets/2 (69).jpeg>)
+![](<.gitbook/assets/2 (74).jpeg>)
 
 **Caution**
 
@@ -80,7 +80,7 @@ Connect NO & COM terminals of the wired device to NO & COM terminals of the PRL-
 * To prevent electrical shock and/or equipment damage, disconnect electrical power at the main fuse or circuit breaker before installation and maintenance.
 * Do not connect the device to loads exceeding
 
-![](<.gitbook/assets/3 (62).jpeg>)
+![](<.gitbook/assets/3 (69).jpeg>)
 
 supported load current.
 
@@ -93,7 +93,7 @@ Wire the Relay according to the instructions below or refer to the diagram for m
 3. Depend on the device you wish to control via the Relay, select NO terminal and wire the Relay with the device to establish Normal Open connection with device.
 4. After completing the wiring, turn on the power supply to power on the Relay Toggle Switch.
 
-![](<.gitbook/assets/4 (68).png>)
+![](<.gitbook/assets/4 (79).png>)
 
 _\<IMPORTANT NOTE>_
 
@@ -101,7 +101,7 @@ _\<IMPORTANT NOTE>_
 
 **Features**
 
-![](<.gitbook/assets/5 (70).png>)
+![](<.gitbook/assets/5 (83).png>)
 
 * _**Adding Device (Inclusion)**_
   * Connect the power input to the Relay Toggle Switch according to Installation instruction above and power up the Relay Toggle Switch.
@@ -111,7 +111,7 @@ _\<IMPORTANT NOTE>_
   * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see _**Removing Device**_).
 * _**Removing Device (Exclusion)**_
 
-![](<.gitbook/assets/6 (49).png>)
+![](<.gitbook/assets/6 (60).png>)
 
 The device must be removed from existing Z-Wave network before being added into another. **Exclusion Mode**
 
@@ -125,7 +125,7 @@ The device must be removed from existing Z-Wave network before being added into 
   * Press and hold the Function Button of the device for 10 seconds to factory reset.
 * _**Range Test**_
 
-![](<.gitbook/assets/7 (45).png>)
+![](<.gitbook/assets/7 (56).png>)
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
@@ -137,7 +137,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 **Operation**
 
-![](<.gitbook/assets/8 (40).jpeg>)
+![](<.gitbook/assets/8 (47).jpeg>)
 
 * _**Relay Control**_
   * After the Relay toggle Switch has successfully added into a Z-Wave network, the gateway/control panel can remotely control the Relay to turn On, Off or toggle between On and Off condition. Please refer to your Z-Wave gateway/control panel for detail.
@@ -170,7 +170,7 @@ Z-Wave Plus Info CC
 
 **Recommended CC Support**: Firmware Update Metadata CC
 
-![](<.gitbook/assets/9 (41).png>)
+![](<.gitbook/assets/9 (55).png>)
 
 * _**Z-Wave’s Groups (Association Command Class Version 2)**_
 

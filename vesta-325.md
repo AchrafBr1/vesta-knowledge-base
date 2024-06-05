@@ -1,10 +1,10 @@
 # VESTA 325
 
-![](<.gitbook/assets/0 (106).jpeg>)**Bluetooth Emergency Pendant (BL-3)**
+![](<.gitbook/assets/0 (115).jpeg>)**Bluetooth Emergency Pendant (BL-3)**
 
 BL-3 is a Bluetooth emergency pendant. It can be used to summon help in case of an emergency with one button press. When its button is pressed, BL-3 utilizes the Bluetooth connection with the smartphone app to immediately report an alarm and user’s location. It also functions to count the steps when this function is enabled.
 
-![](<.gitbook/assets/1 (75).png>)
+![](<.gitbook/assets/1 (86).png>)
 
 * _**LED Indicator (Blue and Red LED)**_
   * Blue LED flashes 4 times
@@ -31,13 +31,13 @@ BL-3 is a Bluetooth emergency pendant. It can be used to summon help in case of 
       * BL-3 uses one CR2032 3V Lithium battery as its power source.
       * After BL-3 is paired with the smartphone, it will send the battery percentage to the smartphone every 10 minutes.
 
-![](<.gitbook/assets/2 (84).png>) ![](<.gitbook/assets/3 (82).png>)
+![](<.gitbook/assets/2 (95).png>) ![](<.gitbook/assets/3 (92).png>)
 
 1
 
-* ![](<.gitbook/assets/4 (86).png>)_**Installing / Changing battery**_
+* ![](<.gitbook/assets/4 (97).png>)_**Installing / Changing battery**_
 
-![](<.gitbook/assets/5 (85).png>)
+![](<.gitbook/assets/5 (98).png>)
 
 *
   * Use a coin to unlock and remove the battery cover from the back of the pendant by turning the mark on the cover anti-clockwise from Lock position to **Open** position.
@@ -45,13 +45,13 @@ BL-3 is a Bluetooth emergency pendant. It can be used to summon help in case of 
   * Use a coin to lock the battery cover back onto the back of the pendant by turning the mark on the cover clockwise from Open position to **Lock** position. Make sure the baseline printed on the back of the pendant is horizontally aligned with 2 marks of lock positions.
 * _**Bluetooth (BLE) Compatibility**_
 
-![](<.gitbook/assets/6 (65).png>)
+![](<.gitbook/assets/6 (76).png>)
 
 **Care Alert APP** is used for Bluetooth pairing the BL-3 with the smartphone.
 
 Please go to **APP store** or **Google Play** and search Care Alert to download the application.
 
-![](<.gitbook/assets/7 (49).jpeg>)
+![](<.gitbook/assets/7 (58).jpeg>)
 
 To pair the BL-3 with the smartphone:
 
@@ -62,31 +62,31 @@ To pair the BL-3 with the smartphone:
 
 In the following screen, enter **Username**, **Password**, **Email** and **MAC/MEI**, and tap **Connect**.
 
-![](<.gitbook/assets/8 (59).png>)
+![](<.gitbook/assets/8 (70).png>)
 
 1. Sign in the **Care Alert APP** by entering the registered **Username** and **Password.**
 
-![](<.gitbook/assets/9 (54).png>)
+![](<.gitbook/assets/9 (68).png>)
 
 3
 
-1. Tap the ![](<.gitbook/assets/10 (26).jpeg>) **Settings icon** and then **Bluetooth Pendants** to enter pairing screen.
+1. Tap the ![](<.gitbook/assets/10 (28).jpeg>) **Settings icon** and then **Bluetooth Pendants** to enter pairing screen.
 
-![](<.gitbook/assets/11 (46).png>)
+![](<.gitbook/assets/11 (54).png>)
 
-1. Tap the ![](<.gitbook/assets/12 (28).jpeg>) **Add icon** to automatically search for available BL-3s. If no BL-3s have been searched, press the BL-3 active button once to send a Bluetooth pairing request.
+1. Tap the ![](<.gitbook/assets/12 (30).jpeg>) **Add icon** to automatically search for available BL-3s. If no BL-3s have been searched, press the BL-3 active button once to send a Bluetooth pairing request.
 
-![](<.gitbook/assets/13 (37).png>)
+![](<.gitbook/assets/13 (45).png>)
 
 4
 
 1. Tap the **BL-3** under **Available Devices** to pair the BL-3 with the smartphone, tap **Pair** for **Bluetooth Pairing Request**.
 
-![](<.gitbook/assets/14 (37).png>)
+![](<.gitbook/assets/14 (44).png>)
 
 1. Go to the smartphone’s **Settings > Bluetooth** to check if the BL-3 has been connected properly.
 
-![](<.gitbook/assets/15 (36).png>)
+![](<.gitbook/assets/15 (44).png>)
 
 5
 
@@ -94,17 +94,17 @@ To unpair the BL-3 from the smartphone:
 
 1. Tap the **paired BL-3** under **Paired Devices**, and tap **Remove** in the next screen.
 
-![](<.gitbook/assets/16 (38).png>)
+![](<.gitbook/assets/16 (46).png>)
 
 1. Go to the smartphone’s **Settings > Bluetooth** to forget the BL-3 by tapping first the ![](<.gitbook/assets/17 (22).jpeg>) **Information icon**, then **Forget This Device** in the next screen.
 
-![](<.gitbook/assets/18 (36).png>)
+![](<.gitbook/assets/18 (39).png>)
 
 1. Press and hold the BL-3 active button for 10 seconds to send a Bluetooth unpairing request. The BL-3
 
 will flash twice when the unpairing request is sent.
 
-![](<.gitbook/assets/19 (36).png>)
+![](<.gitbook/assets/19 (39).png>)
 
 _\<NOTE>_
 

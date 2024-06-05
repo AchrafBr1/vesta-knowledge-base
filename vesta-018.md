@@ -8,21 +8,21 @@ The Remote Controller is used to arm the system in home or away mode, disarm the
 
 Press and hold each key to activate its functions described below:
 
-1. ![](<.gitbook/assets/0 (26).jpeg>) **BUTTON**
+1. ![](<.gitbook/assets/0 (35).jpeg>) **BUTTON**
 
-![](<.gitbook/assets/1 (19).jpeg>)
+![](<.gitbook/assets/1 (30).jpeg>)
 
 Pressing this button will arm the system in away mode.
 
-1. ![](<.gitbook/assets/2 (18).jpeg>) **BUTTON**
+1. ![](<.gitbook/assets/2 (23).jpeg>) **BUTTON**
 
 Pressing and holding this button for three seconds will send a panic signal, regardless of system status (armed or disarmed). If the 3 seconds time is not reached, the Emergency activation will fail.
 
-1. ![](<.gitbook/assets/3 (17).jpeg>) **BUTTON**
+1. ![](<.gitbook/assets/3 (24).jpeg>) **BUTTON**
 
 Pressing this button will arm the system in home mode.
 
-1. ![](<.gitbook/assets/4 (17).jpeg>) **BUTTON**
+1. ![](<.gitbook/assets/4 (19).jpeg>) **BUTTON**
 
 Pressing this button will disarm the system. If the alarm is sounding, pressing this button will stop the alarm (except when the alarm was raised by presing the Remote Controller’s Panic button
 
@@ -43,7 +43,7 @@ _\<NOTE>_
   * _When a low voltage battery is inserted, the LED will flash 3 times to indicate low battery._
 * _**Getting Started**_
 
-![](<.gitbook/assets/5 (25).png>)
+![](<.gitbook/assets/5 (38).png>)
 
 * Remove the battery cover by using a coin to turn it counter-clockwise
 * Insert the battery as shown in the diagram, with the unmarked side (negative) of the battery facing down

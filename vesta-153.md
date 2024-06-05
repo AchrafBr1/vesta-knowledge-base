@@ -4,7 +4,7 @@
 
 * _**Identifying the Parts**_
 
-![](<.gitbook/assets/0 (55).jpeg>)
+![](<.gitbook/assets/0 (64).jpeg>)
 
 **-** Enter KP Pin Code +  Key to enter Test Mode
 
@@ -24,7 +24,7 @@
 | **7.**                       | **Disarm Key**                   | -press both 1 and 3 to trigger panic alarm          |   |
 |                              |                                  |                                                     |   |
 
-![](<.gitbook/assets/1 (50).png>) ![](<.gitbook/assets/2 (55).png>) ![](<.gitbook/assets/3 (55).png>)
+![](<.gitbook/assets/1 (61).png>) ![](<.gitbook/assets/2 (66).png>) ![](<.gitbook/assets/3 (65).png>)
 
 **14. Battery Insulator**
 
@@ -81,9 +81,9 @@ _**\<NOTE>**_
   * Upon completion of a command input, the power goes off and Remote keypad returns to **Stand-by** mode.
 * _**Test Mode**_
   * Remote keypad can be put into Test mode by entering the PIN code (default: **0000**) followed by ＊ key. The Active **Amber** LED goes on along with a long beep sounding.
-  * To exit Test mode, press ![](<.gitbook/assets/4 (55).png>) key **twice**, Remote keypad will sound a long beep and the Active LED will turn from **Amber** to Blue, it returns to **Stand-by** mode. Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to **Stand-by** mode.
+  * To exit Test mode, press ![](<.gitbook/assets/4 (66).png>) key **twice**, Remote keypad will sound a long beep and the Active LED will turn from **Amber** to Blue, it returns to **Stand-by** mode. Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to **Stand-by** mode.
 
-![](<.gitbook/assets/5 (55).png>)
+![](<.gitbook/assets/5 (68).png>)
 
 _**\<NOTE>**_
 
@@ -94,7 +94,7 @@ _**Under the Test mode, the following functions can be enabled:**_
 
 * Press ＊ key and then **1** key — to enter the NFC Learning mode. KPT-23N will emit one long beep and its LED 2’s
 
-![](<.gitbook/assets/6 (37).png>)
+![](<.gitbook/assets/6 (48).png>)
 
 red light will go on to indicate. (To exit the NFC Learning mode, press to return
 
@@ -106,11 +106,11 @@ to the Test mode.)
 * Press ＊ key and then **4** key — to enable Dual-key Medical Alarm function
 * Press ＊ key and then **6** key — to change the Pin Code
 * Press ＊ key and then **5** key — to disable all Dual Key function. (Default)
-* Press ![](<.gitbook/assets/7 (30).png>) key **twice** — to leave the Test Mode**.**
+* Press ![](<.gitbook/assets/7 (41).png>) key **twice** — to leave the Test Mode**.**
 * Press ＊ key and then **8** key — to enable Arm/ Home without PIN Code function
 * Press ＊ key and then **9** key — to enable Arm/ Home with PIN Code function(Code checked by panel) (Default)
 
-![](<.gitbook/assets/8 (33).png>)
+![](<.gitbook/assets/8 (44).png>)
 
 2
 
@@ -148,9 +148,9 @@ If the NFC learning period times out (exceeds 5 seconds), the Status LED will tu
 
 Step 5. To learn in another NFC label, please repeat steps 3-4.
 
-Step 6. Press ![](<.gitbook/assets/9 (34).png>) key to exit the NFC learning procedure.
+Step 6. Press ![](<.gitbook/assets/9 (48).png>) key to exit the NFC learning procedure.
 
-![](<.gitbook/assets/10 (33).png>)
+![](<.gitbook/assets/10 (41).png>)
 
 _**\<NOTE>**_
 
@@ -163,7 +163,7 @@ Step 1. Enable Remote keypad to enter a test mode first. Enter the PIN code (def
 
 Step 2. Press ＊ key and then **1** key to enter to the NFC label Learning mode. Enter the User
 
-![](<.gitbook/assets/11 (20).jpeg>)
+![](<.gitbook/assets/11 (21).jpeg>)
 
 Pin corresponding to the User Pin Code of the NFC label that you wish to clear and then press to clear the existing NFC label information. If clearing succeeds, KPT-23N will emit a long beep. If it fails, KPT-23N will emit 3 short beeps with Status Blue LED flash to indicate.
 
@@ -239,11 +239,11 @@ IV. Enter your new 4-digit code.
 *
   1. Press **#** key, remote keypad sounds a long beep. The new PIN code is enabled.
 
-Step 6.Press ![](<.gitbook/assets/12 (29).png>) key **twice** to leave Test mode and the installation is completed.
+Step 6.Press ![](<.gitbook/assets/12 (36).png>) key **twice** to leave Test mode and the installation is completed.
 
 * _**Mounting Remote Keypad**_
 
-![](<.gitbook/assets/13 (23).png>)
+![](<.gitbook/assets/13 (31).png>)
 
 To mount the remote keypad:
 
@@ -263,7 +263,7 @@ You may choose to arm/home arm with a Pin Code, with NFC label, or without a Pin
 
 In the Test mode, Pressing ＊ key and then **9** key can enable Arm/ Home with PIN Code function (**Default**)
 
-![](<.gitbook/assets/17 (16).png>) ![](<.gitbook/assets/18 (20).png>) ![](<.gitbook/assets/19 (21).png>)
+![](<.gitbook/assets/17 (21).png>) ![](<.gitbook/assets/18 (23).png>) ![](<.gitbook/assets/19 (24).png>)
 
 4
 

@@ -8,7 +8,7 @@ The PIR consists of a two-part design made up of a cover and a base. The PIR con
 
 The PIR has a tamper switch which will be activated when the cover is opened, or when it is removed from the mounted surface. It can also alert you to signal communication problems and low battery situations.
 
-* ![](<.gitbook/assets/0 (11).jpeg>)_**Identifying the Parts**_
+* ![](<.gitbook/assets/0 (20).jpeg>)_**Identifying the Parts**_
 
 1. **PIR Lens**
 2. **Learn / Test Button**
@@ -29,7 +29,7 @@ The Tamper switch protects the PIR from unauthorized cover opening or mounting s
 
 1. **Supervision Enable/Disable Jumper Switch (JP2)**
 
-![jumper close](<.gitbook/assets/1 (18).png>) ![jumper open](<.gitbook/assets/2 (21).png>)
+![jumper close](<.gitbook/assets/1 (29).png>) ![jumper open](<.gitbook/assets/2 (32).png>)
 
 **Jumper Off**
 
@@ -47,11 +47,11 @@ _(**868FM** & **869FM** & **F1** models **DO NOT** have JP2, supervision is alwa
 
 1. **Sensitivity Increaser Jumper Switch (JP3)**
 
-![jumper open](<.gitbook/assets/3 (20).png>)
+![jumper open](<.gitbook/assets/3 (30).png>)
 
 \- If the jumper is OFF (if the jumper link is removed or “parked” on one pin), the PIR’s detection sensitivity is in normal level. **(Factory default)**
 
-![jumper close](<.gitbook/assets/4 (19).png>)
+![jumper close](<.gitbook/assets/4 (30).png>)
 
 \- If the jumper is ON, the PIRs detection sensitivity is high.
 
@@ -104,7 +104,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 * _Mounting Methods_
 * The PIR is designed to be mounted on either a flat surface on a wall or on a ceiling with fixing screws and plugs provided.
 * If the mounted PIR is forcedly removed, the Tamper Breakaway Area will be left on the wall separated from the PIR, the tamper will then be triggered.
-* ![未命名-5](<.gitbook/assets/5 (5) (1).jpeg>)The base has two knockouts, where the plastic is thinner and can be broken for mounting purpose.
+* ![未命名-5](<.gitbook/assets/5 (13).jpeg>)The base has two knockouts, where the plastic is thinner and can be broken for mounting purpose.
 
 1. Remove the fixing screw and cover assembly.
 2. Break through the knockouts on the inside of base.
@@ -128,7 +128,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 
 **Vertical** **Horizontal**
 
-![](<.gitbook/assets/6 (8).png>) ![](<.gitbook/assets/7 (5) (1).png>)
+![](<.gitbook/assets/6 (19).png>) ![](<.gitbook/assets/7 (16).png>)
 
 **Ceiling Mount:**
 
@@ -137,7 +137,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 * When mounted at 2.4\~3 meter height and looking down, the PIR has coverage of about **5** meters at ground level.
 * Avoid mounting over 4 meters, which may affect detection performance.
 
-![](<.gitbook/assets/8 (5) (1).png>)
+![](<.gitbook/assets/8 (16).png>)
 
 * _Installation_
 * Decide on the location of the PIR if it is to be horizontal / vertical or ceiling mounted.

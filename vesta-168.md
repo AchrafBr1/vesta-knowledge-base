@@ -10,7 +10,7 @@ The Shutter Control Switch is a Z-Wave enabled device and is fully compatible wi
 
 Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be routed to their destination via intermediary “listening” Z-Wave products.
 
-![](<.gitbook/assets/0 (61).jpeg>)
+![](<.gitbook/assets/0 (70).jpeg>)
 
 **Device Introduction**
 
@@ -44,7 +44,7 @@ The Shutter Control Switch has successfully added into a Z-Wave network.
 
 **Features**
 
-![](<.gitbook/assets/1 (54).jpeg>)
+![](<.gitbook/assets/1 (65).jpeg>)
 
 * _**Battery and Low Battery Detection**_
 
@@ -52,13 +52,13 @@ The Shutter Control Switch uses two 1.5V AA Alkaline batteries as its power sour
 
 The Switch will report its battery percentage to the Control Panel respectively at 100%, 75%, 50%, 25%. If the battery voltage is low (25%), a Low Battery signal will be sent to the Control Panel to notify the user. The Shutter Control Switch features Low Battery Detection function. When the battery voltage is low, the Scenario Switch will transmit Low Battery signal to the Z-Wave coordinator.
 
-![](<.gitbook/assets/2 (58).png>)
+![](<.gitbook/assets/2 (69).png>)
 
 * _**Supervision**_
 
 This function uses the Z-Wave Wake Up Command Class. The Wake Up Command Class allows the battery-powered Switch to notify the Control Panel/Gateway that it is awake and ready to receive any queued commands. The wake up interval time period is programmed automatically according to Control Panel’s setting when the Switch is included. The recommended setting of the interval time is between 30 to 60 minutes.
 
-![](<.gitbook/assets/3 (58).png>)
+![](<.gitbook/assets/3 (68).png>)
 
 * _**Scenario and Shutter Control**_
 
@@ -70,7 +70,7 @@ control the open/close/stop function of the shutter to operate the shutter throu
 
 The switch will emit a beep as indication when the button is pressed.
 
-![](<.gitbook/assets/4 (57).png>)
+![](<.gitbook/assets/4 (68).png>)
 
 * _**Adding Device (Inclusion)**_
 
@@ -85,7 +85,7 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
   * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see _**Removing Device**_).
 * _**Removing Device (Exclusion)**_
 
-![](<.gitbook/assets/5 (56).png>)
+![](<.gitbook/assets/5 (69).png>)
 
 The device must be removed from existing Z-Wave network before being added into another. **Exclusion Mode**
 
@@ -100,7 +100,7 @@ Factory resetting the device will restore it to factory default settings (i.e. n
   * Press and hold the Function Button of the device for 10 seconds to factory reset.
 * _**Range Test**_
 
-![](<.gitbook/assets/6 (38).png>)
+![](<.gitbook/assets/6 (49).png>)
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
@@ -112,7 +112,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
   * The Shutter Control Switch will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the Shutter Control Switch.
   * To program the Shutter Control Switch using the Z-Wave Gateway/Control Panel, please send command(s) to the Shutter Control Switch within the wake-up period.
 
-![](<.gitbook/assets/7 (32).png>) ![](<.gitbook/assets/8 (29).jpeg>)
+![](<.gitbook/assets/7 (43).png>) ![](<.gitbook/assets/8 (36).jpeg>)
 
 **Installation**
 
@@ -124,7 +124,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
   4. Screw the base into the surface.
   5. Replace the cover back onto the base and secure it by tightening the fixing screw.
 
-![](<.gitbook/assets/9 (19).jpeg>)
+![](<.gitbook/assets/9 (22).jpeg>)
 
 2
 
@@ -160,7 +160,7 @@ Notification CC, v4
 
 Firmware Update CC, v2
 
-![](<.gitbook/assets/10 (34).png>)
+![](<.gitbook/assets/10 (42).png>)
 
 * _**Z-Wave’s Groups (Association Command Class Version 2)**_
 

@@ -24,7 +24,7 @@ The sensor serves as an end device in the ZigBee network. It can be included in 
    * Press once to send a signal to the coordinator.
    * Press and hold for 10 seconds to reset the device.
 
-![](<.gitbook/assets/0 (73).jpeg>)
+![](<.gitbook/assets/0 (82).jpeg>)
 
 **Features**
 
@@ -105,7 +105,7 @@ The sensor can be mounted using two methods: Self-adhesive or Screw mounting.
 2. Remove the protective covering from one side of double-sided adhesive pad and firmly apply to the back of the device.
 3. Remove the other covering and firmly place/press the device in the desired location.
 
-![](<.gitbook/assets/1 (65).jpeg>)
+![](<.gitbook/assets/1 (76).jpeg>)
 
 Do not use the Self-adhesive mounting method on poorly painted and/or rough surfaces.
 

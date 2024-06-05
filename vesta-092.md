@@ -6,7 +6,7 @@ VRCP-DECT is a Voice Extender that enables users to summon emergency help with v
 
 * _**Identifying the parts:**_
 
-![](<.gitbook/assets/0 (47).jpeg>)
+![](<.gitbook/assets/0 (56).jpeg>)
 
 1. **ALARM Button**
    *
@@ -60,7 +60,7 @@ The Voice Extender can be powered by either AC power or battery.
 * The voice recognition function has three sensitivity levels: high, medium, low. When sensitivity level is set to high, VRCP-DECT will most easily detect keyword/command and trigger alarm.
 * Please use a sharp tool to adjust the DIP Switch positions to set sensitivity level.
 
-![](<.gitbook/assets/1 (44).png>)
+![](<.gitbook/assets/1 (55).png>)
 
 |   |             | **DIP**     |     |   | **Search (Sensitivity Level)** |   |   |   |
 | - | ----------- | ----------- | --- | - | ------------------------------ | - | - | - |
@@ -76,7 +76,7 @@ The Voice Extender can be powered by either AC power or battery.
 |   | OFF         |             | ON  |   | High                           |   |   |   |
 |   |             |             |     |   |                                |   |   |   |
 
-![](<.gitbook/assets/2 (34).jpeg>)
+![](<.gitbook/assets/2 (39).jpeg>)
 
 _**\<NOTE>**_
 
@@ -109,7 +109,7 @@ _**\<NOTE>**_
 
 **Ways to Seek Help**
 
-![](<.gitbook/assets/3 (50).png>)
+![](<.gitbook/assets/3 (60).png>)
 
 **or**
 
@@ -118,7 +118,7 @@ _**\<NOTE>**_
 
 3
 
-![](<.gitbook/assets/4 (46).png>)
+![](<.gitbook/assets/4 (57).png>)
 
 _**\<NOTE>**_
 
@@ -137,7 +137,7 @@ _**\<NOTE>**_
 * This function of automatically picking up call and opening two-way communication is only available when AC power is connected to VRCP-DECT.
 * If AC power is disconnected from VRCP-DECT, DECT will be turned off, VRCP-DECT will not be able to pick up call, and two-way communication will be started with GX instead.
 
-![](<.gitbook/assets/5 (45).png>)
+![](<.gitbook/assets/5 (58).png>)
 
 4
 
@@ -158,12 +158,12 @@ Ensure VRCP-DECT is fitted at approximately chest height where the button can be
 3. Drill 2 holes and screw the bracket onto the wall.
 4. Connect a DC 9V 1A SPS power adapter to DC jack and keep the cable well-placed
 
-![](<.gitbook/assets/6 (31).jpeg>)
+![](<.gitbook/assets/6 (40).jpeg>)
 
 1. Fit VRCP-DECT onto the mounting bracket. Make sure the imprinted mark on VRCP-DECT must be aligned with the upper mark on the bracket.
 2. Rotate VRCP-DECT clockwise to the lock position.
 
-![](<.gitbook/assets/7 (27).jpeg>)
+![](<.gitbook/assets/7 (36).jpeg>)
 
 **Surface Placement**
 
@@ -178,6 +178,6 @@ The VRCP-DECT can be deployed on a flat surface without being installed at a fix
 
 **Picture 1** **Picture 2** **Picture 3**
 
-![](<.gitbook/assets/8 (29).png>)
+![](<.gitbook/assets/8 (40).png>)
 
 6

@@ -10,7 +10,7 @@ SRV-23B is an AC-powered indoor siren and doorbell chime with battery backup. Wi
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (20).jpeg>)
+![](<.gitbook/assets/0 (29).jpeg>)
 
 1. **Test Button/LED Indicator**
    * Press once to send a test/learn code.

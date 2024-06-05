@@ -25,7 +25,7 @@ flashes 3 times to factory reset.
 
 1. **LED indicator**
 
-![](<.gitbook/assets/0 (48).jpeg>)
+![](<.gitbook/assets/0 (57).jpeg>)
 
 The LED indicator is used to indicate Shutter Control status:
 
@@ -74,7 +74,7 @@ The Wiring Buckle is used for managing wires.
 * Power Supply: 100 - 240VAC, 50/60Hz
 * Supported Load Current: 1/2 HP (Horse power); 3.6Amps for motors with compensated power factor (inductive loads)
 
-![](<.gitbook/assets/1 (40).jpeg>)
+![](<.gitbook/assets/1 (51).jpeg>)
 
 **Caution**
 
@@ -87,7 +87,7 @@ The Wiring Buckle is used for managing wires.
 
 * SCM-8 should be connected according to the diagram below:
 
-![](<.gitbook/assets/2 (35).jpeg>)
+![](<.gitbook/assets/2 (40).jpeg>)
 
 *
   * Connect N terminal of SCM to the N terminal of Power Supply.
@@ -98,7 +98,7 @@ The Wiring Buckle is used for managing wires.
 * Insert each wire into the terminal that it should be connected to, tighten each screw to close the clippers and hold the wires in place.
 * After the wires are connected, use the wiring buckle to manage the wires, and place the wiring buckle on the base with its gap (opening) positioned on the left.
 
-![](<.gitbook/assets/3 (32).jpeg>)
+![](<.gitbook/assets/3 (39).jpeg>)
 
 2
 
@@ -176,7 +176,7 @@ After calibration, whenever the Shutter Control receives close request, it will 
 * The Shutter status can also be adjusted by percentage from 0%, 10%, 20%... to 100% through the Control Panel Webpage.
 * The current open percentage is also transmitted to the Control Panel.
 
-![](<.gitbook/assets/4 (48).png>)
+![](<.gitbook/assets/4 (59).png>)
 
 **Local Switch**
 

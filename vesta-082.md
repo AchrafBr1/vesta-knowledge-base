@@ -6,7 +6,7 @@ WADC-1 is a door contact that combines PIR sensors to monitor openings of the do
 
 WADC-1 has two adjustable sensitivity levels that further offer convenience for usages. When mounted at a height of 2.1\~2.3 meters above the ground, the PIR sensors each has the coverage pattern of 3 x 1 meters at ground level.
 
-![](<.gitbook/assets/0 (37).png>)
+![](<.gitbook/assets/0 (50).png>)
 
 * _**Identifying the Parts**_
 
@@ -24,17 +24,17 @@ Press the Test button to transmit learning code or enter test mode for 3 minutes
 
 **4. Sensitivity Increaser Jumper Switch (JP3)**
 
-![](<.gitbook/assets/1 (38).jpeg>)
+![](<.gitbook/assets/1 (49).jpeg>)
 
 **Jumper On**
 
-![](<.gitbook/assets/2 (51).png>)
+![](<.gitbook/assets/2 (62).png>)
 
 The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-![](<.gitbook/assets/3 (30).jpeg>)
+![](<.gitbook/assets/3 (37).jpeg>)
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -44,17 +44,17 @@ The jumper link is removed or “**parked**” on one pin.
 
 1. **Single / Multiple-Sensor Setting Jumper Switch (JP4)**
 
-![](<.gitbook/assets/4 (33).jpeg>)
+![](<.gitbook/assets/4 (35).jpeg>)
 
 **Jumper On**
 
-![](<.gitbook/assets/5 (42).png>)
+![](<.gitbook/assets/5 (55).png>)
 
 The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-![](<.gitbook/assets/6 (29).jpeg>)
+![](<.gitbook/assets/6 (38).jpeg>)
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -64,7 +64,7 @@ The jumper link is removed or “**parked**” on one pin.
 
 1. **Door Open Direction Jumper Switch (JP5)**
 
-![](<.gitbook/assets/7 (23).png>)
+![](<.gitbook/assets/7 (34).png>)
 
 **Jumper On**
 
@@ -74,7 +74,7 @@ Ensure JP5 is set to ON for the setting to be effective.
 
 **Jumper Off**
 
-![](<.gitbook/assets/8 (27).png>)
+![](<.gitbook/assets/8 (38).png>)
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -97,17 +97,17 @@ When WADC-1 is mounted in place, the tamper switch will be activated when the co
     * If the Control Panel fails to receive the supervisory signals transmitted from a certain device for a preset time, an “Out-Of-Order” fault message will be generated.
 * _**Sensitivity Increaser Function (JP3)**_
 
-![](<.gitbook/assets/9 (13).jpeg>) ![](<.gitbook/assets/10 (14).jpeg>)
+![](<.gitbook/assets/9 (16).jpeg>) ![](<.gitbook/assets/10 (16).jpeg>)
 
 You can use the sensitivity increaser function to increase the PIR sensors’ detection sensitivity. To increase detection sensitivity, connect the Jumper Switch (JP3) to set to the **ON** position. To maintain normal detection sensitivity, disconnect the Jumper Switch (JP3) to set to the **OFF** position (Factory default).
 
-![](<.gitbook/assets/11 (17).jpeg>)
+![](<.gitbook/assets/11 (18).jpeg>)
 
 * _**Single / Multiple-Sensor Setting Function (JP4)**_
 
 You can use the Jumper Switch (JP4) to decide whether to recognize the device as a single sensor or multiple sensors after the device is learned into the Control Panel. If the Jumper Switch (JP4) is set to ON, WADC-1 will be recognized as 1 sensor. Whenever a movement is detected, the LED will flash. If the Jumper Switch is set to OFF, WADC-1 will be recognized as 3 separate sensors (PIR Zone 1 Sensor, PIR Zone 2 Sensor, and the Door Contact).
 
-![](<.gitbook/assets/12 (23).png>)
+![](<.gitbook/assets/12 (30).png>)
 
 _\<NOTE>_
 
@@ -115,13 +115,13 @@ _\<NOTE>_
   * Everytime before chaning the setting of JP4, ensure to remove the battery first. Press the Test Button for several times, change to desired jumper setting, and insert the battery back. The changes will be effective after battery power is provided to the device.
 * _**Door Open Direction Detection (JP5)**_
 
-![](<.gitbook/assets/13 (16).jpeg>)
+![](<.gitbook/assets/13 (17).jpeg>)
 
 You can use the jumper switch to set the open direction of your door. For the setting to be effective, ensure to set JP4 to ON first. If the door where the magnet is installed is designed to be opened outward, set the Jumper Switch (JP5) to OFF.
 
 If the door is designed to be opened inward, set the Jumper Switch (JP5) to ON.
 
-![](<.gitbook/assets/14 (17).jpeg>)
+![](<.gitbook/assets/14 (19).jpeg>)
 
 * _**Test Mode**_
   * Under Normal Mode, pressing the Test Button will transmit a test signal to the Control Panel for radio range test, and WADC-1 will enter Test Mode for 3 minutes. It will exit Test Mode automatically after 3 minutes and return to normal mode.

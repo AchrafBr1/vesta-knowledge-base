@@ -26,7 +26,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 | VST-862P-IL-(P5) |               | V                | V              | P5 model only       |
 |                  |               |                  |                |                     |
 
-![](<.gitbook/assets/0 (21).jpeg>)
+![](<.gitbook/assets/0 (30).jpeg>)
 
 **Parts Identification**
 
@@ -54,11 +54,11 @@ The Flash LED (For 862(P)) or Infrared LED (For 862(P)-IL) delivers sufficient l
 5. **Battery Compartment**
 6. **Sensitivity Adjustment Jumper Switch (JP3)**
 
-![](<.gitbook/assets/1 (29).png>)
+![](<.gitbook/assets/1 (40).png>)
 
 **Jumper On** **Jumper Off**
 
-![](<.gitbook/assets/2 (12).jpeg>)
+![](<.gitbook/assets/2 (17).jpeg>)
 
 The jumper link is inserted connecting the two pins.
 
@@ -72,11 +72,11 @@ or “**parked**” on one pin.
 
 1. **Sleep Timer Jumper Switch (JP2)**
 
-![](<.gitbook/assets/3 (30).png>)
+![](<.gitbook/assets/3 (40).png>)
 
 **Jumper On**
 
-![](<.gitbook/assets/4 (13).jpeg>)
+![](<.gitbook/assets/4 (15).jpeg>)
 
 The jumper link is inserted connecting the two pins.
 
@@ -93,7 +93,7 @@ or “**parked**” on one pin.
 
 **Features**
 
-![](<.gitbook/assets/5 (22).png>)
+![](<.gitbook/assets/5 (35).png>)
 
 * _**LED Indicator**_
 
@@ -108,11 +108,11 @@ In Normal operation mode, the Blue LED will not light except in the following si
   * When the PIR Camera is transmitting captured images under fault conditions (low battery, tamper switch activated), the Blue LED will continuous flash.
 * _**Image Capture**_
 
-![](<.gitbook/assets/6 (13).png>)
+![](<.gitbook/assets/6 (24).png>)
 
 When the alarm system is armed, the PIR Camera will capture 1, 3 or 6 alarm images in 640 x 480 or 320 x 240 resolutions (programmable from Control Panel) upon movement detection. You can also manually request the PIR Camera to take a picture through the Control Panel. The captured images will be transferred to the Control Panel for users to view.
 
-![](<.gitbook/assets/7 (10).png>)
+![](<.gitbook/assets/7 (21).png>)
 
 _\<NOTE>_
 
@@ -120,17 +120,17 @@ _\<NOTE>_
   * If your PIR Camera is installed at a location where the camera’s field of view is a complex environment with intense light or lots of colors, the images captured will be great in file size, possibly leading to truncation when the images are transmitted to the Control Panel.
 * _**Warm Up Period**_
 
-![](<.gitbook/assets/8 (12).png>)
+![](<.gitbook/assets/8 (23).png>)
 
 When the Control Panel system enters arm mode, or when PIR Camera is put into Test Mode, the PIR Camera will warm up for 30 seconds. During the 30-second warm up period, the PIR Camera will not be activated. The Blue LED will slow flash during the warm up period only when PIR enters for Test Mode.
 
-![](<.gitbook/assets/9 (13).png>)
+![](<.gitbook/assets/9 (27).png>)
 
 * _**Sleep Timer**_
 
 When **Jumper Switch 2** is set to Off, the PIR Camera has a “**sleep time**” of approximately 1 minute to conserve power. After transmitting for a detected movement, the PIR Camera will not retransmit for 1 minute. Any detected movement during this period will reset the sleep time to 1 minute. Continuous movement in front of the PIR Camera will therefore not exhaust the battery.
 
-![](<.gitbook/assets/10 (3).jpeg>)
+![](<.gitbook/assets/10 (5).jpeg>)
 
 * _**Battery and Low Battery Detection**_
 
@@ -140,19 +140,19 @@ The PIR Camera features Low Battery Detection function. When the battery voltage
 
 When changing battery, after removing the old battery, press the Tamper Switch or the Function Button twice to fully discharge before inserting new batteries
 
-![](<.gitbook/assets/11 (8).png>)
+![](<.gitbook/assets/11 (16).png>)
 
 * _**Tamper Protection**_
 
 The PIR Camera is protected by a tamper switch which is compressed when the PIR Camera is properly installed. When the PIR Camera is removed from mounted surface or its cover opened, the tamper switch will be activated and the PIR Camera will send a tamper open signal to the system control panel to remind the user of the condition. If movement is detected when the tamper switch is open, the Blue LED will flash for 2 seconds.
 
-![](<.gitbook/assets/12 (11).png>)
+![](<.gitbook/assets/12 (18).png>)
 
 * _**Supervision**_
 
 The PIR Camera will conduct a Self-test Periodically by transmitting a supervisory signal once every 90 to 110 minutes.
 
-![](<.gitbook/assets/13 (9).png>)
+![](<.gitbook/assets/13 (17).png>)
 
 * _**Test Mode**_
   * Test mode is for you to check the PIR camera’s detection range (not shooting coverage).
@@ -164,7 +164,7 @@ The PIR Camera will conduct a Self-test Periodically by transmitting a superviso
   * Put the Control Panel into learning mode, refer to Control Panel manual for details.
   * Press and hold the function button for 3 seconds, release the button when the Blue LED lights up. (For
 
-![](<.gitbook/assets/14 (5).jpeg>)
+![](<.gitbook/assets/14 (7).jpeg>)
 
 2
 
@@ -174,7 +174,7 @@ battery-operated panel, after pressing and holding the function button for 3 sec
 
 process.
 
-![](<.gitbook/assets/15 (7).png>)
+![](<.gitbook/assets/15 (15).png>)
 
 _\<NOTE>_
 
@@ -191,7 +191,7 @@ _\<NOTE>_
     1. Use the panel Edit Device function to change PIR Camera area setting.
     2. Press and hold the function button for 3 seconds on the PIR Camera to send a signal to the panel, and then release the button when the LED lights up. (For battery-operated panel, after pressing and holding the function button for 3 seconds, please press the function button **again** for one second to send a signal.)
 
-![](<.gitbook/assets/16 (1).jpeg>) ![](<.gitbook/assets/17 (7).png>)
+![](<.gitbook/assets/16 (1).jpeg>) ![](<.gitbook/assets/17 (12).png>)
 
 **Installation**
 
@@ -234,7 +234,7 @@ _\<NOTE>_
 |   | detection area, i.e. air conditioner, heaters, etc. |   | alarm.                                           |
 |   |                                                     |   |                                                  |
 
-![](<.gitbook/assets/20 (7).png>)
+![](<.gitbook/assets/20 (11).png>)
 
 * **Be sure to always remain the RSSI signal strength steady at “4”.**
 

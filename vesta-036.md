@@ -14,7 +14,7 @@ In addition, the adjustable Detection Range gives the effective match for every 
 
 **Front View** **Inside View** **Back View**
 
-![](<.gitbook/assets/0 (32).png>)
+![](<.gitbook/assets/0 (45).png>)
 
 1. **Digital Proximity Detector**
 
@@ -132,7 +132,7 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 |   |         |   |     |          |                                |                               |          |   |   |
 |   |         |   |     |          |                                |                               |          |   |   |
 
-![](<.gitbook/assets/1 (36).png>)
+![](<.gitbook/assets/1 (47).png>)
 
 |   |         | DIP |     |          | Sensitivity Level    |                               |          |   |   |
 | - | ------- | --- | --- | -------- | -------------------- | ----------------------------- | -------- | - | - |
@@ -151,11 +151,11 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 |   |         |     | OFF |          | Pet Immune Disable   |                               |          |   |   |
 |   |         |     |     |          |                      |                               |          |   |   |
 
-![](<.gitbook/assets/2 (42).png>)
+![](<.gitbook/assets/2 (53).png>)
 
 ON
 
-![](<.gitbook/assets/3 (40).png>)
+![](<.gitbook/assets/3 (50).png>)
 
 OFF
 
@@ -198,24 +198,24 @@ _\<NOTE>_
         3. Mount EIR-32 with the hooks of the mounting plate latched on the back cover of the EIR-32, and then push downwards until you hear a click sound to lock the hook.
         4. Insert the protective shield (the protective film from both sides must first be removed).
 
-![](<.gitbook/assets/4 (26).jpeg>) ![](<.gitbook/assets/5 (34).png>)
+![](<.gitbook/assets/4 (28).jpeg>) ![](<.gitbook/assets/5 (47).png>)
 
 3
 
 * **Mounting with mounting plate and rotating holder (Optional):**
   * A rotating holder is provided as a user friendly mounting option **(optional item, sold separately)**. It is comprised of a base to fix to surface, and a swivel ball to fix to mounting plate and EIR-32.
 
-![](<.gitbook/assets/6 (23).jpeg>)
+![](<.gitbook/assets/6 (32).jpeg>)
 
 * With the rotating holder, the EIR-32 can be rotated horizontally to provide optimal coverage.
 
 A special screwdriver with reversible double-sided bit, and three star socket screws are provided for fixing the rotating holder to the wall.
 
-![](<.gitbook/assets/7 (18).png>)
+![](<.gitbook/assets/7 (29).png>)
 
 Please use the provided screwdriver to tighten/loosen star socket screws.
 
-![](<.gitbook/assets/8 (21).png>)
+![](<.gitbook/assets/8 (32).png>)
 
 * To mount EIR-32 with mounting plate and rotating holder:
   1. Fix the rotating holder to the wall with provided screws.
@@ -223,14 +223,14 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
   3. Mount EIR-32 with the hooks of the mounting plate latched on the back cover of the EIR-32, and then push downwards until you hear a click sound to lock the hook.
   4. Insert the protective shield (the protective film from both sides must first be removed).
 
-![](<.gitbook/assets/9 (20).png>)
+![](<.gitbook/assets/9 (34).png>)
 
 4
 
 1. Rotate the swivel ball horizontally to adjust EIR-32’s detecting angle. (When the angle adjusting screw is half loosen, the swivel ball can still be rotated.)
 2. When EIR-32 is rotated to a positon with desired detection coverage, you can lock the position by firmly tightening the angle adjusting screw.
 
-![](<.gitbook/assets/10 (10).jpeg>)
+![](<.gitbook/assets/10 (12).jpeg>)
 
 _\<NOTE>_
 
@@ -240,7 +240,7 @@ _\<NOTE>_
 
 **It is recommended to install the Motion Sensor in the following locations:**
 
-![](<.gitbook/assets/11 (14).png>)
+![](<.gitbook/assets/11 (22).png>)
 
 * At a height of 2 meters (measured from the bottom of the motion sensor) above the ground for best performance.
 * In a corner for the widest view.
@@ -256,17 +256,17 @@ _\<NOTE>_
 * Never attempt to disassemble or modify the unit.
 * Please install the Motion Sensor straight up. Do not tilt it.
 
-![](<.gitbook/assets/12 (11).jpeg>)
+![](<.gitbook/assets/12 (13).jpeg>)
 
 * Do not install the motion sensor where objects moved by wind such as trees and laundry, which may block the motion sensor’s field of view.
 
-![](<.gitbook/assets/13 (11).jpeg>)
+![](<.gitbook/assets/13 (12).jpeg>)
 
 5
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-![](<.gitbook/assets/14 (12).jpeg>)
+![](<.gitbook/assets/14 (14).jpeg>)
 
 * Avoid aiming at the path of outdoor unit’s intake or exhaust airflow.
 

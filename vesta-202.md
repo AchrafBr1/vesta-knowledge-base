@@ -22,7 +22,7 @@ IR-29SL / IR-29SL-F1 – PIR sensor with lithium battery.
 
 IRP-29SL / IRP-29SL-F1 – Pet Immune PIR sensor with lithium battery
 
-![](<.gitbook/assets/0 (53).png>) ![](<.gitbook/assets/1 (72).jpeg>)
+![](<.gitbook/assets/0 (66).png>) ![](<.gitbook/assets/1 (83).jpeg>)
 
 * _**Identifying the Parts**_
 
@@ -37,15 +37,15 @@ The LED indicator is used to indicate the status of system.
 
 1. **Supervision Enable/Disable Jumper Switch (JP2)**
 
-![](<.gitbook/assets/2 (67).jpeg>)
+![](<.gitbook/assets/2 (72).jpeg>)
 
 **Jumper On**
 
-![](<.gitbook/assets/3 (68).png>)
+![](<.gitbook/assets/3 (78).png>)
 
 **Jumper Off**
 
-![](<.gitbook/assets/4 (57).jpeg>)
+![](<.gitbook/assets/4 (59).jpeg>)
 
 The jumper link is inserted
 
@@ -74,7 +74,7 @@ on one pin.
 
 The Tamper switch protects the PIR from unauthorized cover opening.
 
-![](<.gitbook/assets/5 (68).png>)
+![](<.gitbook/assets/5 (81).png>)
 
 * _**Sleep Timer**_
 
@@ -82,7 +82,7 @@ The PIR has a “**sleep time**” of approximately 1 minute to conserve power. 
 
 movement, the PIR will not retransmit for 1 minute; any further movement detected during this sleep period will extend the sleep time by another minute. In this way continuous movement in front of a PIR will not unduly exhaust the battery.
 
-![](<.gitbook/assets/6 (47).jpeg>)
+![](<.gitbook/assets/6 (56).jpeg>)
 
 * _**Supervision Function**_
 
@@ -90,19 +90,19 @@ If enabled (see table above), when the PIR is in Normal operation mode it will c
 
 If the Control Panel fails to receive the Supervisory signals transmitted from a certain PIR for a preset time, an “**Out-Of-Orde**r” fault message will be generated.
 
-![](<.gitbook/assets/7 (43).png>)
+![](<.gitbook/assets/7 (54).png>)
 
 * _**Sensitivity Increaser Function**_
 
 You can use the sensitivity increaser function to increase the PIR’s detection sensitivity. To increase detection sensitivity, connect the Jumper Switch (JP3), or the **ON** position (Factory default for Pet-Immune models). To maintain normal detection sensitivity, disconnect the Jumper Switch (JP3), or the **OFF** position (Factory default for non-Pet-Immune models).
 
-![](<.gitbook/assets/8 (43).png>)
+![](<.gitbook/assets/8 (54).png>)
 
 * _**Test Mode**_
 
 The PIR can be put into Test mode by pressing the Test Button on the front cover. In Test mode, it will disable the sleep timer and will enable the LED indicator to flash every time a movement is detected. Every time the Test Button is pressed, the PIR will transmit a test signal to the Control Panel for radio range test and enter the test mode for 3 mins. Test Mode will time out after 3 minutes..
 
-![](<.gitbook/assets/9 (31).jpeg>)
+![](<.gitbook/assets/9 (34).jpeg>)
 
 * _**LED Indicator**_
 
@@ -116,7 +116,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
   * When the Test Button is pressed under tamper condition or if PIR is under low battery.
 * _**Battery**_
 
-![](<.gitbook/assets/10 (23).jpeg>)
+![](<.gitbook/assets/10 (25).jpeg>)
 
 IR-29 Series PIR Motions sensor uses with alkaline or lithium batteries as power source:
 
@@ -129,7 +129,7 @@ The PIR features low battery detection function. If low battery voltage is detec
 
 For each installation, the battery is installed in by the factory before shipment with an Insulator inserted.
 
-![](<.gitbook/assets/11 (33).png>)
+![](<.gitbook/assets/11 (41).png>)
 
 _\<NOTE>_
 
@@ -154,7 +154,7 @@ _\<NOTE>_
 
 I.Break through the four corner knockouts.
 
-![](<.gitbook/assets/12 (22).jpeg>) ![](<.gitbook/assets/13 (26).jpeg>) ![](<.gitbook/assets/14 (22).jpeg>)
+![](<.gitbook/assets/12 (24).jpeg>) ![](<.gitbook/assets/13 (27).jpeg>) ![](<.gitbook/assets/14 (24).jpeg>)
 
 1. Using the four holes as a template, drill holes in the surface of the corner
 2. Insert the wall plugs
@@ -167,7 +167,7 @@ IV. Screw the base into the wall plug.
 
 The triangular bracket can be mounted on the wall with provides screws or double-sided adhesive pads.
 
-![](<.gitbook/assets/15 (25).png>) ![](<.gitbook/assets/16 (15).jpeg>)
+![](<.gitbook/assets/15 (33).png>) ![](<.gitbook/assets/16 (15).jpeg>)
 
 Screw Mounting
 
@@ -177,7 +177,7 @@ Screw Mounting
 
 IV. Fit the PIR onto the hooks of the triangular bracket. Self-adhesive Mounting
 
-![](<.gitbook/assets/17 (21).png>)
+![](<.gitbook/assets/17 (26).png>)
 
 1. The mounting corner should be clean, dry, and smooth. Clean the mounting corner with a suitable degreaser if needed.
 2. Two double-sided adhesive pads are attached on the triangular bracket before shipment.

@@ -16,11 +16,11 @@ The WEPC-1 Series Programmable Output Expansion Module is designed to provide pr
 
 **Front View** **Back View**
 
-![](<.gitbook/assets/0 (18).jpeg>)
+![](<.gitbook/assets/0 (27).jpeg>)
 
 **Internal View**
 
-![](<.gitbook/assets/1 (12).jpeg>)
+![](<.gitbook/assets/1 (23).jpeg>)
 
 1
 
@@ -58,7 +58,7 @@ When the Expansion Module is connected as the furthest BUS device on a BUS line,
 
 * Turn the jumper to OFF by removing the jumper link or “parking” the jumper link on one pin.
 
-![](<.gitbook/assets/2 (34).png>)
+![](<.gitbook/assets/2 (45).png>)
 
 \- Turn the jumper to ON by resting the jumper link on both pins.
 
@@ -127,11 +127,11 @@ WEPC-1Series has two Tamper Switches; each comes with a different function.
 
 * The following diagram shows how WEPC-1 is connected to and powered by the Hybrid Panel.
 
-![](<.gitbook/assets/3 (11).jpeg>)
+![](<.gitbook/assets/3 (18).jpeg>)
 
 * The following is the connection of WEPC-1B to the Hybrid Panel, with WEPC-1B being powered by the external power source.
 
-![](<.gitbook/assets/4 (11).jpeg>)
+![](<.gitbook/assets/4 (13).jpeg>)
 
 4
 
@@ -186,7 +186,7 @@ To locate the Programmable Output Expansion Module in the BUS system:
 
 **Step 1.** On Hybrid Panel’s webpage, click “Identify” under the device list after the Expander’s device column entry.
 
-![](<.gitbook/assets/5 (21).png>)
+![](<.gitbook/assets/5 (34).png>)
 
 5
 
@@ -220,11 +220,11 @@ Please check whether WEPC-1(B) is connected properly to the Panel within appropr
 
 **Default Setting** **Setting by Programming Page**
 
-![](<.gitbook/assets/6 (11).jpeg>) ![](<.gitbook/assets/7 (10).jpeg>)
+![](<.gitbook/assets/6 (20).jpeg>) ![](<.gitbook/assets/7 (19).jpeg>)
 
 **How to Mount the Programmable Output Expansion Module**
 
-![](<.gitbook/assets/8 (8).jpeg>)
+![](<.gitbook/assets/8 (15).jpeg>)
 
 The Programmable Output Expansion Module can be mounted on the wall as the steps below:
 

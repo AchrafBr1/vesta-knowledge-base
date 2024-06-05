@@ -25,7 +25,7 @@ The Door Contact design is consisted of a front cover and a back cover. The fron
 
 **Identifying the parts**
 
-![](<.gitbook/assets/0 (7) (1).png>)
+![](<.gitbook/assets/0 (20).png>)
 
 1. **Rib Marks**
 2. **Battery Insulator**
@@ -68,7 +68,7 @@ In Normal operation mode, the LED indicator remains off except in the following 
 
 The MDC-3 uses one **3V CR2450 Lithium battery** as its power source
 
-![](<.gitbook/assets/1 (10).jpeg>)The Door Contact is also capable of detecting low battery. When the battery is low, a low battery signal will be sent to the Control Panel along with regular transmission. The LED will light up when the Door Contact is activated under low battery status.
+![](<.gitbook/assets/1 (11).jpeg>)The Door Contact is also capable of detecting low battery. When the battery is low, a low battery signal will be sent to the Control Panel along with regular transmission. The LED will light up when the Door Contact is activated under low battery status.
 
 * **Changing Battery**
 
@@ -110,9 +110,9 @@ Step 2. Push the flat-headed screwdriver upwards as (**Pic2**).
 
 Step 3. Turn to the other side and repeat Step 1 and Step 2.
 
-| <img src=".gitbook/assets/2 (9).png" alt="" data-size="original"> | <img src=".gitbook/assets/3 (10).jpeg" alt="" data-size="original"> |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------- |
-| (Pic 1)                                                           | (Pic 2)                                                             |
+| <img src=".gitbook/assets/2 (20).png" alt="" data-size="original"> | <img src=".gitbook/assets/3 (11).jpeg" alt="" data-size="original"> |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| (Pic 1)                                                            | (Pic 2)                                                             |
 
 Step 4. Once opened the cover, you can proceed to change the battery etc.
 
@@ -148,7 +148,7 @@ To mount the Door Contact:
 5. Screw the back cover into the wall plug using a Philips screwdriver.
 6. Attach the front cover to the back cover (see **Pic 3 \~ 5** above).
 
-* ![](<.gitbook/assets/7 (2) (1).jpeg>)**Velcro tape Mounting:**
+* ![](<.gitbook/assets/7 (11).jpeg>)**Velcro tape Mounting:**
 
 The Door Contact can be wall mounted using Velcro tape provided.
 
@@ -157,7 +157,7 @@ The Door Contact can be wall mounted using Velcro tape provided.
 3. Remove the protective cover of the Hook side and attach to the back of the Door Contact. Press firmly for 30 seconds to ensure good contact. (**Pic 6.**)
 4. Remove the protective cover of the Loop side and apply to desired mounting location as in (**Pic 7.**) Press firmly for 30 seconds to ensure good contact.
 
-![](<.gitbook/assets/8 (2) (1).jpeg>) ![](<.gitbook/assets/9 (3).jpeg>)
+![](<.gitbook/assets/8 (11).jpeg>) ![](<.gitbook/assets/9 (4).jpeg>)
 
 Hooks
 
@@ -165,9 +165,9 @@ Loops
 
 (**Pic 6.**) (**Pic 7.**)
 
-1. ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (1) (1).jpeg>)Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
+1. ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (2).jpeg>)Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
 
-![](<.gitbook/assets/11 (6).jpeg>) ![](<.gitbook/assets/12 (10).png>)
+![](<.gitbook/assets/11 (6).jpeg>) ![](<.gitbook/assets/12 (14).png>)
 
 (**Pic 8.**) (**Pic 9.**)
 
@@ -190,7 +190,7 @@ To mount the Magnet:
   2. Screw the back cover into the door/window using a Philips screwdriver. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
   3. Attach the front cover to the back cover. If the front cover is stabilized onto the back cover, you should hear a Click sound.
 
-![](<.gitbook/assets/15 (6).png>)
+![](<.gitbook/assets/15 (11).png>)
 
 * **Adhesive Mounting**
 
@@ -200,7 +200,7 @@ The Magnet can also be mounted using the double-sided adhesive tape pad or the d
 2. Remove the protective covering from one side of the double-sided adhesive pad or the double-sided adhesive Magnet Spacer. Apply to the back of the Magnet and press firmly for 30 seconds to ensure good contact.
 3. Remove the other cover and firmly press the Magnet onto the desired location for 30 seconds..
 
-![](<.gitbook/assets/16 (9).png>)
+![](<.gitbook/assets/16 (14).png>)
 
 \<Note>
 

@@ -1,6 +1,6 @@
 # VESTA 221
 
-![](<.gitbook/assets/0 (91).jpeg>)**SD-29 Smoke Detector Series**
+![](<.gitbook/assets/0 (100).jpeg>)**SD-29 Smoke Detector Series**
 
 SD-29 Series is a wireless smoke detector with built-in PIR motion sensor and heat detection capability. Designed to protect your family against potential fire hazards, the Smoke detector is also capable of detecting movements and reporting temperature to users. The Smoke Detector can be interconnected with other Smoke Detectors in the alarm system and will raise alarm when any Smoke Detector in the system is triggered **(SD-29-HME-SC only)**.
 
@@ -18,7 +18,7 @@ The Smoke Detector includes the following models:
 | SD-29-HME-SC | O              | O                 | O               | O               |
 |              |                |                   |                 |                 |
 
-![](<.gitbook/assets/1 (66).png>)
+![](<.gitbook/assets/1 (77).png>)
 
 _**Parts Identification**_
 
@@ -69,7 +69,7 @@ The Hooks of the Mounting Bracket can hook into this Mounting Hole.
 
 **Features**
 
-![](<.gitbook/assets/2 (71).png>)
+![](<.gitbook/assets/2 (82).png>)
 
 * _**Battery**_
   * Three CR123 3V Lithium batteries are used to supply power to the Smoke Detector.
@@ -77,7 +77,7 @@ The Hooks of the Mounting Bracket can hook into this Mounting Hole.
   * When the Smoke Detector is low on battery, a low battery signal will be transmitted along with regular signal transmissions. The Orange LED will flash with accompanying low-volume beep once every 45 seconds.
   * The Red and Orange LED will flash once every 4 seconds when the battery is exhausted.
 
-![](<.gitbook/assets/3 (72).png>)
+![](<.gitbook/assets/3 (82).png>)
 
 _\<NOTE>_
 
@@ -85,7 +85,7 @@ _\<NOTE>_
   * When changing the battery, after removing the old battery, press the Test Button twice to fully discharge before inserting new battery.
 * _**Getting Started**_
 
-![](<.gitbook/assets/4 (76).png>)
+![](<.gitbook/assets/4 (87).png>)
 
 **Step 1.** Put Control Panel into learning mode. Refer to Control Panel manual for details.
 
@@ -110,7 +110,7 @@ If the Control Panel receives the signal, the Smoke Detector will emit a 2-tone 
 
 **Step 6.** When calibration is completed, the Smoke Detector will emit 2 short beeps and turn off LED to return to normal mode. If the Smoke Detector is not learnt into panel previously, press the Learn/Test button now to complete learning.
 
-![](<.gitbook/assets/5 (77).png>)
+![](<.gitbook/assets/5 (90).png>)
 
 * _**Testing the Smoke Detector**_
 
@@ -128,7 +128,7 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
   * Users can also press the Test Button once to transmit current temperature reading manually.
 * _**Alarm Activation**_
 
-![](<.gitbook/assets/6 (56).png>) ![](<.gitbook/assets/7 (51).png>) ![](<.gitbook/assets/8 (52).png>) ![](<.gitbook/assets/9 (47).png>)
+![](<.gitbook/assets/6 (67).png>) ![](<.gitbook/assets/7 (62).png>) ![](<.gitbook/assets/8 (63).png>) ![](<.gitbook/assets/9 (61).png>)
 
 The Smoke Detector will activate fire alarm when either of its smoke detection or high heat detection function is triggered. When an alarm is activated, the Smoke Detector will transmit alarm signal and raise alarm with its built-in buzzer.
 
@@ -155,7 +155,7 @@ The Smoke Detector will activate fire alarm when either of its smoke detection o
 
 buzzer will not sound and the LED will not flash. Please refer to your Control Panel for details.
 
-![](<.gitbook/assets/10 (49).png>)
+![](<.gitbook/assets/10 (57).png>)
 
 * _**Emergency Light (SD-29-HME only)**_
   * The Smoke Detector has a built-in emergency light that can provide visual alerts in case of emergency. When the Smoke Detector is activated, the emergency light will begin to flash slowly to indicate the system is alarming.
@@ -171,7 +171,7 @@ buzzer will not sound and the LED will not flash. Please refer to your Control P
   * If smoke concentration continues to rise during Alarm Silence period and exceeds a second alarm threshold, the Smoke Detector will start alarming again. An alarm activated by exceeding the second alarm threshold could not be silenced by pressing the test button.
 * _**Recalibration**_
 
-![](<.gitbook/assets/11 (26).jpeg>) ![](<.gitbook/assets/12 (41).png>) ![](<.gitbook/assets/13 (31).png>)
+![](<.gitbook/assets/11 (27).jpeg>) ![](<.gitbook/assets/12 (48).png>) ![](<.gitbook/assets/13 (39).png>)
 
 As the operation condition of the Smoke Detector may vary after being installed for some time, you may wish to recalibrate the Smoke Detector to take a new smoke detection threshold value and ensure optimal performance of the Smoke Detector. To do this:
 
@@ -182,7 +182,7 @@ As the operation condition of the Smoke Detector may vary after being installed 
 
 **Installation**
 
-![](<.gitbook/assets/14 (30).png>) ![](<.gitbook/assets/15 (30).png>)
+![](<.gitbook/assets/14 (37).png>) ![](<.gitbook/assets/15 (38).png>)
 
  _**Installation Guideline**_
 
@@ -192,18 +192,18 @@ As the operation condition of the Smoke Detector may vary after being installed 
 
  The Kitchen – Smoke from cooking might cause an unwanted alarm.
 
-![](<.gitbook/assets/16 (32).png>) ![](<.gitbook/assets/17 (26).png>) ![](<.gitbook/assets/18 (31).png>)
+![](<.gitbook/assets/16 (40).png>) ![](<.gitbook/assets/17 (31).png>) ![](<.gitbook/assets/18 (34).png>)
 
 * Near a ventilating fan, florescent lamp or air-conditioning equipment – air drafts from them may affect the sensitivity of the detector.
 * Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the
 
-![](<.gitbook/assets/19 (32).png>)
+![](<.gitbook/assets/19 (35).png>)
 
 detector.
 
  In the peak of an “**A**” frame type of ceiling.
 
-![](<.gitbook/assets/20 (23).png>)
+![](<.gitbook/assets/20 (27).png>)
 
  _**Installation Recommendation**_
 

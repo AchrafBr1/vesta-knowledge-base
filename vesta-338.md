@@ -1,6 +1,6 @@
 # VESTA 338
 
-![](<.gitbook/assets/0 (117).jpeg>)
+![](<.gitbook/assets/0 (129).jpeg>)
 
 _**Mobile Lite R23**_
 
@@ -60,7 +60,7 @@ Dec. 02, 2022
 
 **1. Introduction**
 
-![](<.gitbook/assets/1 (87).png>)
+![](<.gitbook/assets/1 (101).png>)
 
 **1.1. Mobile Lite R23**
 
@@ -74,7 +74,7 @@ Your Mobile Lite package includes the following items:
 
 Items
 
-![](<.gitbook/assets/2 (95).png>)
+![](<.gitbook/assets/2 (109).png>)
 
 * Mobile Lite R23
 * Lanyard
@@ -88,11 +88,11 @@ Items
 
 **2. System Overview**
 
-![](<.gitbook/assets/3 (92).png>)
+![](<.gitbook/assets/3 (105).png>)
 
 **2.1. Identifying the Parts**
 
-![](<.gitbook/assets/4 (71).jpeg>)
+![](<.gitbook/assets/4 (73).jpeg>)
 
 | **Button/LED/Compon** |                   | **Behavior** | **Function/Indication**                                                 |                                   |
 | --------------------- | ----------------- | ------------ | ----------------------------------------------------------------------- | --------------------------------- |
@@ -145,7 +145,7 @@ Items
 
 **Charging & Programming Cradle (CT-6S)**
 
-![](<.gitbook/assets/5 (49).jpeg>)
+![](<.gitbook/assets/5 (56).jpeg>)
 
 1. **Charging & Programming Contact Plates**
 
@@ -164,7 +164,7 @@ Items
 
 **3. Getting Started – Setting up Mobile Lite**
 
-![](<.gitbook/assets/6 (81).png>)
+![](<.gitbook/assets/6 (92).png>)
 
 **3.1.** **Mobile Lite Lanyard and Attachment**
 
@@ -176,7 +176,7 @@ Based on orders from customers, either Adjustable Lanyard or Lanyard with Magnet
 |                        |   |                                     |
 |                        |   |                                     |
 
-![](<.gitbook/assets/7 (71).png>)
+![](<.gitbook/assets/7 (82).png>)
 
 **Attachmet**
 
@@ -185,19 +185,19 @@ Based on orders from customers, either Adjustable Lanyard or Lanyard with Magnet
 * Hook the the lanyard onto the Mobile Lite unit.
 * Put the lanyard around the neck of the user.
 
-![](<.gitbook/assets/8 (70).png>)
+![](<.gitbook/assets/8 (81).png>)
 
 **Removal**
 
 * Press the button to release the hook and remove the lanyard.
 
-![](<.gitbook/assets/9 (68).png>)
+![](<.gitbook/assets/9 (85).png>)
 
 4
 
 **3.2.** **Mobile Lite Belt Clip and Attachment**
 
-![](<.gitbook/assets/10 (70).png>)
+![](<.gitbook/assets/10 (78).png>)
 
 **Attachment**
 
@@ -206,13 +206,13 @@ Based on orders from customers, either Adjustable Lanyard or Lanyard with Magnet
 
 Mobile Lite to the user’s waistband or belt.
 
-![](<.gitbook/assets/11 (54).png>)
+![](<.gitbook/assets/11 (62).png>)
 
 **Removal**
 
 * Press the button to release the hook and remove the belt clip.
 
-![](<.gitbook/assets/12 (57).png>)
+![](<.gitbook/assets/12 (64).png>)
 
 _**\<NOTE>**_
 
@@ -228,7 +228,7 @@ Please do not use the belt clip to wear the Mobile Lite on waistband or hide the
 
 contact with each other. The Mobile Lite-R23 can also be inserted into the Cradle without removing the belt clip.
 
-![](<.gitbook/assets/13 (45).png>)
+![](<.gitbook/assets/13 (53).png>)
 
 | _Picture A._                          | _Picture B._                       |
 | ------------------------------------- | ---------------------------------- |
@@ -239,11 +239,11 @@ contact with each other. The Mobile Lite-R23 can also be inserted into the Cradl
 
 Micro-USB jack as shown in the picture:
 
-![](<.gitbook/assets/14 (48).png>)
+![](<.gitbook/assets/14 (55).png>)
 
 **Step 3.** Insert the charging end of the Regular Micro-USB Cable into the AC Adapter and plug the adapter into a power socket.
 
-![](<.gitbook/assets/15 (45).png>)
+![](<.gitbook/assets/15 (53).png>)
 
 6
 
@@ -261,7 +261,7 @@ Always use the Programming micro USB cable for connecting CT-6S to computer.
 
 If extra Programming cable is needed, please contact your supplier.
 
-![](<.gitbook/assets/16 (50).png>)
+![](<.gitbook/assets/16 (58).png>)
 
 _Programming_
 
@@ -279,7 +279,7 @@ To use PC Programming Tool for programming Mobile Lite, follow the hardware inst
 
 **Step 1.** Place Mobile Lite into the CT-6S Cradle. Please make sure that the programming Contact Platesof both Mobile Lite and the cradle are in contact with each other.
 
-![](<.gitbook/assets/19 (49).png>)
+![](<.gitbook/assets/19 (52).png>)
 
 7
 
@@ -287,7 +287,7 @@ To use PC Programming Tool for programming Mobile Lite, follow the hardware inst
 
 Micro-USB jack as shown in the picture:
 
-![](<.gitbook/assets/20 (36).png>)
+![](<.gitbook/assets/20 (40).png>)
 
 **Step 3.** Insert the programming end of the Programming Micro-USB Cable into a computer USB port as shown in the picture below:
 

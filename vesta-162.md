@@ -18,7 +18,7 @@ PRM2-ZW-P5 also serves as a router in the Z-Wave network. After being included i
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (57).jpeg>)
+![](<.gitbook/assets/0 (66).jpeg>)
 
 **1. LED indicator**
 
@@ -58,7 +58,7 @@ The function button is used to control the Power Relay Switch:
   * Refer to the diagram to connect your devices to Power Relay Switch.
 * _**Installation**_
 
-![](<.gitbook/assets/1 (51).jpeg>)
+![](<.gitbook/assets/1 (62).jpeg>)
 
 **Step 1:** Shut off the electricity supply to the power cable to for safety and to ensure that the wire would not short circuit during the installation process.
 

@@ -14,7 +14,7 @@ Models with router function also serve as a router in the ZigBee network. After 
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (78).jpeg>)
+![](<.gitbook/assets/0 (87).jpeg>)
 
 **1. Function Button**
 
@@ -65,7 +65,7 @@ The Wiring Buckle is used for managing wires.
 * Humidity: Up to 85% non-condensing
 * Dimension: 86mm x 72mm x 29mm
 
-![](<.gitbook/assets/1 (69).jpeg>)
+![](<.gitbook/assets/1 (80).jpeg>)
 
 **Installation Environment**
 
@@ -73,7 +73,7 @@ The Wiring Buckle is used for managing wires.
 * It is recommended to install the device in a fire resistant plastic gangbox.
 * Do not install the device in a metal gangbox for optimization of Z-Wave range.
 
-![](<.gitbook/assets/2 (63).jpeg>)
+![](<.gitbook/assets/2 (68).jpeg>)
 
 **Caution**
 
@@ -82,7 +82,7 @@ The Wiring Buckle is used for managing wires.
 
 Do not connect the device to loads exceeding supported load current.
 
-![](<.gitbook/assets/3 (56).jpeg>)
+![](<.gitbook/assets/3 (63).jpeg>)
 
 **Installation**
 
@@ -94,7 +94,7 @@ Wiring of the PRL should only be performed by certified technician with proper k
 4. Depending on the device you wish to control via the Relay, select NO or NC terminal and wire the Relay with the device to establish Normal Open or Normal Close connection with device.
 5. After completing device wiring, replace the strain relief clamp, use the wiring buckle to manage the wires, and place the wiring buckle on the base with its gap (opening) positioned on the left (as in the diagram below).
 
-![](<.gitbook/assets/4 (54).jpeg>)
+![](<.gitbook/assets/4 (56).jpeg>)
 
 1. Replace the top cover. Turn on the power supply to power on the Relay Controller.
 
@@ -102,13 +102,13 @@ Wiring of the PRL should only be performed by certified technician with proper k
 
 **ZigBee Network Setup**
 
-![](<.gitbook/assets/5 (34).jpeg>)
+![](<.gitbook/assets/5 (41).jpeg>)
 
 * _**ZigBee Device Guideline**_
 
 ZigBee is a wireless communication protocol that is reliable, has low power consumption and has high transmission efficiency. Based on the IEEE802.15.4 standard, ZigBee allows a large amount of devices to be included in a network and are coordinated for data exchange and signal transmission.
 
-![](<.gitbook/assets/6 (44).jpeg>)
+![](<.gitbook/assets/6 (53).jpeg>)
 
 * _**Joining the ZigBee Network**_
 
@@ -122,7 +122,7 @@ As a ZigBee device, the Relay Controller needs to join a ZigBee network to recei
   5. After joining the ZigBee network, if the Relay Controller loses connection to the current ZigBee network, the LED indicator will flash every 20 minutes. Please check your ZigBee network condition and Relay Controller signal range to correct the condition.
 * _**Removing Device from ZigBee Network (Factory Reset)**_
 
-![](<.gitbook/assets/7 (39).png>)
+![](<.gitbook/assets/7 (50).png>)
 
 To remove the Relay Controller from current ZigBee network, the device must be put to Factory Reset to complete device removal. Factory Reset function will clear the device of its stored setting and information and prompt it to search for new ZigBee network.
 
@@ -147,7 +147,7 @@ ZigBee firmware provided. Please refer to ZigBee Coordinator User Manual for det
 
 **Step 5.** Wait for firmware to complete update. When the progress reaches 100%, the Device will reset automatically. You can also refresh the webpage again to ensure that the Device firmware is successfully updated with the newest version displayed.
 
-![](<.gitbook/assets/8 (40).png>)
+![](<.gitbook/assets/8 (51).png>)
 
 * _**ZigBee Router Device Capacity (PRL-8ZBSR-AC Only)**_
 
@@ -155,7 +155,7 @@ The Relay Controller model with Router function allows other ZigBee devices to j
 
 **Operation**
 
-![](<.gitbook/assets/9 (29).jpeg>)
+![](<.gitbook/assets/9 (32).jpeg>)
 
 * _**Relay Control**_
   * When the Relay Controller has successfully joined a ZigBee network, the gateway/control panel will be able to remotely control it to turn On, Off or toggle between On and Off condition. Please refer to your ZigBee gateway/control panel for details.
@@ -164,7 +164,7 @@ The Relay Controller model with Router function allows other ZigBee devices to j
 
 **Appendix (For developers only)**
 
-![](<.gitbook/assets/10 (40).png>)
+![](<.gitbook/assets/10 (48).png>)
 
 * _**Relay Cluster ID**_
 
@@ -248,6 +248,6 @@ The Relay Controller model with Router function allows other ZigBee devices to j
 |                                                      |                |                       |                |                | only         |          |                |                 |            |               |             |                 |               |   |   |
 |                                                      |                |                       |                |                |              |          |                |                 |            |               |             |                 |               |   |   |
 
-![](<.gitbook/assets/11 (31).png>) ![](<.gitbook/assets/12 (35).png>) ![](<.gitbook/assets/13 (26).png>)
+![](<.gitbook/assets/11 (39).png>) ![](<.gitbook/assets/12 (42).png>) ![](<.gitbook/assets/13 (34).png>)
 
 4

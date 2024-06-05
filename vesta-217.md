@@ -12,7 +12,7 @@ RMB-29 is a wireless AC Powered Router with built-in backup battery. The “plug
 
 Test Button Usage:
 
-![](<.gitbook/assets/0 (88).jpeg>)
+![](<.gitbook/assets/0 (97).jpeg>)
 
 * Press once to exit current learning process.
 * Learning into Control Panel & Learning Sensor into Router _(Please refer to the respective sections for more details.)_
@@ -38,7 +38,7 @@ LED Indicator (Green and Red):
 
 **Features**
 
-![](<.gitbook/assets/1 (64).png>)
+![](<.gitbook/assets/1 (75).png>)
 
 * _**One-way/Two-way setting**_
 
@@ -56,7 +56,7 @@ The Router can operate as either a one-way device or two-way device. When progra
 
 **Step 5.** After you complete one-way/two-way device setting, please learn in/re-learn in the router into the Panel for the updated setting to take effect.
 
-![](<.gitbook/assets/2 (69).png>)
+![](<.gitbook/assets/2 (80).png>)
 
 * _**Learning into Control Panel**_
 
@@ -78,7 +78,7 @@ LED will be steady ON.
 
 * To exit the current “Learning into Control Panel” process, press the test button once and the Router will emit 2 beeps. The Red LED will be OFF and return to normal mode.
 
-![](<.gitbook/assets/3 (70).png>)
+![](<.gitbook/assets/3 (80).png>)
 
 * _**Learning Router into Router**_
 
@@ -96,7 +96,7 @@ To learn Router A into Router B:
 * Please do not cross-learn the Routers, e.g. Learning Router A into Router B and learning Router B into Router A.
 * All Routers will have to be learnt into the Control Panel.
 
-![](<.gitbook/assets/4 (73).png>)
+![](<.gitbook/assets/4 (84).png>)
 
 * _**Learning Sensor into Router**_
 
@@ -116,7 +116,7 @@ To learn Router A into Router B:
 * If multiple routers are used, please only learn devices into the router(s) closest to the operation areas of the devices.
 * All the devices learnt into the router must also be learnt into the Control Panel.
 
-![](<.gitbook/assets/5 (74).png>)
+![](<.gitbook/assets/5 (87).png>)
 
 * _**Operation**_
 
@@ -128,19 +128,19 @@ _\<NOTE>_
 
 * If the user fails to learn a sensor into the Control Panel first, the signal received cannot be retransmitted to the Control Panel. The Green LED will flash once and the device will emit 4 beeps.
 
-![](<.gitbook/assets/6 (54).png>)
+![](<.gitbook/assets/6 (65).png>)
 
 * _**Power Supply**_
 
 The Router is powered by AC power. Plug the Router into a power socket to activate the Router. There is a rechargeable battery inside the Router that serves as a backup in case of a power failure. It takes approximately 72 hours to fully charge the battery. During normal operation, AC power is used to power the Router and at the same time recharge the battery.
 
-![](<.gitbook/assets/7 (50).png>)
+![](<.gitbook/assets/7 (61).png>)
 
 * _**Battery and Low Battery Detection**_
 
 The Router is powered by four AAA 1.2V Ni-MH rechargeable batteries. After AC power failure, the Router will transmit a Low Battery signal to the Control Panel when low battery voltage is detected. To restore battery, re-plug AC power into the power socket.
 
-![](<.gitbook/assets/8 (49).png>)
+![](<.gitbook/assets/8 (60).png>)
 
 * _**AC Failure Detection**_
 
@@ -148,7 +148,7 @@ The Router is powered by four AAA 1.2V Ni-MH rechargeable batteries. After AC po
 
 Whenever the Router is removed from the power socket, the Router will transmit an AC Failure signal to the Control Panel to notify the situation. When the Router is re-plugged onto the power socket, it will transmit an AC restoration code.
 
-![](<.gitbook/assets/9 (44).png>)
+![](<.gitbook/assets/9 (58).png>)
 
 * _**Supervision**_
 
@@ -156,7 +156,7 @@ After learnt into the Control Panel, the Router will automatically transmit Supe
 
 The Router will automatically transmit Supervisory Signals every 90 to 120 minutes when working as a two-way device.
 
-![](<.gitbook/assets/10 (47).png>)
+![](<.gitbook/assets/10 (55).png>)
 
 * _**Factory Reset**_
 
@@ -170,7 +170,7 @@ Factory Reset function will clear all learnt-in device and Control Panel. To res
 
 **Step 4.** Factory reset is complete. All learn-in devices and Control Panel are cleared from the Router.
 
-![](<.gitbook/assets/11 (39).png>)
+![](<.gitbook/assets/11 (47).png>)
 
 * _**Recommendations**_
 
@@ -180,7 +180,7 @@ If a particular device is within an acceptable range for Control Panel to receiv
 
 When cascading routers to form a transmission relay, it is strongly recommended to link not more than 2 layers of routers.
 
-![](<.gitbook/assets/12 (40).png>)
+![](<.gitbook/assets/12 (47).png>)
 
 _\<NOTE>_
 
@@ -199,19 +199,19 @@ The Device needs to be learned into its closest router (Router B). Router B need
 
 Example:
 
-![](<.gitbook/assets/13 (30).jpeg>)
+![](<.gitbook/assets/13 (31).jpeg>)
 
 1. If a device is located between the RF coverage of multiple routers and the Control Panel: Example 1:
 
 3
 
-![](<.gitbook/assets/14 (25).jpeg>)
+![](<.gitbook/assets/14 (27).jpeg>)
 
 From the displayed diagram, the device is located between the RF coverage areas of Router B and C. Users can choose to learn the device into Router B only, learn into Router C only, or learn into both Routers B and C.
 
 It is **recommended** to learn the device into Router B only (and not to Router C) to reduce signal traffic.
 
-![](<.gitbook/assets/15 (28).png>)
+![](<.gitbook/assets/15 (36).png>)
 
 _\<NOTE>_
 
@@ -231,6 +231,6 @@ It is **recommended** to learn the device into Router A only or Router B only (a
 
 1. Typically, most devices stay in the same RF coverage area. For the exceptions such as a Remote Controller, please learn the device into all Routers (and Control Panel) of the system.
 
-![](<.gitbook/assets/17 (25).png>)
+![](<.gitbook/assets/17 (30).png>)
 
 4

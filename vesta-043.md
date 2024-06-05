@@ -9,7 +9,7 @@ The Scenario Switch is a Z-Wave enabled device and is fully compatible with any 
 
 Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be routed to their destination via intermediary “listening” Z-Wave products.
 
-![](<.gitbook/assets/0 (13).png>)
+![](<.gitbook/assets/0 (26).png>)
 
 * Device Introduction
 
@@ -21,7 +21,7 @@ There are four Scenario LED, the LED will light up according to the corresponden
 
 The Scenario Switch has 4 scenario buttons:
 
-![未命名-1](<.gitbook/assets/1 (7) (1).jpeg>)Button 1
+![未命名-1](<.gitbook/assets/1 (18).jpeg>)Button 1
 
 Button 2
 
@@ -111,7 +111,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 4. Screw the base into the surface.
 5. Replace the cover back onto the base and secure it by tightening the fixing screw.
 
-![未命名-2](<.gitbook/assets/2 (2) (1).jpeg>)
+![未命名-2](<.gitbook/assets/2 (13).jpeg>)
 
 * Z-Wave Information
 

@@ -3,11 +3,11 @@
 * REMOTE KEYPAD with NFC Tag (KPT-32N-LE-F1)
 * _**Identifying the Parts**_
 
-![KPT-32N 20160330 New](<.gitbook/assets/0 (16).jpeg>)
+![KPT-32N 20160330 New](<.gitbook/assets/0 (25).jpeg>)
 
-![未命名-2](<.gitbook/assets/1 (10) (1).jpeg>)**1. Siren**
+![未命名-2](<.gitbook/assets/1 (21).jpeg>)**1. Siren**
 
-![未命名-1](<.gitbook/assets/2 (3) (1).jpeg>)**2. Orange LED: Home Arm Key**
+![未命名-1](<.gitbook/assets/2 (14).jpeg>)**2. Orange LED: Home Arm Key**
 
 **3. Red LED: Away Arm Key**
 

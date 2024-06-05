@@ -8,7 +8,7 @@ The Voice Recognition Alarm (VRA) recognizes preset vocal commands or keywords a
 
 **Front View** **Back View** **Side View**
 
-![](<.gitbook/assets/0 (39).jpeg>)
+![](<.gitbook/assets/0 (48).jpeg>)
 
 1. **Help Button (with Blue Backlight)**
    1. Press once to send a learn code or activate a panic alarm
@@ -68,7 +68,7 @@ regular status signal transmissions to the Control Panel for display accordingly
 |   |             | **Switch4** |         |                                |              |   |
 |   |             |             |         |                                |              |   |
 
-![](<.gitbook/assets/1 (33).jpeg>) ![](<.gitbook/assets/2 (45).png>)
+![](<.gitbook/assets/1 (44).jpeg>) ![](<.gitbook/assets/2 (56).png>)
 
 _\<NOTE>_
 
@@ -102,13 +102,13 @@ work with newly set sensitivity level after re-powered on.
 
 **Ways to Seek Help**
 
-![](<.gitbook/assets/3 (45).png>)
+![](<.gitbook/assets/3 (55).png>)
 
 OR
 
 **Speak the trigger Keyword.** **Press the Help Button.**
 
-![](<.gitbook/assets/4 (29).jpeg>)
+![](<.gitbook/assets/4 (31).jpeg>)
 
 _\<NOTE>_
 
@@ -129,7 +129,7 @@ Ensure that VRA is fitted at approximately chest height (around 130cm-150cm abov
 
 Figure 1 Figure 2
 
-![](<.gitbook/assets/5 (19).jpeg>) ![](<.gitbook/assets/6 (26).jpeg>)
+![](<.gitbook/assets/5 (26).jpeg>) ![](<.gitbook/assets/6 (35).jpeg>)
 
 3
 
@@ -137,12 +137,12 @@ Figure 1 Figure 2
 
 Figure 5 Figure 6
 
-![](<.gitbook/assets/7 (23).jpeg>) ![](<.gitbook/assets/8 (16).jpeg>)
+![](<.gitbook/assets/7 (32).jpeg>) ![](<.gitbook/assets/8 (23).jpeg>)
 
 * **Surface Placement**
 
 VRA comes with an Anti-Slip pad on its back. The device can also be deployed on a flat surface without being installed at a fixed location.
 
-![](<.gitbook/assets/9 (23).png>)
+![](<.gitbook/assets/9 (37).png>)
 
 4

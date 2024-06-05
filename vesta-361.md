@@ -6,7 +6,7 @@ BX-32-BUS is a hardwired Bell Box used for system alarm indication outside a bui
 
 The Bell Box can also work with the Control Panel to emit entry and exit delay sounds, and also alert you to tamper violation.
 
-![](<.gitbook/assets/0 (4).png>)
+![](<.gitbook/assets/0 (9).png>)
 
 **Parts Identification**
 
@@ -21,11 +21,11 @@ The Tamper switch will be activated when the Bell box is removed from mounted su
 
 When the Bell Box is connected as the furthest BUS device on a BUS line, please set the Bell Box's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/1 (3).jpeg>) ![](<.gitbook/assets/2 (3) (1).png>)
+![](<.gitbook/assets/1 (4).jpeg>) ![](<.gitbook/assets/2 (8).png>)
 
 **Jumper On**
 
-![](<.gitbook/assets/3 (3).jpeg>)
+![](<.gitbook/assets/3 (4).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 
@@ -58,7 +58,7 @@ The Bell box will transmit a supervisory signal every 20-30 seconds in normal op
 
 **Function Overview**
 
-![](<.gitbook/assets/4 (3) (1).png>)
+![](<.gitbook/assets/4 (8).png>)
 
 * **Alarm Memory**
 
@@ -85,7 +85,7 @@ If the Bell box detects a tamper condition, it will activate the siren & strobe 
 
 While arming / disarming the system, the Bell box uses different methods to distinguish various statuses for the user, as listed in the table below.
 
-![](<.gitbook/assets/5 (6).png>) ![](<.gitbook/assets/6 (3) (1).png>) ![](<.gitbook/assets/7 (4).png>)
+![](<.gitbook/assets/5 (10).png>) ![](<.gitbook/assets/6 (7).png>) ![](<.gitbook/assets/7 (8).png>)
 
 |                  | **Siren Audio** |                                   | **Strobe light indication**  |
 | ---------------- | --------------- | --------------------------------- | ---------------------------- |
@@ -97,7 +97,7 @@ While arming / disarming the system, the Bell box uses different methods to dist
 | Entry/Exit delay | Count-down      |                                   |                              |
 | Sound            | beeps           |                                   |                              |
 
-![](<.gitbook/assets/8 (2).jpeg>) ![](<.gitbook/assets/9 (1) (1).jpeg>) ![](<.gitbook/assets/10 (7).png>)
+![](<.gitbook/assets/8 (4).jpeg>) ![](<.gitbook/assets/9 (2).jpeg>) ![](<.gitbook/assets/10 (11).png>)
 
 **Caution**
 
@@ -123,7 +123,7 @@ While arming / disarming the system, the Bell box uses different methods to dist
 
 switches to ON for any other BUS devices in between.
 
-![](<.gitbook/assets/12 (5).png>)
+![](<.gitbook/assets/12 (9).png>)
 
 _\<NOTE>_
 
@@ -160,7 +160,7 @@ To locate the Bell Box in the BUS system:
 
 **Step 2.** If the Bell Box receives the signal from the Hybrid Panel, the webpage will display a success message and the Bell Box’s 3 LED groups will flash 10 times to indicate where it is to the user.
 
-![](<.gitbook/assets/14 (5).png>)
+![](<.gitbook/assets/14 (10).png>)
 
 _\<NOTE>_
 
@@ -173,7 +173,7 @@ Please check whether the Bell Box is connected properly to the Panel within appr
 * To make sure the Bell Box is able to communicate with the Panel after it is learned-in, place the Control Panel in **Walk Test** mode and press the learn button on the Bell Box to transmit a test signal to the Control Panel.
 * When the Panel receives the test signal, it will beep once and display the Bell Box’s information accordingly on the top of the device list.
 
-![](<.gitbook/assets/15 (3) (1).png>)
+![](<.gitbook/assets/15 (8).png>)
 
 _\<NOTE>_
 
@@ -193,7 +193,7 @@ Step 3. Hold the Bell box at the position where it is to be mounted.
 
 Step 4. Identify the 3 mounting holes, mount and fix the Bell box on the wall using the large screws and wall plugs provided. Secure the screws with a Phillips screwdriver. Make sure the Tamper Switch is fully depressed against the wall
 
-![](<.gitbook/assets/17 (4).png>)
+![](<.gitbook/assets/17 (8).png>)
 
 _\<NOTE>_
 
@@ -205,7 +205,7 @@ Step 6. Check if the installation is successful by testing from the Control Pane
 
 Successful arming/disarming will be indicated by the table provided above in **Audio & Visual Status Indication** section.
 
-![](<.gitbook/assets/18 (6).png>)
+![](<.gitbook/assets/18 (9).png>)
 
 _\<NOTE>_
 

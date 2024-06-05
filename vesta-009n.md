@@ -12,7 +12,7 @@ The PIR is designed to give a typical detection range of 12 meters when mounted 
 
 **The IR-16 Series PIR Sensor includes the following models**:
 
-![](<.gitbook/assets/0 (22).jpeg>)
+![](<.gitbook/assets/0 (31).jpeg>)
 
 IR-16 – PIR sensor with 3.6V Lithium battery
 
@@ -40,7 +40,7 @@ The Tamper switch protects the enclosure from being opened.
    * If the jumper is OFF (if the jumper link is removed or “**parked**” on one pin), the Supervision function is enabled. **(Factory Default for 868 WF frequency models)**
    * If the jumper is ON, IR-16’s Supervision function is disabled. **(Factory Default for**
 
-![](<.gitbook/assets/1 (30).png>) ![](<.gitbook/assets/2 (13).jpeg>)
+![](<.gitbook/assets/1 (41).png>) ![](<.gitbook/assets/2 (18).jpeg>)
 
 **433AM & 868AM frequency models)**
 
@@ -53,7 +53,7 @@ The Tamper switch protects the enclosure from being opened.
   * **Tamper Switch**
 * _**Sleep Timer**_
 
-![](<.gitbook/assets/3 (13).jpeg>) ![](<.gitbook/assets/4 (14).jpeg>)
+![](<.gitbook/assets/3 (20).jpeg>) ![](<.gitbook/assets/4 (16).jpeg>)
 
 The PIR has a “**sleep time**” of approximately 1 minute to conserve power. After transmitting a detected movement, the PIR will not retransmit for 1 minute; any further movement detected during this sleep period will reset the 1-minute sleep timer. In this way continuous movement in front of a PIR will not unduly exhaust the battery.
 
@@ -119,7 +119,7 @@ _\<NOTE>_
 
 I.Break through the two knockouts on the triangular bracket.
 
-![](<.gitbook/assets/5 (9).jpeg>)
+![](<.gitbook/assets/5 (16).jpeg>)
 
 1. Using the two holes as a template, drill holes in the surface of the corner.
 2. Insert the wall plugs.
@@ -134,7 +134,7 @@ VII. Break through the appropriate corner fixing knockouts.
 
 VIII. Using the corner fixing knockouts as a template, drill holes in the surface in the corner again.
 
-![](<.gitbook/assets/6 (13).jpeg>)
+![](<.gitbook/assets/6 (22).jpeg>)
 
 IX. Insert the wall plugs if fixing it into plaster or brick.
 
@@ -184,7 +184,7 @@ VI. Screw the cover back onto its base using a Philips screwdriver.
 * The Pet-Immune PIR supports pet immunity feature and will not detect pets of up to 27 kg within 7 meter range to minimize false alarm situation.
 * If required, you can adjust the height of the PIR according to the size of your pet for optimal pet immune performance. Higher installation location will provide larger pet-immune space, but also increases the blind spot under the PIR.
 
-![](<.gitbook/assets/7 (12).jpeg>)
+![](<.gitbook/assets/7 (21).jpeg>)
 
 To take full advantage of PIR, the following guidelines should be considered:
 

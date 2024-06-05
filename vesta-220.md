@@ -16,7 +16,7 @@ Z-Wave is a wireless communication protocol that uses low-power RF radio. The Z-
 
 **GDC-3 (Garage Door Control)**
 
-![](<.gitbook/assets/0 (90).jpeg>)
+![](<.gitbook/assets/0 (99).jpeg>)
 
 1. **Green LED indicator**
    * **On**: Connected to power supply.
@@ -48,7 +48,7 @@ Use a pointy tool to press the learn button once to enter learning mode for Tilt
 
 **Tilt-GDC3 (Garage Door Tilt Sensor)**
 
-![](<.gitbook/assets/1 (77).jpeg>)
+![](<.gitbook/assets/1 (88).jpeg>)
 
 **1. Test Button / LED Indicator**
 
@@ -86,7 +86,7 @@ The Garage Door Tilt Sensor is powered by one CR123 3V Lithium battery. When the
 
 **DC-16SL-GDC3 (Garage Door Contact)**
 
-![](<.gitbook/assets/2 (71).jpeg>)
+![](<.gitbook/assets/2 (76).jpeg>)
 
 **1. LED Indicator**
 
@@ -124,7 +124,7 @@ Mount the magnet on the side of the Door Contact where it has 2 rib marks to ind
 
 **DC-32-EX-GDC3 (Outdoor Garage Door Contact)**
 
-![](<.gitbook/assets/3 (66).jpeg>)
+![](<.gitbook/assets/3 (73).jpeg>)
 
 1. **Protective Cover**
 2. **Battery Cover**
@@ -157,7 +157,7 @@ Whenever the Door Contact is removed from the mounting surface, the back tamper 
 
 **Getting Started**
 
-![](<.gitbook/assets/4 (75).png>)
+![](<.gitbook/assets/4 (86).png>)
 
 * _**Learn Tilt-GDC3 / DC-16SL-GDC3 / DC-32-EX-GDC3 into GDC-3**_
 
@@ -168,14 +168,14 @@ Power on tilt-GDC3 / DC-16SL-GDC3 / DC-32-EX-GDC3 and connect GDC-3 to power sup
 * If learning is successful, GDC-3 will emit 2 beeps to indicate. If Tilt-GDC3 / DC-16SL-GDC3 / DC-32-EX-GDC3 has already been added into GDC-3, GDC-3 will emit a Di-Do sound to alert the user.
 * Use a pointy tool to press the learn button of GDC-3 once again to return to normal mode, the red LED will turn off. Alternatively, GDC-3 will exit learning mode automatically with 5 beeps after 1 minute of inactivity.
 
-![](<.gitbook/assets/5 (76).png>)
+![](<.gitbook/assets/5 (89).png>)
 
 *
   * _NOTE >_
     * The Garage Door Control supports only one sensor. If a second sensor (either tilt sensor or door contact) is learnt into GDC-3, the old sensor will be replaced by the newly learned sensor.
 * _**Adding GDC-3 into the System (Inclusion)**_
 
-![](<.gitbook/assets/6 (55).png>)
+![](<.gitbook/assets/6 (66).png>)
 
 The device supports both classic inclusion process and SmartStart inclusion process.
 
@@ -191,7 +191,7 @@ The device supports both classic inclusion process and SmartStart inclusion proc
 
 SmartStart enabled products can be added to a Z-Wave network by scanning the Z-Wave QR Code present on the product with a controller providing SmartStart inclusion. No further action is required and the SmartStart product will be added automatically within 10 minutes of being powered on in the network vicinity. Z-Wave SmartStart utilizes the DSK information of the device to enhance and simplify the inclusion process. **DSK** stands for Device Specific Key used for authentication and encrypted communication. The DSK information is stored in the QR code format that is printed on a label and adhered to the front side of the device, as the example shown on the right.
 
-![](<.gitbook/assets/7 (45).jpeg>)
+![](<.gitbook/assets/7 (54).jpeg>)
 
 * Scan the QR Code on the back of GDC-3 to obtain the **DSK** information and transfer to the Z-Wave gateway.
 * Connect GDC-3 to power supply, a SmartStart inclusion request will be automatically sent to the gateway.
@@ -201,7 +201,7 @@ SmartStart enabled products can be added to a Z-Wave network by scanning the Z-W
 
 device by matching the inclusion request with the DSK obtained.
 
-![](<.gitbook/assets/8 (51).png>)
+![](<.gitbook/assets/8 (62).png>)
 
 *
   * _NOTE>_
@@ -210,7 +210,7 @@ device by matching the inclusion request with the DSK obtained.
     * If GDC-3 has already been **included** (learnt) in another Z-Wave Gateway/Control Panel, please exclude it first (see _**Exclusion**_) before attempting to **include** it into the current Z-Wave Gateway/Control Panel. GDC-3 will not send a SmartStart inclusion request if it’s already in a Z-Wave Gateway/Control Panel.
 * _**Removing GDC-3 from the System (Exclusion)**_
 
-![](<.gitbook/assets/9 (46).png>)
+![](<.gitbook/assets/9 (60).png>)
 
 The Garage Door Control must be removed from the existing Z-wave network before being added into another one. **Exclusion Mode**
 
@@ -234,7 +234,7 @@ Factory resetting the device will restore it to factory default settings (i.e., 
     * Before you remove or factory reset GDC-3, please ensure that the device’s DSK information has been removed or does not exist in the gateway. If you remove or factory reset the device, but its DSK information still exists in the gateway, the gateway will automatically include the device again.
 * _**Range Test**_
 
-![](<.gitbook/assets/10 (48).png>) ![](<.gitbook/assets/11 (40).png>)
+![](<.gitbook/assets/10 (56).png>) ![](<.gitbook/assets/11 (48).png>)
 
 To test whether the Garage Door Control is able to communicate with the Z-Wave gateway or control panel:
 
@@ -244,7 +244,7 @@ To test whether the Garage Door Control is able to communicate with the Z-Wave g
 
 **Installation**
 
-![](<.gitbook/assets/12 (25).jpeg>)
+![](<.gitbook/assets/12 (27).jpeg>)
 
 **Mounting the Garage Door Tilt Sensor (Tilt-GDC3)**
 
@@ -253,21 +253,21 @@ To test whether the Garage Door Control is able to communicate with the Z-Wave g
 * Mount the device on a dry and clean surface. Ensure the device is mounted with the LED indicator on top.
 * The Garage Door Tilt Sensor should be mounted on the very top panel of the garage door, as shown below.
 
-![](<.gitbook/assets/13 (31).jpeg>)
+![](<.gitbook/assets/13 (32).jpeg>)
 
 * There are two ways to mount the Garage Door Tilt Sensor. Screw Mounting:
   1. Find a suitable location to install the Garage Door Tilt Sensor. The mounting surface should be clean and dry. Clean the mounting surface thoroughly if needed.
   2. Use the two mounting holes as a template to mark and drill mounting holes.
   3. Use the provided wall plugs for plaster/brick installation. Screw the Garage Door Tilt Sensor into the provided wall plugs. Ensure the wall plugs are flush with the mounting surface.
 
-![](<.gitbook/assets/14 (29).png>)
+![](<.gitbook/assets/14 (36).png>)
 
 5
 
-* ![](<.gitbook/assets/15 (29).png>)_NOTE>_
+* ![](<.gitbook/assets/15 (37).png>)_NOTE>_
   * Only use this type of mounting method when the garage doors are thicker than the length of the screws.
 
-![](<.gitbook/assets/16 (31).png>)
+![](<.gitbook/assets/16 (39).png>)
 
 Adhesive Mounting:
 
@@ -301,7 +301,7 @@ _\<NOTE>_
       * Do not use the adhesive pad method of installation on a surface with peeling or cracked paint, or on a rough surface.
       * Please do not re-apply the 3M adhesive pad. It cannot be reused
 
-![](<.gitbook/assets/18 (30).png>) ![](<.gitbook/assets/19 (31).png>) ![](<.gitbook/assets/20 (22).png>)
+![](<.gitbook/assets/18 (33).png>) ![](<.gitbook/assets/19 (34).png>) ![](<.gitbook/assets/20 (26).png>)
 
 Screw Mounting:
 

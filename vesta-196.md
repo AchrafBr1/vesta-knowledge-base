@@ -1,6 +1,6 @@
 # VESTA 196
 
-![](<.gitbook/assets/0 (52).png>)**Geo Pendant**
+![](<.gitbook/assets/0 (65).png>)**Geo Pendant**
 
 **(GPT-3-FS)**
 
@@ -19,7 +19,7 @@ GPT-3-FS is a Geo transmitter that can work with the Receiver to provide alerts 
   * Step 3. Please refer to the operation manual of your Control Panel to complete the learning process.
 * _**Geo Tracking**_
 
-![](<.gitbook/assets/1 (70).jpeg>)
+![](<.gitbook/assets/1 (81).jpeg>)
 
 The geo transmitter transmits beacon signal to the Receiver upon movement detection. If the user keeps moving, the geo transmitter will keep sending beacon signals to the Receiver.
 
@@ -29,11 +29,11 @@ The Geo Transmitter uses one CR2477 3V Lithium battery as its power source.
 
 Every time the Active Button is pressed, the Transmitter will check the battery voltage. If low battery status is detected 3 times in a row, the Transmitter will send Low Battery signal with next signal transmission.
 
-![](<.gitbook/assets/2 (64).png>)
+![](<.gitbook/assets/2 (75).png>)
 
 _\<NOTE>_
 
-![](<.gitbook/assets/3 (58).jpeg>)
+![](<.gitbook/assets/3 (65).jpeg>)
 
 *
   * A 30-second interval is required between each Active Button press to check the battery voltage again.
@@ -43,7 +43,7 @@ Geo Transmitter features Auto Low Battery detection and Supervision.
 
 * After the battery is inserted, the Geo Transmitter will automatically transmit a Low Battery detection & Supervisory code to the Control Panel every 24 hours. If Low Battery status is detected, a Low Battery signal will be sent to the Control Panel every 12 hours.
 
-![](<.gitbook/assets/4 (65).png>)
+![](<.gitbook/assets/4 (76).png>)
 
 _**FCC Statement**_
 
@@ -52,7 +52,7 @@ _This device complies with Part 15 of the FCC Rules. Operation is subject to the
 1. _This device may not cause harmful interference, and_
 2. _This device must accept any interference received, including interference that may cause undesired operation._
 
-![](<.gitbook/assets/5 (35).jpeg>)
+![](<.gitbook/assets/5 (42).jpeg>)
 
 _**FCC Caution:**_
 

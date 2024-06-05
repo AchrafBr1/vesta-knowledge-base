@@ -6,7 +6,7 @@ The ZBW Dongle has built in both ZigBee and Z-Wave modules to provide the Contro
 
 **Identifying the Parts**
 
-![](<.gitbook/assets/0 (94).jpeg>)
+![](<.gitbook/assets/0 (103).jpeg>)
 
 **1. Blue/Red LED**
 
@@ -21,7 +21,7 @@ Red LED ON: Normal Operation for Z-Wave network
 3. Power on the Control Panel.
 4. If the ZBW Dongle is detected by Control Panel, the “**Exclusion**” and “**Z-Wave Rese**t” features will be displayed under **Device Management** on the website configuration page. (For Z-Wave Network Only) Select “Z-Wave Reset” and click “Yes” to reset ZBW Dongle.
 
-![](<.gitbook/assets/1 (67).png>)
+![](<.gitbook/assets/1 (78).png>)
 
 1. Refer to Control Panel installation manual and individual ZigBee or Z-wave device manual to learn in and control your ZigBee/Z-wave devices.
 

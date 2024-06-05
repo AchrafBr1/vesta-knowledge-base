@@ -8,7 +8,7 @@ The Voice Reach Talking Pendant provides high-clarity two-way communication via 
 
 1. **Identifying the Parts**
 
-![](<.gitbook/assets/0 (45).jpeg>)
+![](<.gitbook/assets/0 (54).jpeg>)
 
 1. **Microphone**
 2. **LED (Red, Green and Orange)**
@@ -89,7 +89,7 @@ Step 4. Refer to Control Panel manual to complete learning process.
 
 **Step 2:** Remove the old battery by pulling the black strip.
 
-![](<.gitbook/assets/1 (42).png>)
+![](<.gitbook/assets/1 (53).png>)
 
 2
 
@@ -97,11 +97,11 @@ Step 4. Refer to Control Panel manual to complete learning process.
 
 **Step 4:** When inserting the new battery, keep it parallel to the battery compartment. Do not tilt the battery, and please observe the correct polarity.
 
-![](<.gitbook/assets/2 (50).png>)
+![](<.gitbook/assets/2 (61).png>)
 
 **Step 5:** The black strip should be pressed under the battery when battery is inserted.
 
-![](<.gitbook/assets/3 (48).png>)
+![](<.gitbook/assets/3 (58).png>)
 
 **Step 6:** Replace the battery compartment cover.
 
@@ -114,7 +114,7 @@ Step 4. Refer to Control Panel manual to complete learning process.
   1. Let it hang in front of the chest and adjust necklace length so that the sensor hangs at the bottom of the sternum as shown in the picture below.
   2. Wear the pendant exposed outside and in front of any clothes or heavy/feather jacket.
 
-![](<.gitbook/assets/4 (32).jpeg>)
+![](<.gitbook/assets/4 (34).jpeg>)
 
 C. When a fall occurs, it is best if the fall sensor can touch the ground.
 

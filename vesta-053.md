@@ -28,7 +28,7 @@ LMHT-1ZW-OTA
    * Press and hold for 10 seconds to factory reset.
    * Press for 3 times within 1.5 seconds to transmit learning code.
 
-![](<.gitbook/assets/0 (41).jpeg>)
+![](<.gitbook/assets/0 (50).jpeg>)
 
 **Features**
 
@@ -114,7 +114,7 @@ The sensor can be mounted using two methods: Self-adhesive or Screw mounting.
 2. Remove the liner from one side of double-sided adhesive pad and firmly apply the adhesive pad to the back of the device.
 3. Remove the other liner and firmly place/press the device at the desired location.
 
-![](<.gitbook/assets/1 (35).jpeg>)
+![](<.gitbook/assets/1 (46).jpeg>)
 
 Do not use the self-adhesive mounting method on poorly painted and/or rough surfaces.
 
