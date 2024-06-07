@@ -55,8 +55,6 @@ El panel con batería externa está **conectado al cloud al 100%. Usará las pil
 Para **entrar en configuración del panel BOGP** usando el teclado y pantalla LCD, hay que pulsar **\* durante 4 segundos.**
 {% endhint %}
 
-Para entrar en configuración del panel BOGP usando el teclado y pantalla LCD, hay que pulsar **\*** durante 4 segundos. \{% endhint %
-
 {% hint style="info" %}
 Nota: También podemos configurar el APN con un comando SMS, que debemos enviar al número de teléfono de la SIM conectada en el panel:
 
