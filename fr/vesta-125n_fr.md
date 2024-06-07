@@ -1,46 +1,59 @@
 # VESTA 125N
 
-![](<.gitbook/assets/0 (7).png>)**CLAVIER COMBO FILAIRE/SANS FIL avec LECTEUR NFC (KPT-35N-Combo-BYD)**
+**CLAVIER COMBO FILAIRE/SANS FIL avec LECTEUR NFC (KPT-35N-Combo-BYD)**
 
 KPT-35N-Combo-BYD est un clavier câblé et sans fil avec un lecteur NFC conçu pour avoir un contrôle d'accès rapide au panneau de commande du système. Le clavier peut envoyer des signaux filaires et sans fil et recevoir des signaux du panneau de commande à distance du fil, en fonction du calibre du fil et de la consommation électrique totale de tous les appareils filaires. L'écran LCD affichera les informations renvoyées par le panneau de commande du système.
 
 Le clavier filaire/sans fil peut être monté sur une surface plane ou sur un mur avec des vis. Il dispose également d'un interrupteur de protection anti-effraction qui sera activé en cas de tentative non autorisée d'ouverture du capot arrière.
 
+
+
+{% hint style="success" %}
+Important (_Panel FW: 30A - 32C_) ! pour **désarmer avec le badge**, il faut appuyer sur n'importe quelle touche de **0 à 9** avant de rapprocher le badge.
+{% endhint %}
+
 **Identification des pièces**
 
 ![](<.gitbook/assets/1 (5).png>)
 
-1.  **Écran LCD rétroéclairé**
-2.  **LED verte**
-    -   -   La LED verte est éteinte en mode veille.
-        -   La LED verte s'allumera lorsqu'une touche est enfoncée.
-3.  **LED jaune**
-    -   -   La LED jaune clignote une fois toutes les 3 secondes lorsqu'une situation de défaut est détectée et s'éteint lorsque toutes les conditions de défaut sont restaurées. Le comportement de la LED est contrôlé par le panneau de commande.
-4.  **Touches numériques rétroéclairées**
-5.  **Touche étoile rétroéclairée (＊)**
-6.  **Protection**
-7.  **Restauration rétroéclairée (**![](<.gitbook/assets/2 (8).jpeg>))**Clé**
-    -   -   Cette touche est utilisée pour supprimer un chiffre, annuler la sélection, abandonner l'écran actuel et revenir à l'écran précédent, etc.
-8.  **Touche OK rétroéclairée**
-9.  **Touche dièse (＃) rétroéclairée**
-    -   -   Pour confirmer les données saisies ou confirmer la sélection.
+1. **Écran LCD rétroéclairé**
+2. **LED verte**
+   *
+     * La LED verte est éteinte en mode veille.
+     * La LED verte s'allumera lorsqu'une touche est enfoncée.
+3. **LED jaune**
+   *
+     * La LED jaune clignote une fois toutes les 3 secondes lorsqu'une situation de défaut est détectée et s'éteint lorsque toutes les conditions de défaut sont restaurées. Le comportement de la LED est contrôlé par le panneau de commande.
+4. **Touches numériques rétroéclairées**
+5. **Touche étoile rétroéclairée (＊)**
+6. **Protection**
+7. **Restauration rétroéclairée (**![](<.gitbook/assets/2 (8).jpeg>))**Clé**
+   *
+     * Cette touche est utilisée pour supprimer un chiffre, annuler la sélection, abandonner l'écran actuel et revenir à l'écran précédent, etc.
+8. **Touche OK rétroéclairée**
+9. **Touche dièse (＃) rétroéclairée**
+   *
+     * Pour confirmer les données saisies ou confirmer la sélection.
 10. **Bras rétroéclairé/touche **
-    -   -   Utilisez cette touche pour déplacer le curseur et faire défiler l'affichage vers le haut.
-        -   La clé est également utilisée pour accéder au mode « Armé Absent ».
+    *
+      * Utilisez cette touche pour déplacer le curseur et faire défiler l'affichage vers le haut.
+      * La clé est également utilisée pour accéder au mode « Armé Absent ».
 11. **Zone de capteur NFC rétroéclairée**
 12. **Bras d'accueil/touche  rétroéclairés**
-    -   -   Utilisez cette touche pour déplacer le curseur et faire défiler l'affichage vers le bas.
-        -   La clé est également utilisée pour accéder au mode « Home Armed ».
+    *
+      * Utilisez cette touche pour déplacer le curseur et faire défiler l'affichage vers le bas.
+      * La clé est également utilisée pour accéder au mode « Home Armed ».
 13. **Avertisseur sonore**
 14. **Compartiment à piles**
 15. **Terminal de bus**
-    -   Câblage des quatre bornes (V, G, A, B) à la borne du clavier du panneau de commande. Jusqu'à quatre KPT-35N-Combo-BYD peuvent être connectés en série. Pour le câblage du clavier, reportez-vous à_**Câblage du clavier**_section sur la page suivante pour plus de détails.
+    * Câblage des quatre bornes (V, G, A, B) à la borne du clavier du panneau de commande. Jusqu'à quatre KPT-35N-Combo-BYD peuvent être connectés en série. Pour le câblage du clavier, reportez-vous à\_**Câblage du clavier**\_section sur la page suivante pour plus de détails.
 16. **Trou de gestion des câbles**
-    -   -   Trou pré-perforé utilisé pour améliorer la flexibilité de la gestion du câblage.
+    *
+      * Trou pré-perforé utilisé pour améliorer la flexibilité de la gestion du câblage.
 
 1
 
-**17.****Commutateur de cavalier de résistance de borne**
+\*\*17.\*\***Commutateur de cavalier de résistance de borne**
 
 Lorsque le clavier est connecté en tant que périphérique BUS le plus éloigné de la centrale, veuillez régler le cavalier de communication du clavier et le cavalier J53 de la centrale sur ON pour servir de résistance de terminaison. La capacité de communication des appareils BUS connectés sera améliorée.
 
@@ -58,82 +71,84 @@ Si le cavalier est activé, la capacité de communication sera améliorée.
 
 Si le cavalier est désactivé (le lien du cavalier est retiré ou « garé » sur une broche), la capacité de communication est au niveau normal.
 
-1.  **Interrupteur anti-sabotage**
-2.  **Trous de support x 3**
-3.  **Trous de montage x 4**
-4.  **Vis de fixation inférieure x 1**
-5.  **Balise NFC**
+1. **Interrupteur anti-sabotage**
+2. **Trous de support x 3**
+3. **Trous de montage x 4**
+4. **Vis de fixation inférieure x 1**
+5. **Balise NFC**
 
 ![](<.gitbook/assets/6 (5).jpeg>)
 
 **Prudence**
 
--   Le câblage du clavier filaire/sans fil doit être effectué uniquement par des techniciens certifiés possédant les connaissances et la formation appropriées en matière d'équipement électrique.
--   Avant l'installation ou tout travail de maintenance, assurez-vous que l'alimentation électrique du panneau de commande a été débranchée.
+* Le câblage du clavier filaire/sans fil doit être effectué uniquement par des techniciens certifiés possédant les connaissances et la formation appropriées en matière d'équipement électrique.
+* Avant l'installation ou tout travail de maintenance, assurez-vous que l'alimentation électrique du panneau de commande a été débranchée.
 
 **Modèles de panneaux de configuration pris en charge**
 
--   Le clavier filaire/sans fil prend en charge les modèles suivants :
-    -   Série de panneaux hybrides
-    -   Série HSGW
-    -   Série ESGW
--   Le clavier filaire/sans fil ne prend actuellement pas en charge la série BOGP-3.
+* Le clavier filaire/sans fil prend en charge les modèles suivants :
+  * Série de panneaux hybrides
+  * Série HSGW
+  * Série ESGW
+* Le clavier filaire/sans fil ne prend actuellement pas en charge la série BOGP-3.
 
 **Caractéristiques**
 
--   _**Entrée d'alimentation**_
+* _**Entrée d'alimentation**_
 
 Lorsque le KPT-35N-Combo-BYD est câblé au panneau de commande, une alimentation de 13,5 V (typique) peut être fournie par le panneau de commande au KPT-35N-Combo-BYD.
 
-![](<.gitbook/assets/7 (5).jpeg>)![](<.gitbook/assets/8 (5).jpeg>)
+![](<.gitbook/assets/7 (5).jpeg>) ![](<.gitbook/assets/8 (5).jpeg>)
 
--   _**Détection de batterie et de batterie faible**_
-    -   Deux piles au lithium AA L91 1,5 V peuvent être installées à l'intérieur du compartiment à piles pour servir de source d'alimentation de secours en cas de panne de courant. Avant d'insérer les piles, assurez-vous de leur placement correct pour protéger votre appareil.
-    -   Le clavier filaire/sans fil peut également surveiller la durée de vie de la batterie. Lorsque les piles sont faibles, un signal de pile faible sera envoyé avec une transmission régulière du signal au panneau de commande pour alerter les utilisateurs du remplacement des piles.
+* _**Détection de batterie et de batterie faible**_
+  * Deux piles au lithium AA L91 1,5 V peuvent être installées à l'intérieur du compartiment à piles pour servir de source d'alimentation de secours en cas de panne de courant. Avant d'insérer les piles, assurez-vous de leur placement correct pour protéger votre appareil.
+  * Le clavier filaire/sans fil peut également surveiller la durée de vie de la batterie. Lorsque les piles sont faibles, un signal de pile faible sera envoyé avec une transmission régulière du signal au panneau de commande pour alerter les utilisateurs du remplacement des piles.
 
-_\\<NOTE>_
+_\\_
 
--   -   Utilisez uniquement les piles spécifiées avec l'appareil. Lors du remplacement des piles, remplacez toujours l'ensemble et ne mélangez pas différents types de piles ou des piles neuves et usagées pour éviter d'endommager l'appareil.
--   _**Fonction d'économie d'énergie**_
-    -   Lorsqu'il est inactif, le clavier filaire/sans fil est en**en veille**mode et ne consomme aucune énergie. Il se réveillera lorsqu'une touche sera enfoncée.
-    -   Après avoir accédé au menu utilisateur, si aucun des deux**Bras**clé/**Bras d'accueil**est enfoncée, le clavier filaire/sans fil reviendra à**attendre**mode dans les 5 secondes. Si l'un ou les deux**Bras**clé/**Bras d'accueil**est/sont enfoncées, le clavier filaire/sans fil reviendra en mode veille dans les**20**secondes.
-    -   Une fois « Entrer le code PIN » affiché sur l'écran LCD, si aucune touche n'est enfoncée, le clavier filaire/sans fil reviendra à**attendre**mode dans les 5 secondes.
-    -   Après la soumission de la demande de changement de mode, si aucun signal n'est reçu du panneau de commande, le clavier reviendra à**attendre**mode dans les 15 secondes.
-    -   À la fin d'une entrée de commande, le clavier filaire/sans fil reviendra à**attendre**mode.
--   _**Câblage du clavier**_
-    -   -   Pour connecter le KPT-35N-Combo-BYD au panneau de commande, ouvrez le capot avant à l'aide d'un tournevis cruciforme pour desserrer la vis de fixation du capot.
-        -   Avant de connecter les bornes « V », « G », « A », « B », retirez les piles du KPT-35N-Combo-BYD et assurez-vous que l'alimentation électrique du panneau de commande a été débranchée.
-        -   Desserrez la borne « V » du KPT-35N-Combo-BYD et la borne « VDD » du panneau de commande. Connectez la borne « V » à la borne « VDD » et serrez les deux vis des bornes.
-        -   Desserrez la borne « G » du KPT-35N-Combo-BYD et la borne « GND » du panneau de commande. Connectez la borne « G » à la borne « GND » et serrez les deux vis des bornes.
-        -   Desserrez la borne « A » du KPT-35N-Combo-BYD et la borne « 485A » du panneau de commande. Connectez la borne « A » à la borne « 485A » et serrez les deux vis des bornes.
-        -   Desserrez la borne « B » du KPT-35N-Combo-BYD et la borne « 485B » du panneau de commande. Connectez la borne « B » à la borne « 485B » et serrez les deux vis des bornes.
-        -   Allumez le panneau de commande et attendez que « KPT-35N-Combo-BYD » s'affiche sur l'écran LCD du clavier filaire/sans fil.
+*
+  * Utilisez uniquement les piles spécifiées avec l'appareil. Lors du remplacement des piles, remplacez toujours l'ensemble et ne mélangez pas différents types de piles ou des piles neuves et usagées pour éviter d'endommager l'appareil.
+* _**Fonction d'économie d'énergie**_
+  * Lorsqu'il est inactif, le clavier filaire/sans fil est en**en veille**mode et ne consomme aucune énergie. Il se réveillera lorsqu'une touche sera enfoncée.
+  * Après avoir accédé au menu utilisateur, si aucun des deux**Bras**clé/**Bras d'accueil**est enfoncée, le clavier filaire/sans fil reviendra à**attendre**mode dans les 5 secondes. Si l'un ou les deux**Bras**clé/**Bras d'accueil**est/sont enfoncées, le clavier filaire/sans fil reviendra en mode veille dans les**20**secondes.
+  * Une fois « Entrer le code PIN » affiché sur l'écran LCD, si aucune touche n'est enfoncée, le clavier filaire/sans fil reviendra à**attendre**mode dans les 5 secondes.
+  * Après la soumission de la demande de changement de mode, si aucun signal n'est reçu du panneau de commande, le clavier reviendra à**attendre**mode dans les 15 secondes.
+  * À la fin d'une entrée de commande, le clavier filaire/sans fil reviendra à**attendre**mode.
+* _**Câblage du clavier**_
+  *
+    * Pour connecter le KPT-35N-Combo-BYD au panneau de commande, ouvrez le capot avant à l'aide d'un tournevis cruciforme pour desserrer la vis de fixation du capot.
+    * Avant de connecter les bornes « V », « G », « A », « B », retirez les piles du KPT-35N-Combo-BYD et assurez-vous que l'alimentation électrique du panneau de commande a été débranchée.
+    * Desserrez la borne « V » du KPT-35N-Combo-BYD et la borne « VDD » du panneau de commande. Connectez la borne « V » à la borne « VDD » et serrez les deux vis des bornes.
+    * Desserrez la borne « G » du KPT-35N-Combo-BYD et la borne « GND » du panneau de commande. Connectez la borne « G » à la borne « GND » et serrez les deux vis des bornes.
+    * Desserrez la borne « A » du KPT-35N-Combo-BYD et la borne « 485A » du panneau de commande. Connectez la borne « A » à la borne « 485A » et serrez les deux vis des bornes.
+    * Desserrez la borne « B » du KPT-35N-Combo-BYD et la borne « 485B » du panneau de commande. Connectez la borne « B » à la borne « 485B » et serrez les deux vis des bornes.
+    * Allumez le panneau de commande et attendez que « KPT-35N-Combo-BYD » s'affiche sur l'écran LCD du clavier filaire/sans fil.
 
 2
 
 ![](<.gitbook/assets/9 (9).png>)
 
--   Le terminal du clavier peut être câblé au panneau de commande. Jusqu'à quatre KPT-35N-COMBO-BYD peuvent être connectés en série. La longueur maximale du câble dépend du calibre du fil et de la consommation électrique totale de tous les appareils câblés, par exemple : maximum 3 000 pieds @ câble 22 AWG pour un KPT-35N-COMBO-BYD ; câble maximum de 1 500 pieds à 22 AWG pour 2 KPT-35N-COMBO-BYD ; ou maximum 1000 pieds @ câble 22-AWG pour 3 KPT-35N-COMBO-BYD.
--   Dans l'image ci-dessous, KPT-35N-COMBO-BYD-**UN**et KPT-35N-COMBO-BYD-**B**sont câblés correctement en série car la distance totale des câbles entre deux claviers et le panneau de commande est inférieure à 1 500 pieds. Pour le KPT-35N-COMBO-BYD-**C**sur l'image ci-dessous, c'est**PAS**correctement câblé car il se trouve à plus de 1 000 pieds du panneau de commande.
--   Pour une communication optimale des appareils de ligne BUS connectés, assurez-vous que les cavaliers de résistance terminale du premier et du dernier appareil BUS sur une ligne BUS sont réglés sur ON pour servir de résistances de terminaison. Assurez-vous d'activer uniquement les 2 cavaliers susmentionnés et de ne pas régler les cavaliers sur ON pour tout autre périphérique BUS intermédiaire. Par exemple, pour KPT-35N-COMBO-BYD-**B**dans l'image ci-dessous, il s'agit de l'appareil le plus éloigné de la ligne BUS et Hybrid Panel est le premier appareil de la ligne BUS. Assurez-vous de régler le KPT-35N-COMBO-BYD-**B**Le cavalier de résistance de borne du et le cavalier J53 du panneau hybride sur ON pour servir de résistances de terminaison.
+* Le terminal du clavier peut être câblé au panneau de commande. Jusqu'à quatre KPT-35N-COMBO-BYD peuvent être connectés en série. La longueur maximale du câble dépend du calibre du fil et de la consommation électrique totale de tous les appareils câblés, par exemple : maximum 3 000 pieds @ câble 22 AWG pour un KPT-35N-COMBO-BYD ; câble maximum de 1 500 pieds à 22 AWG pour 2 KPT-35N-COMBO-BYD ; ou maximum 1000 pieds @ câble 22-AWG pour 3 KPT-35N-COMBO-BYD.
+* Dans l'image ci-dessous, KPT-35N-COMBO-BYD-**UN**et KPT-35N-COMBO-BYD-**B**sont câblés correctement en série car la distance totale des câbles entre deux claviers et le panneau de commande est inférieure à 1 500 pieds. Pour le KPT-35N-COMBO-BYD-**C**sur l'image ci-dessous, c'est**PAS**correctement câblé car il se trouve à plus de 1 000 pieds du panneau de commande.
+* Pour une communication optimale des appareils de ligne BUS connectés, assurez-vous que les cavaliers de résistance terminale du premier et du dernier appareil BUS sur une ligne BUS sont réglés sur ON pour servir de résistances de terminaison. Assurez-vous d'activer uniquement les 2 cavaliers susmentionnés et de ne pas régler les cavaliers sur ON pour tout autre périphérique BUS intermédiaire. Par exemple, pour KPT-35N-COMBO-BYD-**B**dans l'image ci-dessous, il s'agit de l'appareil le plus éloigné de la ligne BUS et Hybrid Panel est le premier appareil de la ligne BUS. Assurez-vous de régler le KPT-35N-COMBO-BYD-**B**Le cavalier de résistance de borne du et le cavalier J53 du panneau hybride sur ON pour servir de résistances de terminaison.
 
 ![](<.gitbook/assets/10 (10).png>)
 
 3
 
--   _**Autoprotection**_
-    -   Le clavier filaire/sans fil est protégé contre toute tentative non autorisée d'ouverture du capot arrière à l'aide d'un interrupteur anti-sabotage. Lorsque le capot arrière est ouvert, l'interrupteur anti-sabotage se déclenche et le clavier filaire/sans fil transmet un signal d'ouverture anti-sabotage au panneau de commande du système.
-    -   Après avoir replacé le capot arrière, le clavier filaire/sans fil transmettra un signal de restauration anti-sabotage au panneau de commande.
-    -   Lorsque le clavier filaire/sans fil est correctement monté avec le couvercle arrière vissé au mur, retirer le clavier avec force brisera le couvercle arrière de la section creuse autour de l'emplacement de la vis et activera l'interrupteur anti-sabotage.
--   _**Signal de surveillance**_
-    -   En mode filaire, le clavier filaire/sans fil transmettra automatiquement les signaux de supervision au panneau de commande à un intervalle de 20 à 30 secondes.
-    -   En mode sans fil, le clavier filaire/sans fil transmettra automatiquement les signaux de supervision au panneau de commande à un intervalle de 30 à 50 minutes.
-    -   Si la centrale n'a pas reçu le signal du clavier filaire/sans fil pendant une période de temps prédéfinie, la centrale considérera le clavier filaire/sans fil hors service et réagira en fonction des paramètres du panneau.
--   _**Procédures d’ajout/suppression d’étiquette**_
+* _**Autoprotection**_
+  * Le clavier filaire/sans fil est protégé contre toute tentative non autorisée d'ouverture du capot arrière à l'aide d'un interrupteur anti-sabotage. Lorsque le capot arrière est ouvert, l'interrupteur anti-sabotage se déclenche et le clavier filaire/sans fil transmet un signal d'ouverture anti-sabotage au panneau de commande du système.
+  * Après avoir replacé le capot arrière, le clavier filaire/sans fil transmettra un signal de restauration anti-sabotage au panneau de commande.
+  * Lorsque le clavier filaire/sans fil est correctement monté avec le couvercle arrière vissé au mur, retirer le clavier avec force brisera le couvercle arrière de la section creuse autour de l'emplacement de la vis et activera l'interrupteur anti-sabotage.
+* _**Signal de surveillance**_
+  * En mode filaire, le clavier filaire/sans fil transmettra automatiquement les signaux de supervision au panneau de commande à un intervalle de 20 à 30 secondes.
+  * En mode sans fil, le clavier filaire/sans fil transmettra automatiquement les signaux de supervision au panneau de commande à un intervalle de 30 à 50 minutes.
+  * Si la centrale n'a pas reçu le signal du clavier filaire/sans fil pendant une période de temps prédéfinie, la centrale considérera le clavier filaire/sans fil hors service et réagira en fonction des paramètres du panneau.
+* _**Procédures d’ajout/suppression d’étiquette**_
 
 Le clavier est capable de transmettre des signaux NFC (Near Field Communication) au panneau de commande, et vous pouvez attribuer un code PIN et un nom d'utilisateur à chaque étiquette NFC sur la page Web du panneau. Les étiquettes NFC peuvent ensuite être utilisées pour contrôler le mode du système d'alarme via le clavier. Le nombre d'étiquettes NFC et de codes PIN est géré sur la page Web du panneau de configuration.
 
-1.  _**Ajouter une étiquette :**_
+1. _**Ajouter une étiquette :**_
 
 Lors de l'ajout d'une nouvelle étiquette, le clavier doit être en mode de fonctionnement normal.
 
@@ -149,12 +164,13 @@ Lors de l'ajout d'une nouvelle étiquette, le clavier doit être en mode de fonc
 
 Étape 4. L'étiquette a été ajoutée. Vous pouvez utiliser l'étiquette pour armer/armer/désarmer le système. Lorsque le clavier est allumé en insérant les piles, la LED orange clignote et le rétroéclairage blanc s'allume. Lorsque la LED est éteinte, attendez 10 secondes pour que le capteur d'étiquette du clavier commence à fonctionner.
 
-_\\<NOTE>_
+_\\_
 
--   -   La détection consécutive de 5 étiquettes non ajoutées ou d'étiquettes non ajoutées 5 fois générera un enregistrement d'erreur et entraînera le verrouillage du clavier pendant 5 minutes. Pour éviter un blocage, une étiquette ajoutée doit être détectée une fois pour effacer l'enregistrement d'erreur.
-    -   Si le clavier est verrouillé, il sera automatiquement déverrouillé après l'expiration de la période de verrouillage de 5 minutes.
+*
+  * La détection consécutive de 5 étiquettes non ajoutées ou d'étiquettes non ajoutées 5 fois générera un enregistrement d'erreur et entraînera le verrouillage du clavier pendant 5 minutes. Pour éviter un blocage, une étiquette ajoutée doit être détectée une fois pour effacer l'enregistrement d'erreur.
+  * Si le clavier est verrouillé, il sera automatiquement déverrouillé après l'expiration de la période de verrouillage de 5 minutes.
 
-_**B. Étiquette claire :**_
+_**B. Étiquette claire :**_
 
 Étape 1. Accédez à la page Code PIN sur la page Web du Panneau de configuration.
 
@@ -166,37 +182,37 @@ _**B. Étiquette claire :**_
 
 4
 
--   _**Rejoindre le réseau système**_
+* _**Rejoindre le réseau système**_
 
-**Fonctionnement sans fil :**
+**Fonctionnement sans fil :**
 
--   Pour ajouter le clavier filaire/sans fil au réseau du système, mettez d'abord la centrale en mode apprentissage.
--   Appuyez une fois sur la touche OK. Lorsque « Entrer le code PIN » s'affiche sur l'écran LCD, maintenez enfoncée la touche**D'ACCORD**touche pendant 10 secondes.
--   « KP se réinitialisera dans 2 secondes » s'affichera sur l'écran LCD avec un long bip.
--   « Scanning Network » s'affichera sur l'écran LCD pendant que le clavier filaire/sans fil envoie le code d'apprentissage au panneau de commande.
--   Lorsque le clavier est ajouté au panneau de commande, « Learning Success » s'affichera sur l'écran LCD avec 2 bips.
+* Pour ajouter le clavier filaire/sans fil au réseau du système, mettez d'abord la centrale en mode apprentissage.
+* Appuyez une fois sur la touche OK. Lorsque « Entrer le code PIN » s'affiche sur l'écran LCD, maintenez enfoncée la touche**D'ACCORD**touche pendant 10 secondes.
+* « KP se réinitialisera dans 2 secondes » s'affichera sur l'écran LCD avec un long bip.
+* « Scanning Network » s'affichera sur l'écran LCD pendant que le clavier filaire/sans fil envoie le code d'apprentissage au panneau de commande.
+* Lorsque le clavier est ajouté au panneau de commande, « Learning Success » s'affichera sur l'écran LCD avec 2 bips.
 
-_\\<NOTE>_
+_\\_
 
--   Si le panneau de commande répond rapidement au clavier filaire/sans fil, le processus de « numérisation du réseau » sera ignoré et « Learning Success » sera directement affiché sur l'écran LCD.
--   Si le clavier filaire/sans fil ne reçoit aucun signal du panneau de commande dans les 20 secondes, l'écran LCD s'éteindra et le clavier filaire/sans fil reviendra en mode veille.
+* Si le panneau de commande répond rapidement au clavier filaire/sans fil, le processus de « numérisation du réseau » sera ignoré et « Learning Success » sera directement affiché sur l'écran LCD.
+* Si le clavier filaire/sans fil ne reçoit aucun signal du panneau de commande dans les 20 secondes, l'écran LCD s'éteindra et le clavier filaire/sans fil reviendra en mode veille.
 
-**Opération de câblage :**
+**Opération de câblage :**
 
 En plus de l'opération sans fil pour rejoindre le réseau du système comme indiqué ci-dessus, l'utilisateur peut le faire via un câblage.
 
-**Étape 1.**Connectez le clavier au panneau via le câblage.
+\*\*Étape 1.\*\*Connectez le clavier au panneau via le câblage.
 
-**Étape 2.**Choisissez une zone localisée et une zone libre pour rejoindre le réseau du système.
+\*\*Étape 2.\*\*Choisissez une zone localisée et une zone libre pour rejoindre le réseau du système.
 
-**Choisir****Zone et zones**
+**Choisir\*\*\*\*Zone et zones**
 
-**A n d****Entrer****Codes**
+**A n dEntrerCodes**
 
--   **Zone 1 Zone 2**
--   **Z o n e 1 Z o n e 3**
+* **Zone 1 Zone 2**
+* **Z o n e 1 Z o n e 3**
 
-**Étape 3.**Entrez le code PIN de la zone localisée.
+\*\*Étape 3.\*\*Entrez le code PIN de la zone localisée.
 
 **E n t**
 
@@ -206,7 +222,7 @@ En plus de l'opération sans fil pour rejoindre le réseau du système comme ind
 
 **C o d e**
 
-**Étape 4.**Entrez le code installateur. (Par défaut : 7982)
+\*\*Étape 4.\*\*Entrez le code installateur. (Par défaut : 7982)
 
 **E n t**
 
@@ -218,35 +234,37 @@ En plus de l'opération sans fil pour rejoindre le réseau du système comme ind
 
 **C o d e**
 
-**Étape 5.**Le clavier est ajouté à la zone localisée et à la zone que vous avez choisies.
+\*\*Étape 5.\*\*Le clavier est ajouté à la zone localisée et à la zone que vous avez choisies.
 
-**Ajoutée****Clavier****À**
+**AjoutéeClavierÀ**
 
-**Sont un 1****Z o n e 1**
+**Sont un 1\*\*\*\*Z o n e 1**
 
--   _**Identification**_
+* _**Identification**_
 
 Le "**Identifier**La fonction " est utilisée pour localiser un appareil câblé spécifique dans l'ensemble du système câblé. Cette fonction est utile pour distinguer quel appareil est quel appareil, en particulier dans une grande installation où de nombreux appareils câblés sont inclus.
 
-Pour localiser le KPT-35N-Combo-BYD dans le système filaire :
+Pour localiser le KPT-35N-Combo-BYD dans le système filaire :
 
-**Étape 1.**Sur la page Web du panneau, cliquez sur « Identifier » sous la liste des appareils après l'entrée dans la colonne des appareils du clavier.
+\*\*Étape 1.\*\*Sur la page Web du panneau, cliquez sur « Identifier » sous la liste des appareils après l'entrée dans la colonne des appareils du clavier.
 
-**Étape 2.**Si le KPT-35N-Combo-BYD reçoit le signal du panneau, la page Web affichera un message de réussite et le rétroéclairage blanc du clavier filaire/sans fil clignotera 10 fois pour indiquer à l'utilisateur où il se trouve.
+\*\*Étape 2.\*\*Si le KPT-35N-Combo-BYD reçoit le signal du panneau, la page Web affichera un message de réussite et le rétroéclairage blanc du clavier filaire/sans fil clignotera 10 fois pour indiquer à l'utilisateur où il se trouve.
 
-_\\<NOTE>_
+_\\_
 
--   -   -   Si un message de délai d'attente s'affiche sur la page Web, cela signifie que le clavier filaire/sans fil n'a pas reçu le signal du panneau.
+*
+  *
+    * Si un message de délai d'attente s'affiche sur la page Web, cela signifie que le clavier filaire/sans fil n'a pas reçu le signal du panneau.
 
 Veuillez vérifier si le KPT-35N-Combo-BYD est correctement connecté au panneau à une distance de câblage appropriée.
 
--   _**Vérification de l'état de la zone**_
-    -   Le clavier filaire/sans fil permet aux utilisateurs de vérifier le mode d'état de chaque zone. Lorsque le panneau de commande est en mode veille, appuyez sur la touche OK et l'état actuel de chaque zone s'affichera sur l'écran LCD pendant 3 secondes.
+* _**Vérification de l'état de la zone**_
+  * Le clavier filaire/sans fil permet aux utilisateurs de vérifier le mode d'état de chaque zone. Lorsque le panneau de commande est en mode veille, appuyez sur la touche OK et l'état actuel de chaque zone s'affichera sur l'écran LCD pendant 3 secondes.
 
- Il existe trois états différents : A = Armé Absent / H = Armé Domicile / D = Système Désarmé.
+ Il existe trois états différents : A = Armé Absent / H = Armé Domicile / D = Système Désarmé.
 
--   Un point d'interrogation "?" sera affiché si l’état de la zone ne peut pas être identifié.
--   Exemple:
+* Un point d'interrogation "?" sera affiché si l’état de la zone ne peut pas être identifié.
+* Exemple:
 
 5
 
@@ -254,25 +272,27 @@ Veuillez vérifier si le KPT-35N-Combo-BYD est correctement connecté au panneau
 | - | ------ | ------ | ----- | ------ | ----- | ------ | ----- | ------ | ----- | ------ | ----- | ------ | ----- | ------ | ----- |
 |   | **UN** | **\|** | **H** | **\|** | **D** | **\|** | **?** | **\|** | **D** | **\|** | **H** | **\|** | **?** | **\|** | **?** |
 
--   _**Changement de mode système**_
+* _**Changement de mode système**_
 
 Les utilisateurs peuvent utiliser le clavier pour changer le mode système avec un code PIN ou une étiquette NFC.
 
-1.  **Changez le mode système avec un code PIN :**
+1. **Changez le mode système avec un code PIN :**
 
 Après avoir saisi le code PIN, appuyez sur la touche**Armer/Accueil Armer/OK**clé pour entrer**Armé Absent/Armé Domicile/Système Désarmé**mode.
 
-1.  **Changez le mode système avec une étiquette :**
+1. **Changez le mode système avec une étiquette :**
 
-appuie sur le**Armer/Accueil Armer/OK**puis faites glisser l'étiquette. Si les informations sur l'étiquette sont correctes, « Succès » s'affichera sur l'écran LCD, indiquant que le système est entré**Armé Absent/Armé Domicile/Système Désarmé**mode.
+appuie sur le**Armer/Accueil Armer/OK**puis faites glisser l'étiquette. Si les informations sur l'étiquette sont correctes, « Succès » s'affichera sur l'écran LCD, indiquant que le système est entré**Armé Absent/Armé Domicile/Système Désarmé**mode.
 
--   -   Lorsque le mode système passe en mode désarmé, l'écran LCD affichera « Mémoire d'alarme du numéro de zone » et la LED jaune clignotera une fois toutes les 3 secondes avec 5 bips si une ou plusieurs alarmes ont été déclenchées auparavant. Les utilisateurs peuvent accéder manuellement au menu utilisateur pour afficher la mémoire d'alarme (veuillez vous référer à la section Menu utilisateur ci-dessous pour plus de détails).
-    -   **Fonction de bras rapide :**Les utilisateurs peuvent accéder au menu de configuration pour activer la fonction d'armement rapide (choisissez**Paramètres > Armement rapide > Activer**, puis appuyez sur OK), ce qui permettra aux utilisateurs de changer de mode en appuyant sur la touche Armer ou sur la touche Armer Accueil sans saisir le code PIN ni glisser l'étiquette. Pour désarmer le système, les utilisateurs doivent toujours saisir le code PIN ou utiliser l'étiquette.
-    -   Après avoir accédé au menu utilisateur avec le système désarmé, les utilisateurs peuvent également sélectionner**Bras extérieur**ou**Bras d'accueil**, puis appuyez sur OK pour modifier le mode système.
--   _**Menu utilisateur**_
-    -   -   Le clavier communiquera avec le système pour récupérer des informations avant d'accéder au menu utilisateur. Les options suivantes seront affichées sur l’écran LCD pour la sélection. Utiliser****et****pour sélectionner et appuyez sur les touches**D'ACCORD**touche pour confirmer votre sélection.
-        -   Pour accéder au menu utilisateur, appuyez et maintenez «**＊**" pendant 2 secondes en mode veille du clavier lorsque le système de la zone où se trouve le KPT-35N-Combo-BYD est déjà en**Mode désarmé**.
-        -   Le clavier quittera automatiquement le menu utilisateur après 20 secondes d'inactivité.
+*
+  * Lorsque le mode système passe en mode désarmé, l'écran LCD affichera « Mémoire d'alarme du numéro de zone » et la LED jaune clignotera une fois toutes les 3 secondes avec 5 bips si une ou plusieurs alarmes ont été déclenchées auparavant. Les utilisateurs peuvent accéder manuellement au menu utilisateur pour afficher la mémoire d'alarme (veuillez vous référer à la section Menu utilisateur ci-dessous pour plus de détails).
+  * **Fonction de bras rapide :Les utilisateurs peuvent accéder au menu de configuration pour activer la fonction d'armement rapide (choisissezParamètres > Armement rapide > Activer**, puis appuyez sur OK), ce qui permettra aux utilisateurs de changer de mode en appuyant sur la touche Armer ou sur la touche Armer Accueil sans saisir le code PIN ni glisser l'étiquette. Pour désarmer le système, les utilisateurs doivent toujours saisir le code PIN ou utiliser l'étiquette.
+  * Après avoir accédé au menu utilisateur avec le système désarmé, les utilisateurs peuvent également sélectionner**Bras extérieur**ou**Bras d'accueil**, puis appuyez sur OK pour modifier le mode système.
+* _**Menu utilisateur**_
+  *
+    * Le clavier communiquera avec le système pour récupérer des informations avant d'accéder au menu utilisateur. Les options suivantes seront affichées sur l’écran LCD pour la sélection. Utiliser****et****pour sélectionner et appuyez sur les touches**D'ACCORD**touche pour confirmer votre sélection.
+    * Pour accéder au menu utilisateur, appuyez et maintenez «**＊**" pendant 2 secondes en mode veille du clavier lorsque le système de la zone où se trouve le KPT-35N-Combo-BYD est déjà en**Mode désarmé**.
+    * Le clavier quittera automatiquement le menu utilisateur après 20 secondes d'inactivité.
 
 |   | **UN** | **Dans**  | **un**   | **et**    |        | **UN** | **r**  | **m**     |       |       |       |        |        |   |   |
 | - | ------ | --------- | -------- | --------- | ------ | ------ | ------ | --------- | ----- | ----- | ----- | ------ | ------ | - | - |
@@ -283,18 +303,18 @@ appuie sur le**Armer/Accueil Armer/OK**puis faites glisser l'étiquette. Si les 
 |   | **B**  | **et**    | **p**    | **un**    | **s**  | **s**  |        |           |       |       |       |        |        |   |   |
 |   | **S**  | **C'est** | **t**    | **t**     | **je** | **n**  | **g**  |           |       |       |       |        |        |   |   |
 
--   **Bras extérieur :**Sélectionnez « Armé en absence » et appuyez sur la touche OK pour changer le mode du système en « Armé en absence ».
--   **Bras domestique :**Sélectionnez « Home Arm » et appuyez sur la touche OK pour changer le mode système en « Home Armed ».
--   **Mémoire d'alarme :**Cette option deviendra disponible après le déclenchement d’une alarme. L’entrée dans le menu utilisateur sera automatiquement dirigée vers l’option Mémoire d’alarme. Presse**D'ACCORD**pour confirmer la sélection, puis utilisez****et****touches pour visualiser la mémoire des alarmes.
-    -   **Affichage des défauts :**Cette option deviendra disponible lorsqu'un événement de panne existe dans le système. Pour afficher les événements de défaut, sélectionnez « Affichage des défauts » et appuyez sur OK pour confirmer la sélection. Utilisez les touches  et  pour afficher les événements de défaut et appuyez sur la touche pour revenir au menu utilisateur.
+* \*\*Bras extérieur :\*\*Sélectionnez « Armé en absence » et appuyez sur la touche OK pour changer le mode du système en « Armé en absence ».
+* \*\*Bras domestique :\*\*Sélectionnez « Home Arm » et appuyez sur la touche OK pour changer le mode système en « Home Armed ».
+* **Mémoire d'alarme :Cette option deviendra disponible après le déclenchement d’une alarme. L’entrée dans le menu utilisateur sera automatiquement dirigée vers l’option Mémoire d’alarme. PresseD'ACCORD**pour confirmer la sélection, puis utilisez****et****touches pour visualiser la mémoire des alarmes.
+  * \*\*Affichage des défauts :\*\*Cette option deviendra disponible lorsqu'un événement de panne existe dans le système. Pour afficher les événements de défaut, sélectionnez « Affichage des défauts » et appuyez sur OK pour confirmer la sélection. Utilisez les touches  et  pour afficher les événements de défaut et appuyez sur la touche pour revenir au menu utilisateur.
 
-_\\<NOTE>_
+_\\_
 
--   La LED jaune clignote une fois toutes les 3 secondes lorsqu'une situation de défaut est détectée et s'éteint lorsque toutes les situations de défaut sont effacées.
--   Si vous essayez d'armer le système lorsqu'un événement de défaut existe, l'armement sera interdit et l'écran LCD passera à l'affichage des défauts. Si vous souhaitez armer le système de force, effectuez à nouveau l'action d'armement dans les 30 secondes. Le système ignorera l'événement de panne et entrera dans le mode d'armement sélectionné.
-    -   **Enregistrer:**Sélectionnez «Journal» et appuyez sur OK pour afficher le journal système. Utilisez les touches  et  pour visualiser les événements et appuyez sur la touche pour revenir au menu utilisateur.
-    -   **Contourne:**Cette fonction est uniquement disponible en connexion filaire. «Entrez le code M.» s'affichera sur l'écran LCD (le code M. par défaut est**1111**). Le panneau ignorera tous les signaux reçus du périphérique contourné et ne répondra pas du tout lorsque ce périphérique est déclenché.
-    -   **Paramètre:**Pour une connexion sans fil, après être entré dans le menu utilisateur, saisissez le code M. par défaut «**1111**» pour accéder au menu de réglage. Pour une connexion filaire, saisissez le code I. par défaut «**7982**» pour accéder au menu de réglage. Utilisez les touches  et  pour sélectionner les options de réglage et appuyez sur la touche pour revenir au menu utilisateur.
+* La LED jaune clignote une fois toutes les 3 secondes lorsqu'une situation de défaut est détectée et s'éteint lorsque toutes les situations de défaut sont effacées.
+* Si vous essayez d'armer le système lorsqu'un événement de défaut existe, l'armement sera interdit et l'écran LCD passera à l'affichage des défauts. Si vous souhaitez armer le système de force, effectuez à nouveau l'action d'armement dans les 30 secondes. Le système ignorera l'événement de panne et entrera dans le mode d'armement sélectionné.
+  * \*\*Enregistrer:\*\*Sélectionnez «Journal» et appuyez sur OK pour afficher le journal système. Utilisez les touches  et  pour visualiser les événements et appuyez sur la touche pour revenir au menu utilisateur.
+  * **Contourne:Cette fonction est uniquement disponible en connexion filaire. «Entrez le code M.» s'affichera sur l'écran LCD (le code M. par défaut est1111**). Le panneau ignorera tous les signaux reçus du périphérique contourné et ne répondra pas du tout lorsque ce périphérique est déclenché.
+  * \*\*Paramètre:\*\*Pour une connexion sans fil, après être entré dans le menu utilisateur, saisissez le code M. par défaut «**1111**» pour accéder au menu de réglage. Pour une connexion filaire, saisissez le code I. par défaut «**7982**» pour accéder au menu de réglage. Utilisez les touches  et  pour sélectionner les options de réglage et appuyez sur la touche pour revenir au menu utilisateur.
 
 |   | **B**  | **C'est** | **C'est** | **p**     |          | **C**     | **Ô**  | **n**     | **t**  | **r** | **Ô**  | **l** |       |           |   |
 | - | ------ | --------- | --------- | --------- | -------- | --------- | ------ | --------- | ------ | ----- | ------ | ----- | ----- | --------- | - |
@@ -305,7 +325,7 @@ _\\<NOTE>_
 |   | **L**  | **un**    | **n**     | **g**     | **dans** | **un**    | **g**  | **C'est** |        |       |        |       |       |           |   |
 |   | **C**  | **h**     | **un**    | **n**     | **g**    | **C'est** |        | **M.**    | **.**  |       | **C**  | **Ô** | **d** | **C'est** |   |
 
--   **Langue:**Sélectionnez « Langue » et appuyez sur la touche OK pour accéder au menu de langue. Utilisez les touches  et  pour sélectionner les 6
+* \*\*Langue:\*\*Sélectionnez « Langue » et appuyez sur la touche OK pour accéder au menu de langue. Utilisez les touches  et  pour sélectionner les 6
 
 langue d'affichage et appuyez sur la touche pour revenir au menu utilisateur.
 
@@ -318,73 +338,82 @@ langue d'affichage et appuyez sur la touche pour revenir au menu utilisateur.
 |   | **L**  | **t**     | **un**   | **l**     | **je**   | **un** | **n**    | **Ô**     |       |       |   |   |   |   |   |
 |   | **N**  | **C'est** | **d**    | **C'est** | **r**    | **l**  | **un**   | **n**     | **d** | **s** |   |   |   |   |   |
 
--   -   **Changer le code M. :**Cette fonction est uniquement disponible sous connexion sans fil. Le code M. par défaut est**1111**. Les utilisateurs peuvent le modifier manuellement, et ce n'est que lorsque le code M. correct est saisi que l'utilisateur peut accéder au menu de configuration.
--   _**Résultat du changement de mode**_
-    -   -   **Armé absent :**Lorsque le système passe en mode « Armé en absence », « N° de zone armée en absence » s'affichera sur l'écran LCD avec un long bip indiquant le fonctionnement réussi.
-        -   **Armé à domicile :**Lorsque le système passe en mode « Armé à domicile », « N° de zone armé à domicile » s'affichera sur l'écran LCD avec 3 bips indiquant un fonctionnement réussi.
-        -   **Système désarmé :**Lorsque le système passe en mode « Système désarmé », « N° de zone Système désarmé » s'affichera sur l'écran LCD avec 2 bips indiquant un fonctionnement réussi.
-        -   **Délai de sortie/entrée :**Lorsque le temporisateur d'entrée/sortie est activé dans le panneau de commande et que la fonction bip d'entrée/sortie est activée sur le clavier filaire/sans fil, le clavier filaire/sans fil compte à rebours avec le système lorsque le temporisateur d'entrée/sortie commence. "Décompte de la zone numéro." s'affichera sur l'écran LCD pendant 10 secondes. La LED verte s'allumera également pendant 10 secondes avec 1 bip toutes les secondes. Après 10 secondes, l'écran LCD et la LED verte s'éteindront, mais les bips d'avertissement continueront avec le compte à rebours du système.
-        -   **Erreur d'opération :**« Erreur de fonctionnement » s'affichera sur l'écran LCD avec 2 bips indiquant un fonctionnement infructueux ; par exemple, lorsque vous soumettez la demande de changement de mode depuis**Armé à l'extérieur**à**Armé à domicile**mode.
-        -   **Affichage des défauts**: Lorsque le système s'arme avec un défaut, « Affichage du défaut » s'affichera sur l'écran LCD avec 3 bips indiquant un défaut d'armement.
-        -   **Code PIN incorrect :**Lorsqu'un mot de passe incorrect est soumis, « Code PIN incorrect » s'affichera sur l'écran LCD avec 4 bips indiquant un mot de passe erroné saisi.
+*
+  * **Changer le code M. :Cette fonction est uniquement disponible sous connexion sans fil. Le code M. par défaut est1111**. Les utilisateurs peuvent le modifier manuellement, et ce n'est que lorsque le code M. correct est saisi que l'utilisateur peut accéder au menu de configuration.
+* _**Résultat du changement de mode**_
+  *
+    * \*\*Armé absent :\*\*Lorsque le système passe en mode « Armé en absence », « N° de zone armée en absence » s'affichera sur l'écran LCD avec un long bip indiquant le fonctionnement réussi.
+    * \*\*Armé à domicile :\*\*Lorsque le système passe en mode « Armé à domicile », « N° de zone armé à domicile » s'affichera sur l'écran LCD avec 3 bips indiquant un fonctionnement réussi.
+    * \*\*Système désarmé :\*\*Lorsque le système passe en mode « Système désarmé », « N° de zone Système désarmé » s'affichera sur l'écran LCD avec 2 bips indiquant un fonctionnement réussi.
+    * \*\*Délai de sortie/entrée :\*\*Lorsque le temporisateur d'entrée/sortie est activé dans le panneau de commande et que la fonction bip d'entrée/sortie est activée sur le clavier filaire/sans fil, le clavier filaire/sans fil compte à rebours avec le système lorsque le temporisateur d'entrée/sortie commence. "Décompte de la zone numéro." s'affichera sur l'écran LCD pendant 10 secondes. La LED verte s'allumera également pendant 10 secondes avec 1 bip toutes les secondes. Après 10 secondes, l'écran LCD et la LED verte s'éteindront, mais les bips d'avertissement continueront avec le compte à rebours du système.
+    * **Erreur d'opération :**« Erreur de fonctionnement » s'affichera sur l'écran LCD avec 2 bips indiquant un fonctionnement infructueux ; par exemple, lorsque vous soumettez la demande de changement de mode depuis**Armé à l'extérieur**à**Armé à domicile**mode.
+    * **Affichage des défauts**: Lorsque le système s'arme avec un défaut, « Affichage du défaut » s'affichera sur l'écran LCD avec 3 bips indiquant un défaut d'armement.
+    * \*\*Code PIN incorrect :\*\*Lorsqu'un mot de passe incorrect est soumis, « Code PIN incorrect » s'affichera sur l'écran LCD avec 4 bips indiquant un mot de passe erroné saisi.
 
-_\\<NOTE>_
+_\\_
 
--   -   Une fois la demande de changement de mode soumise, si aucun signal n'est reçu de la centrale, le clavier reviendra en mode veille dans les 15 secondes.
-    -   S'il y a 5 tentatives de code PIN incorrectes dans les 10 minutes, le clavier filaire/sans fil sera automatiquement verrouillé pendant 5 minutes. Durant cette période, toute opération sera invalide. Lorsque le temps de verrouillage expire, le clavier filaire/sans fil émettra 1 bip long.
--   _**Fonctions d'alarme à double touche**_
-    -   -   La fonction double touche est désactivée par défaut. Pour l'activer, entrez dans le menu de configuration du clavier filaire/sans fil pour définir les déclencheurs d'alarme (choisissez**Paramètres > Alarme de panique/Alarme incendie/Alarme médicale > Activer**, puis appuyez sur OK).
-        -   Alarme de panique : appuyez sur « 1 + 3 » pour déclencher une alarme de panique.
-        -   Alarme incendie : appuyez sur « 4 + 6 » pour déclencher une alarme incendie.
-        -   Alarme médicale : appuyez sur « 7 + 9 » pour déclencher une alarme médicale.
-        -   Lorsqu'une alarme se déclenche, « Alarme ! Alarme!" s'affichera sur l'écran LCD et la LED verte s'allumera pendant 10 secondes.
--   _**Contrôle du bip :**_
+*
+  * Une fois la demande de changement de mode soumise, si aucun signal n'est reçu de la centrale, le clavier reviendra en mode veille dans les 15 secondes.
+  * S'il y a 5 tentatives de code PIN incorrectes dans les 10 minutes, le clavier filaire/sans fil sera automatiquement verrouillé pendant 5 minutes. Durant cette période, toute opération sera invalide. Lorsque le temps de verrouillage expire, le clavier filaire/sans fil émettra 1 bip long.
+* _**Fonctions d'alarme à double touche**_
+  *
+    * La fonction double touche est désactivée par défaut. Pour l'activer, entrez dans le menu de configuration du clavier filaire/sans fil pour définir les déclencheurs d'alarme (choisissez**Paramètres > Alarme de panique/Alarme incendie/Alarme médicale > Activer**, puis appuyez sur OK).
+    * Alarme de panique : appuyez sur « 1 + 3 » pour déclencher une alarme de panique.
+    * Alarme incendie : appuyez sur « 4 + 6 » pour déclencher une alarme incendie.
+    * Alarme médicale : appuyez sur « 7 + 9 » pour déclencher une alarme médicale.
+    * Lorsqu'une alarme se déclenche, « Alarme ! Alarme!" s'affichera sur l'écran LCD et la LED verte s'allumera pendant 10 secondes.
+* _**Contrôle du bip :**_
 
 Cette fonction vous permet de définir les fonctions du bip d'avertissement du clavier.
 
--   -   **Bip d'entrée/sortie :**La fonction est désactivée par défaut. Pour l'activer, veuillez choisir**Paramètres > Contrôle du bip > Bip d'entrée/sortie > Activer**dans le menu utilisateur, puis appuyez sur OK pour confirmer le paramètre. La durée du bip d’entrée/sortie est de 4 minutes maximum.
-    -   **Bip d'alarme :**La fonction est désactivée par défaut. Pour l'activer, veuillez choisir**Paramètres > Contrôle du bip > Bip d'alarme > Activer**dans le menu utilisateur, puis appuyez sur OK pour confirmer le paramètre. La durée du bip d'alarme dure au maximum 15 minutes.
--   _**Conditions de défaut**_
+*
+  * **Bip d'entrée/sortie :La fonction est désactivée par défaut. Pour l'activer, veuillez choisirParamètres > Contrôle du bip > Bip d'entrée/sortie > Activer**dans le menu utilisateur, puis appuyez sur OK pour confirmer le paramètre. La durée du bip d’entrée/sortie est de 4 minutes maximum.
+  * **Bip d'alarme :La fonction est désactivée par défaut. Pour l'activer, veuillez choisirParamètres > Contrôle du bip > Bip d'alarme > Activer**dans le menu utilisateur, puis appuyez sur OK pour confirmer le paramètre. La durée du bip d'alarme dure au maximum 15 minutes.
+* _**Conditions de défaut**_
 
 _Lorsque le clavier filaire/sans fil est sous**MODE DE FONCTIONNEMENT NORMAL,**_
 
--   -   -   Si le panneau de commande est en mode Armé Absent, vous NE POUVEZ PAS activer le Mode Armé Domicile à l'aide du clavier filaire/sans fil. Si vous le faites, le clavier filaire/sans fil émettra 2 bips indiquant que le panneau de commande est en mode armé absent.
-        -   Lorsqu'une situation de défaut est détectée, la LED jaune clignote une fois toutes les 3 secondes. Le comportement de la LED jaune est décidé par le panneau de commande.
-        -   S'il y a 5 tentatives de code PIN incorrectes dans les 10 minutes, le clavier filaire/sans fil sera automatiquement verrouillé pendant 5 minutes. Durant cette période, toute opération sera invalide. Lorsque le temps de verrouillage expire, le clavier filaire/sans fil émettra 1 bip long.
--   _**Changement de piles**_
-    1.  Accédez au menu de programmation du panneau de commande pour contourner l'alarme d'autoprotection KPT.
-    2.  Démontez le clavier filaire/sans fil.
+*
+  *
+    * Si le panneau de commande est en mode Armé Absent, vous NE POUVEZ PAS activer le Mode Armé Domicile à l'aide du clavier filaire/sans fil. Si vous le faites, le clavier filaire/sans fil émettra 2 bips indiquant que le panneau de commande est en mode armé absent.
+    * Lorsqu'une situation de défaut est détectée, la LED jaune clignote une fois toutes les 3 secondes. Le comportement de la LED jaune est décidé par le panneau de commande.
+    * S'il y a 5 tentatives de code PIN incorrectes dans les 10 minutes, le clavier filaire/sans fil sera automatiquement verrouillé pendant 5 minutes. Durant cette période, toute opération sera invalide. Lorsque le temps de verrouillage expire, le clavier filaire/sans fil émettra 1 bip long.
+* _**Changement de piles**_
+  1. Accédez au menu de programmation du panneau de commande pour contourner l'alarme d'autoprotection KPT.
+  2. Démontez le clavier filaire/sans fil.
 
 7
 
--   1.  Retirez les deux piles usagées et appuyez sur l'interrupteur anti-sabotage pendant plus de 3 secondes pour les décharger complètement avant d'insérer de nouvelles piles. Ne mélangez pas des piles neuves et usagées.
-    2.  Revissez le clavier filaire/sans fil à la surface de montage à l'aide des vis de montage.
-    3.  Remettez le panneau de commande en mode de fonctionnement normal.
--   _**Réinitialiser le clavier filaire/sans fil aux paramètres d'usine par défaut**_
+*
+  1. Retirez les deux piles usagées et appuyez sur l'interrupteur anti-sabotage pendant plus de 3 secondes pour les décharger complètement avant d'insérer de nouvelles piles. Ne mélangez pas des piles neuves et usagées.
+  2. Revissez le clavier filaire/sans fil à la surface de montage à l'aide des vis de montage.
+  3. Remettez le panneau de commande en mode de fonctionnement normal.
+* _**Réinitialiser le clavier filaire/sans fil aux paramètres d'usine par défaut**_
 
-Le clavier filaire/sans fil peut être réinitialisé pour effacer toutes les données apprises et rétablir tous les paramètres aux valeurs par défaut en suivant les étapes ci-dessous :
+Le clavier filaire/sans fil peut être réinitialisé pour effacer toutes les données apprises et rétablir tous les paramètres aux valeurs par défaut en suivant les étapes ci-dessous :
 
-1.  Veuillez suivre_**Changement de piles**_étapes pour les paramètres d'usine par défaut.
-2.  Dans les 10 secondes après avoir inséré les piles, entrez « 0000 ». Lorsque le dernier chiffre de « 0000 » se transforme en «  » sur l'écran LCD, appuyez sur « # » pour réinitialiser le clavier filaire/sans fil aux valeurs par défaut.
-3.  « Réinitialiser les paramètres par défaut » s'affichera sur l'écran LCD avec 3 bips indiquant une opération réussie.
-4.  Toutes les données apprises seront effacées.
-5.  Les bips d’entrée/sortie seront désactivés.
-6.  Le bip d’alarme sera désactivé.
-7.  La fonction d’alarme Dual Key sera désactivée.
+1. Veuillez suivre\_**Changement de piles**\_étapes pour les paramètres d'usine par défaut.
+2. Dans les 10 secondes après avoir inséré les piles, entrez « 0000 ». Lorsque le dernier chiffre de « 0000 » se transforme en «  » sur l'écran LCD, appuyez sur « # » pour réinitialiser le clavier filaire/sans fil aux valeurs par défaut.
+3. « Réinitialiser les paramètres par défaut » s'affichera sur l'écran LCD avec 3 bips indiquant une opération réussie.
+4. Toutes les données apprises seront effacées.
+5. Les bips d’entrée/sortie seront désactivés.
+6. Le bip d’alarme sera désactivé.
+7. La fonction d’alarme Dual Key sera désactivée.
 
-_\\<NOTE>_
+_\\_
 
--   -   Le réglage d'usine par défaut ne peut être effectué que dans les 10 secondes suivant l'insertion des piles. Si le clavier ne se réveille pas dans les 10 secondes après l'insertion des piles, retirez les piles et réessayez.
-    -   Chaque fois que le clavier est retiré du panneau de commande, il doit également être mis aux paramètres d'usine par défaut pour effacer la mémoire de son panneau de commande.
--   _**Montage du clavier filaire/sans fil**_
+*
+  * Le réglage d'usine par défaut ne peut être effectué que dans les 10 secondes suivant l'insertion des piles. Si le clavier ne se réveille pas dans les 10 secondes après l'insertion des piles, retirez les piles et réessayez.
+  * Chaque fois que le clavier est retiré du panneau de commande, il doit également être mis aux paramètres d'usine par défaut pour effacer la mémoire de son panneau de commande.
+* _**Montage du clavier filaire/sans fil**_
 
-Pour monter le clavier filaire/sans fil :
+Pour monter le clavier filaire/sans fil :
 
-1.  Retirez le capot avant en desserrant la vis de fixation du capot à l'aide d'un tournevis.
-2.  Utilisez les 4 trous de montage sur le capot arrière comme modèle pour marquer et percer les trous de montage.
-3.  Percez 4 trous et insérez les chevilles. Assurez-vous que les chevilles murales affleurent la surface de montage.
-4.  Vissez le couvercle arrière sur les chevilles murales.
-5.  Remettez le capot avant sur le capot arrière. Vissez la vis de fixation du couvercle.
-6.  L'installation est maintenant terminée.
+1. Retirez le capot avant en desserrant la vis de fixation du capot à l'aide d'un tournevis.
+2. Utilisez les 4 trous de montage sur le capot arrière comme modèle pour marquer et percer les trous de montage.
+3. Percez 4 trous et insérez les chevilles. Assurez-vous que les chevilles murales affleurent la surface de montage.
+4. Vissez le couvercle arrière sur les chevilles murales.
+5. Remettez le capot avant sur le capot arrière. Vissez la vis de fixation du couvercle.
+6. L'installation est maintenant terminée.
 
 8
