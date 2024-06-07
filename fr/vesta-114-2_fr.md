@@ -1,14 +1,16 @@
 # VESTA 114
 
-![](<.gitbook/assets/0 (52).jpeg>)**CLAVIER COMBO FILAIRE/SANS FIL (KP-35-COMBO)**
+**CLAVIER COMBO FILAIRE/SANS FIL (KP-35-COMBO)**
 
 KP-35-COMBO est un clavier câblé et sans fil conçu pour permettre un contrôle d'accès rapide au panneau de commande du système. Le clavier peut envoyer des signaux filaires et sans fil et recevoir des signaux du panneau de commande à distance du fil, en fonction du calibre du fil et de la consommation électrique totale de tous les appareils filaires. L'écran LCD affichera les informations renvoyées par le panneau de commande du système.
 
 Le clavier filaire/sans fil peut être monté sur une surface plane ou sur un mur avec des vis. Il dispose également d'un interrupteur de protection anti-effraction qui sera activé en cas de tentative non autorisée d'ouverture du capot arrière.
 
-![](<.gitbook/assets/1 (44).jpeg>)
+{% hint style="warning" %}
+Important (_Panel FW: 30A - 32C_) ! pour **désarmer avec le badge**, il faut appuyer sur n'importe quelle touche de **0 à 9** avant de rapprocher le badge.
+{% endhint %}
 
-* **Identification des pièces**
+**Identification des pièces**
 
 ![](<.gitbook/assets/2 (40).jpeg>)
 
