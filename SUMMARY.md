@@ -179,6 +179,8 @@
 ## 📄 CERTIFICATES
 
 * [VESTA-177 / VESTA-176](certificates/vesta-177-vesta-176.md)
+* [VESTA-427](certificates/vesta-427.md)
+* [VESTA-428](certificates/vesta-428.md)
 
 ## 🧩 THIRD PARTIES
 
