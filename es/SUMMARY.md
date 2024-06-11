@@ -179,3 +179,4 @@
 * [CONSEJOS PARA EL VMAX BUS DE VESTA](vmax-bus-tips\_es.md)
 * [.gitbook](.gitbook/README.md)
   * [Table of contents](.gitbook/SUMMARY.md)
+* [Configuración de Vaelsys con paneles VESTA](configuracion-de-vaelsys-con-paneles-vesta.md)
