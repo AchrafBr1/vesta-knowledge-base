@@ -4,13 +4,17 @@
 
 This guide will explain how the integration of the megaphone with VESTA works. You'll learn about the setup process, key features, and how to maximize the effectiveness of this integration.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/cctv/accesorios/audio-profesional/VESTA-434">VESTA-434</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/cctv/accesorios/audio-profesional/VESTA-434">VESTA-434</a></p></figcaption></figure>
 
 ## 🔐 Local access
 
 The following is the local access data to the horn:
 
 <table data-header-hidden><thead><tr><th width="350"></th><th></th></tr></thead><tbody><tr><td>DEFAULT IP</td><td>192.168.5.200</td></tr><tr><td>DEFAULT USER NAME</td><td>admin</td></tr><tr><td>DEFAULT PASSWORD</td><td>admin</td></tr></tbody></table>
+
+## Load new audio file
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>To load new mp3 file</p></figcaption></figure>
 
 ## 📢 HTTP commands for running audio spots in VESTA
 
