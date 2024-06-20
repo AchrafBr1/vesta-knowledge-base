@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📚 WELCOME TO VESTA KNOWLEDGE BASE](README.md)
+* [📢 VESTA-434](vesta-434.md)
 * [Installer manual VESTA 068N](vesta-068n.md)
 * [VESTA 005N](vesta-005n.md)
 * [VESTA 006](vesta-006.md)
@@ -184,7 +185,6 @@
 
 ## 🧩 THIRD PARTIES
 
-* [VESTA-434](third-parties/vesta-434.md)
 * [CUDY-21](third-parties/cudy-21.md)
 * [SIMALARM](third-parties/simalarm.md)
 * [🛡️ ALARMSPACE](third-parties/alarmspace.md)
