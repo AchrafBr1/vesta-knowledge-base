@@ -184,6 +184,7 @@
 
 ## 🧩 THIRD PARTIES
 
+* [VESTA-434](third-parties/vesta-434.md)
 * [CUDY-21](third-parties/cudy-21.md)
 * [SIMALARM](third-parties/simalarm.md)
 * [🛡️ ALARMSPACE](third-parties/alarmspace.md)
