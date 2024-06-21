@@ -1,5 +1,27 @@
 # VESTA 019N
 
+
+
+## JUMPER CONFIGURATION
+
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Jumper config</p></figcaption></figure>
+
+{% hint style="success" %}
+**JP6: Door Contact or External Input Mode**
+
+* JP OFF: Door contact mode
+* JP ON: External input mode
+
+**JP5: NO/NC Mode**
+
+* JP OFF: NO (Normally Open)
+* JP ON: NC (Normally Closed)
+{% endhint %}
+
+
+
 **Door Contact (DC-23 / DC-23-R3) User Manual**
 
 The Door Contact monitors the opening/closing of specified devices (e.g., doors or windows). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch causing the Door Contact to transmit alarm signals to the Control Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
@@ -29,40 +51,11 @@ Used to fix and screw the Door Contact directly onto the door frame or the wall.
 When the Door Contact is mounted, the Tamper switch will be activated when the cover is opened or when the Door Contact is removed from the mounting surface.
 
 1. **Battery Insulator**
-2. **Supervision Jumper Switch (JP2) (**_**868WF model only**_**)**
 
-![](<.gitbook/assets/1 (32).jpeg>)
+6- The jumper link is removed or “**parked**” on one pin.
 
-**Jumper On**
-
-![](<.gitbook/assets/2 (25).jpeg>) ![](<.gitbook/assets/3 (26).jpeg>)
-
-The jumper link is inserted, connecting the two pins
-
-**Jumper Off**
-
-The jumper link is removed or “**parked**” on one pin.
-
-* Jumper ON: Supervision disabled
-* Jumper OFF: Supervision enabled **(Factory Default)**.
-
-**6. Reed Switch Jumper Switch (JP3)**
-
-![](<.gitbook/assets/4 (20).jpeg>)
-
-**Jumper On**
-
-![](<.gitbook/assets/5 (21).jpeg>) ![](<.gitbook/assets/6 (26).jpeg>)
-
-The jumper link is inserted, connecting the two pins
-
-**Jumper Off**
-
-The jumper link is removed or “**parked**” on one pin.
-
-*
-  * Jumper ON: Reed Switch disabled. Only the device connected to Extension Terminal will activate the Door Contact
-  * Jumper OFF: Reed Switch enabled **(Factory Default for all models)**.
+* Jumper ON: Reed Switch disabled. Only the device connected to Extension Terminal will activate the Door Contact
+* Jumper OFF: Reed Switch enabled **(Factory Default for all models)**.
 
 1. **Extension Terminal**
 
