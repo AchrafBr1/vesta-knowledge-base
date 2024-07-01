@@ -2,7 +2,7 @@
 
 
 
-## Puesta en marcha rápida Mobile Lite VESTA-388&#x20;
+## Puesta en marcha rápida Mobile Lite VESTA-338&#x20;
 
 
 
