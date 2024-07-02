@@ -56,7 +56,7 @@ La sirena funciona con alimentación de CA. Conecte la sirena a una toma de corr
 
 Después de un corte de energía de CA, la sirena transmitirá una señal de batería baja al panel de control cuando se detecte un voltaje de batería bajo. Para restaurar la batería, vuelva a enchufar la alimentación de CA a la toma de corriente. Después de 12 horas, la sirena transmitirá una notificación de restauración de batería baja al panel de control.
 
-1
+
 
 * _**Detección de falla de CA**_
 
@@ -83,8 +83,6 @@ Si esta señal no se recibe con la duración programada, el Panel de Control ind
 {% hint style="warning" %}
 **Importante!** En caso de cambiar de AREA la sirena desde SHS, pulsar el botón learn nuevamente en la sirena para aplicar el cambio correctamente.
 {% endhint %}
-
-
 
 **Programando la sirena**
 
