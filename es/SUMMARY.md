@@ -3,7 +3,7 @@
 * [📙 MANUALES Y GUÍAS](README.md)
 * [🛡️ ALARMSPACE](alarmspace.md)
 * [🙍 GUÍA DE USUARIO SmartHomeSec](guia-de-usuario-smarthomesec.md)
-* [👨‍🔧 MANUAL DE INSTALADOR (modelos HSGW & HyBRID)](manual-de-instalador-modelos-hsgw-and-hybrid.md)
+* [👨‍🔧 MANUAL DE INSTALADOR SmartHomeSec](manual-de-instalador-smarthomesec.md)
 * [MODELOS](models\_es.md)
 * [VESTA 005N](vesta-005n\_es.md)
 * [VESTA 006](vesta-006\_es.md)
