@@ -23,7 +23,7 @@ Presione el botón Prueba para ingresar al modo de prueba durante 3 minutos.
 
 **Puente encendido\*\*\*\*Puente apagado**
 
-![](<.gitbook/assets/2 (3).jpeg>) ![](<.gitbook/assets/3 (1) (1).jpeg>)
+![](<.gitbook/assets/2 (3).jpeg>) ![](<.gitbook/assets/3 (1) (1) (2).jpeg>)
 
 Se inserta el enlace del puente, conectando los dos. Se retira el enlace del puente o "**estacionado**" en uno
 
@@ -124,10 +124,9 @@ El terminal de extensión puede resultar útil para las siguientes situaciones:
 * ![](<.gitbook/assets/13 (5).png>)_**Precaución**_
   * El cableado del contacto de la puerta sólo debe ser realizado por técnicos certificados con el conocimiento y la formación adecuados en equipos eléctricos.
   * Antes de la instalación o cualquier trabajo de mantenimiento, asegúrese de que la fuente de alimentación esté desconectada.
-* _**Cableado de contacto de puerta**_
-  *
-    * Antes de conectar el contacto de puerta cableado al BUS del sistema, apague la alimentación.
-    * Para ayudar con las conexiones de cables, los bloques de terminales de cada módulo del sistema BUS están codificados por colores.
+* _**Cableado de contacto de puerta**_ \*
+  * Antes de conectar el contacto de puerta cableado al BUS del sistema, apague la alimentación.
+  * Para ayudar con las conexiones de cables, los bloques de terminales de cada módulo del sistema BUS están codificados por colores.
 
 ![](<.gitbook/assets/14 (4).png>) ![](<.gitbook/assets/15 (2).jpeg>)
 
@@ -221,11 +220,10 @@ Verifique si DC-23-BUS está conectado correctamente al panel dentro de la dista
 
 1. Encuentre una ubicación adecuada cerca de su puerta/ventana para instalar el contacto de puerta cableado.
 2. El contacto de puerta cableado tiene 2 marcas de nervaduras en un lado (consulte la figura), que marcan la ubicación del interruptor magnético interno. El contacto de puerta cableado debe instalarse en posición vertical o invertida para garantizar que el lado marcado con nervaduras mire hacia el imán.
-3. Para montar el contacto de puerta cableado:
-   *
-     1. Utilice los 2 orificios de montaje como plantilla y taladre orificios en el marco que se va a montar.
-     2. Utilice los tacos de pared proporcionados para la instalación de yeso/ladrillo.
-     3. Atornille el contacto de la puerta en los tacos de pared proporcionados.
+3. Para montar el contacto de puerta cableado: \*
+   1. Utilice los 2 orificios de montaje como plantilla y taladre orificios en el marco que se va a montar.
+   2. Utilice los tacos de pared proporcionados para la instalación de yeso/ladrillo.
+   3. Atornille el contacto de la puerta en los tacos de pared proporcionados.
 4. Para montar el imán:
    1. Utilice los 2 orificios para tornillos magnéticos como plantilla y taladre orificios en la puerta/ventana que se va a montar.
 

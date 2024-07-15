@@ -42,7 +42,7 @@ Se inserta el enlace del puente, conectando los dos pines.
 
 **Puente apagado**
 
-![](<.gitbook/assets/3 (1).jpeg>)
+![](<.gitbook/assets/3 (1) (1).jpeg>)
 
 El enlace del puente se elimina o "**estacionado**”en un alfiler.
 
@@ -128,9 +128,8 @@ El PIR se puede poner en modo de prueba presionando el botón de prueba. Cada ve
     *
       1. En Home Portal Server, vaya a la página de configuración del dispositivo, haga clic en la fila del dispositivo IR-35 y seleccione "Configuración de IR".
       2. Seleccione la función Inmunidad a mascotas (Activar/Desactivar) y Sensibilidad (Alta/Normal) de las listas desplegables, haga clic en "Enviar" para confirmar la configuración.
-* _**Fuente de alimentación**_
-  *
-    * Cuando el IR-35-BUS está cableado a un panel híbrido, el panel híbrido puede proporcionar una fuente de alimentación de 13,5 V.
+* _**Fuente de alimentación**_ \*
+  * Cuando el IR-35-BUS está cableado a un panel híbrido, el panel híbrido puede proporcionar una fuente de alimentación de 13,5 V.
 * _**Precaución**_
   * El cableado del sensor de movimiento PIR sólo debe realizarlo un técnico certificado con el conocimiento y la formación adecuados en equipos eléctricos.
   * Antes de la instalación o cualquier trabajo de mantenimiento, asegúrese de que la fuente de alimentación esté desconectada.

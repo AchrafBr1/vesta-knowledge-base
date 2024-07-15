@@ -1,4 +1,4 @@
-# 🛡 ALARMSPACE
+# 🛡️ ALARMSPACE
 
 **MANUAL DE USUARIO V.3.0.1.4-003**
 
@@ -6,9 +6,9 @@
 
 **Software de CRA para control de dispositivos de seguridad e incendio**
 
-![](<.gitbook/assets/0 (1).png>)
+![](<.gitbook/assets/0 (1) (1).png>)
 
-![](<.gitbook/assets/1 (1).png>)
+![](<.gitbook/assets/1 (1) (1).png>)
 
 \
 **ÍNDICE**
@@ -229,11 +229,11 @@ _5.3.1.11. API Múltiple_ 86
 
 7\. Módulo Visor Cámaras 102
 
-### &#x20;1. Introducción <a href="#toc84228587" id="toc84228587"></a>
+### 1. Introducción <a href="#toc84228587" id="toc84228587"></a>
 
 AlarmSpace es una plataforma de software para el control, monitorización y visualización de videograbadores y cámaras.
 
-### &#x20;1.1. Funciones <a href="#toc84228588" id="toc84228588"></a>
+### 1.1. Funciones <a href="#toc84228588" id="toc84228588"></a>
 
 · Visualización de cámaras en tiempo real​
 
@@ -241,17 +241,17 @@ AlarmSpace es una plataforma de software para el control, monitorización y visu
 
 · Gestión de entradas de alarmas y de alarmas técnicas de los videograbadores​
 
-· Integración con los principales software de CRA.&#x20;
+· Integración con los principales software de CRA.
 
-### &#x20;1.2. Novedades <a href="#toc84228589" id="toc84228589"></a>
+### 1.2. Novedades <a href="#toc84228589" id="toc84228589"></a>
 
 AlarmSpace integra también otros dispositivos como Videoporteros y Centrales de Incendio Convencionales de Honeywell. Además, funciona como una pasarela para la recepción, gestión y retransmisión de eventos de la Central Vesta.
 
-### &#x20;2. Módulo Servidor <a href="#toc84228590" id="toc84228590"></a>
+### 2. Módulo Servidor <a href="#toc84228590" id="toc84228590"></a>
 
 El módulo servidor de Alarmspace es solo accesible por usuarios de tipo administrador. Sus funciones principales son las altas y modificaciones de usuarios, de equipos, asignaciones de cámaras a usuarios, configuraciones de acciones de alarmas, de códigos de pasarela, de parámetros de receptora y realización y configuración de copias de seguridad de los datos sensibles del programa.
 
-### &#x20;2.1. Login <a href="#toc84228591" id="toc84228591"></a>
+### 2.1. Login <a href="#toc84228591" id="toc84228591"></a>
 
 El módulo Servidor de AlarmSpace requiere un acceso a través de un usuario de nivel _Administrador._ El usuario por defecto es:
 
@@ -261,15 +261,15 @@ Contraseña: 12345
 
 Después se puede cambiar la contraseña del administrador y crear más usuarios administradores en el menú Usuarios.
 
-![](<.gitbook/assets/2 (1).png>)
+![](<.gitbook/assets/2 (1) (1).png>)
 
 La pantalla de acceso al servidor nos informa de la versión actual de AlarmSpace, nos pide Usuario y contraseña y podemos _Aceptar_ para entrar en el Servidor o _Salir_ para abortar la operación. El último usuario utilizado queda registrado y aparecerá por defecto la próxima vez que se ejecute el Servidor.
 
-### &#x20;2.2. Usuarios <a href="#toc84228592" id="toc84228592"></a>
+### 2.2. Usuarios <a href="#toc84228592" id="toc84228592"></a>
 
 Altas y modificaciones de usuarios.
 
-#### &#x20;2.2.1. Gestión de Usuarios <a href="#toc84228593" id="toc84228593"></a>
+#### 2.2.1. Gestión de Usuarios <a href="#toc84228593" id="toc84228593"></a>
 
 ![](<.gitbook/assets/3 (1).png>)
 
@@ -285,35 +285,35 @@ También se pueden eliminar usuarios cargando el Usuario con doble-click y pulsa
 
 Para descartar los cambios que se están realizando podemos pulsar el botón _Cancelar._
 
-#### &#x20;2.2.2. Grupos de Usuario <a href="#toc84228594" id="toc84228594"></a>
+#### 2.2.2. Grupos de Usuario <a href="#toc84228594" id="toc84228594"></a>
 
 A los usuarios que hemos definido en el punto anterior podemos asignarles uno o más grupos. Como los usuarios pueden usarse para controlar remotamente paneles de intrusión desde AlarmSpace (Ver Módulo Visor – Acceso Bidireccional para centrales VESTA), estos grupos nos sirven para asignarle al usuario un conjunto de paneles que el usuario tiene permisos para controlar. La operativa es asignar el grupo al panel (en Control de abonados) y al asignar el grupo al usuario, el panel le será asignado automáticamente.
 
 Para asignar un grupo a un usuario primero seleccionamos el usuario en el desplegable:
 
-![](.gitbook/assets/5.png)
+![](<.gitbook/assets/5 (1).png>)
 
 Una vez seleccionado en la parte inferior asignamos el grupo/grupos que le queramos asignar (o seleccionamos “Todos los Grupos”) y pulsamos en “Añadir Grupo”:
 
-![](.gitbook/assets/6.png)
+![](<.gitbook/assets/6 (14).png>)
 
 El Grupo quedará asignado al Usuario:
 
-![](.gitbook/assets/7.png)
+![](<.gitbook/assets/7 (1).png>)
 
 Si deseamos quitar un grupo a un usuario, seleccionamos el usuario en el desplegable, doble-click sobre el grupo a quitar, se carga en la sección inferior y le damos a “Quitar Grupo”:
 
-![](.gitbook/assets/8.png)
+![](<.gitbook/assets/8 (1).png>)
 
-#### &#x20;2.2.3. Logout P2P Hyundai/Hikvision <a href="#toc84228595" id="toc84228595"></a>
+#### 2.2.3. Logout P2P Hyundai/Hikvision <a href="#toc84228595" id="toc84228595"></a>
 
 Si se utiliza el P2P de Hyundai y/o Hikvision podemos desconectar el usuario de P2P mediante este menú. La reconexión de nuevo con el mismo u otro usuario de P2P se lanzará automáticamente al arrancar el módulo servidor.
 
-### &#x20;2.3. DVR <a href="#toc84228596" id="toc84228596"></a>
+### 2.3. DVR <a href="#toc84228596" id="toc84228596"></a>
 
 Gestión de videograbadores, cámaras y dispositivos soportados.
 
-#### &#x20;2.3.1. Lista <a href="#toc84228597" id="toc84228597"></a>
+#### 2.3.1. Lista <a href="#toc84228597" id="toc84228597"></a>
 
 Altas y modificaciones de los equipos.
 
@@ -322,7 +322,7 @@ Altas y modificaciones de los equipos.
 
 Gestión de altas y modificaciones de los equipos. Se presentan en una tabla:
 
-![](<.gitbook/assets/9 (1).png>)
+![](<.gitbook/assets/9 (1) (2).png>)
 
 En cada fila vemos la información del equipo. Si tiene problemas de conexión la fila aparece en rojo.
 
@@ -336,7 +336,7 @@ Los equipos que se están visualizando según el filtro se pueden exportar a CSV
 
 Para gestionar cambios doble-click sobre la fila del equipo:
 
-![](.gitbook/assets/10.png)
+![](<.gitbook/assets/10 (14).png>)
 
 Si queremos añadir un nuevo equipo pulsamos en el botón Nuevo.
 
@@ -380,7 +380,7 @@ Contraseña: la contraseña del usuario anterior.
 
 Al pulsar _Cargar configuración_ el software intentará conectar con el equipo por las vías disponibles e informará de la correcta o incorrecta conexión por cada una de ellas.
 
-![](.gitbook/assets/11.png)
+![](<.gitbook/assets/11 (9).png>)
 
 Además, carga el número de serie leído en _Número de Serie,_ los canales totales del equipo en _Canales,_ los canales de salida y la Fecha del equipo.
 
@@ -388,11 +388,11 @@ Si pulsamos en _Guardar_ se guardarán los cambios y se añadirá la fila si era
 
 El botón _Datos_ permite asignar datos adicionales al equipo:
 
-![](.gitbook/assets/12.png)
+![](<.gitbook/assets/12 (1).png>)
 
 Se han añadido nuevos filtros para poder utilizar estos cambios:
 
-![](.gitbook/assets/13.png)
+![](<.gitbook/assets/13 (10).png>)
 
 Permite filtrar por población, provincia, teléfono y email.
 
@@ -401,7 +401,7 @@ Permite filtrar por población, provincia, teléfono y email.
 
 Al instalar o actualizar AlarmSpace aparece en la lista de DVR un grabador máster llamado MASTER\_BYDEMES. Se utiliza para enviar eventos genéricos del sistema al software de CRA. Se puede editar como cualquier otro DVR aunque no podemos conectar con él porque no existe físicamente. Podemos modificar el número de abonado que se mandará (por defecto 0000) y podemos elegir los eventos de alarma que queramos enviar:
 
-![](.gitbook/assets/14.png)
+![](<.gitbook/assets/14 (7).png>)
 
 Los tipos de alarmas a gestionar son:
 
@@ -422,7 +422,7 @@ _Rest. serv, P2P_ avisa cuando se restaura el servicio P2P contra ByDemes
 
 AlarmSpace es capaz de importar datos del programa SmartPSS de Dahua. La importación se hace a través del fichero devices.xml resultado de la exportación de SmartPSS. Importamos los datos sobre la plantilla de un DVR ya existente, para completar los datos que no contenga el fichero devices con los del modelo:
 
-![](.gitbook/assets/15.png)
+![](<.gitbook/assets/15 (1).png>)
 
 En este caso si pulsamos sobre _Importar DVR XML copiando el resto de datos,_ daríamos de alta los nuevos grabadores en AlarmSpace con los datos de devices.xml y el resto de datos del DVR _ColEvoP2PPrb._
 
@@ -433,7 +433,7 @@ También podemos crear nuevos equipos copiando los datos de otro. Si pulsamos en
 
 Programamos distintas opciones generales del equipo:
 
-![](.gitbook/assets/16.png)
+![](<.gitbook/assets/16 (1).png>)
 
 _Segundos grabación pre vídeo alarma:_ en caso de tener las entradas de vídeo cableadas, por detección de movimiento o eventos IVS, cuando llega una alarma de grabador AlarmSpace descarga un vídeo de unos segundos antes de la cámara asociada con la duración asignada en esta casilla. En el ejemplo 30 segundos de vídeo.
 
@@ -473,7 +473,7 @@ Sin uso en la actualidad
 
 Configurar las Alarmas que deseamos recibir y reenviar:
 
-![](.gitbook/assets/17.png)
+![](<.gitbook/assets/17 (1).png>)
 
 En esta pantalla inicial de alarmas marcamos los eventos generales del equipo que queremos monitorizar. Pulsamos el check al lado del evento y elegimos un tipo de evento a mandar en el desplegable. Los tipos de eventos se corresponden a los códigos (ContactID,SIA) que enviaremos al software de CRA. Son configurables a través de la sección _Pasarela_ del menú _Alarmas._ También elegimos la zona que mandaremos con el evento. En la sección enviar email podemos elegir no enviarlo, enviarlo al mail administrador (AS), configurado en _Configuración -> Parámetros Receptora,_ enviarlos al email de _Grupo_ o al email de cliente configurado en _Opciones_.
 
@@ -487,7 +487,7 @@ El botón _Calendario Alarmas_ establece un calendario en el que se reciben o no
 
 En el caso de vídeo-porteros tenemos otro tipo de alarma para monitorizar:
 
-![](.gitbook/assets/18.png)
+![](<.gitbook/assets/18 (1).png>)
 
 Es la _Llamada VTO._ Si está marcada se mandará el evento asociado a ALARMA MEDICA (Ver _Alarmas -> Pasarela_) cuando un usuario pulse el botón de llamada del VTO. Esto permitirá gestionar la llamada desde el Módulo ActiveX de AlarmSpace y hacer gestiones con los bObject de los softwares de CRA.
 
@@ -495,11 +495,11 @@ _Alarmas de incendio_
 
 En el caso de centrales de incendio convencionales de Honywell, nos aparece un botón para poder seleccionar más eventos para enviar a CRA:
 
-![](.gitbook/assets/19.png)
+![](<.gitbook/assets/19 (1).png>)
 
 Pulsando el botón _Más Eventos_ accedemos al siguiente formulario:
 
-![](.gitbook/assets/20.png)
+![](<.gitbook/assets/20 (8).png>)
 
 En el formulario aparecen todos los eventos genéricos de la central que no tenemos en la pestaña Alarmas anterior. Podemos marcar qué eventos queremos enviar a CRA marcando el check al lado del evento. El código que se enviará lo elegimos con el desplegable (con los códigos disponibles definidos en Alarmas - Pasarela). También podemos asignar un número de zona a asignar al evento tecleándolo en las casillas de _Zona._ Cuando hemos terminado los cambios debemos pulsar en el botón _Guardar_ para conservarlos.
 
@@ -552,7 +552,7 @@ En el ejemplo vemos los horarios del lunes. Los eventos saltarían de 12 de la n
 
 Podemos copiar estos horarios al resto de días de la semana con el botón _Copiar a todos los días,_ sólo de lunes a viernes o elegir los días a copiar con _Copiar a otros días:_
 
-**2.3.1.5. **_**Certificados**_
+**2.3.1.5. \_Certificados**\_
 
 Programamos la generación automatizada de certificados de las instalaciones. Si activamos esta opción en un DVR se generará un certificado de la instalación en el directorio _AutoCerts,_ dentro de la carpeta de trabajo de AlarmSpace:
 
@@ -574,7 +574,7 @@ _Hora envío_: podemos forzar una hora de generación y envío del certificado. 
 
 _Minutos Grabaciones:_ en caso de elegir el tipo de certificado completo, indicamos aquí los minutos anteriores a la generación del certificado que queremos buscar grabaciones existentes. Si se ponen muchos minutos (por ejemplo un mes) el certificado puede tener un número de hojas importante.
 
-#### &#x20;2.3.2. DVR por Usuario <a href="#toc84228607" id="toc84228607"></a>
+#### 2.3.2. DVR por Usuario <a href="#toc84228607" id="toc84228607"></a>
 
 Podemos asignar cámaras individualmente a usuarios, para que estos las puedan visualizar o no el Módulo Operador:
 
@@ -588,17 +588,17 @@ Podemos seleccionar un usuario modelo y asignarle las mismas cámaras al usuario
 
 Con el botón _Guardar_ dejamos los cambios registrados.
 
-#### &#x20;2.3.3. DVR por Grupo <a href="#toc84228608" id="toc84228608"></a>
+#### 2.3.3. DVR por Grupo <a href="#toc84228608" id="toc84228608"></a>
 
 Funcionalidad no implementada.
 
-#### &#x20;2.3.4. Listado de DVRs <a href="#toc84228609" id="toc84228609"></a>
+#### 2.3.4. Listado de DVRs <a href="#toc84228609" id="toc84228609"></a>
 
 Con esta funcionalidad generamos un fichero csv con todos los equipos en la ruta especificada:
 
 Ejemplo de listado csv:
 
-#### &#x20;2.3.5. Grupos <a href="#toc84228610" id="toc84228610"></a>
+#### 2.3.5. Grupos <a href="#toc84228610" id="toc84228610"></a>
 
 Definimos grupos para poder asociar los equipos a un determinado conjunto o grupo en este caso. Al asociar un equipo a un grupo podremos filtrar los equipos por este grupo (tanto en la lista del Servidor como en los equipos que se muestre en el Operador) como enviar las alarmas que marquemos a un email de ese grupo.
 
@@ -610,11 +610,11 @@ Debemos poner una descripción del grupo y un email. Con el botón _Guardar_ par
 
 _Cancelar_ para descartar los cambios.
 
-#### &#x20;2.3.6. Abonados INTRUSIÓN <a href="#toc84228611" id="toc84228611"></a>
+#### 2.3.6. Abonados INTRUSIÓN <a href="#toc84228611" id="toc84228611"></a>
 
-Visualizamos los abonados de la aplicación, si están activos o no, el tiempo de polling, si están en fallo polling , si hay que enviar los eventos de fallo de polling, la fecha del último polling y si hay que enviar la señal a algún destino particular de cada abonado, el tipo de central, la Mac del equipo, el grupo al que están asignadas, el número de fallos de polling para generar evento de fallo, la fecha de registro, el estándard utilizado para los códigos de intrusión (CID, SIA), si se envían los eventos de Fallo polling, la Tolerancia del Test periódico, el estado de la vía de Ethernet(Ip) del panel, el estado y nivel de cobertura de GPRS del panel, el estado de la batería (si es batería externa si está presento o no) y si tiene programado un rearmado automático:&#x20;
+Visualizamos los abonados de la aplicación, si están activos o no, el tiempo de polling, si están en fallo polling , si hay que enviar los eventos de fallo de polling, la fecha del último polling y si hay que enviar la señal a algún destino particular de cada abonado, el tipo de central, la Mac del equipo, el grupo al que están asignadas, el número de fallos de polling para generar evento de fallo, la fecha de registro, el estándard utilizado para los códigos de intrusión (CID, SIA), si se envían los eventos de Fallo polling, la Tolerancia del Test periódico, el estado de la vía de Ethernet(Ip) del panel, el estado y nivel de cobertura de GPRS del panel, el estado de la batería (si es batería externa si está presento o no) y si tiene programado un rearmado automático:
 
-Si le damos doble click sobre un abonado podemos cambiar algunos parámetros del abonado:&#x20;
+Si le damos doble click sobre un abonado podemos cambiar algunos parámetros del abonado:
 
 Concretamente podemos cambiar el Período de polling (para ajustarlo al que esté programado en la central VESTA en cuestión), en minutos, elegir si enviar o no los eventos de polling, y activar/desactivar el abonado. Si un abonado está inactivo las señales que puedan llegar quedan registradas, pero no pasan al software de gestión de CRA. También permite programar un test periódicamente (es un polling que sí que llegará al software de CRA). En el ejemplo se envía cada 24 horas. Para evitar un retraso de este test se le asignar una tolerancia (en segundos).
 
@@ -704,17 +704,17 @@ Pulsamos sobre el botón para ver los nuevos códigos y sus definiciones:
 
 Podemos Copiar Códigos, para pagarlos en un documento para darlos de alta en nuestro sistema, Cancelar, con lo cual seguirá activo el botón de nuevos eventos y los avisos, o “No volver a mostrar hasta que aparezcan nuevos”, nos damos por enterados de los nuevos códigos y desaparece el aviso.
 
-### &#x20;Ge2.4. Alarmas <a href="#toc84228613" id="toc84228613"></a>
+### Ge2.4. Alarmas <a href="#toc84228613" id="toc84228613"></a>
 
 Gestión de los parámetros referentes a Eventos y Alarmas de los equipos.
 
-#### &#x20;2.4.1. Acciones <a href="#toc84228614" id="toc84228614"></a>
+#### 2.4.1. Acciones <a href="#toc84228614" id="toc84228614"></a>
 
 Listado de acciones que se pueden asignar a una alarma que haya saltado en el programa Operador, si los eventos son enviados a esta aplicación. Para agilizar el tratamiento de la alarma se asignan acciones predeterminadas (disposiciones) que se definen en este apartado:
 
 Con el botón de _Nuevo_ preparamos la edición. Introducimos la acción deseada y pulsamos en _Guardar._ Si hacemos doble-click en la tabla superior podemos modificar o _Borrar_ acciones ya existentes.
 
-#### &#x20;2.4.2. Pasarela <a href="#toc84228615" id="toc84228615"></a>
+#### 2.4.2. Pasarela <a href="#toc84228615" id="toc84228615"></a>
 
 Los eventos de los equipos pueden ser enviados al software de control de la CRA mediante unos protocolos propios de cada programa. Pero los eventos se codifican mediante unos códigos estandarizados. Los más conocidos son ContactctID y SIA. En esta tabla podemos personalizar estos códigos para adaptarlos al estándar o para sincronizarlos con los códigos que entienda correctamente el software de gestión de CRA. Posteriormente, cada uno de estos códigos puede ser asignado a los eventos que deseemos mandar al software de CRA, por ejemplo, en Alarmas (para eventos genéricos del equipo) o en Alarmas por Canal, para gestionar eventos de cada cámara o canal.
 
@@ -726,11 +726,11 @@ Podemos borrar el código con el botón _Borrar._
 
 Podemos añadir un código con su descripción con el botón _Nuevo._
 
-#### &#x20;2.4.3. Listado <a href="#toc84228616" id="toc84228616"></a>
+#### 2.4.3. Listado <a href="#toc84228616" id="toc84228616"></a>
 
 Los eventos de los equipos se pueden enviar al software de CRA o al programa operador, pero también quedan registrados en el sistema AlarmSpace. En este listado se pueden consultar estos eventos por días:
 
-#### &#x20;2.4.4. Eventos DVRs <a href="#toc84228617" id="toc84228617"></a>
+#### 2.4.4. Eventos DVRs <a href="#toc84228617" id="toc84228617"></a>
 
 Los eventos de los equipos se pueden enviar al software de CRA o al programa operador, pero también quedan registrados en el sistema AlarmSpace. En este listado se pueden consultar, ordenar, filtrar y exportar estos eventos:
 
@@ -768,11 +768,11 @@ P
 
 Podemos cambiar la descripción del evento, marcar si es un evento que requiere usuario en vez de zona (aperturas, cierres…), el color con el que aparecerá el evento (RGB pasado a decimal), en _display seleccionamos_ si el evento pasará por pantalla de control o si pasará directo al histórico, en _priority_
 
-### &#x20;2.5. Configuración <a href="#toc84228619" id="toc84228619"></a>
+### 2.5. Configuración <a href="#toc84228619" id="toc84228619"></a>
 
 Configuraciones generales del sistema completo de AlarmSpace.
 
-#### &#x20;2.5.1. Parámetros Receptora <a href="#toc84228620" id="toc84228620"></a>
+#### 2.5.1. Parámetros Receptora <a href="#toc84228620" id="toc84228620"></a>
 
 Parámetros de las comunicaciones con el software de recepción de eventos de la central de alarmas. Otros parámetros usados genéricamente por toda la aplicación:
 
@@ -847,15 +847,15 @@ SERVICE CHECK DISK SPACE: cantidad de espacio libre en el disco duro del servido
 
 REINICIAR SERVICIO SI OOM: reiniciar el servicio de chequeo de equipos de AlarmSpace si se produce un error de desbordamiento de memoria.
 
-#### &#x20;2.5.2. Incorporar Licencias <a href="#toc84228624" id="toc84228624"></a>
+#### 2.5.2. Incorporar Licencias <a href="#toc84228624" id="toc84228624"></a>
 
 Funcionalidad que permite incorporar nuevas licencias de centrales AXHUB para permitir la recepción de los vídeos que generen. Si una central no está en esta lista no será capaz de enrolarse en AlarmSpace. Para nuevas licencias contacte con el servicio técnico de ByDemes. **No usar sin indicación expresa de personal calificado de ByDemes.**
 
-#### &#x20;2.5.3. Renovar Tablas Master <a href="#toc84228625" id="toc84228625"></a>
+#### 2.5.3. Renovar Tablas Master <a href="#toc84228625" id="toc84228625"></a>
 
 Funcionalidad que permite renovar las tablas de datos usados para distintas funciones por AlarmSpace. Básicamente se trata de añadir parámetros que no están en las tablas mediante ficheros subministrados por personal de ByDemes. **No usar sin indicación expresa de personal calificado de ByDemes.**
 
-#### &#x20;2.5.4. Configuración Avanzada <a href="#toc84228626" id="toc84228626"></a>
+#### 2.5.4. Configuración Avanzada <a href="#toc84228626" id="toc84228626"></a>
 
 Lista todos los parámetros de configuración de AlarmSpace. Permite la visualización de parámetros añadidos en futuras versiones. También permite la actualización de los parámetros mediante la edición en la propia tabla y el botón _Guardar._
 
@@ -1001,7 +1001,7 @@ En el apartado ayuda encontramos información sobre la versión y licencias de A
 
 Módulo de visualización de cámaras en tiempo real, visualización y descarga de grabaciones y tratamiento de alarmas. Este módulo actúa como cliente del módulo Servidor, de manera que se puede instalar en varias máquinas que atacarán a la máquina servidora. Es de utilización simultánea por varios operadores.
 
-### &#x20;3.1. Login <a href="#toc84228635" id="toc84228635"></a>
+### 3.1. Login <a href="#toc84228635" id="toc84228635"></a>
 
 Para entrar en el módulo Operador debemos subministrar un usuario de AlarmSpace válido, de cualquier nivel.
 
@@ -1035,7 +1035,7 @@ Si falla, también se nos indica y como consecuencia no podremos trabajar correc
 
 Hay que poner correctamente la Ip del servidor y el puerto indicado. Si aun así el problema persiste, hay que contactar con el personal técnico de ByDemes.
 
-### &#x20;3.2. Tiempo Real <a href="#toc84228636" id="toc84228636"></a>
+### 3.2. Tiempo Real <a href="#toc84228636" id="toc84228636"></a>
 
 Mediante la pestaña _Tiempo Real_ visualizamos cámaras en tiempo real. Se pueden activar varias cámaras a la vez de un mismo grabador o de varios.
 
@@ -1049,7 +1049,7 @@ Con doble-click sobre una cámara la visualizamos en tiempo real. Con doble-clic
 
 Si seleccionamos una de las visualizaciones nos aparecen opciones disponibles sobre lo que estamos visualizando:
 
-En  descargamos el vídeo que estamos visualizando.
+En descargamos el vídeo que estamos visualizando.
 
 En hacemos una captura de la imagen en ese momento.
 
@@ -1059,7 +1059,7 @@ En activamos el micro para hablar con el equipo.
 
 En encontramos la función “Instant Replay”, reproduce la grabación de la cámara 5 minutos antes
 
-En  hacemos un zoom de cualquier parte de la visualización de la cámara, seleccionado con el ratón.
+En hacemos un zoom de cualquier parte de la visualización de la cámara, seleccionado con el ratón.
 
 En limpiamos la pantalla y dejamos de visualizar la cámara.
 
@@ -1121,7 +1121,7 @@ Vemos el estado del zumbador interno, de las averías del sistema y de las siren
 
 Con el botón derecho sobre el equipo nos sale la opción de _Generar Certificado,_ que nos crea un certificado con los estados y tensiones de toda la central asimismo como unos gráficos con la evolución temporal de los estados en los que ha estado la central en el período seleccionado.
 
-#### &#x20;3.2.2. Video-porteros <a href="#toc84228638" id="toc84228638"></a>
+#### 3.2.2. Video-porteros <a href="#toc84228638" id="toc84228638"></a>
 
 Cuando se produce una llamada de un video-portero correctamente configurado en el módulo servidor para enviar la llamada al Operador, nos aparece una pantalla emergente como esta mientras suena un timbre de aviso:
 
@@ -1135,13 +1135,13 @@ Si hay más de una llamada al mismo tiempo, aparecerá primero una y cuando se c
 
 Cuando el tipo de equipo es “Honeywell Analógico”, nos aparece la siguiente pantalla:
 
-Tenemos una visión general de la central. Si pasamos por encima de los iconos nos sale el historial de cada dispositivo. En _Historial General_ un histórico general. En la parte izquierda, podemos realizar consultas de los dispositivos. Si no completamos ningún dato y pulsamos el botón consultar  nos devolverá toda la configuración de la central. Si en el desplegable del lado de configuración elegimos por ejemplo los dispositivos _En Test_ nos devuelve solo los dispositivos que estén en test. Si elegimos un _Lazo,_ un _Tipo_ y ponemos una dirección, nos devuelve una información más precisa del dispositivo en concreto. Si ponemos una zona (y borramos la dirección, que tiene preferencia) nos devuelve información del dispositivo que tenemos en esa zona. Con el botón derecho sobre el botón consultar nos aparece (previa contraseña de administrador) un menú con opciones bidireccionales:
+Tenemos una visión general de la central. Si pasamos por encima de los iconos nos sale el historial de cada dispositivo. En _Historial General_ un histórico general. En la parte izquierda, podemos realizar consultas de los dispositivos. Si no completamos ningún dato y pulsamos el botón consultar nos devolverá toda la configuración de la central. Si en el desplegable del lado de configuración elegimos por ejemplo los dispositivos _En Test_ nos devuelve solo los dispositivos que estén en test. Si elegimos un _Lazo,_ un _Tipo_ y ponemos una dirección, nos devuelve una información más precisa del dispositivo en concreto. Si ponemos una zona (y borramos la dirección, que tiene preferencia) nos devuelve información del dispositivo que tenemos en esa zona. Con el botón derecho sobre el botón consultar nos aparece (previa contraseña de administrador) un menú con opciones bidireccionales:
 
 Podemos anular zonas, ponerlas en test y volverlas al estado normal. También con el botón derecho sobre el icono de _Avería Sistema_ podemos rearmar la central:
 
 Si hacemos click con el botón derecho sobre el dispositivo nos aparece un menú en el que podemos generar un pdf con toda la configuración de la central:
 
-### &#x20;3.3. Vídeo <a href="#toc84228640" id="toc84228640"></a>
+### 3.3. Vídeo <a href="#toc84228640" id="toc84228640"></a>
 
 Mediante la pestaña vídeo buscamos grabaciones del canal seleccionado filtrando por distintos criterios:
 
@@ -1153,21 +1153,21 @@ Doble-click sobre una de las grabaciones que aparecen y nos reproduce el vídeo 
 
 Durante la reproducción tenemos distintas opciones:
 
-&#x20;pausa y reanudar la reproducción.
+pausa y reanudar la reproducción.
 
 detener totalmente la reproducción, la pantalla se queda en negro.
 
-&#x20;avance/retroceso rápido/lento y por fotogramas.
+avance/retroceso rápido/lento y por fotogramas.
 
-&#x20;descargar un vídeo de lo que se está visualizando.
+descargar un vídeo de lo que se está visualizando.
 
-&#x20;capturar la pantalla en una imagen de lo que se está visualizando en ese momento.
+capturar la pantalla en una imagen de lo que se está visualizando en ese momento.
 
-&#x20;barra de selección de tiempo, nos lleva justo al segundo deseado del vídeo. Podemos descargar a partir de ese segundo.
+barra de selección de tiempo, nos lleva justo al segundo deseado del vídeo. Podemos descargar a partir de ese segundo.
 
 En la pestaña _Capturas_ podemos visualizar las capturas de imágenes que tengamos almacenadas localmente en el equipo, en la ruta que tengamos programada en _Módulo Servidor -> Configuración -> Parámetros Receptora -> Parámetros generales_ (en RUTA CAPTURAS CLIENTE):
 
-### &#x20;3.4. Alarmas <a href="#toc84228641" id="toc84228641"></a>
+### 3.4. Alarmas <a href="#toc84228641" id="toc84228641"></a>
 
 La pestaña Alarmas se utiliza para gestionar alarmas recibidas de los equipos. Los eventos de los equipos se pueden mandar al software de CRA si están programados como _Enviar Alarmas por pasarela_ o bien enviarse al Operador si está marcada la opción _Enviar Alarmas a verificación de vídeo._
 
@@ -1201,19 +1201,19 @@ Y en _Zonas,_ las zonas detectadas en el panel:
 
 Si hay un evento de imagen nos muestra la primera imagen capturada:
 
-y con el botón reproducir  podemos visualizar todo el vídeo y realizar acciones bidireccionales:
+y con el botón reproducir podemos visualizar todo el vídeo y realizar acciones bidireccionales:
 
-### &#x20;4. Módulo ActiveX <a href="#toc84228643" id="toc84228643"></a>
+### 4. Módulo ActiveX <a href="#toc84228643" id="toc84228643"></a>
 
 El módulo ActiveX es una aplicación que permite visualizar cámaras en tiempo real y grabaciones a través de Internet Explorer o navegadores compatibles integrados en bObject de softwares de CRA como Manitou, SBN y Softguard.
 
-### &#x20;4.1. Comandos Pasarela <a href="#toc84228644" id="toc84228644"></a>
+### 4.1. Comandos Pasarela <a href="#toc84228644" id="toc84228644"></a>
 
-La actual “PASARELA ACTIVEX GENERICO” de Alarmspace V2, incluye un servidor web que permanece a la “escucha” en el puerto 8003 (hacia adelante).&#x20;
+La actual “PASARELA ACTIVEX GENERICO” de Alarmspace V2, incluye un servidor web que permanece a la “escucha” en el puerto 8003 (hacia adelante).
 
-Busca (al instalarse) el primer puerto libre sobre el 8003.&#x20;
+Busca (al instalarse) el primer puerto libre sobre el 8003.
 
-Este puerto se puede modificar en un fichero de texto configuracion.dat dentro de la carpeta de instalación y reiniciando el servicio.&#x20;
+Este puerto se puede modificar en un fichero de texto configuracion.dat dentro de la carpeta de instalación y reiniciando el servicio.
 
 (Debe estar abierto entre las máquinas de los operadores y la máquina en que corre AlarmspaceV2). También es importante que la Ip que aparece en este fichero (en las 4 primeras líneas) corresponda con la Ip del Servidor de AlarmSpace (en el ejemplo 192.168.X.XXX):
 
@@ -1225,43 +1225,43 @@ server=192.168.X.XXX;database=bydemesvideo;User Id=bydemesvideo; password=06851f
 
 192.168.X.XXX:10003
 
-Tras todo ello, ya se puede utilizar la llamada al sitio web y los comandos mostrados a continuación con el siguiente sistema:&#x20;
+Tras todo ello, ya se puede utilizar la llamada al sitio web y los comandos mostrados a continuación con el siguiente sistema:
 
-http://\[IP\_maquina\_alarmspace]:8003/bydemes.html?address=\[IP\_maquina\_alarmspace]\&port=8003\&subscriber=9 999\&channel=4\&channel\_source=main&#x20;
+http://\[IP\_maquina\_alarmspace]:8003/bydemes.html?address=\[IP\_maquina\_alarmspace]\&port=8003\&subscriber=9 999\&channel=4\&channel\_source=main
 
-Siendo **subscriber** el número de abonado configurado en Alarmspace V2, en este ejemplo solo conectaría al DVR del abonado 9999 y mostraría el canal 4 en stream principal en vivo&#x20;
+Siendo **subscriber** el número de abonado configurado en Alarmspace V2, en este ejemplo solo conectaría al DVR del abonado 9999 y mostraría el canal 4 en stream principal en vivo
 
-Parametrizable según la siguiente tabla de comandos:&#x20;
+Parametrizable según la siguiente tabla de comandos:
 
-**channel=** número de canal para la visualización en directo, comienza por 1.&#x20;
+**channel=** número de canal para la visualización en directo, comienza por 1.
 
-**Opción**, si el equipo tiene CANAL “0”&#x20;
+**Opción**, si el equipo tiene CANAL “0”
 
-Si en número de canal se escribe 0 el sistema interpretará que se quiere utilizar el "Canal 0" va acompañado de los parámetros (“multiplay\_type” y “multiplay\_channel”)&#x20;
+Si en número de canal se escribe 0 el sistema interpretará que se quiere utilizar el "Canal 0" va acompañado de los parámetros (“multiplay\_type” y “multiplay\_channel”)
 
-**multiplay\_type=\<n>** donde \<n> es 4, 8, 9, 16. Es decir el número de canales.&#x20;
+**multiplay\_type=\<n>** donde \<n> es 4, 8, 9, 16. Es decir el número de canales.
 
-**multiplay\_channel=\<n>** donde \<n> es el primer canal que se mostrará en la “parrilla”.&#x20;
+**multiplay\_channel=\<n>** donde \<n> es el primer canal que se mostrará en la “parrilla”.
 
-_(Esta opción depende del grabador, algunos solo admiten CH0 y no entienden el resto de órdenes)_&#x20;
+_(Esta opción depende del grabador, algunos solo admiten CH0 y no entienden el resto de órdenes)_
 
-**channel\_source=main** | **sub**. Para seleccionar el stream de la conexión mainstream o substream. Por defecto es "sub".&#x20;
+**channel\_source=main** | **sub**. Para seleccionar el stream de la conexión mainstream o substream. Por defecto es "sub".
 
-**channel\_save\_video=** Si está a 1 al iniciar la conexión empezará a guardar el video. El botón de guardar video quedará en rojo para que el operador pueda detenerlo.&#x20;
+**channel\_save\_video=** Si está a 1 al iniciar la conexión empezará a guardar el video. El botón de guardar video quedará en rojo para que el operador pueda detenerlo.
 
-**channel\_save\_image=** Si está a 1 hace una captura de pantalla al iniciar la sesión.&#x20;
+**channel\_save\_image=** Si está a 1 hace una captura de pantalla al iniciar la sesión.
 
-**prealarm\_channel=** número de canal para seleccionar en las grabaciones.&#x20;
+**prealarm\_channel=** número de canal para seleccionar en las grabaciones.
 
-**prealarm\_save\_video**=-segundos/-segundos. Rango de segundos a contar desde el momento “ahora”. Es decir, si pones -20/-5 y ahora son las 10:32:40, el video guardado irá desde las 10:32:20 a las 10:32:35.&#x20;
+**prealarm\_save\_video**=-segundos/-segundos. Rango de segundos a contar desde el momento “ahora”. Es decir, si pones -20/-5 y ahora son las 10:32:40, el video guardado irá desde las 10:32:20 a las 10:32:35.
 
-**prealarm\_view\_video**=-segundos/-segundos.&#x20;
+**prealarm\_view\_video**=-segundos/-segundos.
 
-Rango de segundos a contar desde el momento “ahora”. Es decir, si se escribe -20/-5 y ahora son las 10:32:40, el video irá desde 10:32:20 a 10:32:35.&#x20;
+Rango de segundos a contar desde el momento “ahora”. Es decir, si se escribe -20/-5 y ahora son las 10:32:40, el video irá desde 10:32:20 a 10:32:35.
 
-Utilice esta opción para mostrar el preview de la prealarma en la ventana de la derecha en vez de descargarlo. Es compatible con el anterior prealarm\_save\_video. Si se utilizan los dos, se visualizará y se descargará.&#x20;
+Utilice esta opción para mostrar el preview de la prealarma en la ventana de la derecha en vez de descargarlo. Es compatible con el anterior prealarm\_save\_video. Si se utilizan los dos, se visualizará y se descargará.
 
-_Es muy importante que el DVR esté grabando y “en hora” con el Alarmspace, de lo contrario puede no encontrar los videos grabados solicitados como prealarma, se recomienda la opción NTP para sincronizar la hora y pedir al grabador, por ejemplo -60/5 (un minuto antes de la alarma)_&#x20;
+_Es muy importante que el DVR esté grabando y “en hora” con el Alarmspace, de lo contrario puede no encontrar los videos grabados solicitados como prealarma, se recomienda la opción NTP para sincronizar la hora y pedir al grabador, por ejemplo -60/5 (un minuto antes de la alarma)_
 
 **Se pueden poner todas las opciones al mismo tiempo:**
 
@@ -1297,81 +1297,81 @@ En reproducción podemos seleccionar el canal, la fecha y la hora y pulsar GO pa
 
 Y los controles sobre la grabación
 
-### &#x20;4.2. Nuevos Comandos <a href="#toc84228645" id="toc84228645"></a>
+### 4.2. Nuevos Comandos <a href="#toc84228645" id="toc84228645"></a>
 
-**NUEVOS COMANDOS**&#x20;
+**NUEVOS COMANDOS**
 
-**dvr\_name=nombre.** Se puede identificar un equipo por el nombre asignado. Permite distinguir entre dos grabadores con el mismo número de abonado.&#x20;
+**dvr\_name=nombre.** Se puede identificar un equipo por el nombre asignado. Permite distinguir entre dos grabadores con el mismo número de abonado.
 
-**sincPlaybackChannel=1 | 0.** Permite cambiar la vista de vídeo grabada al canal que cambiamos en la vista en directo, el tiempo de visualización será el escogido en prealarm\_view\_video.&#x20;
+**sincPlaybackChannel=1 | 0.** Permite cambiar la vista de vídeo grabada al canal que cambiamos en la vista en directo, el tiempo de visualización será el escogido en prealarm\_view\_video.
 
-&#x20;  **fire\_subscriber=** Número de abonado asignado a una central de incendio. Aparecerá la visualización del estado de la      central y podremos interactuar con ella. Combinado con los comandos de DVR, permite visualizar las cámaras                    simultáneamente.&#x20;
+**fire\_subscriber=** Número de abonado asignado a una central de incendio. Aparecerá la visualización del estado de la central y podremos interactuar con ella. Combinado con los comandos de DVR, permite visualizar las cámaras simultáneamente.
 
-&#x20;  **vto\_subscriber=** Número de abonado asignado a un videoportero (VTO). Aparece la pantalla de control del VTO, visualizamos la cámara, podemos conversar y abrir puertas. Combinado con comandos de DVR, permite visualizar cámaras adicionales.&#x20;
+**vto\_subscriber=** Número de abonado asignado a un videoportero (VTO). Aparece la pantalla de control del VTO, visualizamos la cámara, podemos conversar y abrir puertas. Combinado con comandos de DVR, permite visualizar cámaras adicionales.
 
-El nuevo botón ‘?’ muestra una tabla con las cámaras ordenadas por la última detección de movimiento. Así podemos tener una orientación del recorrido detectado:&#x20;
+El nuevo botón ‘?’ muestra una tabla con las cámaras ordenadas por la última detección de movimiento. Así podemos tener una orientación del recorrido detectado:
 
 ### 5. Configuración pasarela VESTA <a href="#id-5._configuracion_pasarela" id="id-5._configuracion_pasarela"></a>
 
-### &#x20;5.1. Introducción <a href="#toc84228647" id="toc84228647"></a>
+### 5.1. Introducción <a href="#toc84228647" id="toc84228647"></a>
 
-#### &#x20;5.1.1. Bienvenidos <a href="#toc84228648" id="toc84228648"></a>
+#### 5.1.1. Bienvenidos <a href="#toc84228648" id="toc84228648"></a>
 
-La central de intrusión de Climax VESTA puede enviar los eventos generados en distintos formatos. AlarmSpace ha ampliado sus capacidades para recibir estos eventos, procesarlos y generar nuevas señales de salida adaptadas a los protocolos de los principales softwares de recepción actualmente en nuestro país (Manitou, SBN, Softguard y compatibles). &#x20;
+La central de intrusión de Climax VESTA puede enviar los eventos generados en distintos formatos. AlarmSpace ha ampliado sus capacidades para recibir estos eventos, procesarlos y generar nuevas señales de salida adaptadas a los protocolos de los principales softwares de recepción actualmente en nuestro país (Manitou, SBN, Softguard y compatibles).
 
-Además, el propio AlarmSpace realiza un control del polling programable y nos ofrece la opción de desactivar abonados (no se mandan al software de CRA) y de cambiar los tiempos de polling. Adicionalmente podemos monitorizar los eventos recibidos en tiempo real. &#x20;
+Además, el propio AlarmSpace realiza un control del polling programable y nos ofrece la opción de desactivar abonados (no se mandan al software de CRA) y de cambiar los tiempos de polling. Adicionalmente podemos monitorizar los eventos recibidos en tiempo real.
 
-El sistema de recepción ofrece una configuración de alta disponibilidad mediante un cluster de dos máquinas (principal y backup) que disminuyen a niveles muy bajos la posibilidad de perder eventos o de sufrir retrasos importantes.&#x20;
+El sistema de recepción ofrece una configuración de alta disponibilidad mediante un cluster de dos máquinas (principal y backup) que disminuyen a niveles muy bajos la posibilidad de perder eventos o de sufrir retrasos importantes.
 
-### &#x20;5.2. Programación Central VESTA <a href="#toc84228649" id="toc84228649"></a>
+### 5.2. Programación Central VESTA <a href="#toc84228649" id="toc84228649"></a>
 
-El esquema de programación aconsejado para la correcta recepción de eventos de la Central VESTA es el siguiente:&#x20;
+El esquema de programación aconsejado para la correcta recepción de eventos de la Central VESTA es el siguiente:
 
-En esta figura CRA representa el software de recepción de CRA, VESTA una central instalada y AlamSpace MAIN y BACKUP son dos instancias de AlarmSpace en dos máquinas distintas. Pueden ser virtualizadas, pero aconsejamos que estén sobre máquinas físicas distintas. Si falla la conexión con AlarmSpace MAIN la central lo intentará a través de AlarmSpace BACKUP. Siempre volverá a intentar por la conexión MAIN para ver si se recupera.&#x20;
+En esta figura CRA representa el software de recepción de CRA, VESTA una central instalada y AlamSpace MAIN y BACKUP son dos instancias de AlarmSpace en dos máquinas distintas. Pueden ser virtualizadas, pero aconsejamos que estén sobre máquinas físicas distintas. Si falla la conexión con AlarmSpace MAIN la central lo intentará a través de AlarmSpace BACKUP. Siempre volverá a intentar por la conexión MAIN para ver si se recupera.
 
-Para programar los parámetros de comunicaciones en la central VESTA debemos dirigirnos al Cloud de ByDemes: [https://smarthomesec.bydemes.com/ByDemes/](https://smarthomesec.bydemes.com/ByDemes/) y acceder con nuestro usuario y contraseña. Una vez dentro seleccionamos el panel deseado y vamos a la sección de _Ajuste/Reporte_ &#x20;
+Para programar los parámetros de comunicaciones en la central VESTA debemos dirigirnos al Cloud de ByDemes: [https://smarthomesec.bydemes.com/ByDemes/](https://smarthomesec.bydemes.com/ByDemes/) y acceder con nuestro usuario y contraseña. Una vez dentro seleccionamos el panel deseado y vamos a la sección de _Ajuste/Reporte_
 
-En las distintas URL configuramos los parámetros de comunicación. La URL1 está reservada para uso interno. En la URL 2 introducimos los datos de nuestro AlarmSpace receptor principal de la manera siguiente:&#x20;
+En las distintas URL configuramos los parámetros de comunicación. La URL1 está reservada para uso interno. En la URL 2 introducimos los datos de nuestro AlarmSpace receptor principal de la manera siguiente:
 
-Ip://1234@123.123.123.123:23506/MAN&#x20;
+Ip://1234@123.123.123.123:23506/MAN
 
-Donde 1234 es el número de abonado, 123.123.123.123 es la Ip pública de AlarmSpace y 23506 el puerto abierto contra la máquina de AlarmSpace para recibir eventos.&#x20;
+Donde 1234 es el número de abonado, 123.123.123.123 es la Ip pública de AlarmSpace y 23506 el puerto abierto contra la máquina de AlarmSpace para recibir eventos.
 
 _**NOTA IMPORTANTE**_
 
 _**La Ip debe escribirse sin ceros a la izquierda, NO hay que completar con 0 hasta los 3 dígitos. De hacerlo así no funcionará la conexión.**_
 
-En el grupo le asignamos el _Grupo 2_, esto nos asegura que se mandarán todos los eventos.&#x20;
+En el grupo le asignamos el _Grupo 2_, esto nos asegura que se mandarán todos los eventos.
 
-Para asegurar la máxima disponibilidad recomendamos asignar una nueva URL (la URL 3). Esta tiene que ir dirigida a la máquina de AlarmSpace de Backup (con la Ip pública de la máquina de backup y el puerto abierto sobre esa máquina). Elegiremos también el _Grupo 2_ para enviar solamente los eventos que fallen por la vía principal (distinto grupo se envían todos, mismo grupo envía solo los que fallan en el anterior).&#x20;
+Para asegurar la máxima disponibilidad recomendamos asignar una nueva URL (la URL 3). Esta tiene que ir dirigida a la máquina de AlarmSpace de Backup (con la Ip pública de la máquina de backup y el puerto abierto sobre esa máquina). Elegiremos también el _Grupo 2_ para enviar solamente los eventos que fallen por la vía principal (distinto grupo se envían todos, mismo grupo envía solo los que fallan en el anterior).
 
-En la _Secuencia de Informes(Reporting Sequence)_ elegimos _Esencial_ y en los re-intentos recomendamos solo un re-intento para agilizar el paso a la vía secundaria si falla el envío (si no se usa la vía secundaria podemos aumentar hasta 3 re-intentos).&#x20;
+En la _Secuencia de Informes(Reporting Sequence)_ elegimos _Esencial_ y en los re-intentos recomendamos solo un re-intento para agilizar el paso a la vía secundaria si falla el envío (si no se usa la vía secundaria podemos aumentar hasta 3 re-intentos).
 
-Faltarán los datos de subida de imágenes:&#x20;
+Faltarán los datos de subida de imágenes:
 
-También con el protocolo “Manitou” y la cadena [1234@123.123.123.123:23506](mailto:1234@123.1123.123.123:23506) con el mismo número de abonado, ip y puerto que de la vía principal.&#x20;
+También con el protocolo “Manitou” y la cadena [1234@123.123.123.123:23506](mailto:1234@123.1123.123.123:23506) con el mismo número de abonado, ip y puerto que de la vía principal.
 
-Le damos a “Enviar” y ya tendremos las comunicaciones asignadas.&#x20;
+Le damos a “Enviar” y ya tendremos las comunicaciones asignadas.
 
-_**NOTA IMPORTANTE**_&#x20;
+_**NOTA IMPORTANTE**_
 
-_**Recomendamos que la comunicación con AlarmSpace BACKUP se realice sobre otra vía de comunicación (otra fibra/ADSL distinta de la principal) y a poder ser de Operadores distintos (con infraestructura física distinta), para asegurar la recepción de eventos si cae una de las línea de comunicación.**_&#x20;
+_**Recomendamos que la comunicación con AlarmSpace BACKUP se realice sobre otra vía de comunicación (otra fibra/ADSL distinta de la principal) y a poder ser de Operadores distintos (con infraestructura física distinta), para asegurar la recepción de eventos si cae una de las línea de comunicación.**_
 
-### &#x20;5.3. Configuraciones AlarmSpace <a href="#toc84228650" id="toc84228650"></a>
+### 5.3. Configuraciones AlarmSpace <a href="#toc84228650" id="toc84228650"></a>
 
 #### 5.3.1. Configuraciones generales - VESTALog <a href="#topic_configuracionesgenerales_vestalo" id="topic_configuracionesgenerales_vestalo"></a>
 
-La aplicación VESTALog tiene distintas funcionalidades. Visualizar los eventos recibidos y reenviados al software de recepción de CRA en tiempo real, ver un histórico de las tramas tratadas, un log de texto con los detalles de funcionamiento de la receptora, una configuración de parámetros de la receptora, elegir distintos destinos para los eventos, reasignar o desechar eventos y configurar la función balanceador.&#x20;
+La aplicación VESTALog tiene distintas funcionalidades. Visualizar los eventos recibidos y reenviados al software de recepción de CRA en tiempo real, ver un histórico de las tramas tratadas, un log de texto con los detalles de funcionamiento de la receptora, una configuración de parámetros de la receptora, elegir distintos destinos para los eventos, reasignar o desechar eventos y configurar la función balanceador.
 
 \
 **5.3.1.1. Tiempo real**
 
-Visualizamos los eventos recibidos de las centrales VESTA, las respuestas y los eventos enviados al software de CRA y sus respuestas.&#x20;
+Visualizamos los eventos recibidos de las centrales VESTA, las respuestas y los eventos enviados al software de CRA y sus respuestas.
 
 \
 **5.3.1.2. Histórico**
 
-Se muestran las tramas recibidas de las centrales VESTA. Podemos filtrarlas por fechas y por número de abonado.&#x20;
+Se muestran las tramas recibidas de las centrales VESTA. Podemos filtrarlas por fechas y por número de abonado.
 
 \
 **5.3.1.3. Log**
@@ -1381,7 +1381,7 @@ Registro de acciones realizadas por la aplicación. Útil para testeo y debug.
 \
 **5.3.1.4. Configuración VESTA**
 
-Parámetros de la receptora:&#x20;
+Parámetros de la receptora:
 
 * ServidorMy: Ip del servidor de mysql local (la propia Ip de la máquina)
 * ServidorMyBackup: Ip del servidor de mysql de backup (dejar 0 si es en AlarmSpace Backup o no se implementa la máquina de Backup)
@@ -1511,7 +1511,7 @@ Cambio del código de alarma (evento Contact ID o SIA) por el código deseado. T
 
 Funcionalidad en desarrollo.
 
-**5.3.1.9. **_**Parámetros LORA**_
+**5.3.1.9. \_Parámetros LORA**\_
 
 En este apartado aparecen los parámetros configurados automáticamente para el correcto funcionamiento de la recepción de eventos mediante las redes Lorawan. Un indice propio de cada CRA, el nombre de la CRA (se puede modificar, es meramente informativo), la Ip asignada por la red privada virtual y el puerto utilizado por la red para recibir eventos. No hace falta abrir ese puerto porque estamos sobre una VPN.
 
@@ -1525,7 +1525,7 @@ _**5.3.1.11. API Múltiple**_
 
 Esta funcionalidad permite definir más de una API para uso con el VisorHTML. Los distintos parámetros de cada API se pueden asignar individualmente a un abonado en concreto, de manera que tendrán preferencia estos parámetros en frente de los parámetros generales definidos en Parámetros API.
 
-**5.3.1.12. **_**Parámetros Nuva**_
+**5.3.1.12. \_Parámetros Nuva**\_
 
 Desde este apartado podemos habilitar las comunicaciones con la nube de Nuvathings, para recibir eventos de sus dispositivos.
 
@@ -1538,37 +1538,37 @@ AlarmSpace permite conectarse simultáneamente a la nube de Nuvathings con diver
 \
 **5.3.1.12. Configuración general de AlarmSpace**
 
-Los parámetros de comunicación con el Software de CRA se configuran en el Servidor de AlarmSpace, en el apartado de Configuración/Parámetros de Receptora:&#x20;
+Los parámetros de comunicación con el Software de CRA se configuran en el Servidor de AlarmSpace, en el apartado de Configuración/Parámetros de Receptora:
 
-Tenemos que seleccionar el tipo de programa, marcar como activo, el puerto y la ip del servidor. En esta versión la central VESTA solamente transmite en formato ContactID (indiferentemente de la plantilla seleccionada que si que aplica a los eventos de los grabadores).&#x20;
+Tenemos que seleccionar el tipo de programa, marcar como activo, el puerto y la ip del servidor. En esta versión la central VESTA solamente transmite en formato ContactID (indiferentemente de la plantilla seleccionada que si que aplica a los eventos de los grabadores).
 
-#### &#x20;5.3.2. Control de abonados <a href="#toc84228660" id="toc84228660"></a>
+#### 5.3.2. Control de abonados <a href="#toc84228660" id="toc84228660"></a>
 
-Visualizamos los abonados de la aplicación, si están activos o no, el tiempo de polling, si están en fallo polling y la fecha del último polling:&#x20;
+Visualizamos los abonados de la aplicación, si están activos o no, el tiempo de polling, si están en fallo polling y la fecha del último polling:
 
-Si le damos doble click sobre un abonado podemos cambiar algunos parámetros del abonado:&#x20;
+Si le damos doble click sobre un abonado podemos cambiar algunos parámetros del abonado:
 
 Concretamente podemos cambiar el Período de polling (para ajustarlo al que esté programado en la central VESTA en cuestión), en minutos, y activar/desactivar el abonado. Si un abonado está inactivo las señales que puedan llegar quedan registradas, pero no pasan al software de gestión de CRA. También permite programar un test periódicamente (es un polling que sí que llegará al software de CRA). En el ejemplo se envía cada 24 horas. Con la MAC del equipo comprobamos si el número de abonado que recibimos corresponde con la MAC que tenemos registrada. Si no es así enviamos un evento de error (por defecto el código E304, ver configuración VESTA). Existe la posibilidad de asignar un grupo a cada abonado. Luego se pueden asignar grupos a usuarios, de manera que cada usuario tendría acceso bidireccional solamente a su grupo de abonados. La columna Num. Fallos Polling es el número de fallos consecutivos que tiene que haber para que se mande el evento de fallo de polling. Si no se define, por defecto es 3. También podemos ver la fecha en la que se registró cada abonado, el set de códigos utilizado por el abonado (CID o SIA), la Tolerancia Test, que son los segundos de margen (anteriores o posteriores) que tomará el sistema para considerar una señal de polling como test y el check Enviar Eventos Polling que permite desactivar el envío de eventos polling (se sigue controlando los fallos de polling pero no se mandan los eventos a CRA). Las nuevas columnas más gráficas muestran el estado de conexión de Ethernet (negro: no hay ethernet en la instalación, rojo: falla ethernet, verde: ethernet ok), el nivel de cobertura GSM, y el nivel de batería. Rearmado Automático se refiere a la capacidad del sistema para reamar remotamente y automáticamente un panel después de un tiempo definido a partir del desarmado. La columna Parámetros API indica si el abonado tiene que usar parámetros API (para el VisorHTML) distintos de los parámetros por defecto. Estos parámetros se elegirán en el progrma VESTA Lo → API Múltiple.
 
-### &#x20;5.4. Configuraciones Software de Recepción de Alarmas de CRA <a href="#toc84228661" id="toc84228661"></a>
+### 5.4. Configuraciones Software de Recepción de Alarmas de CRA <a href="#toc84228661" id="toc84228661"></a>
 
-#### &#x20;5.4.1. Manitou <a href="#toc84228662" id="toc84228662"></a>
+#### 5.4.1. Manitou <a href="#toc84228662" id="toc84228662"></a>
 
-Este es un ejemplo donde se configuran las receptoras en Manitou y un ejemplo de cómo debería quedar:&#x20;
+Este es un ejemplo donde se configuran las receptoras en Manitou y un ejemplo de cómo debería quedar:
 
-Se puede utilizar un puerto/driver dedicado o uno compartido (más de una receptora).&#x20;
+Se puede utilizar un puerto/driver dedicado o uno compartido (más de una receptora).
 
-Debemos elegir la línea que coincida con la que hemos programado en la pasarela de la central VESTA:&#x20;
+Debemos elegir la línea que coincida con la que hemos programado en la pasarela de la central VESTA:
 
-Y el tipo de transmisor Manitou con “Capacidad de Vídeo”:&#x20;
+Y el tipo de transmisor Manitou con “Capacidad de Vídeo”:
 
-#### &#x20;5.4.2. SBN <a href="#toc84228663" id="toc84228663"></a>
+#### 5.4.2. SBN <a href="#toc84228663" id="toc84228663"></a>
 
 Póngase en contacto con su técnico habitual de IBS para habilitar la comunicación con la pasarela.
 
-#### &#x20;5.4.3. Softguard <a href="#toc84228664" id="toc84228664"></a>
+#### 5.4.3. Softguard <a href="#toc84228664" id="toc84228664"></a>
 
-Póngase en contacto con su técnico habitual de Softguard para habilitar la comunicación con la pasarela.&#x20;
+Póngase en contacto con su técnico habitual de Softguard para habilitar la comunicación con la pasarela.
 
 ### 5.5. Módulo Visor – Acceso Bidireccional para centrales VESTA <a href="#toc2401" id="toc2401"></a>
 
@@ -1616,15 +1616,15 @@ Podemos realizar un armado parcial, un armado total o un desarmado de cada una d
 
 Si tenemos activada la opción sendVisorEvents, todas las acciones realizadas en el Visor mandarán un evento (con Código configurable) al software de CRA.
 
-### &#x20;6. Configuración central AXHUH <a href="#toc84228667" id="toc84228667"></a>
+### 6. Configuración central AXHUH <a href="#toc84228667" id="toc84228667"></a>
 
-### &#x20;6.1. Hikvision AXHUB and AlarmSpace <a href="#toc84228668" id="toc84228668"></a>
+### 6.1. Hikvision AXHUB and AlarmSpace <a href="#toc84228668" id="toc84228668"></a>
 
-#### &#x20;6.1.2. Introducción <a href="#toc84228669" id="toc84228669"></a>
+#### 6.1.2. Introducción <a href="#toc84228669" id="toc84228669"></a>
 
 AXHUB es una central de intrusión de Hikvision capaz de conectarse con cámaras Ip y de almacenar vídeos de los saltos de alarmas. Con AlarmSpace podemos descargar al momento estos vídeos y retransmitirlos al software de recepción de la CRA. Con esto se consigue aumentar la capacidad de la central puesto que los sucesivos vídeos no se pierden si no que se van descargando.
 
-#### &#x20;6.1.3. Requisitos mínimos <a href="#toc84228670" id="toc84228670"></a>
+#### 6.1.3. Requisitos mínimos <a href="#toc84228670" id="toc84228670"></a>
 
 Las versiones mínimas para el funcionamiento de la descarga de vídeo son:
 
@@ -1632,7 +1632,7 @@ Central AXHUB modelo DS-PWA32-HG Versión de Firmware: V1.0.4 build 190629
 
 AlarmSpace2 Versión 3.0.0.3
 
-#### &#x20;6.1.4. Configuraciones iniciales en AlarmSpace <a href="#toc84228671" id="toc84228671"></a>
+#### 6.1.4. Configuraciones iniciales en AlarmSpace <a href="#toc84228671" id="toc84228671"></a>
 
 Para la correcta comunicación con la Central AXHUB debemos programar unos parámetros generales en AlarmSpace:
 
@@ -1644,7 +1644,7 @@ PUBLIC IP: Una IP pública de la CRA en la que podamos dirigir los puertos 7660 
 
 Con estos parámetros el alta de cada central en AlarmSpace se hará automáticamente sin intervención de ningún usuario. Más adelante veremos otros parámetros que se pueden costumizar.
 
-#### &#x20;6.1.5. Configuraciones especiales de la AXHUB <a href="#toc84228672" id="toc84228672"></a>
+#### 6.1.5. Configuraciones especiales de la AXHUB <a href="#toc84228672" id="toc84228672"></a>
 
 Los parámetros necesarios para conectar y recibir alarmas y vídeos de la AXHUB en el software de recepción de alarmas son el "Centro de Recepción de Alarmas" (Alarm Receiving Center) y "Registro EHome" (Ehome Registration)
 
@@ -1685,7 +1685,7 @@ Aquí podemos elegir por cada canal parámetros que influirán de manera decisiv
 
 Todos estos parámetros (sobre todo el Video Bitrate) deben ser ajustados en la instalación real, haciendo pruebas de transmisión de vídeos hasta lograr un equilibrio entre el tiempo que tardamos en transmitir el vídeo y el resultado final del vídeo transmitido. Dependiendo de las cámaras, ópticas y resoluciones un Bitrate más bajo puede dar un buen resultado, mientras que con otras no. Con un nivel de cobertura adecuado se pueden conseguir tiempos de entre 20-25 segundos en la transmisión de vídeos completos de menos de 100 KBytes.
 
-#### &#x20;6.1.6. Funcionamiento en AlarmSpace <a href="#toc84228676" id="toc84228676"></a>
+#### 6.1.6. Funcionamiento en AlarmSpace <a href="#toc84228676" id="toc84228676"></a>
 
 Una vez activemos el protocolo EHome en la central, esta se nos dará de alta en el software de AlarmSpace al que esté apuntando la IP/Puerto siempre y cuando el password de AXHUB coincida. Los parámetros mínimos de funcionamiento se incorporan a la programación de AlarmSpace de manera que podemos empezar a funcionar sin ni siquiera abrir el Servidor de AlarmSpace.
 

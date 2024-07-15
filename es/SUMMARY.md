@@ -182,3 +182,4 @@
   * [Table of contents](.gitbook/SUMMARY.md)
 * [Configuración de Vaelsys con paneles VESTA](configuracion-de-vaelsys-con-paneles-vesta.md)
 * [🏥 VESTA-338](vesta-338.md)
+* [👨‍🔧 Manual Instalador centrales Híbridas y radio de VESTA](manual-instalador-centrales-hibridas-y-radio-de-vesta.md)

@@ -35,11 +35,11 @@ El PIR consta de un diseño de dos partes formado por una cubierta y una base. L
 
 **Puente encendido**
 
-![The jumper link is inserted, connecting the two pins.](.gitbook/assets/3.jpeg)
+![The jumper link is inserted, connecting the two pins.](<.gitbook/assets/3 (1).jpeg>)
 
 **Puente apagado**
 
-![If the jumper link is removed or “parked” on one pin.](<.gitbook/assets/4 (1).png>)
+![If the jumper link is removed or “parked” on one pin.](<.gitbook/assets/4 (1) (1).png>)
 
 * Cuando está activado, la inmunidad a mascotas está desactivada (valor predeterminado de fábrica).
 * Cuando se establece en APAGADO, la inmunidad a mascotas está habilitada.
