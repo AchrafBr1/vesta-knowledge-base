@@ -41,6 +41,10 @@ The Sensor will transmit a supervision signal to report its condition regularly 
 
 * _**Sensitivity**_
 
+{% hint style="warning" %}
+Only available for SVGS-5 or allowing for sensitivity
+{% endhint %}
+
 The Sensor can send alarm signal to the Control Panel according to different sensitivity levels setting. The sensitivity levels include high, medium, and low (default). The higher the sensitivity; the easier the sensor is triggered by shock/vibration.
 
 To adjust the sensitivity setting:
