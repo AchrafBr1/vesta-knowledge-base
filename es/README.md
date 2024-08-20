@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1635850967683-17df1f33e749?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxndWlkZXxlbnwwfHx8fDE3MDYxNzY2Mjh8MA&ixlib=rb-4.0.3&q=85
+cover: .gitbook/assets/Banner_VESTA_GitBook.jpg
 coverY: 0
 layout:
   cover:
