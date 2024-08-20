@@ -19,10 +19,6 @@ layout:
 
 # 📙 MANUALI E GUIDE
 
-***
-
-***
-
 ## BENVENUTI NEL REPOSITORY DEI MANUALI VESTA
 
 ### Qui puoi ottenere tutti i manuali e le guide per il sistema VESTA.
