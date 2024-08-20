@@ -17,9 +17,11 @@ layout:
     visible: true
 ---
 
-# 📚 WELCOME TO VESTA KNOWLEDGE BASE
+# 📙 MANUALS AND GUIDES
 
-Here you can get all manuals and guides for the VESTA system.
+## WELCOME TO VESTA KNOWLEDGE BASE
+
+### Here you can get all manuals and guides for the VESTA system.
 
 #### 🔍 Use the search engine to be able to ask natural questions, for example:&#x20;
 

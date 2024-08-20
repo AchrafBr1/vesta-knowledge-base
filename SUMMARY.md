@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📚 WELCOME TO VESTA KNOWLEDGE BASE](README.md)
+* [📙 MANUALS AND GUIDES](README.md)
 * [📢 VESTA-434](vesta-434.md)
 * [Installer manual VESTA 068N](vesta-068n.md)
 * [VESTA 005N](vesta-005n.md)
