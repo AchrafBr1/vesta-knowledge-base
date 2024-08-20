@@ -17,21 +17,19 @@ layout:
     visible: true
 ---
 
-# README\_fr
+# 📙 MANUELS ET GUIDES
 
 ***
 
 ***
 
-## 📚 MANUELS ET GUIDES
+## BIENVENUE DANS LE DÉPÔT DES MANUELS VESTA
 
 ### Ici vous pouvez obtenir tous les manuels et guides du système VESTA.
 
 **🔍 Utilisez le moteur de recherche pour pouvoir poser des questions naturelles, par exemple :**
 
 "A quelle hauteur dois-je installer un PIRCAM ?"
-
-Voici une faute de frappe
 
 ✨**Je suis également en mesure de vous accompagner étape par étape sur la plateforme, je vous montre ici comment configurer l'APN d'un panel :**
 
