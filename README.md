@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1646617747609-45b466ace9a6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dXNlciUyMG1hbnVhbHxlbnwwfHx8fDE3MDEyNjE0NTd8MA&ixlib=rb-4.0.3&q=85
+cover: .gitbook/assets/Banner_VESTA_GitBook.jpg
 coverY: 0
 layout:
   cover:
@@ -18,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 📚 WELCOME TO VESTA KNOLEDGE BASE
+# 📚 WELCOME TO VESTA KNOWLEDGE BASE
 
 Here you can get all manuals and guides for the VESTA system.
 
