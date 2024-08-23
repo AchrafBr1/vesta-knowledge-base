@@ -64,11 +64,11 @@ Before adding the lock to the VESTA system, it’s crucial to perform an “excl
 
 #### Step 1: Access the panel configuration from the installer APP:
 
-<figure><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F1580875003-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZJzpNocHhYVmD43GZobR%252Fuploads%252Fgit-blob-e453d09285cd283984eca047979d10f1e9d9d1a0%252Fimage%2520%2820%29.png%3Falt%3Dmedia&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=18477c7f&#x26;sv=1" alt=""><figcaption><p>Installer -> Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Installer -> Settings</p></figcaption></figure>
 
 #### Step 2: Select "Devices" in the menu.
 
-<figure><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F1580875003-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZJzpNocHhYVmD43GZobR%252Fuploads%252Fgit-blob-afbc0b8f69e056cf262358c1af3161bad927a3c7%252Fimage%2520%2821%29.png%3Falt%3Dmedia&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=468d2117&#x26;sv=1" alt=""><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
 
 #### Step 3: In the menu click "Exclude device".
 
