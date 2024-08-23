@@ -189,6 +189,7 @@
 * [CUDY-21](third-parties/cudy-21.md)
 * [SIMALARM](third-parties/simalarm.md)
 * [🛡️ ALARMSPACE](third-parties/alarmspace.md)
+* [DANALOCK WITH VESTA (Z-WAVE)](third-parties/danalock-with-vesta-z-wave.md)
 
 ## ❓ TIPS & HELP
 
