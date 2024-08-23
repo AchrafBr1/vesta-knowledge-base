@@ -220,9 +220,9 @@ _**Installation Guideline**_
 
 
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>Do not install outdoors. / Avoid large obstacles in the detection area.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption><p>Do not install outdoors. / Avoid large obstacles in the detection area.</p></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>Do not install the PIR completely exposed to direct sunlight. / Avoid vapor or high humidity that can cause condensation.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption><p>Do not install the PIR completely exposed to direct sunlight. / Avoid vapor or high humidity that can cause condensation.</p></figcaption></figure>
 

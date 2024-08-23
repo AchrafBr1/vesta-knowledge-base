@@ -8,7 +8,7 @@
 Wiring guide with VESTA HYBRID PANEL:&#x20;
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption><p>VESTA-428 sensor wiring diagram with a hybrid VESTA panel</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption><p>VESTA-428 sensor wiring diagram with a hybrid VESTA panel</p></figcaption></figure>
 
 {% hint style="warning" %}
 Ensure EOL, T and A JUMPERS are in place.
@@ -32,7 +32,7 @@ VESTA wired detectors represent the best choice for residential and industrial i
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p><img src=".gitbook/assets/image (16).png" alt="" data-size="original"></p><p>White light protection The detector is digitally filtered from white light.</p></td><td></td><td></td><td></td></tr><tr><td><p><img src=".gitbook/assets/image (15).png" alt="" data-size="original"></p><p>Full digital PIR The detector has no analog components, the full digital PIR is connected directly to the microprocessor.</p></td><td></td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (14).png" alt="" data-size="original"></td><td>High RFI protection Thanks to the total lack of traditional amplifiers, the detector has a very high RFI immunity.</td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (17).png" alt="" data-size="original"></td><td>Pet immunity All our detectors are pet immune up to 15 Kg, thanks to the new lens design combined with the digital analysis system.</td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (18).png" alt="" data-size="original"></td><td>Ultraviolet stabilization POLY IR®4 material for lenses The lens materials is POLY IR®. It offer the best combination of transmittance, environmental stability, and color of any polymer. Materials available for the 8-14 micron region of the infrared.</td><td></td><td></td></tr><tr><td><p><img src=".gitbook/assets/image (19).png" alt="" data-size="original"></p><p>LODIFF® Fresnel Lens Technology The lens array is made by tiling pieces of LODIFF® lenses. These lenses offer significantly improved performance over typical constant-groove-width Fresnel.</p></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p><img src=".gitbook/assets/image (22).png" alt="" data-size="original"></p><p>White light protection The detector is digitally filtered from white light.</p></td><td></td><td></td><td></td></tr><tr><td><p><img src=".gitbook/assets/image (21).png" alt="" data-size="original"></p><p>Full digital PIR The detector has no analog components, the full digital PIR is connected directly to the microprocessor.</p></td><td></td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (20).png" alt="" data-size="original"></td><td>High RFI protection Thanks to the total lack of traditional amplifiers, the detector has a very high RFI immunity.</td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (23).png" alt="" data-size="original"></td><td>Pet immunity All our detectors are pet immune up to 15 Kg, thanks to the new lens design combined with the digital analysis system.</td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (24).png" alt="" data-size="original"></td><td>Ultraviolet stabilization POLY IR®4 material for lenses The lens materials is POLY IR®. It offer the best combination of transmittance, environmental stability, and color of any polymer. Materials available for the 8-14 micron region of the infrared.</td><td></td><td></td></tr><tr><td><p><img src=".gitbook/assets/image (25).png" alt="" data-size="original"></p><p>LODIFF® Fresnel Lens Technology The lens array is made by tiling pieces of LODIFF® lenses. These lenses offer significantly improved performance over typical constant-groove-width Fresnel.</p></td><td></td><td></td><td></td></tr></tbody></table>
 
 ### INSTALLATION PROCEDURE
 
@@ -44,9 +44,9 @@ VESTA wired detectors represent the best choice for residential and industrial i
 * slide the cable into the back seat, and out of the top hole
 * Wire up the terminals following the connections shown in figure.
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption><p>Fig. 1</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption><p>Fig. 1</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption><p>Fig. 2 </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption><p>Fig. 2 </p></figcaption></figure>
 
 
 
@@ -98,11 +98,11 @@ DT2AM + and - = SUPPLY: power supply 9 - 15Vcc @ 27 mA nominal
 
 
 
-<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ### Datasheet
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 
 
