@@ -51,23 +51,20 @@ IV. Fit a new battery into the battery compartment. Please orient the battery ac
 
 *
   1. Replace the Cover.
-* _**Getting Started**_
+
+### _**Getting Started**_
 
 **Step 1** Remove the fixing screw and cover assembly
 
 **Step 2** Connect the External Temperature Probe to the terminal
 
-**Step 3** Insert the battery into the battery holder taking care to connect the polarity correctly. **Step 4** Put the Control Panel into learning mode. Please refer to your Control Panel user
-
-manual.
+**Step 3** Insert the battery into the battery holder taking care to connect the polarity correctly. **Step 4** Put the Control Panel into learning mode. Please refer to your Control Panel user manual.
 
 **Step 5** Press Learn Button to send learn code to Control Panel.
 
 **Step 6** Refer to the user manual of the Control Panel to complete the learn-in process.
 
-* _**Walk Test (Range Test)**_
-
-1
+### _**Walk Test (Range Test)**_
 
 **Step 1** Refer to Control Panel manual to enter Walk Test mode
 
