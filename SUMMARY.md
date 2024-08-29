@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📙 MANUALS AND GUIDES](README.md)
+* [Technical manuals and guides for the VESTA Alarm System](README.md)
 * [📢 VESTA-434](vesta-434.md)
 * [Installer manual VESTA 068N](vesta-068n.md)
 * [VESTA 005N](vesta-005n.md)
