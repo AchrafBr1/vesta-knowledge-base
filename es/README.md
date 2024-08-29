@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Manuales y guías técnicas del Sistema de Alarma VESTA
+# 📘 Manuales y guías técnicas del Sistema de Alarma VESTA
 
 Este portal es su recurso principal para acceder a la documentación técnica y guías de usuario del Sistema de Alarma VESTA. Aquí encontrará todo lo necesario para instalar, configurar y operar eficazmente su sistema, con acceso inmediato a la información más relevante para cada situación.
 
