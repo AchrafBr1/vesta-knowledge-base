@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📙 MANUALI E GUIDE](README.md)
+* [📘 Manuali e guide tecniche del sistema di allarme VESTA](README.md)
 * [MODELS](models\_it.md)
 * [VESTA 005N](vesta-005n\_it.md)
 * [VESTA006](vesta-006\_it.md)
