@@ -2,7 +2,7 @@
 
 * [Manuales y guías técnicas del Sistema de Alarma VESTA](README.md)
 * [🛡️ AlarmSpace](alarmspace.md)
-* [🙍 GUÍA DE USUARIO SmartHomeSec](guia-de-usuario-smarthomesec.md)
+* [🙍 Guía de usuario SmartHomeSec](guia-de-usuario-smarthomesec.md)
 * [👨‍🔧 MANUAL DE INSTALADOR SmartHomeSec](manual-de-instalador-smarthomesec.md)
 * [MODELOS](models\_es.md)
 * [VESTA 005N](vesta-005n\_es.md)
