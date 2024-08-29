@@ -1,4 +1,4 @@
-# 📢 VESTA-434
+# VESTA-434
 
 ## Introduction
 
