@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Technical manuals and guides for the VESTA Alarm System
+# 📘 Technical manuals and guides for the VESTA Alarm System
 
 This portal is your primary resource for accessing technical documentation and user guides for the VESTA Alarm System. Here, you will find everything you need to install, configure, and operate your system effectively, with immediate access to the most relevant information for every situation.
 
