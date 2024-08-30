@@ -30,29 +30,29 @@ On – Powered by a 12V power adapter or Hybrid Panel.
 
 Off – When the power is off, or when powered by rechargeable battery.
 
-1. **Zone 1\~4 LED (Red)**
+2. **Zone 1\~4 LED (Red)**
 
 The corresponding Zone LED will light up when the dry contact relay output switch is turned on, and the LED light will turn off when the switch is being turned off.
 
-1. **Transmission LED (Red)**
+3. **Transmission LED (Red)**
 
 Lights up when connection is normal between the Expansion Module and Control Panel.
 
-1. **Breakaway Area**
+4. **Breakaway Area**
 
 When the expansion module is forcibly removed from the mounting location, the area will detach and allow tamper switch to be activated.
 
-1. **Tamper Switch (For Wall Mounting)**
+5. **Tamper Switch (For Wall Mounting)**
 
 The expansion module is protected by the tamper switch against any unauthorized removal from the mounting location.
 
-1. **Mounting Holes**
-2. **Wiring Hole**
-3. **Battery Connection Terminal (for WEPC-1B only)**
+6. **Mounting Holes**
+7. **Wiring Hole**
+8. **Battery Connection Terminal (for WEPC-1B only)**
 
 For connecting the rechargeable battery pack to the PCB.
 
-1. **Terminal Resistor Jumper Switch (J3)**
+9. **Terminal Resistor Jumper Switch (J3)**
 
 When the Expansion Module is connected as the furthest BUS device on a BUS line, please set the Expansion Module’ terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
