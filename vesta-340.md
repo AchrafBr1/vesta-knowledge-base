@@ -1,8 +1,8 @@
 # VESTA 340
 
-**WEPC-1 Series Programmable Output Expansion Module**
+## **WEPC-1 Series Programmable Output Expansion Module**
 
-**Introduction**
+## **Introduction**
 
 The WEPC-1 Series Programmable Output Expansion Module is designed to provide programmable output for the Hybrid Panel. Connected to the Hybrid Panel via BUS connection, it includes 4 programmable relay outputs, which can be used in conjunction with compatible panels. The WEPC-1 Series is equipped with its own enclosure case, which has tamper protection and LED status indicators.
 
@@ -12,17 +12,17 @@ The WEPC-1 Series Programmable Output Expansion Module is designed to provide pr
 
 **WEPC-1B** – Programmable Output Expansion Module with rechargeable battery pack
 
-**Identifying the Parts**
+### **Identifying the Parts**
 
-**Front View** **Back View**
+&#x20;                            **Front View**                                                                               **Back View**
 
 ![](<.gitbook/assets/0 (27).jpeg>)
 
-**Internal View**
+&#x20;                                                                                            **Internal View**
 
 ![](<.gitbook/assets/1 (23).jpeg>)
 
-1
+
 
 1. **Power LED (Red)**
 
