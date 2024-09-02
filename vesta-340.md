@@ -52,6 +52,13 @@ The expansion module is protected by the tamper switch against any unauthorized 
 
 For connecting the rechargeable battery pack to the PCB.
 
+{% hint style="info" %}
+If you do not wish to install the battery, its monitoring can be disabled by disconnecting jumper J8. Before manipulating jumper J8, disconnect the power supply.
+
+* OFF= battery status monitoring disabled
+* ON= battery status monitoring enable
+{% endhint %}
+
 9. **Terminal Resistor Jumper Switch (J3)**
 
 When the Expansion Module is connected as the furthest BUS device on a BUS line, please set the Expansion Module’ terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
