@@ -22,6 +22,8 @@ Pulsar sobre el icono superior&#x20;
 
 Elegir la opción “Colgante Bluetooth”
 
+
+
 <figure><img src=".gitbook/assets/Imagen 5.png" alt=""><figcaption></figcaption></figure>
 
 Pulsar sobre el símbolo “+”
@@ -60,7 +62,13 @@ En esta pantalla vemos si esta realmente conectada la pulsera a nuestro móvil m
 
 También es \`posible ver su dirección MAC, el Fabricante, la Versión de Firmware, y la opción "Eliminar"
 
-\*Cabe la posibilidad de utilizar la pulsera como collar, si fuese este su caso, ir a “Contador de pasos -Tipo y seleccionar Collar”
+
+
+{% hint style="info" %}
+Cabe la posibilidad de utilizar la pulsera como collar, si fuese este el caso, ir a “Contador de pasos -Tipo y seleccionar Collar”
+{% endhint %}
+
+
 
 <figure><img src=".gitbook/assets/Imagen 14.png" alt=""><figcaption></figcaption></figure>
 
@@ -124,7 +132,13 @@ Pulsar el icono inferior&#x20;
 
 <figure><img src=".gitbook/assets/Imagen 30.png" alt=""><figcaption></figcaption></figure>
 
-\*Para reiniciar la pulsera, primero ir al apartado Bluetooth del móvil, si aparece desvincularla (olvidar). Luego eliminarla de la propia aplicación, después quitar la pila y volverla a poner, seguidamente mantener pulsado el pulsador frontal 15seg.
+
+
+{% hint style="info" %}
+Para reiniciar la pulsera, primero ir al apartado Bluetooth del móvil, si aparece desvincularla (olvidar). Luego eliminarla de la propia aplicación, después quitar la pila y volverla a poner, seguidamente mantener pulsado el pulsador frontal 15seg.
+{% endhint %}
+
+
 
 _**Indicador LED (LED azul y rojo)**_
 
