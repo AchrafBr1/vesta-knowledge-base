@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Banner_VESTA_GitBook.jpg
+cover: .gitbook/assets/Banner_VESTA_GitBook (1).jpg
 coverY: 0
 layout:
   cover:
