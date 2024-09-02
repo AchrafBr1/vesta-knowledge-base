@@ -53,7 +53,7 @@ The expansion module is protected by the tamper switch against any unauthorized 
 For connecting the rechargeable battery pack to the PCB.
 
 {% hint style="info" %}
-If you do not wish to install the battery, its monitoring can be disabled by disconnecting jumper J8. Before manipulating jumper J8, disconnect the power supply.
+If you do not wish to install the battery, its monitoring can be disabled by disconnecting jumper switch J8. Before manipulating jumper J8, disconnect the power supply.
 
 * OFF= battery status monitoring disabled
 * ON= battery status monitoring enable
