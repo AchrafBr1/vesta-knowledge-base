@@ -183,3 +183,4 @@
 * [Configuración de Vaelsys con paneles VESTA](configuracion-de-vaelsys-con-paneles-vesta.md)
 * [🏥 VESTA-338](vesta-338.md)
 * [👨‍🔧 Manual Instalador centrales Híbridas y radio de VESTA](manual-instalador-centrales-hibridas-y-radio-de-vesta.md)
+* [INTEGRACIÓN FOCOS RAYTEC](integracion-focos-raytec.md)
