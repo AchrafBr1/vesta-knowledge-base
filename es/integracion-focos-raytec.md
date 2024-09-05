@@ -1,3 +1,7 @@
+---
+icon: lightbulb-exclamation-on
+---
+
 # INTEGRACIÓN FOCOS RAYTEC
 
 ## Manual de Integración de Focos RAYTEC con Paneles VESTA
