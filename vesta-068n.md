@@ -208,7 +208,7 @@ _**Photo report**_.
 {% hint style="success" %}
 Examples of **PHOTOS** reporting in different protocols:
 
-:fire: **MANITOU**: <mark style="color:blue;">**ABONADO**</mark>**@**<mark style="color:orange;">**IP\_DEVELOPMENT\_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>.
+:fire: **MANITOU**: <mark style="color:blue;">**ACCT**</mark>**@**<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>
 {% endhint %}
 
 
@@ -230,4 +230,8 @@ Step 2: Program the email provided by central monitoring station in "Captured fi
 <figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 
+
+{% hint style="warning" %}
+**IMPORTANT:** If you use IP cameras integrated with VESTA, you have to lower the camera resolution to 2MP or lower for proper operation.
+{% endhint %}
 
