@@ -181,7 +181,7 @@ Once the panel is in upgrade mode <mark style="color:red;">**Do NOT turn off**</
 SWITCHING OFF THE PANEL DURING AN UPGRADE MAY RENDER IT COMPLETELY INOPERATIVE.
 {% endhint %}
 
-¡
+
 
 ### 4.5 Reporting configuration to ARC (Alarm Receiving Center)
 
@@ -194,11 +194,11 @@ _APPENDIX 2_
 {% hint style="success" %}
 Examples of **EVENTS** reporting in different protocols:
 
-:fire: **MANITOU (most used in Spain): ip://**<mark style="color:blue;">**ABONADO**</mark>**@**<mark style="color:orange;">**IP\_DEDE\_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**/MAN**
+:fire: **MANITOU (most used in Spain): ip://**<mark style="color:blue;">**ACCT**</mark>**@**<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PORT**</mark>**/MAN**
 
-:flag: SIA: **ip://\*\*\*\***<mark style="color:blue;">**WELCOME**</mark>@<mark style="color:orange;">**IP\_DE\_CRA**</mark>:<mark style="color:purple;">**PUERTO**</mark>/SIA2\*\*
+SIA: **ip://**<mark style="color:blue;">**ACCT**</mark>@<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PORT**</mark>/SIA2\*\*
 
-:map: CID: **ip://\*\*\*\***<mark style="color:blue;">**ABONED**</mark>@<mark style="color:orange;">**IP\_DE\_CRA**</mark>:<mark style="color:purple;">**PUERTO**</mark>/CID\*\*.
+CID: **ip://**<mark style="color:blue;">**ACCT**</mark>@<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PORT**</mark>/CID\*\*.
 {% endhint %}
 
 _**Photo report**_.
@@ -210,3 +210,24 @@ Examples of **PHOTOS** reporting in different protocols:
 
 :fire: **MANITOU**: <mark style="color:blue;">**ABONADO**</mark>**@**<mark style="color:orange;">**IP\_DEVELOPMENT\_CRA**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>**:**<mark style="color:purple;">**PUERTO**</mark>.
 {% endhint %}
+
+
+
+## Photo report for SENTINEL software
+
+{% hint style="info" %}
+Step 1: Program SMTP information in settings -> Report&#x20;
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption><p>Example</p></figcaption></figure>
+
+
+
+{% hint style="info" %}
+Step 2: Program the email provided by central monitoring station in "Captured files"
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
+
+
