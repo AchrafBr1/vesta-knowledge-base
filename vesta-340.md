@@ -1,6 +1,14 @@
 # VESTA 340
 
-**PC-1 Series Programmable Output Expansion Module**
+**Programmable Output Expansion Module**
+
+
+
+{% hint style="info" %}
+Note: If you use it **without battery** backup, you have to **remove the JUMPER J8**, and leave it in parked position without plugging it in.
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption><p>Remove J8 when using without backup battery</p></figcaption></figure>
 
 ## **Introduction**
 
