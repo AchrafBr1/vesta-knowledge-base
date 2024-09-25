@@ -54,7 +54,7 @@ When the PIR motion sensor camera is connected as the furthest BUS device on a B
 
 **Jumper On**
 
-![](<.gitbook/assets/4 (1).jpeg>)
+![](<.gitbook/assets/4 (1) (1).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 
@@ -248,7 +248,7 @@ Please refer to the table below for configuration details. For example, if you w
 * _**Power Supply**_
   *
     * When VST-892EX-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
-* _**Caution**_ ![](.gitbook/assets/17.jpeg)
+* _**Caution**_ ![](<.gitbook/assets/17 (1).jpeg>)
   * Wiring of the PIR camera should only be performed by certified technicians with proper knowledge and training in electric equipment.
   * Before installation or any maintenance work, make sure the power supply has been disconnected.
 * _**Outdoor PIR Camera Wiring**_

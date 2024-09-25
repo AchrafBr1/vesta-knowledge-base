@@ -132,7 +132,7 @@ _\<NOTE>_
   * After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/13 (1).jpeg>)
+![](<.gitbook/assets/13 (1) (1).jpeg>)
 
 **Learning**
 

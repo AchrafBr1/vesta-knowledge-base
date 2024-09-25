@@ -42,7 +42,7 @@ The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-![](<.gitbook/assets/3 (1).jpeg>)
+![](<.gitbook/assets/3 (1) (1).jpeg>)
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -72,7 +72,7 @@ In Normal operation mode, the LED Indicator will flash 3 times in the following 
 
 The LED will not flash if the PIR tamper is normal and PIR is not under test mode.
 
-![](<.gitbook/assets/5 (1).jpeg>)
+![](<.gitbook/assets/5 (1) (1).jpeg>)
 
 * _**Tamper Protection**_
 
@@ -135,7 +135,7 @@ The PIR can be put into Test mode by pressing the Test Button. Every time the Te
   * Wiring of the PIR motion sensor should only be performed by certified technician with proper knowledge and training in electric equipment.
   * Before installation or any maintenance work, make sure the power supply has been disconnected.
 
-![](<.gitbook/assets/11 (1).jpeg>) ![](<.gitbook/assets/12 (1).jpeg>) ![](<.gitbook/assets/13 (9).png>)
+![](<.gitbook/assets/11 (1).jpeg>) ![](<.gitbook/assets/12 (1) (1).jpeg>) ![](<.gitbook/assets/13 (9).png>)
 
 2
 
@@ -178,7 +178,7 @@ Step 4. Click “**Add**” to include the device into the Panel.
 
 Step 5. If the device is successfully learnt into the Panel, it will be displayed in the “Learned Device” section.
 
-![](<.gitbook/assets/17 (1).jpeg>)
+![](<.gitbook/assets/17 (1) (1).jpeg>)
 
 * _**Identification**_
 

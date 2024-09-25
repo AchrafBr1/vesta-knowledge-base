@@ -20,7 +20,7 @@ VST-892-BUS – Wired PIR motion sensor camera with flash LED VST-892-IL-BUS –
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1).jpeg>)
 
 **1. Flash LED/Infrared LED**
 
@@ -59,7 +59,7 @@ When the PIR Camera is connected as the furthest BUS device on a BUS line, pleas
 
 **Jumper On**
 
-![](.gitbook/assets/4.jpeg)
+![](<.gitbook/assets/4 (1).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 
@@ -144,7 +144,7 @@ When VST-892-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provi
 
 The PIR Camera is protected by a tamper switch which is depressed when the PIR Camera is properly installed. When the PIR Camera is removed from the mounting surface or its cover is opened, the tamper switch will be activated and the PIR Camera will send a tamper open signal to the system control panel to remind the user of the condition.
 
-![](.gitbook/assets/14.jpeg)
+![](<.gitbook/assets/14 (1).jpeg>)
 
 2
 

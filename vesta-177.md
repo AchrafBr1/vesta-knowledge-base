@@ -28,7 +28,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 **Parts Identification**
 
-![](.gitbook/assets/0.jpeg)
+![](<.gitbook/assets/0 (1).jpeg>)
 
 1. **Test Button / LED Indicator**
    * The test button is used for testing the radio performance and for learning purpose.
@@ -45,7 +45,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 **Jumper On**
 
-![The jumper link is inserted, connecting the two pins.](.gitbook/assets/3.jpeg)
+![The jumper link is inserted, connecting the two pins.](<.gitbook/assets/3 (1).jpeg>)
 
 
 

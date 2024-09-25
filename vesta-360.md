@@ -79,7 +79,7 @@ The jumper link is removed or “parked” on one pin.
 
 The device is triggered by door/window opening or a shock detection which exceeds detection threshold.
 
-![](<.gitbook/assets/9 (1).jpeg>)
+![](<.gitbook/assets/9 (1) (1).jpeg>)
 
 * _**Materials of Mounting Surface**_
 
@@ -107,7 +107,7 @@ The device supports shock detection on various materials including glass, wood, 
     * Wiring of the Door Contact / Shock Sensor should only be performed by certified technicians with proper knowledge and training in electric equipment.
     * Before installation or any maintenance work, make sure the power supply has been disconnected.
 
-![](<.gitbook/assets/11 (2).jpeg>) ![](<.gitbook/assets/12 (2).jpeg>) ![](.gitbook/assets/13.jpeg) ![](<.gitbook/assets/14 (1).jpeg>) ![](<.gitbook/assets/15 (3).jpeg>) ![](<.gitbook/assets/16 (11).png>)
+![](<.gitbook/assets/11 (2).jpeg>) ![](<.gitbook/assets/12 (2).jpeg>) ![](<.gitbook/assets/13 (1).jpeg>) ![](<.gitbook/assets/14 (1) (1).jpeg>) ![](<.gitbook/assets/15 (3).jpeg>) ![](<.gitbook/assets/16 (11).png>)
 
 2
 
