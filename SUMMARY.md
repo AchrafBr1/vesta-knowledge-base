@@ -155,7 +155,7 @@
 * [VESTA 325](vesta-325.md)
 * [VESTA 335](vesta-335.md)
 * [VESTA 336](vesta-336.md)
-* [VESTA 340](vesta-340.md)
+* [VESTA-340](vesta-340.md)
 * [VESTA 344](vesta-344.md)
 * [VESTA 347](vesta-347.md)
 * [VESTA 347N 720P](vesta-347n-720p.md)
