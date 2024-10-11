@@ -10,7 +10,13 @@ Before starting the upgrade process, ensure you have the following:
 
 * VESTA control panel
 * The CUDY-21 router connected to your computer.
-* Downloaded the latest firmware version for the CUDY-21 router from the official website or following link: [DOWNLOAD](https://drive.google.com/file/d/1NNhxj8A92b1hrdxQGG79KoI8N11x1LZX/view?usp=sharing)
+* Downloaded the latest firmware version for the CUDY-21 router from the official website or following file:&#x20;
+
+{% file src="../.gitbook/assets/LT500V2-R25-2.1.1-20240419-090237-flash.zip" %}
+CUDY FIRMAWARE&#x20;
+{% endfile %}
+
+
 
 ### Step 1: Access the Router's Admin Interface
 
