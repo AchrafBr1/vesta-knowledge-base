@@ -89,3 +89,14 @@ After configuring the commands:
 #### **7. Conclusion**
 
 Integrating RAYTEC lights with VESTA panels using HTTP GET commands is a straightforward process that allows for automated lighting control based on the user’s needs. By following these steps, you can effectively control RAYTEC lights from the VESTA security panel.
+
+
+
+8. **Video**&#x20;
+
+
+
+{% embed url="https://www.youtube.com/watch?ab_channel=ByDemesEspa%C3%B1a&v=fk_DxcPl_qc" %}
+
+
+
