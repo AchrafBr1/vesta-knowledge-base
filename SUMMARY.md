@@ -211,3 +211,4 @@
 * [VESTA ADVANCED IP CAMERA SERIES](vesta-advanced-ip-camera-series.md)
 * [VESTA-381](vesta-381.md)
 * [CID TABLE FOR RULES AND EVENT FILTER](cid-table-for-rules-and-event-filter.md)
+* [SmartHomeSec WIZARD](smarthomesec-wizard.md)
