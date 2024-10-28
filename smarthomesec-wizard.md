@@ -16,7 +16,17 @@ This wizard is coming soon
 
 
 
-## 2. Device config
+## 2. Device learning guide
+
+
+
+
+
+
+
+## 2.1. Device Config
+
+
 
 
 
@@ -55,8 +65,6 @@ This wizard is coming soon
 
 
 
-
-## DEVICE LEARNING GUIDE
 
 
 
