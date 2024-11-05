@@ -29,6 +29,8 @@ It is crucial to configure the APN so the panel can communicate with the SmartHo
 
 {% hint style="success" %}
 The panel with an external battery is 100% connected to the cloud. It will use BACKUP batteries if the external battery is exhausted.
+
+**Very important** these batteries require ventilation so avoid any confined area without ventilation.
 {% endhint %}
 
 {% tabs %}
