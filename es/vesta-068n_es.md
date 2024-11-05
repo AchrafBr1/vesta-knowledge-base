@@ -29,6 +29,8 @@ Es crucial configurar el APN para que el panel pueda comunicarse con el cloud de
 
 {% hint style="success" %}
 El panel con batería externa está **conectado al cloud al 100%. Usará las pilas de BACKUP en caso de agotar la batería externa**
+
+**Muy importante** estas baterías requieren de ventilación por lo tanto evitar cualquier sitio confinado sin ventilación
 {% endhint %}
 
 {% tabs %}
