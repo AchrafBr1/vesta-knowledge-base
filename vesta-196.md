@@ -1,10 +1,8 @@
-# VESTA 196
+# VESTA-196
 
-![](<.gitbook/assets/0 (65).png>)**Geo Pendant**
+<figure><img src=".gitbook/assets/image (57).png" alt="" width="375"><figcaption><p>VESTA-196</p></figcaption></figure>
 
-**(GPT-3-FS)**
-
-GPT-3-FS is a Geo transmitter that can work with the Receiver to provide alerts when resident moves inside/outside the pre-set location. The Geo transmitter also allows user to raise an alarm in an emergency by pressing the help button. GPT-3-FS is worn as a necklace.
+VESTA-196  is a Geo transmitter that can work with the Receiver to provide alerts when resident moves inside/outside the pre-set location. The Geo transmitter also allows user to raise an alarm in an emergency by pressing the help button. GPT-3-FS is worn as a necklace.
 
 * _**Red LED**_
   * Red LED OFF: In Standby Mode.
@@ -27,23 +25,16 @@ The geo transmitter transmits beacon signal to the Receiver upon movement detect
 
 The Geo Transmitter uses one CR2477 3V Lithium battery as its power source.
 
+{% hint style="info" %}
 Every time the Active Button is pressed, the Transmitter will check the battery voltage. If low battery status is detected 3 times in a row, the Transmitter will send Low Battery signal with next signal transmission.
+{% endhint %}
 
-![](<.gitbook/assets/2 (75).png>)
-
-_\<NOTE>_
-
-![](<.gitbook/assets/3 (65).jpeg>)
-
-*
-  * A 30-second interval is required between each Active Button press to check the battery voltage again.
+* A 30-second interval is required between each Active Button press to check the battery voltage again.
 * _**Low Battery Detection and Supervision**_
 
 Geo Transmitter features Auto Low Battery detection and Supervision.
 
 * After the battery is inserted, the Geo Transmitter will automatically transmit a Low Battery detection & Supervisory code to the Control Panel every 24 hours. If Low Battery status is detected, a Low Battery signal will be sent to the Control Panel every 12 hours.
-
-![](<.gitbook/assets/4 (76).png>)
 
 _**FCC Statement**_
 
@@ -51,8 +42,6 @@ _This device complies with Part 15 of the FCC Rules. Operation is subject to the
 
 1. _This device may not cause harmful interference, and_
 2. _This device must accept any interference received, including interference that may cause undesired operation._
-
-![](<.gitbook/assets/5 (42).jpeg>)
 
 _**FCC Caution:**_
 
