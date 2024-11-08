@@ -6,7 +6,7 @@
 
 
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Jumper config</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Jumper config</p></figcaption></figure>
 
 {% hint style="success" %}
 **JP6: Door Contact or External Input Mode**

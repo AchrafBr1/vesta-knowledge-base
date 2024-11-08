@@ -112,12 +112,10 @@
 * [VESTA 188](vesta-188.md)
 * [VESTA 189](vesta-189.md)
 * [VESTA 191](vesta-191.md)
-* [VESTA 193](vesta-193.md)
-* [VESTA-196](vesta-196.md)
-* [VESTA 199](vesta-199.md)
-* [VESTA 200](vesta-200.md)
-* [VESTA 201](vesta-201.md)
-* [VESTA 202](vesta-202.md)
+* [VESTA-193](vesta-193.md)
+* [VESTA-199](vesta-199.md)
+* [VESTA-200](vesta-200.md)
+* [VESTA-202](vesta-202.md)
 * [VESTA 204](vesta-204.md)
 * [VESTA 206](vesta-206.md)
 * [VESTA 207N](vesta-207n.md)
@@ -200,8 +198,9 @@
 
 ***
 
-* [Page](page.md)
 * [VESTA-194](vesta-194.md)
+* [VESTA-196](vesta-196.md)
+* [VESTA-201](vesta-201.md)
 * [VESTA-429](vesta-429.md)
 * [VESTA-428](vesta-428.md)
 * [VESTA-427](vesta-427.md)
