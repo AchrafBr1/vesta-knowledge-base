@@ -1,4 +1,4 @@
-# VESTA 036
+# VESTA-036
 
 **Outdoor Pet-Immune PIR Motion Sensor (EIR-32)**
 
@@ -215,8 +215,6 @@ _\<NOTE>_
 
 ![](<.gitbook/assets/13 (12).jpeg>)
 
-5
-
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
 ![](<.gitbook/assets/14 (14).jpeg>)
@@ -234,4 +232,3 @@ _\<IMPORTANT NOTE>_
 * The Motion Sensor has a blind spot of about 1 meter under it when mounted at a height of 2 meters. The blind spot area will enlarge if you mount the Motion Sensor higher than 2M, and reduce if lower than 2M.
 * Unless required, we suggest keeping the Motion Sensor mounting location at 2M for optimum performance. If you change the mounting height, please conduct detection test to make sure the Motion Sensor can detect intruder normally at the desired height.
 
-6
