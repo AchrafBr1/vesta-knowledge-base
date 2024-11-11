@@ -1,6 +1,6 @@
-# VESTA 038
+# VESTA-038
 
-* Panic Button (PB-15)
+Panic Button (PB-15)
 
 The Panic Button is used to activate (or deactivate) a panic alarm.
 
@@ -20,9 +20,11 @@ The Panic Button is used to activate (or deactivate) a panic alarm.
 
 The LED indicator will light up briefly when the device is transmitting a signal.
 
-1. **Cover-Fixing Screw**
-2. **Fixing Hook**
-3. **Battery Compartment**
+The LED indicator will flash twice when receivng acknoeledgement from the control panel.
+
+2. **Cover-Fixing Screw**
+3. **Fixing Hook**
+4. **Battery Compartment**
 
 * **Battery**
 * The Panic Button is powered by one EL123AP Lithium battery.
