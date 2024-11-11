@@ -13,31 +13,15 @@ The Glass Break Detector detects the high frequency sound emitted by glass break
     3. **Microphone**
     4. **Dip Switch**
     5. **Battery Compartment**
-    6. **Learn / Test Button**
-
-\-Press the button once to send a learn code.
-
-*
-  *
-    1. **Tamper Switch**
-
-\-The tamper switch is compressed against the back cover and protects the Detector from cover opening or removal from mounted location
-
-*
-  *
-    1. **Breakaway Area**
-
-The Breakaway Area has 2 knockouts where plastic is thinner for screw mounting. When the Detector is forcibly removed from mounting location, the Break Away area will detach and allow tamper switch to be activated.
-
+    6. **Learn / Test Button** -Press the button once to send a learn code
+    7. **Tamper Switch** -The tamper switch is compressed against the back cover and protects the Detector from cover opening or removal from mounted location
+    8. **Breakaway Area -** The Breakaway Area has 2 knockouts where plastic is thinner for screw mounting. When the Detector is forcibly removed from mounting location, the Break Away area will detach and allow tamper switch to be activated.
 * _**LED Indicator**_
   * The LED indicators are inside the front cover and only visible when activated.
   * Red LED: The Red LED activates when:
-    *
-      * Tamper Switch is activated.
-      * Learn/Test button is pressed.
-      * Glass break detected under Test Mode, Low Battery or Tamper open condition
-
-![](<.gitbook/assets/1 (39).jpeg>)
+    * Tamper Switch is activated.
+    * Learn/Test button is pressed.
+    * Glass break detected under Test Mode, Low Battery or Tamper open condition
 
 (The Red LED does not light up when glass break is detected during normal operation)
 
