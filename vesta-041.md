@@ -101,14 +101,9 @@ _\<NOTE>_
 
 To test whether the device is able to communicate with the Z-Wave gateway or Z-Wave Control Panel:
 
-
-
 * Put the gateway / panel into range test mode (Walk Test).
 * Press the Function Button on the device.
 * The gateway / panel Control Panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel Control Panel).
-
-<!---->
-
 * _**Z-Wave Sleep Mode**_
   * The Room Sensor will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or Z-Wave Control Panels are unable to send commands to the Room Sensor.
   * To program the Room Sensor, please send command(s) to the Room Sensor within the wake-up period.
@@ -123,13 +118,13 @@ For best LCD display quality, the Room Sensor should be mounted at location abou
 
 When mounting with screw, make sure to only use screws provided in the package by original manufacturer, as inappropriate screws may damage interior of the device.
 
-*
-  1. Remove the front cover by using a screwdriver.
-  2. Break through the knockouts on the back cover.
-  3. Using the holes as a template, drill holes in the surface
-  4. Insert the wall plugs if fixing into plaster or brick
-  5. Screw the back cover into the wall plugs
-  6. Screw the front cover back on to the back cover
+1. Remove the front cover by using a screwdriver.
+2. Break through the knockouts on the back cover.
+3. Using the holes as a template, drill holes in the surface
+4. Insert the wall plugs if fixing into plaster or brick
+5. Screw the back cover into the wall plugs
+6. Screw the front cover back on to the back cover
+
 * _**Z-Wave Information**_
 
 **Device Type:** Sensor - Notification
@@ -178,7 +173,7 @@ Sensor Multilevel CC, v5 (COMMAND\_CLASS\_SENSOR\_MULTILEVEL)
 
 _(it supports 5 nodes)_
 
-3
+
 
 Group 3 for “Humidity Report”:
 
@@ -186,4 +181,3 @@ Sensor Multilevel CC,V5 (COMMAND\_CLASS\_SENSOR\_MULTILEVEL)
 
 _(it supports 5 nodes)_
 
-4
