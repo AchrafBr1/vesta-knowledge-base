@@ -4,7 +4,7 @@ PSM-29ZW / PSS-29ZW
 
 Power Switch Series
 
-Introduction
+**Introduction**
 
 The Power Switch series include the following models:
 
@@ -20,7 +20,7 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 The Z-Wave Power Switches allow access to the “S2 Unauthenticated” class and support Z-Wave SmartStart inclusion as well as classic inclusion.
 
-Parts Identification
+**Parts Identification**
 
 1\. Function Button aka LED indicator
 
@@ -44,9 +44,7 @@ The LED indicator lights up in the following conditions:
 * Press the Function Button 3 times within 1.5 seconds to transmit a learn code.
 * Press and hold the Function Button for 10 seconds to factory reset.
 
-| _Type F_                                                           | _Type J_                                                                                                                                                                                               | _Type B_ | _Type E_ | _Type G_ |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
-| <img src=".gitbook/assets/0 (25).png" alt="" data-size="original"> | <img src=".gitbook/assets/1 (27).png" alt="" data-size="original"><img src=".gitbook/assets/2 (30).png" alt="" data-size="original"><img src=".gitbook/assets/3 (28).png" alt="" data-size="original"> |          |          |          |
+<figure><img src=".gitbook/assets/vesta-042 1.png" alt=""><figcaption></figcaption></figure>
 
 **Features**
 
@@ -66,7 +64,11 @@ The device supports both classic inclusion process and SmartStart inclusion proc
 
 **SmartStart Inclusion**
 
-![](<.gitbook/assets/4 (28).png>)Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. DSK is Device Specific Key used for authentication. The DSK information is stored in the QR code format that is printed on a sticker and attached to the device.
+
+
+<figure><img src=".gitbook/assets/vesta-042 2.png" alt=""><figcaption></figcaption></figure>
+
+Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. DSK is Device Specific Key used for authentication. The DSK information is stored in the QR code format that is printed on a sticker and attached to the device.
 
 * Scan the QR Code sticker on the Power Switch to obtain DSK and transfer to the Z-Wave gateway.
 * Plug the Power Switch into a power outlet, a SmartStart inclusion request will be automatically sent to the gateway.
@@ -96,7 +98,7 @@ _(Only use factory reset when network Control Panel/Gateway is missing or inoper
 * Factory resetting the device will restore it to factory default settings (excluded from the Z-Wave network). The Z-Wave Gateway or Control Panel will still keep its Z-Wave settings. Please refer to the Gateway or Control Panel manual on how to remove the device’s Z-Wave settings.
 * Factory resetting the device will also clear all accumulated power data.
 * Before you remove or factory reset the Power Switch, please ensure that the device DSK information has been removed or does not exist in the gateway. If you remove or factory reset the device, but its DSK still exists in the gateway, the gateway will automatically include the device again.
-* _Range Test_
+* _**Range Test**_
 
 To test whether the device is able to communicate with the Z-Wave Gateway or Control Panel:
 
@@ -132,7 +134,9 @@ Operation
 
 **Command Class Support/Control**
 
-**Mandatory CC Support:** Association CC, v2 or newer
+**Mandatory CC Support:**&#x20;
+
+Association CC, v2 or newer
 
 Association Group Information CC
 
