@@ -1,7 +1,7 @@
 # VESTA 044
 
 * UPIC-5ZW Infrared Universal Remote Control
-* Introduction
+* **Introduction**
 
 UPIC5-ZW is a Z-Wave Infrared Remote Control. It is designed to operate your home appliances by transmitting IR signal. The IR Remote Control is capable of learning IR signal transmitted from the appliance’s remote control. After learning the signal, you can remotely control the IR Remote Control via Z-Wave network to send signal to appliance without using the remote control manually.
 
@@ -15,7 +15,7 @@ The UPIC5 Z-Wave Infrared Remote Control series includes the following models:
 
 **UPIC5-ZW-OTA** Infrared Remote Control with Over-the-Air Firmware Upgrade feature
 
-* Parts Identification
+* **Parts Identification**
 
 **1. IR Eye**
 
@@ -200,18 +200,18 @@ Each appliance type can learn up to 8 IR signals, selected with Dip Switch Set 2
 
 **Example:**
 
-1. For air conditioner remote control, if you set the remote control to “Cool Mode, 18°C, Fan Speed Auto” and turn off the remote control, then point the remote control at IR Receiver and press “ON.”
+For air conditioner remote control, if you set the remote control to “Cool Mode, 18°C, Fan Speed Auto” and turn off the remote control, then point the remote control at IR Receiver and press “ON.”
 
 The IR Receiver will learn in “Cool Mode, 18°C, Fan Speed Auto” signal for the air conditioner
 
-1. For television remote control, if you point the remote control at IR receiver and press ON/Off.
+For television remote control, if you point the remote control at IR receiver and press ON/Off.
 
 The IR Receiver will learn in ON/OFF signal for the television.
 
-1. If the signal is received successfully, the IR LED will flash quickly, then turn off to indicating that IR Remote Control is storing IR Signal data, then flash slowly again. If you accidently sent the wrong IR signal, point the remote control away to adjust setting, the point it at the IR Receiver to retransmit signal again. The new IR signal will overwrite the old one.
-2. After finish learning, change dip switch setting to learn another IR Signal, the repeat procedure from 2 to 4. We suggest to proceed from IR Signal 1 to 8 by sliding dip switch 1 to 8 to ON position one by one
-3. Repeat the process to learn in maximum of 8 signals for each appliance type.
-4. You can adjust your Dip Switch set 2 setting to select another appliance type.
+4. If the signal is received successfully, the IR LED will flash quickly, then turn off to indicating that IR Remote Control is storing IR Signal data, then flash slowly again. If you accidently sent the wrong IR signal, point the remote control away to adjust setting, the point it at the IR Receiver to retransmit signal again. The new IR signal will overwrite the old one.
+5. After finish learning, change dip switch setting to learn another IR Signal, the repeat procedure from 2 to 4. We suggest to proceed from IR Signal 1 to 8 by sliding dip switch 1 to 8 to ON position one by one
+6. Repeat the process to learn in maximum of 8 signals for each appliance type.
+7. You can adjust your Dip Switch set 2 setting to select another appliance type.
 
 **Step 4. Exit IR Learn Mode**
 
@@ -245,14 +245,14 @@ Slide more than one switch to ON will select multiple appliance type,
 
 **Example:**
 
-1. Slide Switch 1,2,3,4,5 to ON will select all 5 appliance types.
+1. Slide Switch 1, 2, 3, 4, 5 to ON will select all 5 appliance types.
 2. Slide Switch 1 and 3 to ON to select Air Conditioner and Home Audio.
 3. Press and hold Function/IR button and insert batteries to power up IR transmitter, do not release the button yet.
 4. Keep holding both Function/IR button until IR LED turns on, then release the button
 5. The IR transmitter will clear stored IR signal for selected appliance types, the IR LED will flash continuously.
 6. Slide all switches to OFF position to return to normal operation. The IR LED will turn off.
 
-* Installation
+* **Installation**
 
 The IR Remote Control is designed to be mounted on wall. It can be mounted by either directly screwing the back cover onto the wall, or by installing the rotational bracket first, then install the main body on the bracket. Please refer to the **IR Signal Coverage & IR LED Selection** section below for information on IR signal transmission before selecting the IR Remote Control’s mounting location.
 
@@ -282,10 +282,12 @@ The Rotational Bracket has an adjustable head which can be attached to the IR Re
 3. Hook the IR Remote Control onto the brackets using the holes on the back.
 4. After completing installation, you can use a Philip screw driver to loosen the screw on top of the bracket, then adjust the IR transmitter angle and tighten the screw to lock the bracket angle.
 
-![](<.gitbook/assets/7 (15).jpeg>)
 
-* Operation
-* _Control via Z-Wave Gateway/Control Panel_
+
+<figure><img src=".gitbook/assets/VESTA-044.png" alt=""><figcaption></figcaption></figure>
+
+* **Operation**
+* _**Control via Z-Wave Gateway/Control Panel**_
 
 The IR Remote Control can be controlled via Climax Z-Wave Gateway/Control Panels remotely to transmit IR signal. Selecting the appliance type and IR signal number from the Control Panel will control the IR Remote Control to send IR signal accordingly.
 
@@ -310,13 +312,15 @@ When installing the IR Remote Control, select the IR LED used via your Control P
 
 Please refer to diagram below for IR signal coverage:
 
-![](<.gitbook/assets/9 (5).jpeg>)
 
-* _IR Transmission Power_
+
+<figure><img src=".gitbook/assets/VESTA-044 2.png" alt=""><figcaption></figcaption></figure>
+
+* _**IR Transmission Power**_
 
 Use the jumper switches (JP2 and JP3) to adjust the IR signal transmission power. Factory default is set to Low transmission power(JP1 ON). Setting the jumper to JP2 will increase the IR signal transmission range.
 
-* _Simple AV Control Set Command_
+* _**Simple AV Control Set Command**_
 
 The simple AV control set command is used to control an AV device through the Control Panel:
 
@@ -330,7 +334,7 @@ Item ID MSB: for appliance type, 01\~05
 
 Item ID LSB: for IR signal data, 01\~08
 
-![](<.gitbook/assets/10 (18).png>)
+<figure><img src=".gitbook/assets/VESTA-044 3.png" alt=""><figcaption></figcaption></figure>
 
 **Z-Wave Information**
 
@@ -340,7 +344,9 @@ Item ID LSB: for IR signal data, 01\~08
 
 **Command Class Support/Control**
 
-**Mandatory CC Support:** Association CC, v2
+**Mandatory CC Support:**&#x20;
+
+Association CC, v2
 
 Association Group Information CC
 
