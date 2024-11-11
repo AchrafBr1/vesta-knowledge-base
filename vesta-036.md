@@ -10,7 +10,7 @@ The anti-masking feature allows for detection of any attempts to blind the detec
 
 In addition, the adjustable Detection Range gives the effective match for every installation environment, that provides a peace of mind living-style and yet protecting your premises and be-loved ones all year round.
 
-* _**Identifying the Parts**_
+## _**Identifying the Parts**_
 
 &#x20;   **Front View                                              Inside View**                                                                  **Back View**
 
@@ -50,25 +50,26 @@ The Breakaway Area has 6 knockouts (2 for surface mounting and 4 for corner moun
 
 The protective shield protects the Digital Proximity Detector from rain.
 
-* _**LED Indicator**_
+## _**LED Indicator**_
 
 In Normal operation mode, the LED Indicator remains off except:
 
 * When the Motion Sensor is in low battery condition, each time it transmits a detected movement, the LED will flash for 6 times.
-*
-  * When the Tamper Switch is triggered, the LED will flash for 6 times to indicate it is transmitting “**Tamper**” signal.
-  * When the Tamper condition persists, each time it transmits a detected movement, the LED will flash for 6 times.
-  * In Test mode, the LED will flash for 6 times whenever a movement is detected.
-* _**Test Mode**_
+* When the Tamper Switch is triggered, the LED will flash for 6 times to indicate it is transmitting “**Tamper**” signal.
+* When the Tamper condition persists, each time it transmits a detected movement, the LED will flash for 6 times.
+* In Test mode, the LED will flash for 6 times whenever a movement is detected.
+
+## _**Test Mode**_
 
 The Motion Sensor can be put into Test mode for 10 minutes by pressing the Test button once. In Test mode, sleep timer is disabled and LED indicator is enabled to light up for two seconds whenever a movement is detected. The Motion Sensor will automatically exit Test Mode after 10 minutes, and return to normal mode.
 
 To put the Motion Sensor into constant Test mode, please adjust DIP switch 1 (Please refer to _DIP Switch Position Table_).
 
-* _**Battery**_
-  * The Motion Sensor uses two AAL91 lithium batteries as its power source.
-  * The Motion Sensor features low battery voltage detection. When low battery is detected, a low battery signal will be sent to the Control Panel along with regular signal transmissions for the Control Panel to display the status accordingly.
-  * **To Change Battery:**
+## _**Battery**_
+
+* The Motion Sensor uses two AAL91 lithium batteries as its power source.
+* The Motion Sensor features low battery voltage detection. When low battery is detected, a low battery signal will be sent to the Control Panel along with regular signal transmissions for the Control Panel to display the status accordingly.
+* **To Change Battery:**
 
 **Step 1:** Navigate the Control Panel into Programming mode.
 
@@ -84,26 +85,30 @@ To put the Motion Sensor into constant Test mode, please adjust DIP switch 1 (Pl
 
 **Step 7:** Navigate the Control Panel to exit Programming mode and return to operation mode. The procedure is complete.
 
-* _**Supervisory Signal**_
-  * After installation, the Motion Sensor will automatically transmit Supervisory signals periodically to the Control Panel at random intervals of 30 to 50 minutes.
-  * If the Control Panel has not received the signal from the Motion Sensor for the preset period of time, the Control Panel will indicate on its display that the particular Motion Sensor is experiencing an out-of-signal problem.
-* _**Sleep Timer**_
+## _**Supervisory Signal**_
+
+* After installation, the Motion Sensor will automatically transmit Supervisory signals periodically to the Control Panel at random intervals of 30 to 50 minutes.
+* If the Control Panel has not received the signal from the Motion Sensor for the preset period of time, the Control Panel will indicate on its display that the particular Motion Sensor is experiencing an out-of-signal problem.
+
+## _**Sleep Timer**_
 
 The Motion Sensor features an automatic “sleep time” of approximately one minute for power conservation. After transmitting a detected movement, the Motion Sensor will not retransmit for one minute. Any further movement detected within this one-minute sleep period will extend the sleep time by another minute. This way, continuous movement in front of Motion Sensor will not unduly exhaust the battery.
 
-* _**Double Knock Function**_
+## _**Double Knock Function**_
 
 The Motion Sensor has a double knock function. If the double knock function is enabled, the Motion Sensor will report an alarm to the control panel only if two movements are detected within 10 seconds. If the double knock function is disabled, the Motion Sensor will report an alarm to the control panel when a movement is detected.
 
-* _**Proximity Detection**_
-  * The Motion Sensor has a digital proximity detector that can detect any masking (blocking) attempt by an intruder.
-  * When a masking event is detected, and the masking condition lasts for 2 minutes, EIR-32 will send tamper open signal to the Control Panel to notify user of the condition.
-  * After masking/blocking is removed for 2 minutes, EIR-32 will send tamper restore signal to the Control Panel.
+## _**Proximity Detection**_
+
+* The Motion Sensor has a digital proximity detector that can detect any masking (blocking) attempt by an intruder.
+* When a masking event is detected, and the masking condition lasts for 2 minutes, EIR-32 will send tamper open signal to the Control Panel to notify user of the condition.
+* After masking/blocking is removed for 2 minutes, EIR-32 will send tamper restore signal to the Control Panel.
 
 _\<NOTE>_
 
 * Any IR trigger movement will clear currently detected masking event/condition. A masking event must be detected and last for 2 minutes for the tamper open report to be tramsmitted.
-* _**DIP Switch Position Table**_
+
+## _**DIP Switch Position Table**_
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and bottom position indicates OFF.
 
@@ -140,36 +145,41 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 _**\<NOTE>**_
 
 * After changing Dip Switch settings, please re-power on EIR-32 for it to operate with new Dip Switch Settings.
-* _**Tamper Protection**_
-  * EIR-32 is protected by a tamper switch which is compressed when it is hooked onto the mounting bracket.
-  * Whenever the Motion Sensor is removed from the mounting plate, the tamper switch will be activated.
-  * When the Motion Sensor is forcibly removed from mounting location, the Break Away area on the mounting plate will detach, also allowing the tamper switch to be activated.
-  * The Motion Sensor will send a tamper open signal to remind the user of the condition whenever the tamper switch is activated.
-* _**Getting Started – Learning the Motion Sensor into the Control Panel**_
-  * Loosen the fixing screws and remove the cover assembly.
-  * Based on your needs, set Sensitivity Switch as shown in _DIP Switch Position Table_.
-  * Insert two AAL91 lithium batteries into the battery holder taking care to connect the polarity correctly.
-  * The LED indicator will flash for 60 seconds. The Motion Sensor is warming up. During the warming period, the Motion Sensor is not activated. It is recommended that you stay away from the detection area during this time. After the warming period is over, the LED dims and the Motion Sensor is ready to operate.
-  * Put the Control Panel into learning mode, refer to Control Panel manual for details.
-  * Press the Test button once. The LED indicator will flash for three times.
-  * If the Control Panel receives the signal, it will display the information accordingly. Refer to the Control Panel manual to complete the learn-in process. (For certain Control Panel models, the Motion Sensor can be learnt in as a regular PIR with programmable attributes and thus the Control Panel will report when an alarm is triggered).
-  * After the Motion Sensor is learnt-in, put the Control Panel into Walk Test mode. Hold the Motion Sensor in the desired location, and press the Test button to confirm this location is within the signal range of the Control Panel.
-  * When you are satisfied that the Motion Sensor works in the chosen location, you can proceed to installation.
+
+## _**Tamper Protection**_
+
+* EIR-32 is protected by a tamper switch which is compressed when it is hooked onto the mounting bracket.
+* Whenever the Motion Sensor is removed from the mounting plate, the tamper switch will be activated.
+* When the Motion Sensor is forcibly removed from mounting location, the Break Away area on the mounting plate will detach, also allowing the tamper switch to be activated.
+* The Motion Sensor will send a tamper open signal to remind the user of the condition whenever the tamper switch is activated.
+
+## _**Getting Started – Learning the Motion Sensor into the Control Panel**_
+
+* Loosen the fixing screws and remove the cover assembly.
+* Based on your needs, set Sensitivity Switch as shown in _DIP Switch Position Table_.
+* Insert two AAL91 lithium batteries into the battery holder taking care to connect the polarity correctly.
+* The LED indicator will flash for 60 seconds. The Motion Sensor is warming up. During the warming period, the Motion Sensor is not activated. It is recommended that you stay away from the detection area during this time. After the warming period is over, the LED dims and the Motion Sensor is ready to operate.
+* Put the Control Panel into learning mode, refer to Control Panel manual for details.
+* Press the Test button once. The LED indicator will flash for three times.
+* If the Control Panel receives the signal, it will display the information accordingly. Refer to the Control Panel manual to complete the learn-in process. (For certain Control Panel models, the Motion Sensor can be learnt in as a regular PIR with programmable attributes and thus the Control Panel will report when an alarm is triggered).
+* After the Motion Sensor is learnt-in, put the Control Panel into Walk Test mode. Hold the Motion Sensor in the desired location, and press the Test button to confirm this location is within the signal range of the Control Panel.
+* When you are satisfied that the Motion Sensor works in the chosen location, you can proceed to installation.
 
 _\<NOTE>_
 
 * **Walk Test** should be conducted to confirm proper operation and coverage of the Motion Sensor.
 * When learning Motion Sensor or conducting Walk Test, please avoid obstructing the anti-masking detector by your hand, otherwise tamper open signal will transmitted to the Control Panel if masking condition lasts for 2 minutes.
-* _**Mounting & Installation Method**_
-  * **Mounting with mounting plate:**
-    *
-      * The Motion Sensor is designed to be mounted on either a flat surface or in a corner situation with fixing screws and plugs provided.
-      * The provided mounting plate has knockouts, where the plastic is thinner and can be broken for mounting purpose. Two knockouts are for surface fixing and four knockouts are for corner fixing as shown in the picture.
-      * To Mount EIR-32 with Mounting Bracket:
-        1. Use the mounting plate as a template to drill holes on the wall for plugs.
-        2. Push in the plugs and fix the mounting plate on the wall with the screws.
-        3. Mount EIR-32 with the hooks of the mounting plate latched on the back cover of the EIR-32, and then push downwards until you hear a click sound to lock the hook.
-        4. Insert the protective shield (the protective film from both sides must first be removed).
+
+## _**Mounting & Installation Method**_
+
+* **Mounting with mounting plate:**
+  * The Motion Sensor is designed to be mounted on either a flat surface or in a corner situation with fixing screws and plugs provided.
+  * The provided mounting plate has knockouts, where the plastic is thinner and can be broken for mounting purpose. Two knockouts are for surface fixing and four knockouts are for corner fixing as shown in the picture.
+  * To Mount EIR-32 with Mounting Bracket:
+    1. Use the mounting plate as a template to drill holes on the wall for plugs.
+    2. Push in the plugs and fix the mounting plate on the wall with the screws.
+    3. Mount EIR-32 with the hooks of the mounting plate latched on the back cover of the EIR-32, and then push downwards until you hear a click sound to lock the hook.
+    4. Insert the protective shield (the protective film from both sides must first be removed).
 
 ![](<.gitbook/assets/4 (28).jpeg>) ![](<.gitbook/assets/5 (47).png>)
 
@@ -203,9 +213,9 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
 
 _\<NOTE>_
 
-*
-  * After EIR-32 is mounted, if the Control Panel displays the Tamper fault status for the device, please make sure the anti-masking detector is not obstructed by any object and wait for two minutes to see if the Tamper Open status is cleared. If Tamper Open status persisits after two minutes, please remove EIR-32 from the mounting location, and check if the Tamper Switch is properly compressed against the mounting plate.
-* _**Installation Recommendations**_
+* After EIR-32 is mounted, if the Control Panel displays the Tamper fault status for the device, please make sure the anti-masking detector is not obstructed by any object and wait for two minutes to see if the Tamper Open status is cleared. If Tamper Open status persisits after two minutes, please remove EIR-32 from the mounting location, and check if the Tamper Switch is properly compressed against the mounting plate.
+
+## _**Installation Recommendations**_
 
 **It is recommended to install the Motion Sensor in the following locations:**
 
