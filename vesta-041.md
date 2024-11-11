@@ -1,4 +1,4 @@
-# VESTA 041
+# VESTA-041
 
 **RS-23-ZW Room Sensor** V:R3
 
@@ -133,7 +133,9 @@ When mounting with screw, make sure to only use screws provided in the package b
 
 **Command Class Support/Control**
 
-**Mandatory CC Support:** Association CC, v2 or newer
+**Mandatory CC Support:**&#x20;
+
+Association CC, v2 or newer
 
 Association Group Information CC
 
@@ -161,7 +163,7 @@ Group 1 for “LifeLine”:
 
 Sensor Multilevel CC,V5 (COMMAND\_CLASS\_SENSOR\_MULTILEVEL)
 
-Battery CC(COMMAND\_CLASS\_USER\_BASIC)
+Battery CC (COMMAND\_CLASS\_USER\_BASIC)
 
 Device Reset Locally CC
 
@@ -172,8 +174,6 @@ Group 2 for “Temperature Report”:
 Sensor Multilevel CC, v5 (COMMAND\_CLASS\_SENSOR\_MULTILEVEL)
 
 _(it supports 5 nodes)_
-
-
 
 Group 3 for “Humidity Report”:
 
