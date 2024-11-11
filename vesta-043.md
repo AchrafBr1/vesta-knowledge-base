@@ -1,4 +1,4 @@
-# VESTA 043
+# VESTA-043
 
 * WSS-4E-ZW Smart Scenario Switch
 * Introduction
@@ -21,7 +21,9 @@ There are four Scenario LED, the LED will light up according to the corresponden
 
 The Scenario Switch has 4 scenario buttons:
 
-![未命名-1](<.gitbook/assets/1 (18).jpeg>)Button 1
+![未命名-1](<.gitbook/assets/1 (18).jpeg>)
+
+Button 1
 
 Button 2
 
@@ -113,7 +115,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 ![未命名-2](<.gitbook/assets/2 (13).jpeg>)
 
-* Z-Wave Information
+* **Z-Wave Information**
 
 **Device Type:** Sensor - Notification
 
@@ -121,7 +123,9 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 **Command Class Support/Control**
 
-**Mandatory CC Support:** Association CC, v2
+**Mandatory CC Support:**&#x20;
+
+Association CC, v2
 
 Association Group Information CC
 
