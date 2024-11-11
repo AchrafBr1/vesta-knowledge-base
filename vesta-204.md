@@ -1,6 +1,6 @@
 # VESTA-204
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p>VESTA-204<strong>Carbon Monoxide Detector CO-8</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption><p>VESTA-204<strong>Carbon Monoxide Detector CO-8</strong></p></figcaption></figure>
 
 **Carbon Monoxide Detector CO-8**
 

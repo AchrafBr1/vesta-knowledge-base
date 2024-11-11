@@ -1,6 +1,6 @@
 # VESTA-201
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>VESTA-201</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>VESTA-201</p></figcaption></figure>
 
 VESTA-201 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wireless signals to the Control Panel upon detection of window glass break or shock/vibration.
 
