@@ -21,7 +21,11 @@ There are four Scenario LED, the LED will light up according to the corresponden
 
 The Scenario Switch has 4 scenario buttons:
 
-![未命名-1](<.gitbook/assets/1 (18).jpeg>)
+<div align="left">
+
+<figure><img src=".gitbook/assets/1 (18).jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Button 1
 
