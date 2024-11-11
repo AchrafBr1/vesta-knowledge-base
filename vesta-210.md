@@ -61,10 +61,10 @@ When enabled, the LED Indicator will light up in the following conditions:
 * In Test mode, the LED will flash for 2 seconds whenever a movement is detected.
 * If the LED flashes to indicate signal transmission, it will flash twice rapidly upon receiving acknowledgement from panel.
 
-_\<NOTE>_
+{% hint style="info" %}
+The LED indicator can be enabled by setting the DIP Switch 2 to ON position. Please refer to **DIP Switch Position Table** for details.
+{% endhint %}
 
-*
-  * The LED indicator can be enabled by setting the DIP Switch 2 to ON position. Please refer to **DIP Switch Position Table** for details.
 * _**Image Capture**_
 
 When the alarm system is armed, the PIR Camera will capture 1, 3 or 6 alarm images in 640 x 480 or 320 x 240 resolutions (programmable from Control Panel) upon movement detection. You can also manually request the PIR Camera to take a picture through the Control Panel. The captured images will be transferred to the Control Panel for visual alarm verification.
