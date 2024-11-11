@@ -1,26 +1,29 @@
-# VESTA 039
+# VESTA-039
 
 * Panic Button (PB-23)
 
 The Panic Button is used to activate (or deactivate) a panic alarm.
 
 * **Parts Identification**
+*
 
-![未命名-2](<.gitbook/assets/0 (17).jpeg>)
+    <figure><img src=".gitbook/assets/Imagen PB-23.png" alt=""><figcaption></figcaption></figure>
 
 1. **LED Indicator**
 
 The LED indicator will light up briefly when the device is transmitting a signal.
 
-1. **Panic Button**
-2. Press to send a learn code or activate a panic alarm
-3. Press and hold the button for 8 seconds to send a Cancel Code to the Control Panel.
+2. **Panic Button**
+
+1 Press to send a learn code or activate a panic alarm
+
+2 Press and hold the button for 8 seconds to send a Cancel Code to the Control Panel.
 
 (This function is not compatible with every control panel).
 
-1. **Battery Compartment**
-2. **4 x Cover-Fixing Screws**
-3. **Battery Insulator**
+3. **Battery Compartment**
+4. **4 x Cover-Fixing Screws**
+5. **Battery Insulator**
 
 * **Battery**
 * The Panic Button is powered by one CR123A 3V Lithium battery.
@@ -44,9 +47,9 @@ The LED indicator will light up briefly when the device is transmitting a signal
 
 A Pad is included into the Panic Button as picture shown below. The padding helps to avoid pressing the button accidently when mounting the Panic Button.
 
-![image2](<.gitbook/assets/1 (16).jpeg>)
 
-Pad
+
+<figure><img src=".gitbook/assets/Imagen 2 PB-23.png" alt=""><figcaption></figcaption></figure>
 
 There are two ways to deploy the Panic Button: Wall Mounting and Surface Deployment. After successfully installed the Panic Button, please gently remove the Pad.
 
@@ -57,18 +60,14 @@ The Panic Button can be wall mounting using Velcro tape provided.
 1. Clean the wall mounting location and back of the Panic button with degreaser. Do not mount on wall with cracking paint or rough surface.
 2. The Velcro tape can be separated to Hook and Loop side (**Picture 1**). Remove the protective cover of the Hook side (**Picture 2**) and apply to desired mounting location. (**Picture 3**)
 
-**Picture 1 Picture 2 Picture 3**
+**Picture 1                                                      Picture 2                                                     Picture 3**
 
 ![image3](<.gitbook/assets/2 (12).jpeg>) ![image1](<.gitbook/assets/3 (13).jpeg>) ![](<.gitbook/assets/4 (10).jpeg>)
 
-Loops
+3. Remove the protective cover of the Loop side and apply to back of the Panic Button. (**Picture 4**)
+4. Hook the Panic Button onto mounting location. (**Picture 5**)
 
-Hooks
-
-1. Remove the protective cover of the Loop side and apply to back of the Panic Button. (**Picture 4**)
-2. Hook the Panic Button onto mounting location. (**Picture 5**)
-
-**Picture 4** **Picture 5**
+**Picture 4**                                                                                            **Picture 5**
 
 ![image2](<.gitbook/assets/5 (11).jpeg>) ![IMG\_1469](<.gitbook/assets/6 (15).jpeg>)
 
@@ -79,8 +78,8 @@ The Panic Button can be deployed on a flat surface without being installed at a 
 1. Clean the back of the Panic button with degreaser.
 2. Remove the protective cover of Anti-Slip pad and apply to the back of Panic Button. (**Picture 6**)
 
-**Picture 6**
+&#x20;                                                                                          **Picture 6**
 
 ![image6](<.gitbook/assets/7 (14).jpeg>)
 
-1. Place the Panic Button at desired location.
+3. Place the Panic Button at desired location.
