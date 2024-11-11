@@ -1,10 +1,12 @@
-# VESTA 040
+# VESTA-040
 
 SVGS-5 Shock, Vibration & Glass Break Sensor
 
 SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wireless signals to the Control Panel upon detection of window glass break or shock/vibration.
 
-![](<.gitbook/assets/0 (18).jpeg>)Parts Identification
+
+
+<figure><img src=".gitbook/assets/vesta-040 5.png" alt=""><figcaption></figcaption></figure>
 
 1. **Learn/Test Button**
 
@@ -14,7 +16,7 @@ SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wirele
 * Press the Button once to enter Test Mode for 3 minutes.
 * Press the Button for 5 seconds to adjust sensitivity settings from the Control Panel.
 
-1. **LED Indicator**
+2. **LED Indicator**
 
 * **Lights up for 1 second:** When the Sensor is powered on.
 * **Flashes once:** Transmitting signal.
@@ -28,7 +30,9 @@ SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wirele
 * When changing battery, use a sharp tool to open the battery slot to remove and insert battery.
 * When inserting battery, the **positive(+)** side of the battery must face upward. **NEVER** insert the battery with negative(-) side facing upward.
 
-![](<.gitbook/assets/1 (17).jpeg>)
+
+
+<figure><img src=".gitbook/assets/vesta-040.png" alt=""><figcaption></figcaption></figure>
 
 * _**Supervision**_
 
@@ -47,7 +51,8 @@ Portal Server webpage.
 3. Go to **Type & Sensitivity** and select a desired setting from the dropdown menu.
 4. Click **OK** to confirm. The Sensor’s LED will dim to indicate successful operation.
 
-* For details on shock/vibration detection mode range, see section Installation in later section.
+For details on shock/vibration detection mode range, see section Installation in later section.
+
 * _**Detection Mode**_
 * The device’s shock/vibration detection feature may be triggered according to different mode selected in the Control Panel.
 * **Single Pulse Shock Mode **_**(default mode for SVGS-5 If no detection mode is set in Control Panel)**_
@@ -93,20 +98,11 @@ The Sensor should be mounted direct on glass or plywood surface.
 
 The Sensor sensitivity is adjusted via Control Panel. The detection range of different sensitivity varies depending on the mounting surface materials.
 
-|                                | Glass                                 | Plywood                                 | Safety Box              |   |
-| ------------------------------ | ------------------------------------- | --------------------------------------- | ----------------------- | - |
-| Material                       | Plated/Tempered/Laminated/Wired Glass | Plywood                                 | Steel / Silicon Dioxide |   |
-| Thickness                      | Minimum 5mm                           | Maximum 9mm                             | Minimum 3mm             |   |
-| Shock/Vibration Detection Mode | Single Pulse Mode                     | Multi Pulse /Accumulated Vibration Mode |                         |   |
-| Sensitivity                    | Low                                   | 8000mm                                  | 2000mm                  | - |
-| Medium                         | 10000mm                               | 2500mm                                  | -                       |   |
-| High                           | 12000mm                               | 3000mm                                  | 1400mm                  |   |
+<figure><img src=".gitbook/assets/vesta-040 2.png" alt=""><figcaption></figcaption></figure>
 
 * _**Installation Steps and Guideline**_
 
-1. Adjust the sensor’s sensitivity as desired according to mounting surface material using table supplied in previous
-
-section.
+1. Adjust the sensor’s sensitivity as desired according to mounting surface material using table supplied in previous section.
 
 **Window/Wall Installation:**
 
@@ -116,12 +112,18 @@ Determine the mounting location on window or wall. The sensor may be mounted at 
 
 * When mounting at corner, make sure to keep at least 10mm distance between the sensor and the edge of window or wall. Adjust the battery slot direction (**Do not face the corner**) to avoid difficulty when removing the battery slot.
 
+<figure><img src=".gitbook/assets/vesta-040 3.png" alt=""><figcaption></figcaption></figure>
+
 **Safety Box Installation:**
 
 When mounting on Safety Box, mount the Sensor no more than 2cm away from the door pivot.
 
-1. ![](<.gitbook/assets/5 (25).png>)Clean and dry the mounting location. Do not install on dirty or web surface.
-2. Use the provided double-sided adhesive tape (Ø35mm x 8mm) to apply to the back cover of SVGS and stick the sensor onto the mounting location.
+2. Clean and dry the mounting location. Do not install on dirty or web surface.
+3. Use the provided double-sided adhesive tape (Ø35mm x 8mm) to apply to the back cover of SVGS and stick the sensor onto the mounting location.
+
+
+
+<figure><img src=".gitbook/assets/vesta-040 4.png" alt=""><figcaption></figcaption></figure>
 
 \<NOTE>
 
