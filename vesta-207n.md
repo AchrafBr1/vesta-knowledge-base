@@ -1,4 +1,6 @@
-# VESTA 207N
+# VESTA-207N
+
+<figure><img src=".gitbook/assets/image (64).png" alt="" width="375"><figcaption><p>VESTA-207N</p></figcaption></figure>
 
 **Wireless Outdoor Bell Box (BX-23-AC)**
 
@@ -6,36 +8,26 @@ The Outdoor Bell Box is used to attract attention when alarm signal is received 
 
 The Bell Box can also alert you to tamper violation, and low battery status.
 
-![](<.gitbook/assets/0 (94).jpeg>)
-
 **Identifying the Parts**
 
 ![](<.gitbook/assets/1 (85).jpeg>)
 
 1. **Mounting Holes**
 2. **AC Input Terminal Block**
+   1. Connect to a 9V 1A Adapter to power the Bellbox.
+3. **3. Power Switch**
+   * The switch includes 3 positions:
+     * BT4: The Bellbox is powered by the 4 Alkaline batteries configuration.
+     * Off: The Bellbox is not powered by any battery.
+     * BT2: This configuration is currently reserved.
+4. **LED Group 3**
+5. **LED Group 2**
+6. **LED Group 1**
+7. **Learn Button**
+8. **Battery Compartment**
+9. **Tamper Switch**
 
-Connect to a 9V 1A Adapter to power the Bellbox.
-
-**3. Power Switch**
-
-The switch includes 3 positions:
-
-BT4: The Bellbox is powered by the 4 Alkaline batteries configuration.
-
-Off: The Bellbox is not powered by any battery.
-
-BT2: This configuration is currently reserved.
-
-1. **LED Group 3**
-2. **LED Group 2**
-3. **LED Group 1**
-4. **Learn Button**
-5. **Battery Compartment**
-6. **Tamper Switch**
-
-![](<.gitbook/assets/2 (75).jpeg>)
-
+{% hint style="info" %}
 **Accessories included**
 
 In addition to the BX-23 itself, the following accessories are also included in the package:
@@ -45,8 +37,7 @@ a. 4 x large wall plugs.
 b. 4 x 4 mm x 30 mm cross head fixing screws.
 
 c. 4 x 1.5V D alkaline cells (pre-inserted)
-
-![](<.gitbook/assets/3 (70).jpeg>)
+{% endhint %}
 
 **Power Supply**
 
@@ -76,29 +67,19 @@ Step 1. Slide the Battery switch to the OFF position.
 
 Step 2. Connect AC power according to instruction above.
 
-![](<.gitbook/assets/4 (80).png>)
-
-_\<NOTE>_
-
-* The Power switch position BT2 is currently reserved.
-
-![](<.gitbook/assets/5 (45).jpeg>)
+{% hint style="info" %}
+The Power switch position BT2 is currently reserved.
+{% endhint %}
 
 **Supervision**
 
 The Bellbox will transmit a supervisory signal every 30-50 minutes in normal operation mode. If this signal is not received, the Control Panel will indicate that the particular BX-23 is experiencing an out-of-order problem.
 
-![](<.gitbook/assets/6 (61).png>)
-
 **Function Overview**
 
 * **Alarm Memory**
 
-1
-
 If an alarm was triggered in your absence and the system was not disarmed before alarm length expiry, the Bellbox will sound a short alarm when the system is disarmed to warn the user that an alarm has been triggered when he is away. This suggests that the intruder could still be within the premises.
-
-![](<.gitbook/assets/7 (57).png>)
 
 * **Alarm Length**
 
@@ -122,33 +103,21 @@ Tamper feature can be disabled temporaily from the Control Panel using Siren Tam
 
 While arming / disarming the system, the BX-23 uses different methods to distinguish various statuses for the user, as listed in the table.
 
-![](<.gitbook/assets/8 (56).png>) ![](<.gitbook/assets/9 (56).png>)
-
-|                      | **Siren Audio**  |                                   | **Strobe light indication**      |
-| -------------------- | ---------------- | --------------------------------- | -------------------------------- |
-|                      |                  |                                   |                                  |
-| Arm/Home             | 1 beep\*         | 3                                 | LED groups flash once            |
-|                      |                  |                                   |                                  |
-| Disarm               | 2 beeps\*        | Sequentially flashes for 1 cycle  |                                  |
-|                      |                  |                                   |                                  |
-| Arm (Low Battery)    | 3 beeps          | 3                                 | LED groups flash for three times |
-|                      |                  |                                   |                                  |
-| Disarm (Low Battery) | 3 beeps          | Sequentially flashes for 3 cycles |                                  |
-|                      |                  |                                   |                                  |
-| Arm (Tamper)         | 5 beeps          | 3                                 | LED groups flash for 5 times     |
-|                      |                  |                                   |                                  |
-| Disarm (Tamper)      | 5 beeps          | Sequentially flashes for 5 cycles |                                  |
-|                      |                  |                                   |                                  |
-| Entry/Exit Sound     | Count-down beeps |                                   |                                  |
-|                      |                  |                                   |                                  |
-
-![](<.gitbook/assets/10 (26).jpeg>) ![](<.gitbook/assets/11 (43).png>)
+|                      | **Siren Audio**  | S**trobe light indication**        |
+| -------------------- | ---------------- | ---------------------------------- |
+| Arm/Home             | 1 beep\*         | 3 LED groups flash once            |
+| Disarm               | 2 beeps\*        | Sequentially flashes for 1 cycle   |
+| Arm (Low Battery)    | 3 beeps          | 3 LED groups flash for three times |
+| Disarm (Low Battery) | 3 beeps          | Sequentially flashes for 3 cycles  |
+| Arm (Tamper)         | 5 beeps          | 3 LED groups flash for 5 times     |
+| Disarm (Tamper)      | 5 beeps          | Sequentially flashes for 5 cycles  |
+| Entry/Exit Sound     | Count-down beeps |                                    |
 
 * The Siren Audio indication will be affected by the Confirmation ON / OFF setting. When setting Confirmation to OFF, the confirmation sound will not be available. Refer to Control Panel Siren setting for Confirmation function.
 
-![](<.gitbook/assets/12 (26).jpeg>) ![](<.gitbook/assets/13 (28).jpeg>)
-
 **Getting Started**
+
+<figure><img src=".gitbook/assets/vesta 207n.jpg" alt=""><figcaption></figcaption></figure>
 
 **Learning**
 
@@ -170,16 +139,10 @@ Step 7: If the Control Panel receives the learning code, it will list the device
 
 Step 8: Refer to the Control Panel manual and use Edit Device function to check Bellbox settings. You can edit the operation area, zone number, and device name for the Bellbox.
 
-![](<.gitbook/assets/15 (34).png>)
-
-_\<NOTE>_
-
+{% hint style="info" %}
 * If the learning process fails, please repeat steps 3-7 again.
-* If the bellbox does not receive the confirm code from the Control Panel within one
-
-2
-
-minute, the bellbox will leave learning mode and the LED groups 1 & 3 will turn off.
+* If the bellbox does not receive the confirm code from the Control Panel within one minute, the bellbox will leave learning mode and the LED groups 1 & 3 will turn off.
+{% endhint %}
 
 **Edit Bellbox Operation Area**
 
@@ -189,7 +152,7 @@ Step 2: Press the learn button on the Bellbox to send signal to panel, the Bellb
 
 Step 3: When the Bellbox receives acknowledgement signal from panel, it will emit a beep and flash LED 2 once to indicate the setting has been updated. The Bellbox will return to normal operation.
 
-![](<.gitbook/assets/16 (36).png>) ![](<.gitbook/assets/17 (19).jpeg>)
+![](<.gitbook/assets/17 (19).jpeg>)
 
 **Installation**
 
@@ -197,11 +160,9 @@ Proceed to installation after complete learning.
 
 Step 1. Disable the Siren Tamper function on the Control Panel (please refer to the Control Panel instruction manual). The bellbox will sound a beep to indicate the tamper switch is now disabled.
 
-![](<.gitbook/assets/18 (29).png>)
-
-_\<NOTE>_
-
-* The function Siren Tamper will only be OFF for a duration of one hour. The Control Panel will automatically turn the function back ON after the duration.
+{% hint style="info" %}
+The function Siren Tamper will only be OFF for a duration of one hour. The Control Panel will automatically turn the function back ON after the duration.
+{% endhint %}
 
 Step 2. Find the location where the Bellbox is to be mounted.
 
@@ -219,11 +180,9 @@ Step 7. If you are satisfied with the signal strength, remove the Bellbox from m
 
 Step 8. Identify the 4 mounting holes, mount and fix the Bellbox on the wall using the large screws and wall plugs provided. Secure the screws using a Philips screwdriver. Make sure the Tamper Switch is fully depressed against the wall.
 
-![](<.gitbook/assets/20 (23).png>)
-
-_\<NOTE>_
-
-* The tamper switch protrudes through the back of the unit. When the siren is pulled off from the wall, the alarm will be activated. Ensure it is fully depressed when the siren is mounted. If there is a gap, pack with a suitable spacing material.
+{% hint style="info" %}
+The tamper switch protrudes through the back of the unit. When the siren is pulled off from the wall, the alarm will be activated. Ensure it is fully depressed when the siren is mounted. If there is a gap, pack with a suitable spacing material.
+{% endhint %}
 
 Step 9. Replace the Top cover by hooking the top of the Top cover onto the top of the base. Push the bottom of the Top cover onto the base and tighten the bottom screw using a Philips screwdriver.
 
@@ -233,9 +192,9 @@ Step 11. Check if the installation is successful by testing from the Control Pan
 
 Successful arming/disarming is indicated by the table provided in **Audio & Visual Status Indication**.
 
-_\<NOTE>_
-
-* If 5 short-beeps are noticed while arming/disarming, it means the tamper is not fully depressed. Check to ensure that tamper is properly set and then test from Control Panel again.
+{% hint style="info" %}
+If 5 short-beeps are noticed while arming/disarming, it means the tamper is not fully depressed. Check to ensure that tamper is properly set and then test from Control Panel again.
+{% endhint %}
 
 Step 12. The installation is now completed.
 
@@ -253,8 +212,6 @@ Step 5: The battery compartment is a large box in the BX-23 with a lid secured w
 
 Step 6: Remove the old batteries and press the Tamper Switch twice to discharge.
 
-3
-
 Step 7: Insert new batteries into the battery compartment.
 
 Step 8: After inserting all batteries, slide the power switch to the BT4 terminal. All the LED will flash once and the buzzer will emit 1 beep as the bellbox powers on.
@@ -266,6 +223,8 @@ Step 10: Replace the battery compartment lid and secure it with the four screws 
 Step 11: Replace the Top cover by hooking the top of the Top cover onto the top of the base. Push the bottom of the Top cover onto the base and tighten the bottom screw using a Philips screwdriver.
 
 Step 12: Enter the Control Panel Program Siren webpage again to enable the Siren Tamper function again. The BX-23 will sound a beep to indicate the tamper switch is now activated.
+
+
 
 **Factory Reset**
 
@@ -287,4 +246,3 @@ Step 7: Press and hold the Learn Button for 7 seconds and slide the Power switch
 
 Step 8: Release the Learn Button when you hear the long beep. The previous parameters in the Bellbox will be cleared and it will return to normal mode.
 
-4

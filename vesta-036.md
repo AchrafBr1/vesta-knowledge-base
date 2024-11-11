@@ -12,7 +12,7 @@ In addition, the adjustable Detection Range gives the effective match for every 
 
 * _**Identifying the Parts**_
 
-**Front View** **Inside View** **Back View**
+&#x20;   **Front View                                              Inside View**                                                                  **Back View**
 
 ![](<.gitbook/assets/0 (45).png>)
 
@@ -20,33 +20,33 @@ In addition, the adjustable Detection Range gives the effective match for every 
 
 The detector is used detect any masking (blocking) attempt by an intruder.
 
-1. **LED indicator**
+2. **LED indicator**
 
 The LED indicator is used to indicate the system status.
 
-1. **IR Sensor**
+3. **IR Sensor**
 
 The sensor is intended to detect moving objects.
 
-1. **Test Button**
+4. **Test Button**
 
 The Test button is used for testing the radio performance and for learning purpose.
 
-1. **DIP Switch Block**
+5. **DIP Switch Block**
 
 There are 8 DIP Switches for setting the function & detection sensitivity levels.
 
-1. **Tamper Switch**
+6. **Tamper Switch**
 
 EIR-32 is protected by the tamper switch against any unauthorized removal from the mounting plate or mounting location.
 
-1. **Battery Compartment**
-2. **Mounting Plate**
-3. **Breakaway Area**
+7. **Battery Compartment**
+8. **Mounting Plate**
+9. **Breakaway Area**
 
 The Breakaway Area has 6 knockouts (2 for surface mounting and 4 for corner mounting) where plastic is thinner for screw mounting. When the Detector is forcibly removed from mounting location, the Break Away area will detach and allow tamper switch to be activated.
 
-**10. Protective Shield**
+10. **Protective Shield**
 
 The protective shield protects the Digital Proximity Detector from rain.
 
@@ -54,12 +54,7 @@ The protective shield protects the Digital Proximity Detector from rain.
 
 In Normal operation mode, the LED Indicator remains off except:
 
-* When the Motion Sensor is in low battery condition, each time it transmits a detected movement, the LED will flash for
-
-1
-
-6 times.
-
+* When the Motion Sensor is in low battery condition, each time it transmits a detected movement, the LED will flash for 6 times.
 *
   * When the Tamper Switch is triggered, the LED will flash for 6 times to indicate it is transmitting “**Tamper**” signal.
   * When the Tamper condition persists, each time it transmits a detected movement, the LED will flash for 6 times.
@@ -107,64 +102,28 @@ The Motion Sensor has a double knock function. If the double knock function is e
 
 _\<NOTE>_
 
-*
-  * Any IR trigger movement will clear currently detected masking event/condition. A masking event must be detected and last for 2 minutes for the tamper open report to be tramsmitted.
+* Any IR trigger movement will clear currently detected masking event/condition. A masking event must be detected and last for 2 minutes for the tamper open report to be tramsmitted.
 * _**DIP Switch Position Table**_
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and bottom position indicates OFF.
 
-|   | DIP     |   |     | Position |                                |                               | Function |   |   |
-| - | ------- | - | --- | -------- | ------------------------------ | ----------------------------- | -------- | - | - |
-|   |         |   |     |          |                                |                               |          |   |   |
-|   | Switch1 |   |     | ON       |                                | Test Mode                     |          |   |   |
-|   |         |   | OFF |          | Normal Mode (default)          |                               |          |   |   |
-|   |         |   |     |          |                                |                               |          |   |   |
-|   | Switch2 |   |     | ON       |                                | Reserved                      |          |   |   |
-|   |         |   | OFF |          |                                |                               |          |   |   |
-|   |         |   |     |          |                                |                               |          |   |   |
-|   |         |   |     | ON       |                                | PIR facing a wall within 10 m |          |   |   |
-|   | Switch3 |   |     | OFF      |                                | PIR facing an open space      |          |   |   |
-|   |         |   |     |          | (no wall within 10 m)(default) |                               |          |   |   |
-|   |         |   |     |          |                                |                               |          |   |   |
-|   |         |   |     | ON       |                                | PIR facing a lawn (default)   |          |   |   |
-|   | Switch4 |   |     | OFF      |                                | PIR facing a concrete/stone   |          |   |   |
-|   |         |   |     | ground   |                                |                               |          |   |   |
-|   |         |   |     |          |                                |                               |          |   |   |
-|   |         |   |     |          |                                |                               |          |   |   |
+<figure><img src=".gitbook/assets/tabla 1.png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/1 (47).png>)
-
-|   |         | DIP |     |          | Sensitivity Level    |                               |          |   |   |
-| - | ------- | --- | --- | -------- | -------------------- | ----------------------------- | -------- | - | - |
-|   |         |     |     |          |                      |                               |          |   |   |
-|   | Switch5 |     |     | Switch6  |                      |                               |          |   |   |
-|   | ON      |     |     | ON       |                      | Low; 60 kg pet (default)      |          |   |   |
-|   | ON      |     |     | OFF      |                      | Medium; 35 kg pet             |          |   |   |
-|   | OFF     |     |     | ON       |                      | High; 20 kg pet               |          |   |   |
-|   | OFF     |     |     | OFF      |                      | Reserved                      |          |   |   |
-|   |         |     |     |          |                      |                               |          |   |   |
-|   | DIP     |     |     | Position |                      |                               | Function |   |   |
-|   | Switch7 |     |     | ON       |                      | Double Knock Enable (default) |          |   |   |
-|   |         |     | OFF |          | Double Knock Disable |                               |          |   |   |
-|   |         |     |     |          |                      |                               |          |   |   |
-|   | Switch8 |     |     | ON       |                      | Pet Immune Enable (default)   |          |   |   |
-|   |         |     | OFF |          | Pet Immune Disable   |                               |          |   |   |
-|   |         |     |     |          |                      |                               |          |   |   |
-
-![](<.gitbook/assets/2 (53).png>)
+<figure><img src=".gitbook/assets/Tabla 2.png" alt=""><figcaption></figcaption></figure>
 
 ON
 
-![](<.gitbook/assets/3 (50).png>)
+<div align="left">
+
+<img src=".gitbook/assets/3 (50).png" alt="">
+
+</div>
 
 OFF
 
 _**\<NOTE>**_
 
 * After changing Dip Switch settings, please re-power on EIR-32 for it to operate with new Dip Switch Settings.
-
-2
-
 * _**Tamper Protection**_
   * EIR-32 is protected by a tamper switch which is compressed when it is hooked onto the mounting bracket.
   * Whenever the Motion Sensor is removed from the mounting plate, the tamper switch will be activated.
@@ -183,10 +142,8 @@ _**\<NOTE>**_
 
 _\<NOTE>_
 
-*
-  *
-    * **Walk Test** should be conducted to confirm proper operation and coverage of the Motion Sensor.
-    * When learning Motion Sensor or conducting Walk Test, please avoid obstructing the anti-masking detector by your hand, otherwise tamper open signal will transmitted to the Control Panel if masking condition lasts for 2 minutes.
+* **Walk Test** should be conducted to confirm proper operation and coverage of the Motion Sensor.
+* When learning Motion Sensor or conducting Walk Test, please avoid obstructing the anti-masking detector by your hand, otherwise tamper open signal will transmitted to the Control Panel if masking condition lasts for 2 minutes.
 * _**Mounting & Installation Method**_
   * **Mounting with mounting plate:**
     *
@@ -199,8 +156,6 @@ _\<NOTE>_
         4. Insert the protective shield (the protective film from both sides must first be removed).
 
 ![](<.gitbook/assets/4 (28).jpeg>) ![](<.gitbook/assets/5 (47).png>)
-
-3
 
 * **Mounting with mounting plate and rotating holder (Optional):**
   * A rotating holder is provided as a user friendly mounting option **(optional item, sold separately)**. It is comprised of a base to fix to surface, and a swivel ball to fix to mounting plate and EIR-32.
@@ -224,8 +179,6 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
   4. Insert the protective shield (the protective film from both sides must first be removed).
 
 ![](<.gitbook/assets/9 (34).png>)
-
-4
 
 1. Rotate the swivel ball horizontally to adjust EIR-32’s detecting angle. (When the angle adjusting screw is half loosen, the swivel ball can still be rotated.)
 2. When EIR-32 is rotated to a positon with desired detection coverage, you can lock the position by firmly tightening the angle adjusting screw.
