@@ -1,4 +1,4 @@
-# VESTA 045
+# VESTA-045
 
 **ZigBee Dongle**
 
@@ -23,4 +23,3 @@ _\<NOTE>_
 
 * Do **NOT** plugin / unplug the ZigBee dongle into Control Panel when the panel is powered on.
 
-1
