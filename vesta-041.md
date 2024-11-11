@@ -12,11 +12,9 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 The Z-Wave Room Sensor series includes the following models:
 
-RS-23-ZW
+RS-23-ZW, RS-23-ZW-OTA
 
 ![](<.gitbook/assets/0 (46).png>)
-
-RS-23-ZW-OTA
 
 **Parts Identification**
 
@@ -27,49 +25,38 @@ The LCD displays the following information:
 * Temperature in Farenheit / Celcius setting
 * Humidity RH%.
 * Z-Wave network connectivity (![](<.gitbook/assets/1 (41).jpeg>) icon).
+* Low Battery status ( ![](.gitbook/assets/image.png)icon).
+* LCD Backlight on: when function button is pressed.
 
-![](<.gitbook/assets/2 (32).jpeg>)
+2. **Function Button**
 
-\- Low Battery status ( icon).
-
-*
-  * LCD Backlight on: when function button is pressed.
-
-1. **Function Button**
-   * Press the button once to:
+* Press the button once to:
 
 Send a supervision signal with temperature/humidity info Light up the LCD backlight for 10 seconds.
 
-*
-  * Press the button 3 times within 1.5 seconds to transmit learning code.
-  * Press and hold the button for 10 seconds to factory reset. Refer to **Removing Device (Exclusion)** for details.
+* Press the button 3 times within 1.5 seconds to transmit learning code.
+* Press and hold the button for 10 seconds to factory reset. Refer to **Removing Device (Exclusion)** for details.
 
-1. **Base Screw (Open/Close Cover)**
+3. **Base Screw (Open/Close Cover)**
 
 When the front cover is installed on the back cover, open the cover by loosen the base screw and close it likewise.
 
-1. **Fahrenheit / Celcius Setting Jumper (JP1)**
-   * If the jumper link is inserted between the top 2 pins, the LCD will display the temperature in Celsius. (**Factory Default**)
-   * If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
-2. **Battery Compartment**
+4. **Fahrenheit / Celcius Setting Jumper (JP1)**
 
-![](<.gitbook/assets/3 (32).jpeg>) ![](<.gitbook/assets/4 (29).jpeg>)
+* ![](<.gitbook/assets/image (1).png>) If the jumper link is inserted between the top 2 pins, the LCD will display the temperature in Celsius. (**Factory Default**)
+* ![](<.gitbook/assets/image (2).png>) If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
+
+5. **Battery Compartment**
 
 The Room Sensor is powered by two AA 1.5 V Alkaline batteries
 
-1. **Back Cover**
-2. **Wall Mounting Knockouts**
+6. **Back Cover**
+7. **Wall Mounting Knockouts**
 
 **Features**
 
 * _**Temperature and Humidity Detection**_
-  * The Room Sensor will transmit temperature and humidity signals regularly according to setting.
-
-1
-
-The factory default interval is 10 minutes.
-
-*
+  * The Room Sensor will transmit temperature and humidity signals regularly according to setting. The factory default interval is 10 minutes.
   * When the temperature changes by +/- 2°C, or humidity changes +/- 10%,the Room Sensor will also transmit a signal.
   * You can also press the Function Button once to transmit a temperature and humidity signal manually.
   * The temperature detection range is about -10°C \~ 50°C.( 14°F \~ 122°F)
@@ -85,13 +72,12 @@ The factory default interval is 10 minutes.
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
-*
-  * Remove the cover by loosening the fixing screw.
-  * Insert the 2 alkaline batteries into the battery compartment connecting the correct polarity as shown on the battery compartment lid to power on the Room Sensor.
-  * Put the Z-Wave gateway or Z-Wave Control Panel into **Inclusion** or **Learning** mode (please refer to the Z-wave gateway or Z-Wave Control Panel manual).
-  * Within 1.5 seconds, press the Function Button 3 times.
-  * Refer to the operation manual of the Z-Wave gateway or Z-Wave Control Panel to complete the learn-in process.
-  * If the sensor has already been **included** (learnt) into another Z-Wave Gateway/Z-Wave Control Panel, or if the sensor is unable to be learnt into the current Z-Wave Gateway/Z-Wave Control Panel, please exclude it first (see _**Exclusion**_) before attempting to **include** it into the current Z-Wave Gateway/Z-Wave Control Panel.
+* Remove the cover by loosening the fixing screw.
+* Insert the 2 alkaline batteries into the battery compartment connecting the correct polarity as shown on the battery compartment lid to power on the Room Sensor.
+* Put the Z-Wave gateway or Z-Wave Control Panel into **Inclusion** or **Learning** mode (please refer to the Z-wave gateway or Z-Wave Control Panel manual).
+* Within 1.5 seconds, press the Function Button 3 times.
+* Refer to the operation manual of the Z-Wave gateway or Z-Wave Control Panel to complete the learn-in process.
+* If the sensor has already been **included** (learnt) into another Z-Wave Gateway/Z-Wave Control Panel, or if the sensor is unable to be learnt into the current Z-Wave Gateway/Z-Wave Control Panel, please exclude it first (see _**Exclusion**_) before attempting to **include** it into the current Z-Wave Gateway/Z-Wave Control Panel.
 * _**Removing Device (Exclusion)**_
 
 The Room Sensor must be removed from existing Z-Wave network before being included into another. There are two methods available to exclude a device.
@@ -111,17 +97,18 @@ _(Only use factory reset when network Z-Wave Control Panel/Gateway is missing or
 _\<NOTE>_
 
 * Factory resetting the Room Sensor will restore it to factory default settings (excluded from the Z-wave network). The Z-Wave gateway or Z-Wave Control Panel will still keep its Z-Wave settings. Please refer to the gateway or Z-Wave Control Panel manual on how to remove the Room Sensor’s Z-Wave settings.
-
-2
-
 * _**Range Test**_
 
 To test whether the device is able to communicate with the Z-Wave gateway or Z-Wave Control Panel:
 
-*
-  * Put the gateway / panel into range test mode (Walk Test).
-  * Press the Function Button on the device.
-  * The gateway / panel Control Panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel Control Panel).
+
+
+* Put the gateway / panel into range test mode (Walk Test).
+* Press the Function Button on the device.
+* The gateway / panel Control Panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel Control Panel).
+
+<!---->
+
 * _**Z-Wave Sleep Mode**_
   * The Room Sensor will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or Z-Wave Control Panels are unable to send commands to the Room Sensor.
   * To program the Room Sensor, please send command(s) to the Room Sensor within the wake-up period.
