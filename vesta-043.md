@@ -1,7 +1,7 @@
 # VESTA-043
 
 * WSS-4E-ZW Smart Scenario Switch
-* Introduction
+* **Introduction**
 
 WSS-4E-ZW is a Z-Wave Four-Button Scenario Switch designed to control a group of pre-programmed home automation devices by simply pressing the scenario buttons under the same Z-Wave network.
 
@@ -11,7 +11,7 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 ![](<.gitbook/assets/0 (26).png>)
 
-* Device Introduction
+* **Device Introduction**
 
 **1. Scenario LED**
 
