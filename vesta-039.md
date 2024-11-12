@@ -4,10 +4,9 @@
 
 The Panic Button is used to activate (or deactivate) a panic alarm.
 
-* **Parts Identification**
-*
+## **Parts Identification**
 
-    <figure><img src=".gitbook/assets/Imagen PB-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Imagen PB-23.png" alt=""><figcaption></figcaption></figure>
 
 1. **LED Indicator**
 
@@ -25,25 +24,35 @@ The LED indicator will light up briefly when the device is transmitting a signal
 4. **4 x Cover-Fixing Screws**
 5. **Battery Insulator**
 
-* **Battery**
+## **Battery**
+
 * The Panic Button is powered by one CR123A 3V Lithium battery.
 * The Panic Button will transmit any detected low battery status along with any regular status signal transmission to the Control Panel for display accordingly.
 * When changing battery, after removing the old battery, press the button twice to fully discharge before inserting new battery.
-* **Supervisory Signal**
+
+## **Supervisory Signal**
+
 * The Panic Button will automatically transmit Supervisory Signals every 30 to 50 minutes.
 * If the Control Panel has not received the signal from the Panic Button for a preset period of time, the Control Panel will indicate that the Panic Button is out-of-signal range or is out of order.
-* **Getting Started**
+
+## **Getting Started**
+
 * Pull out the Battery Insulator to power on the Panic Button
 * Put Control Panel into learn mode
 * Press the button on the Panic Button to transmit a learn code.
 * Refer to your Control Panel’s operation manual to complete the learn-in process.
-* **Walk Test**
+
+## **Walk Test**
+
 * Place the Control Panel in the walk test mode, then press the Button once.
 * The Panel will display the RSSi (Radio Strength Signal) strength.
-* **Operation**
+
+## **Operation**
+
 * After the Panic Button is learned successfully, press the Button to activate a Panic Alarm.
 * Press and hold the Button for 8 seconds or more will send a Cancel Code to the Control Panel to stop the alarm. (This function is not compatible with all control panels.)
-* **Installation**
+
+## **Installation**
 
 A Pad is included into the Panic Button as picture shown below. The padding helps to avoid pressing the button accidently when mounting the Panic Button.
 
@@ -53,7 +62,7 @@ A Pad is included into the Panic Button as picture shown below. The padding help
 
 There are two ways to deploy the Panic Button: Wall Mounting and Surface Deployment. After successfully installed the Panic Button, please gently remove the Pad.
 
-* **Wall Mounting**
+### **Wall Mounting**
 
 The Panic Button can be wall mounting using Velcro tape provided.
 
@@ -71,7 +80,7 @@ The Panic Button can be wall mounting using Velcro tape provided.
 
 ![image2](<.gitbook/assets/5 (11).jpeg>) ![IMG\_1469](<.gitbook/assets/6 (15).jpeg>)
 
-* **Surface Placement**
+### **Surface Placement**
 
 The Panic Button can be deployed on a flat surface without being installed at a fixed location.
 
