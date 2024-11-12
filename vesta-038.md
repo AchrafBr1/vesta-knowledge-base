@@ -10,7 +10,7 @@ The Panic Button is used to activate (or deactivate) a panic alarm.
 
 1. **Panic Button / LED Indicator**
 
-**Button usage:**
+## **Button usage:**
 
 1\. Press to send a learn code or activate a panic alarm.
 
@@ -26,14 +26,19 @@ The LED indicator will flash twice when receivng acknoeledgement from the contro
 3. **Fixing Hook**
 4. **Battery Compartment**
 
-* **Battery**
+## **Battery**
+
 * The Panic Button is powered by one EL123AP Lithium battery.
 * The Panic Button will transmit any detected low battery status along with any regular status signal transmission to the Control Panel for display accordingly.
 * When changing battery, after removing the old battery, press the button twice to fully discharge before inserting new battery.
-* **Supervisory Signal**
+
+## **Supervisory Signal**
+
 * The Panic Button will automatically transmit Supervisory Signals every 30 to 50 minutes.
 * If the Control Panel has not received the signal from the Panic Button for a preset period of time, the Control Panel will indicate that the Panic Button is out-of-signal range or is out of order.
-* **Getting Started**
+
+## **Getting Started**
+
 * Remove the cover-fixing screw using a Philips screwdriver and separate the cover from the base.
 * Insert the battery according to the marked polarities.
 * Replace the top over the base by hooking the base onto the fixing hook and pushing the cover towards the base.
@@ -41,18 +46,23 @@ The LED indicator will flash twice when receivng acknoeledgement from the contro
 * Put Control Panel into learn mode
 * Press the button on the Panic Button to transmit a learn code.
 * Refer to your Control Panel’s operation manual to complete the learn-in process.
-* **Walk Test**
+
+## **Walk Test**
+
 * Place the Control Panel in the walk test mode.
 * Press the Button once.
 * The Panel will display the RSSi (Radio Strength Signal) strength and sound a 2-tone beep.
-* **Operation**
+
+## **Operation**
+
 * After the Panic Button is learned successfully, press the Button to activate a Panic Alarm.
 * Press and hold the Button for 8 seconds or more will send a Cancel Code to the Control Panel to stop the alarm. (This function is not compatible with all control panels.)
-* **Mounting the Panic Button**
+
+## **Mounting the Panic Button**
 
 The Panic Button can be mounted using two methods: Self-adhesive or Screw mounting.
 
-* **Self adhesive mounting**
+### **Self adhesive mounting**
 
 1. Clean the surface with a suitable degreaser.
 2. Remove the protective covering from one side of double-sided adhesive pad and firmly apply to the back of the device.
@@ -61,7 +71,8 @@ The Panic Button can be mounted using two methods: Self-adhesive or Screw mounti
 < Note >
 
 * Do not use the Self-adhesive mounting method on poorly painted and/or rough surfaces.
-* **Screw Mounting**
+
+### **Screw Mounting**
 
 ![](<.gitbook/assets/1 (15).jpeg>)
 
