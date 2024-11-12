@@ -1,4 +1,4 @@
-# VESTA 044
+# VESTA-044
 
 * UPIC-5ZW Infrared Universal Remote Control
 * **Introduction**
@@ -15,7 +15,7 @@ The UPIC5 Z-Wave Infrared Remote Control series includes the following models:
 
 **UPIC5-ZW-OTA** Infrared Remote Control with Over-the-Air Firmware Upgrade feature
 
-* **Parts Identification**
+## **Parts Identification**
 
 **1. IR Eye**
 
@@ -97,14 +97,13 @@ For learning and testing IR signal
 
 **11. Wall Mounting Rotational Bracket (Optional)**
 
-* Features
-* _Battery and Low Battery Detection_
+## _Battery and Low Battery Detection_
 
 The IR Remote Control uses two 1.5V Lithium batteries as its power source. It features Low Battery Detection function. When low battery voltage is detected, the IR Remote Control will transmit Low Battery signal to the coordinator in Z-Wave network.
 
 The IR Remote Control will report its battery percentage to the Control Panel respectively at 100%, 75%, 50%, 25%. The IR Remote Control can also detect low battery status. When low battery voltage is detected (25%), the low battery signal will be sent to the Control Panel along with regular signal transmission for the Control Panel to display the status accordingly.
 
-* _Adding Device (Inclusion)_
+## _Adding Device (Inclusion)_
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
@@ -113,16 +112,17 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 * Within 1.5 seconds, press the Function/IR Button 3 times.
 * Refer to the operation manual of the Z-Wave gateway or control panel to complete the learn-in process.
 * If the sensor has already been **included** (learnt) into another Z-Wave Gateway/Control Panel, or if the sensor is unable to be learnt into the current Z-Wave Gateway/Control Panel, please exclude it first (see _**Exclusion**_) before attempting to **include** it into the current Z-Wave Gateway/Control Panel.
-* _Removing Device (Exclusion)_
+
+## _Removing Device (Exclusion)_
 
 The IR Remote Control must be removed from existing Z-Wave network before being included into another. There are two methods available to exclude a device:
 
-**Exclusion Mode**
+### **Exclusion Mode**
 
 * Put the Z-Wave gateway or control panel into **Exclusion mode** (please refer to the Z-Wave gateway or control panel manual).
 * Within 1.5 seconds, press the Function/IR Button 3 times and the IR Remote Control will be removed from the Z-Wave network.
 
-**Factory Reset**
+### **Factory Reset**
 
 _(Only use factory reset when network Control Panel/Gateway is missing or inoperable)._
 
@@ -137,9 +137,9 @@ _**\<NOTE>**_
 
 In order to use the IR Remote Control to control your home appliance, the IR Remote Control must first learn in the IR signal sent from the appliance’s remote control. Follow instruction below to complete the learning process. **Please keep the IR Receiver away from direct lighting or sunlight during learning process to avoid interference.**
 
-* _**Learning**_
+## _**Learning**_
 
-**Step 1. Enter IR Learn Mode**
+### **Step 1. Enter IR Learn Mode**
 
 1. Follow instruction in **Z-Wave Network Setup** section to join IR Remote Control into your Z-Wave network.
 2. Make sure all switches on the DIP Switch Block are set to **OFF** position.
@@ -152,7 +152,7 @@ ON
 
 OFF
 
-**Step 2. Select Appliance Type**
+### **Step 2. Select Appliance Type**
 
 The IR transmitter can learn up to 5 sets of IR signal for 5 different appliances.
 
@@ -175,7 +175,7 @@ Select the appliance type according to following Dip Switch Set 1 table. For eas
 1. To select Air Conditioner, slide Switch 1 to ON, and Switch 2-6 to OFF.
 2. To select Television, slide Switch 2 to ON, and Switch 3-6 to OFF, ignore Switch 1 position.
 
-**Step 3. Learn IR Data**
+### **Step 3. Learn IR Data**
 
 Each appliance type can learn up to 8 IR signals, selected with Dip Switch Set 2.
 
@@ -213,11 +213,11 @@ The IR Receiver will learn in ON/OFF signal for the television.
 6. Repeat the process to learn in maximum of 8 signals for each appliance type.
 7. You can adjust your Dip Switch set 2 setting to select another appliance type.
 
-**Step 4. Exit IR Learn Mode**
+### **Step 4. Exit IR Learn Mode**
 
 1. After finish learning all IR signals, press Function/IR button once to exit learning mode, then slide all switches to OFF position.
 
-* _**Testing**_
+## _**Testing**_
 
 After complete learning the IR signals, follow instruction below to test transmitting IR signals.
 
@@ -226,7 +226,7 @@ After complete learning the IR signals, follow instruction below to test transmi
 3. Repeat procedure from 1 to 2 to test all learnt in IR signals.
 4. After finish all settings, slide all switch to OFF position.
 
-* _**Clearing IR Data**_
+## _**Clearing IR Data**_
 
 To remove all IR signal learnt in for an appliance type, follow instruction below:
 
@@ -252,7 +252,7 @@ Slide more than one switch to ON will select multiple appliance type,
 5. The IR transmitter will clear stored IR signal for selected appliance types, the IR LED will flash continuously.
 6. Slide all switches to OFF position to return to normal operation. The IR LED will turn off.
 
-* **Installation**
+## **Installation**
 
 The IR Remote Control is designed to be mounted on wall. It can be mounted by either directly screwing the back cover onto the wall, or by installing the rotational bracket first, then install the main body on the bracket. Please refer to the **IR Signal Coverage & IR LED Selection** section below for information on IR signal transmission before selecting the IR Remote Control’s mounting location.
 
@@ -286,8 +286,9 @@ The Rotational Bracket has an adjustable head which can be attached to the IR Re
 
 <figure><img src=".gitbook/assets/VESTA-044.png" alt=""><figcaption></figcaption></figure>
 
-* **Operation**
-* _**Control via Z-Wave Gateway/Control Panel**_
+## **Operation**
+
+### _**Control via Z-Wave Gateway/Control Panel**_
 
 The IR Remote Control can be controlled via Climax Z-Wave Gateway/Control Panels remotely to transmit IR signal. Selecting the appliance type and IR signal number from the Control Panel will control the IR Remote Control to send IR signal accordingly.
 
@@ -316,11 +317,11 @@ Please refer to diagram below for IR signal coverage:
 
 <figure><img src=".gitbook/assets/VESTA-044 2.png" alt=""><figcaption></figcaption></figure>
 
-* _**IR Transmission Power**_
+## _**IR Transmission Power**_
 
 Use the jumper switches (JP2 and JP3) to adjust the IR signal transmission power. Factory default is set to Low transmission power(JP1 ON). Setting the jumper to JP2 will increase the IR signal transmission range.
 
-* _**Simple AV Control Set Command**_
+## _**Simple AV Control Set Command**_
 
 The simple AV control set command is used to control an AV device through the Control Panel:
 
@@ -336,7 +337,7 @@ Item ID LSB: for IR signal data, 01\~08
 
 <figure><img src=".gitbook/assets/VESTA-044 3.png" alt=""><figcaption></figcaption></figure>
 
-**Z-Wave Information**
+## **Z-Wave Information**
 
 **Device Type:** Sub Energy Meter
 
@@ -368,7 +369,7 @@ Power Level CC
 
 Firmware Update CC, v2
 
-* _**Z-Wave’s Groups (Association Command Class Version 2)**_
+### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
 Group 1 for “LifeLine”:
 
