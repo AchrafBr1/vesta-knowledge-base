@@ -6,13 +6,13 @@ The ZigBee Dongle designed to be used with Climax Control Panels to provide extr
 
 ![](<.gitbook/assets/0 (47).jpeg>)
 
-**Identifying the Parts**
+## **Identifying the Parts**
 
 1. **Red LED**
 
 LED ON: Normal Operation
 
-**Operation**
+## **Operation**
 
 1. Power down the Control Panel
 2. Plug the ZigBee Dongle into the USB port on the Control Panel
