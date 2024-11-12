@@ -11,7 +11,7 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 ![](<.gitbook/assets/0 (26).png>)
 
-* **Device Introduction**
+## Parts Identification
 
 **1. Scenario LED**
 
@@ -65,15 +65,15 @@ The Switch will report its battery percentage to the Control Panel respectively 
 
 The Scenario Switch features Low Battery Detection function. When the battery voltage is low, the Scenario Switch will transmit Low Battery signal to the Z-Wave coordinator.
 
-* _**Supervision**_
+## _**Supervision**_
 
 This function uses the Z-Wave Wake Up Command Class. The Wake Up Command Class allows the battery-powered Light Switch to notify the Control Panel/Gateway that it is awake and ready to receive any queued commands. The wake up interval time period is programmed automatically according to Control Panel’s setting when The Light Switch is included. The recommended setting of the interval time is between 30 to 60 minutes.
 
-* _**Scenario**_
+## _**Scenario**_
 
 When a Scenario Button is pressed, the Scenario Switch will send a signal to the Control Panel to activate the correspondent scenario (see Control Panel for details). The switch will also emit a beep as indication.
 
-* _**Adding Device (Inclusion)**_
+## _**Adding Device (Inclusion)**_
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
@@ -83,28 +83,32 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 * Within 1.5 seconds, press the Function Button 3 times.
 * Refer to the operation manual of the Z-Wave gateway or control panel to complete the adding process.
 * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see _**Removing Device**_).
-* _**Removing Device (Exclusion)**_
+
+## _**Removing Device (Exclusion)**_
 
 The device must be removed from existing Z-Wave network before being added into another.
 
-**Exclusion Mode**
+### **Exclusion Mode**
 
 * Put the Z-Wave gateway or control panel into **Exclusion mode** (please refer to the Z-Wave or control panel manual).
 * Within 1.5 seconds, press the Function Button 3 times and the device will be removed from the Z-Wave network.
 
-**Factory Reset**
+## **Factory Reset**
 
 Factory resetting the device will restore it to factory default settings (i.e. not included into any Z-Wave network). Please only use this procedure if the Z-Wave gateway or control panel is lost or otherwise inoperable.
 
 * Press and hold the Function Button of the device for 10 seconds to factory reset.
-* _**Range Test**_
+
+## _**Range Test**_
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
 * Put the gateway / panel into range test mode (Walk Test).
 * Press the Function Button on the device.
 * The gateway / panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel).
-* _**Z-Wave Sleep Mode**_
+
+## _**Z-Wave Sleep Mode**_
+
 * The Scenario Switch will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the Scenario Switch.
 * To program the Scenario Switch using the Z-Wave Gateway/Control Panel, please send command(s) to the Scenario Switch within the wake-up period.
 * Installation
@@ -119,7 +123,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 ![未命名-2](<.gitbook/assets/2 (13).jpeg>)
 
-* **Z-Wave Information**
+## **Z-Wave Information**
 
 **Device Type:** Sensor - Notification
 
@@ -153,7 +157,7 @@ Notification CC, v4
 
 Firmware Update CC, v2
 
-* _**Z-Wave’s Groups (Association Command Class Version 2)**_
+### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
 Group 1 for “LifeLine”:
 
