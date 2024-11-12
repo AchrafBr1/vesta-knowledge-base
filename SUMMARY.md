@@ -43,7 +43,7 @@
 * [VESTA-043](vesta-043.md)
 * [VESTA-044](vesta-044.md)
 * [VESTA-045](vesta-045.md)
-* [VESTA 050](vesta-050.md)
+* [VESTA-050](vesta-050.md)
 * [VESTA 051](vesta-051.md)
 * [VESTA 052](vesta-052-1.md)
 * [VESTA 052](vesta-052.md)
