@@ -16,7 +16,7 @@ RS-23-ZW, RS-23-ZW-OTA
 
 ![](<.gitbook/assets/0 (46).png>)
 
-**Parts Identification**
+## **Parts Identification**
 
 **1. LCD Display**
 
@@ -53,22 +53,28 @@ The Room Sensor is powered by two AA 1.5 V Alkaline batteries
 6. **Back Cover**
 7. **Wall Mounting Knockouts**
 
-**Features**
+## **Features**
 
-* _**Temperature and Humidity Detection**_
-  * The Room Sensor will transmit temperature and humidity signals regularly according to setting. The factory default interval is 10 minutes.
-  * When the temperature changes by +/- 2°C, or humidity changes +/- 10%,the Room Sensor will also transmit a signal.
-  * You can also press the Function Button once to transmit a temperature and humidity signal manually.
-  * The temperature detection range is about -10°C \~ 50°C.( 14°F \~ 122°F)
-  * The humidity detection range is about 10% \~ 90% RH
-* _**Battery and Low Battery Detection**_
-  * The Room Sensor uses two 1.5 V Alkaline batteries as its power source. The batteries are included in the package.
-  * The Room Sensor will report its battery percentage to the Z-Wave Control Panel respectively at 100%, 75%, 50%, 25%, 0%. If the battery voltage is low (25%), a Low Battery signal will be sent to the Z-Wave Control Panel to notify the user.
-  * The Room Sensor feature Low Battery Detection function. When the battery voltage is low, the Room Sensor will transmit Low Battery signal to notify the user and display low battery icon on LCD.
-  * When changing batteries, after removing the old batteries, press the Function Button twice to fully discharge before inserting new batteries.
-* _**Supervision**_
-  * This function uses the Z-Wave Wake Up Command Class. The Wake Up Command Class allows the battery-powered Room Sensor to notify the Z-Wave Control Panel/Gateway that it is awake and ready to receive any queued commands. The wake up time is programmed automatically according to Z-Wave Control Panel’s setting when The Room Sensor is included. The recommended setting of the wake up time is 60 minutes above.
-* _**Adding Device (Inclusion)**_
+### _**Temperature and Humidity Detection**_
+
+* The Room Sensor will transmit temperature and humidity signals regularly according to setting. The factory default interval is 10 minutes.
+* When the temperature changes by +/- 2°C, or humidity changes +/- 10%,the Room Sensor will also transmit a signal.
+* You can also press the Function Button once to transmit a temperature and humidity signal manually.
+* The temperature detection range is about -10°C \~ 50°C.( 14°F \~ 122°F)
+* The humidity detection range is about 10% \~ 90% RH
+
+## _**Battery and Low Battery Detection**_
+
+* The Room Sensor uses two 1.5 V Alkaline batteries as its power source. The batteries are included in the package.
+* The Room Sensor will report its battery percentage to the Z-Wave Control Panel respectively at 100%, 75%, 50%, 25%, 0%. If the battery voltage is low (25%), a Low Battery signal will be sent to the Z-Wave Control Panel to notify the user.
+* The Room Sensor feature Low Battery Detection function. When the battery voltage is low, the Room Sensor will transmit Low Battery signal to notify the user and display low battery icon on LCD.
+* When changing batteries, after removing the old batteries, press the Function Button twice to fully discharge before inserting new batteries.
+
+## _**Supervision**_
+
+* This function uses the Z-Wave Wake Up Command Class. The Wake Up Command Class allows the battery-powered Room Sensor to notify the Z-Wave Control Panel/Gateway that it is awake and ready to receive any queued commands. The wake up time is programmed automatically according to Z-Wave Control Panel’s setting when The Room Sensor is included. The recommended setting of the wake up time is 60 minutes above.
+
+## _**Adding Device (Inclusion)**_
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
@@ -82,12 +88,12 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 
 The Room Sensor must be removed from existing Z-Wave network before being included into another. There are two methods available to exclude a device.
 
-**Exclusion Mode**
+## **Exclusion Mode**
 
 * Put the Z-Wave gateway or Z-Wave Control Panel into **Exclusion mode** (please refer to the Z-Wave gateway or Z-Wave Control Panel manual).
 * Within 1.5 seconds, press the Function Button 3 times and the Room Sensor will be removed from the Z-Wave network.
 
-**Factory Reset**
+## **Factory Reset**
 
 _(Only use factory reset when network Z-Wave Control Panel/Gateway is missing or inoperable)._
 
@@ -97,24 +103,27 @@ _(Only use factory reset when network Z-Wave Control Panel/Gateway is missing or
 _\<NOTE>_
 
 * Factory resetting the Room Sensor will restore it to factory default settings (excluded from the Z-wave network). The Z-Wave gateway or Z-Wave Control Panel will still keep its Z-Wave settings. Please refer to the gateway or Z-Wave Control Panel manual on how to remove the Room Sensor’s Z-Wave settings.
-* _**Range Test**_
+
+## _**Range Test**_
 
 To test whether the device is able to communicate with the Z-Wave gateway or Z-Wave Control Panel:
 
 * Put the gateway / panel into range test mode (Walk Test).
 * Press the Function Button on the device.
 * The gateway / panel Control Panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel Control Panel).
-* _**Z-Wave Sleep Mode**_
-  * The Room Sensor will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or Z-Wave Control Panels are unable to send commands to the Room Sensor.
-  * To program the Room Sensor, please send command(s) to the Room Sensor within the wake-up period.
 
-**Installation**
+## _**Z-Wave Sleep Mode**_
 
-* _**Mounting the Room Sensor**_
+* The Room Sensor will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or Z-Wave Control Panels are unable to send commands to the Room Sensor.
+* To program the Room Sensor, please send command(s) to the Room Sensor within the wake-up period.
+
+## **Installation**
+
+### _**Mounting the Room Sensor**_
 
 For best LCD display quality, the Room Sensor should be mounted at location about 5∘above eye level height.
 
-* Screw mounting.
+### Screw mounting
 
 When mounting with screw, make sure to only use screws provided in the package by original manufacturer, as inappropriate screws may damage interior of the device.
 
@@ -125,7 +134,7 @@ When mounting with screw, make sure to only use screws provided in the package b
 5. Screw the back cover into the wall plugs
 6. Screw the front cover back on to the back cover
 
-* _**Z-Wave Information**_
+## _**Z-Wave Information**_
 
 **Device Type:** Sensor - Notification
 
@@ -155,7 +164,7 @@ Z-Wave Plus Info CC
 
 Firmware Update CC, v2 (OTA version only)
 
-* _**Z-Wave’s Groups (Association Command Class Version 2)**_
+### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
 The Room Sensor can be set to send reports to associated Z-Wave devices. It supports 3 association groups.
 
