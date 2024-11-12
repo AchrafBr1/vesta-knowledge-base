@@ -1,4 +1,4 @@
-# VESTA 052
+# VESTA-052
 
 **POVS-1-ZW**
 
@@ -38,9 +38,9 @@ The PIR is powered by one CR123A 3V Lithium battery.
 
 The PIR is deployed on the magnetic base when installing. The magnet within PIR and the base will ensure the PIR remains attached to the base regardless of PIR location and angle.
 
-## **Features**
+**Features**
 
-### _**Occupancy/Vacancy Detection**_
+## _**Occupancy/Vacancy Detection**_
 
 When the PIR detects a movement, it will transmit a trigger signal. The PIR then begins counting down the occupancy/vacancy timer. The timer length is adjustable from **30 seconds** to **60 minutes** and must be adjusted from the Z-Wave network coordinator/control panel.
 
@@ -50,7 +50,7 @@ When the timer expires without any motion detection, the PIR will transmit a mot
 
 Please refer to _**Command Class Configuration**_ for more details about the settings.
 
-### _**Sensitivity Adjustment**_
+## _**Sensitivity Adjustment**_
 
 The PIR sensitivity can be adjusted to meet different requirements as either security or occupancy/vacancy sensor. Up to 5 levels of sensitivity may be selected via Z-Wave network coordinator/control panel. Follow steps below to adjust the sensitivity:
 
@@ -60,7 +60,7 @@ The PIR sensitivity can be adjusted to meet different requirements as either sec
 
 Please refer to _**Command Class Configuration**_ for more details about the settings.
 
-### _**Battery and Low Battery Detection**_
+## _**Battery and Low Battery Detection**_
 
 The PIR uses one CR123A 3V Lithium battery as its power source. The main body must be removed from base to access battery compartment. The battery compartment has a strip which should be pressed under the battery when battery is inserted. When removing batter, simply lift the strip.
 
@@ -70,21 +70,21 @@ If battery is not changed after Low Battery and is exhausted, the PIR will stop 
 
 When changing battery, after removing the old battery, press the Function Button twice to fully discharge before inserting new battery
 
-### _**Wake Up**_
+## _**Wake Up**_
 
 This function uses the Z-Wave Wake Up Command Class. The Wake Up Command Class allows the battery-powered PIR to notify the Control Panel/Gateway that it is awake and ready to receive any queued commands. The wake up interval time period is programmed automatically according to Control Panel’s setting when the PIR is included. The recommended setting of the interval time is between 60 minutes.
 
-### _**Test Mode**_
+## _**Test Mode**_
 
 * Test mode is for you to check the PIR’s detection range.
 * To enter Test mode, press the Function Button once enter the Test mode for 3 minutes.
 * During Test Mode, you can trigger PIR sensor to check its detection coverage. If PIR is triggered, the LED will flash once to indicate.
 
-### _**Adding Device (Inclusion)**_
+## _**Adding Device (Inclusion)**_
 
 The device supports both classic inclusion process and SmartStart inclusion process. This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufacturers and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
-### **Classic Inclusion**
+## **Classic Inclusion**
 
 * Put the Z-Wave gateway or control panel into **Inclusion mode** (please refer to the Z-Wave gateway or control panel manual).
 * Insert the battery and press the button once within 30 seconds. Refer to the operation manual of the Z-Wave gateway or control panel to complete the adding process.
@@ -94,7 +94,7 @@ The device supports both classic inclusion process and SmartStart inclusion proc
 
 ![](<.gitbook/assets/7 (32).png>)
 
-### **SmartStart Inclusion**
+#### **SmartStart Inclusion**
 
 SmartStart enabled products can be added into a Z-Wave network by scanning the Z-Wave QR Code presented on the product with a controller providing SmartStart inclusion. No further action is required and the SmartStart product will be added automatically within 10 minutes of being switched on in the network vicinity. Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. **DSK** is Device Specific Key used for authentication. The DSK information is stored in the QR code format that is printed on a label and adhered to the exterior of the device, as example shown on the right hand side.
 
@@ -108,7 +108,7 @@ _\<NOTE>_
 * The DSK can be read without the POVS powering ON, so it is possible to prepare the gateway to include the device prior to installing and powering up the POVS-1-ZW.
 * If the POVS-1-ZW has already been **included** (learnt) into another Z-Wave Gateway/Control Panel, please exclude it first (see _**Exclusion**_) before attempting to **include** it into the current Z-Wave Gateway/Control Panel. The POVS-1-ZW will not send a SmartStart inclusion request if it’s already in a Z-Wave Gateway/Control Panel.
 
-### Removing Device (Exclusion)
+## Removing Device (Exclusion)
 
 The device must be removed from existing Z-Wave network before being added into another.
 
@@ -117,7 +117,7 @@ The device must be removed from existing Z-Wave network before being added into 
 * Put the Z-Wave gateway or control panel into **Exclusion mode** (please refer to the Z-Wave gateway or control panel manual).
 * Insert the battery and press the button once within 30 seconds. The device will be removed from the Z-Wave network.
 
-### **Factory Reset**
+## **Factory Reset**
 
 _(Only use factory reset when network Control Panel/Gateway is missing or inoperable)._
 
@@ -128,7 +128,7 @@ _\<NOTE>_
 
 * Before you remove or factory reset the POVS-1-ZW, please ensure that the device DSK information has been removed or does not exist in the gateway. If you remove or factory reset the device, but its DSK still exists in the gateway, the gateway will automatically include the device again.
 
-### _**Range Test**_
+## _**Range Test**_
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
@@ -136,12 +136,12 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 * Press the Function Button on the device.
 * The gateway / panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel).
 
-### _**Z-Wave Sleep Mode**_
+## _**Z-Wave Sleep Mode**_
 
 * The PIR will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the PIR.
 * To program the PIR using the Z-Wave Gateway/Control Panel, please send command(s) to the PIR within the wake-up period.
 
-### **Installation**
+## **Installation**
 
 ### _**Mounting Height and PIR Detection Coverage**_
 
@@ -183,7 +183,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 * Avoid large obstacles in the detection area, and avoid moving objects such as curtain.
 * Avoid locations where pet may climb on and compromise pet immunity, such as stairway.
 
-### **Z-Wave Information**
+## **Z-Wave Information**
 
 **Device Type:** Generic Type Sensor Notification
 
