@@ -112,29 +112,29 @@ _\<NOTE>_
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and bottom position indicates OFF.
 
-| DIP     | Position | Function                                                |
-| ------- | -------- | ------------------------------------------------------- |
-| Switch1 | ON       | Test Mode                                               |
-| Switch1 | OFF      | Normal Mode (default)                                   |
-| Switch2 | ON       | Reserved                                                |
-| Switch2 | OFF      | Reserved                                                |
-| Switch3 | ON       | PIR facing a wall within 10 m                           |
-| Switch3 | OFF      | PIR facing an open space (no wall within 10 m)(default) |
-| Switch4 | ON       | PIR facing a lawn (default)                             |
-| Switch4 | OFF      | PIR facing a concrete/stone ground                      |
+| <mark style="color:green;">DIP</mark> | <mark style="color:green;">Position</mark> | <mark style="color:green;">Function</mark>              |
+| ------------------------------------- | ------------------------------------------ | ------------------------------------------------------- |
+| Switch1                               | ON                                         | Test Mode                                               |
+| Switch1                               | OFF                                        | Normal Mode (default)                                   |
+| Switch2                               | ON                                         | Reserved                                                |
+| Switch2                               | OFF                                        | Reserved                                                |
+| Switch3                               | ON                                         | PIR facing a wall within 10 m                           |
+| Switch3                               | OFF                                        | PIR facing an open space (no wall within 10 m)(default) |
+| Switch4                               | ON                                         | PIR facing a lawn (default)                             |
+| Switch4                               | OFF                                        | PIR facing a concrete/stone ground                      |
 
-| DIP     | Sensitivity Level |                                |
-| ------- | ----------------- | ------------------------------ |
-| Switch5 | Switch6           |                                |
-| ON      | ON                | Low; 75 cm/60 kg pet (default) |
-| ON      | OFF               | Medium; 50 cm / 35 kg pet      |
-| OFF     | ON                | High; 30 cm / 20 kg pet        |
-| OFF     | OFF               | Reserved                       |
-| DIP     | Position          | Function                       |
-| Switch7 | ON                | Double Knock Enable (default)  |
-| Switch7 | OFF               | Double Knock Disable           |
-| Switch8 | ON                | Pet Immune Enable (default)    |
-| Switch8 | OFF               | Pet Immune Disable             |
+| <mark style="color:green;">DIP</mark> | <mark style="color:green;">Sensitivity Level</mark> |                                |
+| ------------------------------------- | --------------------------------------------------- | ------------------------------ |
+| Switch5                               | Switch6                                             |                                |
+| ON                                    | ON                                                  | Low; 75 cm/60 kg pet (default) |
+| ON                                    | OFF                                                 | Medium; 50 cm / 35 kg pet      |
+| OFF                                   | ON                                                  | High; 30 cm / 20 kg pet        |
+| OFF                                   | OFF                                                 | Reserved                       |
+| <mark style="color:green;">DIP</mark> | <mark style="color:green;">Position</mark>          | Function                       |
+| Switch7                               | ON                                                  | Double Knock Enable (default)  |
+| Switch7                               | OFF                                                 | Double Knock Disable           |
+| Switch8                               | ON                                                  | Pet Immune Enable (default)    |
+| Switch8                               | OFF                                                 | Pet Immune Disable             |
 
 <div align="left">
 
