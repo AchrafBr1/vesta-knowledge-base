@@ -4,9 +4,9 @@
 
 The Voice Recognition Alarm (VRA) recognizes preset vocal commands or keywords and activates a Help alarm. In addition to voice activation, the VRA also features a large button for users to summon help during an emergency.
 
-* **Parts Identification**
+## **Parts Identification**
 
-**Front View**                                                      **Back View**                                           **Side View**
+&#x20;                      **Front View**                                              **Back View**                                           **Side View**
 
 ![](<.gitbook/assets/0 (48).jpeg>)
 
@@ -20,48 +20,39 @@ The Voice Recognition Alarm (VRA) recognizes preset vocal commands or keywords a
 * Green LED OFF: When external power supply is removed.
 * Amber LED flashes for three times: Low battery status detected when powerd on.
 * Amber LED flashes once every 5 seconds: Low battery status detected during operation.
-  1. **Microphone for VR (Voice Recognition)**
-  2. **Battery Compartment**
-  3. **DIP Switches**
-  4. **Keyhole**
-  5. **DC Jack (with Locking feature)**
+
+3. **Microphone for VR (Voice Recognition)**
+4. **Battery Compartment**
+5. **DIP Switches**
+6. **Keyhole**
+7. **DC Jack (with Locking feature)**
 
 Plug in a DC 5V power adpator and rotate it 90 degrees clockwise to the lock position. To remove the adaptror, rotate it 90 degrees counterclockwise to the original open position and remove it.
 
-* **Power Supply**
-  * VRA can be powered by connecting to 5V DC power supply or two Type C batteries.
-  * When VRA is connected to 5V DC power supply, green LED will turn on. When DC power supply is removed, VRA will switch to using batteries (if batteries are already installed and not exhausted) and continue operation; green LED will turn off.
-  * When powered by Type C batteries, VRA will transmit any detected low battery status along with regular status signal transmissions to the Control Panel for display accordingly.
-  * When changing batteries, please remove the back cover by unscrewing the bottom fixing screw, and then inserting a flat-head screwdriver to lift the back cover. Remove the old batteries, and then press the Help Button twice to fully discharge before inserting new batteries.
-* **Supervision Signal**
-  * After learned into the Control Panel, VRA will automatically transmit Supervision Signals every 30 to 50 minutes.
-  * If the Control Panel has not received the supervision signal from VRA for a preset period of time, the Control Panel will indicate that the Voice Recognition Alarm is out-of-signal range or is out of order.
-* **Sensitivity**
-  * The voice recognition function has three sensitivity levels: high, medium, low. When sensitivity level is set to high, VRA will most easily detect keyword/command and trigger alarm.
-  * Please use a sharp tool to adjust the DIP Switch positions to set sensitivity level.
+## **Power Supply**
 
-|   |             |             |         |                                |              |   |
-| - | ----------- | ----------- | ------- | ------------------------------ | ------------ | - |
-|   |             |             |         |                                |              |   |
-|   |             | **DIP**     |         | **Search (Sensitivity Level)** |              |   |
-|   |             |             |         |                                |              |   |
-|   | **Switch1** |             |         |                                |              |   |
-|   |             | **Switch2** |         |                                |              |   |
-|   |             |             |         |                                |              |   |
-|   | OFF         |             | OFF     |                                | Low          |   |
-|   |             |             |         |                                |              |   |
-|   | ON          |             | OFF     |                                | Medium       |   |
-|   |             |             |         |                                |              |   |
-|   | OFF         |             | ON      |                                | High         |   |
-|   |             |             |         |                                |              |   |
-|   |             |             |         |                                |              |   |
-|   |             |             | **DIP** |                                | **Function** |   |
-|   |             |             |         |                                |              |   |
-|   | **Switch3** |             |         |                                | Reserved     |   |
-|   |             | **Switch4** |         |                                |              |   |
-|   |             |             |         |                                |              |   |
+* VRA can be powered by connecting to 5V DC power supply or two Type C batteries.
+* When VRA is connected to 5V DC power supply, green LED will turn on. When DC power supply is removed, VRA will switch to using batteries (if batteries are already installed and not exhausted) and continue operation; green LED will turn off.
+* When powered by Type C batteries, VRA will transmit any detected low battery status along with regular status signal transmissions to the Control Panel for display accordingly.
+* When changing batteries, please remove the back cover by unscrewing the bottom fixing screw, and then inserting a flat-head screwdriver to lift the back cover. Remove the old batteries, and then press the Help Button twice to fully discharge before inserting new batteries.
 
-![](<.gitbook/assets/1 (44).jpeg>) ![](<.gitbook/assets/2 (56).png>)
+## **Supervision Signal**
+
+* After learned into the Control Panel, VRA will automatically transmit Supervision Signals every 30 to 50 minutes.
+* If the Control Panel has not received the supervision signal from VRA for a preset period of time, the Control Panel will indicate that the Voice Recognition Alarm is out-of-signal range or is out of order.
+
+## **Sensitivity**
+
+* The voice recognition function has three sensitivity levels: high, medium, low. When sensitivity level is set to high, VRA will most easily detect keyword/command and trigger alarm.
+* Please use a sharp tool to adjust the DIP Switch positions to set sensitivity level.
+
+<table><thead><tr><th width="120">DIP</th><th width="100">DIP</th><th width="265">Search (Sensitivity Level)</th></tr></thead><tbody><tr><td><strong>Switch1</strong> </td><td><strong>Switch2</strong></td><td> </td></tr><tr><td>OFF</td><td>OFF</td><td>Low</td></tr><tr><td>ON</td><td>OFF</td><td>Medium</td></tr><tr><td>OFF</td><td>ON</td><td>High</td></tr><tr><td><strong>DIP</strong></td><td><strong>DIP</strong></td><td><strong>Function</strong></td></tr><tr><td><strong>Switch3</strong></td><td><strong>Switch4</strong></td><td>Reserved</td></tr></tbody></table>
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 _\<NOTE>_
 
@@ -69,16 +60,19 @@ _\<NOTE>_
 
 work with newly set sensitivity level after re-powered on.
 
-* **Getting Started**
-  * Remove the back cover by unscrewing the bottom fixing screw, and then inserting a flat-head screwdriver to lift the back cover.
-  * Based on your needs, set Sensitivity Switch as shown in Dip Switch Position Table.
-    * Power on the Voice Recognition Alarm by connecting to 5V DC power supply or two Type C batteries.
-    * Put the Control Panel into learning mode
-    * Press the button on the Voice Recognition Alarm to transmit a learn code.
-    * Refer to your Control Panel’s operation manual to complete the learn-in process.
-    * Replace the back cover.
-* **Walk Test**
-  * After VRA is successfully learned in, place the Control Panel in the walk test mode, then press the button on VRA to confirm that this location is within signal range of the Control Panel. Refer to Control Panel manual to complete Walk Test.
+## **Getting Started**
+
+* Remove the back cover by unscrewing the bottom fixing screw, and then inserting a flat-head screwdriver to lift the back cover.
+* Based on your needs, set Sensitivity Switch as shown in Dip Switch Position Table.
+  * Power on the Voice Recognition Alarm by connecting to 5V DC power supply or two Type C batteries.
+  * Put the Control Panel into learning mode
+  * Press the button on the Voice Recognition Alarm to transmit a learn code.
+  * Refer to your Control Panel’s operation manual to complete the learn-in process.
+  * Replace the back cover.
+
+## **Walk Test**
+
+* After VRA is successfully learned in, place the Control Panel in the walk test mode, then press the button on VRA to confirm that this location is within signal range of the Control Panel. Refer to Control Panel manual to complete Walk Test.
 * **Operation**
   * After VRA is learned in successfully, pressing the button once will activate a Help Alarm. When the button is pressed, VRA will emit one beep.
   * The User can also speak the specific vocal command to activate a Help Alarm. When trigger words are recognized, VRA will emit one long beep.
@@ -91,18 +85,19 @@ work with newly set sensitivity level after re-powered on.
 
 &#x20;                                                                               **OR**
 
-**Speak the trigger Keyword.**                                                 **Press the Help Button.**
+&#x20;           **Speak the trigger Keyword.**                                      **Press the Help Button.**
 
 _\<NOTE>_
 
 * To ensure voice recognition accuracy, please avoid installing VRA in a large or noisy room.
 * The ideal environment for voice recognition is silence or partial silence. If you call out the vocal command with normal voice, please speak within 2 meters of VRA to ensure alarm trigger.
 * The voice recognition function has three sensitivity levels. You may test with them and select the level that best suits your mounting location.
-* **Installation**
+
+## **Installation**
 
 After you conduct Walk Test to confirm VRA is within signal range of the Control Panel, and you are satisfied that the selected sensitivity level works in the chosen location, you can proceed with installation. There are two ways to install VRA: Wall Mounting and Surface Deployment.
 
-* **Wall Mounting**
+### **Wall Mounting**
 
 Ensure that VRA is fitted at approximately chest height (around 130cm-150cm above ground) where the button can be easily accessed and operated.
 
@@ -118,10 +113,9 @@ Ensure that VRA is fitted at approximately chest height (around 130cm-150cm abov
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-* **Surface Placement**
+### **Surface Placement**
 
 VRA comes with an Anti-Slip pad on its back. The device can also be deployed on a flat surface without being installed at a fixed location.
 
 ![](<.gitbook/assets/9 (37).png>)
 
-4
