@@ -47,7 +47,7 @@
 * [VESTA-051](vesta-051.md)
 * [VESTA-052](vesta-052-1.md)
 * [VESTA 052](vesta-052.md)
-* [VESTA 053](vesta-053.md)
+* [VESTA-053](vesta-053.md)
 * [VESTA 060](vesta-060.md)
 * [VESTA 060N](vesta-060n.md)
 * [VESTA 075](vesta-075.md)
