@@ -1,4 +1,4 @@
-# VESTA 060
+# VESTA-060
 
 Door Contact / Shock Vibration Sensor (DCSV-23)
 
@@ -146,19 +146,11 @@ The device is triggered by either of the following condition:
 * When mounted on door/window frame, the device also serves as Door Contact.
 * Refer to table below for information on shock/vibration detection range and sensitivity setting according to different surface materials. Use the sensitivity adjustment jumper to select desired sensitivity.
 
-|                                                | Glass Window                             | Door                                  | Concrete Wall | Safety Box               |   |
-| ---------------------------------------------- | ---------------------------------------- | ------------------------------------- | ------------- | ------------------------ | - |
-| Thickness                                      | >5mm                                     | <40mm                                 | -             | >3mm                     |   |
-| Material                                       | <p>Regular/Tempered/</p><p>Laminated</p> | Wood/Steel                            | Concrete      | Steel + Silicon Dioxide  |   |
-| Install Location                               | Window Frame                             | Door Frame                            | Wall          | 2cm away from door pivot |   |
-| Detection Mode                                 | Single Pulse Mode                        |  Pulse Count / Accumulated Vibration |               |                          |   |
-| <p>Shock Sensitivity</p><p>(coverage area)</p> | Low                                      | 2000mm                                | 1000mm        | 500mm                    | - |
-| Medium                                         | 3000mm                                   | 2000mm                                | 1500mm        | -                        |   |
-| High                                           | 4000mm                                   | 3000mm                                | 2000mm        | 1400mm                   |   |
+<table data-header-hidden><thead><tr><th></th><th width="95"></th><th width="119"></th><th width="121"></th><th width="133"></th><th></th></tr></thead><tbody><tr><td></td><td></td><td><strong>Glass Window</strong></td><td><strong>Door</strong></td><td><strong>Concrete Wall</strong></td><td><strong>Safety Box</strong></td></tr><tr><td>Thickness</td><td> </td><td>>5mm</td><td>&#x3C;40mm</td><td>-</td><td>>3mm</td></tr><tr><td>Material</td><td> </td><td>Regular/Tempered/Laminated</td><td>Wood/Steel</td><td>Concrete</td><td>Steel + Silicon Dioxide</td></tr><tr><td>Install Location</td><td> </td><td>Window Frame</td><td>Door Frame</td><td>Wall</td><td>2cm away from door pivot</td></tr><tr><td>Detection Mode</td><td> </td><td>Single Pulse Mode</td><td>Single Pulse Mode</td><td>Pulse Count / Accumulated Vibration</td><td> Pulse Count / Accumulated Vibration</td></tr><tr><td>Shock Sensitivity (coverage area)</td><td>Low</td><td>2000mm</td><td>1000mm</td><td>500mm</td><td>-</td></tr><tr><td>Shock Sensitivity (coverage area)</td><td>Medium</td><td>3000mm</td><td>2000mm</td><td>1500mm</td><td>-</td></tr><tr><td>Shock Sensitivity (coverage area)</td><td>High</td><td>4000mm</td><td>3000mm</td><td>2000mm</td><td>1400mm</td></tr></tbody></table>
 
 ![](<.gitbook/assets/7 (17).png>)
 
-* _Mounting Procedure_
+## _Mounting Procedure_
 
 1. Use the 2 mounting holes on back cover as template for positioning.
 2. Use the provided wall plugs for window frames/ concrete wall/safe deposit box installation.
@@ -170,10 +162,16 @@ The device is triggered by either of the following condition:
 
 * The magnet must align with the rib-mark side of the Door Contact. If required, apply the magnet spacer to the back of the magnet to better align the magnet to the rib marks.
 
-1. Screw the magnet and insert the two white caps into the magnet screw holes for aesthetic integrity.
-2. Installation is now complete.
+6. Screw the magnet and insert the two white caps into the magnet screw holes for aesthetic integrity.
+7. Installation is now complete.
 
 \<NOTE>
 
 * Don’t mount the device on surface materials where frequent vibration occurs, to prevent false alarming.
-* ![](<.gitbook/assets/8 (17).png>)When mounting on safety box, mount the Door Contact / Shock Sensor no more than 2cm away from the door pivot (refer to the below picture).
+* When mounting on safety box, mount the Door Contact / Shock Sensor no more than 2cm away from the door pivot (refer to the below picture).
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+
+</div>
