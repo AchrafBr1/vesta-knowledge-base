@@ -1,4 +1,4 @@
-# VESTA 387
+# VESTA-387
 
 **Auxiliary Power Supply Module (PWB-1-BUS)**
 
@@ -8,7 +8,7 @@ The PWB-1-BUS is an auxiliary power supply module that can be connected in the d
 
 
 
-## Identifying the Parts
+## Identifying the Parts (VESTA-364N)
 
 
 

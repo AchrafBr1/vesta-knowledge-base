@@ -165,7 +165,7 @@
 * [VESTA 363](vesta-363.md)
 * [VESTA 373](vesta-373.md)
 * [VESTA 384](vesta-384.md)
-* [VESTA 387](vesta-387.md)
+* [VESTA-387](vesta-387.md)
 * [VESTA 393](vesta-393.md)
 * [VESTA 338](vesta-338.md)
 * [VESTA 370](vesta-370.md)
