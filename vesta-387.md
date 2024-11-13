@@ -6,14 +6,37 @@
 
 The PWB-1-BUS is an auxiliary power supply module that can be connected in the data BUS system to provide a maximum of 13.5V, 5A power supply to connected BUS devices. The PWB-1-BUS module is supervised and communicates back to the Panel all the status changes, including AC power status, battery level, tamper status, and energy consumption data.
 
+
+
+## Identifying the Parts
+
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
+
+1. BUS Connection Terminals to the **Hybrid Pane**l (3 wire: G, A, B)
+2. BUS Connection Terminals to powered BUS device (4 wire: V, G, A, B)
+3. BUS Connection Terminals to powered BUS device (4 wire: V, G, A, B)
+
+{% hint style="warning" %}
+#### DEPRECATED ONLY FOR VESTA-364
+
+This drawing is deprecated and applies only to the old **VESTA-364** power supply module. Please refer to updated documentation for current models.
+
+
+
 **Identifying the Parts**
 
-![](<.gitbook/assets/0 (5).jpeg>)
+<img src=".gitbook/assets/0 (5).jpeg" alt="" data-size="original">
 
 1. **BUS Connection Terminals to powered BUS device** (4 wire: V, G, A, B)
 2. **BUS Connection Terminals to powered BUS device** (4 wire: V, G, A, B)
 3. **BUS Connection Terminals to the Hybrid Panel** (3 wire: G, A, B)
-4. **Battery Switch**
+{% endhint %}
+
+
+
+1. **Battery Switch**
 
 Slide the battery switch to ON position, so that the backup battery will be charged when AC power is connected and serve as a backup power source when AC power is missing.
 
@@ -100,11 +123,17 @@ If the jumper is ON (the jumper link rests on both pins), the communication abil
 
 Please refer to the BUS device connection examples (VST-892-BUS & DC-23-BUS) below.
 
-2
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
 
-![](<.gitbook/assets/3 (6).jpeg>)
+{% hint style="warning" %}
+**DEPRECATED**&#x20;
 
-_\<NOTE>_
+Only VESTA-364
+
+<img src=".gitbook/assets/3 (6).jpeg" alt="" data-size="original">
+{% endhint %}
+
+
 
 * The pluggable design of BUS terminal blocks improves upon installation efficiency. Before wiring, you can remove the terminal blocks from the device for ease of use, and plug in again after wiring.
 
