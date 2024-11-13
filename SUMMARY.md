@@ -201,7 +201,7 @@
 * [VESTA-206](vesta-206.md)
 * [VESTA-207N](vesta-207n.md)
 * [VESTA-210](vesta-210.md)
-* [VESTA-387](vesta-387-1.md)
+* [VESTA-364N](vesta-364n.md)
 * [VESTA-419N](vesta-419n.md)
 * [VESTA-427](vesta-427.md)
 * [VESTA-428](vesta-428.md)
