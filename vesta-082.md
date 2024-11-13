@@ -8,7 +8,7 @@ WADC-1 has two adjustable sensitivity levels that further offer convenience for 
 
 ## **Identifying the Parts**
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 **1. LED indicator (Red)**
 
