@@ -1,4 +1,4 @@
-# VESTA 079
+# VESTA-079
 
 **Jewelry Necklace Pendant (JLPD)**
 
@@ -6,10 +6,12 @@ Elegant and compact, the Jewelry Necklace Pendant is designed to be worn by seni
 
 ![](<.gitbook/assets/0 (53).jpeg>)
 
-* _**Active Button**_
-  * Pressing the Active Button for more than 1 sec will activate the Control Panel, causing it to dial emergency call or alarm.
-  * Press and hold the Active Button for 8 seconds to send a Cancel Code to the Control Panel. (This function is not compatible with every control panel).
-* _**Learn in the Pendant**_
+## _**Active Button**_
+
+* Pressing the Active Button for more than 1 sec will activate the Control Panel, causing it to dial emergency call or alarm.
+* Press and hold the Active Button for 8 seconds to send a Cancel Code to the Control Panel. (This function is not compatible with every control panel).
+
+## _**Learn in the Pendant**_
 
 Step 1. Put the Control Panel into the learning mode.
 
@@ -17,7 +19,7 @@ Step 2. Press the Button on the Pendant. A radio signal will be transmitted to t
 
 Step 3. Please refer to the operation manual of your Control Panel to complete the learning process.
 
-* _**Battery Life**_
+## _**Battery Life**_
 
 The Pendant uses one CR2032 3V Lithium battery as its power source.
 
@@ -25,9 +27,9 @@ Every time the Active Button is pressed, the Pendant will check the battery volt
 
 _\<NOTE>_
 
-*
-  * A 30-second interval is required between each Active Button press to check the battery voltage again.
-* _**Auto Low Battery Detection**_
+* A 30-second interval is required between each Active Button press to check the battery voltage again.
+
+## _**Auto Low Battery Detection**_
 
 The Jewelry Necklace Pendant features Auto Low Battery detection function.
 
