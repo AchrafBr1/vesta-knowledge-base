@@ -1,12 +1,14 @@
 # VESTA 105
 
-Mini Door Contact (MDC-3) User Manual
+**Mini Door Contact (MDC-3)**&#x20;
+
+**Introduction**
 
 The Mini Door Contact monitors the opening/closing of specified devices (e.g. door or window). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch causing the Door Contact to transmit alarm signal to the Control Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
 
 The Door Contact design is consisted of a front cover and a back cover. The front cover(back) contains all electronics and the back cover provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening.
 
-**Identifying the parts**
+## **Identifying the parts**
 
 ![](<.gitbook/assets/0 (29).png>)
 
@@ -25,33 +27,46 @@ The Door Contact design is consisted of a front cover and a back cover. The fron
 
 * _**Accessories Included**_
 
-1. 1 Magnet
-2. 1 double-sided adhesive Magnet Spacer
-3. 2 Screws
-4. 4 Wall Plugs
-5. 1 double-sided adhesive Velcro tape (for Door Contact)
-6. 1 double-sided adhesive tape pad (for Magnet)
-7. 2 Magnet mounting screws
+1 Magnet
 
-**Features**
+1 Double-sided adhesive Magnet Spacer
 
-* _**LED Indicator**_
+2 Screws
+
+4 Wall Plugs
+
+1 Double-sided adhesive Velcro tape (for Door Contact)
+
+1 Double-sided adhesive tape pad (for Magnet)
+
+2 Magnet mounting screws
+
+## **Features**
+
+### _**LED Indicator**_
 
 In Normal operation mode, the LED indicator remains off except in the following situations when:
 
 * When Door Contact’s Tamper switch is triggered.
 * When the Door Contact is activated with either Tamper or Low battery condition.
 * When the Door Contact is activated and transmitting the signal under the Test mode.
-* _**Supervision**_
+
+### _**Supervision**_
+
 * The Door Contact will automatically transmit Supervisory signals periodically to the Control Panel at random intervals of 30 to 50 minutes in Normal Operation Mode.
 * If the Control Panel has not received the signal from the Door Contact for a preset period time, the Control Panel will indicate that particular Door Contact is experiencing an out-of-signal problem.
-* _**Tamper Switch**_
+
+### _**Tamper Switch**_
+
 * It is designed to protect against unauthorized, cover opening. When the tamper is triggered, Door Contact will emit a signal to the Control Panel for reporting, the LED will also light up.
-* _**Battery**_
+
+### _**Battery**_
 
 The MDC-3 uses one **3V CR2450 Lithium battery** as its power source
 
-![](<.gitbook/assets/1 (20).jpeg>)The Door Contact is also capable of detecting low battery. When the battery is low, a low battery signal will be sent to the Control Panel along with regular transmission. The LED will light up when the Door Contact is activated under low battery status.
+![](<.gitbook/assets/1 (20).jpeg>).
+
+The Door Contact is also capable of detecting low battery. When the battery is low, a low battery signal will be sent to the Control Panel along with regular transmission. The LED will light up when the Door Contact is activated under low battery status.
 
 * **Changing Battery**
 
@@ -65,11 +80,12 @@ After the battery has been removed, press the Learn / Test button 5-6 times to f
 
 * Make sure the battery mark with the positive side (+) is faced upwards when inserting the battery.
 * Make sure to insert or place the battery from the top right angle in the Front Cover (Back) view:
-* _**Test Mode**_
+
+### _**Test Mode**_
 
 The Door Contact can be put into Test mode for 3 minutes by pressing the Test Button on the front cover (back) once. During Test mode, the LED indicator will turn on upon triggering. Each press on the Test Button, the Door Contact will transmit a test signal to the Control Panel for radio range test and resets the test mode back to the 3-minute duration. It will exit Test Mode automatically after the 3 minutes and returns to Normal Operation mode.
 
-* _**Getting Started**_
+### _**Getting Started**_
 
 Step 1: Remove the battery insulator located at the rear side of the Door Contact.
 
@@ -83,9 +99,9 @@ Step 5: After the Door Contact is learnt-in, put the Control Panel into “**Wal
 
 Step 6: When you are satisfied with the Door Contact at the chosen location, proceed to _**installation**_.
 
-**Installation**
+## **Installation**
 
-To open the cover of the Door Contact:
+**To open the cover of the Door Contact:**
 
 Step 1. Use a flat-headed screwdriver to fit into the cover opening hole on one side as (**Pic1**).
 
@@ -93,21 +109,24 @@ Step 2. Push the flat-headed screwdriver upwards as (**Pic2**).
 
 Step 3. Turn to the other side and repeat Step 1 and Step 2.
 
-| <img src=".gitbook/assets/2 (37).png" alt="" data-size="original"> | <img src=".gitbook/assets/3 (16).jpeg" alt="" data-size="original"> |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| (Pic 1)                                                            | (Pic 2)                                                             |
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                               (Pic 1)                                              (Pic 2)
 
 Step 4. Once opened the cover, you can proceed to change the battery etc.
 
 Step 5. To replace the cover:
 
-\- Make sure the Tamper Compression Mark is aimed at the Tamper Switch (**Pic 3**).
+* Make sure the Tamper Compression Mark is aimed at the Tamper Switch (Pic 3).
+* Also make sure the bottom hooks of the back cover is latched on the bottom of the front cover (back) as (**Pic 4**)
+* Fit the bottom hooks into the bottom latches of the front cover (back) then push it downwards as (1) in (**Pic 5**), then push forward (2) the entire back cover to close it until you hear a clip sound.
 
-\- Also make sure the bottom hooks of the back cover is latched on the bottom of the front cover (back) as (**Pic 4**)
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-\- Fit the bottom hooks into the bottom latches of the front cover (back) then push it downwards as (1) in (**Pic 5**), then push forward (2) the entire back cover to close it until you hear a clip sound.
+&#x20;                             (Pic 3)                                                              (Pic 4)                                                    (Pic 5)
 
-* _**Mounting Methods**_
+### _**Mounting Methods**_
+
 * Mount the Door Contact using one of the below mounting methods: **Velcro tape Mounting** or **Screw Mounting.**
 * Mount the magnet on the more mobile object (such as door) using either the double-sided adhesive pad or the screws provided.
 * Align the magnet according the rib mark on Door Contact. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
@@ -116,7 +135,7 @@ Step 5. To replace the cover:
 
 * The magnet should be no more than **15mm** from the detector when the door is closed.
 
-**Mounting Methods for the Door Contact**
+### **Mounting Methods for the Door Contact**
 
 * **Screw Mounting**
 
@@ -131,30 +150,38 @@ To mount the Door Contact:
 5. Screw the back cover into the wall plug using a Philips screwdriver.
 6. Attach the front cover to the back cover (see **Pic 3 \~ 5** above).
 
-* ![](<.gitbook/assets/7 (17).jpeg>)**Velcro tape Mounting:**
+**Velcro tape Mounting:**
 
 The Door Contact can be wall mounted using Velcro tape provided.
+
+
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Hooks, Loops
 
 1. Clean the wall mounting location and back of the Door Contact with degreaser. Do not mount on wall with cracking paint or rough surface.
 2. The Velcro tape can be separated to Hook and Loop side.
 3. Remove the protective cover of the Hook side and attach to the back of the Door Contact. Press firmly for 30 seconds to ensure good contact. (**Pic 6.**)
 4. Remove the protective cover of the Loop side and apply to desired mounting location as in (**Pic 7.**) Press firmly for 30 seconds to ensure good contact.
 
-![](<.gitbook/assets/8 (14).jpeg>) ![](<.gitbook/assets/9 (6).jpeg>)
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Hooks
+&#x20;                                                      (**Pic 6.**)                                                    (**Pic 7.**)
 
-Loops
+5. Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
 
-(**Pic 6.**) (**Pic 7.**)
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-1. ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (3).jpeg>)Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
+&#x20;                                                                          (**Pic 8.**)                         (**Pic 9.**)                                                        &#x20;
 
-![](<.gitbook/assets/11 (7).jpeg>) ![](<.gitbook/assets/12 (16).png>)
 
-(**Pic 8.**) (**Pic 9.**)
 
-**Mounting Methods for the Magnet**
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+Door / Window, Frame, Rib-Marks
+
+### **Mounting Methods for the Magnet**
 
 * **Screw Mounting**
 
@@ -162,20 +189,20 @@ The back cover of the magnet has two Mounting Holes for mounting purpose.
 
 To mount the Magnet:
 
-*
-  1. Open the back cover by using a flat-headed screwdriver to fit into the caved in area and push upwards.
+1. Open the back cover by using a flat-headed screwdriver to fit into the caved in area and push upwards.
 
 | <img src=".gitbook/assets/13 (5).jpeg" alt="" data-size="original"> | <img src=".gitbook/assets/14 (5).jpeg" alt="" data-size="original"> |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
 
-*
-  1. Using the holes as a template, drill both holes.
-  2. Screw the back cover into the door/window using a Philips screwdriver. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
-  3. Attach the front cover to the back cover. If the front cover is stabilized onto the back cover, you should hear a Click sound.
+2. Using the holes as a template, drill both holes.
+3. Screw the back cover into the door/window using a Philips screwdriver. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
+4. Attach the front cover to the back cover. If the front cover is stabilized onto the back cover, you should hear a Click sound.
 
 ![](<.gitbook/assets/15 (13).png>)
 
-* **Adhesive Mounting**
+Screw Mount with Spacer, Screw Mount without Spacer
+
+### **Adhesive Mounting**
 
 The Magnet can also be mounted using the double-sided adhesive tape pad or the double-sided adhesive Magnet Spacer.
 
@@ -184,6 +211,8 @@ The Magnet can also be mounted using the double-sided adhesive tape pad or the d
 3. Remove the other cover and firmly press the Magnet onto the desired location for 30 seconds..
 
 ![](<.gitbook/assets/16 (16).png>)
+
+Adhesive Mount with Spacer, Adhesive Mount with Pad
 
 \<Note>
 

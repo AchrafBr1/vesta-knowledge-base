@@ -12,7 +12,7 @@ The PWB-1-BUS is an auxiliary power supply module that can be connected in the d
 
 
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
 
 1. BUS Connection Terminals to the **Hybrid Pane**l (3 wire: G, A, B)
 2. BUS Connection Terminals to powered BUS device (4 wire: V, G, A, B)
@@ -123,7 +123,7 @@ If the jumper is ON (the jumper link rests on both pins), the communication abil
 
 Please refer to the BUS device connection examples (VST-892-BUS & DC-23-BUS) below.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
 
 {% hint style="warning" %}
 **DEPRECATED**&#x20;

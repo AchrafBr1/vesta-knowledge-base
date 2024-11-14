@@ -28,7 +28,7 @@ Press the Test button to transmit learning code or enter test mode for 3 minutes
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ The jumper link is inserted connecting the two pins
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -55,7 +55,7 @@ The jumper link is removed or **“parked”** on one pin.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -65,7 +65,7 @@ The jumper link is inserted connecting the two pins
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -80,7 +80,7 @@ The jumper link is removed or **“parked”** on one pin.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -90,7 +90,7 @@ The jumper link is inserted, connecting the two pins.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
