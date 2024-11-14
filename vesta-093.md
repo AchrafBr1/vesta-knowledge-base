@@ -50,7 +50,7 @@ Step 1. Open the lid of the PCU by using a flat-headed screwdriver (**Pic 1.**)
 
 Step 2. Open the upper cover of PCU by using the flat-headed screwdriver (**Pic 2.**)
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; **Lid                                                            (Pic 1.)** **(Pic 2.)**
 

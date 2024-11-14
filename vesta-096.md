@@ -18,7 +18,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
