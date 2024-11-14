@@ -1,4 +1,4 @@
-# VESTA 081
+# VESTA-081
 
 **Voice Reach Talking Pendant (WTRVS-15-FS)**
 
@@ -23,46 +23,17 @@ The Voice Reach Talking Pendant provides high-clarity two-way communication via 
 
 * Insert a CR123 3V lithium battery
 
-1. **LED indications and Sound notifications**
+## **LED indications and Sound notifications**
 
-|                              | **Condition** |                                          |   | **LED**                                    |              |                             |           |                   |       |   |   |                      |   |   | **Sound**             |            |   |   |   |   |   |   |
-| ---------------------------- | ------------- | ---------------------------------------- | - | ------------------------------------------ | ------------ | --------------------------- | --------- | ----------------- | ----- | - | - | -------------------- | - | - | --------------------- | ---------- | - | - | - | - | - | - |
-| Normal Operation             |               | **Off**                                  |   |                                            |              |                             |           |                   |       |   |   | N/A                  |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| Enters learning mode         |               | **Orange** On                            |   |                                            |              |                             |           | Emits 1 long beep |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| Learning Successful          |               | **Green** On for 3 seconds               |   |                                            |              | Emits 2 beeps               |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| Learning failure             |               | **Dims**                                 |   |                                            |              |                             |           |                   |       |   |   | Emits 1 long beep    |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| **Alarm Activation:**        |               | Battery Normal: **Green** flash every    |   | Battery Normal: 1 beep                     |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| WTRVS-15-FS attempts to      |               | second.                                  |   |                                            |              |                             |           |                   |       |   |   | Low Battery: 3 beeps |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| connect to the Control Panel |               | Low Battery: **Red** flash every second. |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               | DECT connection fails: 1 low-tone        |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   | If the pendant is unable to connect to the |              | beep.                       |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   | Control Panel within 20 seconds, it will   |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   | time out and the LED will dim.             |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| Connected to the Control     |               | Battery Normal: **Green** On             |   |                                            |              | Battery Normal: 1 beep when |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| Panel, establishing Two-way  |               | Low Battery: **Red** On                  |   |                                            |              | Two-wayvoice                | channelis |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| voice channel                |               |                                          |   |                                            | established. |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   | Low Battery: 2        | beeps when |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   | Two-wayvoicechannelis |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   | established.          |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-| During Two-way voice         |               | Battery Normal: **Green** On until       |   | N/A                                        |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   | communication is terminated                |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   | Low                                        | Battery:     |                             | **Red**   | On                | until |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   | communication is terminated.               |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
-|                              |               |                                          |   |                                            |              |                             |           |                   |       |   |   |                      |   |   |                       |            |   |   |   |   |   |   |
+| Condition                                                          | LED                                                                                                                                                                                                            | Sound                                                                                                                                       |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Normal Operation                                                   | Off                                                                                                                                                                                                            | N/A                                                                                                                                         |
+| Enters learning mode                                               | Orange On                                                                                                                                                                                                      | Emits 1 long beep                                                                                                                           |
+| Learning Successful                                                | Green On for 3 seconds                                                                                                                                                                                         | Emits 2 beeps                                                                                                                               |
+| Learning failure                                                   | Dims                                                                                                                                                                                                           | Emits 1 long beep                                                                                                                           |
+| Alarm Activation:WTRVS-15 attempts to connect to the Control Panel | <p>Battery Normal: Green flash every second.<br>Low Battery: Red flash every second.<br>If the pendant is unable to connect to the Control Panel within 20 seconds, it will time out and the LED will dim.</p> | <p>Battery Normal: 1 beep Low Battery: 3 beeps<br>DECT connection fails: 1 low-tone beep.</p>                                               |
+| Connected to the Control Panel, establishing Two-way voice channel | <p>Battery Normal: Green On<br>Low Battery: Red On</p>                                                                                                                                                         | <p>Battery Normal: 1 beep when Two-way voice channel is established.<br>Low Battery: 2 beeps when Two-way voice channel is established.</p> |
+| During Two-way voice                                               | <p>Battery Normal: Green On until communication is terminated<br>Low Battery: Red On until communication is terminated.</p>                                                                                    | N/A                                                                                                                                         |
 
 ## **Learning**
 
@@ -76,7 +47,7 @@ If learning fails, the LED will dim and the pendant will emit 1 long beep.
 
 Step 4. Refer to Control Panel manual to complete learning process.
 
-## **IV. Battery**
+## **Battery**
 
 * The Talking Pendant uses one CR123 3V lithium battery as its power source.
 * The Talking Pendant will automatically check its battery condition every 24 hours. If low battery voltage is detected, a low battery signal will be sent to the Control Panel along with Supervisory Signals every 30 to 50 minutes.
@@ -107,17 +78,18 @@ Step 4. Refer to Control Panel manual to complete learning process.
 
 ## **Usage Recommendation for Fall Detection**
 
-* Best way to wear a fall sensor **(O)**
-  1. Let it hang in front of the chest and adjust necklace length so that the sensor hangs at the bottom of the sternum as shown in the picture below.
-  2. Wear the pendant exposed outside and in front of any clothes or heavy/feather jacket.
+*   Best way to wear a fall sensor **(O)**
 
-![](<.gitbook/assets/4 (34).jpeg>)
+    1. Let it hang in front of the chest and adjust necklace length so that the sensor hangs at the bottom of the sternum as shown in the picture below.
+    2. Wear the pendant exposed outside and in front of any clothes or heavy/feather jacket.
 
-C. When a fall occurs, it is best if the fall sensor can touch the ground.
 
-3
 
-* Wrong way to wear a fall sensor **(X)**
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+3. When a fall occurs, it is best if the fall sensor can touch the ground.
+
+* Wrong way to wear a fall sensor <mark style="color:red;">**(X)**</mark>
   1. Necklace being too short (around clavicle) or too long (below sternum) is likely to cause false trigger or no response.
   2. Fall sensor being worn inside a chest pocket will lead to non-detected condition.
 * Carefully place the pendant on a desk when you are not using it in order to avoid triggering a false alarm.
