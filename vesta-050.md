@@ -50,7 +50,7 @@ Plug in a DC 5V power adpator and rotate it 90 degrees clockwise to the lock pos
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -111,7 +111,7 @@ Ensure that VRA is fitted at approximately chest height (around 130cm-150cm abov
 
 &#x20;                          Figure 5                                                                                 Figure 6
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Placement**
 
