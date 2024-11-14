@@ -115,7 +115,7 @@ The jumper link is inserted, connecting the two pins.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -198,11 +198,11 @@ In Normal operation mode, the LED Indicators will flash in the following situati
 * The magnet should be installed on the door on the opposite side of the internal magnet switch location of door contact.&#x20;
 * The WADC-1 has 2 rib-marks on one side (refer to figure), marking the internal magnet switch location. The magnet must align with the rib-mark side of the WADC-1 as shown in figure below.
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="background-color:green;">If the door where the magnet is installed is designed to be opened outward, please set</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**JP5 to OFF**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">(</mark><mark style="background-color:green;">**Ensure JP4 is set to ON for the setting to be effective**</mark><mark style="background-color:green;">). The distance between the WADC-1 and the magnet should be no more than 5</mark> <mark style="background-color:green;">mm when the door is closed.</mark>
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="background-color:green;">If the door where the magnet is installed is designed to be opened inward, please set JP5 to ON (Ensure JP4 is set to ON for the setting to be effective). The distance between the WADC-1 and the magnet should be no more than 5 mm when the door is closed.</mark>
 
