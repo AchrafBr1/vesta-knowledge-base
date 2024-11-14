@@ -1,28 +1,36 @@
-# VESTA 104
+# VESTA-104
 
-* Thermostat (TMST-15ZW Series)
-* Introduction
+**Thermostat (TMST-15ZW Series)**
+
+**Introduction**
 
 TMST-15ZW is a battery powered thermostat. It is designed to be incorporated into household heating and cooling system for home environment control. The Thermostat can be operated manually using the LCD screen and buttons, or accessed remotely via Z-Wave coordinator. It features cooling and heating modes with temperature set point and automatic schedule for you to control your home environment easily.
 
-* ![](<.gitbook/assets/0 (23).jpeg>)Parts Identification
+## Parts Identification
 
-**1. LCD Display**
+![](<.gitbook/assets/0 (23).jpeg>)**1. LCD Display**
+
+1. **LCD Display**
 
 The LCD displays the following information:
 
 ![](<.gitbook/assets/1 (32).png>)
 
-1. Heat mode Icon: When displayed, the Thermostat is under Heat mode.
-2. Cool mode Icon: When displayed, the Thermostat is under Cool mode.
-3. Battery level Icon: Only displayed when battery level is at 25%, 50%, and 75%. The icon will disappear when battery level is below 15%.
-4. Z-Wave network connectivity:
+A. Heat mode Icon: When displayed, the Thermostat is under Heat mode.
+
+B. Cool mode Icon: When displayed, the Thermostat is under Cool mode.
+
+C. Battery level Icon: Only displayed when battery level is at 25%, 50%, and 75%. The icon will disappear when battery level is below 15%.
+
+D. Z-Wave network connectivity:
 
 When displayed, it indicates that the thermostat is not yet learnt into any gateway/panel, or when the device loses connection to current Z-Wave network.
 
-1. Mode: Mode Selection, Remote Mode, and Offset
-2. Schedule: The Thermostat will execute programmed schedule setting.
-3. Temperature Reading / Setpoint
+E. Mode: Mode Selection, Remote Mode, and Offset
+
+F. Schedule: The Thermostat will execute programmed schedule setting.
+
+G. Temperature Reading / Setpoint
 
 **2. Down (-) Button.**
 
@@ -50,19 +58,19 @@ Insert 2 AA Alkaline batteries.
 
 Connect to home heating/cooling system.
 
-**Features**
+## **Features**
 
-* _Battery and Low Battery Detection_
+### _Battery and Low Battery Detection_
 
 The Thermostat uses 2 AA Alkaline batteries as its power source. The Sensor will report its battery percentage to the Gateway/Control Panel respectively at 100% (0x64), 75% (0x4B), 50% (0x32) and 25% (0x19). When battery level is below 15%, the sensor will send 0xFF to the Gateway/Control Panel.
 
-* _Relay Control_
+### _Relay Control_
 
 The Thermostat control home heating/cooling system through relay control. Open and flip over the back cover, remove the internal cover on the relay to reveal the terminals for wiring. When wiring the Thermostat, wire the cable through the central opening on the back cover.
 
 ![](<.gitbook/assets/3 (15).jpeg>)
 
-* _**Mode Control**_
+### _**Mode Control**_
 
 The Thermostat has two operation modes: Local mode and Scheduled mode.
 
@@ -88,13 +96,13 @@ Heat setpoint range: 9°C \~ 30°C.
 
 Cool setpoint range: 11°C \~ 32°C
 
-* _**Remote Control**_
+### _**Remote Control**_
 
 After the Thermostat joins a Z-Wave network, you can control the Thermostat via Z-Wave network coordinator or gateway. Please refer to your Z-Wave coordinator/gateway manual for more information.
 
 The following functions are only available for setting via Z-Wave coordinator and gateway:
 
-* **Schedule:**
+### **Schedule:**
 
 You can only program Schedule configuration via Z-Wave network coordinator/gateway.
 
@@ -108,13 +116,17 @@ Hold – The Thermostat will bypass currently timed schedule and perform the nex
 
 No Schedule – The Thermostat will not execute any set schedule until it is set to Normal again.
 
-* _**Temperature Detection**_
+### _**Temperature Detection**_
+
 * The Thermostat has built-in temperature sensors and will display the temperature reading on the LCD display.
 * The Thermostat will transmit temperature signals regularly according to setting. The factory default interval is 5 minutes.
 * You can also press the Z-Wave Network Button once to transmit a temperature signal manually.
-* _**Z-Wave Sleep Mode**_
+
+### _**Z-Wave Sleep Mode**_
+
 * The Thermostat will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time. While in Z-wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the Thermostat
-* _**Programming Mode**_
+
+## _**Programming Mode**_
 
 **Step 1.** Press and hold Down (-) button for 3 seconds to enter programming mode.
 
@@ -124,7 +136,7 @@ Offset. You can press either UP (+) or Down (-) button to switch modes.
 
 **Step 3.** After finishing selection, wait for a few seconds for the Thermostat to enter selected mode.
 
-**Thermostat Functions (Heating and Cooling):**
+### **Thermostat Functions (Heating and Cooling):**
 
 In this mode, “Pro Mod” will be displayed on the LCD screen.
 
@@ -138,7 +150,7 @@ Heating Cooling
 
 After finishing selection, wait for a few seconds for the Thermostat to quit setting mode automatically. The Thermostat will enter the mode last selected.
 
-**Controlling Remote Relay:**
+### **Controlling Remote Relay:**
 
 In this mode, “Pro RM” will be displayed on the LCD screen.
 
@@ -151,7 +163,7 @@ The Remote Mode allows you to control remote relay via the Control Panel when fu
 
 ![](<.gitbook/assets/7 (18).png>)
 
-**Setpoint Offset:**
+### **Setpoint Offset:**
 
 In this mode, “Pro OFS” will be displayed on the LCD screen. Setpoint Offset function allows you to compensate the deviation. To calculate setpoint offset, simply subtract room temperature with device temperature. When under local mode, press and hold Down (-) button for 3 seconds to enter programming mode. After finishing selection, wait for a few seconds for the Thermostat to enter mode selection.
 
@@ -163,7 +175,7 @@ After setpoint offset is applied, the device will operate according to adjusted 
 
 For example: If device temperature reading is 20°C, setpoint offset is -2°C, the device will operate using 18°C as actual reference.
 
-* _**Adding Device (Inclusion)**_
+## _**Adding Device (Inclusion)**_
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
@@ -172,21 +184,23 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 * Within 1.5 seconds, press the Up (+) Button 3 times to transmit learning code, and “Joi NET” will be displayed on the LCD screen. If the Thermostat successfully joins a network, the Z-Wave connection icon will disappear on LCD display.
 * Refer to the operation manual of the Z-Wave gateway or control panel to complete the adding process.
 * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see Removing Device).
-* _**Removing Device (Exclusion)**_
+
+### _**Removing Device (Exclusion)**_
 
 The device must be removed from existing Z-Wave network before being added into another.
 
-**Exclusion Mode:**
+### **Exclusion Mode:**
 
 * Put the Z-Wave gateway or control panel into Exclusion mode (please refer to the Z-Wave or control panel manual).
 * Within 1.5 seconds, press the Up (+) Button 3 times and the device will be removed from the Z-Wave network. If the Thermostat is successfully removed from network, the Z-Wave connection icon will appear on LCD display.
 
-**Factory Reset**
+### **Factory Reset**
 
 Factory resetting the device will restore it to factory default settings (i.e. not included into any Z-Wave network). Please only use this procedure if the Z-Wave gateway or control panel is lost or otherwise inoperable.
 
 * Press and hold the Up (+) Button of the device for 10 seconds to factory reset.
-* _**Installation**_
+
+## _**Installation**_
 
 The Thermostat is designed to be wall mounted using the mounting holes on the back cover.
 
@@ -195,7 +209,7 @@ The Thermostat is designed to be wall mounted using the mounting holes on the ba
 3. Drill holes on the wall and insert wall plug if required, screw the back cover onto the mounting location.
 4. Place the Thermostat main body on the back cover, installation is complete.
 
-**Z-Wave Information**
+## **Z-Wave Information**
 
 **Device Type:** Thermostat
 
@@ -203,39 +217,41 @@ The Thermostat is designed to be wall mounted using the mounting holes on the ba
 
 **Command Class Support/Control**
 
-**Mandatory CC Support:** Association CC, v2
+**Mandatory CC Support:**&#x20;
 
-&#x20;                                                 Association Group Information CC
+Association CC, v2
 
-&#x20;                                                Battery CC
+Association Group Information CC
 
-&#x20;                                                Device Reset Locally CC
+Battery CC
 
-&#x20;                                                Manufacturer Specific CC, v2
+Device Reset Locally CC
 
-&#x20;                                                Version CC, v2
+Manufacturer Specific CC, v2
 
-&#x20;                                                Power Level CC
+Version CC, v2
 
-&#x20;                                                Z-Wave Plus Info CC, v2
+Power Level CC
 
-&#x20;                                                Multi-Channel Association CC, v2
+Z-Wave Plus Info CC, v2
 
-&#x20;                                                Wakeup CC
+&#x20;Multi-Channel Association CC, v2
 
-&#x20;                                                Supervision CC
+&#x20;Wakeup CC
 
-&#x20;                                                Thermostat Mode CC, v3
+&#x20;Supervision CC
 
-&#x20;                                                Thermostat Setpoint CC, v3
+Thermostat Mode CC, v3
 
-&#x20;                                                Thermostat Operating State CC
+&#x20;Thermostat Setpoint CC, v3
 
-&#x20;                                                         Sensor Multilevel CC
+Thermostat Operating State CC
 
-&#x20;                                                         Firmware Update CC, v2 (OTA version only)
+Sensor Multilevel CC
 
-_**Z-Wave Groups (Association Command Class Version 2)**_
+Firmware Update CC, v2 (OTA version only)
+
+### _**Z-Wave Groups (Association Command Class Version 2)**_
 
 Group 1 for “LifeLine”:
 
