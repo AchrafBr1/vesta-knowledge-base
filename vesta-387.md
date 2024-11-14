@@ -123,7 +123,7 @@ If the jumper is ON (the jumper link rests on both pins), the communication abil
 
 Please refer to the BUS device connection examples (VST-892-BUS & DC-23-BUS) below.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
 
 {% hint style="warning" %}
 **DEPRECATED**&#x20;
