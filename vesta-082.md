@@ -42,12 +42,12 @@ The jumper link is inserted connecting the two pins
 
 </div>
 
-The jumper link is removed or “parked” on one pin.
+The jumper link is removed or **“parked”** on one pin.
 
 * When the jumper is set as ON, the Supervision is disabled.
-* When the jumper is set as OFF, the Supervision is enabled. (Factory default)
+* When the jumper is set as OFF, the Supervision is enabled. **(Factory default)**
 
-JP2 Jumper Switch is currently not supported. Supervision is always enabled .
+**JP2 Jumper Switch is currently not supported. Supervision is always enabled** .
 
 **5.Sensitivity Increaser Jumper Switch (JP3)**
 
@@ -69,9 +69,9 @@ The jumper link is inserted connecting the two pins
 
 </div>
 
-The jumper link is removed or “parked” on one pin.
+The jumper link is removed or **“parked”** on one pin.
 
-* If the jumper is OFF, the PIRs’ detection sensitivity is in normal level. (Factory default)
+* If the jumper is OFF, the PIRs’ detection sensitivity is in normal level. **(Factory default)**
 * If the jumper is ON, the PIRs’ detection sensitivity is set to high.
 
 **6.**<mark style="background-color:blue;">**Single / Multiple-Sensor Setting Jumper Switch (JP4)**</mark>
@@ -97,7 +97,7 @@ The jumper link is inserted, connecting the two pins.
 The jumper link is removed or “**parked**” on one pin.
 
 * <mark style="background-color:blue;">Jumper OFF, Reserved.</mark>
-* <mark style="background-color:blue;">The jumper is set to ON, WADC-1 is recognized as 1 sensor (WADC). (Factory default)</mark>
+* <mark style="background-color:blue;">The jumper is set to ON, WADC-1 is recognized as 1 sensor (WADC).</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">**(Factory default)**</mark>
 
 **7.Door Open Direction Jumper Switch (JP5)**
 
@@ -128,7 +128,10 @@ Ensure JP5 is set to ON for the setting to be effective.
 
 8. **Battery Compartment**
 9. **Tamper Switch**
-10. **Magnet**
+
+When WADC-1 is mounted, the Tamper switch will be activated when the cover is opened or when the device is removed from mounted surface.
+
+8. **Magnet**
 
 ## _**Supervision Function**_
 
@@ -202,6 +205,9 @@ In Normal operation mode, the LED Indicators will flash in the following situati
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="background-color:green;">If the door where the magnet is installed is designed to be opened inward, please set JP5 to ON (Ensure JP4 is set to ON for the setting to be effective). The distance between the WADC-1 and the magnet should be no more than 5 mm when the door is closed.</mark>
+
+<figure><img src=".gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+
 * Avoid mounting WADC-1 on metallic surface. If mounting on metallic surface, make sure to test whether the Door Contact can be triggered when the door is opened.
 
 ## Mounting Method
@@ -239,3 +245,4 @@ To mount the Door Contact:
 * WADC-1 should be installed on the door frame part that is right above the door to look downward and monitor movements.
 * When mounted at a height of 2.1\~2.3 meters and facing down, the PIR sensors (PIR Zone 1 & Zone 2) each has the coverage pattern of 3 x 1 meters at ground level.
 
+<figure><img src=".gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
