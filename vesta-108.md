@@ -1,10 +1,12 @@
-# VESTA 108
+# VESTA-108
 
 Wireless Indoor Siren (SR-32 / SR-32-F1)
 
 The Indoor Siren is used to attract attention when alarm signal is received from Control Panel by activating its siren. The Siren can also alert you to tamper violation, and low battery status.
 
-* ![](<.gitbook/assets/0 (30).png>)Identifying the Parts
+## **Identifying the Parts**
+
+![](<.gitbook/assets/0 (30).png>)
 
 **1. Tamper Switch**
 
@@ -26,13 +28,13 @@ The battery switch is used when battery is installed in the Indoor Siren. To pow
 
 In addition to the Siren itself, the following accessories are also included in the package:
 
-a. 3 x large wall plugs.
+3 x large wall plugs.
 
-b. 3 x fixing screws for wall mounting
+3 x fixing screws for wall mounting
 
-c. 2 x 1.5V D alkaline batteries (pre-inserted)
+2 x 1.5V D alkaline batteries (pre-inserted)
 
-* Battery and Low Battery Detection
+## Battery and Low Battery Detection
 
 The Siren is powered by two 1.5V Alkaline D batteries, it features low battery detection and will transmit low battery signal when low battery voltage is detected.
 
@@ -45,8 +47,9 @@ When changing batteries, after removing the old batteries, press the Tamper Swit
 
 The Siren will transmit a supervisory signal every 30-50 minutes in normal operation mode. If this signal is not received, the Control Panel will indicate that the particular Siren is experiencing an out-of-order problem.
 
-* Siren Function Overview
-* **Audio & Visual Status Indication**
+## Siren Function Overview
+
+### **Audio & Visual Status Indication**
 
 While arming / disarming the system, the SR-32 uses different methods to distinguish various statuses for the user, as listed in the table.
 
@@ -62,11 +65,11 @@ While arming / disarming the system, the SR-32 uses different methods to disting
 
 **\*** The Siren Audio indication will be affected by the Confirmation ON / OFF setting. When setting Confirmation to OFF, the confirmation sound will not be available. Refer to Control Panel Siren setting for Confirmation function.
 
-* **Alarm Memory**
+### **Alarm Memory**
 
 If an alarm was triggered in your absence and the system was not disarmed before alarm length expiry, the Siren will sound a short alarm when the system is disarmed or home armed to warn the user that an alarm has been triggered when he is away. This suggests that the intruder could still be within the premises.
 
-* **Alarm Length**
+### **Alarm Length**
 
 When an alarm is activated by Control Panel, the Control Panel will notify the Siren to start alarming according to the panel’s own alarm length setting. When the Panel’s alarm length expires, it will notify the Siren to stop alarm.
 
@@ -76,7 +79,8 @@ For example:
 
 * If the Panel alarm length is set more than 15 minutes, after an alarm is activated, instead of waiting panel alarm length to expire, the Siren will stop alarming after 15 minutes.
 * If the panel is under disarm mode and the Siren\` tamper switch is triggered, the Siren will activate alarm for 15 minutes since the panel is under disarm mode and will not activate alarm from tamper trigger.
-* **Siren Tamper**
+
+### **Siren Tamper**
 
 The Siren is protected against any attempt to open the lid or to detach the Siren from its mounting surface.
 
@@ -84,9 +88,9 @@ If the Siren detects a tamper condition, it will activate the siren. A tamper si
 
 Tamper feature can be disabled temporaily from the Control Panel using Siren Tamper control function. The Siren will stop tamper detection temporarity for one hour. This function is mainly designed for replacing battery or changing Siren installation location. After one hour, The Control Panel will automatically turn the function back ON after the duration. The tamper detection can also be enabled again manually using the Siren Tamper function.
 
-* Getting Started
+## Getting Started
 
-**Learning**
+### **Learning**
 
 Step 1: Release the bottom screw of the Siren using a Phillips screwdriver and remove the top cover.
 
@@ -107,7 +111,7 @@ Step 7: Refer to the Control Panel manual and use Edit Device function to check 
 * If the learning process fails, please remove the Siren from the Control Panel and repeat Steps 4-7 again.
 * If the Siren does not receive the confirm code from the Control Panel within one minute, the Siren will leave learning mode. Restart learning process from Step 4.
 
-**Edit Siren Operation Area**
+### **Edit Siren Operation Area**
 
 Follow instruction below to change Siren Operation Area in the Control Panel
 
@@ -117,13 +121,13 @@ Step 2: Press the learn button on the Siren to send signal to panel.
 
 Step 3: When the Siren receives acknowledgement signal from panel, it will emit a beep to indicate the setting has been updated. The Siren will return to normal operation.
 
-**Programming:**
+## **Programming:**
 
-* **Sound/Siren Setting**
+### **Sound/Siren Setting**
 
 Use the Control Panel “**Sound/Siren Setting**” webpage to set siren configuration function:
 
-_**Tamper On/ Tamper Off**_
+_<mark style="color:blue;">**Tamper On/ Tamper Off**</mark>_
 
 You can enable or disable all RF Sirens’ tamper protection with this function. Select to turn on or off the siren’s tamper function.
 
@@ -131,17 +135,21 @@ You can enable or disable all RF Sirens’ tamper protection with this function.
 
 * When turned off, the Siren will stop tamper detection temporarity for one hour. After one hour, the Control Panel will automatically turn the function back ON if the tamper function is not turned on manually.
 
-**Individual Siren Function**
+### **Individual Siren Function**
 
 Edit the device editing page to enter the Siren setting and information accordingly.
 
 * **Name:** Enter a name for the Siren.
 * **Area:** Select the area which the Siren belongs to.
 * **Zone:** Select the Siren zone number.
-* _**Attribute:**_
+
+_<mark style="color:blue;">**Attribute:**</mark>_
+
 * **Permanently Bypass:** If checked, the Control Panel will completely ignore all signal received from the Siren. A bypassed Siren will not be able to trigger any response, including alarm or fault from the Control Panel. All other attribute settings will also be ignored.
 * **Whole Area:** if checked, all the Volume, Voice and Behavior functions will be simultaneously enabled in Area 1 and Area 2.
-* _**Volume:**_
+
+_<mark style="color:blue;">**Volume:**</mark>_
+
 * **Alarm Sound:** set the volume of the alarm sound of the Siren when alarming.
 * **Full arm confirm beep:** set the volume of the confirm beep sound of the Siren when Control Panel is put into Full Arm Mode.
 * **Home arm confirm beep:** set the volume of the confirm beep sound of the Siren when Control Panel is put into Home Arm Mode.
@@ -151,7 +159,9 @@ Edit the device editing page to enter the Siren setting and information accordin
 * **Entry beeps of full arm:** set entry countdown beep volume under Full Arm Mode.
 * **Entry beeps of home arm:** set entry countdown beep volume under Home Arm Mode.
 * **Door Chime:** set the volume of the Door Chime sound (Ding-Dong Sound).
-* _**Behavior**_
+
+_<mark style="color:blue;">**Behavior**</mark>_
+
 * **Burglar trigger in home arm:** Enable or Disable whether Siren is activated when an alarm is triggered under Home Arm.
 * **Burglar trigger in full arm:** Enable or Disable whether Siren is activated when an alarm is triggered under Full Arm.
 * **Strobe activation:** Enable or Disable Siren LED strobe activation.
@@ -161,7 +171,8 @@ Edit the device editing page to enter the Siren setting and information accordin
 * **Trigger flash:** Enable or Disable the flashing from the Siren LED when alarming.
 * **Alarm-in-memory sound:** Enable or Disable Alarm in Memory sound.
 * **Fault sound:** Enable or Disable system fault sounds.
-* Installation
+
+## Installation
 
 Proceed to installation after complete learning.
 
@@ -185,9 +196,9 @@ Step 7. Identify the upside down keyhole mounting hole located at upper part of 
 
 Step 8. Identify the two mounting holes at lower part of the Siren. Drill two holes and insert wall plugs if required (b), as shown in Figure 1. Make sure the wall plugs are flush with the wall.
 
-| Figure 1                                                           |
-| ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/1 (33).png" alt="" data-size="original"> |
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                                                                Figure 1
 
 Step 9. Secure the screw using a Phillips screwdriver. Make sure the Tamper Switch is fully depressed against the wall
 
@@ -197,9 +208,9 @@ Step 9. Secure the screw using a Phillips screwdriver. Make sure the Tamper Swit
 
 Step 10. Replace the Top cover and tighten the bottom screw using a Phillips screwdriver, as shown below.
 
-| Figure 2                                                           |
-| ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/2 (38).png" alt="" data-size="original"> |
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                                                           Figure 2
 
 Step 11. Enable Siren Tamper function on the Control Panel (Please refer to the Control Panel instruction manual)
 
@@ -213,7 +224,7 @@ Successful arming/disarming is indicated by the table provided in **Audio & Visu
 
 Step 13. The installation is now completed.
 
-* Changing the Battery
+## Changing the Battery
 
 Step 1: Disable the Siren Tamper function on the Control Panel. The Siren will sound a beep to indicate the tamper switch is now disabled.
 
@@ -244,7 +255,7 @@ Step 9: Replace and secure the Top cover by tightening the bottom screw using a 
 
 Step 10: Enter the Control Panel Program Siren webpage again to enable the Siren Tamper function again. The Siren will sound a beep to indicate the tamper switch is now activated.
 
-* Factory Reset
+## Factory Reset
 
 The Siren can be reset and memory contents cleared. Whenever the Siren is removed from the Control Panel, it should be put to factory reset to clear its Control Panel memory, otherwise the Siren will still raise alarm if it receives alarm signal from panel.
 
