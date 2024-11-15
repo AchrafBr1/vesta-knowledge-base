@@ -10,7 +10,7 @@ Welcome to the installation and setup manual for **SALTO** locks, models **SALTO
 
 {% tabs %}
 {% tab title="SALTO-017" %}
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-017">SALTO-017</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-017">SALTO-017</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="SALTO-15" %}
@@ -64,11 +64,11 @@ Before adding the lock to the VESTA system, it’s crucial to perform an “excl
 
 #### Step 1: Access the panel configuration from the installer APP:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Installer -> Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Installer -> Settings</p></figcaption></figure>
 
 #### Step 2: Select "Devices" in the menu.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
 
 #### Step 3: In the menu click "Exclude device".
 

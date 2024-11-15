@@ -8,7 +8,7 @@
 Wiring guide with VESTA HYBRID PANEL:&#x20;
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@ VESTA wired detectors represent the best choice for residential and industrial i
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p><img src=".gitbook/assets/image (22).png" alt="" data-size="original"></p><p>White light protection The detector is digitally filtered from white light.</p></td><td></td><td></td><td></td></tr><tr><td><p><img src=".gitbook/assets/image (21).png" alt="" data-size="original"></p><p>Full digital PIR The detector has no analog components, the full digital PIR is connected directly to the microprocessor.</p></td><td></td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (20).png" alt="" data-size="original"></td><td>High RFI protection Thanks to the total lack of traditional amplifiers, the detector has a very high RFI immunity.</td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (23).png" alt="" data-size="original"></td><td>Pet immunity All our detectors are pet immune up to 15 Kg, thanks to the new lens design combined with the digital analysis system.</td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (24).png" alt="" data-size="original"></td><td>Ultraviolet stabilization POLY IR®4 material for lenses The lens materials is POLY IR®. It offer the best combination of transmittance, environmental stability, and color of any polymer. Materials available for the 8-14 micron region of the infrared.</td><td></td><td></td></tr><tr><td><p><img src=".gitbook/assets/image (25).png" alt="" data-size="original"></p><p>LODIFF® Fresnel Lens Technology The lens array is made by tiling pieces of LODIFF® lenses. These lenses offer significantly improved performance over typical constant-groove-width Fresnel.</p></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p><img src=".gitbook/assets/image (22) (1).png" alt="" data-size="original"></p><p>White light protection The detector is digitally filtered from white light.</p></td><td></td><td></td><td></td></tr><tr><td><p><img src=".gitbook/assets/image (21) (1).png" alt="" data-size="original"></p><p>Full digital PIR The detector has no analog components, the full digital PIR is connected directly to the microprocessor.</p></td><td></td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (20) (1).png" alt="" data-size="original"></td><td>High RFI protection Thanks to the total lack of traditional amplifiers, the detector has a very high RFI immunity.</td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (23) (1).png" alt="" data-size="original"></td><td>Pet immunity All our detectors are pet immune up to 15 Kg, thanks to the new lens design combined with the digital analysis system.</td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/image (24) (1).png" alt="" data-size="original"></td><td>Ultraviolet stabilization POLY IR®4 material for lenses The lens materials is POLY IR®. It offer the best combination of transmittance, environmental stability, and color of any polymer. Materials available for the 8-14 micron region of the infrared.</td><td></td><td></td></tr><tr><td><p><img src=".gitbook/assets/image (25) (1).png" alt="" data-size="original"></p><p>LODIFF® Fresnel Lens Technology The lens array is made by tiling pieces of LODIFF® lenses. These lenses offer significantly improved performance over typical constant-groove-width Fresnel.</p></td><td></td><td></td><td></td></tr></tbody></table>
 
 ### INSTALLATION PROCEDURE
 
@@ -32,9 +32,9 @@ VESTA wired detectors represent the best choice for residential and industrial i
 * slide the cable into the back seat, and out of the top hole
 * Wire up the terminals following the connections shown in figure.
 
-<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption><p>Fig. 1</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (26) (1).png" alt=""><figcaption><p>Fig. 1</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption><p>Fig. 2 </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Fig. 2 </p></figcaption></figure>
 
 
 
@@ -84,20 +84,20 @@ BS: terminal for remote LED control and MW&#x20;
 
 DT2AM + and - = SUPPLY: power supply 9 - 15Vcc @ 27 mA nominal
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption><p>Datasheet</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (31) (1).png" alt=""><figcaption><p>Datasheet</p></figcaption></figure>
 
 \
 SIDE VIEW
 
 
 
-<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

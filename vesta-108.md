@@ -196,7 +196,7 @@ Step 7. Identify the upside down keyhole mounting hole located at upper part of 
 
 Step 8. Identify the two mounting holes at lower part of the Siren. Drill two holes and insert wall plugs if required (b), as shown in Figure 1. Make sure the wall plugs are flush with the wall.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                                                Figure 1
 
@@ -208,7 +208,7 @@ Step 9. Secure the screw using a Phillips screwdriver. Make sure the Tamper Swit
 
 Step 10. Replace the Top cover and tighten the bottom screw using a Phillips screwdriver, as shown below.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                                           Figure 2
 
