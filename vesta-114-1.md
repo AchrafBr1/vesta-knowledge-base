@@ -134,41 +134,6 @@ For example, for KP-35-COMBO-**B** in the picture below, it is the farthest devi
 * When in wireless mode, the wired/wireless keypad will automatically transmit Supervision Signals to the Control Panel at an interval of 30-50 minutes.
 * If the Control Panel has not received the signal from the wired/wireless keypad for a preset period of time, the Control Panel will consider the wired/wireless keypad out of order and react according to panel setting.
 
-### _RFID Configure_&#x20;
-
-This function is for you to manage your RFID device (Tag)&#x20;
-
-### RFID Learn:&#x20;
-
-Up to 60 Tags can be learnt into the Remote Keypad. To learn the new RFID device into the Remote Keypad:
-
-1. In the User Menu, choose Setting > RFID Config > RFID Learn.
-2. Use ![](<.gitbook/assets/image (3).png>) and ![](<.gitbook/assets/image (4).png>)key to select the RFID # you want to use for learning new RFID, and then press the OK key to confirm selection.
-3. “Apply RFID” will be displayed on the LCD screen. Please put the tag close to the RFID sensor within 5 seconds.
-4. When the Keypad detects the Tag, a long beep will be emitted, and the LCD display will prompt you to enter a PIN Code. Please enter a PIN Code for the tag, and press the OK key to confirm setting.
-5. Learning is now complete. The Tag information has been added into the Keypad with corresponding PIN Code. You can now use the Tag to Arm/Home Arm/Disarm the Control Panel through the Remote Keypad.
-
-_\<NOTE>_
-
-* If a tag you wish to learn already exists in the Keypad, 2 beeps will be emitted when the Keypad detects the tag, and “RFID already Exist” will be displayed on the LCD screen.&#x20;
-* When a RFID # that has been used for learning is selected, the corresponding PIN Code will be displayed on the LCD, allowing the user to edit the PIN Code directly.&#x20;
-* The PIN Code length should be 4-6 digits. If you enter a PIN Code less than 4 digits, and press the OK key, the Keypad will emit 4 beeps, and “Incorrect PIN Code!" will be displayed on the LCD screen.
-
-### RFID Delete:&#x20;
-
-To remove RFID devices stored in the Keypad:
-
-1. In the User Menu, choose Setting > RFID Config > RFID Delete.
-2. Use  and  key to select the RFID # for the RFID tag you want to remove, and then press the OK key to confirm selection.
-3. “Are you sure” will be displayed on the LCD. Press the OK key delete the tag.
-4. If you are not sure of the RFID # for the RFID tag you want to remove, put the tag you want to remove close to the RFID sensor. “Are you sure” will be displayed on the LCD. Press the OK key delete the tag.
-
-_\<NOTE>_
-
-* If a tag you wish to remove does not exist in the Keypad, “Incorrect RFID” will be displayed on the LCD screen when you swipe the tag.
-
-
-
 ## _**Joining the System Network**_
 
 ### **Wireless Operation:**
@@ -192,42 +157,33 @@ In addition to the wireless operation to join the system network as stated above
 
 **Step 2.** Choose a located area and a free zone to join the system network.
 
-**C h o o s e** **A r e a & Z o n e**
+**Choose** **Area & Zone**
 
-**A n d** **E n t e r** **C o d e s**
+**And**  **Enter Codes**
 
-* **A r e a 1 A r e a 2**
-* **Z o n e 1 Z o n e 3**
+* **Area 1**&#x20;
+
+&#x20;      **Area 2**
+
+* **Zone 1**&#x20;
+
+&#x20;      **Zone 3**
 
 **Step 3.** Enter the PIN Code of the located area.
 
-**E n t**
-
-**e r**
-
-**P I N**
-
-**C o d e**
+**Enter PIN Code**
 
 **Step 4.** Enter Installer Code. (Factory Default: 7982)
 
-**E n t**
-
-**e r**
-
-**I**
-
-**-**
-
-**C o d e**
+**Enter -I Code**
 
 **Step 5.** The keypad is added to the located area and the zone you chose.
 
-**A d d e d** **K e y p a d** **T o**
+**Added** **Keypad** **To**
 
-**A r e a 1** **Z o n e 1**
+**Area 1** **Zone 1**
 
-* _**Identification**_
+## _**Identification**_
 
 The “**Identify**” function is used to localize a specific wired device in the whole wired system. This function is helpful in distinguishing which device is which especially in a large installation where numerous wired devices are included.
 
@@ -239,27 +195,22 @@ To locate KP-35-Combo in the wired system:
 
 _\<NOTE>_
 
-*
-  *
-    * If a timeout message is displayed on the webpage, it means the wired/wireless keypad did not receive the signal from the Panel.
+* If a timeout message is displayed on the webpage, it means the wired/wireless keypad did not receive the signal from the Panel.
 
 Please check whether KP-35-Combo is connected properly to the Panel within appropriate wiring distance.
 
-* _**Area Status Check**_
-  * The wired/wireless keypad allows the user to check the status mode of each area. When the Control Panel is under stand-by mode, press the OK key and the current status of each area will be displayed on the LCD screen for 3 seconds.
+### _**Area Status Check**_
 
- There are three different statuses: A = Away Armed / H = Home Armed / D = System Disarmed.
-
+* The wired/wireless keypad allows the user to check the status mode of each area. When the Control Panel is under stand-by mode, press the OK key and the current status of each area will be displayed on the LCD screen for 3 seconds.
+* There are three different statuses: A = Away Armed / H = Home Armed / D = System Disarmed.
 * A question mark “?” will be displayed if the area status cannot be identified.
 * Example:
 
-4
+<table><thead><tr><th width="26"></th><th width="26">1</th><th width="44">2</th><th width="44">3</th><th width="45">4</th><th width="43">5</th><th width="43">6</th><th width="43">7</th><th width="44">8</th><th width="26"></th></tr></thead><tbody><tr><td></td><td>A</td><td>H</td><td>D</td><td>?</td><td>D</td><td>H</td><td>?</td><td>?</td><td></td></tr></tbody></table>
 
-|   | **1** | **\|** | **2** | **\|** | **3** | **\|** | **4** | **\|** | **5** | **\|** | **6** | **\|** | **7** | **\|** | **8** |
-| - | ----- | ------ | ----- | ------ | ----- | ------ | ----- | ------ | ----- | ------ | ----- | ------ | ----- | ------ | ----- |
-|   | **A** | **\|** | **H** | **\|** | **D** | **\|** | **?** | **\|** | **D** | **\|** | **H** | **\|** | **?** | **\|** | **?** |
 
-* _**System Mode Change**_
+
+### _**System Mode Change**_
 
 Users can use the keypad to change the system mode via a PIN code.
 
@@ -267,23 +218,19 @@ Users can use the keypad to change the system mode via a PIN code.
 
 After entering the PIN code, press the **Arm/Home Arm/OK** key to enter **Away Armed/Home Armed/System Disarmed** mode.
 
-*
-  * When the system mode is changed to disarmed mode, the LCD will show “Area No. Alarm Memory” and Yellow LED will flash once every 3 seconds with 5 beeps if there is/are alarm(s) triggered before. Users can manually enter User Menu to view the alarm memory (please refer to User Menu section below for details).
-  * **Quick Arm Function:** Users can enter Setting Menu to activate the Quick Arm Function (Choose **Setting > Quick Arm > Enable**, and then press OK), which will allow users to change the mode by pressing the Arm key or the Home Arm key without entering the PIN code. To disarm the system, users still need to enter the PIN code.
-  * After entering User Menu with the system disarmed, users can also select **Away Arm** or **Home Arm**, and press OK to change the system mode.
-* _**User Menu**_
-  * The keypad will communicate with the system to retrieve information before entering User Menu. The following options will be displayed on LCD screen for selection. Use **** and **** keys to select and press the **OK** key to confirm your selection.
-  * To enter User Menu, press and hold “**＊**” for 2 seconds in idle mode of the keypad when the system of the area where KP-35-Combo is located is already in **Disarmed mode**.
-  * The keypad will exit User Menu automatically after 20 seconds of inactivity.
+* When the system mode is changed to disarmed mode, the LCD will show “Area No. Alarm Memory” and Yellow LED will flash once every 3 seconds with 5 beeps if there is/are alarm(s) triggered before. Users can manually enter User Menu to view the alarm memory (please refer to User Menu section below for details).
+* **Quick Arm Function:** Users can enter Setting Menu to activate the Quick Arm Function (Choose **Setting > Quick Arm > Enable**, and then press OK), which will allow users to change the mode by pressing the Arm key or the Home Arm key without entering the PIN code. To disarm the system, users still need to enter the PIN code.
+* After entering User Menu with the system disarmed, users can also select **Away Arm** or **Home Arm**, and press OK to change the system mode.
 
-|   | **A** | **w** | **a** | **y** |       | **A** | **r** | **m** |       |       |       |       |       |   |   |
-| - | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | - | - |
-|   | **H** | **o** | **m** | **e** |       | **A** | **r** | **m** |       |       |       |       |       |   |   |
-|   | **A** | **l** | **a** | **r** | **m** |       | **M** | **e** | **m** | **o** | **r** | **y** |       |   |   |
-|   | **F** | **a** | **u** | **l** | **t** |       | **D** | **i** | **s** | **p** | **l** | **a** | **y** |   |   |
-|   | **L** | **o** | **g** |       |       |       |       |       |       |       |       |       |       |   |   |
-|   | **B** | **y** | **p** | **a** | **s** | **s** |       |       |       |       |       |       |       |   |   |
-|   | **S** | **e** | **t** | **t** | **i** | **n** | **g** |       |       |       |       |       |       |   |   |
+## _**User Menu**_
+
+* The keypad will communicate with the system to retrieve information before entering User Menu. The following options will be displayed on LCD screen for selection. Use **** and **** keys to select and press the **OK** key to confirm your selection.
+* To enter User Menu, press and hold “**＊**” for 2 seconds in idle mode of the keypad when the system of the area where KP-35-Combo is located is already in **Disarmed mode**.
+* The keypad will exit User Menu automatically after 20 seconds of inactivity.
+
+<table><thead><tr><th width="26"></th><th width="48">A</th><th width="48">w</th><th width="45">a</th><th width="46">y</th><th width="26"></th><th width="26"></th><th width="26"></th><th width="26"></th><th width="44">A</th><th width="26">r</th><th width="26">m</th><th width="26"></th><th width="26"></th><th width="26"></th><th width="26"></th></tr></thead><tbody><tr><td></td><td>H</td><td>o</td><td>m </td><td>e</td><td></td><td></td><td></td><td></td><td>A</td><td>r</td><td>m</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>A</td><td>l</td><td>a</td><td>r</td><td>m</td><td></td><td></td><td></td><td>M</td><td>e</td><td>m</td><td>o</td><td>r</td><td>y</td><td></td></tr><tr><td></td><td>F</td><td>a</td><td>u</td><td>l</td><td>t</td><td></td><td></td><td></td><td>M</td><td>e</td><td>m</td><td>o</td><td>r</td><td>y</td><td></td></tr><tr><td></td><td>L</td><td>o</td><td>g</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>B</td><td>y</td><td>p</td><td>a</td><td>s</td><td>s</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>S</td><td>e</td><td>t</td><td>t</td><td>i</td><td>n</td><td>g</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
 
 * **Away Arm:** Select “Away Arm” and press the OK key to change the system mode to “Away Armed”.
 * **Home Arm:** Select “Home Arm” and press the OK key to change the system mode to “Home Armed”.
@@ -298,16 +245,15 @@ _\<NOTE>_
   * **Bypass:** This function is only available under wired connection. “Enter M. Code” will be shown on the LCD screen (default M. Code is **1111**). The Panel will ignore all signals received from the device being bypassed and not respond at all when such device is triggered.
   * **Setting:** For wireless connection, after entering Unser Menu, input the default M. code “**1111**” to enter the setting menu. For wired connection, input the default I. code “**7982**” to enter the setting menu. Use  and  keys to select setting options and press key to return to User Menu.
 
-|   | **B** | **e** | **e** | **p** |       | **C** | **o** | **n** | **t** | **r** | **o** | **l** |       |       |   |
-| - | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | - |
-|   | **P** | **a** | **n** | **i** | **c** |       | **A** | **l** | **a** | **r** | **m** |       |       |       |   |
-|   | **F** | **i** | **r** | **e** |       | **A** | **l** | **a** | **r** | **m** |       |       |       |       |   |
-|   | **M** | **e** | **d** | **i** | **c** | **a** | **l** |       | **A** | **l** | **a** | **r** | **m** |       |   |
-|   | **Q** | **u** | **i** | **c** | **k** |       | **A** | **r** | **m** |       |       |       |       |       |   |
-|   | **L** | **a** | **n** | **g** | **u** | **a** | **g** | **e** |       |       |       |       |       |       |   |
-|   | **C** | **h** | **a** | **n** | **g** | **e** |       | **M** | **.** |       | **C** | **o** | **d** | **e** |   |
+
+
+
+
+
 
 * **Language:** Select “Language” and press OK to enter language menu. Use  and  keys to select the language for display, and press key to return to User Menu.
+
+
 
 **E n g l i s h**
 
