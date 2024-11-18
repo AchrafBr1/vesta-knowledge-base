@@ -68,7 +68,7 @@
 * [VESTA-108](vesta-108.md)
 * [VESTA-109](vesta-109.md)
 * [VESTA-110](vesta-110.md)
-* [VESTA 114](vesta-114-1.md)
+* [VESTA-114](vesta-114-1.md)
 * [VESTA 114](vesta-114-2.md)
 * [VESTA 114](vesta-114.md)
 * [VESTA 125](vesta-125.md)

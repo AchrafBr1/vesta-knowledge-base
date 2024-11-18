@@ -1,4 +1,4 @@
-# VESTA 114
+# VESTA-114
 
 **WIRED/WIRELESS COMBO KEYPAD (KP-35-COMBO)**
 
@@ -224,110 +224,124 @@ After entering the PIN code, press the **Arm/Home Arm/OK** key to enter **Away A
 
 ## _**User Menu**_
 
-* The keypad will communicate with the system to retrieve information before entering User Menu. The following options will be displayed on LCD screen for selection. Use **** and **** keys to select and press the **OK** key to confirm your selection.
-* To enter User Menu, press and hold “**＊**” for 2 seconds in idle mode of the keypad when the system of the area where KP-35-Combo is located is already in **Disarmed mode**.
+* The keypad will communicate with the system to retrieve information before entering User Menu. The following options will be displayed on LCD screen for selection. Use ![](<.gitbook/assets/image (125).png>) and ![](<.gitbook/assets/image (126).png>) keys to select and press the **OK** key to confirm your selection.
+* To enter User Menu, press and hold “![](<.gitbook/assets/image (124).png>)” for 2 seconds in idle mode of the keypad when the system of the area where KP-35-Combo is located is already in **Disarmed mode**.
 * The keypad will exit User Menu automatically after 20 seconds of inactivity.
 
-<table><thead><tr><th width="26"></th><th width="48">A</th><th width="48">w</th><th width="45">a</th><th width="46">y</th><th width="26"></th><th width="26"></th><th width="26"></th><th width="26"></th><th width="44">A</th><th width="26">r</th><th width="26">m</th><th width="26"></th><th width="26"></th><th width="26"></th><th width="26"></th></tr></thead><tbody><tr><td></td><td>H</td><td>o</td><td>m </td><td>e</td><td></td><td></td><td></td><td></td><td>A</td><td>r</td><td>m</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>A</td><td>l</td><td>a</td><td>r</td><td>m</td><td></td><td></td><td></td><td>M</td><td>e</td><td>m</td><td>o</td><td>r</td><td>y</td><td></td></tr><tr><td></td><td>F</td><td>a</td><td>u</td><td>l</td><td>t</td><td></td><td></td><td></td><td>M</td><td>e</td><td>m</td><td>o</td><td>r</td><td>y</td><td></td></tr><tr><td></td><td>L</td><td>o</td><td>g</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>B</td><td>y</td><td>p</td><td>a</td><td>s</td><td>s</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>S</td><td>e</td><td>t</td><td>t</td><td>i</td><td>n</td><td>g</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+**Away Arm**
 
+**Home Arm**
 
+**Alarm Memory**
+
+**Fault Memory**
+
+**Log**
+
+**Bypass**
+
+**Setting**
 
 * **Away Arm:** Select “Away Arm” and press the OK key to change the system mode to “Away Armed”.
 * **Home Arm:** Select “Home Arm” and press the OK key to change the system mode to “Home Armed”.
-* **Alarm Memory:** This option will become available after an alarm is triggered. Entering User Menu will be directed to the Alarm Memory option automatically. Press **OK** to confirm the selection, and then use **** and **** keys to view the alarm memory.
-* **Fault Display:** This option will become available when fault event exists in the system. To view fault events, select “Fault Display” and press OK to confirm the selection. Use  and  keys to view the fault events and press key to return to User Menu.
+* **Alarm Memory:** This option will become available after an alarm is triggered. Entering User Menu will be directed to the Alarm Memory option automatically. Press **OK** to confirm the selection, and then use ![](<.gitbook/assets/image (119).png>) and ![](<.gitbook/assets/image (120).png>) keys to view the alarm memory.
+* **Fault Display:** This option will become available when fault event exists in the system. To view fault events, select “Fault Display” and press OK to confirm the selection. Use ![](<.gitbook/assets/image (121).png>) and ![](<.gitbook/assets/image (122).png>) keys to view the fault events and press ![](<.gitbook/assets/image (123).png>) key to return to User Menu.
 
 _\<NOTE>_
 
 * The Yellow LED will flash once every 3 seconds when any fault situation is detected, and turn to OFF when all fault situations are cleared.
 * If you try to arm the system when fault event exists, the arming will be prohibited and the LCD screen will jump to Fault Display. If you want to forcibly arm the system, perform the arm action again within 30 seconds. The system will ignore the fault event and enter your selected arm mode.
-  * **Log**: Select “Log” and press OK to view the system log. Use  and  keys to view the events and press key to return to User Menu.
-  * **Bypass:** This function is only available under wired connection. “Enter M. Code” will be shown on the LCD screen (default M. Code is **1111**). The Panel will ignore all signals received from the device being bypassed and not respond at all when such device is triggered.
-  * **Setting:** For wireless connection, after entering Unser Menu, input the default M. code “**1111**” to enter the setting menu. For wired connection, input the default I. code “**7982**” to enter the setting menu. Use  and  keys to select setting options and press key to return to User Menu.
+* **Log**: Select “Log” and press OK to view the system log. Use ![](<.gitbook/assets/image (116).png>) and ![](<.gitbook/assets/image (117).png>) keys to view the events and press ![](<.gitbook/assets/image (118).png>) key to return to User Menu.
+* **Bypass:** This function is only available under wired connection. “Enter M. Code” will be shown on the LCD screen (default M. Code is **1111**). The Panel will ignore all signals received from the device being bypassed and not respond at all when such device is triggered.
+* **Setting:** For wireless connection, after entering Unser Menu, input the default M. code “**1111**” to enter the setting menu. For wired connection, input the default I. code “**7982**” to enter the setting menu. Use ![](<.gitbook/assets/image (114).png>) and ![](<.gitbook/assets/image (115).png>) keys to select setting options and press key to return to User Menu.
 
+**Beep Control**
 
+**Panic Alarm**
 
+**Fire Alarm**
 
+**Medical Alarm**
 
+**Quick Arm**
 
+**Language**
 
-* **Language:** Select “Language” and press OK to enter language menu. Use  and  keys to select the language for display, and press key to return to User Menu.
+**Change M. Code**
 
+* **Language:** Select “Language” and press OK to enter language menu. Use ![](<.gitbook/assets/image (112).png>) and ![](<.gitbook/assets/image (113).png>) keys to select the language for display, and press key to return to User Menu.
 
+**English**
 
-**E n g l i s h**
+**Español**
 
-**E s p a ñ o l**
+**Portugues**
 
-5
+**Français**
 
-|   | **P** | **o** | **r** | **t** | **u** | **g** | **u** | **ê** | **s** |       |   |   |   |   |   |
-| - | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | - | - | - | - | - |
-|   | **f** | **r** | **a** | **n** | **ç** | **a** | **i** | **s** |       |       |   |   |   |   |   |
-|   | **D** | **e** | **u** | **t** | **s** | **c** | **h** | **e** |       |       |   |   |   |   |   |
-|   | **L** | **t** | **a** | **l** | **i** | **a** | **n** | **o** |       |       |   |   |   |   |   |
-|   | **N** | **e** | **d** | **e** | **r** | **l** | **a** | **n** | **d** | **s** |   |   |   |   |   |
+**Deutsche**
 
-*
-  * **Change M. Code:** This function is only available under wireless connection. The default M. code is 1111. Users can change it manually, and only when the correct M. Code is entered can the user enter the setting menu.
-* _**Mode Change Result**_
-  *
-    * **Away Armed:** When the system changes to “Away Armed” mode, “Area No. Away Armed” will be displayed on the LCD screen along with a long beep indicating successful operation.
-    * **Home Armed:** When the system changes to “Home Armed” mode, “Area No. Home Armed” will be displayed on the LCD screen along with 3 beeps indicating successful operation.
-    * **System Disarmed:** When the system changes to “System Disarmed” mode, “Area No. System Disarmed” will be displayed on the LCD screen along with 2 beeps indicating successful operation.
-    * **Exit/Entry Delay:** When the Entry/Exit delay timer is enabled in the Control Panel, and the Entry/Exit Beep function is enabled on the wired/wireless keypad, the wired/wireless keypad will count down with the system when Entry/Exit delay timer begins. "Counting Down Area No.” will be displayed on the LCD screen for 10 seconds. The green LED will also light up for 10 seconds along with 1 beep every second. After 10 seconds, the LCD screen and the green LED will turn off, but the warning beeps will continue with the system count down.
-    * **Operation Error:** “Operation Error” will be displayed on the LCD screen along with 2 beeps indicating unsuccessful operation; for instance, when you submit the mode change request from **Away Arm** to **Home Arm** mode.
-    * **Fault Display**: When the system arms with fault, “Fault Display” will be displayed on the LCD screen along with 3 beeps indicating arming fault.
-    * **Incorrect PIN Code:** When incorrect password is submitted, “Incorrect PIN Code” will be displayed on the LCD screen along with 4 beeps indicating wrong password entered.
+**Italiano**
+
+**Nerderlands**
+
+### **Change M. Code:**&#x20;
+
+This function is only available under wireless connection. The default M. code is 1111. Users can change it manually, and only when the correct M. Code is entered can the user enter the setting menu.
+
+### _**Mode Change Result**_
+
+* **Away Armed:** When the system changes to “Away Armed” mode, “Area No. Away Armed” will be displayed on the LCD screen along with a long beep indicating successful operation.
+* **Home Armed:** When the system changes to “Home Armed” mode, “Area No. Home Armed” will be displayed on the LCD screen along with 3 beeps indicating successful operation.
+* **System Disarmed:** When the system changes to “System Disarmed” mode, “Area No. System Disarmed” will be displayed on the LCD screen along with 2 beeps indicating successful operation.
+* **Exit/Entry Delay:** When the Entry/Exit delay timer is enabled in the Control Panel, and the Entry/Exit Beep function is enabled on the wired/wireless keypad, the wired/wireless keypad will count down with the system when Entry/Exit delay timer begins. "Counting Down Area No.” will be displayed on the LCD screen for 10 seconds. The green LED will also light up for 10 seconds along with 1 beep every second. After 10 seconds, the LCD screen and the green LED will turn off, but the warning beeps will continue with the system count down.
+* **Operation Error:** “Operation Error” will be displayed on the LCD screen along with 2 beeps indicating unsuccessful operation; for instance, when you submit the mode change request from **Away Arm** to **Home Arm** mode.
+* **Fault Display**: When the system arms with fault, “Fault Display” will be displayed on the LCD screen along with 3 beeps indicating arming fault.
+* **Incorrect PIN Code:** When incorrect password is submitted, “Incorrect PIN Code” will be displayed on the LCD screen along with 4 beeps indicating wrong password entered.
 
 _\<NOTE>_
 
-*
-  * After the mode change request is submitted, if no signal is received from the Control Panel, the keypad will return to stand-by mode within 15 seconds.
-  * If there are 5 incorrect PIN Code attempts within 10 minutes, the wired/wireless keypad will be automatically locked up for 5 minutes. During this period, any operation will be invalid. When the lockup time expires, the wired/wireless keypad will emit. 1 long beep.
-* _**Dual Key Alarm Functions**_
-  *
-    * The dual-key function is disabled by default. To enable it, enter the setting menu of the wired/wireless keypad to set alarm triggers (Choose **Setting > Panic Alarm/Fire Alarm/Medical Alarm > Enable**, and then press OK).
-    * Panic Alarm: Press “1 + 3” to trigger a Panic Alarm.
-    * Fire Alarm: Press “4 + 6” to trigger a Fire Alarm.
-    * Medical Alarm: Press “7 + 9” to trigger a Medical Alarm.
-    * When an alarm is triggered, “Alarm! Alarm!” will be displayed on the LCD screen, and the green LED will light up for
+* After the mode change request is submitted, if no signal is received from the Control Panel, the keypad will return to stand-by mode within 15 seconds.
+* If there are 5 incorrect PIN Code attempts within 10 minutes, the wired/wireless keypad will be automatically locked up for 5 minutes. During this period, any operation will be invalid. When the lockup time expires, the wired/wireless keypad will emit. 1 long beep.
 
-10 seconds.
+### _**Dual Key Alarm Functions**_
 
-* _**Beep Control:**_
+* The dual-key function is disabled by default. To enable it, enter the setting menu of the wired/wireless keypad to set alarm triggers (Choose **Setting > Panic Alarm/Fire Alarm/Medical Alarm > Enable**, and then press OK).
+* Panic Alarm: Press “1 + 3” to trigger a Panic Alarm.
+* Fire Alarm: Press “4 + 6” to trigger a Fire Alarm.
+* Medical Alarm: Press “7 + 9” to trigger a Medical Alarm.
+* When an alarm is triggered, “Alarm! Alarm!” will be displayed on the LCD screen, and the green LED will light up for 10 seconds.
+
+### _**Beep Control:**_
 
 This function is for you to set the keypad warning beep functions.
 
-*
-  * **Entry/Exit Beep:** The function is disabled by default. To enable it, please choose **Setting > Beep Control > Entry/Exit Beep > Enable** in User Menu, and press OK to confirm the setting. The duration of Entry/Exit Beep lasts for 4 minutes at most.
-  * **Alarm Beep:** The function is disabled by default. To enable it, please choose **Setting > Beep Control > Alarm Beep > Enable** in User Menu, and press OK to confirm the setting. The duration of Alarm Beep lasts for 15 minutes at most.
-* _**Fault Conditions**_
+* **Entry/Exit Beep:** The function is disabled by default. To enable it, please choose **Setting > Beep Control > Entry/Exit Beep > Enable** in User Menu, and press OK to confirm the setting. The duration of Entry/Exit Beep lasts for 4 minutes at most.
+* **Alarm Beep:** The function is disabled by default. To enable it, please choose **Setting > Beep Control > Alarm Beep > Enable** in User Menu, and press OK to confirm the setting. The duration of Alarm Beep lasts for 15 minutes at most.
+
+## _**Fault Conditions**_
 
 _When the wired/wireless keypad is under **NORMAL OPERATION MODE,**_
 
-*
-  *
-    * If the Control Panel is in Away Armed mode, you CANNOT activate Home Armed Mode by the wired/wireless keypad. If you do so, the wired/wireless keypad will emit 2 beeps indicating the Control Panel is in Away Armed mode.
-    * When any fault situation is detected, the Yellow LED will flash once every 3 seconds. The Yellow LED behavior is decided by the Control Panel.
-    * If there are 5 incorrect PIN Code attempts within 10 minutes, the wired/wireless keypad will be automatically locked up for 5 minutes. During this period, any operation will be invalid. When the lockup time expires, the wired/wireless keypad will emit 1 long beep.
-* _**Change of Batteries**_
-  1. Go to the Control Panel programming menu to bypass the KP tamper alarm.
-  2. Dismount the wired/wireless keypad.
-  3. Take out the two used batteries and press the tamper switch for more than 3 seconds to fully discharge before inserting new batteries. Do not mix new and used batteries.
-  4. Take out the used battery and press the tamper switch to discharge before putting in new batteries.
-  5. Screw back the wired/wireless keypad to the mounting surface with the mounting screws.
+* If the Control Panel is in Away Armed mode, you CANNOT activate Home Armed Mode by the wired/wireless keypad. If you do so, the wired/wireless keypad will emit 2 beeps indicating the Control Panel is in Away Armed mode.
+* When any fault situation is detected, the Yellow LED will flash once every 3 seconds. The Yellow LED behavior is decided by the Control Panel.
+* If there are 5 incorrect PIN Code attempts within 10 minutes, the wired/wireless keypad will be automatically locked up for 5 minutes. During this period, any operation will be invalid. When the lockup time expires, the wired/wireless keypad will emit 1 long beep.
 
-6
+## _**Change of Batteries**_
 
-*
-  1. Put the Control Panel back to normal operation mode.
-* _**Reset the Wired/Wireless Keypad to Factory Default**_
+1. Go to the Control Panel programming menu to bypass the KP tamper alarm.
+2. Dismount the wired/wireless keypad.
+3. Take out the two used batteries and press the tamper switch for more than 3 seconds to fully discharge before inserting new batteries. Do not mix new and used batteries.
+4. Take out the used battery and press the tamper switch to discharge before putting in new batteries.
+5. Screw back the wired/wireless keypad to the mounting surface with the mounting screws.
+6. Put the Control Panel back to normal operation mode.
+
+## _**Reset the Wired/Wireless Keypad to Factory Default**_
 
 The wired/wireless keypad can be reset to clear all learnt-in data and return all settings to the default values by the steps below:
 
 1. Please follow _**Change of Battery**_ steps for factory default.
-2. Within 10 seconds after inserting batteries, enter “0000”. When the last digit of “0000” turns into “” on the LCD screen, press “#” to reset the wired/wireless keypad to the default values.
+2. Within 10 seconds after inserting batteries, enter “0000”. When the last digit of “0000” turns into “ ![](<.gitbook/assets/image (111).png>)” on the LCD screen, press “#” to reset the wired/wireless keypad to the default values.
 3. “Reset Default” will be displayed on the LCD screen along with 3 beeps indicating successful operation.
 4. All learnt-in data will be cleared.
 5. Entry/ Exit Beeps will be disabled.
@@ -336,9 +350,8 @@ The wired/wireless keypad can be reset to clear all learnt-in data and return al
 
 _\<NOTE>_
 
-*
-  * Factory default setting can only be performed within 10 seconds after inserting the batteries. If the keypad does not wake up within 10 seconds after inserting the batteries, remove the batteries and try again.
-  * Whenever the keypad is removed from the Control Panel, it should be put to factory default as well to clear its Control Panel memory.
+* Factory default setting can only be performed within 10 seconds after inserting the batteries. If the keypad does not wake up within 10 seconds after inserting the batteries, remove the batteries and try again.
+* Whenever the keypad is removed from the Control Panel, it should be put to factory default as well to clear its Control Panel memory.
 * _**Mounting the Wired/Wireless Keypad**_
 
 To mount the wired/wireless keypad:
@@ -350,4 +363,3 @@ To mount the wired/wireless keypad:
 5. Re-place the front cover onto the back cover. Screw the cover fixing screw.
 6. The installation is now complete.
 
-7
