@@ -1,14 +1,12 @@
 # VESTA 114
 
-![](<.gitbook/assets/0 (6).jpeg>)**WIRED/WIRELESS COMBO KEYPAD (KP-35-COMBO)**
+**WIRED/WIRELESS COMBO KEYPAD (KP-35-COMBO)**
 
 KP-35-COMBO is a hardwired and wireless keypad designed to have quick access control of the system control panel. The keypad can send wired and wireless signals to and receive signals from the Control Panel within wire distance, depending on the wire gauge and the total power consumption of all wired devices. The LCD screen will display information the system control panel sends back.
 
 The wired/wireless keypad can either be mounted on a flat surface or a wall with screws. It also has a tamper protection switch which will be activated upon any unauthorized attempt to open the back cover.
 
-![](<.gitbook/assets/1 (8).jpeg>)
-
-* **Parts Identification**
+## **Parts Identification**
 
 ![](<.gitbook/assets/2 (8).jpeg>)
 
@@ -44,68 +42,75 @@ BUS Terminal on the Control Panel. Up to four KP-35-Combos can be _**Keypad Wiri
 2. **Terminal Resistor Jumper Switch**
    * When the keypad is connected as the furthest BUS device on a BUS line, please set the keypad's terminal resistor jumper and the first BUS device’s Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/4 (7).jpeg>) ![](<.gitbook/assets/5 (5).jpeg>)
+<div align="left">
+
+<img src=".gitbook/assets/4 (7).jpeg" alt="">
+
+ 
+
+<img src=".gitbook/assets/5 (5).jpeg" alt="">
+
+</div>
 
 **Jumper On**
-
-![](<.gitbook/assets/6 (5).jpeg>)
 
 If the jumper is ON, the communication ability will be enhanced.
 
 **Jumper Off**
 
-![](<.gitbook/assets/7 (5).jpeg>)
+<div align="left">
+
+<img src=".gitbook/assets/7 (5).jpeg" alt="">
+
+</div>
 
 If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
 
-1. **Tamper Switch**
-2. **Mounting Holes x 4**
-3. **Bottom Fixing Screw x 1**
+**Tamper Switch**
 
-1
+**Mounting Holes x 4**
 
-![](<.gitbook/assets/8 (6).jpeg>)**Caution**
+**Bottom Fixing Screw x 1**
+
+## **Caution**
 
 * Wiring of the wired/wireless keypad should only be performed by certified technicians with proper knowledge and training in electric equipment.
 * Before installation or any maintenance work, make sure the power supply of the Control Panel has been disconnected.
 
-**Features**
+## **Features**
 
-* _**Power Supply**_
+### _**Power Supply**_
 
 When KP-35-Combo is hardwired to Control Panel, 13.5V (typical) power supply can be provided by the Control Panel to KP-35-Combo.
 
-![](<.gitbook/assets/9 (3).jpeg>)
+### _**Battery and Low Battery Detection**_
 
-* _**Battery and Low Battery Detection**_
-  * Two L91 1.5V AA lithium batteries can be installed inside the battery compartment to serve as a backup power source in case of power failure. Prior to inserting batteries, ensure correct battery placement to protect your device.
-  * The wired/wireless keypad can also monitor the battery life. When batteries are low in power, a low battery signal will be sent along with regular signal transmission to the Control Panel to alert users to battery replacement.
-
-![](<.gitbook/assets/10 (1).jpeg>)
+* Two L91 1.5V AA lithium batteries can be installed inside the battery compartment to serve as a backup power source in case of power failure. Prior to inserting batteries, ensure correct battery placement to protect your device.
+* The wired/wireless keypad can also monitor the battery life. When batteries are low in power, a low battery signal will be sent along with regular signal transmission to the Control Panel to alert users to battery replacement.
 
 _\<NOTE>_
 
-*
-  * Use only the specified batteries with the device. When replacing batteries, always replace the whole set and do not mix different types of batteries or new and used ones to avoid damaging the device.
-* _**Power Saving Feature**_
-  * When idle, the wired/wireless keypad is in **stand-by** mode and consumes no power. It will wake up when any key is pressed.
-  * After entering User Menu, if neither of the **Arm** key/**Home Arm** key is pressed, the wired/wireless keypad will return to **stand-by** mode within 5 seconds. If either or both of the **Arm** key/**Home Arm** key is/are pressed, the wired/wireless keypad will return to stand-by mode within **20** seconds.
-  * After “Enter PIN Code” is displayed on the LCD screen, if no key is pressed, the wired/wireless keypad will return to **stand-by** mode within 5 seconds.
-  * After the mode change request is submitted, if no signal is received from the Control Panel, the keypad will return to **stand-by** mode within 15 seconds.
-  * Upon completion of a command input, the wired/wireless keypad will return to **stand-by** mode.
-* _**Keypad Wiring**_
-  *
-    * To connect KP-35-COMBO to the Control Panel, open the front cover by using a Phillips screwdriver to loosen the cover fixing screw.
-    * Before connecting the “V”, “G”, “A”, “B” terminals, remove the batteries from KP-35-COMBO and make sure the power supply of the Control Panel has been disconnected.
-    * Loosen KP-35-COMBO’s “V” terminal and the Control Panel’s “VDD” terminal. Connect the “V” terminal to the “VDD” terminal and tighten both terminal screws.
-    * Loosen KP-35-COMBO’s “G” terminal and the Control Panel’s “GND” terminal. Connect the “G” terminal to the “GND” terminal and tighten both terminal screws.
-    * Loosen KP-35-COMBO’s “A” terminal and the Control Panel’s “485A” terminal. Connect the “A” terminal to the “485A” terminal and tighten both terminal screws.
-    * Loosen KP-35-COMBO’s “B” terminal and the Control Panel’s “485B” terminal. Connect the “B” terminal to the “485B” terminal and tighten both terminal screws.
-    * Power on the Control Panel and wait for the “KP-35 COMBO” to be shown on the wired/wireless keypad’s LCD screen.
+* Use only the specified batteries with the device. When replacing batteries, always replace the whole set and do not mix different types of batteries or new and used ones to avoid damaging the device.
+
+### _**Power Saving Feature**_
+
+* When idle, the wired/wireless keypad is in **stand-by** mode and consumes no power. It will wake up when any key is pressed.
+* After entering User Menu, if neither of the **Arm** key/**Home Arm** key is pressed, the wired/wireless keypad will return to **stand-by** mode within 5 seconds. If either or both of the **Arm** key/**Home Arm** key is/are pressed, the wired/wireless keypad will return to stand-by mode within **20** seconds.
+* After “Enter PIN Code” is displayed on the LCD screen, if no key is pressed, the wired/wireless keypad will return to **stand-by** mode within 5 seconds.
+* After the mode change request is submitted, if no signal is received from the Control Panel, the keypad will return to **stand-by** mode within 15 seconds.
+* Upon completion of a command input, the wired/wireless keypad will return to **stand-by** mode.
+
+### _**Keypad Wiring**_
+
+* To connect KP-35-COMBO to the Control Panel, open the front cover by using a Phillips screwdriver to loosen the cover fixing screw.
+* Before connecting the “V”, “G”, “A”, “B” terminals, remove the batteries from KP-35-COMBO and make sure the power supply of the Control Panel has been disconnected.
+* Loosen KP-35-COMBO’s “V” terminal and the Control Panel’s “VDD” terminal. Connect the “V” terminal to the “VDD” terminal and tighten both terminal screws.
+* Loosen KP-35-COMBO’s “G” terminal and the Control Panel’s “GND” terminal. Connect the “G” terminal to the “GND” terminal and tighten both terminal screws.
+* Loosen KP-35-COMBO’s “A” terminal and the Control Panel’s “485A” terminal. Connect the “A” terminal to the “485A” terminal and tighten both terminal screws.
+* Loosen KP-35-COMBO’s “B” terminal and the Control Panel’s “485B” terminal. Connect the “B” terminal to the “485B” terminal and tighten both terminal screws.
+* Power on the Control Panel and wait for the “KP-35 COMBO” to be shown on the wired/wireless keypad’s LCD screen.
 
 ![](<.gitbook/assets/11 (5).jpeg>)
-
-2
 
 * The keypad terminal can be hardwired to the Control Panel. Up to four KP-35-Combos can be connected in series. The maximum wire cable length depends on the wire gauge and the total power consumption of all wired devices, for example: maximum 3000ft @ 22-AWG cable for one KP-35-COMBO; maximum 1500ft @ 22-AWG cable for 2 KP-35-COMBOs; or maximum 1000ft @ 22-AWG cable for 3 KP-35-COMBOs.
 * In the picture below, KP-35-COMBO-**A** and KP-35-COMBO-**B** are wired correctly in series as the total wire distance of two keypads from the Control Panel is within 1500ft. For the KP-35-COMBO-**C** in the picture below, it is **NOT** wired correctly as it is farther than 1000ft from the Control Panel.
@@ -115,20 +120,21 @@ For example, for KP-35-COMBO-**B** in the picture below, it is the farthest devi
 
 ![](<.gitbook/assets/12 (11).png>)
 
-* _**Tamper Protection**_
-  * The wired/wireless keypad is protected against any unauthorized attempts to open the back cover with a tamper switch. When the back cover is opened, the tamper switch will be triggered and the wired/wireless keypad will transmit a tamper open signal to the system control panel.
-  * After re-placing the back cover, the wired/wireless keypad will transmit a tamper restore signal to the Control Panel.
-  * When the wired/wireless keypad is properly mounted with back cover screwed onto the wall, removing the keypad forcefully will break off the back cover from the hollowed section around the screw location and activate tamper switch.
-* _**Supervision Signal**_
-  * When in wired mode, the wired/wireless keypad will automatically transmit Supervision Signals to the Control Panel at an interval of 20-30 seconds.
-  * When in wireless mode, the wired/wireless keypad will automatically transmit Supervision Signals to the Control Panel at an interval of 30-50 minutes.
-  * If the Control Panel has not received the signal from the wired/wireless keypad for a preset period of time, the Control Panel will consider the wired/wireless keypad out of order and react according to panel setting.
+### _**Tamper Protection**_
 
-3
+* The wired/wireless keypad is protected against any unauthorized attempts to open the back cover with a tamper switch. When the back cover is opened, the tamper switch will be triggered and the wired/wireless keypad will transmit a tamper open signal to the system control panel.
+* After re-placing the back cover, the wired/wireless keypad will transmit a tamper restore signal to the Control Panel.
+* When the wired/wireless keypad is properly mounted with back cover screwed onto the wall, removing the keypad forcefully will break off the back cover from the hollowed section around the screw location and activate tamper switch.
 
-* _**Joining the System Network**_
+### _**Supervision Signal**_
 
-**Wireless Operation:**
+* When in wired mode, the wired/wireless keypad will automatically transmit Supervision Signals to the Control Panel at an interval of 20-30 seconds.
+* When in wireless mode, the wired/wireless keypad will automatically transmit Supervision Signals to the Control Panel at an interval of 30-50 minutes.
+* If the Control Panel has not received the signal from the wired/wireless keypad for a preset period of time, the Control Panel will consider the wired/wireless keypad out of order and react according to panel setting.
+
+## _**Joining the System Network**_
+
+### **Wireless Operation:**
 
 * To add the wired/wireless keypad to the system network, first put the Control Panel in learning mode.
 * Press the OK key once. When “Enter PIN Code” is displayed on the LCD screen, press and hold the **OK** key for 10 seconds.
