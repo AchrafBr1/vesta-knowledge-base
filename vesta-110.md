@@ -51,17 +51,41 @@ Used for Roller shutter connection
 
 </div>
 
+| SW1 | Terminal 1 Type = Door Contact    |
+| --- | --------------------------------- |
+| ON  | Enable (Default)                  |
+| OFF | Disable                           |
+| SW2 | Terminal 1 Type = IR              |
+| ON  | Enable                            |
+| OFF | Disable (Default)                 |
+| SW3 | Terminal 1 Type = Smoke Detector  |
+| ON  | Enable                            |
+| OFF | Disable (Default)                 |
+| SW4 | Terminal 1 Type = Panic Button    |
+| ON  | Enable                            |
+| OFF | Disable (Default)                 |
+
+| SW5 | Supervision                    |
+| --- | ------------------------------ |
+| ON  | Enable (Default)               |
+| OFF | Disable                        |
+| SW6 | CON4 NO/NC                     |
+| ON  | Normal open                    |
+| OFF | Normal close (Default)         |
+| SW7 | Roller shutter Activation      |
+| ON  | 8 pulse / 10sec                |
+| OFF | 5 pulse / 10sec (Default)      |
+| SW8 | Terminal 1 Type = Gas Detector |
+| ON  | Enable                         |
+| OFF | Disable (Default)              |
 
 
 
+_\<NOTE >_
 
-* _NOTE >_
-  *
-    * After you have set one function by sliding the DIP switch, you have to press Test Button to confirm the setting.
-    * Only **1** switch of Dip Switch 1\~4 & 8 can be set to ON position at a time.
-
-<!---->
-
+*
+  * After you have set one function by sliding the DIP switch, you have to press Test Button to confirm the setting.
+  * Only **1** switch of Dip Switch 1\~4 & 8 can be set to ON position at a time.
 * _**Accessories Included**_
   *
     *
