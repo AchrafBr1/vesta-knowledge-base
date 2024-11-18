@@ -10,7 +10,7 @@ VDP-3 Video Door Phone is designed to replace conventional doorbell by providing
 
 &#x20;                    **From View                                      Front View (Cover removed)                  Back View**
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. **Protective Cover**
 2. **Camera Lens**
@@ -102,7 +102,7 @@ A smartphone with **Vesta Home 5 TW / Vesta Home 5 US** or **Vesta Home 5 EU** a
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -121,19 +121,19 @@ Flashing LED indicates the Video Doorbell does not have a working Wi-Fi setting 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

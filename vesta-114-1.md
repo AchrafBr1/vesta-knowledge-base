@@ -8,7 +8,7 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -37,10 +37,10 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 
 BUS Terminal on the Control Panel. Up to four KP-35-Combos can be _**Keypad Wiring**_ section on the next page for detail.
 
-1. **Wire Management Hole**
-   * Prepunched hole used to enhance wiring management flexibility.
-2. **Terminal Resistor Jumper Switch**
-   * When the keypad is connected as the furthest BUS device on a BUS line, please set the keypad's terminal resistor jumper and the first BUS device’s Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
+14. **Wire Management Hole**
+    * Prepunched hole used to enhance wiring management flexibility.
+15. **Terminal Resistor Jumper Switch**
+    * When the keypad is connected as the furthest BUS device on a BUS line, please set the keypad's terminal resistor jumper and the first BUS device’s Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
 <div align="left">
 
@@ -66,11 +66,9 @@ If the jumper is ON, the communication ability will be enhanced.
 
 If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
 
-**Tamper Switch**
-
-**Mounting Holes x 4**
-
-**Bottom Fixing Screw x 1**
+16. **Tamper Switch**
+17. **Mounting Holes x 4**
+18. **Bottom Fixing Screw x 1**&#x20;
 
 ## **Caution**
 
@@ -118,7 +116,11 @@ _\<NOTE>_
 
 For example, for KP-35-COMBO-**B** in the picture below, it is the farthest device on the BUS line, and Hybrid Panel is the first device on the BUS line. Ensure to set the KP-35-COMBO-**B**'s terminal resistor jumper switch and Hybrid Panel's J53 Jumper Switch to ON to serve as terminating resistors.
 
-![](<.gitbook/assets/12 (11).png>)
+<div align="left">
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### _**Tamper Protection**_
 
@@ -131,6 +133,41 @@ For example, for KP-35-COMBO-**B** in the picture below, it is the farthest devi
 * When in wired mode, the wired/wireless keypad will automatically transmit Supervision Signals to the Control Panel at an interval of 20-30 seconds.
 * When in wireless mode, the wired/wireless keypad will automatically transmit Supervision Signals to the Control Panel at an interval of 30-50 minutes.
 * If the Control Panel has not received the signal from the wired/wireless keypad for a preset period of time, the Control Panel will consider the wired/wireless keypad out of order and react according to panel setting.
+
+### _RFID Configure_&#x20;
+
+This function is for you to manage your RFID device (Tag)&#x20;
+
+### RFID Learn:&#x20;
+
+Up to 60 Tags can be learnt into the Remote Keypad. To learn the new RFID device into the Remote Keypad:
+
+1. In the User Menu, choose Setting > RFID Config > RFID Learn.
+2. Use ![](<.gitbook/assets/image (3).png>) and ![](<.gitbook/assets/image (4).png>)key to select the RFID # you want to use for learning new RFID, and then press the OK key to confirm selection.
+3. “Apply RFID” will be displayed on the LCD screen. Please put the tag close to the RFID sensor within 5 seconds.
+4. When the Keypad detects the Tag, a long beep will be emitted, and the LCD display will prompt you to enter a PIN Code. Please enter a PIN Code for the tag, and press the OK key to confirm setting.
+5. Learning is now complete. The Tag information has been added into the Keypad with corresponding PIN Code. You can now use the Tag to Arm/Home Arm/Disarm the Control Panel through the Remote Keypad.
+
+_\<NOTE>_
+
+* If a tag you wish to learn already exists in the Keypad, 2 beeps will be emitted when the Keypad detects the tag, and “RFID already Exist” will be displayed on the LCD screen.&#x20;
+* When a RFID # that has been used for learning is selected, the corresponding PIN Code will be displayed on the LCD, allowing the user to edit the PIN Code directly.&#x20;
+* The PIN Code length should be 4-6 digits. If you enter a PIN Code less than 4 digits, and press the OK key, the Keypad will emit 4 beeps, and “Incorrect PIN Code!" will be displayed on the LCD screen.
+
+### RFID Delete:&#x20;
+
+To remove RFID devices stored in the Keypad:
+
+1. In the User Menu, choose Setting > RFID Config > RFID Delete.
+2. Use  and  key to select the RFID # for the RFID tag you want to remove, and then press the OK key to confirm selection.
+3. “Are you sure” will be displayed on the LCD. Press the OK key delete the tag.
+4. If you are not sure of the RFID # for the RFID tag you want to remove, put the tag you want to remove close to the RFID sensor. “Are you sure” will be displayed on the LCD. Press the OK key delete the tag.
+
+_\<NOTE>_
+
+* If a tag you wish to remove does not exist in the Keypad, “Incorrect RFID” will be displayed on the LCD screen when you swipe the tag.
+
+
 
 ## _**Joining the System Network**_
 
@@ -147,7 +184,7 @@ _\<NOTE>_
 * If the Control Panel promptly responds to the wired/wireless keypad, the “Scanning Network” process will be skipped, and “Learning Success” will be directly displayed on the LCD screen.
 * If the wired/wireless keypad does not receive any signal from the Control Panel within 20 seconds, the LCD screen will be turned off, and the wired/wireless keypad will return to stand-by mode.
 
-**Hardwiring Operation:**
+## **Hardwiring Operation:**
 
 In addition to the wireless operation to join the system network as stated above, the user can do it through hardwiring.
 
