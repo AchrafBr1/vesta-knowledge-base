@@ -23,10 +23,10 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
    * For confirming the keyed-in data or confirming the selection.
 8. **Backlit Restore (**![](<.gitbook/assets/3 (7).jpeg>)) **Key**
    * This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
-9. **Backlit Arm/ Key**
+9. **Backlit Arm/** ![](<.gitbook/assets/image (108).png>) **Key**
    * Use this key to move the cursor and scroll the display upwards
    * The key is also used for entering “Away Armed” mode.
-10. **Backlit Home Arm/ Key**
+10. **Backlit Home Arm/** ![](<.gitbook/assets/image (109).png>) **Key**
     * Use this key to move the cursor and scroll the display downwards.
     * The key is also used for entering “Home Armed” mode.
 11. **Buzzer**
