@@ -12,9 +12,13 @@ UT-15SL: Tamper switch available
 
 UT-15SL-NT: Tamper switch removed
 
-* _**Parts Identification**_
+## _**Parts Identification**_
 
-![](<.gitbook/assets/0 (54).png>)
+<div align="left">
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **1. LED indicator a.k.a. Learn / Test button**
 
@@ -26,81 +30,38 @@ Used to fixed and screw the Universal Transmitter directly onto the Door Frame o
 
 Provides tamper protection against unauthorized device opening and/or removal from mounting surface.
 
-![](<.gitbook/assets/1 (58).png>)
-
-1. **Battery Insulator**
-2. **Fixing Screw**
+4. **Battery Insulator**
+5. **Fixing Screw**
 
 Screw used to secure the top and bottom case of the Universal Transmitter.
 
-1. **Extension Terminal 1**
+6. **Extension Terminal 1**
 
 Used for Door Contact, IR, Smoke Detector, Panic Button or Gas Detector connection
 
-1. **Extension Terminal 2**
+7. **Extension Terminal 2**
 
 Used for Roller shutter connection
 
-1. **DIP Switch**
+8. **DIP Switch**
 
-![](<.gitbook/assets/2 (44).jpeg>)
+<div align="left">
 
-|   | SW1 |   |                           | Terminal 1 Type = Door Contact   |   |   |
-| - | --- | - | ------------------------- | -------------------------------- | - | - |
-|   |     |   |                           |                                  |   |   |
-|   | ON  |   | Enable (Default)          |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | OFF |   | Disable                   |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | SW2 |   |                           | Terminal 1 Type = IR             |   |   |
-|   | ON  |   | Enable                    |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | OFF |   | Disable (Default)         |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | SW3 |   |                           | Terminal 1 Type = Smoke Detector |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | ON  |   | Enable                    |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | OFF |   | Disable (Default)         |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | SW4 |   |                           | Terminal 1 Type = Panic Button   |   |   |
-|   | ON  |   | Enable                    |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | OFF |   | Disable (Default)         |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | SW5 |   |                           | Supervision                      |   |   |
-|   | ON  |   | Enable (**Default**)      |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | OFF |   | Disable                   |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | SW6 |   |                           | CON4 NO/NC                       |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | ON  |   | Normal open               |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | OFF |   | Normal close (Default)    |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | SW7 |   |                           | Roller shutter Activation        |   |   |
-|   | ON  |   | 8 pulse / 10sec           |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
-|   | OFF |   | 5 pulse / 10sec (Default) |                                  |   |   |
-|   |     |   |                           |                                  |   |   |
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-1
+</div>
 
-|   | SW8 |   |                   | Terminal 1 Type = Gas Detector |   |   |
-| - | --- | - | ----------------- | ------------------------------ | - | - |
-|   |     |   |                   |                                |   |   |
-|   | ON  |   | Enable            |                                |   |   |
-|   |     |   |                   |                                |   |   |
-|   | OFF |   | Disable (Default) |                                |   |   |
-|   |     |   |                   |                                |   |   |
 
-*
+
+
+
+* _NOTE >_
   *
-    * _NOTE >_
-      *
-        * After you have set one function by sliding the DIP switch, you have to press Test Button to confirm the setting.
-        * Only **1** switch of Dip Switch 1\~4 & 8 can be set to ON position at a time.
+    * After you have set one function by sliding the DIP switch, you have to press Test Button to confirm the setting.
+    * Only **1** switch of Dip Switch 1\~4 & 8 can be set to ON position at a time.
+
+<!---->
+
 * _**Accessories Included**_
   *
     *

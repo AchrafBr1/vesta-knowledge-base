@@ -10,7 +10,7 @@ VDP-3 Video Door Phone is designed to replace conventional doorbell by providing
 
 &#x20;                    **From View                                      Front View (Cover removed)                  Back View**
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. **Protective Cover**
 2. **Camera Lens**
@@ -86,7 +86,7 @@ VDP into the wall.
 
 &#x20;                                                                 Figure 1                       Figure 2
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8.** Replace the protective cover on top of the VDP and tighten the cover fixing screw.
 
@@ -102,7 +102,7 @@ A smartphone with **Vesta Home 5 TW / Vesta Home 5 US** or **Vesta Home 5 EU** a
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
