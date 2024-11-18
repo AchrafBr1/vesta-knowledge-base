@@ -8,7 +8,7 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/2 (8).jpeg>)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. **Backlit LCD Display**
 2. **Green LED**
