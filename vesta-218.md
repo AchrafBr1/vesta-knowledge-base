@@ -1,6 +1,8 @@
-# VESTA 218
+# VESTA-218
 
-**ELSR-35 Emergency Light and Siren**
+<figure><img src=".gitbook/assets/image (127).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/sirenas-y-generador-de-humo/VESTA-218">VESTA-218</a></p></figcaption></figure>
+
+**Emergency Light and Siren**
 
 **Introduction**
 
@@ -30,35 +32,25 @@ The Tamper switch will be activated when the ELSR-35 is removed from mounted sur
 
 **Features**
 
-![](<.gitbook/assets/1 (76).png>)
-
 * _**Battery and Low Battery Detection**_
 
 The Emergency Light and Siren is powered by two 1.5V D-Cell Alkaline batteries. It features low battery detection and will transmit low battery signal when low battery voltage is detected.
 
 When changing batteries, after removing the old batteries, press the learn button a couple times to fully discharge before inserting new batteries.
 
-![](<.gitbook/assets/2 (81).png>)
-
 * _**Supervision**_
 
 The Emergency Light and Siren will transmit a supervisory signal every 30-50 minutes in normal operation mode. If this signal is not received, the Control Panel will indicate that the particular Emergency Light and Siren is experiencing an out-of-order problem.
-
-![](<.gitbook/assets/3 (81).png>)
 
 * _**Temperature Detection**_
 
 The ELSR-35 has built-in temperature sensor that monitors the temperature of your surrounding environment. The temperature is detected and transmitted to the Control Panel every 30-50 minutes along with supervision signal.
 
-1
-
-* ![](<.gitbook/assets/4 (85).png>)_**Alarm Length**_
+* _**Alarm Length**_
 
 When a fire, smoke, or CO alarm is activated, the Control Panel will notify the ELSR-35 to start alarming. The white LEDs will flash once every 1.5 seconds, and the built-in siren will emits audible alerts for a maximum of 15 minutes.
 
 To silence and stop the ELSR-35 alarm, you can disarm or send siren off signal from the Control Panel.
-
-![](<.gitbook/assets/5 (88).png>)
 
 * _**Tamper Protection**_
 
@@ -84,34 +76,25 @@ Step 6: If the Control Panel receives the learning code, it will list the device
 
 **Installation**
 
-![](<.gitbook/assets/6 (57).jpeg>)
-
 * _**Installation Guideline**_
   * The ELSR-35 is designed with a waterproof case, usually installed on the top of the emergency exit.
   * The ELSR-35 is designed to be mounted on a flat surface with fixing screws and plugs provided.
   * The base has 2 mounting holes for you to screw the ELSR-35 onto the wall.
 * _**Mounting the ELSR-35**_
 
-![](<.gitbook/assets/7 (53).jpeg>)
-
 1. Find the location where the ELSR-35 is to be mounted.
 2. Remove the Top cover by releasing the bottom screws using a Philips screwdriver and pulling the outer case out carefully.
 3. Hold the ELSR-35 at the position where it will be mounted.
 4. Identify the 2 mounting holes, mount and fix the ELSR-35 on the wall using the large screws and wall plugs provided. Secure the screws using a Philips screwdriver. Make sure the Tamper Switch is fully depressed against the wall.
 
-![](<.gitbook/assets/8 (61).png>)
-
-_\<NOTE>_
-
-*
-  * The tamper switch is secured with a button at the back of the base. When the device is pulled off from the wall, button will be released, the alarm will be activated. Ensure the button is fully depressed when the device is mounted. If there is a gap, pack with a suitable spacing material.
+{% hint style="info" %}
+The tamper switch is secured with a button at the back of the base. When the device is pulled off from the wall, button will be released, the alarm will be activated. Ensure the button is fully depressed when the device is mounted. If there is a gap, pack with a suitable spacing material.
+{% endhint %}
 
 1. Replace the top cover from top of the base and push downwards (as shown in picture on the right). Tighten the bottom screws using a Philips screwdriver.
 2. The installation is now completed.
 
 ![](<.gitbook/assets/9 (59).png>)
-
-2
 
 **Factory Reset**
 
@@ -124,5 +107,3 @@ Step 2: Release the bottom screws of the Top cover using a Philips screwdriver, 
 Step 3: Slide the power switch to the OFF position.
 
 Step 4: Press and hold the Learn Button and slide the battery switch to ON position. Continue to hold the Learn Button for 7 seconds. Release the Learn Button when you hear 2 short beeps and a long beep. The previous parameters in the Emergency Light and Siren will be cleared and it will return to normal mode.
-
-3
