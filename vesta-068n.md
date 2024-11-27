@@ -35,15 +35,15 @@ The panel with an external battery is 100% connected to the cloud. It will use B
 
 {% tabs %}
 {% tab title="8 months duration" %}
-[DEM-7M-BACKUP](https://bydemes.com/es/productos/intrusion/alarma-vesta/baterias/DEM-7M-BACKUP/especificaciones)
+[VESTA-436](https://bydemes.com/en/products/intrusion/vesta-alarm/battery/VESTA-436)
 
-<figure><img src=".gitbook/assets/image (17) (1) (1).png" alt="" width="225"><figcaption><p>External Battery 7.5V /400Ah/3000W</p></figcaption></figure>
+<figure><img src="https://bydemes.com/ByDemesFiles/images/VESTA-436_B.jpg" alt="" width="375"><figcaption><p>External Battery 7.5V /400Ah/3000W</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="14 months duration" %}
-[DEM-16M-BACKUP](https://bydemes.com/es/productos/intrusion/alarma-vesta/baterias/DEM-16M-BACKUP/especificaciones)
+[VESTA-435](https://bydemes.com/en/products/intrusion/vesta-alarm/battery/VESTA-435)
 
-<figure><img src=".gitbook/assets/image (18) (1) (1).png" alt="" width="225"><figcaption><p>External Battery 12V/500Ah, 6000W</p></figcaption></figure>
+<figure><img src="https://bydemes.com/ByDemesFiles/images/450px/VESTA-435.jpg" alt=""><figcaption><p>External Battery 12V/500Ah, 6000W</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -156,9 +156,9 @@ _ANNEX 1_
 2. Connect Alarm: When the panel is only battery operated (<mark style="color:red;">**WITHOUT EXTERNAL BATTERY**</mark>) this option allows us to access the panel by **CLOUD during the ALARM**.
 3.  **SAVINGS MODE ON:**
 
-    1. **The panel when only operating by BATTERIES, will be OFFLINE, only connected in case of alarm** \2. **a. SAVING MODE **<mark style="color:red;">**DISABLED**</mark>**: The panel will stay in CLOUD 100% on batteries \[Warning! Batteries will last 14 days]**.
+    1. **The panel when only operating by BATTERIES, will be OFFLINE, only connected in case of alarm** \2. **a. SAVING MODE&#x20;**<mark style="color:red;">**DISABLED**</mark>**: The panel will stay in CLOUD 100% on batteries \[Warning! Batteries will last 14 days]**.
 
-    b. **SAVE MODE **<mark style="color:green;">**ON**</mark>**: The panel will stay OFFLINE will report all events to both the APP and CRA \[Batteries will last 7 months approx.]**.
+    b. **SAVE MODE&#x20;**<mark style="color:green;">**ON**</mark>**: The panel will stay OFFLINE will report all events to both the APP and CRA \[Batteries will last 7 months approx.]**.
 {% endhint %}
 
 ### 4.3 Configure user codes
