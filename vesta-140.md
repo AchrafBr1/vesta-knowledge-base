@@ -1,6 +1,6 @@
 # VESTA 140
 
-**Z-Wave Relay Controller PRL-8-ZW-AC**
+## **Z-Wave Relay Controller PRL-8-ZW-AC**
 
 **Introduction**
 
@@ -8,9 +8,9 @@ PRL-8-ZW-AC is a Z-Wave Relay Controller that can be connected to wired devices 
 
 **Parts Identification**
 
-**1. Function Button**
+<div align="center" data-full-width="false"><img src=".gitbook/assets/0 (62).jpeg" alt=""></div>
 
-![](<.gitbook/assets/0 (62).jpeg>)
+1. **Function Button**
 
 Press the button 3 times within 1.5 seconds to send a learn code.
 
@@ -18,37 +18,30 @@ Press and hold the button for 10 seconds to factory reset.
 
 Press the button to switch ON/OFF the Relay.
 
-**2. LED indicator (Red)**
+2. **LED indicator (Red)**
 
 The LED indicator is used to indicate Relay status:
 
 * LED On: Relay On
 * LED Off: Relay Off
 
-**Connection Terminals**
+{% hint style="info" %}
+[**Connection Terminals**](#user-content-fn-1)[^1]
 
 Connect the wire into the terminal, tighten the screw to close the clipper and hold wire in place. Unscrew to open the clipper to remove the wire connected to the terminal.
+{% endhint %}
 
-1. **Line (AC input)**
-2. **Neutral**
-3. **NO**
 
-For Normal Open connection with the device.
 
-1. **Common**
-2. **NC**
+3. **Line (AC input)**
+4. **Neutral**
+5. **NO**                                                                                                                                                                                     For Normal Open connection with the device.
+6. **Common**
+7. **NC**                                                                                                                                                                                               For Normal Close connection with the device&#x20;
+8. **Strain Relief Clamp**                                                                                                                                                         The clamp is used for securing the wires, and providing strain relief to protect the wires from the        metal cut out.
+9. &#x20;**Wiring Buckle**                                                                                                                                                               The Wiring Buckle is used for managing wires.
 
-For Normal Close connection with the device
-
-**8. Strain Relief Clamp**
-
-The clamp is used for securing the wires, and providing strain relief to protect the wires from the metal cutout.
-
-**9. Wiring Buckle**
-
-The Wiring Buckle is used for managing wires.
-
-**Specification**
+## **Specification**
 
 * Power Source (External Power): 100-240VAC
 * Relay Output: Potential-free SPDT relay, Maximum Operation Load: 10A (Resistive) at 24VDC or 240VAC
@@ -183,3 +176,5 @@ Device Reset Locally CC (COMMAND\_CLASS\_DEVICE\_RESET\_LOCALLY)
 When toggling between On/Off, it will send Binary Switch Report to the nodes of Grouping 1.
 
 3
+
+[^1]: 
