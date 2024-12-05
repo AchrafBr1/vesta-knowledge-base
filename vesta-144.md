@@ -1,18 +1,18 @@
 # VESTA 144
 
-**Remote Controller (RC-16-2W)**
+## **Remote Controller (RC-16-2W)**
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
-* _**Identifying the parts**_
+![](<.gitbook/assets/1 (57).jpeg>)
+
+### _**Identifying the parts**_
 
 **1.** ![](<.gitbook/assets/0 (63).jpeg>) **BUTTON**
 
 Press this button to arm the system in away mode.
 
-![](<.gitbook/assets/1 (57).jpeg>)
-
-**2.** ![](<.gitbook/assets/2 (48).jpeg>) **BUTTON**
+**2.** <img src=".gitbook/assets/2 (48).jpeg" alt="" data-size="line"> **BUTTON**
 
 Press this button to disarm the system.
 
