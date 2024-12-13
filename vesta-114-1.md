@@ -42,15 +42,7 @@ BUS Terminal on the Control Panel. Up to four KP-35-Combos can be _**Keypad Wiri
 15. **Terminal Resistor Jumper Switch**
     * When the keypad is connected as the furthest BUS device on a BUS line, please set the keypad's terminal resistor jumper and the first BUS device’s Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-<div align="left">
-
-<img src=".gitbook/assets/4 (7).jpeg" alt="">
-
- 
-
-<img src=".gitbook/assets/5 (5).jpeg" alt="">
-
-</div>
+<div align="left"><img src=".gitbook/assets/4 (7).jpeg" alt=""> <img src=".gitbook/assets/5 (5).jpeg" alt=""></div>
 
 **Jumper On**
 
@@ -58,11 +50,7 @@ If the jumper is ON, the communication ability will be enhanced.
 
 **Jumper Off**
 
-<div align="left">
-
-<img src=".gitbook/assets/7 (5).jpeg" alt="">
-
-</div>
+<div align="left"><img src=".gitbook/assets/7 (5).jpeg" alt=""></div>
 
 If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
 
@@ -116,11 +104,7 @@ _\<NOTE>_
 
 For example, for KP-35-COMBO-**B** in the picture below, it is the farthest device on the BUS line, and Hybrid Panel is the first device on the BUS line. Ensure to set the KP-35-COMBO-**B**'s terminal resistor jumper switch and Hybrid Panel's J53 Jumper Switch to ON to serve as terminating resistors.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### _**Tamper Protection**_
 

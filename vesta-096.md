@@ -16,11 +16,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 
 ## Parts Identification
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1. **Flash LED / Infrared LED**
 
@@ -45,21 +41,13 @@ The Flash LED (For 862(P)) or Infrared LED (For 862(P)-IL) delivers sufficient l
 7. **Battery Compartment**
 8. **Sensitivity Adjustment Jumper Switch (JP3)**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Jumper Off**
 
 if the jumper link is removed or “**parked**” on one pin.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Jumper On**
 
@@ -70,21 +58,13 @@ The jumper link is inserted connecting the two pins.
 
 9. **Sleep Timer Jumper Switch (JP2)**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Jumper Off**
 
 if the jumper link is removed or “**parked**” on one pin.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Jumper On**
 

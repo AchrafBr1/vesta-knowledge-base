@@ -14,11 +14,7 @@ UT-15SL-NT: Tamper switch removed
 
 ## _**Parts Identification**_
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **1. LED indicator a.k.a. Learn / Test button**
 
@@ -45,11 +41,7 @@ Used for Roller shutter connection
 
 8. **DIP Switch**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 | <mark style="background-color:blue;">SW1</mark> | <mark style="background-color:blue;">Terminal 1 Type = Door Contac</mark>t    |
 | ----------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -127,11 +119,7 @@ The LED will light up in the following situations:
 
 ## _**Mounting Methods and Installation**_
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure></div>
 
 Step 1: Find a suitable location for mounting.
 
