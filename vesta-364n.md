@@ -1,4 +1,14 @@
-# VESTA 387
+# VESTA-364N
+
+**Simple guide:**&#x20;
+
+{% hint style="warning" %}
+**It is very important** in the **VESTA-364N** power supply, connect the <mark style="color:red;">**positive**</mark> input to the **hybrid control panel**, this will allow greater control over the power supply.
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+
+
 
 **Auxiliary Power Supply Module (PWB-1-BUS)**
 

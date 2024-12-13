@@ -146,7 +146,7 @@ After connecting the expansion board to the Hybrid Panel, and completing device 
 
 * _**Learning**_
 
-**Step 1.** Connect the Expansion Module to the Control Panel. Then, power on the Control Panel**.**
+**Step 1.** Connect the Expansion Module to the Control Panel. Then, power on the Control Pane&#x6C;**.**
 
 **Step 2.** Click on “**Learning**” to enter learn page.
 

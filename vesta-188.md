@@ -101,7 +101,7 @@ Due to the fundamental structure of ZigBee network, ZigBee device will actively 
 * Ensure the ZigBee network router/coordinator is powered on before inserting battery into ZigBee device.
 * Ensure the ZigBee network router/coordinator is powered on and in range while ZigBee device is in use.
 
-\-Do not remove a ZigBee device from the ZigBee network router or coordinator without removing the battery from a ZigBee device.
+-Do not remove a ZigBee device from the ZigBee network router or coordinator without removing the battery from a ZigBee device.
 
 * _**Joining the ZigBee Network**_
 
@@ -444,7 +444,7 @@ UPIC can learn in up to 5 sets of IR Type, 8 signals for each type. When transmi
 
 specified with this attribute.
 
-The format is 0x_**XY**_
+The format is 0&#x78;_**XY**_
 
 7
 
@@ -452,7 +452,7 @@ X = Appliance Type (1\~5)
 
 Y = IR signal Number (1\~8)
 
-For example, if the UPIC has learnt in an IR signal at Appliance Type 1, IR signal 8, the panel should send command with attribute setting 0x_**18**_ for UPIC to transmit this signal.
+For example, if the UPIC has learnt in an IR signal at Appliance Type 1, IR signal 8, the panel should send command with attribute setting 0&#x78;_**18**_ for UPIC to transmit this signal.
 
 **Select Send IR LED (0x1011):**
 

@@ -173,8 +173,8 @@ BOGP-3 is a battery-operated cellular & GPRS alarm system. The LCD display and r
 
 This manual covers the installation, programming, and control of the BOGP-3 control panel.
 
-* BOGP-3 2G**:** battery-operated cellular & GPRS alarm system with 2G reporting.
-* BOGP-3 4G**:** battery-operated cellular & GPRS alarm system with 4G reporting.
+* BOGP-3 2&#x47;**:** battery-operated cellular & GPRS alarm system with 2G reporting.
+* BOGP-3 4&#x47;**:** battery-operated cellular & GPRS alarm system with 4G reporting.
 
 Remote programming of the panel is achieved by registering the panel in our **Home Portal Server**. With **Home Portal Server**, you can connect to your panel either with a computer or a smartphone using our Vesta Home application. Please refer to our Home Portal User Guide for detail about registering and using **Home Portal Server**.
 

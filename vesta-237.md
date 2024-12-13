@@ -35,7 +35,7 @@ KP-23B-EL-NT / KP-23B-EL-NT-F1: Remote Keypad without Tamper Switch
 
 **13. Dual Key Panic Alarm (if enabled)**
 
-\-press both 1 and 3 to trigger panic alarm
+-press both 1 and 3 to trigger panic alarm
 
 1. **Battery Insulator**
 2. **Mounting Holes**
@@ -108,7 +108,7 @@ _**Test Mode Function:**_
 * Press **＊** key and then **5** key — Disable all Dual Key function (**Default**)
 * Press **＊** key and then **6** key — Edit Keypad Pin Code
   *
-    * Press ![](<.gitbook/assets/18 (35).png>) key **twice** — to leave the Test Mode**.**
+    * Press ![](<.gitbook/assets/18 (35).png>) key **twice** — to leave the Test Mod&#x65;**.**
     * Press **＊** key and then **8** key — Enable Arm/ Home without PIN Code function
     * Press **＊** key and then **9** key — Enable Arm/ Home with Control Panel User PIN Code function (**Default**)
 * _**Tamper Protection**_

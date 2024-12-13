@@ -124,13 +124,13 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
 *
   * If the Smoke Detector functions normally, the Red LED will be on for 2 seconds followed by a 2-tone beep.
   * If the buzzer sounds 2-tone beeps 3 times, the “**Optical Chamber**” on the Smoke Detector is either dirty or out-of-order.
-* _**Test Mode for IR Function**_** (SD-32-HM/-HM-SC only)**
+* _**Test Mode for IR Function**_**&#x20;(SD-32-HM/-HM-SC only)**
   * The device’s PIR Motion Sensor can be put into Test mode by pressing the Test Button. Every time the Test Button is pressed, the device will transmit a test signal to the Control Panel for radio range test and enter the test mode for 3 mins. It will exit Test Mode automatically after 3 minutes and return to normal mode. In Test mode, the sleep timer is disabled, and the LED indicator will flash every time a movement is detected.
-* _**Sleep Timer of IR Function**_** (SD-32-HM/-HM-SC only)**
+* _**Sleep Timer of IR Function**_**&#x20;(SD-32-HM/-HM-SC only)**
   * The device’s PIR Motion Sensor has a “**sleep time**” of approximately 40 seconds to conserve power. After transmitting a detected movement, the PIR will not retransmit for 40 seconds. In this way continuous movement in front of a PIR will not unduly exhaust the battery.
 * _**Supervision**_
   * The Smoke Detector will transmit a supervision signal to report its condition regularly according to user setting. The factory default interval is 30\~50 minutes.
-* _**Temperature Detection**_** (SD-32-HM/-HM-SC only)**
+* _**Temperature Detection**_**&#x20;(SD-32-HM/-HM-SC only)**
   * The Temperature Sensor measures temperature every 10 seconds, and transmits temperature reading to the Control Panel every 30\~33 minutes.
   * Users can also press the Test Button once to transmit current temperature reading manually.
 * _**Alarm Activation**_
@@ -163,7 +163,7 @@ The Smoke Detector will activate fire alarm when smoke detection is triggered. T
 
 *
   * The Smoke Detector will transmit signal to the Control Panel if any movement is picked up within the IR detection coverage. The buzzer will not sound and the LED will not flash. Please refer to your Control Panel for details.
-* _**Interconnection**_** (SD-32-HM-SC only)**
+* _**Interconnection**_**&#x20;(SD-32-HM-SC only)**
   * The Smoke Detector is interconnected with other Smoke Detectors in the alarm system. When a Smoke Detector activates alarm, the Control Panel will notify other Smoke Detectors to also raise alarm even if they have not detected smoke yet. The alarm length will be in accordance with the Control Panel’s setting.
   * Disarming the system will stop alarm of other Smoke Detectors activated by the Control Panel. The alarm triggered by the Smoke Detector that detects smoke will only stop when the smoke concentration drops below alarm threshold.
   * Pressing the Test button of a smoke detector will only silence alarm of that specific smoke detector, but cannot silence alarm of all interconnected Smoke detectors.
@@ -245,7 +245,7 @@ Ensure the wall plugs are flush with the mounting surface.
 
 **Step 9.** Rotate clockwise to lock the hook.
 
-**Step 10.** Installation is now complete. You can now tear off the mounting sheet**.**
+**Step 10.** Installation is now complete. You can now tear off the mounting shee&#x74;**.**
 
 * The Smoke Detector is designed to be mounted on the ceiling. The ideal mounting height for the Smoke Detector is 3 meters. Mounting above 3 meters can affect detection performace. **(SD-32-HM/-HM-SC only))**
 * The Motion Detector provides detection coverage of a 360° circle with 6 meters in diameter. Please refer to below figures for the installation details

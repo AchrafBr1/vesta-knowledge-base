@@ -56,7 +56,7 @@
   *
     * **Orange LED:** Orange flashes and backlight on in the **Home Mode**.
     * **Orange LED flashes for 5 seconds:** low battery in Normal Operation Mode, and Tamper open.
-    * **LED flash** with 4 beeps**:** failure due to the following reasons:
+    * **LED flash** with 4 beep&#x73;**:** failure due to the following reasons:
 * No response from the control panel.
 * Request for **Home mode** during **Arm mode**.
 * Request for **Force arm**.
@@ -102,7 +102,7 @@ _**Under the Test mode, the following functions can be enabled:**_
         * Press ＊ key and then **6** key — to change the Keypad PIN Code
 
 1. Enter **Old** Keypad Pin Code and then press \* key along with a long beep. If incorrect PIN Code is entered, they Keypad will emit 4 beeps and exit PIN Code change function. (Pressing # key will also exit PIN Code change function)
-2. Enter **New** 4-digit Keypad PIN Code and then press **#** key. The Keypad will emit a long beep and will exit change Keypad PIN Code function automatically**.**
+2. Enter **New** 4-digit Keypad PIN Code and then press **#** key. The Keypad will emit a long beep and will exit change Keypad PIN Code function automaticall&#x79;**.**
 
 * Press ＊ key and then **7** key — to transmit Remote keypad learn signal with a long beep.
   *
@@ -124,7 +124,7 @@ code checked by panel) (**Default**).
   *
     *
       *
-        * Press “#” key **twice** — to exit Test Mode**.**
+        * Press “#” key **twice** — to exit Test Mod&#x65;**.**
 * _**Installation Procedures**_
 
 Step 1. Put the Control Panel into **Learning Mode**. Please refer to the Control Panel manual.

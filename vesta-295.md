@@ -186,17 +186,17 @@ Follow steps below to perform OTA firmware upgrade.
 
 ZigBee firmware provided. Please refer to ZigBee Coordinator User Manual for detail.
 
-**Step 3.**Press“OK”to start upgrading process, and the LED will keep flashing. During the OTA process,
+**Step 3.**&#x50;ress“OK”to start upgrading process, and the LED will keep flashing. During the OTA process,
 
 please do not perform any other actions, or power down the panel.
 
-**Step 4.**The length of an upgrade will take approximately 20 to 30 minutes. Please note that the duration
+**Step 4.**&#x54;he length of an upgrade will take approximately 20 to 30 minutes. Please note that the duration
 
 4
 
 may vary based on file size or distance between your accessory and coordinator.
 
-**Step 5.**Wait for firmware to complete update. When the progress reaches 100%, the Device will reset automatically. You can also refresh the webpage again to ensure if the Device firmware is successfully updated with the newest version displayed.
+**Step 5.**&#x57;ait for firmware to complete update. When the progress reaches 100%, the Device will reset automatically. You can also refresh the webpage again to ensure if the Device firmware is successfully updated with the newest version displayed.
 
 **Appendix (For developers only)**
 

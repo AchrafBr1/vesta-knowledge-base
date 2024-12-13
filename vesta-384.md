@@ -137,7 +137,7 @@ _\<NOTE>_
 
 **Step 1** Connect the detector to the Panel. Then, power the Panel on, the Smoke Detector will be powered on as well.
 
-**Step 2** After power is provided to the Smoke Detector, it will emit 2 short beeps and begin **warm up for 1 minute**. The Red LED will flash every 2 seconds**.**
+**Step 2** After power is provided to the Smoke Detector, it will emit 2 short beeps and begin **warm up for 1 minute**. The Red LED will flash every 2 second&#x73;**.**
 
 **Step 3.** When the Smoke Detector completes warm-up, it will emit a beep to indicate it has entered **calibration mode**. The calibration mode lasts for **1 minute** (If calibration fails, the smoke detector will retry calibration, calibration mode will last 9 minutes at most). The Red LED will continue to flash every two seconds during calibration.
 

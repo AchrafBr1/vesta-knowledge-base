@@ -189,7 +189,7 @@ Arm Mode.
 * **Strobe activation:** Enable or Disable Siren LED strobe activation.
 * **Confirm flash:** Enable or Disable Siren LED flash when the system is armed/disarmed.
 * **Exit flash:** Enable or Disable Siren LED flash during an exit countdown period.
-* **Entry flash:** Enable or Disable Siren LED flash during an entry countdown period**.**
+* **Entry flash:** Enable or Disable Siren LED flash during an entry countdown perio&#x64;**.**
 * **Trigger flash:** Enable or Disable the flashing from the Siren LED when alarming.
 * **Alarm-in-memory sound:** Enable or Disable Alarm-in-Memory sound.
 * **Fault sound:** Enable or Disable system fault sound.

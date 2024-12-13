@@ -72,7 +72,7 @@ Connect to W1 of HIKVISION Card Reader.
   * The insertion holes’ wiring specification is AWG 20-28 or Ø 0.518-0.081 (mm²). When connecting wire to terminal, tighten the screw to close the clipper and hold wire in place. Unscrew to open the clipper and remove the wire.
   * The WGT-1-COMBO can be connected for either wireless application or wired application according to the diagrams below:
     *
-      1. **RF Wireless Application (**NOT wired to Hybrid Panel**)**
+      1. **RF Wireless Application (**&#x4E;OT wired to Hybrid Pane&#x6C;**)**
 
 ![](<.gitbook/assets/4 (6).png>)
 
@@ -88,7 +88,7 @@ Connect to W1 of HIKVISION Card Reader.
 
 2
 
-1. **BUS Wired Application (**hardwired to Hybrid Panel**)**
+1. **BUS Wired Application (**&#x68;ardwired to Hybrid Pane&#x6C;**)**
 
 * Before connecting the WIEGAND module to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
@@ -185,13 +185,13 @@ Please check whether WGT-1-COMBO is connected properly to the Panel within appro
 
 **Step 4.** Click **OK** button on the webpage to save.
 
-**Step 5.** Tag learning is complete**.**
+**Step 5.** Tag learning is complet&#x65;**.**
 
 **Tag Removal**
 
 **Step 1.** Disarm the system.
 
-**Step 2.** Go to the **Local webpage** > **PIN Code**. Select the **Area**. Pass tag **two times** through the HIKVISION Card Reader in **less than 4 seconds**, two beeps will be emitted by the card reader, and then WGT-1-COMBO will transmit signal with the tag number to the Control Panel. Find a blank tag number row and click Load button to check the tag ID number you are going to delete**.**
+**Step 2.** Go to the **Local webpage** > **PIN Code**. Select the **Area**. Pass tag **two times** through the HIKVISION Card Reader in **less than 4 seconds**, two beeps will be emitted by the card reader, and then WGT-1-COMBO will transmit signal with the tag number to the Control Panel. Find a blank tag number row and click Load button to check the tag ID number you are going to delet&#x65;**.**
 
 ![](<.gitbook/assets/16 (6).png>)
 

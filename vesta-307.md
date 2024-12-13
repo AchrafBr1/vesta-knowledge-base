@@ -174,7 +174,7 @@ Pairing mode is pressing ＊ key and **0** key at the same time for 2 seconds on
 * Press ＊ key and then **5** key — to disable all Dual Key functions (long beep). (**Default**)
 * Press ＊ key and then **6** key — to change the Keypad Programming Mode PIN Code
   1. Enter **Old** Keypad Pin Code and then press \* key along with a long beep. If incorrect PIN Code is entered, the Keypad will emit 4 beeps and exit PIN Code change function. (Pressing # key will also exit PIN Code change function)
-  2. Enter **New** 4-digit Keypad PIN Code and then press **#** key. The Keypad will emit a long beep and will exit change Keypad PIN Code function automatically**.**
+  2. Enter **New** 4-digit Keypad PIN Code and then press **#** key. The Keypad will emit a long beep and will exit change Keypad PIN Code function automaticall&#x79;**.**
 
 3
 
@@ -190,7 +190,7 @@ _Note 2:_ When not in the Programming Mode, you are able to pair the Remote Keyp
 
 key and then **9** key — to enable Arm/ Home with Control Panel User Code function with a long beep checked by panel) (**Default**).
 
-key **twice** — to exit Programming Mode**.**
+key **twice** — to exit Programming Mod&#x65;**.**
 
 ![](<.gitbook/assets/19 (10).jpeg>)
 

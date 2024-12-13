@@ -106,7 +106,7 @@ to the Test mode.)
 * Press ＊ key and then **4** key — to enable Dual-key Medical Alarm function
 * Press ＊ key and then **6** key — to change the Pin Code
 * Press ＊ key and then **5** key — to disable all Dual Key function. (Default)
-* Press ![](<.gitbook/assets/7 (41).png>) key **twice** — to leave the Test Mode**.**
+* Press ![](<.gitbook/assets/7 (41).png>) key **twice** — to leave the Test Mod&#x65;**.**
 * Press ＊ key and then **8** key — to enable Arm/ Home without PIN Code function
 * Press ＊ key and then **9** key — to enable Arm/ Home with PIN Code function(Code checked by panel) (Default)
 

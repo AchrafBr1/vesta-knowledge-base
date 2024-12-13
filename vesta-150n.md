@@ -59,7 +59,7 @@ _**\<NOTE>**_
   * **Yellow LED (Home Arm Key)**
     * **Yellow LED:** Yellow LED and White Backlight will turn on with a long beep first, and then the Yellow LED and White Backlight will turn on for 1 second in the **Home Mode**.
     * **Yellow LED flashes for 5 seconds:** low battery in Normal Operation Mode, and Tamper open.
-    * **LED flash** with 4 beeps**:** failure due to the following reasons:
+    * **LED flash** with 4 beep&#x73;**:** failure due to the following reasons:
       * No response from the control panel.
       * Request for **Home mode** during **Arm mode**.
       * Request for **Force arm**.
@@ -117,7 +117,7 @@ _**Under the Test mode, the following functions can be enabled:**_
 * Press ＊ key and then **5** key — to disable all Dual Key function (long beep). (**Default**)
 * Press ＊ key and then **6** key — to change the Keypad PIN Code
   1. Enter **Old** Keypad Pin Code and then press \* key along with a long beep. If incorrect PIN Code is entered, they Keypad will emit 4 beeps and exit PIN Code change function. (Pressing # key will also exit PIN Code change function)
-  2. Enter **New** 4-digit Keypad PIN Code and then press **#** key. The Keypad will emit a long beep and will exit change Keypad PIN Code function automatically**.**
+  2. Enter **New** 4-digit Keypad PIN Code and then press **#** key. The Keypad will emit a long beep and will exit change Keypad PIN Code function automaticall&#x79;**.**
 * Press ＊ key and then **7** key — to transmit Remote keypad learn signal with a long beep.
 * Press ＊ key and then **8** key — to enable Arm/ Home without Control Panel User Code function with a long beep. (the code is checked by panel).
 * Press ＊ key and then **9** key — to enable Arm/ Home with Control Panel User Code function with a long beep (the
@@ -125,7 +125,7 @@ _**Under the Test mode, the following functions can be enabled:**_
 code checked by panel) (**Default**).
 
 *
-  * Press “#” key **twice** — to exit Test Mode**.**
+  * Press “#” key **twice** — to exit Test Mod&#x65;**.**
 * _**Learning Keypad into Control Panel**_
 
 ![](<.gitbook/assets/13 (20).jpeg>)

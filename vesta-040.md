@@ -57,7 +57,7 @@ For details on shock/vibration detection mode range, see section Installation in
 
 * The device’s shock/vibration detection feature may be triggered according to different mode selected in the Control Panel.
 
-### **Single Pulse Shock Mode **_**(default mode for SVGS-5 If no detection mode is set in Control Panel)**_
+### **Single Pulse Shock Mode&#x20;**_**(default mode for SVGS-5 If no detection mode is set in Control Panel)**_
 
 The device is triggered by a single shock detection which exceeds detection threshold.
 

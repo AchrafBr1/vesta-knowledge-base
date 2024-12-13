@@ -105,7 +105,7 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
 * The Smoke Detector can be put into Test mode by pressing the Test Button. Every time the Test Button is pressed, the Smoke Detector will transmit a test signal to the Control Panel for radio range test and enter the test mode for 3 mins. It will exit Test Mode automatically after 3 minutes and return to normal mode. In Test mode, the sleep timer is disabled, and the LED indicator will flash every time a movement is detected.
 * Supervision
 * The Smoke Detector will transmit a supervision signal to report its condition regularly according to user setting. The factory default interval is 30\~50 minutes. The user can also press the Test Button once to transmit a supervision signal manually.
-* _**Temperature Detection**_** (SD-29-H/SD-29-HM/SD-29-HME only)**
+* _**Temperature Detection**_**&#x20;(SD-29-H/SD-29-HM/SD-29-HME only)**
 * The Temperature Sensor measures temperature every 10 seconds, and transmits temperature reading to the Control Panel every 30\~33 minutes.
 * Users can also press the Test Button once to transmit current temperature reading manually.
 * Alarm Activation

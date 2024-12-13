@@ -168,7 +168,7 @@ Items
 
 **3.1.** **Mobile Lite Lanyard and Attachment**
 
-Based on orders from customers, either Adjustable Lanyard or Lanyard with Magnetic Breakaway Clasp will be provided**.**
+Based on orders from customers, either Adjustable Lanyard or Lanyard with Magnetic Breakaway Clasp will be provide&#x64;**.**
 
 | **Adjustable Lanyard** |   | **Lanyard with Magnetic Breakaway** |
 | ---------------------- | - | ----------------------------------- |
@@ -918,7 +918,7 @@ Depending on the setting of “Incoming Call Check Access Code” (see below), M
   * Enable: Mobile Lite will play voice prompts accordingly.
   * Disable: Mobile Lite will not play voice prompts.
 * **AGPS**
-  * Select to enable or disable APGS ([Assisted GPS](https://en.wikipedia.org/wiki/Assisted\_GPS)) for Mobile Lite.
+  * Select to enable or disable APGS ([Assisted GPS](https://en.wikipedia.org/wiki/Assisted_GPS)) for Mobile Lite.
   * When APGS is enabled (Factory Default), data connection will be used to contact the assistance server for AGPS information to improve the performance of GPS.
 * **Use Last Position**
 
@@ -1250,7 +1250,7 @@ Mobile Lite alarm and location reporting sequence is determined by **Use Last**
 
 **Position** setting.
 
-* **Use Last Position **_**Disabled**_
+* **Use Last Position&#x20;**_**Disabled**_
 
 When Mobile Lite button is pressed for 2 seconds and alarm is activated, it will begin to acquire new Location (through Wi-Fi and GPS positioning) and count down Guard Time.
 
@@ -1278,7 +1278,7 @@ Mobile Lite makes alarm report (CID 100/101/120) upon Guard Time expiry without 
 
 During the two-way communication, Mobile Lite will keep updating location and making report (CID 100/101/120) every minute.
 
-* **Use Last Position **_**Enabled**_
+* **Use Last Position&#x20;**_**Enabled**_
 
 When this function is Enabled, Mobile Lite will regularly scan for nearby Wi-Fi hotspots, other wireless access points and store the data according set time
 

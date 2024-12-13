@@ -42,13 +42,13 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 **3. Function Buttons**
 
-\-**Manual/Auto:** Enter Manual or Auto mode.
+-**Manual/Auto:** Enter Manual or Auto mode.
 
-\-**Boost/ Z-Wave:** Speed up heating process/add into Z-Wave network.
+-**Boost/ Z-Wave:** Speed up heating process/add into Z-Wave network.
 
 \- ![](<.gitbook/assets/9 (24).jpeg>) Press this button to instantly switch day and night temperatures.
 
-_**Default day**_ ![](<.gitbook/assets/10 (18).jpeg>) _temperature: 21_ °C_, **Default night**_ ![](<.gitbook/assets/11 (22).jpeg>) _temperature: 17_ °C
+_**Default day**_ ![](<.gitbook/assets/10 (18).jpeg>) _temperature: 21_ °&#x43;_, **Default night**_ ![](<.gitbook/assets/11 (22).jpeg>) _temperature: 17_ °C
 
 1. **Temperature Sensor**
 2. **Control Knob**
@@ -151,7 +151,7 @@ otherwise the room temperature will rise uncontrolled.
 
 Press and hold both Auto/Manual button and  button for 3 seconds to enable key lock function. If
 
-successful the LCD will display  symbol. All keys and Control Knob actions will not respond**.** If you wish
+successful the LCD will display  symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish
 
 to cancel key lock function, please press and hold both Auto/Manual button and button for 3 seconds likewise.
 

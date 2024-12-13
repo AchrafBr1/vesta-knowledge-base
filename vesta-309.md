@@ -348,7 +348,7 @@ By pressing the button on the SDCO Detector, you can test if the SDCO Detector i
   * If 5 beeps (DO-Bi-Bi-Bi-DO) are emitted, it means the Heat Sensor is out-of-order.
   * If 7 beeps (Bi-Bi-Bi-DO-Bi-Bi-Bi) are emitted, it means the CO Sensor is out-of-order.
 * _**Alarm Silence**_
-  * There are two ways to manually put the SDCO into Alarm Silence mode: pressing the button or sending **Scene/Siren Control or Siren On/ Off Control** command. By either method, the SDCO will enter Alarm Silence mode. After the period, a restore signal will be sent. Please refer to page 8 **“Smoke Emergency/Smoke Emergency Cleared**_**, Heat Emergency Cleared, and CO Emergency/**_** CO Emergency Cleared”** section for details.
+  * There are two ways to manually put the SDCO into Alarm Silence mode: pressing the button or sending **Scene/Siren Control or Siren On/ Off Control** command. By either method, the SDCO will enter Alarm Silence mode. After the period, a restore signal will be sent. Please refer to page 8 **“Smoke Emergency/Smoke Emergency Cleared**_**, Heat Emergency Cleared, and CO Emergency/**_**&#x20;CO Emergency Cleared”** section for details.
 
 ![](<.gitbook/assets/18 (38).png>)
 

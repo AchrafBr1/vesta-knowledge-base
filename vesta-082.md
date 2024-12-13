@@ -26,21 +26,13 @@ Press the Test button to transmit learning code or enter test mode for 3 minutes
 
 **Jumper On**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is inserted connecting the two pins
 
 **Jumper Off**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or **“parked”** on one pin.
 
@@ -53,21 +45,13 @@ The jumper link is removed or **“parked”** on one pin.
 
 **Jumper On**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is inserted connecting the two pins
 
 **Jumper Off**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or **“parked”** on one pin.
 
@@ -78,21 +62,13 @@ The jumper link is removed or **“parked”** on one pin.
 
 **Jumper On**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -101,11 +77,7 @@ The jumper link is removed or “**parked**” on one pin.
 
 **7.Door Open Direction Jumper Switch (JP5)**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Jumper On**
 
@@ -113,11 +85,7 @@ The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -142,7 +110,7 @@ When WADC-1 is mounted, the Tamper switch will be activated when the cover is op
 
 You can use the sensitivity increaser function to increase the PIR sensors’ detection sensitivity. To increase detection sensitivity, connect the Jumper Switch (JP3) to set to the **ON** position. To maintain normal detection sensitivity, disconnect the Jumper Switch (JP3) to set to the **OFF** position (Factory default).
 
-## _**Single / Multiple-Sensor Setting Function (JP4)**** **<mark style="background-color:blue;">**(JP4 Reserved)**</mark>_
+## _**Single / Multiple-Sensor Setting Function (JP4)****&#x20;**<mark style="background-color:blue;">**(JP4 Reserved)**</mark>_
 
 You can use the Jumper Switch (JP4) to decide whether to recognize the device as a single sensor or multiple sensors after the device is learned into the Control Panel. If the Jumper Switch (JP4) is set to ON, WADC-1 will be recognized as 1 sensor. Whenever a movement is detected, the LED will flash. If the Jumper Switch is set to OFF, WADC-1 will be recognized as 3 separate sensors (PIR Zone 1 Sensor, PIR Zone 2 Sensor, and the Door Contact).&#x20;
 

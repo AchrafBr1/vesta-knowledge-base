@@ -1,6 +1,6 @@
 # VESTA-093
 
-**Pull Cord Unit **<mark style="background-color:yellow;">**(PCU-3 / PCU-5)**</mark>
+**Pull Cord Unit&#x20;**<mark style="background-color:yellow;">**(PCU-3 / PCU-5)**</mark>
 
 The Pull Cord Unit is used to activate an alarm when the cord is pulled. It can be quickly installed in easily accessible indoor locations for user to pull for emergency help.
 

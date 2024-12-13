@@ -31,7 +31,7 @@ Please note the torque on the screw should be less than 24.5 Nm (2.5 kg-m).
 
 ## The Power Supply <a href="#toc51257984" id="toc51257984"></a>
 
-The VDP uses 12\~24V DC or 16\~24V AC power as its power source. Turn off mains power first. Loosen the two screws of the 12\~24V DC or 16\~24V AC Power Input, and save the screws for later use. Connect wires to the inputs on the rear side of the back cover**\***; install the VDP to power on the device.
+The VDP uses 12\~24V DC or 16\~24V AC power as its power source. Turn off mains power first. Loosen the two screws of the 12\~24V DC or 16\~24V AC Power Input, and save the screws for later use. Connect wires to the inputs on the rear side of the back cove&#x72;**\***; install the VDP to power on the device.
 
 **\*Note:** It is recommended to use wire with a diameter less than 15mm to connect to the power input. The torque on the screw should be less than 24.5 nm (2.5 kg-m).
 
@@ -100,11 +100,7 @@ In order to incorporate the Video Door Phone into existing Climax security syste
 
 A smartphone with **Vesta Home 5 TW / Vesta Home 5 US** or **Vesta Home 5 EU** app installed is required to perform setup. Search for the app in Google Play or Apple App Store, type **Vesta Home 5 TW/US/EU** on the search bar according to your server, then download the application. Refer to Climax Home Portal Server user guide for detail.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1. Open Vesta Home 5 app and enter your existing user account & password of the Control Panel you wish to use for further setup.
 2. Tap the Camera icon in the navigation bar and the + icon on top left corner to add the VDP into your existing system. Select the VDP icon and tap “Next”.
@@ -119,23 +115,11 @@ Flashing LED indicates the Video Doorbell does not have a working Wi-Fi setting 
 
 4.1. Manual: Use your VDP as an AP. Connect to your Wi-Fi. Make sure your smartphone’s Wi-Fi is enabled. Follow on-screen instructions and wait for your VDP to connect to your Wi-Fi network. After successfully joining to your Wi-Fi network, the app proceeds to learn the VDP into the Control Panel. When learning is completed, re-login to the app and start using your VDP.
 
-<div align="left">
+<div align="left"><figure><img src=".gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure></div>
 
-</div>
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 4.2. QR Code: Enter your SSID information to generate QR Code for VDP to scan. The QR Code includes information about the Wi-Fi network and the Control Panel. Follow on-screen instructions. Tap “QR Code” for your smartphone to display it. VDP will emit a short beep to indicate the scanning is successful. When the LED stops flashing, tap “Done” to complete the setup. After VDP successfully joins to your Wi-Fi network, the app will proceed to learn the VDP into the Control Panel. When learning is completed, the VDP is able to be viewed on the app.
 
@@ -209,11 +193,7 @@ Before using the Doorbell Notification, the following settings should be complet
 * The Control Panel Home Portal Server account should be registered and working properly.
 * The Control Panel Home Portal Server account’s push notification setting must be enabled. To access miscellaneous page, log in your application and tap the  icon at top right corner and tap Notification.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
 
 * The Notification page allows users to change push notification, incoming call and email notification settings. The Push Setting only affects push notification report to this specific user account and does not affect other accounts related to the same panel.
 * You can also enable or disable email notification of VDP event with your app.

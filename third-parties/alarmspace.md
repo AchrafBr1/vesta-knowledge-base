@@ -1,4 +1,4 @@
-# 🛡 ALARMSPACE
+# 🛡️ ALARMSPACE
 
 **MANUAL DE USUARIO V.3.0.1.4-003**
 
@@ -530,7 +530,7 @@ Podemos copiar los datos de un canal en los otros canales pulsando con el botón
 Al pulsar Ok se copian y guardan los datos en los canales seleccionados.
 
 \
-_Alarmas de incendio_
+&#xNAN;_&#x41;larmas de incendio_
 
 Los eventos de incendio son totalmente distintos de los de los grabadores. También podemos gestionarlos al cargar el botón _Gestionar Alarmas por canal_ si estamos gestionando una central de incendio:
 
@@ -552,7 +552,7 @@ En el ejemplo vemos los horarios del lunes. Los eventos saltarían de 12 de la n
 
 Podemos copiar estos horarios al resto de días de la semana con el botón _Copiar a todos los días,_ sólo de lunes a viernes o elegir los días a copiar con _Copiar a otros días:_
 
-**2.3.1.5. **_**Certificados**_
+**2.3.1.5.&#x20;**_**Certificados**_
 
 Programamos la generación automatizada de certificados de las instalaciones. Si activamos esta opción en un DVR se generará un certificado de la instalación en el directorio _AutoCerts,_ dentro de la carpeta de trabajo de AlarmSpace:
 
@@ -1537,7 +1537,7 @@ Cambio del código de alarma (evento Contact ID o SIA) por el código deseado. T
 
 Funcionalidad en desarrollo.
 
-**5.3.1.9. **_**Parámetros LORA**_
+**5.3.1.9.&#x20;**_**Parámetros LORA**_
 
 En este apartado aparecen los parámetros configurados automáticamente para el correcto funcionamiento de la recepción de eventos mediante las redes Lorawan. Un indice propio de cada CRA, el nombre de la CRA (se puede modificar, es meramente informativo), la Ip asignada por la red privada virtual y el puerto utilizado por la red para recibir eventos. No hace falta abrir ese puerto porque estamos sobre una VPN.
 
@@ -1551,7 +1551,7 @@ _**5.3.1.11. API Múltiple**_
 
 Esta funcionalidad permite definir más de una API para uso con el VisorHTML. Los distintos parámetros de cada API se pueden asignar individualmente a un abonado en concreto, de manera que tendrán preferencia estos parámetros en frente de los parámetros generales definidos en Parámetros API.
 
-**5.3.1.12. **_**Parámetros Nuva**_
+**5.3.1.12.&#x20;**_**Parámetros Nuva**_
 
 Desde este apartado podemos habilitar las comunicaciones con la nube de Nuvathings, para recibir eventos de sus dispositivos.
 

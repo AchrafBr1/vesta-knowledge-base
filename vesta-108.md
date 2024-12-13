@@ -167,7 +167,7 @@ _<mark style="color:blue;">**Behavior**</mark>_
 * **Strobe activation:** Enable or Disable Siren LED strobe activation.
 * **Confirm flash:** Enable or Disable Siren LED flash when system Armed/Disarmed.
 * **Exit flash:** Enable or Disable Siren LED flash during an exit countdown period.
-* **Entry flash:** Enable or Disable Siren LED flash during an entry countdown period**.**
+* **Entry flash:** Enable or Disable Siren LED flash during an entry countdown perio&#x64;**.**
 * **Trigger flash:** Enable or Disable the flashing from the Siren LED when alarming.
 * **Alarm-in-memory sound:** Enable or Disable Alarm in Memory sound.
 * **Fault sound:** Enable or Disable system fault sounds.

@@ -118,7 +118,7 @@ The three![](<.gitbook/assets/1 (19).png>)![](<.gitbook/assets/2 (19).png>)![](<
 
 ..Enter **Old** Keypad Pin Code and then press **＊** key
 
-..Enter **New** a new 4-digit Keypad Pin Code and then press **#** key**.**
+..Enter **New** a new 4-digit Keypad Pin Code and then press **#** ke&#x79;**.**
 
 1. Press ＊ key and then 8 key — Enable Arm/ Home without PIN Code function.
 

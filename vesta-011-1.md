@@ -108,7 +108,7 @@ V. Press ＊ key and then 6 key — Edit Keypad Pin Code
 
 Enter **Old** Keypad Pin Code and then press **＊** key
 
-Enter **New** a new 4-digit Keypad Pin Code and then press **#** key**.**
+Enter **New** a new 4-digit Keypad Pin Code and then press **#** ke&#x79;**.**
 
 VI. Press ＊ key and then 8 key — .Enable Arm/ Home without PIN Code function.
 
