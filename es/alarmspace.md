@@ -1,4 +1,4 @@
-# 🛡️ ALARMSPACE
+# 🛡️ AlarmSpace
 
 **MANUAL DE USUARIO V.3.0.1.4-003**
 
@@ -530,7 +530,7 @@ Podemos copiar los datos de un canal en los otros canales pulsando con el botón
 Al pulsar Ok se copian y guardan los datos en los canales seleccionados.
 
 \
-_Alarmas de incendio_
+&#xNAN;_&#x41;larmas de incendio_
 
 Los eventos de incendio son totalmente distintos de los de los grabadores. También podemos gestionarlos al cargar el botón _Gestionar Alarmas por canal_ si estamos gestionando una central de incendio:
 
