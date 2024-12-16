@@ -6,9 +6,9 @@ The GEN-TX transmitter is installed inside EIRP-J1 and EIRC-J2, allowing them to
 
 The antennas of GEN-TX are different according to the frequency 433 and 868.
 
-**EIRP-J1** **EIRC-J2** **Frequency 433** **Frequency 868**
 
-![](<.gitbook/assets/0 (56).png>)
+
+<div data-full-width="true"><figure><img src=".gitbook/assets/1 (106).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/2 (114).png" alt=""><figcaption></figcaption></figure></div>
 
 * _**Identifying the Parts**_
 
