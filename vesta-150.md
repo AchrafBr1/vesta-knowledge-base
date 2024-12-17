@@ -1,7 +1,8 @@
 # VESTA 150
 
-* REMOTE KEYPAD with NFC Tag (KPT-32N-LE-F1)
-* _**Identifying the Parts**_
+## REMOTE KEYPAD with NFC Tag (KPT-32N-LE-F1)
+
+### _**Identifying the Parts**_
 
 ![KPT-32N 20160330 New](<.gitbook/assets/0 (25).jpeg>)
 
