@@ -73,7 +73,7 @@
 * [VESTA 136](vesta-136.md)
 * [VESTA-140](vesta-140.md)
 * [VESTA-144](vesta-144.md)
-* [VESTA 148](vesta-148.md)
+* [VESTA-148](vesta-148.md)
 * [VESTA 150](vesta-150.md)
 * [VESTA 150N](vesta-150n.md)
 * [VESTA 152](vesta-152.md)
