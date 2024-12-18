@@ -4,13 +4,13 @@
 
 ### _**Identifying the Parts**_
 
-![KPT-32N 20160330 New](<.gitbook/assets/0 (25).jpeg>)
+![](<.gitbook/assets/0 (25).jpeg>)
 
-![未命名-2](<.gitbook/assets/1 (21).jpeg>)**1. Siren**
+**1. Siren**
 
-![未命名-1](<.gitbook/assets/2 (14).jpeg>)**2. Orange LED: Home Arm Key**
+**2. Orange LED: Home Arm Key**  <img src=".gitbook/assets/1 (107).png" alt="" data-size="line">
 
-**3. Red LED: Away Arm Key**
+**3. Red LED: Away Arm Key** <img src=".gitbook/assets/image (131).png" alt="" data-size="line">
 
 **4. Panic Alarm (if enabled)**
 
@@ -38,69 +38,80 @@
 
 **12. Tamper Switch**
 
-**\<NOTE>**
-
+{% hint style="info" %}
 * A short beep will sound along with key pressing to indicate that the button pressed is valid.
 * A long beep will sound along with key pressing to indicate successful command.
 * 4 continuous beeps will sound indicating mistake and the user should repeat the process again.
 * Backlight will be ON for any key pressed or command sent from the Keypad.
-* _**LED Indicator**_
-* **Red LED (Away Arm Key)**
-  *
-    * **Red LED on:** the system is in **Test Mode**.
-    * **Red LED:** Red flashes, and Backlight on in the **Away Arm Mode.**
-    * **Red LED flash** with 4 beeps: failure due to the following reasons:
-* No response from the control panel.
-* Request for **Home mode** during **Arm mode**.
-* Request for **Force arm**.
-* **Orange LED (Home Arm Key)**
-  *
-    * **Orange LED:** Orange flashes and backlight on in the **Home Mode**.
-    * **Orange LED flashes for 5 seconds:** low battery in Normal Operation Mode, and Tamper open.
-    * **LED flash** with 4 beep&#x73;**:** failure due to the following reasons:
-* No response from the control panel.
-* Request for **Home mode** during **Arm mode**.
-* Request for **Force arm**.
+{% endhint %}
 
-**\<NOTE>**
+### _**LED Indicator**_
 
-* When Arm/Home, Red/Orange LED will turn off after successful completion of a valid keystroke sequence, or when the pause in between Control panel User code/PIN code keystrokes exceeds 2 seconds along with 4 beeps.
-* If Arm/Home button is pressed but no Control Panel User Code/PIN code is entered, in 5 seconds the keypad will enter sleep mode.
-* _**Built-in Siren**_
-  1. Exit Delay — the Remote keypad continuously beeps. If enter Arm mode or Home Mode, Remote Keypad will emit long beep.
-  2. Entry Delay —The Remote keypad continuously beeps. When entering Disarm Mode, the Remote Keypad will emit 2 beeps.
-  3. Alarm siren — Siren will sound continuously when an alarm is triggered. Fire Alarm will sound 2 seconds and 1 second off.
-* _**Power**_
+#### **Red LED (Away Arm Key)**
+
+* **Red LED on:** the system is in **Test Mode**.
+* **Red LED:** Red flashes, and Backlight on in the **Away Arm Mode.**
+* **Red LED flash** with 4 beeps: failure due to the following reasons:
+  * No response from the control panel.
+  * Request for **Home mode** during **Arm mode**.
+  * Request for **Force arm**.
+
+**Orange LED (Home Arm Key)**
+
+* **Orange LED:** Orange flashes and backlight on in the **Home Mode**.
+* **Orange LED flashes for 5 seconds:** low battery in Normal Operation Mode, and Tamper open.
+* **LED flash** with 4 beep&#x73;**:** failure due to the following reasons:
+  * No response from the control panel.
+  * Request for **Home mode** during **Arm mode**.
+  * Request for **Force ar**
+
+
+
+{% hint style="info" %}
+When Arm/Home, Red/Orange LED will turn off after successful completion of a valid keystroke sequence, or when the pause in between Control panel User code/PIN code keystrokes exceeds 2 seconds along with 4 beeps.
+
+If Arm/Home button is pressed but no Control Panel User Code/PIN code is entered, in 5 seconds the keypad will enter sleep mode.
+{% endhint %}
+
+### _**Built-in Siren**_
+
+1. Exit Delay — the Remote keypad continuously beeps. If enter Arm mode or Home Mode, Remote Keypad will emit long beep.
+2. Entry Delay —The Remote keypad continuously beeps. When entering Disarm Mode, the Remote Keypad will emit 2 beeps.
+3. Alarm siren — Siren will sound continuously when an alarm is triggered. Fire Alarm will sound 2 seconds and 1 second off.
+
+### _**Power**_
+
 * Remote keypad uses three EL123AP 3V Lithium batteries as its power source.
 * Remote keypad can also detect the battery status. If the battery voltage is low, the Orange LED will flash for 5 seconds. The Low battery signal will be sent along with regular signal transmissions to the Control Panel for displaying the status accordingly.
 * When the battery is exhausted, the Remote keypad will stop all function, all LED will flash every 4 seconds.
-* _**Power Saving Feature**_
+
+### _**Power Saving Feature**_
+
 * When idle, Remote keypad is in **Stand-by** mode and uses no power. It will activate and **wake-up** for 5 second when any key is pressed or keypad sensor is detected.
 * After 5 seconds of key inactivity, the power goes off and it returns t**o Stand-by** mode.
 * Upon completion of a command input, the power goes off and Remote keypad returns to **Stand-by** mode.
 
-**\<NOTE>**
-
+{% hint style="info" %}
 You can also press and hold ＊ and # key for 2 seconds to send learning code when Idle.
+{% endhint %}
 
-* _**Supervisory Signal**_
+### _**Supervisory Signal**_
+
 * The Remote Keypad will automatically transmit Supervisory Signals periodically to the Control Panel at random intervals of 30-50 minutes.
-* _**Test Mode**_
+
+### _**Test Mode**_
+
 * Remote keypad can be put into Test mode by entering the Keypad PIN code (default: **0000**) followed by “＊” key along with a long beep sounding, the Red LED and backlight will turn on.
 * To exit Test mode, press # key **twice** (long beep). Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to Stand-by mode.
 
-_**Under the Test mode, the following functions can be enabled:**_
+_Under the Test mode, the following functions can be enable&#x64;**:**_
 
-*
-  *
-    *
-      *
-        * Press ＊ key and then **1** key — to enter the Tag Management mode.
-        * Press ＊ key and then **2** key — to enable Dual-key Panic Alarm function
-        * Press ＊ key and then **3** key — to enable Dual-key Fire Alarm function
-        * Press ＊ key and then **4** key — to enable Dual-key Medical Alarm function
-        * Press ＊ key and then **5** key — to disable all Dual Key function (long beep). (**Default**)
-        * Press ＊ key and then **6** key — to change the Keypad PIN Code
+* Press ＊ key and then **1** key — to enter the Tag Management mode.
+* Press ＊ key and then **2** key — to enable Dual-key Panic Alarm function
+* Press ＊ key and then **3** key — to enable Dual-key Fire Alarm function
+* Press ＊ key and then **4** key — to enable Dual-key Medical Alarm function
+* Press ＊ key and then **5** key — to disable all Dual Key function (long beep). (**Default**)
+* Press ＊ key and then **6** key — to change the Keypad PIN Code
 
 1. Enter **Old** Keypad Pin Code and then press \* key along with a long beep. If incorrect PIN Code is entered, they Keypad will emit 4 beeps and exit PIN Code change function. (Pressing # key will also exit PIN Code change function)
 2. Enter **New** 4-digit Keypad PIN Code and then press **#** key. The Keypad will emit a long beep and will exit change Keypad PIN Code function automaticall&#x79;**.**
