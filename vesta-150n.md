@@ -1,6 +1,6 @@
 # VESTA 150N
 
-## **REMOTE KEYPAD with NFC Tag (KPT-35N-S10)**
+**REMOTE KEYPAD with NFC Tag (KPT-35N-S10)**
 
 ### _**Identifying the Parts**_
 
@@ -107,70 +107,67 @@ You can also press and hold ＊ and # key for 2 seconds to send learning code wh
 * Press ＊ key and then **8** key — to enable Arm/ Home without Control Panel User Code function with a long beep.&#x20;
 * Press ＊ key and then **9** key — to enable Arm/ Home with Control Panel User Code function with a long beep (the code checked by panel) (**Default**).
 * Press “#” key **twice** — to exit Test Mod&#x65;**.**
-* _**Learning Keypad into Control Panel**_
 
-![](<.gitbook/assets/13 (20).jpeg>)
+### _**Learning Keypad into Control Panel**_
 
-Step 1. Put the Control Panel into **Learning Mode**. Please refer to the Control Panel manual.
+**Step 1 -->** Put the Control Panel into **Learning Mode**. Please refer to the Control Panel manual.
 
-Step 2. **Normal Mode**
+**Step 2 -->** &#x20;
+
+_**Normal Mode**_
 
 Under Keypad Normal Mode, press and hold ＊ key and # key for 2 seconds to transmit learn code to Control Panel.
 
-**Test Mode**
+_**Test Mode**_
 
 Alternatively, you can enable Remote keypad to enter Test Mode first. Enter Keypad PIN Code (Default: **0000**) and then press **＊** key. The **Red** LED will turn on and sound a long beep. Press ＊ key and then **7** key to transmit learn code to Control Panel.
 
-Step 3. Refer to Control Panel manual to complete the learning process. If learning is successful, the Keypad will emit 3 beeps upon receiving acknowledgement signal from Control Panel. If the Keypad does not sound 3 beeps to indicate receiving the signal from the Control Panel, the Orange LED will flash. Please repeat Step 2 to transmit learn code again.
+**Step 3 -->** Refer to Control Panel manual to complete the learning process. If learning is successful, the Keypad will emit 3 beeps upon receiving acknowledgement signal from Control Panel. If the Keypad does not sound 3 beeps to indicate receiving the signal from the Control Panel, the Orange LED will flash. Please repeat Step 2 to transmit learn code again.
 
-Step 4. After the Remote keypad is learnt-in, put the Control Panel into **Walk Test** mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel.
+**Step 4 -->** After the Remote keypad is learnt-in, put the Control Panel into **Walk Test** mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel.
 
-![](<.gitbook/assets/14 (21).jpeg>)
+### _**Edit Keypad Operation Area**_
 
-* _**Edit Keypad Operation Area**_
-  * Follow instructions below to change Keypad Area in the Control Panel
-    1. Use the panel Edit Device function to change Keypad area setting.
-    2. Put the Control Panel into **Learning Mode**.
-    3. Press and hold ＊ key and **#** key of keypad for 2 seconds to transmit learn code to Control Panel.
-    4. The keypad will be displayed under learned device. Area update is complete.
-* _**Tamper Protection**_
-  * The keypad is protected against any attempt to open the lid or to detach keypad from its mounting surface.
-  * Tamper protection is disabled when the keypad is in Test Mode.
-* _**Add Tag/Clear Tag Procedures**_
+* Follow instructions below to change Keypad Area in the Control Panel
+  1. Use the panel Edit Device function to change Keypad area setting.
+  2. Put the Control Panel into **Learning Mode**.
+  3. Press and hold ＊ key and **#** key of keypad for 2 seconds to transmit learn code to Control Panel.
+  4. The keypad will be displayed under learned device. Area update is complete.
 
-![](<.gitbook/assets/15 (16).jpeg>) ![](<.gitbook/assets/16 (13).jpeg>)
+### _**Tamper Protection**_
+
+* The keypad is protected against any attempt to open the lid or to detach keypad from its mounting surface.
+* Tamper protection is disabled when the keypad is in Test Mode.
+
+### _**Add Tag/Clear Tag Procedures**_
 
 The Keypad is capable of transmitting NFC (Near Field Communication) tags to the Control Panel, and you can assign a PIN Code and user name to each NFC tag on the Panel webpage. The NFC tags can then be used to control alarm system mode through the Keypad. The number of NFC tags and PIN Codes are managed on the Control Panel webpage.
 
-1. _**Add Tag:**_
+* _**Add Tag:**_
 
 When adding a new tag, the keypad must be in normal operation mode.
 
-Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, assign the user pin code to an Area.
+**Step 1 -->** Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, assign the user pin code to an Area.
 
 ![](<.gitbook/assets/17 (20).png>)
 
-Step 2. After KPT-35N-S10 is successfully learnt into the panel, apply a new tag to the Keypad Tag sensor zone. The
+**Step 2 -->**  After KPT-35N-S10 is successfully learnt into the panel, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
 
-3
-
-white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
-
-Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
+**Step 3 -->**  Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
 ![](<.gitbook/assets/18 (22).png>)
 
-Step 4. The tag has been added. You can use the tag to arm/home arm/disarm the system. When Keypad is powered on by inserting batteries, the Orange LED will flash and the white backlight will turn on. When LED is off, wait 10 seconds for keypad tag sensor to start functioning.
+**Step 4 -->**  The tag has been added. You can use the tag to arm/home arm/disarm the system. When Keypad is powered on by inserting batteries, the Orange LED will flash and the white backlight will turn on. When LED is off, wait 10 seconds for keypad tag sensor to start functioning.
 
-1. _**Clear Tag:**_
+* _**Clear Tag:**_
 
-Step 1. Go to the PIN Code page on the Control Panel webpage.
+**Step 1 -->**  Go to the PIN Code page on the Control Panel webpage.
 
-Step 2. Manually delete the tag number and click Submit.
+**Step 2 -->** Manually delete the tag number and click Submit.
 
 ![](<.gitbook/assets/19 (23).png>)
 
-Step 3. The tag is cleared.
+**Step 3 -->** The tag is cleared.
 
 * _**Mounting Remote Keypad**_
 
