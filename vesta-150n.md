@@ -32,80 +32,71 @@
 19. **Bottom Fixing Screw x 1**
 20. **Bracket for Desktop Deployment** (optional item, sold separately)
 
-![](<.gitbook/assets/3 (64).png>)
-
-_**\<NOTE>**_
-
+{% hint style="info" %}
 * A short beep will sound along with key pressing to indicate that the button pressed is valid.
 * A long beep will sound along with key pressing to indicate successful command.
 * 4 continuous beeps will sound indicating mistake and the user should repeat the process again.
 * Backlight will be ON for any key pressed or command sent from the Keypad.
+{% endhint %}
 
-1
+### _**LED Indicator**_
 
-* ![](<.gitbook/assets/4 (65).png>)_**LED Indicator**_
-  * **Red LED (Away Arm Key)**
-    * **Red LED on:** the system is in **Test Mode**.
-    * **Red LED:** Red LED and White Backlight will turn on with long beep first, and then the Red LED and White Backlight will turn on for 1 second in the **Away Arm Mode.**
-    * **Red LED flash** with 4 beeps: failure due to the following reasons:
-      * No response from the control panel.
-      * Request for **Force arm**.
-  * **Yellow LED (Home Arm Key)**
-    * **Yellow LED:** Yellow LED and White Backlight will turn on with a long beep first, and then the Yellow LED and White Backlight will turn on for 1 second in the **Home Mode**.
-    * **Yellow LED flashes for 5 seconds:** low battery in Normal Operation Mode, and Tamper open.
-    * **LED flash** with 4 beep&#x73;**:** failure due to the following reasons:
-      * No response from the control panel.
-      * Request for **Home mode** during **Arm mode**.
-      * Request for **Force arm**.
+* **Red LED (Away Arm Key)**
+  * **Red LED on:** the system is in **Test Mode**.
+  * **Red LED:** Red LED and White Backlight will turn on with long beep first, and then the Red LED and White Backlight will turn on for 1 second in the **Away Arm Mode.**
+  * **Red LED flash** with 4 beeps: failure due to the following reasons:
+    * No response from the control panel.
+    * Request for **Force arm**.
+* **Yellow LED (Home Arm Key)**
+  * **Yellow LED:** Yellow LED and White Backlight will turn on with a long beep first, and then the Yellow LED and White Backlight will turn on for 1 second in the **Home Mode**.
+  * **Yellow LED flashes for 5 seconds:** low battery in Normal Operation Mode, and Tamper open.
+  * **LED flash** with 4 beep&#x73;**:** failure due to the following reasons:
+    * No response from the control panel.
+    * Request for **Home mode** during **Arm mode**.
+    * Request for **Force arm**
 
-![](<.gitbook/assets/5 (66).png>) ![](<.gitbook/assets/6 (46).png>)
 
-_**\<NOTE>**_
 
-*
-  * When Arm/Home, Red/Yellow LED will turn off after successful completion of a valid keystroke sequence.
-  * If Arm/Home button is pressed but no tag is applied to the Keypad sensor zone, in 5 seconds the keypad will enter sleep mode.
-  * If Control Panel User Code/Pin code is entered but the Arm/Home button is not pressed, in 5 seconds the keypad will enter sleep mode.
-* _**Built-in Siren**_
+{% hint style="info" %}
+* When Arm/Home, Red/Yellow LED will turn off after successful completion of a valid keystroke sequence.
+* If Arm/Home button is pressed but no tag is applied to the Keypad sensor zone, in 5 seconds the keypad will enter sleep mode.
+* If Control Panel User Code/Pin code is entered but the Arm/Home button is not pressed, in 5 seconds the keypad will enter sleep mode.
+{% endhint %}
 
-![](<.gitbook/assets/7 (42).jpeg>)
+### _**Built-in Siren**_
 
 1. Exit Delay — the Remote keypad continuously beeps. If enter Arm mode or Home Mode, Remote Keypad will emit long beep.
 2. Entry Delay — the Remote keypad continuously beeps. When entering Disarm Mode, the Remote Keypad will emit 2 beeps.
-   *
-     1. Alarm siren — Siren will sound continuously when an alarm is triggered. Fire Alarm will sound 2 seconds and 1 second off.
+3. Alarm siren — Siren will sound continuously when an alarm is triggered. Fire Alarm will sound 2 seconds and 1 second off.
 
-* _**Power**_
-  * Remote keypad uses three CR123 3V Lithium batteries as its power source.
-  * Remote keypad can also detect the battery status. If the battery voltage is low, the Yellow LED will flash for 5 seconds. The Low battery signal will be sent along with regular signal transmissions to the Control Panel for displaying the status accordingly.
-  * When the battery is exhausted, the Remote keypad will stop all function, all LED will flash every 4 seconds.
-* _**Power Saving Feature**_
-  * When idle, Remote keypad is in **Stand-by** mode and uses no power. It will activate and **wake-up** for 5 second when any key is pressed or keypad sensor is detected.
-  * After 5 seconds of key inactivity, the power goes off and it returns t**o Stand-by** mode.
-  * Upon completion of a command input, the power goes off and Remote keypad returns to **Stand-by** mode.
+### _**Power**_
 
-![](<.gitbook/assets/8 (33).jpeg>) ![](<.gitbook/assets/9 (20).jpeg>) ![](<.gitbook/assets/10 (40).png>)
+* Remote keypad uses three CR123 3V Lithium batteries as its power source.
+* Remote keypad can also detect the battery status. If the battery voltage is low, the Yellow LED will flash for 5 seconds. The Low battery signal will be sent along with regular signal transmissions to the Control Panel for displaying the status accordingly.
+* When the battery is exhausted, the Remote keypad will stop all function, all LED will flash every 4 seconds.
 
-_**\<NOTE>**_
+### _**Power Saving Feature**_
 
+* When idle, Remote keypad is in **Stand-by** mode and uses no power. It will activate and **wake-up** for 5 second when any key is pressed or keypad sensor is detected.
+* After 5 seconds of key inactivity, the power goes off and it returns t**o Stand-by** mode.
+* Upon completion of a command input, the power goes off and Remote keypad returns to **Stand-by** mode.
+
+{% hint style="info" %}
 You can also press and hold ＊ and # key for 2 seconds to send learning code when Idle.
+{% endhint %}
 
-![](<.gitbook/assets/11 (20).jpeg>)
+### _**Supervisory Signal**_
 
-* _**Supervisory Signal**_
-  * The Remote Keypad will automatically transmit Supervisory Signals periodically to the Control Panel at random intervals of 30-50 minutes.
-* _**Test Mode**_
-  * Remote keypad can be put into Test mode by entering the Keypad PIN code (default: **0000**) followed by “＊” key along with a long beep sounding, the Red LED and backlight will turn on.
-  * To exit Test mode, press # key **twice** (long beep). Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to Stand-by mode.
+* The Remote Keypad will automatically transmit Supervisory Signals periodically to the Control Panel at random intervals of 30-50 minutes.
 
-![](<.gitbook/assets/12 (19).jpeg>)
+### _**Test Mode**_
 
-_**Under the Test mode, the following functions can be enabled:**_
+* Remote keypad can be put into Test mode by entering the Keypad PIN code (default: **0000**) followed by “＊” key along with a long beep sounding, the Red LED and backlight will turn on.
+* To exit Test mode, press # key **twice** (long beep). Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to Stand-by mode.
+
+#### _**Under the Test mode, the following functions can be enabled:**_
 
 * Press ＊ key and then **2** key — to enable Dual-key Panic Alarm function
-
-2
-
 * Press ＊ key and then **3** key — to enable Dual-key Fire Alarm function
 * Press ＊ key and then **4** key — to enable Dual-key Medical Alarm function
 * Press ＊ key and then **5** key — to disable all Dual Key function (long beep). (**Default**)
@@ -113,13 +104,9 @@ _**Under the Test mode, the following functions can be enabled:**_
   1. Enter **Old** Keypad Pin Code and then press \* key along with a long beep. If incorrect PIN Code is entered, they Keypad will emit 4 beeps and exit PIN Code change function. (Pressing # key will also exit PIN Code change function)
   2. Enter **New** 4-digit Keypad PIN Code and then press **#** key. The Keypad will emit a long beep and will exit change Keypad PIN Code function automaticall&#x79;**.**
 * Press ＊ key and then **7** key — to transmit Remote keypad learn signal with a long beep.
-* Press ＊ key and then **8** key — to enable Arm/ Home without Control Panel User Code function with a long beep. (the code is checked by panel).
-* Press ＊ key and then **9** key — to enable Arm/ Home with Control Panel User Code function with a long beep (the
-
-code checked by panel) (**Default**).
-
-*
-  * Press “#” key **twice** — to exit Test Mod&#x65;**.**
+* Press ＊ key and then **8** key — to enable Arm/ Home without Control Panel User Code function with a long beep.&#x20;
+* Press ＊ key and then **9** key — to enable Arm/ Home with Control Panel User Code function with a long beep (the code checked by panel) (**Default**).
+* Press “#” key **twice** — to exit Test Mod&#x65;**.**
 * _**Learning Keypad into Control Panel**_
 
 ![](<.gitbook/assets/13 (20).jpeg>)
