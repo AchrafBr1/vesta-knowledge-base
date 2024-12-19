@@ -10,11 +10,7 @@ The Door Contact / Shock Vibration Sensor design consists of a cover and base. T
 
 ![DCSV-23ZBS](<.gitbook/assets/0 (22).jpeg>) &#x20;
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1. **LED Indicator / Test Button**
 
@@ -170,8 +166,4 @@ The device is triggered by either of the following condition:
 * Don’t mount the device on surface materials where frequent vibration occurs, to prevent false alarming.
 * When mounting on safety box, mount the Door Contact / Shock Sensor no more than 2cm away from the door pivot (refer to the below picture).
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure></div>

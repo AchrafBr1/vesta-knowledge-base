@@ -1,6 +1,6 @@
 # VESTA-204
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>VESTA-204<strong>Carbon Monoxide Detector CO-8</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>VESTA-204<strong>Carbon Monoxide Detector CO-8</strong></p></figcaption></figure>
 
 **Carbon Monoxide Detector CO-8**
 
@@ -99,9 +99,9 @@ It is recommended to install the Carbon Monoxide Detector in following locations
 * For houses with garage, also mount near the internal door to garage and the room above the garage for protection in case when car engin is not turned off.
 
 {% hint style="warning" %}
-* Inside kitchen and garage – to avoid false alarm
-* Corner or location with stagnant air – to avoid false alarm
-* Fireplace – Keep at least 4.5 meters of distance to avoid false alarm.
+- Inside kitchen and garage – to avoid false alarm
+- Corner or location with stagnant air – to avoid false alarm
+- Fireplace – Keep at least 4.5 meters of distance to avoid false alarm.
 {% endhint %}
 
 * _**Installation**_
@@ -125,11 +125,11 @@ Step 4. Hook the Carbon Monoxide Detector onto the mounting bracket. Installatio
   * Do not paint the device, the painting may block the detector the vent hole and affects its ability to sample air.
 
 {% hint style="warning" %}
-* Prevent CO-8 from colliding or falling that could damage the device.
-* This Apparatus is designed to protect individuals from the acute effects of carbon monoxide exposure. It will not fully safeguard individuals with specific medical conditions. If in doubt consult a medical practitioner.
-* In case of an alarm, promptly hold your breath to prevent inhaling carbon monoxide and open the doors /windows to clear the air, then leave your premises for safety.
-* Exposed to carbon monoxide could result in CO poisoning, causing headaches, dizziness, vomiting as effects. Inhaling large amount of CO could even result in severe conditions such as heart rate rises, unconsciousness and respiratory failures even death.
-* You must **NOT** modify the apparatus under any circumstances.
-* The apparatus should be installed for regular home environment; it should not be substituted /used for other purposes such as maintenance of fuel burning appliances, boilers, chimneys.
-* The operating temperature is -10°C to 50°C, operation humidity up to 85% non-condensing.
+- Prevent CO-8 from colliding or falling that could damage the device.
+- This Apparatus is designed to protect individuals from the acute effects of carbon monoxide exposure. It will not fully safeguard individuals with specific medical conditions. If in doubt consult a medical practitioner.
+- In case of an alarm, promptly hold your breath to prevent inhaling carbon monoxide and open the doors /windows to clear the air, then leave your premises for safety.
+- Exposed to carbon monoxide could result in CO poisoning, causing headaches, dizziness, vomiting as effects. Inhaling large amount of CO could even result in severe conditions such as heart rate rises, unconsciousness and respiratory failures even death.
+- You must **NOT** modify the apparatus under any circumstances.
+- The apparatus should be installed for regular home environment; it should not be substituted /used for other purposes such as maintenance of fuel burning appliances, boilers, chimneys.
+- The operating temperature is -10°C to 50°C, operation humidity up to 85% non-condensing.
 {% endhint %}

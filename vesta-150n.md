@@ -1,8 +1,8 @@
 # VESTA 150N
 
-![](<.gitbook/assets/0 (57).png>)**REMOTE KEYPAD with NFC Tag (KPT-35N-S10)**
+## **REMOTE KEYPAD with NFC Tag (KPT-35N-S10)**
 
-* _**Identifying the Parts**_
+### _**Identifying the Parts**_
 
 ![](<.gitbook/assets/1 (58).jpeg>)
 
@@ -12,31 +12,25 @@
    * Press both 1 and 3 to trigger panic alarm
 4. **Backlit Numeric Keys**
 5. **Fire Alarm (if enabled)**
-   * Press both 4 and 6 to trigger fire alarm
+   1. Press both 4 and 6 to trigger fire alarm
 6. **Medical Alarm (if enabled)**
-   * Press both 7 and 9 to trigger Medical alarm
-7. **Backlit Star (＊) Key**
-   * Enter Keypad PIN Code +  Key to enter Test Mode.
+   1. Press both 7 and 9 to trigger Medical alarm
+7. **Backlit Star (**<img src=".gitbook/assets/1.png" alt="" data-size="line">**) Key**
+   1. Enter Keypad PIN Code + <img src=".gitbook/assets/1 (1).png" alt="" data-size="line">Key to enter Test Mode.
 8. **Backlit Pound (＃) Key**
-9. **Backlit OK Key**
-
-![](<.gitbook/assets/2 (49).jpeg>)
-
-**10. Backlit Restore (** ) **Key**
-
-*
-  * Press this key in stand-by mode to inquire the system mode.
-
-1. **Away Arm Key**
-2. **Backlit NFC Sensor Zone**
-3. **Home Arm Key**
-4. **Buzzer**
-5. **Battery Compartment**
-6. **Tamper Switch**
-7. **Bracket Holes x 3**
-8. **Mounting Holes x 4**
-9. **Bottom Fixing Screw x 1**
-10. **Bracket for Desktop Deployment** (optional item, sold separately)
+9. **Backlit (OK) Key**
+10. &#x20;**Backlit Restore (** <img src=".gitbook/assets/image (1).png" alt="" data-size="line">) **Key**
+    1. Press this key in stand-by mode to inquire the system mode.
+11. **Away Arm Key**
+12. **Backlit NFC Sensor Zone**
+13. **Home Arm Key**
+14. **Buzzer**
+15. **Battery Compartment**
+16. **Tamper Switch**
+17. **Bracket Holes x 3**
+18. **Mounting Holes x 4**
+19. **Bottom Fixing Screw x 1**
+20. **Bracket for Desktop Deployment** (optional item, sold separately)
 
 ![](<.gitbook/assets/3 (64).png>)
 
