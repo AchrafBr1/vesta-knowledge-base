@@ -1,4 +1,4 @@
-# VESTA 150N
+# VESTA-150N
 
 **REMOTE KEYPAD with NFC Tag (KPT-35N-S10)**
 
@@ -55,12 +55,10 @@
     * Request for **Home mode** during **Arm mode**.
     * Request for **Force arm**
 
-
-
 {% hint style="info" %}
-* When Arm/Home, Red/Yellow LED will turn off after successful completion of a valid keystroke sequence.
-* If Arm/Home button is pressed but no tag is applied to the Keypad sensor zone, in 5 seconds the keypad will enter sleep mode.
-* If Control Panel User Code/Pin code is entered but the Arm/Home button is not pressed, in 5 seconds the keypad will enter sleep mode.
+- When Arm/Home, Red/Yellow LED will turn off after successful completion of a valid keystroke sequence.
+- If Arm/Home button is pressed but no tag is applied to the Keypad sensor zone, in 5 seconds the keypad will enter sleep mode.
+- If Control Panel User Code/Pin code is entered but the Arm/Home button is not pressed, in 5 seconds the keypad will enter sleep mode.
 {% endhint %}
 
 ### _**Built-in Siren**_
@@ -165,92 +163,94 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 **Step 2 -->** Manually delete the tag number and click Submit.
 
-![](<.gitbook/assets/19 (23).png>)
+<figure><img src=".gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3 -->** The tag is cleared.
 
-* _**Mounting Remote Keypad**_
+### _**Mounting Remote Keypad**_
 
 To mount the remote keypad:
 
 1. Remove the front cover.
 2. Using the 2 mounting holes of the back cover as a template, mark off the positions in the most appropriate place.
 3. Insert the wall plugs if fixing into plaster or brick surface.
+4. Screw the Remote keypad onto the wall plugs.
+5. Replace the front cover.
 
-IV. Screw the Remote keypad onto the wall plugs.
-
-*
-  1. Replace the front cover.
-* _**How to Set System Mode**_
-
-![](<.gitbook/assets/20 (10).jpeg>)
+### _**How to Set System Mode**_
 
 You may choose to arm/home arm with or without a Control Panel User Code
 
-**Arm/Home without Control Panel User Code**
+* **Arm/Home without Control Panel User Code**
 
 In the Test mode, Pressing ＊ key and then 8 key to enable Arm/ Home without Control Panel User Code function, then exit Test mode by pressing the # key twice.
 
-* **Enter Arm Mode**: Press  key. If panel has no fault and arming is successful, the Red LED will turn ON with a short beep. When successful Arm, Red LED flashes, Backlight turns on with a long beep.
-* **Enter Home Mode**: Presskey. If panel has no fault and arming is successful, the Yellow LED will turn ON with a short beep. When successful Home Arm, Yellow LED flashes, Backlight turns on with a long beep.
+* [x] **Enter Arm Mode**: Press  key. If panel has no fault and arming is successful, the Red LED will turn ON with a short beep. When successful Arm, Red LED flashes, Backlight turns on with a long beep.
+* [x] **Enter Home Mode**: Presskey. If panel has no fault and arming is successful, the Yellow LED will turn ON with a short beep. When successful Home Arm, Yellow LED flashes, Backlight turns on with a long beep.
   * **Return to Disarm Mode**: Enter 4-digit or 6-digit Control Panel User Code + OK Key or put Tag on the Keypad Sensor will emit a short beep. If disarm is successful, Backlight flashes along with 2 beeps.
 
-**Arm/Home with Control Panel User Code or NFC Tag**
+- **Arm/Home with Control Panel User Code or NFC Tag**
 
 In the Test mode, Pressing ＊ key and then 9 key can enable Arm/ Home with User Code function, then exit Test mode by pressing the # key twice. **(Default)**
 
-**This function must be enabled for NFC tag to be used.**
+#### _**This function must be enabled for NFC tag to be used**_
 
-4
+* [x] Enter Arm Mode :Enter Control Panel User Code then p ress (or press then apply Tag to tag sensor zone )), Red LED light turns on along with a short beep . If panel has no fault and arming is successful, the Red LED will flash, Backlight turns on alon g with a long beep
+* [x] Enter Home Mode : Enter Control Panel User Code then p ress (or press then apply Tag to tag sensor zone)zone), Yellow LED light turns on along with a short beep If panel has no fault and arming is successful, the Yellow LED will flash and Backlight turns on along with a long beep.
+* [x] Return to Disarm Mode Enter Control Panel U ser C ode + OK Key or put tag on the Keypad S ensor along with a short beep If disarm is successful, Backlight flashes along with 2 beeps.
+
+### Check System Mode
+
+* [x] When the keypad is in stand by mode, you can press the <img src=".gitbook/assets/image (132).png" alt="" data-size="line">key to check the current system mode of the panel.
+* [x] If the system is in Arm Mode, the k eypad Red LED and White Backlight will turn on with long beep first, and then the Red LED and White Backlight will turn on for 1 second.
+* [x] If the system is in Home Mode, the Keypad Yellow LED and White Backlight will turn on with a long beep first, and then the Yellow LED and White Backlight will turn on for 1 second.
+* [x] If the system is in Disarm Mode, the Keypad White Backlight will turn on with 2 b eeps first, flash once, and then the White Backlight will turn on for 1 second.
+
+### Dual-key Alarm function
 
 The Dual Key function allows you to activate alarm from Keypad by pressing 2 keys at the same time. Press and hold both key for 1 second to transmit signal, the Keypad will emit a long beep to confirm. The dual-key function is **disabled** by default. To enable it, please refer to the Test Mode section.
 
-*
-  *
-    * **Panic Alarm**: **1** key + **3** key.
-    * **Fire Alarm**: **4** key + **6** key.
-    * **Medical Alarm**: **7** key + **9**.
-* _**Change of Battery**_
-  1. Put the Control Panel to programming menu to bypass the Keypad tamper alarm.
+* **Panic Alarm**: **1** key + **3** key.
+* **Fire Alarm**: **4** key + **6** key.
+* **Medical Alarm**: **7** key + **9**.
 
-1. Dismount the Remote keypad.
-2. Take out the old battery and press any key to discharge before replacing the new battery in the battery compartment.
+### _**Change of Battery**_
 
-IV. Close the case using the rear fixing screws.
+1. Put the Control Panel to programming menu to bypass the Keypad tamper alarm.
+2. Dismount the Remote keypad.
+3. Take out the old battery and press any key to discharge before replacing the new battery in the battery compartment.
+4. Close the case using the rear fixing screws.
+5. Screw back the Remote keypad to the surface with mounting screws.
+6. Put the Control Panel back to normal operation mode.
 
-*
-  1. Screw back the Remote keypad to the surface with mounting screws.
-
-VI. Put the Control Panel back to normal operation mode.
-
-* _**Fault Conditions**_
+_**Fault Conditions**_
 
 _When Remote Keypad is under **NORMAL OPERATION MODE**_
 
-*
-  1. When fault event exists in Control Panel, the arming command from Keypad will be ignored by Control Panel. The Keypad Red and Yellow LED will flash for 3 seconds along with 4 beeps to indicate error. You can override the fault event and force arm the Control Panel by performing the arm action again.
-  2. If the **Control Panel** is under Arm Mode, you **CANNOT** activate Home mode with Remote keypad. The Keypad Red LED flashes + Yellow LED flashes for 3 seconds along with 4 beeps to indicate transmission error.
-  3. If sent Arm/Home/Disarm signal but have no response from the Control Panel, the Red LED flashes + Yellow LED flashes for 3 seconds along with 4 beeps.
-  4. When incorrect Keypad PIN code is entered to enter Test mode, The Keypad will emit 4 beeps. If incorrect Keypad PIN codes are entered for 4 times, the Keypad will disable key input function for 1 minute and indicate error by flashing all LEDs for 6 times and emitting 6 beeps. All key press during the next 1-minute period will be ignored.
+1. When fault event exists in Control Panel, the arming command from Keypad will be ignored by Control Panel. The Keypad Red and Yellow LED will flash for 3 seconds along with 4 beeps to indicate error. You can override the fault event and force arm the Control Panel by performing the arm action again.
+2. If the **Control Panel** is under Arm Mode, you **CANNOT** activate Home mode with Remote keypad. The Keypad Red LED flashes + Yellow LED flashes for 3 seconds along with 4 beeps to indicate transmission error.
+3. If sent Arm/Home/Disarm signal but have no response from the Control Panel, the Red LED flashes + Yellow LED flashes for 3 seconds along with 4 beeps.
+4. When incorrect Keypad PIN code is entered to enter Test mode, The Keypad will emit 4 beeps. If incorrect Keypad PIN codes are entered for 4 times, the Keypad will disable key input function for 1 minute and indicate error by flashing all LEDs for 6 times and emitting 6 beeps. All key press during the next 1-minute period will be ignored.
 
 After 1 minute, the Keypad will return to normal operation and emit a long beep to indicate
 
-* _**Appendix**_
+### _**Appendix**_
 
 If you have forgotten the Keypad PIN Code or anything wrong happened in the Remote keypad, you can reset the Remote keypad to factory default and reinitialize it.
 
 _**Reset to factory default:**_
 
-Step 1 Remove the batteries and release the tamper.
+**Step 1 -->** Remove the batteries and release the tamper.
 
-Step 2 Press & hold **3** key while inserting the battery back.
+**Step 2-->**  Press & hold **3** key while inserting the battery back.
 
-Step 3 Continue pressing **3** until three short beeps to indicate successful reset.
+**Step 3 -->** Continue pressing **3** until three short beeps to indicate successful reset.
 
-Step 4 Release **3** key, the reset process is complete.
+**Step 4-->** Release **3** key, the reset process is complete.
 
-_**\<NOTE>**_
+{% hint style="info" %}
+After reset, Keypad PIN code reverts to factory default values, **0000**. Remote keypad will need a new learn-in process to start functioning.
+{% endhint %}
 
-* After reset, Keypad PIN code reverts to factory default values, **0000**. Remote keypad will need a new learn-in process to start functioning.
 
-5
+
