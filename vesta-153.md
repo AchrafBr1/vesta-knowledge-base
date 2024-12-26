@@ -37,73 +37,73 @@
 15. **Mounting Holes**
 16. &#x20;**Tamper Swtich**
 
-
-
+{% hint style="info" %}
 * A short beep will sound along with key pressing to indicate that the button pressed is valid.
 * 4 continuous beeps will sound indicating mistake and the user should repeat the process again.
+{% endhint %}
 
-- _**LED Indicator**_
-- **Active LED (Blue/Amber):**
-  * Blue LED on 5 seconds: the system is in **Normal Operation Mode.**
-  * Blue LED flashes for 5 seconds: **low battery in Normal Operation Mode**.
-  * Amber LED on: the system is in **Test Mode**.
-  * Amber LED flash: **low battery in Test Mode**.
+### _**LED Indicator**_
 
-_**\<NOTE>**_
+#### _**Active LED (Blue/Amber)**_**:**
 
-* The keypad will enter sleep mode when idle and turn off all LEDs. After any key press, the Active Blue LED will turn on on for 5 seconds indicating that Remote keypad is active.
-* Active Blue LED will turn off after successful completion of a valid keystroke sequence, or when the pause in between keystrokes exceeds 5 seconds.
+* Blue LED on 5 seconds: the system is in **Normal Operation Mode.**
+* Blue LED flashes for 5 seconds: **low battery in Normal Operation Mode**.
+* Amber LED on: the system is in **Test Mode**.
+* Amber LED flash: **low battery in Test Mode**.
 
-1
+{% hint style="info" %}
+- The keypad will enter sleep mode when idle and turn off all LEDs. After any key press, the Active Blue LED will turn on on for 5 seconds indicating that Remote keypad is active.
+- Active Blue LED will turn off after successful completion of a valid keystroke sequence, or when the pause in between keystrokes exceeds 5 seconds.
+- When Active Blue LED turns off before a valid key sequence is completed, the previous entered keys are ignored.
+{% endhint %}
 
-*
-  * When Active Blue LED turns off before a valid key sequence is completed, the previous entered keys are ignored.
-* **Status LED (Blue/Red):**
-  *
-    * Red LED on: the system is in **Away Mode**
-    * Red LED flash: the system is in **Home Mode**.
-    * Blue LED on: activation of **Disarm Mode**.
-    * Blue LED flash: failure due to the following reasons:
-      * No response sent by the control panel within 4 seconds.
-      * PIN code was incorrect.
-      * Request for **Home** mode during **Arm** mode.
-      * Request for **Force arm**.
-  * **Fault LED (Amber):**
-    * Flash: system failure (panel tamper, AC fault, sensor temper, sensor out of order, open door)
-* _**Power**_
-  * Remote keypad uses one EL123AP 3V Lithium battery as its power source.
-  * Remote keypad can also detect the battery status. If the battery voltage is low, the Active LED will flash (**Amber** in **Test mode** or **Blue** in **Normal mode**) during operation. The Low battery signal will be sent along with regular signal transmissions to the Control Panel for displaying the status accordingly.
-  * Before shipment, the battery is pre-installed by the factory.
-* _**Power Saving Feature**_
-  * When idle, Remote keypad is in **Stand-by** mode and uses no power. It will activate and **wake-up** for 5 seconds when any key is pressed.
-  * After 5 seconds of key inactivity, the power goes off and it returns t**o Stand-by** mode.
-  * Upon completion of a command input, the power goes off and Remote keypad returns to **Stand-by** mode.
-* _**Test Mode**_
-  * Remote keypad can be put into Test mode by entering the PIN code (default: **0000**) followed by ＊ key. The Active **Amber** LED goes on along with a long beep sounding.
-  * To exit Test mode, press ![](<.gitbook/assets/4 (66).png>) key **twice**, Remote keypad will sound a long beep and the Active LED will turn from **Amber** to Blue, it returns to **Stand-by** mode. Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to **Stand-by** mode.
+#### _**Status LED (Blue/Red):**_
 
-![](<.gitbook/assets/5 (68).png>)
+* Red LED on: the system is in **Away Mode**
+* Red LED flash: the system is in **Home Mode**.
+* Blue LED on: activation of **Disarm Mode**.
+* Blue LED flash: failure due to the following reasons:
+  * No response sent by the control panel within 4 seconds.
+  * PIN code was incorrect.
+  * Request for **Home** mode during **Arm** mode.
+  * Request for **Force arm**.
 
-_**\<NOTE>**_
+#### _**Fault LED (Amber)**_**:**
 
-* The Test Mode is helpful to bypass Remote keypad Tamper alarm when installing, replacing low batteries or removing to different mount site.
-* When Remote keypad is in Test mode, it operates as **wake-up** condition thus will NOT disconnect after 5 seconds.
+* Flash: system failure (panel tamper, AC fault, sensor temper, sensor out of order, open door)
 
-_**Under the Test mode, the following functions can be enabled:**_
+### _**Power**_
 
-* Press ＊ key and then **1** key — to enter the NFC Learning mode. KPT-23N will emit one long beep and its LED 2’s
+* Remote keypad uses one 3V, CR2 Lithium battery as its power source.
+* Remote keypad can also detect the battery status. If the battery voltage is low, the Active LED will flash (**Amber** in **Test mode** or **Blue** in **Normal mode**) during operation. The Low battery signal will be sent along with regular signal transmissions to the Control Panel for displaying the status accordingly.
+* Before shipment, the battery is pre-installed by the factory.
 
-![](<.gitbook/assets/6 (48).png>)
+### _**Power Saving Feature**_
 
-red light will go on to indicate. (To exit the NFC Learning mode, press to return
+* When idle, Remote keypad is in **Stand-by** mode and uses no power. It will activate and **wake-up** for 5 seconds when any key is pressed.
+* After 5 seconds of key inactivity, the power goes off and it returns t**o Stand-by** mode.
+* Upon completion of a command input, the power goes off and Remote keypad returns to **Stand-by** mode.
 
-to the Test mode.)
+### _**Test Mode**_
 
+* Remote keypad can be put into Test mode by entering the PIN code (default: **0000**) followed by ＊ key. The Active **Amber** LED goes on along with a long beep sounding.
+* To exit Test mode, press <img src=".gitbook/assets/image (142).png" alt="" data-size="line"> key **twice**, Remote keypad will sound a long beep and the Active LED will turn from **Amber** to Blue, it returns to **Stand-by** mode. Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to **Stand-by mode.**
+
+{% hint style="info" %}
+- The Test Mode is helpful to bypass Remote keypad Tamper alarm when installing, replacing low batteries or removing to different mount site.
+- When Remote keypad is in Test mode, it operates as **wake-up** condition thus will NOT disconnect after 5 seconds.
+{% endhint %}
+
+#### _**Under the Test mode, the following functions can be enabled:**_
+
+* Press ＊ key and then **1** key — to enter the NFC Learning mode. KPT-23N will emit one long beep and its LED 2’s red light will go on to indicate. (To exit the NFC Learning mode, press <img src=".gitbook/assets/image (143).png" alt="" data-size="line"> to return to the Test mode.)
 * Press ＊ key and then **7** key — to transmit Remote keypad learn signal. (If KPT-23N will emit 3 beeps to indicate that it is learnt into the Panel.)
 * Press ＊key and then **2** key — to enable Dual-key Panic Alarm function
 * Press ＊ key and then **3** key — to enable Dual-key Fire Alarm function
 * Press ＊ key and then **4** key — to enable Dual-key Medical Alarm function
 * Press ＊ key and then **6** key — to change the Pin Code
+  * Enter **Old** Pin Code and then press <img src=".gitbook/assets/image (144).png" alt="" data-size="line">key
+  * Enter **New** 4-digit Pin Code and then press **#** key
 * Press ＊ key and then **5** key — to disable all Dual Key function. (Default)
 * Press ![](<.gitbook/assets/7 (41).png>) key **twice** — to leave the Test Mod&#x65;**.**
 * Press ＊ key and then **8** key — to enable Arm/ Home without PIN Code function
