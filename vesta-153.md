@@ -105,56 +105,48 @@
   * Enter **Old** Pin Code and then press <img src=".gitbook/assets/image (144).png" alt="" data-size="line">key
   * Enter **New** 4-digit Pin Code and then press **#** key
 * Press ＊ key and then **5** key — to disable all Dual Key function. (Default)
-* Press <img src=".gitbook/assets/image.png" alt="" data-size="line"> key **twice** — to leave the Test Mod&#x65;**.**
+* Press <img src=".gitbook/assets/image (1).png" alt="" data-size="line"> key **twice** — to leave the Test Mod&#x65;**.**
 * Press ＊ key and then **8** key — to enable Arm/ Home without PIN Code function
 * Press ＊ key and then **9** key — to enable Arm/ Home with PIN Code function(Code checked by panel) (Default)
 
-![](<.gitbook/assets/8 (44).png>)
+### _**Tamper Protection**_
 
-2
+* The keypad is protected against any attempt to open the lid or to detach keypad from its mounting surface.
+* Tamper protection is disabled when the keypad is in Test Mode.
 
-* _**Tamper Protection**_
-  * The keypad is protected against any attempt to open the lid or to detach keypad from its mounting surface.
-  * Tamper protection is disabled when the keypad is in Test Mode.
-* _**NFC Label Learning/Clearing/ Installation Procedures**_
+### _**NFC Label Learning/Clearing/ Installation Procedures**_
 
-NFC stands for Near Field Communication, which is a wireless communication technology that establishes connection between two devices by putting them close together. You can store a User PIN Code in a NFC label and use the NFC label to access the alarm system without entering a User PIN Code on KPT-23N. 30 NFC labels are allowed to be learned into one KPT-23N
+NFC stands for Near Field Communication, which is a wireless communication technology that establishes connection between two devices by putting them close together. You can store a User PIN Code in a NFC label and use the NFC label to access the alarm system without entering a User PIN Code on KPT-23N.&#x20;
 
-_**A. NFC Learning Procedure**_
+30 NFC labels are allowed to be learned into one KPT-23N
 
-Step 1. Enable Remote keypad to enter a test mode first. Enter the PIN code (default: **0000**) followed by ＊ key. The Active **Orange** LED goes on along with a long beep sounding.
+#### _**A) NFC Learning Procedure**_
 
-Step 2. Press ＊ key and then **1** key to enter to the NFC Learning mode.
+1. Enable Remote keypad to enter a test mode first. Enter the PIN code (default: **0000**) followed by ＊ key. The Active **Orange** LED goes on along with a long beep sounding.
+2. Press ＊ key and then **1** key to enter to the NFC Learning mode.
+3. Enter an User PIN code followed by # key.
+   1. If a new User PIN code is entered, the Status LED will flash Red and the Keypad will emit one long beep. The Keypad is now ready to learn a NFC label.
+   2. If an existent User PIN code is entered, the Status LED will flash Red and the Keypad will emit one short beep. The Keypad is now ready to learn a NFC label.
+   3. If a 31st User PIN code is entered (only 30 User PIN codes are allowed), the Status LED will flash Red and the Remote Keypad will emit 4 short beeps.
+4. &#x20;Put a NFC label close to KPT-23N within 5 seconds (the NFC learning period).
+   1. If the NFC Label is a new label, the Status LED will turn on Red and the Keypad will emit two short beeps upon successful learning.
+   2. If the NFC Label is an existent label, the Status LED will turn on Red and the Keypad will emit 4 short beeps to indicate the error condition.
+   3. If attempting to learn a 31st NFC Label (only 30 NFC Labels are allowed), the Status LED will flash Red and the Remote Keypad will emit 4 short beeps.
 
-Step 3. Enter an User PIN code followed by # key.
-
-* If a new User PIN code is entered, the Status LED will flash Red and the Keypad will emit one long beep. The Keypad is now ready to learn a NFC label.
-* If an existent User PIN code is entered, the Status LED will flash Red and the Keypad will emit one short beep. The Keypad is now ready to learn a NFC label.
-* If a 31st User PIN code is entered (only 30 User PIN codes are allowed), the Status LED will flash Red and the Remote Keypad will emit 4 short beeps.
-
-Step 4. Put a NFC label close to KPT-23N within 5 seconds (the NFC learning period).
-
-* If the NFC Label is a new label, the Status LED will turn on Red and the Keypad will emit two short beeps upon successful learning.
-
-_**\<NOTE>**_
-
-*
-  * If a new NFC label learns an existent User PIN code, the new NFC label will replace the old NFC label (that learnt the existent User PIN code previously).
-* If the NFC Label is an existent label, the Status LED will turn on Red and the Keypad will emit 4 short beeps to indicate the error condition.
-* If attempting to learn a 31st NFC Label (only 30 NFC Labels are allowed), the Status LED will flash Red and the Remote Keypad will emit 4 short beeps.
+{% hint style="info" %}
+If a new NFC label learns an existent User PIN code, the new NFC label will replace the old NFC label (that learnt the existent User PIN code previously).
+{% endhint %}
 
 If the NFC learning period times out (exceeds 5 seconds), the Status LED will turn on Red briefly. Re-enter the same User PIN code if you wish to learn more NFC labels using the same PIN code.
 
-Step 5. To learn in another NFC label, please repeat steps 3-4.
+5. &#x20;To learn in another NFC label, please repeat steps 3-4
+6. Press <img src=".gitbook/assets/image.png" alt="" data-size="line">key to exit the NFC learning procedure.
 
-Step 6. Press ![](<.gitbook/assets/9 (48).png>) key to exit the NFC learning procedure.
+{% hint style="info" %}
+If the User Pin Code which you entered exceeds the pin code length (4 digits allowed), the Status Blue LED will flash along with 4 short beeps to indicate the error condition
+{% endhint %}
 
-![](<.gitbook/assets/10 (41).png>)
-
-_**\<NOTE>**_
-
-* If the User Pin Code which you entered exceeds the pin code length (4 digits allowed), the Status Blue LED will flash along with 4 short beeps to indicate the error condition.
-  1. _**NFC Clearing Procedure**_
+#### _**B) NFC Clearing Procedure**_
 
 You can clear NFC information through the following steps.
 
