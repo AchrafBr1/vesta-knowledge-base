@@ -150,36 +150,29 @@ If the User Pin Code which you entered exceeds the pin code length (4 digits all
 
 You can clear NFC information through the following steps.
 
-Step 1. Enable Remote keypad to enter a test mode first. Enter the PIN code (default: **0000**) followed by ＊ key. The Active **Orange** LED goes on along with a long beep sounding.
-
-Step 2. Press ＊ key and then **1** key to enter to the NFC label Learning mode. Enter the User
-
-![](<.gitbook/assets/11 (21).jpeg>)
+1. &#x20;Enable Remote keypad to enter a test mode first. Enter the PIN code (default: **0000**) followed by ＊ key. The Active **Orange** LED goes on along with a long beep sounding.
+2. &#x20;Press ＊ key and then **1** key to enter to the NFC label Learning mode. Enter the User
 
 Pin corresponding to the User Pin Code of the NFC label that you wish to clear and then press to clear the existing NFC label information. If clearing succeeds, KPT-23N will emit a long beep. If it fails, KPT-23N will emit 3 short beeps with Status Blue LED flash to indicate.
 
-_**C. NFC Installation Procedure**_
+#### _**C)  NFC Installation Procedure**_
 
 You can apply NFC label to the back of your cell phone for easy access.
 
-Step 1. Learn in the NFC label to Remote Keypad
+1. &#x20;Learn in the NFC label to Remote Keypad
+2. Remove the protective cover on the NFC label.
+3. Apply the NFC label to the back cover of your cell phone horizontally.
+4. &#x20;You can now use the NFC label to access the system.
 
-Step 2. Remove the protective cover on the NFC label.
 
-Step 3. Apply the NFC label to the back cover of your cell phone horizontally.
 
-Step 4. You can now use the NFC label to access the system.
-
-_**\<NOTE>**_
-
+{% hint style="info" %}
 * Take care not to bend the NFC label, or it could be damaged and become unusable.
 * The NFC label needs to be applied horizontally or the Remote Keypad may have difficulty reading the label.
+* KPT-23N supports only ISO 14443A protocol for NFC label.
+{% endhint %}
 
-3
-
-*
-  * KPT-23N supports only ISO 14443A protocol for NFC label.
-* _**Installation Procedures**_
+### _**Installation Procedures**_
 
 Step 1. Put the Control Panel into **Learning Mode**. Please refer to the Control Panel manual.
 
