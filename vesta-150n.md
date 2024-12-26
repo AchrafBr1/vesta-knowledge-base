@@ -126,11 +126,12 @@ Alternatively, you can enable Remote keypad to enter Test Mode first. Enter Keyp
 
 ### _**Edit Keypad Operation Area**_
 
-* Follow instructions below to change Keypad Area in the Control Panel
-  1. Use the panel Edit Device function to change Keypad area setting.
-  2. Put the Control Panel into **Learning Mode**.
-  3. Press and hold ＊ key and **#** key of keypad for 2 seconds to transmit learn code to Control Panel.
-  4. The keypad will be displayed under learned device. Area update is complete.
+Follow instructions below to change Keypad Area in the Control Panel
+
+1. Use the panel Edit Device function to change Keypad area setting.
+2. Put the Control Panel into **Learning Mode**.
+3. Press and hold ＊ key and **#** key of keypad for 2 seconds to transmit learn code to Control Panel.
+4. The keypad will be displayed under learned device. Area update is complete.
 
 ### _**Tamper Protection**_
 
