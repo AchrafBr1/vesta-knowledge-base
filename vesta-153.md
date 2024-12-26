@@ -105,7 +105,7 @@
   * Enter **Old** Pin Code and then press <img src=".gitbook/assets/image (144).png" alt="" data-size="line">key
   * Enter **New** 4-digit Pin Code and then press **#** key
 * Press ＊ key and then **5** key — to disable all Dual Key function. (Default)
-* Press <img src=".gitbook/assets/image (1).png" alt="" data-size="line"> key **twice** — to leave the Test Mod&#x65;**.**
+* Press <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line"> key **twice** — to leave the Test Mod&#x65;**.**
 * Press ＊ key and then **8** key — to enable Arm/ Home without PIN Code function
 * Press ＊ key and then **9** key — to enable Arm/ Home with PIN Code function(Code checked by panel) (Default)
 
@@ -140,7 +140,7 @@ If a new NFC label learns an existent User PIN code, the new NFC label will repl
 If the NFC learning period times out (exceeds 5 seconds), the Status LED will turn on Red briefly. Re-enter the same User PIN code if you wish to learn more NFC labels using the same PIN code.
 
 5. &#x20;To learn in another NFC label, please repeat steps 3-4
-6. Press <img src=".gitbook/assets/image.png" alt="" data-size="line">key to exit the NFC learning procedure.
+6. Press <img src=".gitbook/assets/image (2).png" alt="" data-size="line">key to exit the NFC learning procedure.
 
 {% hint style="info" %}
 If the User Pin Code which you entered exceeds the pin code length (4 digits allowed), the Status Blue LED will flash along with 4 short beeps to indicate the error condition
@@ -211,7 +211,7 @@ _**\<IMPORTANT NOTE>**_
 If remote keypad does not perform 3 beeps, please restart the learning procedure from Step 1.
 {% endhint %}
 
-**Step 3.** After the Remote keypad is learnt-in, put the Control Panel into **Walk Test** mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel. To send the learning code, either press the ＊ key then **7** key under Test Mode or press both **#** and ＊ keys together under Normal Operation Mode.
+**Step 3.** After the Remote keypad is learnt-in, put the Control Panel into **Walk Test** mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel. To send the learning code, either press the ＊ key then **7** key under Test Mode or press both **#** and **＊** keys together under Normal Operation Mode.
 
 **Step 4.** When you are satisfied that the Remote keypad works in the chosen location, you can proceed with mounting the Remote keypad following the steps described below (see _**Mounting Remote keypad**)_.
 
@@ -219,30 +219,23 @@ If remote keypad does not perform 3 beeps, please restart the learning procedure
 
 1. When the keypad is under Test mode, press ＊ key then **6** key, a long beep will be sound.
 2. Enter **0000** (default PIN code)
-3. Presskey, remote keypad sounds a long beep.
+3. Press <img src=".gitbook/assets/image.png" alt="" data-size="line">key, remote keypad sounds a long beep.
+4. &#x20;Enter your new 4-digit code.
+5. Press **#** key, remote keypad sounds a long beep. The new PIN code is enabled.
 
-IV. Enter your new 4-digit code.
+**Step 6.** Press <img src=".gitbook/assets/image (1).png" alt="" data-size="line"> key **twice** to leave Test mode and the installation is completed.
 
-*
-  1. Press **#** key, remote keypad sounds a long beep. The new PIN code is enabled.
-
-**Step 6.**&#x50;ress ![](<.gitbook/assets/12 (36).png>) key **twice** to leave Test mode and the installation is completed.
-
-* _**Mounting Remote Keypad**_
-
-![](<.gitbook/assets/13 (31).png>)
+### _**Mounting Remote Keypad**_
 
 To mount the remote keypad:
 
 1. Remove the front cover.
 2. Using the 2 mounting holes of the back cover as a template, mark off the positions in the most appropriate place.
 3. Insert the wall plugs if fixing into plaster or brick surface.
+4. Screw the Remote keypad onto the wall plugs.
+5. Replace the front cover.
 
-IV. Screw the Remote keypad onto the wall plugs.
-
-*
-  1. Replace the front cover.
-* _**How to Set System Mode**_
+### _**How to Set System Mode**_
 
 You may choose to arm/home arm with a Pin Code, with NFC label, or without a Pin Code:
 

@@ -84,7 +84,7 @@ The device supports shock detection on various materials including glass, wood, 
 1. Press the Test Button on DCSV-29 for more than 3 seconds. The LED will turn on, indicating that the device is now under programming mode. (If no action within a 10-second timeout, DCSV-29 will automatically exit programming mode and return to Test Mode.)
 2. Select the material and sensitivity level from the Control Panel webpage (Sensor Stting page).
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. When DCSV-29 receives programming command from the Control Panel, the LED will first turn off, and then turn brighter and turn dark. Material & Sensitivity level setting are now complete.
 
