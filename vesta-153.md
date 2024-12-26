@@ -1,50 +1,49 @@
 # VESTA 153
 
-**REMOTE KEYPAD with NFC Label (KPT-23N-EL, KPT-23N-EL-F1)**
+## **REMOTE KEYPAD with NFC Label (KPT-23N, KPT-23N-F1)**
 
-* _**Identifying the Parts**_
+## _**Identifying the Parts**_
 
 ![](<.gitbook/assets/0 (64).jpeg>)
 
-**-** Enter KP Pin Code +  Key to enter Test Mode
 
-| **1. Active LED**            | **10. Send Learning Code**       |                                                     |   |
-| ---------------------------- | -------------------------------- | --------------------------------------------------- | - |
-|                              |                                  |                                                     |   |
-| **2.**                       | **Status LED**                   | - Press both # and  keys together to Send Learning |   |
-|                              |                                  |                                                     |   |
-| **3.**                       | **Fault Display LED**            | Code                                                |   |
-|                              |                                  |                                                     |   |
-|                              |                                  | **11. Medical Alarm (if enabled)**                  |   |
-| **4.**                       | **Arm Key**                      | - press both 7 and 9 to trigger Medical alarm       |   |
-|                              |                                  |                                                     |   |
-| **5.**                       | **Home Key**                     | **12. Fire Alarm (if enabled)**                     |   |
-| **6.**                       | **Key**                          | - press both 4 and 6 to trigger fire alarm          |   |
-| - Check Control Panel Status | **13. Panic Alarm (if enabled)** |                                                     |   |
-| **7.**                       | **Disarm Key**                   | -press both 1 and 3 to trigger panic alarm          |   |
-|                              |                                  |                                                     |   |
 
-![](<.gitbook/assets/1 (61).png>) ![](<.gitbook/assets/2 (66).png>) ![](<.gitbook/assets/3 (65).png>)
+1. **Active LED**
+2. **Status LED**
+3. **Fault Display LED**
+4. <img src=".gitbook/assets/image (134).png" alt="" data-size="line"> **Arm Key**
+5. <img src=".gitbook/assets/image (135).png" alt="" data-size="line"> **Home Key**
+6.  &#x20; <img src=".gitbook/assets/image (138).png" alt="" data-size="line"> **Key**
 
-**14. Battery Insulator**
+    Check Control Panel Status
+7.  <img src=".gitbook/assets/image (139).png" alt="" data-size="line"> **Disarm Key**
 
-\- to move back one step
+    to move back one step
+8. &#x20;<img src=".gitbook/assets/image (140).png" alt="" data-size="line">**Key**
+9. &#x20;<img src=".gitbook/assets/image (141).png" alt="" data-size="line">**key**&#x20;
+10. &#x20;**Send learning code**
 
-**15. Mounting Holes**
+    Press both # and \* keys together to Send Learning Code
+11. **Medical Alarm (if enabled)**
 
-**8. # Key**
+    Press both 7 and 9 to trigger Medical alarm
+12. **Fire Alarm (if enabled)**
 
-**16. Tamper Swtich**
+    Press both 4 and 6 to trigger fire alarm
+13. **Panic Alarm (if enabled)**
 
-**9.  Key**
+    Press both 1 and 3 to trigger panic alarm
+14. **Battery Insulator**
+15. **Mounting Holes**
+16. &#x20;**Tamper Swtich**
 
-_**\<NOTE>**_
 
-*
-  * A short beep will sound along with key pressing to indicate that the button pressed is valid.
-  * 4 continuous beeps will sound indicating mistake and the user should repeat the process again.
-* _**LED Indicator**_
-* **Active LED (Blue/Amber):**
+
+* A short beep will sound along with key pressing to indicate that the button pressed is valid.
+* 4 continuous beeps will sound indicating mistake and the user should repeat the process again.
+
+- _**LED Indicator**_
+- **Active LED (Blue/Amber):**
   * Blue LED on 5 seconds: the system is in **Normal Operation Mode.**
   * Blue LED flashes for 5 seconds: **low battery in Normal Operation Mode**.
   * Amber LED on: the system is in **Test Mode**.
