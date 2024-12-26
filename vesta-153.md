@@ -281,66 +281,54 @@ The dual-key function is disabled by default. To enable it, please refer to the 
 
 ### _**General Operation**_
 
-*
-  * Enter Test mode — Enter **Keypad PIN code** and then press ＊ key.
-  * Panic Alarm — Press **1** key + **3** key at the same time. (if the function is enabled)
-  * Fire Alarm — Press **4** key + **6** key at the same time. (if the function is enabled)
-  * Medical Alarm — Press **7** key + **9** key at the same time. (if the function is enabled)
-  * Check Control Panel Status — Normal Mode Presskey.
-    * Red LED on: the system is in **Away Mode**
-    * Red LED flash: the system is in **Home Mode**.
-    * Blue LED on: activation of **Disarm Mode**.
-    * Blue flash: failure due to the following reasons:
-      * No response sent by the control panel within 4 seconds.
-      * PIN code was incorrect.
-      * Request for **Home** mode during **Arm** mode.
-      * Request for **Force arm**.
+* Enter Test mode — Enter **Keypad PIN code** and then press ＊ key.
+* Panic Alarm — Press **1** key + **3** key at the same time. (if the function is enabled)
+* Fire Alarm — Press **4** key + **6** key at the same time. (if the function is enabled)
+* Medical Alarm — Press **7** key + **9** key at the same time. (if the function is enabled)
+* Check Control Panel Status — Normal Mode Press <img src=".gitbook/assets/image (145).png" alt="" data-size="line">key.
+  * Red LED on: the system is in **Away Mode**
+  * Red LED flash: the system is in **Home Mode**.
+  * Blue LED on: activation of **Disarm Mode**.
+  * Blue flash: failure due to the following reasons:
+    * No response sent by the control panel within 4 seconds.
+    * PIN code was incorrect.
+    * Request for **Home** mode during **Arm** mode.
+    * Request for **Force arm**.
 
-- _**Change of Battery**_
+### _**Change of Battery**_
 
 1. Put the Control Panel to programming menu to bypass the KP tamper alarm.
 2. Dismount the Remote keypad.
 3. Take out the old battery and press any key to discharge before replacing the new battery in the battery compartment, with unmarked (negative) side of battery facing down.
+4. Close the case using the rear fixing screws.
+5. Screw back the Remote keypad to the surface with mounting screws.
+6. &#x20;Put the Control Panel back to normal operation mode.
 
-IV. Close the case using the rear fixing screws.
-
-*
-  1. Screw back the Remote keypad to the surface with mounting screws.
-
-VI. Put the Control Panel back to normal operation mode.
-
-* _**Fault Conditions**_
+### _**Fault Conditions**_
 
 _When Remote Keypad is under **NORMAL OPERATION MODE,**_
 
-5
+1. When fault condition exists within Control Panel, if the Keypad is used to arm the panel, the keypad Status Blue and Fault Amber LED will flash 4 times along with 3 beeps to indicate fault condition. User can force arm the Control Panel by performing the arm action again.
+2. When the Keypad is used to disarm the panel, the Active Blue LED will turn ON alone with two short beeps indicating normal operation. At a fault situation, it will emit 5 times and turn on both Status Blue and Fault Amber LED for 5 seconds.
+3. If the **Control Panel** is under Arm Mode, you **CANNOT** activate Home mode with Remote keypad. The Status Blue LED will flash 4 times to indicate transmission error.
+4. If you input incorrect KP Pin code for 4 times, KP will disable the key function for 1 minute, indicating by all LEDs flashing 3 times and 6 beeps. After 1 minute, KP will emit a long beep to indicate that the key function is back to normal.
 
-*
-  1. When fault condition exists within Control Panel, if the Keypad is used to arm the panel, the keypad Status Blue and Fault Amber LED will flash 4 times along with 3 beeps to indicate fault condition.
-
-User can force arm the Control Panel by performing the arm action again.
-
-*
-  1. When the Keypad is used to disarm the panel, the Active Blue LED will turn ON alone with two short beeps indicating normal operation. At a fault situation, it will emit 5 times and turn on both Status Blue and Fault Amber LED for 5 seconds.
-  2. If the **Control Panel** is under Arm Mode, you **CANNOT** activate Home mode with Remote keypad. The Status Blue LED will flash 4 times to indicate transmission error.
-  3. If you input incorrect KP Pin code for 4 times, KP will disable the key function for 1 minute, indicating by all LEDs flashing 3 times and 6 beeps. After 1 minute, KP will emit a long beep to indicate that the key function is back to normal.
-* _**Appendix**_
+### _**Appendix**_
 
 If you have forgotten the Pin Code or anything wrong happened in the Remote keypad, you can reset the Remote keypad to factory default and reinitialize it.
 
 _**Reset to factory default:**_
 
-Step 1 Remove the batteries and release the tamper.
+Step 1 --> Remove the batteries and release the tamper.
 
-Step 2 Press & hold **3** key while inserting the battery back.
+Step 2 --> Press & hold **3** key while inserting the battery back.
 
-Step 3 Continue pressing **3** until three short beeps to indicate successful reset.
+Step 3 -->  Continue pressing **3** until three short beeps to indicate successful reset.
 
-Step 4 Release **3** key, the reset process is complete.
+Step 4 --> Release **3** key, the reset process is complete.
 
-_**\<NOTE>**_
-
+{% hint style="info" %}
 * Resetting the Keypad to factory default will restore Keypad’s own PIN Code to 0000. After reset, the Keypad will need a new learn-in process to start functioning.
 * Whenever the Keypad is removed from the Control Panel, it should be put to factory reset as well to clear its Control Panel memory.
+{% endhint %}
 
-6
