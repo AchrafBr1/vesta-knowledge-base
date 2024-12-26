@@ -15,8 +15,8 @@
    1. Press both 4 and 6 to trigger fire alarm
 6. **Medical Alarm (if enabled)**
    1. Press both 7 and 9 to trigger Medical alarm
-7. **Backlit Star (**<img src=".gitbook/assets/1.png" alt="" data-size="line">**) Key**
-   1. Enter Keypad PIN Code + <img src=".gitbook/assets/1 (1).png" alt="" data-size="line">Key to enter Test Mode.
+7. **Backlit Star (**<img src=".gitbook/assets/1 (1).png" alt="" data-size="line">**) Key**
+   1. Enter Keypad PIN Code + <img src=".gitbook/assets/1 (1) (1).png" alt="" data-size="line">Key to enter Test Mode.
 8. **Backlit Pound (＃) Key**
 9. **Backlit (OK) Key**
 10. &#x20;**Backlit Restore (** <img src=".gitbook/assets/image (1).png" alt="" data-size="line">) **Key**

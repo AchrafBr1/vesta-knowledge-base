@@ -1,46 +1,50 @@
-# VESTA 152
+# VESTA-152
 
-* Remote Controller (RC-29) Dec-08-2016
+## Remote Controller (RC-29)&#x20;
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
-* _**Identifying the parts**_
+### _**Identifying the parts**_
 
-1. ![RC-29 868WF](<.gitbook/assets/0 (26).jpeg>)![](<.gitbook/assets/1 (22).jpeg>) **AWAY ARM BUTTON**
+<figure><img src=".gitbook/assets/1.png" alt="" width="298"><figcaption></figcaption></figure>
 
-Press this button to arm the system in away mode.
+1. <img src=".gitbook/assets/1 (22).jpeg" alt="" data-size="line"> **AWAY ARM BUTTON**
 
-1. ![panic](<.gitbook/assets/2 (15).jpeg>) **PANIC BUTTON**
+&#x20;     Press this button to arm the system in away mode.
 
-Press and hold this button for 3 seconds to send a panic signal regardless of system mode.
+2. <img src=".gitbook/assets/2 (15).jpeg" alt="panic" data-size="line"> **PANIC BUTTON**
 
-1. ![](<.gitbook/assets/3 (17).jpeg>) **DISARM BUTTON**
+&#x20;      Press and hold this button for 3 seconds to send a panic signal regardless of system mode.
 
-Press this button to disarm the system. When alarm is activated, pressing this button will stop the alarm.
+3. &#x20;**DISARM BUTTON**
 
-1. ![](<.gitbook/assets/4 (12).jpeg>) **HOME ARM BUTTON**
+&#x20;       Press this button to disarm the system. When alarm is activated, pressing this button will stop the         alarm.
 
-Pressing this button will arm the system in home mode.
+4. <img src=".gitbook/assets/4 (12).jpeg" alt="" data-size="line"> **HOME ARM BUTTON**
 
-\<Note>
+&#x20;       Pressing this button will arm the system in home mode.
 
-* Panic alarm cannot be stopped after activation by pressing disarm button on Remote Controller.
+{% hint style="info" %}
+Panic alarm cannot be stopped after activation by pressing disarm button on Remote Controller.
+{% endhint %}
 
 **5. LED INDICATOR**
 
-The LED will light on for 2 seconds when the Away Arm/Home Arm/Disarm button is pressed.
+&#x20;    The LED will light on for 2 seconds when the Away Arm/Home Arm/Disarm button is pressed.
 
-When the Panic Button is pressed, the LED will quickly flash 6 times.
+&#x20;    When the Panic Button is pressed, the LED will quickly flash 6 times.
 
 **6. BATTERY COMPARTMENT**
 
-The Remote Controller uses two **AAAA** 1.5V Alkaline batteries as its power source. The low battery status will be sent to the Control Panel along with regular signal transmission, and, the Control Panel will display the status accordingly.
+&#x20;   The Remote Controller uses two **AAAA** 1.5V Alkaline batteries as its power source. The low battery  status will be sent to the Control Panel along with regular signal transmission, and, the Control Panel will display the status accordingly.
 
-\<Note>
-
+{% hint style="info" %}
 * _When changing battery, after removing old batteries, press any button twice to fully discharge before inserting new batteries._
 * _When a low voltage battery is inserted, the LED will flash 3 times to indicate low battery._
-* _**Getting Started**_
+{% endhint %}
+
+### _**Getting Started**_
+
 * Remove the battery cover and insert the batteries.
 * Put the Control Panel into learning mode, refer to Control Panel manual for detail.
 * Press any buttons on the Remote Controller.
