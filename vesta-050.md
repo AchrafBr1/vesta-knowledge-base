@@ -107,7 +107,7 @@ Ensure that VRA is fitted at approximately chest height (around 130cm-150cm abov
 
 &#x20;                          Figure 5                                                                                 Figure 6
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Placement**
 

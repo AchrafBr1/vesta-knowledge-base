@@ -137,9 +137,9 @@ _Two-way voice and doorbell functions are not enabled for web browser access. To
 
 ![](<.gitbook/assets/17 (11).png>)
 
-Click the Setting button ![](<.gitbook/assets/image (6).png>)  to access video adjustment and timestamp location setting. Adjust the setting and click Submit to confirm.
+Click the Setting button ![](<.gitbook/assets/image (6) (2).png>)  to access video adjustment and timestamp location setting. Adjust the setting and click Submit to confirm.
 
-Press the Record Video button ![](<.gitbook/assets/image (7).png>) to record a video clip.
+Press the Record Video button ![](<.gitbook/assets/image (7) (2).png>) to record a video clip.
 
 ### Smartphone Access <a href="#toc51257991" id="toc51257991"></a>
 
@@ -173,7 +173,7 @@ This is for you to select the door lock you wish to bind with the system. Please
 
 * **WiFi Setup**
 
-To add a new device, tap the icon  ![](<.gitbook/assets/image (8).png>)on the top left corner to setup WiFi for your IP Cam or VDP. Before you proceed, ensure to update device firmware to the latest version.
+To add a new device, tap the icon  ![](<.gitbook/assets/image (8) (2).png>)on the top left corner to setup WiFi for your IP Cam or VDP. Before you proceed, ensure to update device firmware to the latest version.
 
 To setup WiFi function for existing model, tap the ![](<.gitbook/assets/image (11).png>)  icon and follow the step-by-step instructions.
 
