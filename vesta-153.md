@@ -105,7 +105,7 @@
   * Enter **Old** Pin Code and then press <img src=".gitbook/assets/image (144).png" alt="" data-size="line">key
   * Enter **New** 4-digit Pin Code and then press **#** key
 * Press ＊ key and then **5** key — to disable all Dual Key function. (Default)
-* Press ![](<.gitbook/assets/7 (41).png>) key **twice** — to leave the Test Mod&#x65;**.**
+* Press <img src=".gitbook/assets/image.png" alt="" data-size="line"> key **twice** — to leave the Test Mod&#x65;**.**
 * Press ＊ key and then **8** key — to enable Arm/ Home without PIN Code function
 * Press ＊ key and then **9** key — to enable Arm/ Home with PIN Code function(Code checked by panel) (Default)
 
