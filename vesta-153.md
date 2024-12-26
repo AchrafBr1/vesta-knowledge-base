@@ -157,6 +157,10 @@ Pin corresponding to the User Pin Code of the NFC label that you wish to clear a
 
 #### _**C)  NFC Installation Procedure**_
 
+
+
+<figure><img src=".gitbook/assets/1 (108).png" alt="" width="116"><figcaption></figcaption></figure>
+
 You can apply NFC label to the back of your cell phone for easy access.
 
 1. &#x20;Learn in the NFC label to Remote Keypad
@@ -174,45 +178,44 @@ You can apply NFC label to the back of your cell phone for easy access.
 
 ### _**Installation Procedures**_
 
-Step 1. Put the Control Panel into **Learning Mode**. Please refer to the Control Panel manual.
+**Step 1.** Put the Control Panel into **Learning Mode**. Please refer to the Control Panel manual.
 
-Step 2. Adding remote keypad into the Control Panel:
+**Step 2.** Adding remote keypad into the Control Panel:
 
 **Test Mode Learning:**
 
 1. Put remote keypad in Test mode by entering KP PIN code (default: **0000**), then press ＊ key. The Active Blue LED will turn on along with a long beep sound.
 2. Press ＊ key then **7** key. Remote keypad will sound a long beep.
 
-_\<NOTE>_
+{% hint style="info" %}
+If the remote keypad did not sound a long beep, it means the remote keypad did not send the learning code to the Control Panel, please press ＊ key then 7 key again under Test Mode to send the learning code..
+{% endhint %}
 
-*
-  * If the remote keypad did not sound a long beep, it means the remote keypad did not send the learning code to the Control Panel, please press ＊ key then 7 key again under Test Mode to send the learning code..
-
-1. Refer to the operation manual of your Control Panel to complete the learn-in process.
-
-IV. After Control Panel receives the signal from remote keypad, it will send an acknowledgement back to remote keypad. The remote keypad will then beep 3 times to confirm the acknowledgement has been received.
+3. Refer to the operation manual of your Control Panel to complete the learn-in process.
+4. After Control Panel receives the signal from remote keypad, it will send an acknowledgement back to remote keypad. The remote keypad will then beep 3 times to confirm the acknowledgement has been received.
 
 **Dual-Key Learning:**
 
 1. Press both **#** and ＊ keys together under Normal Operation Mode. Remote Keypad will sound a long beep.
 
-_\<NOTE>_
+{% hint style="info" %}
+If the remote keypad did not sound a long beep, it means the remote keypad did not send the learning code to the Control Panel, please press both **#** and ＊ keys together under Normal Operation Mode to send the learning code
+{% endhint %}
 
-*
-  * If the remote keypad did not sound a long beep, it means the remote keypad did not send the learning code to the Control Panel, please press both **#** and ＊ keys together under Normal Operation Mode to send the learning code.
-
-1. Refer to the operation manual of your Control Panel to complete the learn-in process.
-2. After Control Panel receives the signal from remote keypad, it will send an acknowledgement back to remote keypad. The remote keypad will then beep 3 times to confirm the acknowledgement has been received.
+2. Refer to the operation manual of your Control Panel to complete the learn-in process.
+3. After Control Panel receives the signal from remote keypad, it will send an acknowledgement back to remote keypad. The remote keypad will then beep 3 times to confirm the acknowledgement has been received.
 
 _**\<IMPORTANT NOTE>**_
 
-* If remote keypad does not perform 3 beeps, please restart the learning procdeure from Step 1.
+{% hint style="info" %}
+If remote keypad does not perform 3 beeps, please restart the learning procedure from Step 1.
+{% endhint %}
 
-Step 3. After the Remote keypad is learnt-in, put the Control Panel into **Walk Test** mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel. To send the learning code, either press the ＊ key then **7** key under Test Mode or press both **#** and ＊ keys together under Normal Operation Mode.
+**Step 3.** After the Remote keypad is learnt-in, put the Control Panel into **Walk Test** mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel. To send the learning code, either press the ＊ key then **7** key under Test Mode or press both **#** and ＊ keys together under Normal Operation Mode.
 
-Step 4. When you are satisfied that the Remote keypad works in the chosen location, you can proceed with mounting the Remote keypad following the steps described below (see _**Mounting Remote keypad**)_.
+**Step 4.** When you are satisfied that the Remote keypad works in the chosen location, you can proceed with mounting the Remote keypad following the steps described below (see _**Mounting Remote keypad**)_.
 
-Step 5. Setting the KP Pin Code:
+**Step 5.** Setting the KP Pin Code:
 
 1. When the keypad is under Test mode, press ＊ key then **6** key, a long beep will be sound.
 2. Enter **0000** (default PIN code)
@@ -223,7 +226,7 @@ IV. Enter your new 4-digit code.
 *
   1. Press **#** key, remote keypad sounds a long beep. The new PIN code is enabled.
 
-Step 6.Press ![](<.gitbook/assets/12 (36).png>) key **twice** to leave Test mode and the installation is completed.
+**Step 6.**&#x50;ress ![](<.gitbook/assets/12 (36).png>) key **twice** to leave Test mode and the installation is completed.
 
 * _**Mounting Remote Keypad**_
 
