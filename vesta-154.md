@@ -1,4 +1,4 @@
-# VESTA 154
+# VESTA-154
 
 ## **EIRC-1-F1 Outdoor Curtain Motion Sensor**
 
@@ -176,8 +176,10 @@ The Motion Sensor should be mounted at 1.4m\~1.6m for optimal performance. It ha
 
 _\<IMPORTANT NOTE>_
 
-*
-  * Please note that the performance is affected by external factors, such as height of detected object, desired detection range, installation area, etc. The suggested mounting height could be adjusted according to actual installation environment factors.
+{% hint style="info" %}
+Please note that the performance is affected by external factors, such as height of detected object, desired detection range, installation area, etc. The suggested mounting height could be adjusted according to actual installation environment factors.
+{% endhint %}
+
 * **It is recommended to install the Motion Sensor in the following locations**
   * Mount in a position such that an intruder would normally move across the sensor’s field of view.
   * Mount where its field of view will not be obstructed e.g. by curtains, ornaments etc.
@@ -191,8 +193,7 @@ _\<IMPORTANT NOTE>_
 
 ![](<.gitbook/assets/8 (34).jpeg>)
 
-5
+
 
 ![](<.gitbook/assets/9 (21).jpeg>)
 
-6
