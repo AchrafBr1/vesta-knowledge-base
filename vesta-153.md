@@ -261,7 +261,7 @@ NFC label has to be learnt into KP first.
 
 In the Test mode, Pressing ＊ key and then **8** key can enable Arm/ Home without PIN Code function
 
-* _**Enter Arm Mode:**_ Press <img src=".gitbook/assets/image (11).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with one long beep.&#x20;
+* _**Enter Arm Mode:**_ Press <img src=".gitbook/assets/image (13).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with one long beep.&#x20;
 * _**Enter Home Mode:**_ Press <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
 * _**Return to Disarm Mode:**_ Enter any one of Control Panel user code and <img src=".gitbook/assets/image (2) (1).png" alt="" data-size="line"> Key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
 

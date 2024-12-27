@@ -74,7 +74,7 @@ The DI/DO module can operate according to different mode selected on the Control
 
 | **Control Panel webpage**                                          | **SmartHomeSec**                                                      |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| <img src=".gitbook/assets/1 (39).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (2).png" alt="" data-size="original"> |
+| <img src=".gitbook/assets/1 (39).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (4).png" alt="" data-size="original"> |
 
 *   **Appliance Control:**
 
@@ -84,7 +84,7 @@ The DI/DO module can operate according to different mode selected on the Control
 
     When the “Appliance Control” mode is selected, you can remotely turn on/off the connected device from the Control Panel webpage or _**SmartHomeSe**_&#x63; server, but the output follow input setting in DO will be deactivated. You can program Home Automation rules, Scenes on Panel webpageor _**SmartHomeSe**_&#x63; Server to integrate the device connected to DIO-52-B with other devices in the Control Panel.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Example of DI/DO practice for Appliance Control:
 
@@ -126,50 +126,51 @@ After selecting the “Input Follower” mode on the DO device edit page, select
 
 ![](<.gitbook/assets/10 (20).png>)
 
-* _**DI and DO Settings**_
-* **Output Terminal (DO):**
+### _**DI and DO Settings**_
 
-Program the DO settings in **DO Device Edit** page on Panel webpage or Home Portal server.
+#### **Output Terminal (DO):**
 
-| **Control Panel webpage**                                           | **Home Portal Server**                                              |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src=".gitbook/assets/11 (15).png" alt="" data-size="original"> | <img src=".gitbook/assets/12 (5).jpeg" alt="" data-size="original"> |
+Program the DO settings in **DO Device Edit** page on Panel webpage or _**SmartHomeSec**_ server.
 
-Swith on via APP:
+| **Control Panel webpage**                                           | **SmartHomeSec**                                                  |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <img src=".gitbook/assets/11 (15).png" alt="" data-size="original"> | <img src=".gitbook/assets/image.png" alt="" data-size="original"> |
+
+_Swith on via APP_:
 
 * **Do nothing** – The Do output device cannot be switched on via APP.
 * **Don’t switch off** - The Do output device will not switch off after being switched on via APP.
-* **Switch off after 1-240 sec/5-30 min** – After being switched on via APP for the selected time, the Do output device will switch off.
+* **Switch off after 1-240 sec/5-30 min** – After being switched on via APP for the selected time, the DO output device will switch off.
 
-Status for 0: Enter the Status 0 description for the Output terminal.
+_Status for 0_: Enter the Status 0 description for the Output terminal.
 
-Status for 1: Enter the Status 1 description for the Output terminal.
+_Status for 1_: Enter the Status 1 description for the Output terminal.
 
-Invert Input: Select to change the order of Status 0 and Status 1 for DI input. When “Yes” is selected, the order of Status 0 and Status 1 for DI input will be changed.
+_Invert Input:_ Select to change the order of Status 0 and Status 1 for DI input. When “Yes” is selected, the order of Status 0 and Status 1 for DI input will be changed.
 
-Invert Output: Select to change the order of Status 0 and Status 1 for DO output. When “Yes” is selected, the order of Status 0 and Status 1 for DO output will be changed.
+_Invert Output_: Select to change the order of Status 0 and Status 1 for DO output. When “Yes” is selected, the order of Status 0 and Status 1 for DO output will be changed.
 
-Output Follow Input: This function is available only when Operation Mode "3-Input Follower" is selected.
+_Output Follow Input:_ This function is available only when Operation Mode "3-Input Follower" is selected.
 
 * **No** - When input terminal device is triggered, the output terminal device will Not be activated.
 * **Latch** - The output terminal device will be activated instantly when the input terminal device is triggered.
 * **On for 10-240 sec/5-30 min** - When input terminal device is triggered, the output terminal device will be activated for a set duration.
 
-Operation Mode: Select the Operation Mode for DIO-52-B. Please refer to previous section for details.
+_Operation Mode:_ Select the Operation Mode for DIO-52-B. Please refer to previous section for details.
 
-* **Input Terminal (DI):**
+#### **Input Terminal (DI):**
 
-Program the DI settings in **DI Device Edit** page on Panel webpage or Home Portal server.
+Program the DI settings in **DI Device Edit** page on Panel webpage or SmartHomeSec server.
 
-| **Control Panel webpage**                                           | **Home Portal Server**                                              |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src=".gitbook/assets/13 (16).png" alt="" data-size="original"> | <img src=".gitbook/assets/14 (13).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                           | **SmartHomeSec** **Server**                                           |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <img src=".gitbook/assets/13 (16).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (1).png" alt="" data-size="original"> |
 
-Status for 0: Enter the Status 0 description for the Input terminal.
+_Status for 0_: Enter the Status 0 description for the Input terminal.
 
-Status for 1: Enter the Status 1 description for the Input terminal.
+_Status for 1:_ Enter the Status 1 description for the Input terminal.
 
-Installation
+### Installation
 
 DIO-52-B can be deployed on a flat surface or mounted on the wall. After you have finished the walk test, and you are satisfied that the device is able to communicate with the control panel in the chosen location, proceed with installation.
 
