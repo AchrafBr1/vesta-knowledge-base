@@ -94,19 +94,19 @@ Example of DI/DO practice for Appliance Control:
 
 In this mode, the input and output terminals of DIO-52-B are connected to separate devices. The input terminal is used to monitor the activation of the connected device, and transmit the trigger signal to the Control Panel. The output terminal is used to receive on/off signal from the Control Panel to turn/on off the connected device.
 
-When DIO-52-B is working in this mode, the output follow input setting in DO is deactivated. Users can program Home Automation rules, Scenes on Panel webpage or Home Portal Server to turn the DI point into trigger of events, and the DO point into responder of events.
+When DIO-52-B is working in this mode, the output follow input setting in DO is deactivated. Users can program Home Automation rules, Scenes on Panel webpage or _**SmartHomeSec**_ Server to turn the DI point into trigger of events, and the DO point into responder of events.
 
 Example of DI/DO practice for Separate Devices:
 
-DI input terminal is connected to a water leakage sensor, and DO output is connected to a water valve. By setting a Home Automation rule on HPS, the Panel will automatically turn off the water valve when the water leakage sensor is triggered.
+DI input terminal is connected to a water leakage sensor, and DO output is connected to a water valve. By setting a Home Automation rule on SHS, the Panel will automatically turn off the water valve when the water leakage sensor is triggered.
 
-| **DI settings**                                                    | **DO settings**                                                    |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/5 (33).png" alt="" data-size="original"> | <img src=".gitbook/assets/6 (23).png" alt="" data-size="original"> |
+| **DI settings**                                                         | **DO settings**                                                         |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <img src=".gitbook/assets/image (147).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (146).png" alt="" data-size="original"> |
 
-| **Home Automation rule**                                           |
-| ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/7 (20).png" alt="" data-size="original"> |
+| **Home Automation rule**                                                |
+| ----------------------------------------------------------------------- |
+| <img src=".gitbook/assets/image (149).png" alt="" data-size="original"> |
 
 ![](<.gitbook/assets/8 (21).png>)
 
@@ -116,13 +116,13 @@ In this mode, the input and output terminals of DIO-52-B are connected to separa
 
 When input terminal device is triggered, the output terminal device will activate according to the Output Follow Input setting. Please refer to below section _**DI and DO Settings**_ for details.
 
-After the “Input Follower” mode is selected, the Home Automation Rule & Apply Scene function on Home Portal Server will be deactivated. You will need to program the **Output Follow Input** setting on DO Device Edit page, so that the output terminal device will activate accordingly following trigger of the input terminal device.
+After the “Input Follower” mode is selected, the Home Automation Rule & Apply Scene function on _**SmartHomeSec**_ Server will be deactivated. You will need to program the **Output Follow Input** setting on DO Device Edit page, so that the output terminal device will activate accordingly following trigger of the input terminal device.
 
 Example of DI/DO practice for Input Follower:
 
 After selecting the “Input Follower” mode on the DO device edit page, select “Latch” for the Output Follow Input setting. The output terminal device will be activated instantly when the input terminal device is triggered.
 
-![](<.gitbook/assets/9 (25).png>)
+<figure><img src=".gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 ![](<.gitbook/assets/10 (20).png>)
 
