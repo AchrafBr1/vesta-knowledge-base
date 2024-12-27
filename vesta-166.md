@@ -126,28 +126,23 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 #### _**Calibration**_
 
-* The Shutter Control default activation time is **4** minutes.
+*   The Shutter Control default activation time is **4** minutes.
 
-When the Up/Down button is pressed, it will activate the shutter motor for 4 minutes.
+    When the Up/Down button is pressed, it will activate the shutter motor for 4 minutes.
 
-When a Z-Wave command is received from Z-Wave controller, it will determine the shutter travel percentage using 4 minutes as basis for calculation.
-
-*
-  * For the Shutter Control to work properly, its activation time must be calibrated according to actual shutter travel distance. There are two ways to adjust the activation time:
-    * **Manual Calibration:** Calibrate the activation according to procedure below:
-      1. Before calibration, the external local switches must be connected to the Shutter Control.
-      2. Press and hold the Function button for 3 seconds and release to enter Calibration mode. The Shutter motor will roll up for 4 minutes when the Shutter Control enters Calibration mode.
-      3. Wait for 4 minutes for Shutter motor to stop rolling, then press “Down” button to roll down the shutter. (If less than 4 minutes the shutter has reached the open position already, you can press the “Down” button to stop the shutter motor. Then press the “Down” button again to roll down the shutter.)
-      4. As soon as the shutter is fully closed, press the “Up” button. The Shutter control will record the time it took for the shutter to roll from open to close as the new “**close time**”.
-      5. After the “Up” button is pressed the moment the shutter is fully closed, the shutter will roll up towards the open direction.
-      6. Press the “Down” button the moment the shutter is fully opened. The Shutter control will record to time it took for the shutter to roll from close to open as the new “**open time**”.
-      7. The Shutter Control will send a multilevel report, with its current value, target value, and/or duration, to the controller whenever its level changed.
-    * For Example, if it takes the shutter 30 seconds to move from “Up” to “Down” position, its new close time will be 30 seconds. After calibration, whenever the “Down” button is pressed, the shutter will roll down for 30 seconds.
-    * If it takes the shutter 40 seconds to move from “Down” to “Up” position, its new open time will be 40 seconds. After calibration, whenever the “Up” button is pressed, the shutter will roll up for 40 seconds.
-
-3
-
-* **Z-Wave Command:** Besides manual calibration, users can also adjust the activation time by sending command from the Z-Wave Controller with Configuration CC command, using parameters below:
+    When a Z-Wave command is received from Z-Wave controller, it will determine the shutter travel percentage using 4 minutes as basis for calculation.
+* For the Shutter Control to work properly, its activation time must be calibrated according to actual shutter travel distance. There are two ways to adjust the activation time:
+  * **Manual Calibration:** Calibrate the activation according to procedure below:
+    1. Before calibration, the external local switches must be connected to the Shutter Control.
+    2. Press and hold the Function button for 3 seconds and release to enter Calibration mode. The Shutter motor will roll up for 4 minutes when the Shutter Control enters Calibration mode.
+    3. Wait for 4 minutes for Shutter motor to stop rolling, then press “Down” button to roll down the shutter. (If less than 4 minutes the shutter has reached the open position already, you can press the “Down” button to stop the shutter motor. Then press the “Down” button again to roll down the shutter.)
+    4. As soon as the shutter is fully closed, press the “Up” button. The Shutter control will record the time it took for the shutter to roll from open to close as the new “**close time**”.
+    5. After the “Up” button is pressed the moment the shutter is fully closed, the shutter will roll up towards the open direction.
+    6. Press the “Down” button the moment the shutter is fully opened. The Shutter control will record to time it took for the shutter to roll from close to open as the new “**open time**”.
+    7. The Shutter Control will send a multilevel report, with its current value, target value, and/or duration, to the controller whenever its level changed.
+  * For Example, if it takes the shutter 30 seconds to move from “Up” to “Down” position, its new close time will be 30 seconds. After calibration, whenever the “Down” button is pressed, the shutter will roll down for 30 seconds.
+  * If it takes the shutter 40 seconds to move from “Down” to “Up” position, its new open time will be 40 seconds. After calibration, whenever the “Up” button is pressed, the shutter will roll up for 40 seconds.
+  * **Z-Wave Command:** Besides manual calibration, users can also adjust the activation time by sending command from the Z-Wave Controller with Configuration CC command, using parameters below:
 
 | **Setting**        | **Parameter Number** | **Size** | **Value**      | **Default**      |
 | ------------------ | -------------------- | -------- | -------------- | ---------------- |
@@ -161,21 +156,15 @@ When a Z-Wave command is received from Z-Wave controller, it will determine the 
 |                    |                      |          | (%)            | Full Open        |
 |                    |                      |          |                |                  |
 
- Parameter Number : 0x01\~0x03
+* Parameter Number : 0x01\~0x03
+  * For parameter 1, users can set the open time (from down to up) to a value that ranges from 0 to 255 seconds.
+  * For parameter 2, users can set the close time (from up to down) time to a value that ranges from 0 to 255 seconds.
+  * For parameter 3, users can set the current position to a value that ranges from %0 to %99.
+* Size: 0x02. This filed is used to specify the size of the actual value.
+* Configuration Value : 0x0000\~0x00FF (seconds)
+*   The shutter control will start movement upon receiving Z-Wave command Switch Binary Set or Switch Multilevel Set, and the movement will be executed based on current position setting.
 
- For parameter 1, users can set the open time (from down to up) to a value that ranges from 0 to 255 seconds.
-
- For parameter 2, users can set the close time (from up to down) time to a value that ranges from 0 to 255 seconds.
-
- For parameter 3, users can set the current position to a value that ranges from %0 to %99.
-
- Size: 0x02. This filed is used to specify the size of the actual value.
-
- Configuration Value : 0x0000\~0x00FF (seconds)
-
- The shutter control will start movement upon receiving Z-Wave command Switch Binary Set or Switch Multilevel Set, and the movement will be executed based on current position setting.
-
-Example for Configuration Setting:
+    Example for Configuration Setting:
 
 | Parameter Number | Size | Value |               |
 | ---------------- | ---- | ----- | ------------- |
@@ -187,15 +176,17 @@ Example for Configuration Setting:
 | 03               | 02   | 0032  | (50%)         |
 |                  |      |       |               |
 
+
+
 SWITCH\_MULTILEVEL\_SET: 0x00 (0%)
 
 SCM will roll down (from up to down) for 50 seconds: (100/100)\*(100-50)
 
- The activation time will be reset to **4** minutes whenever the Shutter Control is included in Z-Wave network, or when it is factory reset.
+* The activation time will be reset to **4** minutes whenever the Shutter Control is included in Z-Wave network, or when it is factory reset.
 
 _**\<NOTE>:**_ The Shutter Control’s default Current Position is set to 99% (Full Open). It is recommended to fully open the shutter before calibrating with Z-Wave command, otherwise please also re-adjust the Current Position setting with command.
 
-* _**Z-Wave Information**_
+### _**Z-Wave Information**_
 
 **Generic Device Class:** SWITCH\_MULTILEVEL
 
@@ -205,7 +196,9 @@ _**\<NOTE>:**_ The Shutter Control’s default Current Position is set to 99% (F
 
 **Command Class Support/Control**
 
-**Mandatory CC Support:** Z-Wave Plus Info CC
+**Mandatory CC Support:**&#x20;
+
+Z-Wave Plus Info CC
 
 Transport Service CC
 
@@ -235,7 +228,7 @@ Version CC, V2 (S2)
 
 Multi Channel Association CC, V3 (S2)
 
-* _**Z-Wave’s Groups (Association Command Class Version 2)**_
+### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
 _**Group 1 for “LifeLine”: (maximum node x 1)**_
 
