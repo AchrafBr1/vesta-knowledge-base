@@ -175,7 +175,7 @@ This is for you to select the door lock you wish to bind with the system. Please
 
 To add a new device, tap the icon  ![](<.gitbook/assets/image (8) (2).png>)on the top left corner to setup WiFi for your IP Cam or VDP. Before you proceed, ensure to update device firmware to the latest version.
 
-To setup WiFi function for existing model, tap the ![](<.gitbook/assets/image (11).png>)  icon and follow the step-by-step instructions.
+To setup WiFi function for existing model, tap the ![](<.gitbook/assets/image (11) (3).png>)  icon and follow the step-by-step instructions.
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 

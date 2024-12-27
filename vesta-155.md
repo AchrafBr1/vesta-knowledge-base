@@ -1,8 +1,8 @@
 # VESTA 155
 
-DI/DO Module (DIO-52-B)
+## DI/DO Module (DIO-52-B)
 
-Introduction
+### Introduction
 
 DIO-52-B is a DI/DO module that integrates wired devices into wireless networks to create automated responses and enhances security and convenience.&#x20;
 
@@ -10,92 +10,81 @@ The DI/DO module has built-in Digital Input and Digital Output terminals. It can
 
 The DIO-52-B can also be connected to separate devices. With the Home Automation rule set in the Panel, the device connected to its DI point can be turned into the trigger of events, and its DO point into the responder of events. When “Input Follower Mode” is selected in the Control Panel, the DO terminal is interconnected to the DI terminal, and DO terminal device will be activated by DI terminal device trigger.
 
-**Top Cover** **Base**
+&#x20;                           **Top Cover**                                                                                     **Base**
 
 ![](<.gitbook/assets/0 (34).png>)
 
-**Parts Identification**
+### **Parts Identification**
 
-1. **Test Button**
+1.  **Test Button**
 
-Press once to send a learn code to the Control Panel.
+    Press once to send a learn code to the Control Panel.
+2.  **LED indicator**
 
-1. **LED indicator**
+    The LED indicator lights up in the following conditions:
 
-The LED indicator lights up in the following conditions:
+    1. Flashes 6 times: When Input terminal is triggered or when the Switch is transmitting a signal.
+    2. Flashes 3 times: When Output Terminal is triggered.
+    3. Flashes once every 4 seconds: Batteries are extremely low and need to be replaced.
+3. **Battery Compartment**
+4. **Power Terminal**
+5. **Digital Input (DI) Terminal**
+6.  **Digital Output (DO) Terminal**
 
-* Flashes 6 times:
+    When connecting wire to each terminal, please use a mini Phillips screwdriver to screwn/unscrew the terminal. Avoid using a flat-head screwdriver, which may cause scrapes.
+7. **Mounting Holes**
+8.  **Strain Relief Clamps**
 
-When Input terminal is triggered or when the Switch is transmitting a signal.
+    The clamps are used for securing the wires, and providing strain relief to protect the wires from metal cutout.
+9. **Wiring Holes**
 
-* Flashes 3 times:
+### Features
 
-When Output Terminal is triggered.
+#### _**Power Supply**_
 
-* Flashes once every 4 seconds:
+* **AC Power and Battery**
+  * DIO-52-B can be powered by a two-wired 5-12V DC adapter when connected to the Power Terminal, or it can be battery-powered by three CR123 Lithium batteries.
+  * When Power Terminal and batteries are both in use, DIO-52-B will only power through the adaptor.
+* **Low Battery Detection**
+  * DIO-52-B features Low Battery Detection function. When the battery voltage is low, DIO-52-B will transmit Low Battery signal to notify the user. When changing batteries, after removing the old batteries, press the Test Button twice to fully discharge before inserting new batteries.
 
-Batteries are extremely low and need to be replaced.
-
-1. **Battery Compartment**
-2. **Power Terminal**
-3. **Digital Input (DI) Terminal**
-4. **Digital Output (DO) Terminal**
-
-* When connecting wire to each terminal, please use a mini Phillips screwdriver to screwn/unscrew the terminal. Avoid using a flat-head screwdriver, which may cause scrapes.
-
-1. **Mounting Holes**
-2. **Strain Relief Clamps**
-
-The clamps are used for securing the wires, and providing strain relief to protect the wires from metal cutout.
-
-1. **Wiring Holes**
-
-Features
-
-* _**Power Supply**_
-
-**AC Power and Battery**
-
-* DIO-52-B can be powered by a two-wired 5-12V DC adapter when connected to the Power Terminal, or it can be battery-powered by three CR123 Lithium batteries.
-* When Power Terminal and batteries are both in use, DIO-52-B will only power through the adaptor.
-
-**Low Battery Detection**
-
-* DIO-52-B features Low Battery Detection function. When the battery voltage is low, DIO-52-B will transmit Low Battery signal to notify the user. When changing batteries, after removing the old batteries, press the Test Button twice to fully discharge before inserting new batteries.
-* _**Supervision**_
+#### _**Supervision**_
 
 DIO-52-B will transmit a supervision signal every 30 to 50 minutes regularly to report its condition.
 
-* _Getting Started_
+#### _**Getting Started**_
 
-1. Insert batteries or connect the two-wired 5-12V DC adapter to power on DIO-52-B.
+1. nsert batteries or connect the two-wired 5-12V DC adapter to power on DIO-52-B.
 2. Put the Control Panel into Learning Mode, refer to Control Panel manual for details.
 3. Press the Test button once, the LED will flash 6 times.
 4. If the Control Panel receives the signal, it will display the information accordingly, refer to Control Panel manual to complete the learning process.
 
-\<NOTE>
+{% hint style="info" %}
+When learnt into the Control Panel, the DIO-52-B will be recognized as 2 separate devices (DI & DO), occupying 2 zones in the Panel.
+{% endhint %}
 
-* When learnt into the Control Panel, the DIO-52-B will be recognized as 2 separate devices (DI & DO), occupying 2 zones in the Panel.
-* _**Walk Test**_
+#### _**Walk Test**_
+
 * After the DIO-52-B is learnt-in, put the Control Panel into (**Walk Test**) mode, hold the DI/DO module in the desired location, and press the Test Button to transmit test signal to Control Panel. If the Control Panel is within the DIO-52-B signal range, the panel will display DI\&DO information accordingly.
 * Proceed with mounting and installation once you are satisfied that the DI/DO module functions properly in the desired location.
-* _**Operation Mode**_
 
-The DI/DO module can operate according to different mode selected on the Control Panel webpage, or Home Portal Server (Mode selection function is not available in Vesta Home 5 App). Please select the mode in **DO Device Edit** page.
+#### _**Operation Mode**_
 
-| **Control Panel webpage**                                          | **Home Portal Server**                                             |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/1 (39).png" alt="" data-size="original"> | <img src=".gitbook/assets/2 (44).png" alt="" data-size="original"> |
+The DI/DO module can operate according to different mode selected on the Control Panel webpage, or SmartHomeSec Server . Please select the mode in **DO Device Edit** page.
 
-* **Appliance Control:**
+| **Control Panel webpage**                                          | **SmartHomeSec**                                                      |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| <img src=".gitbook/assets/1 (39).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (2).png" alt="" data-size="original"> |
 
-When DIO-52-B is used for appliance control, the input and output terminals are connected to the same device, e.g. a water valve.
+*   **Appliance Control:**
 
-The output terminal is used to receive on/off signal from the Control Panel to turn/on off the connected device, while the input terminal is used to transmit the current status of the connected device to the Panel.
+    When DIO-52-B is used for appliance control, the input and output terminals are connected to the same device, e.g. a water valve.
 
-When the “Appliance Control” mode is selected, you can remotely turn on/off the connected device from the Control Panel webpage, Home Portal Server, or Vesta Home 5 App, but the output follow input setting in DO will be deactivated. You can program Home Automation rules, Scenes on Panel webpage or Home Portal Server to integrate the device connected to DIO-52-B with other devices in the Control Panel.
+    The output terminal is used to receive on/off signal from the Control Panel to turn/on off the connected device, while the input terminal is used to transmit the current status of the connected device to the Panel.
 
-![](<.gitbook/assets/3 (39).png>)
+    When the “Appliance Control” mode is selected, you can remotely turn on/off the connected device from the Control Panel webpage or _**SmartHomeSe**_&#x63; server, but the output follow input setting in DO will be deactivated. You can program Home Automation rules, Scenes on Panel webpageor _**SmartHomeSe**_&#x63; Server to integrate the device connected to DIO-52-B with other devices in the Control Panel.
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Example of DI/DO practice for Appliance Control:
 

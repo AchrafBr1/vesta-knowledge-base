@@ -16,7 +16,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 
 ## Parts Identification
 
-<div align="left"><figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1. **Flash LED / Infrared LED**
 

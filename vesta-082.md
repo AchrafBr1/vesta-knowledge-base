@@ -77,7 +77,7 @@ The jumper link is removed or “**parked**” on one pin.
 
 **7.Door Open Direction Jumper Switch (JP5)**
 
-<div align="left"><figure><img src=".gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Jumper On**
 

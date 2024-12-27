@@ -163,7 +163,7 @@ _ANNEX 1_
 
 ### 4.3 Configure user codes
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (20) (1) (1).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Instalador -> Ajustes</td><td></td></tr><tr><td><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Ajustes -> PIN de usuario</td><td></td></tr><tr><td><img src=".gitbook/assets/image (9) (2).png" alt="" data-size="original"></td><td>Añadir el Nombre y código para cada usuario, este código permitirá al usuario cambiar de modo desde la APP o teclados consultar <a href="guia-de-usuario-smarthomesec.md">Manual de usuario</a> para más información</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (20) (1) (1).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Instalador -> Ajustes</td><td></td></tr><tr><td><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Ajustes -> PIN de usuario</td><td></td></tr><tr><td><img src=".gitbook/assets/image (9) (2).png" alt="" data-size="original"></td><td>Añadir el Nombre y código para cada usuario, este código permitirá al usuario cambiar de modo desde la APP o teclados consultar <a href="guia-de-usuario-smarthomesec.md">Manual de usuario</a> para más información</td><td></td></tr></tbody></table>
 
 ### 4.4 Updating the panel
 
