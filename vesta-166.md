@@ -1,8 +1,8 @@
-# VESTA 166
+# VESTA-166
 
-**Shutter Control (SCM-8ZW)**
+## **Shutter Control (SCM-8ZW)**
 
-**Introduction**
+### **Introduction**
 
 SCM-8ZW is a Z-Wave Shutter Control. The user can control the SCM via Z-Wave network at a remote distance or manually by linking a switch to the SCM.
 
@@ -10,7 +10,9 @@ Automatically or remotely roll up, down or stop mid-way, the SCM-8 is directly c
 
 The Shutter Control is compatible only with Z-Wave Gateway/Control Panel. Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be routed to their destination via intermediary “listening” Z-Wave products.
 
-**Parts Identification**
+### **Parts Identification**
+
+![](<.gitbook/assets/0 (68).jpeg>)
 
 1. **Function Button**
    * Press the button 3 times within 1.5 seconds to include or exclude the device from Z-Wave network.
@@ -38,53 +40,58 @@ The Shutter Control is compatible only with Z-Wave Gateway/Control Panel. Z-Wave
 11. **Wiring Buckle**
     * The Wiring Buckle is used for managing wires.
 
-![](<.gitbook/assets/0 (68).jpeg>)
-
-**Specification**
+### **Specification**
 
 * Power Supply: 100 - 240VAC, 50/60Hz
 * Supported Load Current: 1/2 HP (Horse power); 3.6Amps for motors with compensated power factor (inductive loads)
 
-1
+{% hint style="info" %}
+_**Caution**_ <img src=".gitbook/assets/1 (63).jpeg" alt="" data-size="line">
 
-* _**Caution**_ ![](<.gitbook/assets/1 (63).jpeg>)
-  * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
-  * Before installation or any maintenance work, ensure to disconnect the power supply.
-  * Do not connect the device to loads exceeding supported load current.
-  * Please connect the device to AC powered motor only.
-* _**Adding Device (Inclusion)**_
+* All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
+* Before installation or any maintenance work, ensure to disconnect the power supply.
+* Do not connect the device to loads exceeding supported load current.
+* Please connect the device to AC powered motor only.
+{% endhint %}
+
+### _**Adding Device (Inclusion)**_
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
-*
-  * Connect the power to Shutter Control (see manual’s **Installation**).
-  * Put the Z-Wave gateway or control panel into **Inclusion mode** (please refer to the Z-Wave gateway or control panel manual).
-  * Within 1.5 seconds, press the Function Button 3 times.
-  * Refer to the operation manual of the Z-Wave gateway or control panel to complete the adding process.
-  * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see _**Removing Device**_).
-* _**Removing Device (Exclusion)**_
+1. Connect the power to Shutter Control (see manual’s **Installation**).
+2. Put the Z-Wave gateway or control panel into **Inclusion mode** (please refer to the Z-Wave gateway or control panel manual).
+3. Within 1.5 seconds, press the Function Button 3 times.
+4. Refer to the operation manual of the Z-Wave gateway or control panel to complete the adding process.
 
-The device must be removed from existing Z-Wave network before being added into another. **Exclusion Mode**
+{% hint style="info" %}
+If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try **exclude** it first (see _**Removing Device**_).
+{% endhint %}
 
-* Put the Z-Wave gateway or control panel into **Exclusion mode** (please refer to the Z-Wave gateway or control panel manual).
-* Within 1.5 seconds, press the Function Button 3 times and the device will be removed from the Z-Wave network.
+### _**Removing Device (Exclusion)**_
 
-**Factory Reset**
+The device must be removed from existing Z-Wave network before being added into another.&#x20;
+
+**Exclusion Mode**
+
+1. Put the Z-Wave gateway or control panel into **Exclusion mode** (please refer to the Z-Wave gateway or control panel manual).
+2. Within 1.5 seconds, press the Function Button 3 times and the device will be removed from the Z-Wave network.
+
+#### **Factory Reset**
 
 _(Only use factory reset when network Control Panel/Gateway is missing or inoperable)._
 
-*
-  * Factory resetting the device will restore it to factory default settings (i.e. excluded from Z-Wave network).
-  * Press and hold the Function Button of the device for 10 seconds to factory reset.
-* _**Range Test**_
+* Factory resetting the device will restore it to factory default settings (i.e. excluded from Z-Wave network).
+* Press and hold the Function Button of the device for 10 seconds to factory reset.
+
+### _**Range Test**_
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
-* Put the gateway / panel into range test mode (Walk Test).
-* Press the Function Button on the device
-* The gateway / panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel).
+1. Put the gateway / panel into range test mode (Walk Test).
+2. Press the Function Button on the device
+3. The gateway / panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel).
 
-**Installation**
+### **Installation**
 
 * Please use the recommended wire size of AWG 14-22 or Ø 2.08-0.326 (mm²). Connect the SCM according to the diagram below:
 
@@ -93,9 +100,6 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 * Connect L terminal of SCM to the L terminal of Power Supply.
 * Connect N terminal of SCM to the N terminal of Power Supply.
 * Connect O1 terminal of SCM to the Up terminal of the Shutter Motor.
-
-2
-
 * Connect O2 terminal of SCM to the Down terminal of the Shutter Motor.
 * _**(Optional local switch)**_ Connect S1 and S2 terminals of SCM to the L terminal of Power Supply.
 * Insert each wire into the terminal that it should be connected to, tighten each screw to close the clippers and hold the wires in place.
@@ -103,27 +107,26 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 ![](<.gitbook/assets/3 (51).jpeg>)
 
-**Operation**
+### **Operation**
 
-* _**Shutter Control**_
-  * **Manual Control**
+#### _**Shutter Control**_
 
-If an optional Local Switch is connected, the user can press and hold the button on the up/down Local Switch (S1 up; S2 down) for 1 second to control the shutter. When activated, the shutter will roll up/down.
+*   **Manual Control**
 
-When the shutter is rolling, the user can stop the shutter by pressing the opposite direction button.
+    If an optional Local Switch is connected, the user can press and hold the button on the up/down Local Switch (S1 up; S2 down) for 1 second to control the shutter. When activated, the shutter will roll up/down.
 
-*
-  * **Z-Wave Network**
+    When the shutter is rolling, the user can stop the shutter by pressing the opposite direction button.
+*   **Z-Wave Network**
 
-After the Shutter Control has been successfully included in a Z-Wave network, the Z-Wave controller can control the shutter with Z-Wave command Switch Binary Set or Switch Multilevel Set, using parameters below:
+    After the Shutter Control has been successfully included in a Z-Wave network, the Z-Wave controller can control the shutter with Z-Wave command Switch Binary Set or Switch Multilevel Set, using parameters below:
 
-*
-  *
     * Value: 0x00\~0x63 (0%\~99%, 0% = Full Close, 99% = Full Open)
     * Dimming Duration : 0x00
-  * As each up/down movement starts, the Multilevel Switch Start level Change Command is sent to initiate the transition to the new level. While the SCM is in motion, you can send Multilevel Switch Stop Level Change Command to stop the SCM.
-* _**Calibration**_
-  * The Shutter Control default activation time is **4** minutes.
+* As each up/down movement starts, the Multilevel Switch Start level Change Command is sent to initiate the transition to the new level. While the SCM is in motion, you can send Multilevel Switch Stop Level Change Command to stop the SCM.
+
+#### _**Calibration**_
+
+* The Shutter Control default activation time is **4** minutes.
 
 When the Up/Down button is pressed, it will activate the shutter motor for 4 minutes.
 
