@@ -179,9 +179,9 @@ To setup WiFi function for existing model, tap the ![](<.gitbook/assets/image (1
 
 <figure><img src=".gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
-To enlarge to full screen view, tap the ![](<.gitbook/assets/image (13) (2).png>)  icon for different function settings. The left-hand menu allows you to switch on or off your microphone, record a video or take a snapshot, or remotely unlock your electric door lock that is bound with the system. Tap the  ![](<.gitbook/assets/image (14).png>)icon to return to the main page.
+To enlarge to full screen view, tap the ![](<.gitbook/assets/image (13) (2).png>)  icon for different function settings. The left-hand menu allows you to switch on or off your microphone, record a video or take a snapshot, or remotely unlock your electric door lock that is bound with the system. Tap the  ![](<.gitbook/assets/image (14) (3).png>)icon to return to the main page.
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Doorbell Notification <a href="#toc51257992" id="toc51257992"></a>
 

@@ -8,7 +8,7 @@ The Door Contact / Shock Sensor design consists of a cover and base. The cover c
 
 ![](<.gitbook/assets/0 (52).jpeg>)
 
-<figure><img src=".gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Parts Identification**
 

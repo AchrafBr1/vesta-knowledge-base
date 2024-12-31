@@ -140,7 +140,7 @@ If a new NFC label learns an existent User PIN code, the new NFC label will repl
 If the NFC learning period times out (exceeds 5 seconds), the Status LED will turn on Red briefly. Re-enter the same User PIN code if you wish to learn more NFC labels using the same PIN code.
 
 5. &#x20;To learn in another NFC label, please repeat steps 3-4
-6. Press <img src=".gitbook/assets/image (8) (1).png" alt="" data-size="line">key to exit the NFC learning procedure.
+6. Press <img src=".gitbook/assets/image (8) (1) (1).png" alt="" data-size="line">key to exit the NFC learning procedure.
 
 {% hint style="info" %}
 If the User Pin Code which you entered exceeds the pin code length (4 digits allowed), the Status Blue LED will flash along with 4 short beeps to indicate the error condition
@@ -219,11 +219,11 @@ If remote keypad does not perform 3 beeps, please restart the learning procedure
 
 1. When the keypad is under Test mode, press ＊ key then **6** key, a long beep will be sound.
 2. Enter **0000** (default PIN code)
-3. Press <img src=".gitbook/assets/image (6) (1).png" alt="" data-size="line">key, remote keypad sounds a long beep.
+3. Press <img src=".gitbook/assets/image (6) (1) (1).png" alt="" data-size="line">key, remote keypad sounds a long beep.
 4. &#x20;Enter your new 4-digit code.
 5. Press **#** key, remote keypad sounds a long beep. The new PIN code is enabled.
 
-**Step 6.** Press <img src=".gitbook/assets/image (7) (1).png" alt="" data-size="line"> key **twice** to leave Test mode and the installation is completed.
+**Step 6.** Press <img src=".gitbook/assets/image (7) (1) (1).png" alt="" data-size="line"> key **twice** to leave Test mode and the installation is completed.
 
 ### _**Mounting Remote Keypad**_
 
@@ -261,7 +261,7 @@ NFC label has to be learnt into KP first.
 
 In the Test mode, Pressing ＊ key and then **8** key can enable Arm/ Home without PIN Code function
 
-* _**Enter Arm Mode:**_ Press <img src=".gitbook/assets/image (13).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with one long beep.&#x20;
+* _**Enter Arm Mode:**_ Press <img src=".gitbook/assets/image (13) (1).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with one long beep.&#x20;
 * _**Enter Home Mode:**_ Press <img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
 * _**Return to Disarm Mode:**_ Enter any one of Control Panel user code and <img src=".gitbook/assets/image (2) (1) (1) (1).png" alt="" data-size="line"> Key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
 

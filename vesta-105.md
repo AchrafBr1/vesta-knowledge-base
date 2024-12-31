@@ -171,13 +171,13 @@ Hooks, Loops
 
 5. Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
 
-<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                          (**Pic 8.**)                         (**Pic 9.**)                                                        &#x20;
 
 
 
-<figure><img src=".gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Door / Window, Frame, Rib-Marks
 
