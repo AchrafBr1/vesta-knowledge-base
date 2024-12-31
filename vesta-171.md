@@ -17,11 +17,11 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 1. **Valve Cap**
 2. **LCD Display**
 
-<div align="left"><figure><img src=".gitbook/assets/image (10).png" alt="" width="189"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (11).png" alt="" width="189"><figcaption></figcaption></figure></div>
 
-A.  <img src=".gitbook/assets/image (11).png" alt="" data-size="line">**ON** when device is already added into Z-Wave network.
+A.  <img src=".gitbook/assets/image (12).png" alt="" data-size="line">**ON** when device is already added into Z-Wave network.
 
-B. <img src=".gitbook/assets/image (12).png" alt="" data-size="line">**Low Battery Indicator.**
+B. <img src=".gitbook/assets/image (13).png" alt="" data-size="line">**Low Battery Indicator.**
 
 C. ![](<.gitbook/assets/4 (47).jpeg>) On: Device set to default temperature 17 °C.
 
@@ -33,9 +33,9 @@ C. ![](<.gitbook/assets/4 (47).jpeg>) On: Device set to default temperature 17 �
 
 D. **Auto / Manual Mode.**
 
-E. <img src=".gitbook/assets/image (13).png" alt="" data-size="line"> **Boost function.**
+E. <img src=".gitbook/assets/image (14).png" alt="" data-size="line"> **Boost function.**
 
-F. <img src=".gitbook/assets/image (14).png" alt="" data-size="line"> **Open Window**.
+F. <img src=".gitbook/assets/image (15).png" alt="" data-size="line"> **Open Window**.
 
 G. **Temperature Indicator.**
 
@@ -118,7 +118,7 @@ If Radiator Valve detects indoor temperature drops rapidly by opening the window
 
 ### _**Control Knob**_
 
-Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce temperature and anti-clockwise to increase the temperature. The adjustable temperature range is 5°C to 30°C. If you rotate the Control Knob lower than 5°C to On, after 1 minute, the Radiator Valve will open the valve completely, to preserve battery power, if you rotate the Control Knob lower than 5°C to Off, after 1 minute, the Radiator Valve will close the valve completely. To disable ON/Off status please rotate the control knob or press <img src=".gitbook/assets/image.png" alt="" data-size="line">button . The Boost Function is unavailable under Control Knob set to ON/Off status.
+Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce temperature and anti-clockwise to increase the temperature. The adjustable temperature range is 5°C to 30°C. If you rotate the Control Knob lower than 5°C to On, after 1 minute, the Radiator Valve will open the valve completely, to preserve battery power, if you rotate the Control Knob lower than 5°C to Off, after 1 minute, the Radiator Valve will close the valve completely. To disable ON/Off status please rotate the control knob or press <img src=".gitbook/assets/image (1).png" alt="" data-size="line">button . The Boost Function is unavailable under Control Knob set to ON/Off status.
 
 **ON:** When turned to ON, the valve is opened completely. This function is used to preserver battery life during summer, when heating is not required. Do not use this function in winter when heater is activated, otherwise the room temperature will rise uncontrolled.
 
@@ -126,7 +126,7 @@ Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce te
 
 ### _**Key Lock Function**_
 
-Press and hold both Auto/Manual button and <img src=".gitbook/assets/image (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display  <img src=".gitbook/assets/image (2).png" alt="" data-size="line">symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both Auto/Manual button and <img src=".gitbook/assets/image (4).png" alt="" data-size="line">button for 3 seconds likewise.
+Press and hold both Auto/Manual button and <img src=".gitbook/assets/image (2).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display  <img src=".gitbook/assets/image (3).png" alt="" data-size="line">symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both Auto/Manual button and <img src=".gitbook/assets/image (5).png" alt="" data-size="line">button for 3 seconds likewise.
 
 ### _**Remote Control**_
 
@@ -148,82 +148,64 @@ After the Radiator Valve joins a Z-Wave network, you can control the Radiator Va
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
-* Remove the Radiator Valve back cover and insert 2 AA Alkaline batteries to power up the Radiator Valve, LCD will display **InS** and <img src=".gitbook/assets/image (5).png" alt="" data-size="line"> icon will flash to indicate Radiator Valve’s motor is working.
+* Remove the Radiator Valve back cover and insert 2 AA Alkaline batteries to power up the Radiator Valve, LCD will display **InS** and <img src=".gitbook/assets/image (6).png" alt="" data-size="line"> icon will flash to indicate Radiator Valve’s motor is working.
 * Put Z-Wave control panel into **Inclusion mode** (please refer to the Z-Wave control panel manual).
 * Within 1.5 seconds, press the Boost Button 3 times
 * Refer to operation manual of the Z-Wave gateway or control panel to complete the adding process.
 * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see _**Removing Device**_).
-* When the motor stops working and  <img src=".gitbook/assets/image (6).png" alt="" data-size="line">icon changes to steady on, attach the Valve cap to the pipe.
+* When the motor stops working and  <img src=".gitbook/assets/image (7).png" alt="" data-size="line">icon changes to steady on, attach the Valve cap to the pipe.
 
-<figure><img src=".gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Rotating the Valve cap clockwise to tighten the Radiator Valve.
 
-<figure><img src=".gitbook/assets/image (8).png" alt="" width="238"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt="" width="238"><figcaption></figcaption></figure>
 
-* Press the Auto/Manual button, LCD displays **AdA** and valve motor starts working again, the <img src=".gitbook/assets/image (9).png" alt="" data-size="line"> icon will flash. The device motor is measuring the distance to adjust the current temperature.
+* Press the Auto/Manual button, LCD displays **AdA** and valve motor starts working again, the <img src=".gitbook/assets/image (10).png" alt="" data-size="line"> icon will flash. The device motor is measuring the distance to adjust the current temperature.
 * When the valve motor stops, the system will enter Manual mode with LCD displaying the default set temperature 18.5°C, the installation is now complete.&#x20;
 * After joining Z-Wave network and completing installation, the Z-Wave connection icon <img src=".gitbook/assets/image (151).png" alt="" data-size="line"> will appear on LCD display.&#x20;
 * If Radiator Valve loses connection to current Z-Wave network, the Z-Wave connection icon will disappear. Please check Z-Wave network condition and Radiator Valve signal range to correct the situation.
 
 ### _**Removing Device (Exclusion)**_
 
-The device must be removed from existing Z-Wave network before being added into another. **Exclusion Mode**
+The device must be removed from existing Z-Wave network before being added into another.&#x20;
 
-* Put the Z-Wave gateway or control panel into **Exclusion mode** (please refer to the Z-Wave or control panel manual).
+#### **Exclusion Mode**
 
-3
+1. Put the Z-Wave gateway or control panel into **Exclusion mode** (please refer to the Z-Wave or control panel manual
+2. Within 1.5 seconds, press Boost Button 3 times and device will be removed from Z-Wave network.
 
-*
-  * Within 1.5 seconds, press Boost Button 3 times and device will be removed from Z-Wave network.
-
-**Factory Reset**
+#### **Factory Reset**
 
 Factory resetting the device will restore it to factory default settings (i.e. not included into any Z-Wave network). Please only use this procedure if the Z-Wave gateway or control panel is lost or otherwise inoperable.
 
-*
-  * Press and hold the Boost Button for 10 seconds to factory reset.
-* _**Range Test**_
+* Press and hold the Boost Button for 10 seconds to factory reset.
+
+### _**Range Test**_
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
-*
-  * Put the gateway / panel into range test mode (Walk Test).
-  * Press and hold the Boost Button for one second.
-  * The gateway / panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel).
-* _**Z-Wave Sleep Mode**_
-  * The Radiator Valve will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the Radiator Valve.
-  * To program the Radiator Valve using the Z-Wave Gateway/Control Panel, please send command(s) to the Radiator Valve within the wake-up period.
-* _**Configuration Set Command**_
-  * The Radiator Valve allows the user to set open-delay and close-delay values. The default value is 2 minutes (max: 5 minutes).
-  * If 4 minutes is set for open-delay, the device will send an operate-state open report 4 minutes after the valve is opened. If 4 minutes is set for close-delay, the valve will be closed 4 minutes after an operate-state close report is sent.
-  * The valve also features periodic status report; the default value is 60 minutes. The timer will be reset whenever operate-state is changed.
-  * The Configuration Set Command is used to set the value of a configuration parameter:
+1. Put the gateway / panel into range test mode (Walk Test).
+2. Press and hold the Boost Button for one second.
+3. The gateway / panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel).
 
-| 7                             |                                  | 6                           |                                             | 5    |                            | 4                     |   | 3 |   | 2         |   |      | 1 |   | 0 |
-| ----------------------------- | -------------------------------- | --------------------------- | ------------------------------------------- | ---- | -------------------------- | --------------------- | - | - | - | --------- | - | ---- | - | - | - |
-|                               |                                  |                             | Command Class=COMMAND\_CLASS\_CONFIGURATION |      |                            |                       |   |   |   |           |   |      |   |   |   |
-|                               |                                  |                             |                                             |      | Command=CONFIGURATION\_SET |                       |   |   |   |           |   |      |   |   |   |
-|                               |                                  |                             |                                             |      |                            | Parameter Number      |   |   |   |           |   |      |   |   |   |
-| Default                       |                                  |                             |                                             |      | Reserved                   |                       |   |   |   |           |   | Size |   |   |   |
-|                               |                                  |                             |                                             |      |                            | Configuration Value 1 |   |   |   |           |   |      |   |   |   |
-|                               |                                  |                             |                                             |      |                            |                       | … |   |   |           |   |      |   |   |   |
-|                               |                                  |                             |                                             |      |                            | Configuration Value N |   |   |   |           |   |      |   |   |   |
-|                               |                                  |                             |                                             |      |                            |                       |   |   |   |           |   |      |   |   |   |
-| COMMAND\_CLASS\_CONFIGURATION |                                  | Parameter Number            |                                             | Size |                            | Value                 |   |   |   |           |   |      |   |   |   |
-|                               |                                  |                             |                                             |      |                            |                       |   |   |   |           |   |      |   |   |   |
-|                               |                                  | Setpoint\_offset            |                                             |      |                            | 0                     |   |   |   |           | 2 | 0000 |   |   |   |
-|                               |                                  |                             |                                             |      |                            |                       |   |   |   |           |   |      |   |   |   |
-|                               | Operate State Open Report Delay  |                             | 1                                           |      |                            |                       |   | 1 |   | 2 (mins)  |   |      |   |   |   |
-|                               |                                  |                             |                                             |      |                            |                       |   |   |   |           |   |      |   |   |   |
-|                               | Operate State Close Report Delay |                             | 2                                           |      |                            |                       |   | 1 |   | 2 (mins)  |   |      |   |   |   |
-|                               |                                  |                             |                                             |      |                            |                       |   |   |   |           |   |      |   |   |   |
-|                               |                                  | Operate State Period Report |                                             | 3    |                            |                       |   |   | 1 | 60 (mins) |   |      |   |   |   |
-|                               |                                  |                             |                                             |      |                            |                       |   |   |   |           |   |      |   |   |   |
+### _**Z-Wave Sleep Mode**_
+
+* The Radiator Valve will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the Radiator Valve.
+* To program the Radiator Valve using the Z-Wave Gateway/Control Panel, please send command(s) to the Radiator Valve within the wake-up period.
+
+### _**Configuration Set Command**_
+
+* The Radiator Valve allows the user to set open-delay and close-delay values. The default value is 2 minutes (max: 5 minutes).
+* If 4 minutes is set for open-delay, the device will send an operate-state open report 4 minutes after the valve is opened. If 4 minutes is set for close-delay, the valve will be closed 4 minutes after an operate-state close report is sent.
+* The valve also features periodic status report; the default value is 60 minutes. The timer will be reset whenever operate-state is changed.
+* The Configuration Set Command is used to set the value of a configuration parameter:
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * Setpoint Offset Value : 0x0064 = 100 = 1.00℃.
 
-**Z-Wave Information**
+### **Z-Wave Information**
 
 **Device Type:** Thermostat
 
@@ -231,39 +213,25 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 **Command Class Support/Control**
 
-**Mandatory CC Support:** Association CC, v2 or newer
+**Mandatory CC Support:**&#x20;
 
-Association Group Information CC
+* Association CC, v2 or newer
+* Association Group Information CC
+* Battery CC
+* Device Reset Locally CC
+* Manufacturer Specific CC
+* Power Level CC
+* Version CC, v2 or newer
+* Z-Wave Plus Info CC
+* Thermostat mode CC
+* Thermostat Setpoint CC
+* Schedule CC&#x20;
+* Sensor Multilevel CC
+* Time CC
+* Firmware Update Metadata CC
+* Thermostat Operating State CC
 
-Battery CC
-
-Device Reset Locally CC
-
-Manufacturer Specific CC
-
-Power Level CC
-
-Version CC, v2 or newer
-
-Z-Wave Plus Info CC
-
-Thermostat mode CC
-
-Thermostat Setpoint CC
-
-Schedule CC
-
-4
-
-Sensor Multilevel CC
-
-Time CC
-
-Firmware Update Metadata CC
-
-Thermostat Operating State CC
-
-* _**Z-Wave’s Groups (Association Command Class Version 2)**_
+### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
 Group 1 for “LifeLine”:
 
@@ -281,8 +249,7 @@ Group 2 for “Thermostat Operating State”
 
 Thermostat Operating State CC
 
-* Factory Reset
+*   Factory Reset
 
-When the Radiator Valve is reset to factory default, it will send Device Reset Locally to all nodes in Group 1.
+    When the Radiator Valve is reset to factory default, it will send Device Reset Locally to all nodes in Group 1.
 
-5

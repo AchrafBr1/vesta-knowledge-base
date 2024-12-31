@@ -193,7 +193,7 @@ Before using the Doorbell Notification, the following settings should be complet
 * The Control Panel Home Portal Server account should be registered and working properly.
 * The Control Panel Home Portal Server account’s push notification setting must be enabled. To access miscellaneous page, log in your application and tap the  icon at top right corner and tap Notification.
 
-<div align="left"><figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 * The Notification page allows users to change push notification, incoming call and email notification settings. The Push Setting only affects push notification report to this specific user account and does not affect other accounts related to the same panel.
 * You can also enable or disable email notification of VDP event with your app.
