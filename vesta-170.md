@@ -1,6 +1,8 @@
 # VESTA-170
 
-## **PRLM-CH3-AC-ZW Z-Wave Relay Switch**
+## **PRLM-CH3-AC-ZW**&#x20;
+
+## **Z-Wave Relay Switch**
 
 ## **Introduction**
 
@@ -224,8 +226,6 @@ Switch Binary (S2)
 |                   |                |                | **Switch Binary: triggered by the endpoints**   |
 | **2**             | **Relay EP 1** | **5**          | **Mirror of endpoint 1, group 2**               |
 
-
-
 | **3**            | **Relay EP 2** | **5**          | **Mirror of endpoint 2, group 2**                  |
 | ---------------- | -------------- | -------------- | -------------------------------------------------- |
 | **4**            | **Relay EP 3** | **5**          | **Mirror of endpoint 3, group 2**                  |
@@ -242,6 +242,3 @@ Switch Binary (S2)
 | **1**            | **Lifeline**   | **0**          | **Mirror of root device, but without node count.** |
 | **2**            | **Relay EP 3** | **5**          | **Switch binary report on overload.**              |
 
-![](<.gitbook/assets/11 (35).png>) ![](<.gitbook/assets/12 (37).png>) ![](<.gitbook/assets/13 (32).png>) ![](<.gitbook/assets/14 (25).png>)
-
-**5**
