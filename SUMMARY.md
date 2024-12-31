@@ -89,7 +89,7 @@
 * [VESTA-168](vesta-168.md)
 * [VESTA-169](vesta-169.md)
 * [VESTA-170](vesta-170.md)
-* [VESTA 171](vesta-171.md)
+* [VESTA-171](vesta-171.md)
 * [VESTA 172](vesta-172.md)
 * [VESTA 173](vesta-173.md)
 * [VESTA 174](vesta-174.md)
