@@ -80,15 +80,14 @@ Factory resetting the device will restore it to factory default settings (i.e. n
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
-*
-  * Put the gateway / panel into range test mode (Walk Test).
-  * Press the Function Button on the device.
-  * The gateway / panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel).
-* _**Z-Wave Sleep Mode**_
-  * The Shutter Control Switch will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the Shutter Control Switch.
-  * To program the Shutter Control Switch using the Z-Wave Gateway/Control Panel, please send command(s) to the Shutter Control Switch within the wake-up period.
+1. Put the gateway / panel into range test mode (Walk Test).
+2. Press the Function Button on the device.
+3. The gateway / panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel).
 
-![](<.gitbook/assets/7 (43).png>) ![](<.gitbook/assets/8 (36).jpeg>)
+### _**Z-Wave Sleep Mode**_
+
+* The Shutter Control Switch will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the Shutter Control Switch.
+* To program the Shutter Control Switch using the Z-Wave Gateway/Control Panel, please send command(s) to the Shutter Control Switch within the wake-up period.
 
 **Installation**
 
@@ -102,43 +101,30 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 ![](<.gitbook/assets/9 (22).jpeg>)
 
-2
-
-**Z-Wave Information**
+## **Z-Wave Information**
 
 **Device Type:** Sensor - Notification
 
 **Role Type:** Reporting Sleeping Slave (RSS)
 
-**Command Class Support/Control**
+### **Command Class Support/Control**
 
-**Mandatory CC Support:** Association CC, v2
+**Mandatory CC Support:**&#x20;
 
-Association Group Information CC
+* Association CC, v2
+* Association Group Information CC
+* Battery CC
+* Device Reset Locally CC
+* Manufacturer Specific CC, v2
+* Scene Activation CC
+* Version CC, v2
+* Wake UP CC, v2
+* Z-Wave Plus Info CC, v2
+* Power Level CC
+* Notification CC, v4
+* Firmware Update CC, v2
 
-Battery CC
-
-Device Reset Locally CC
-
-Manufacturer Specific CC, v2
-
-Scene Activation CC
-
-Version CC, v2
-
-Wake UP CC, v2
-
-Z-Wave Plus Info CC, v2
-
-Power Level CC
-
-Notification CC, v4
-
-Firmware Update CC, v2
-
-![](<.gitbook/assets/10 (42).png>)
-
-* _**Z-Wave’s Groups (Association Command Class Version 2)**_
+### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
 Group 1 for “LifeLine”:
 
@@ -150,4 +136,3 @@ Battery CC (COMMAND\_CLASS\_BASIC)
 
 Device Reset Locally CC
 
-3
