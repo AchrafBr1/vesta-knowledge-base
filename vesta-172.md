@@ -1,77 +1,65 @@
-# VESTA 172
+# VESTA-172
 
-**Air Quality Sensor (AQS-2-ZW)**
+## **Air Quality Sensor (AQS-2-ZW)**
 
 The Air Quality Sensor AQS-2 is a Z-Wave™ indoor air quality sensor that aims to detect and monitor CO2 concentration. The Air Quality Sensor is compatible only with Z-Wave Gateway/Control Panel. Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be routed to their destination via intermediary “listening” Z-Wave products.
 
-**Parts Identification**
+## **Parts Identification**
 
 ![](<.gitbook/assets/0 (72).jpeg>)
 
 **1. Function Button**
 
-\-Press the button once to send CO2 concentration level signals.
-
-\-Press the button 3 times within 1 second to transmit a learn code.
-
-\-Press and hold the button for 10 seconds to perform factory reset.
+* Press the button once to send CO2 concentration level signals.
+* Press the button 3 times within 1 second to transmit a learn code.
+* Press and hold the button for 10 seconds to perform factory reset.
 
 **2.** **DC Jack**
 
 Connects to a 12V 1A DC Adapter
 
-**Features**
+## **Features**
 
-![](<.gitbook/assets/1 (65).png>)
-
-* _**Power Supply**_
+### _**Power Supply**_
 
 The Air Quality Sensor is powered by connecting with a DC 12V output and 1A adaptor. Be sure to only use an adapter with the appropriate AC voltage rating to prevent component damage, or only use the AC power adapter included with the Air Quality Sensor.
 
 If an AC power failure is detected, the Air Quality Sensor will send an AC failure report to the Control Panel.
 
-![](<.gitbook/assets/2 (70).png>)
+### _**Carbon Dioxide Detection**_
 
-* _**Carbon Dioxide Detection**_
-  * The Air Quality Sensor measures CO2 concentration every 5 seconds, and reports data to the Control Panel every 30 minutes. If the CO2 concentration changes by +/- 100ppm for two consecutive times, the Air Quality sensor will report to the Control Panel.
-  * If the detected CO2 concentration is above 1000ppm, the AQS-2 will send a CO2 alarm signal to the Control Panel. If the CO2 concentration drops below 1000ppm, the AQS-2 will send a CO2 restore signal to the Control Panel.
-* _**Adding Device (Inclusion)**_
+* The Air Quality Sensor measures CO2 concentration every 5 seconds, and reports data to the Control Panel every 30 minutes. If the CO2 concentration changes by +/- 100ppm for two consecutive times, the Air Quality sensor will report to the Control Panel.
+* If the detected CO2 concentration is above 1000ppm, the AQS-2 will send a CO2 alarm signal to the Control Panel. If the CO2 concentration drops below 1000ppm, the AQS-2 will send a CO2 restore signal to the Control Panel.
 
-![](<.gitbook/assets/3 (70).png>)
+### _**Adding Device (Inclusion)**_
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
-*
-  * Plug in the AC Power adapter; connect to the DC Jack on the Air Quality Sensor to power up.
-  * Put the Z-Wave Gateway or Control Panel into **Inclusion** mode (please refer to the Z-Wave Gateway or Control Panel manual).
-  * Within 1 second, press the Function Button 3 times.
-  * Refer to the operation manual of the Z-Wave Gateway or Control Panel to complete the inclusion process.
-  * If the sensor has already been **added** (included) into another Z-Wave Gateway/Control Panel, or if the sensor is unable to be added into the current Z-Wave Gateway/Control Panel, please exclude it first (see _**Removing Device**_) before attempting to **include** it into the current Z-Wave Gateway/Control Panel.
-* _**Removing Device (Exclusion)**_
+1. Plug in the AC Power adapter; connect to the DC Jack on the Air Quality Sensor to power up.
+2. Put the Z-Wave Gateway or Control Panel into **Inclusion** mode (please refer to the Z-Wave Gateway or Control Panel manual).
+3. Within 1 second, press the Function Button 3 times.
+4. Refer to the operation manual of the Z-Wave Gateway or Control Panel to complete the inclusion process.
 
-![](<.gitbook/assets/4 (70).png>)
+If the sensor has already been **added** (included) into another Z-Wave Gateway/Control Panel, or if the sensor is unable to be added into the current Z-Wave Gateway/Control Panel, please exclude it first (see _**Removing Device**_) before attempting to **include** it into the current Z-Wave Gateway/Control Panel.
+
+### _**Removing Device (Exclusion)**_
 
 The Air Quality Sensor must be removed from existing Z-Wave network before being included into another. There are two methods available to exclude a device.
 
-**Exclusion Mode**
+#### **Exclusion Mode**
 
-* Put the Z-Wave Gateway or Control Panel into **Exclusion mode** (please refer to the Z-Wave Gateway or Control Panel manual).
-* Within 1 second, press the Function Button 3 times and the device will be removed from the Z-Wave network.
+1. Put the Z-Wave Gateway or Control Panel into **Exclusion mode** (please refer to the Z-Wave Gateway or Control Panel manual).
+2. Within 1 second, press the Function Button 3 times and the device will be removed from the Z-Wave network.
 
-1
-
-**Factory Reset**
+#### **Factory Reset**
 
 _(Only use factory reset when network Control Panel/Gateway is missing or inoperable)._
 
 * Press and hold the Function Button for 10 seconds to perform factory reset.
 
-_\<NOTE>_
-
-*
-  * Factory resetting the device will restore it to factory default settings (excluded from the Z-Wave network). The Z-Wave Gateway or Control Panel will still keep its Z-Wave settings. Please refer to the Gateway or Control Panel manual on how to remove the device’s Z-Wave settings.
-
-![](<.gitbook/assets/5 (72).png>)
+{% hint style="info" %}
+Factory resetting the device will restore it to factory default settings (excluded from the Z-Wave network). The Z-Wave Gateway or Control Panel will still keep its Z-Wave settings. Please refer to the Gateway or Control Panel manual on how to remove the device’s Z-Wave settings.
+{% endhint %}
 
 **Installation**
 
