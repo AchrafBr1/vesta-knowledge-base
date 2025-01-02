@@ -297,3 +297,5 @@ icon: calendar-circle-exclamation
 | v2\_cid\_1845              | Short Circuit Protection                   | Protección contra cortocircuitos                            |
 | v2\_cid\_3845              | Short Circuit Restore                      | Restablecimiento de cortocircuito                           |
 | v2\_cid\_1642              | Entry delay initiated                      | Retardo de entrada iniciado                                 |
+| v2\_cid\_1699              | Ethernet test                              | Evento test enviado desde ETHERNET                          |
+| v2\_cid\_1603              | GPRS test                                  | Evento test enviado desde GPRS/LTE                          |
