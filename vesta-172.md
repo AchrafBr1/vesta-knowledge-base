@@ -61,17 +61,15 @@ _(Only use factory reset when network Control Panel/Gateway is missing or inoper
 Factory resetting the device will restore it to factory default settings (excluded from the Z-Wave network). The Z-Wave Gateway or Control Panel will still keep its Z-Wave settings. Please refer to the Gateway or Control Panel manual on how to remove the device’s Z-Wave settings.
 {% endhint %}
 
-**Installation**
+## **Installation**
 
-![](<.gitbook/assets/6 (51).png>)
-
-* _**Placing the Air Quality Sensor**_
+### _**Placing the Air Quality Sensor**_
 
 The Air Quality Sensor should be placed on a flat surface with open area around it in the room you want to monitor.
 
 The more open the location of placement is, the more accurate the air quality measurements will be.
 
-**Z-Wave Information**
+## **Z-Wave Information**
 
 **Generic Type:** Switch Multilevel
 
@@ -87,37 +85,24 @@ The more open the location of placement is, the more accurate the air quality me
 
 **Command Class Support/Control**
 
-**Mandatory CC Support:** Z-Wave Plus Info CC, V2
+**Mandatory CC Support:**
 
-Sensor Multilevel CC, V11 (security 2)
+* &#x20;Z-Wave Plus Info CC, V2
+* Sensor Multilevel CC, V11 (security 2)
+* Association CC, V2 (security 2)
+* Multi Channel Association CC, V3 (security 2)
+* Association Group Information CC (security 2)
+* Manufacturer Specific CC, V2 (security 2)
+* Transport Service CC, V2
+* Version CC, V3 (security 2)
+* Device Reset Locally CC (security 2)
+* Power level CC (security 2)
+* Security CC
+* Security 2 CC
+* Supervision CC
+* Firmware Update MD CC, V4 (security 2)
 
-Association CC, V2 (security 2)
-
-Multi Channel Association CC, V3 (security 2)
-
-Association Group Information CC (security 2)
-
-Manufacturer Specific CC, V2 (security 2)
-
-Transport Service CC, V2
-
-.Version CC, V3 (security 2)
-
-.Device Reset Locally CC (security 2)
-
-.Power level CC (security 2)
-
-.Security CC
-
-Security 2 CC
-
-.Supervision CC
-
-.Firmware Update MD CC, V4 (security 2)
-
-![](<.gitbook/assets/7 (45).png>)
-
-* _**Z-Wave’s Groups (Association Command Class Version 2)**_
+### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
 The AQS can be set to send reports to associated Z-Wave devices. It supports 1 association group. Group 1 for “LifeLine”: (maximum node: 5)
 
@@ -131,12 +116,8 @@ Device Reset Locally
 
 **Factory Reset:** When the AQS has been reset to factory default state, it will send Device Reset Locally to all nodes in Group 1.
 
-![](<.gitbook/assets/8 (48).png>)
+### _**Command Class Data Format**_
 
-* _**Command Class Data Format**_
-  * CO2 Report: \[COMMAND\_CLASS\_SENSOR\_MULTILEVEL] \[SENSOR\_MULTILEVEL\_REPORT]
-    * If CO2 signal 11 02 06 99 is transmitted, 0699 can be viewed as 0x0699 in Hexadecimal number. You can convert hexadecimal to decimal to check the CO2 value.
+* CO2 Report: \[COMMAND\_CLASS\_SENSOR\_MULTILEVEL] \[SENSOR\_MULTILEVEL\_REPORT]
+  * If CO2 signal 11 02 06 99 is transmitted, 0699 can be viewed as 0x0699 in Hexadecimal number. You can convert hexadecimal to decimal to check the CO2 value. 0699=0x0699=1689ppm
 
-0699=0x0699=1689ppm
-
-2
