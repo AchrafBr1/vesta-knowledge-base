@@ -37,9 +37,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 2. **IR Sensor**
 3. &#x20;**Battery Compartment**
-4.
-5.
-6.  **Pet Immunity Enable/Disable Jumper Switch (JP3)**
+4.  **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
     1. <img src=".gitbook/assets/image (171).png" alt="" data-size="line">  **Jumper On:** When set as ON, Pet Immunity is disabled (Factory default).
     2. <img src=".gitbook/assets/image (172).png" alt="" data-size="line">**Jumper Off:** When set as OFF, Pet Immunity is enabled.
@@ -47,32 +45,29 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 
     ![](.gitbook/assets/1.jpeg)
-7. **Sensitivity Increaser Jumper Switch (JP4)**
-   *
-     * When set as ON, the PIR’s detection sensitivity is high.
-     * When set as OFF, the PIR’s detection sensitivity is in normal level. (Factory default)
-8. **Tamper Switch**
-9. **Bottom Fixing Screw**
-   1. **IR-35-2W Battery Insulator Hole**
+5. **Sensitivity Increaser Jumper Switch (JP4)**
+   * When set as ON, the PIR’s detection sensitivity is high.
+   * When set as OFF, the PIR’s detection sensitivity is in normal level. (Factory default)
+6. **Tamper Switch**
+7. **Bottom Fixing Screw**
+8. **IR-35-2W Battery Insulator Hole**
+9. **IR-35SL-2W Battery Insulator Hole**
 
-**9. IR-35SL-2W Battery Insulator Hole**
+## **Features**
 
-**Features**
-
-* _**LED Indicator**_
+### _**LED Indicator**_
 
 In Normal operation mode, the LED Indicator will light up in the following situations:
 
-*
-  * When movement is detected under low battery condition
-  * When the cover is opened and the tamper switch is triggered
-  * When movement is detected if the tamper condition continues
-  * When movement is detected under Test mode
-  * When the Test Button is pressed under the tamper condition or if PIR is under low battery The LED will not flash if the PIR tamper and battery are normal and PIR is not under test mode.
+* When movement is detected under low battery condition
+* When the cover is opened and the tamper switch is triggered
+* When movement is detected if the tamper condition continues
+* When movement is detected under Test mode
+* When the Test Button is pressed under the tamper condition or if PIR is under low battery The LED will not flash if the PIR tamper and battery are normal and PIR is not under test mode.
 
 If the LED flashes to indicate signal transmission, it will flash twice rapidly upon receiving acknowledgement from the Control Panel.
 
-* _**Battery and Low Battery Detection**_
+### _**Battery and Low Battery Detection**_
 
 IR-35-2W Series PIR Motion sensor uses Alkaline or Lithium batteries as its power source:
 
@@ -84,11 +79,12 @@ The PIR features low-battery detection function. If low battery voltage is detec
 For each installation, the batteries are installed in by the factory before shipment with an Insulator inserted.
 
 * When changing the batteries, after removing the old batteries, press the Tamper Switch twice to fully discharge before inserting new batteries.
-* _**Tamper Protection**_
+
+### _**Tamper Protection**_
 
 The PIR is protected by a tamper switch which is compressed when the PIR is properly installed. When the PIR is removed from the mounted surface or the mounting bracket, or when its cover is opened, the tamper switch will be activated and the PIR will send a tamper open signal to the system control panel to remind the user of the condition. If any movement is detected when the tamper switch is open, the LED will light up.
 
-* _**Supervision Function**_
+### _**Supervision Function**_
 
 When the PIR is in normal operation mode, it will conduct a self-test periodically by transmitting a supervisory signal once every 90 to 110 minutes.
 
