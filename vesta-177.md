@@ -10,9 +10,9 @@
 
 ## MANUAL GUIDE
 
-**PIR Motion Sensor IR-35-2W / VESTA-177 Series**
+## **PIR Motion Sensor IR-35-2W / VESTA-177 Series**
 
-**Introduction**
+## **Introduction**
 
 The PIR detects infrared signature to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its’ path of detection.
 
@@ -31,39 +31,28 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 ![](<.gitbook/assets/0 (1).jpeg>)
 
 1. **Test Button / LED Indicator**
-   * The test button is used for testing the radio performance and for learning purpose.
-   * The LED indicator is used to indicate the status of system.
+
+* The test button is used for testing the radio performance and for learning purpose.
+* The LED indicator is used to indicate the status of system.
+
 2. **IR Sensor**
+3. &#x20;**Battery Compartment**
+4.
+5.
+6.  **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
-![](.gitbook/assets/1.jpeg)
-
-**3. Battery Compartment**
-
-**4. Pet Immunity Enable/Disable Jumper Switch (JP3)**
-
-![](.gitbook/assets/2.jpeg)
-
-**Jumper On**
-
-![The jumper link is inserted, connecting the two pins.](<.gitbook/assets/3 (1).jpeg>)
+    1. <img src=".gitbook/assets/image (171).png" alt="" data-size="line">  **Jumper On:** When set as ON, Pet Immunity is disabled (Factory default).
+    2. <img src=".gitbook/assets/image (172).png" alt="" data-size="line">**Jumper Off:** When set as OFF, Pet Immunity is enabled.
 
 
 
-**Jumper Off**
-
-![If the jumper link is removed or “parked” on one pin.](<.gitbook/assets/4 (4).png>)
-
-
-
-* When set as ON, Pet Immunity is disabled (Factory default).
-* When set as OFF, Pet Immunity is enabled.
-
-1. **Sensitivity Increaser Jumper Switch (JP4)**
+    ![](.gitbook/assets/1.jpeg)
+7. **Sensitivity Increaser Jumper Switch (JP4)**
    *
      * When set as ON, the PIR’s detection sensitivity is high.
      * When set as OFF, the PIR’s detection sensitivity is in normal level. (Factory default)
-2. **Tamper Switch**
-3. **Bottom Fixing Screw**
+8. **Tamper Switch**
+9. **Bottom Fixing Screw**
    1. **IR-35-2W Battery Insulator Hole**
 
 **9. IR-35SL-2W Battery Insulator Hole**
