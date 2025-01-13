@@ -1,6 +1,6 @@
-# VESTA 325
+# VESTA-325
 
-![](<.gitbook/assets/0 (106).jpeg>)**Colgante de emergencia Bluetooth (BL-3)**
+**Colgante de emergencia Bluetooth (BL-3)**
 
 El BL-3 es una pulsera, colgante de emergencia con funcionamiento Bluetooth. Se puede utilizar para solicitar ayuda en caso de una emergencia con solo presionar un botón. Cuando se presiona su botón, BL-3 utiliza la conexión Bluetooth del teléfono inteligente junto la aplicación Smarthomesec para informar inmediatamente una alarma y la ubicación del usuario.&#x20;
 
@@ -158,3 +158,18 @@ _**Batería**_ \* \* \*&#x20;
 * Inserte la batería con el lado sin marcar (negativo) hacia abajo.
 * Utilice una moneda para bloquear la tapa de la batería en la parte posterior del BL3 girando sobre la marca de la tapa en el sentido de las agujas del reloj desde la posición Abierto hasta la posición de **Cerrado**. Asegúrese de que la línea de base impresa en la parte posterior del BL3 esté alineada horizontalmente con la dos marcas de la posición de bloqueo.
 
+
+
+***
+
+
+
+## Guía de actualización de dispositivo:&#x20;
+
+{% file src=".gitbook/assets/BL-3 OTA user-guide.pdf" %}
+Manual actualización&#x20;
+{% endfile %}
+
+{% file src=".gitbook/assets/BL-3-00.00.00.0A.gbl" %}
+Firmware para actaulización
+{% endfile %}
