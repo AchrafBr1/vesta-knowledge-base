@@ -136,7 +136,7 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 | Switch8                               | ON                                                  | Pet Immune Enable (default)    |
 | Switch8                               | OFF                                                 | Pet Immune Disable             |
 
-<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 _**\<NOTE>**_
 
