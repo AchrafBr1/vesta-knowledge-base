@@ -1,8 +1,8 @@
-# VESTA 186
+# VESTA-186
 
-**PSS-29ZBS(R) / PSM-29ZBS(R) Power Switch Series**
+## **PSS-29ZBS(R) / PSM-29ZBS(R) Power Switch Series**
 
-**Introduction**
+## **Introduction**
 
 The Power Switch series include the following models:
 
@@ -34,9 +34,9 @@ Models with router function (PSS-29ZBSR / PSM-29ZBSR) also serve as a router in 
 | **PSM-29ZBSR** | **Yes**   | **Yes**           |
 |                |           |                   |
 
-**Parts Identification**
+## **Parts Identification**
 
-**1. Function Button aka LED indicator**
+1. **Function Button aka LED indicator**
 
 The Function Button also doubles as the LED Indicator. The function button is used to control the Power Switch. The LED indicator is used to indicate Power Switch status.
 
