@@ -104,7 +104,7 @@
 * [VESTA-184](vesta-184.md)
 * [VESTA-185](vesta-185.md)
 * [VESTA-186](vesta-186.md)
-* [VESTA 187](vesta-187.md)
+* [VESTA-187](vesta-187.md)
 * [VESTA 188](vesta-188.md)
 * [VESTA 189](vesta-189.md)
 * [VESTA 191](vesta-191.md)
