@@ -4,7 +4,7 @@
 
 This guide will explain how the integration of the megaphone with VESTA works. You'll learn about the setup process, key features, and how to maximize the effectiveness of this integration.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/cctv/accesorios/audio-profesional/VESTA-434">VESTA-434</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/cctv/accesorios/audio-profesional/VESTA-434">VESTA-434</a></p></figcaption></figure>
 
 ## 🔐 Local access
 
@@ -14,7 +14,7 @@ The following is the local access data to the horn:
 
 ## Load new audio file
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>To load new mp3 file</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>To load new mp3 file</p></figcaption></figure>
 
 
 
@@ -22,7 +22,7 @@ The following is the local access data to the horn:
 Remember to enable en ALARM -> HTTP URL (Play File Enable)
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -63,5 +63,5 @@ These **HTTP** commands can go directly into VESTA rule actions. For example, we
   * _<mark style="color:red;">userfile1</mark>_: This is the first mp3 file we uploaded on the horn
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rule example in VESTA</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rule example in VESTA</p></figcaption></figure>
 

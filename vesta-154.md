@@ -36,11 +36,11 @@ By using the L-shaped mounting plate, the user can choose either flat mount or s
     The LED lights up briefly when IR detection is triggered under Test Mode.
 6. **Tamper Switch**
 7. **Sensitivity Increaser Jumper Switch (JP3)**
-   * <img src=".gitbook/assets/image (8) (1) (1) (1).png" alt="" data-size="line">If the jumper is **OFF** (if the jumper link is removed or “parked” on one pin), the Motion sensor’s detection sensitivity is in normal level. **(Factory default)**
-   * <img src=".gitbook/assets/image (10) (1) (1) (1).png" alt="" data-size="line">If the jumper is **ON**, the Motion sensor’s detection sensitivity is high.
+   * <img src=".gitbook/assets/image (8) (1) (1) (1) (1).png" alt="" data-size="line">If the jumper is **OFF** (if the jumper link is removed or “parked” on one pin), the Motion sensor’s detection sensitivity is in normal level. **(Factory default)**
+   * <img src=".gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="line">If the jumper is **ON**, the Motion sensor’s detection sensitivity is high.
 8. **Microwave Test Enable / Disable Jumper Switch (JP2)**
-   * <img src=".gitbook/assets/image (11) (1) (1) (1).png" alt="" data-size="line">When the jumper is set as **ON**, the Motion sensor is under Microwave Test Mode (please see **Microwave Test Mode**)
-   * <img src=".gitbook/assets/image (9) (1) (1) (1).png" alt="" data-size="line">When the jumper is set as **OFF**, the Microwave Test Mode is disabled. **(Factory default)**
+   * <img src=".gitbook/assets/image (11) (1) (1) (1) (1).png" alt="" data-size="line">When the jumper is set as **ON**, the Motion sensor is under Microwave Test Mode (please see **Microwave Test Mode**)
+   * <img src=".gitbook/assets/image (9) (1) (1) (1) (1).png" alt="" data-size="line">When the jumper is set as **OFF**, the Microwave Test Mode is disabled. **(Factory default)**
 9.  **Microwave Range Switch**
 
     The Range scale is shown on the right with the arrow pointing at the current sensitivity level:
@@ -48,7 +48,7 @@ By using the L-shaped mounting plate, the user can choose either flat mount or s
     1. Turning in the **Clockwise Direction** increases detection range.
     2. Turning in the **Counter-Clockwise Direction** decreases detection range. **Factory Default**: is set to medium.
 
-    <figure><img src=".gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 10. **Learn/Test Button**
 11. **Battery Compartment**
 12. **L-Type Mouting Plate**

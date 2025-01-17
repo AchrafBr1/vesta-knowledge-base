@@ -209,16 +209,16 @@ The VDP will take a picture or video during following occasions. All pictures an
 
 **Video**
 
-* Press the record video icon ![](<.gitbook/assets/image (17).png>) on the left-hand menu of the application or icon on the Home Portal Server to record a video.&#x20;
+* Press the record video icon ![](<.gitbook/assets/image (17) (2).png>) on the left-hand menu of the application or icon on the Home Portal Server to record a video.&#x20;
 
 Whenever an alarm is activated by the Control Panel, the VDP will record a video immediately.
 
 **Picture**
 
 * Press the function button in front of VDP to take a picture
-* Press the camera icon ![](<.gitbook/assets/image (18).png>) on the left-hand menu of the application to take a snapshot.
+* Press the camera icon ![](<.gitbook/assets/image (18) (2).png>) on the left-hand menu of the application to take a snapshot.
 
-<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>
 
 All Video Door Phone activities, including doorbell notification, pictures and video clips, will be stored in Home Portal Server user account. Tap the Media tab under Event page to check operation history.
 
