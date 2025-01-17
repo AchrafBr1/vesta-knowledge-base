@@ -1,98 +1,88 @@
 # VESTA 188
 
-**UPIC-5ZBS Infrared Universal Remote Control**
+## **UPIC-5ZBS Infrared Universal Remote Control**
 
-**Introduction**
+## **Introduction**
 
 UPIC5-ZBS is a ZigBee Infrared Remote Control. It is designed to operate your home appliances by transmitting IR signal. The IR Remote Control is capable of learning IR signal transmitted from the appliance’s remote control. After learning the signal, you can remotely control the IR Remote Control via ZigBee network to send signal to appliance without using the remote control manually and support Over-the-Air (OTA) firmware update capability. The IR Remote Control utilizes ZigBee technology for wireless signal transmission. ZigBee is a wireless communication protocol that is reliable and has low power consumption and high transmission efficiency. Based on the IEEE802.15.4 standard, ZigBee allows a large amount of devices to be included in a network and coordinated for data exchange and signal transmission.
 
 The IR Remote Control serves as an end device in the ZigBee network. It can be included in the ZigBee network to transmit signal upon activation, but cannot permit any other ZigBee device to join the network through the device itself.
 
-**Parts Identification**
+## **Parts Identification**
 
 ![](<.gitbook/assets/0 (85).jpeg>)
 
-1. **IR Eye**
+1.  **IR Eye**
 
-Transmits IR signal to appliances.
+    Transmits IR signal to appliances.
+2. **ZigBee Button**
+3. **IR Button**
+4.  **ZigBeeLED**
 
-1. **ZigBee Button**
-2. **IR Button**
-3. **ZigBeeLED**
+    Flashes twice –IR Remote Control successfully joins ZigBee network&#x20;
 
-Flashes twice –IR Remote Control successfully joins ZigBee network Flashes every 20 minutes – IR Remote Control has lost connection to its current ZigBee network.
+    Flashes every 20 minutes – IR Remote Control has lost connection to its current ZigBee network.
+5.  **IR Indicator LED**
 
-1. **IR Indicator LED**
+    Slow Flash –IR Remote Control under IR learning mode.
 
-Slow Flash –IR Remote Control under IR learning mode.
+    Quick Flash–IR Remote Control receives IR signal under learning mode or is transmitting IR signal
 
-Quick Flash–IR Remote Control receives IR signal under learning mode or is transmitting IR signal
+    Flash every half second – IR data cleared
 
-Flash every half second – IR data cleared
+    Off :&#x20;
 
-Off – IR Remote Control is storing received IR signal under learning mode.
+    1. &#x20;IR Remote Control is storing received IR signal under learning mode.
+    2. &#x20;IR Remote Control is in idle mode.
+6. **IR Signal Receiver**
+7. **Low IR Transmission Power Jumper (JP1)**
 
-– IR Remote Control is in idle mode.
+**Jumper On** :The jumper link is inserted connecting the two pins
 
-1. **IR Signal Receiver**
-2. **Low IR Transmission Power Jumper (JP1)**
+IR Transmission power set to Low. **(Factory Default)**
 
-![](<.gitbook/assets/1 (68).png>)
+<div align="left"><figure><img src=".gitbook/assets/image (210).png" alt="" width="71"><figcaption></figcaption></figure></div>
 
-**Jumper On** **Jumper Off**
+**Jumper Off:** if the jumper link is removed or “**parked**” on one pin.
 
-![](<.gitbook/assets/2 (66).jpeg>) ![](<.gitbook/assets/3 (61).jpeg>)
+Jumper OFF – Deselected.
 
-The jumper link is inserted connecting the two pins
+<div align="left"><figure><img src=".gitbook/assets/image (211).png" alt="" width="67"><figcaption></figcaption></figure></div>
 
-if the jumper link is removed or “**parked**” on one pin.
-
-Jumper ON –IR Transmission power set to Low. **(Factory Default)** Jumper OFF – Deselected.
-
-**8. High IR Transmission Power Jumper (JP2)**
-
-![](<.gitbook/assets/4 (54).jpeg>)
-
-**Jumper On** **Jumper Off**
-
-![](<.gitbook/assets/5 (76).png>)
-
-The jumper link is inserted connecting the two pins
-
-if the jumper link is removed or “**parked**” on one pin.
+8. **High IR Transmission Power Jumper (JP2)**
 
 Jumper ON –IR Transmission power set to High.
 
 Jumper OFF – Deselected.
 
-**IMPORTANT NOTE: JP1 and JP2 jumper CANNOT be set to ON at the same time**
+{% hint style="info" %}
+**IMPORTANT NOTE:**&#x20;
 
-1. **Dip Switch Set 1**
+**JP1 and JP2 jumper CANNOT be set to ON at the same time**
+{% endhint %}
 
-For setting appliance type
+9.  **Dip Switch Set 1**
 
-1. **Dip Switch Set 2**
+    For setting appliance type
+10. **Dip Switch Set 2**
 
-For learning and testing IR signal
+    For learning and testing IR signal
+11. **Battery Compartment**
+12. **Wall Mounting Rotational Bracket (Optional)**
 
-1. **Battery Compartment**
-2. **Wall Mounting Rotational Bracket (Optional)**
+## **Features**
 
-1
-
-**Features**
-
-* _**Battery and Low Battery Detection**_
+### _**Battery and Low Battery Detection**_
 
 The IR Remote Control uses two 1.5V Lithium batteries as its power source. It features Low Battery Detection function. When low battery voltage is detected, the IR Remote Control will transmit Low Battery signal to the coordinator in ZigBee network.
 
-* _**Supervision**_
+### _**Supervision**_
 
 The IR Remote Control will transmit a supervision signal to report its condition regularly according to user setting. The factory default interval is 30 minutes. The user can also press the ZigBee Button once to transmit a supervision signal manually.
 
-**ZigBee Network Setup**
+## **ZigBee Network Setup**
 
-* _**ZigBee Device Guideline**_
+### _**ZigBee Device Guideline**_
 
 The IR Remote Control is a wireless communication protocol that is reliable and has low power consumption and high transmission efficiency. Based on the IEEE802.15.4 standard, ZigBee allows a large amount of devices to be included in a network and coordinated for data exchange and signal transmission.
 
@@ -103,27 +93,28 @@ Due to the fundamental structure of ZigBee network, ZigBee device will actively 
 
 -Do not remove a ZigBee device from the ZigBee network router or coordinator without removing the battery from a ZigBee device.
 
-* _**Joining the ZigBee Network**_
+### _**Joining the ZigBee Network**_
 
 As a ZigBee device, the IR Remote Control needs to join a ZigBee network to receive command from ZigBee network coordinator to transmit IR signal. Please follow the steps bellow to join the IR Remote Control into the ZigBee network.
 
-*
-  1. Insert batteries to power on the IR Remote Control.
-  2. **P**ress and hold the ZigBee button for 10 seconds, then release it to join the network. Please make sure the permit-join feature on the router or coordinator of your ZigBee network is enabled.
-  3. After joining the ZigBee network, the IR Remote Control will be registered in the security system in the network automatically. Please check the security system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
-  4. If the IR Remote Control successfully joins the ZigBee network, the ZigBee LED will flash twice to indicate.
-  5. After joining the ZigBee network, if the IR Remote Control loses connection to current ZigBee network, the ZigBee LED indicator will flash every 20 minutes. Please check the ZigBee network condition and the IR Remote Control signal range to correct the situation.
-* _**Removing Device from ZigBee Network (Factory Reset)**_
+1. Insert batteries to power on the IR Remote Control.
+2. **P**ress and hold the ZigBee button for 10 seconds, then release it to join the network. Please make sure the permit-join feature on the router or coordinator of your ZigBee network is enabled.
+3. After joining the ZigBee network, the IR Remote Control will be registered in the security system in the network automatically. Please check the security system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
+4. If the IR Remote Control successfully joins the ZigBee network, the ZigBee LED will flash twice to indicate.
+5. After joining the ZigBee network, if the IR Remote Control loses connection to current ZigBee network, the ZigBee LED indicator will flash every 20 minutes. Please check the ZigBee network condition and the IR Remote Control signal range to correct the situation.
+
+### _**Removing Device from ZigBee Network (Factory Reset)**_
 
 To remove the device from current ZigBee network, the IR Remote Control must be put to Factory Reset to complete device removal. Factory Reset function will clear the IR Remote Control of its stored setting information and prompt the device to search for new ZigBee network.
 
 **Before removing device, make sure the device is within current ZigBee network signal range**
 
-*
-  1. Delete the IR Remote Control from current control panel / CIE.
-  2. Press and hold the function button for 10 seconds, then release the button to reset device.
-  3. Upon reset, the IR Remote Control will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
-* _**OTA Firmware Upgrade**_
+1. Delete the IR Remote Control from current control panel / CIE.
+2. Press and hold the function button for 10 seconds, then release the button to reset device.
+3. Upon reset, the IR Remote Control will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
+
+### _**OTA Firmware Upgrade**_
+
 * The device supports OTA firmware upgrade feature via ZigBee network, which can be initiated from the ZigBee network coordinator.
 * Follow steps below to perform OTA firmware upgrade.
 
@@ -133,15 +124,15 @@ To remove the device from current ZigBee network, the IR Remote Control must be 
 4. The length of an upgrade will take approximately 20 to 30 minutes. Please note that the duration may vary based on file size or distance between your accessory and coordinator.
 5. Wait for firmware to complete update. When the progress reaches 100%, the Device will reset automatically. You can also refresh the webpage again to ensure if the Device firmware is successfully updated with the newest version displayed.
 
-2
-
-**IR Signal Learning and Testing**
+## **IR Signal Learning and Testing**
 
 In order to use the IR Remote Control to control your home appliance, , the IR Remote Control must first learn in the IR signal sent from the appliance’s remote control. Follow instruction below to complete the learning process.
 
 **Please keep the IR Receiver away from direct lighting or sunlight during learning process to avoid interference.**
 
-* _**Learning**_
+![](<.gitbook/assets/6 (55).png>)
+
+### _**Learning**_
 
 **Step 1. Enter IR Learn Mode**
 
@@ -150,12 +141,7 @@ In order to use the IR Remote Control to control your home appliance, , the IR R
 3. Press and hold the IR button for 10 seconds and release when IR LED begins to flash.
 4. The IR LED will begin flashing slowly to indicate the IR Remote Control is
 
-![](<.gitbook/assets/6 (55).png>)
-
-| now entering IR Learn Mode.       | ON  |   |
-| --------------------------------- | --- | - |
-| **Step 2. Select Appliance Type** | OFF |   |
-|                                   |     |   |
+**Step 2. Select Appliance Type**
 
 The IR transmitter can learn up to 5 sets of IR signal for 5 different appliances.
 
@@ -163,13 +149,7 @@ Before starting learning, select the appliance number with Dip Switch Set 1 befo
 
 Select the appliancetype according to following Dip Switch Set 1 table. For ease of recognition and operation from Climax ZigBee Control Panel, each device type has been given a display name on the Control Panel interface, we suggest you to learn in IR signals according to appliance types displayed.
 
-| Switch 1 | Switch 2 | Switch 3 | Switch 4 | Switch 5 | Switch 6 | Appliance Type               |
-| -------- | -------- | -------- | -------- | -------- | -------- | ---------------------------- |
-| ON       | OFF      | OFF      | OFF      | OFF      | OFF      | **Type 1 (Air Conditioner)** |
-| X        | ON       | OFF      | OFF      | OFF      | OFF      | **Type 2 (Television)**      |
-| X        | X        | ON       | OFF      | OFF      | OFF      | **Type 3 (Home Audio)**      |
-| X        | X        | X        | ON       | OFF      | OFF      | **Type 4 (Set Top Box)**     |
-| X        | X        | X        | X        | ON       | OFF      | **Type 5 (Others)**          |
+<figure><img src=".gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 “X” means the location of this switch has no effect on appliance selection.
 
@@ -182,16 +162,7 @@ Select the appliancetype according to following Dip Switch Set 1 table. For ease
 
 Each appliance type can learn up to 8 IR signals, selected with Dip Switch Set 2.
 
-| Switch 1 | Switch 2 | Switch 3 | Switch 4 | Switch 5 | Switch 6 | Switch 7 | Switch 8 | IR Signal |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | --------- |
-| ON       | OFF      | OFF      | OFF      | OFF      | OFF      | OFF      | OFF      | **1**     |
-| X        | ON       | OFF      | OFF      | OFF      | OFF      | OFF      | OFF      | **2**     |
-| X        | X        | ON       | OFF      | OFF      | OFF      | OFF      | OFF      | **3**     |
-| X        | X        | X        | ON       | OFF      | OFF      | OFF      | OFF      | **4**     |
-| X        | X        | X        | X        | ON       | OFF      | OFF      | OFF      | **5**     |
-| X        | X        | X        | X        | X        | ON       | OFF      | OFF      | **6**     |
-| X        | X        | X        | X        | X        | X        | ON       | OFF      | **7**     |
-| X        | X        | X        | X        | X        | X        | X        | ON       | **8**     |
+
 
 **Example:**
 
