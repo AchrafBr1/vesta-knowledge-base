@@ -148,150 +148,32 @@ not perform any other actions, or power down the panel.
 
 **(The Appendix information is for developers only.)**
 
-* _**Light Sensor Cluster ID**_
+_**Light Sensor Cluster ID**_
 
-**Device ID: Light Sensor 0x0106**
+<figure><img src=".gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
-**Endpoint: 0x01**
+_**Attribute of Basic Cluster Information**_
 
-| **Server Side**                       |               | **Client Side**  |
-| ------------------------------------- | ------------- | ---------------- |
-|                                       |               |                  |
-|                                       | **Mandatory** |                  |
-|                                       |               |                  |
-| Basic (0x0000)                        |               | Basic (0x0000)   |
-|                                       |               |                  |
-| Identify(0x0003)                      |               | Identify(0x0003) |
-|                                       |               |                  |
-| Illuminance Measurement (0x0400)      |               |                  |
-|                                       |               |                  |
-|                                       | **Optional**  |                  |
-|                                       |               |                  |
-| Power Configuration(0x0001)           |               | _None_           |
-|                                       |               |                  |
-| Temperature Measurement(0x0402)       |               |                  |
-|                                       |               |                  |
-| Relative Humidity Measurement(0x0405) |               |                  |
-|                                       |               |                  |
+<figure><img src=".gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
-* _**Attribute of Basic Cluster Information**_
+<figure><img src=".gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
-| **Identifier** | **Name**              | **Type**       | **Range**    | **Access** | **Default**     | **Mandatory** |   |
-| -------------- | --------------------- | -------------- | ------------ | ---------- | --------------- | ------------- | - |
-| **/ Optional** |                       |                |              |            |                 |               |   |
-|                |                       |                |              |            |                 |               |   |
-| 0x0000         | _ZCLVersion_          | Unsigned 8-bit | 0x00 –0xff   | Read       | 0x01            | M             |   |
-| integer        | only                  |                |              |            |                 |               |   |
-|                |                       |                |              |            |                 |               |   |
-| 0x0001         | ApplicationVersion    | Unsigned 8-bit | 0x00 –0xff   | Read       | 0x00            | O             |   |
-| integer        | only                  |                |              |            |                 |               |   |
-|                |                       |                |              |            |                 |               |   |
-| 0x0003         | _HWVersion_           | Unsigned 8-bit | 0x00 –0xff   | Read       | 0               | O             |   |
-| integer        | only                  |                |              |            |                 |               |   |
-|                |                       |                |              |            |                 |               |   |
-| 0x0004         | _ManufacturerName_    | Character      | 0 – 32 bytes | Read       | Climax          | O             |   |
-| String         | only                  | Technology     |              |            |                 |               |   |
-|                |                       |                |              |            |                 |               |   |
-| 0x0005         | _ModelIdentifier_     | Character      | 0 – 32 bytes | Read       | (Model Version) | O             |   |
-| String         | only                  |                |              |            |                 |               |   |
-|                |                       |                |              |            |                 |               |   |
-| 0x0006         | _DateCode_            | Character      | 0 – 16 bytes | Read       |                 | O             |   |
-| String         | only                  |                |              |            |                 |               |   |
-|                |                       |                |              |            |                 |               |   |
-| 0x0007         | _PowerSource_         | 8-bit          | 0x00 –0xff   | Read       |                 | M             |   |
-| only           |                       |                |              |            |                 |               |   |
-|                |                       |                |              |            |                 |               |   |
-| 0x0010         | _LocationDescription_ | Character      | 0 – 32 bytes | Read /     |                 | O             |   |
-| String         | Write                 |                |              |            |                 |               |   |
-|                |                       |                |              |            |                 |               |   |
-|                |                       |                | 3            |            |                 |               |   |
+_**Attribute of Identify Cluster Information**_
 
-| 0x0011 | _PhysicalEnvironment_ | 8-bit   | 0x00 –0xff | Read / | 0x00 | O |   |
-| ------ | --------------------- | ------- | ---------- | ------ | ---- | - | - |
-| Write  |                       |         |            |        |      |   |   |
-|        |                       |         |            |        |      |   |   |
-| 0x0012 | _DeviceEnabled_       | Boolean | 0x00 –0x01 | Read / | 0x01 | M |   |
-| Write  |                       |         |            |        |      |   |   |
-|        |                       |         |            |        |      |   |   |
+<figure><img src=".gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
- _**Attribute of Identify Cluster Information**_
+_**Attribute of Power Configuration Cluster Information**_
 
-| **Identifier** | **Name**       | **Type** | **Range**    | **Access** | **Default** | **Mandatory** |   |
-| -------------- | -------------- | -------- | ------------ | ---------- | ----------- | ------------- | - |
-| **/ Optional** |                |          |              |            |             |               |   |
-|                |                |          |              |            |             |               |   |
-| 0x0000         | _IdentifyTime_ | Unsigned | 0x00 –0xffff | Read /     | 0x0000      | M             |   |
-| 16-bit integer | Write          |          |              |            |             |               |   |
-|                |                |          |              |            |             |               |   |
+<figure><img src=".gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
- _**Attribute of Power Configuration Cluster Information**_
+_**Attribute of Illuminance Measurement Cluster Information**_
 
-| **Identifier** | **Name**           | **Type** | **Range** | **Access** | **Default** | **Mandatory** |   |
-| -------------- | ------------------ | -------- | --------- | ---------- | ----------- | ------------- | - |
-| **/ Optional** |                    |          |           |            |             |               |   |
-|                |                    |          |           |            |             |               |   |
-| 0x0035         | _BatteryAlarmMask_ | 8-bit    | 0000 000x | Read /     | 0000 0000   | O             |   |
-| bitmap         | Write              |          |           |            |             |               |   |
-|                |                    |          |           |            |             |               |   |
+<figure><img src=".gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
- _**Attribute of Illuminance Measurement Cluster Information**_
+_**Attribute of Temperature Measurement Cluster Information**_
 
-| **Identifier** | **Name**           | **Type**         | **Range**           | **Access** | **Default** | **Mandatory** |   |
-| -------------- | ------------------ | ---------------- | ------------------- | ---------- | ----------- | ------------- | - |
-| **/ Optional** |                    |                  |                     |            |             |               |   |
-|                |                    |                  |                     |            |             |               |   |
-|                |                    | Signed 16-bit    | MinMeasuredValue    | Read       |             |               |   |
-| 0x0000         | _MeasuredValue_    | to               | 0x00                | M          |             |               |   |
-| Integer        | only               |                  |                     |            |             |               |   |
-|                |                    | MaxMeasuredValue |                     |            |             |               |   |
-|                |                    |                  |                     |            |             |               |   |
-| 0x0001         | _MinMeasuredValue_ | Signed 16-bit    | 0x0001 - 0xffffd    | Read       | 1           | M             |   |
-| Integer        | only               |                  |                     |            |             |               |   |
-|                |                    |                  |                     |            |             |               |   |
-| 0x0002         | _MaxMeasuredValue_ | Signed 16-bit    | MinMeasuredValue +1 | Read       | 52742       | M             |   |
-| Integer        | - 0xffffe          | only             |                     |            |             |               |   |
-|                |                    |                  |                     |            |             |               |   |
+<figure><img src=".gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
-* _**Attribute of Temperature Measurement Cluster Information**_
+_**Attribute of Relative Humidity Measurement Cluster Information**_
 
-| **Identifier** | **Name**         | **Type**         | **Range**        | **Access** | **Default** | **Mandatory** |   |
-| -------------- | ---------------- | ---------------- | ---------------- | ---------- | ----------- | ------------- | - |
-| **/ Optional** |                  |                  |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-|                |                  | Signed 16-bit    | MinMeasuredValue | Read       |             |               |   |
-| 0x0000         | MeasuredValue    | to               | 0x00             | M          |             |               |   |
-| Integer        | only             |                  |                  |            |             |               |   |
-|                |                  | MaxMeasuredValue |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-| 0x0001         | MinMeasuredValue | Signed 16-bit    | 0x954d – 0x7ffe  | Read       | -1000       | M             |   |
-| Integer        | only             | (-10℃)           |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-| 0x0002         | MaxMeasuredValue | Signed 16-bit    | 0x954e – 0x7fff  | Read       | 5000        | M             |   |
-| Integer        | only             | (50℃)            |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-| 0x0003         | Tolerance        | Unsigned 16-bit  | 0x0000 – 0x0800  | Read       | 100         | O             |   |
-| Integer        | only             | (1℃)             |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-
-* _**Attribute of Relative Humidity Measurement Cluster Information**_
-
-| **Identifier** | **Name**         | **Type**         | **Range**        | **Access** | **Default** | **Mandatory** |   |
-| -------------- | ---------------- | ---------------- | ---------------- | ---------- | ----------- | ------------- | - |
-| **/ Optional** |                  |                  |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-|                |                  | Unsigned 16-bit  | MinMeasuredValue | Read       |             |               |   |
-| 0x0000         | MeasuredValue    | to               |                  | M          |             |               |   |
-| Integer        | only             |                  |                  |            |             |               |   |
-|                |                  | MaxMeasuredValue |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-| 0x0001         | MinMeasuredValue | Unsigned 16-bit  | 0x0000 – 0x270f  | Read       | 0           | M             |   |
-| Integer        | only             | (0%)             |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-| 0x0002         | MaxMeasuredValue | Unsigned 16-bit  | 0x0001 – 0x2710  | Read       | 10000       | M             |   |
-| Integer        | only             | (100%)           |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-| 0x0003         | Tolerance        | Unsigned 16-bit  | 0x0000 – 0x0800  | Read       | 200         | O             |   |
-| Integer        | only             | (2%)             |                  |            |             |               |   |
-|                |                  |                  |                  |            |             |               |   |
-
-4
+<figure><img src=".gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
