@@ -208,3 +208,4 @@
 * [VESTA-381](vesta-381.md)
 * [CID TABLE FOR RULES AND EVENT FILTER](cid-table-for-rules-and-event-filter.md)
 * [SmartHomeSec WIZARD](smarthomesec-wizard.md)
+* [INTALLER MANUAL](intaller-manual.md)
