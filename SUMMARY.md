@@ -219,3 +219,5 @@
 * [VESTA-047N-SF1](vesta-047n-sf1.md)
 * [VESTA-047NNZ-SF1](vesta-047nnz-sf1.md)
 * [VESTA-243](vesta-243.md)
+* [VESTA-349N](vesta-349n.md)
+* [VESTA-341N](vesta-341n.md)
