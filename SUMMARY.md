@@ -222,4 +222,4 @@
 * [VESTA-349N](vesta-349n.md)
 * [VESTA-341N](vesta-341n.md)
 * [VESTA-338](vesta-338-1.md)
-* [DAHUA VTH integration](dahua-vth-integration.md)
+* [Integration Guide for VTH Monitors with VESTA](integration-guide-for-vth-monitors-with-vesta.md)
