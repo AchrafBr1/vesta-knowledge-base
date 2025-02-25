@@ -34,9 +34,9 @@ The Scenario Switch has 4 scenario touch buttons:
 
 ![](<.gitbook/assets/image (4) (1).png>)Touch Button 1
 
-<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="original">Touch Button 2
+<img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">Touch Button 2
 
-<img src=".gitbook/assets/image (2) (1).png" alt="" data-size="original">Touch Button 3
+<img src=".gitbook/assets/image (2) (1) (1).png" alt="" data-size="original">Touch Button 3
 
 ![](<.gitbook/assets/image (3) (1).png>)Touch Button 4
 
