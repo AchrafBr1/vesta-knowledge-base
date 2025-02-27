@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📘 Technical manuals and guides for the VESTA Alarm System](README.md)
+* [🧑‍🔧 Installer Manual -Smart Home Sec](installer-manual-smart-home-sec.md)
 * [VESTA-434](vesta-434.md)
 * [VESTA 068N](vesta-068n.md)
 * [VESTA 005N](vesta-005n.md)
