@@ -2,6 +2,7 @@
 
 * [📘 Technical manuals and guides for the VESTA Alarm System](README.md)
 * [🧑‍🔧 Installer Manual - Smart Home Sec](installer-manual-smart-home-sec.md)
+* [📻 DEVICES](devices.md)
 * [VESTA 005N](vesta-005n.md)
 * [VESTA 006](vesta-006.md)
 * [VESTA 007](vesta-007.md)
@@ -177,14 +178,14 @@
 * [VESTA 384](vesta-384.md)
 * [VESTA-387](vesta-387.md)
 * [VESTA 393](vesta-393.md)
-* [VESTA-411](vesta-411.md)
-* [VESTA-419N](vesta-419n.md)
-* [VESTA-427](vesta-427.md)
-* [VESTA-428](vesta-428.md)
-* [VESTA-429](vesta-429.md)
-* [VESTA-432](vesta-432.md)
-* [VESTA-433](vesta-433.md)
-* [VESTA-434](vesta-434.md)
+* [VESTA 411](vesta-411.md)
+* [VESTA 419N](vesta-419n.md)
+* [VESTA 427](vesta-427.md)
+* [VESTA 428](vesta-428.md)
+* [VESTA 429](vesta-429.md)
+* [VESTA 432](vesta-432.md)
+* [VESTA 433](vesta-433.md)
+* [VESTA 434](vesta-434.md)
 
 ## 📄 CERTIFICATES
 
