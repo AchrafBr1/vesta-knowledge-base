@@ -1,7 +1,6 @@
 # Table of contents
 
 * [📘 Technical manuals and guides for the VESTA Alarm System](README.md)
-* [🧑‍🔧 Installer Manual - Smart Home Sec](installer-manual-smart-home-sec.md)
 * [📻 DEVICES](devices.md)
 * [VESTA 005N](vesta-005n.md)
 * [VESTA 006](vesta-006.md)
@@ -201,6 +200,7 @@
 
 ## 🧩 THIRD PARTIES
 
+* [Integration Guide for DAHUA VTH Monitors with VESTA](third-parties/integration-guide-for-dahua-vth-monitors-with-vesta.md)
 * [CUDY-21](third-parties/cudy-21.md)
 * [SIMALARM](third-parties/simalarm.md)
 * [🛡️ ALARMSPACE](third-parties/alarmspace.md)
@@ -217,8 +217,9 @@
 
 * [VESTA ADVANCED IP CAMERA SERIES](vesta-advanced-ip-camera-series.md)
 * [CID TABLE FOR RULES AND EVENT FILTER](cid-table-for-rules-and-event-filter.md)
+* [🧑‍🔧 SmartHomeSec Installer Manual](smarthomesec-installer-manual.md)
 * [SmartHomeSec WIZARD](smarthomesec-wizard.md)
-* [INTALLER MANUAL](intaller-manual.md)
+* [PANEL INSTALLER MANUAL](panel-installer-manual.md)
 * [VESTA-113N](vesta-113n.md)
 * [VESTA-113N-SF1](vesta-113n-sf1.md)
 * [VESTA-112N](vesta-112n.md)
@@ -231,5 +232,3 @@
 * [VESTA-243](vesta-243.md)
 * [VESTA-404](vesta-404.md)
 * [VESTA 425](vesta-425.md)
-* [Integration Guide for DAHUA VTH Monitors with VESTA](integration-guide-for-dahua-vth-monitors-with-vesta.md)
-* [VESTA-399](vesta-399-1.md)
