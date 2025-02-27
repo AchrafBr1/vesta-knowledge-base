@@ -181,6 +181,7 @@
 * [VESTA-387](vesta-387.md)
 * [VESTA 393](vesta-393.md)
 * [VESTA-396](vesta-396.md)
+* [VESTA 399](vesta-399.md)
 * [VESTA 411](vesta-411.md)
 * [VESTA 419N](vesta-419n.md)
 * [VESTA-424](vesta-424.md)
@@ -231,4 +232,4 @@
 * [VESTA-404](vesta-404.md)
 * [VESTA 425](vesta-425.md)
 * [Integration Guide for DAHUA VTH Monitors with VESTA](integration-guide-for-dahua-vth-monitors-with-vesta.md)
-* [VESTA-399](vesta-399.md)
+* [VESTA-399](vesta-399-1.md)
