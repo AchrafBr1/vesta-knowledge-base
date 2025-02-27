@@ -1,3 +1,7 @@
+---
+icon: star-of-life
+---
+
 # VESTA 325
 
 ![](<.gitbook/assets/0 (115).jpeg>)**Bluetooth Emergency Pendant (BL-3)**
