@@ -1,3 +1,7 @@
+---
+icon: sim-card
+---
+
 # SIMALARM
 
 ## SIMALARM TECHNICAL SUPPORT

@@ -15,9 +15,9 @@ layout:
 
 # Integration Guide for DAHUA VTH Monitors with VESTA
 
-<figure><img src="../.gitbook/assets/dahua_res.webp" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/dahua_res.webp" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption><p>VTH</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot_1.png" alt=""><figcaption><p>VTH</p></figcaption></figure>
 
 This is an integration guide for VTH monitors (models VTH5321GW-W, VTH5321GB-W, VTH5341G-W) with VESTA. This integration allows you to control the panel—Security, Scenes, and device listing—directly from the VTH monitor.
 
@@ -25,7 +25,7 @@ This is an integration guide for VTH monitors (models VTH5321GW-W, VTH5321GB-W, 
 
 ### Integration features
 
-<figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption><p>VTH5321GW-W; VTH5321GB-W; VTH5341G-W</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (237).png" alt=""><figcaption><p>VTH5321GW-W; VTH5321GB-W; VTH5341G-W</p></figcaption></figure>
 
 * Change panel modes from VTH
 * Check Status of each partition&#x20;

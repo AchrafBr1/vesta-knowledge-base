@@ -1,3 +1,7 @@
+---
+icon: router
+---
+
 # CUDY-21
 
 ## Upgrading the CUDY-21 Router for VESTA Integration

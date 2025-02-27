@@ -1,9 +1,9 @@
 ---
-icon: wrench
 description: For all Radio (HSGW, ESGW) and hybrid VESTA panels
+icon: wrench
 ---
 
-# INTALLER MANUAL
+# PANEL INSTALLER MANUAL
 
 Welcome to the **VESTA Wireless and Hybrid Control Panels Knowledge Base**. Here, you'll find all the essential information for installing, configuring, and maintaining VESTA security control panels that operate via wireless communication and hybrid systems.
 

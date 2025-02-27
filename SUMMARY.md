@@ -200,7 +200,7 @@
 
 ## 🧩 THIRD PARTIES
 
-* [Integration Guide for DAHUA VTH Monitors with VESTA](third-parties/integration-guide-for-dahua-vth-monitors-with-vesta.md)
+* [Integration Guide for DAHUA VTH Monitors with VESTA](integration-guide-for-dahua-vth-monitors-with-vesta.md)
 * [CUDY-21](third-parties/cudy-21.md)
 * [SIMALARM](third-parties/simalarm.md)
 * [🛡️ ALARMSPACE](third-parties/alarmspace.md)
@@ -217,9 +217,9 @@
 
 * [VESTA ADVANCED IP CAMERA SERIES](vesta-advanced-ip-camera-series.md)
 * [CID TABLE FOR RULES AND EVENT FILTER](cid-table-for-rules-and-event-filter.md)
-* [🧑‍🔧 SmartHomeSec Installer Manual](smarthomesec-installer-manual.md)
+* [🧑‍🔧 SmartHomeSec Installer Manual](installer-manual-smart-home-sec.md)
 * [SmartHomeSec WIZARD](smarthomesec-wizard.md)
-* [PANEL INSTALLER MANUAL](panel-installer-manual.md)
+* [PANEL INSTALLER MANUAL](intaller-manual.md)
 * [VESTA-113N](vesta-113n.md)
 * [VESTA-113N-SF1](vesta-113n-sf1.md)
 * [VESTA-112N](vesta-112n.md)
