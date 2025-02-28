@@ -171,4 +171,4 @@
 * [VESTA 384](vesta-384_it.md)
 * [VESTA 387](vesta-387_it.md)
 * [VESTA 393](vesta-393_it.md)
-* [CONSIGLI PER GLI AUTOBUS VMAX](vmax-bus-tips_it.md)
+* [CONSIGLI PER IL V-MAX BUS](vmax-bus-tips_it.md)
