@@ -156,7 +156,7 @@
 * [VESTA 340](vesta-340_it.md)
 * [VESTA 344](vesta-344_it.md)
 * [VESTA 347](vesta-347_it.md)
-* [VESTA ZCHSHTN 720P](vesta-347n-720p_it.md)
+* [VESTA 347N 720P](vesta-347n-720p_it.md)
 * [VESTA 349](vesta-349_it.md)
 * [VESTA 354](vesta-354_it.md)
 * [VESTA 355](vesta-355_it.md)
