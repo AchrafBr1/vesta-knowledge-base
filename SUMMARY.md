@@ -209,10 +209,9 @@
 
 ## ❓ TIPS & HELP
 
-* [❓ TIPS & HELP](tips-and-help/tips-and-help/README.md)
-  * [MODELS](tips-and-help/tips-and-help/models.md)
-  * [CAMERAS](tips-and-help/tips-and-help/cameras.md)
-  * [VMAX BUS TIPS](tips-and-help/tips-and-help/vmax-bus-tips.md)
+* [MODELS](tips-and-help/models.md)
+* [CAMERAS](tips-and-help/cameras.md)
+* [VMAX BUS TIPS](tips-and-help/vmax-bus-tips.md)
 
 ***
 
