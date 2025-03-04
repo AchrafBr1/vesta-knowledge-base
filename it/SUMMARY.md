@@ -172,3 +172,4 @@
 * [VESTA 387](vesta-387_it.md)
 * [VESTA 393](vesta-393_it.md)
 * [CONSIGLI PER IL V-MAX BUS](vmax-bus-tips_it.md)
+* [🧑‍🔧 SmartHomeSec Manuale Installatore](smarthomesec-manuale-installatore.md)

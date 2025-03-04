@@ -348,7 +348,7 @@ Premendo il pulsante sul rilevatore SDCO, è possibile verificare se il rilevato
   * Se vengono emessi 5 bip (DO-Bi-Bi-Bi-DO), significa che il sensore di calore è fuori servizio.
   * Se vengono emessi 7 bip (Bi-Bi-Bi-DO-Bi-Bi-Bi), significa che il sensore CO è fuori servizio.
 * _**Silenziamento allarme**_
-  * Esistono due modi per mettere manualmente l'SDCO in modalità Silenziamento allarme: premendo il pulsante o inviando**Controllo scena/sirena o controllo attivazione/disattivazione sirena**comando. In entrambi i casi, l'SDCO entrerà in modalità Silenziamento allarme. Trascorso il periodo verrà inviato un segnale di ripristino. Fare riferimento a pagina 8\*\*“Emergenza fumo/Emergenza fumo cancellata**\_**, Emergenza calore cancellata ed Emergenza CO/**\_**Emergenza CO cancellata"\*\*sezione per i dettagli.
+  * Esistono due modi per mettere manualmente l'SDCO in modalità Silenziamento allarme: premendo il pulsante o inviando**Controllo scena/sirena o controllo attivazione/disattivazione sirena**comando. In entrambi i casi, l'SDCO entrerà in modalità Silenziamento allarme. Trascorso il periodo verrà inviato un segnale di ripristino. Fare riferimento a pagina 8\*\*“Emergenza fumo/Emergenza fumo cancellat&#x61;**\_**, Emergenza calore cancellata ed Emergenza CO/**\_**&#x45;mergenza CO cancellata"\*\*sezione per i dettagli.
 
 ![](<.gitbook/assets/18 (35).png>)
 
