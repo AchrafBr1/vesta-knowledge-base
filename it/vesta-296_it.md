@@ -1,10 +1,10 @@
-# VESTA296
+# VESTA 296
 
-**Controllo otturatore su guida DIN (SCM-6-AS-DIN2-ZW)**
+**Controllo tapparelel e tende su guida DIN (SCM-6-AS-DIN2-ZW)**
 
 **introduzione**
 
-SCM-6-AS-DIN2-ZW è un controllo per otturatore Z-Wave™. L'utente può controllare l'SCM tramite la rete Z-Wave a distanza o manualmente collegando un interruttore al controllo dell'otturatore.
+SCM-6-AS-DIN2-ZW è un controllo per tapparelle Z-Wave™. L'utente può controllare l'SCM tramite la rete Z-Wave a distanza o manualmente collegando un interruttore al controllo delle tapparelle.
 
 Avvolgilo, abbassalo o fermalo automaticamente o da remoto a metà strada, l'SCM-6-AS-ZW è direttamente collegato e controlla le tende motorizzate delle finestre, le tende e le persiane interne ed esterne, lo schermo di proiezione e la porta del garage o il cancello carraio della tua casa .
 

@@ -1,10 +1,10 @@
-# VESTA294
+# VESTA 294
 
-**Controllo otturatore (SCM-6-AS-ZW)**
+**Controllo Tapparelle e Tende motorizzate (SCM-6-AS-ZW)**
 
 **introduzione**
 
-SCM-6-AS-ZW è un controllo dell'otturatore Z-Wave™. L'utente può controllare l'SCM tramite la rete Z-Wave a distanza o manualmente collegando un interruttore all'SCM.
+SCM-6-AS-ZW è un controllo tapparelle Z-Wave™. L'utente può controllare l'SCM tramite la rete Z-Wave a distanza o manualmente collegando un interruttore all'SCM.
 
 Avvolgilo, abbassalo o fermalo automaticamente o da remoto a metà strada, l'SCM-6-AS-ZW è direttamente collegato e controlla le tende motorizzate delle finestre, le tende e le persiane interne ed esterne, lo schermo di proiezione e la porta del garage o il cancello carraio della tua casa .
 
