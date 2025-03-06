@@ -21,7 +21,7 @@ Besides the built-in magnet switch, an additional 2-pin dry contact terminal is 
 
 **4. Reed Switch Jumper Switch (JP1)**
 
-![](<.gitbook/assets/1 (2).png>)
+![](<.gitbook/assets/1 (2) (1).png>)
 
 **Jumper On** **Jumper Off**
 
@@ -33,7 +33,7 @@ The jumper link is inserted, connecting the two pins. The jumper link is removed
 
 1. **Input Jumper Switch (JP2)**
 
-![](.gitbook/assets/2.png)
+![](<.gitbook/assets/2 (1).png>)
 
 | **Jumper On**                                        | **Jumper Off**                                        |
 | ---------------------------------------------------- | ----------------------------------------------------- |

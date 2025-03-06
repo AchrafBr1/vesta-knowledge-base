@@ -6,7 +6,7 @@ The Remote Controller is used to arm the system in home or away mode, disarm the
 
 ### _**Identifying the parts**_
 
-<figure><img src=".gitbook/assets/1.png" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (2).png" alt="" width="298"><figcaption></figcaption></figure>
 
 1. <img src=".gitbook/assets/1 (22).jpeg" alt="" data-size="line"> **AWAY ARM BUTTON**
 
