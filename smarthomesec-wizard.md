@@ -24,7 +24,11 @@ Enter the default installer code: **7982** and press **Login**
 
 <figure><img src=".gitbook/assets/1 (1) (1).png" alt="" width="278"><figcaption></figcaption></figure>
 
+
+
+{% hint style="warning" %}
 NOTE: During the Wizard we could at any time access the various steps of the guided configuration by pressing the icon with three lines at the top left
+{% endhint %}
 
 <figure><img src=".gitbook/assets/note.png" alt=""><figcaption></figcaption></figure>
 
