@@ -215,6 +215,7 @@
 
 ***
 
+* [SETUP VESTA CAMERAS 291-292-293](setup-vesta-cameras-291-292-293.md)
 * [VESTA ADVANCED IP CAMERA SERIES](vesta-advanced-ip-camera-series.md)
 * [CID TABLE FOR RULES AND EVENT FILTER](cid-table-for-rules-and-event-filter.md)
 * [🧑‍🔧 SmartHomeSec Installer Manual](installer-manual-smart-home-sec.md)
