@@ -7,7 +7,7 @@
 * [VESTA-007](vesta-007.md)
 * [VESTA-008](vesta-008-led.md)
 * [VESTA-008 LED](vesta-008-led-1.md)
-* [VESTA 009](vesta-009.md)
+* [VESTA-009](vesta-009.md)
 * [VESTA 009N](vesta-009n.md)
 * [VESTA 010](vesta-010.md)
 * [VESTA 011](vesta-011-1.md)
