@@ -2,7 +2,7 @@
 
 PIR Motion Sensor Camera
 
-VST-862
+VST-862-IL-F1
 
 ## Introduction
 
