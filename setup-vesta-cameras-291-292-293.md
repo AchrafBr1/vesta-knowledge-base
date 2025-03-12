@@ -1,4 +1,8 @@
 ---
+description: >-
+  The Vesta 291, 292, and 293 series are a range of wireless security cameras
+  designed for both indoor and outdoor use. They provide reliable video
+  surveillance with easy installation.
 icon: camera-cctv
 layout:
   title:
@@ -20,6 +24,10 @@ layout:
 <figure><img src=".gitbook/assets/Immagine2.png" alt=""><figcaption></figcaption></figure>
 
 
+
+{% hint style="info" %}
+We will show how to add the camera Vesta-292, but the step to add the camera Vesta-291 or Vesta-293 are similar
+{% endhint %}
 
 ## Camera 292
 
