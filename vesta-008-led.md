@@ -1,10 +1,10 @@
 # VESTA 008 LED
 
-**PIR Motion Sensor Camera**
+White Flash Pircam&#x20;
 
-**VST-862**
+VST-862-P5-LE ALK-F1
 
-**Introduction**
+## **Introduction**
 
 VST-862 is a passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 640 x 480 pixels) to the Control Panel upon movement detection.
 
