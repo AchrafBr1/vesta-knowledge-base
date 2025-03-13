@@ -1,8 +1,8 @@
 # VESTA-007
 
-PIR Motion Sensor Camera
-
 VST-862-IL-F1
+
+## PIR Motion Sensor Camera
 
 ## Introduction
 

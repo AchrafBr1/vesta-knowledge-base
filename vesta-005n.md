@@ -2,7 +2,7 @@
 
 **SRV-23B**
 
-**AC Powered Indoor Siren**
+## **AC Powered Indoor Siren**
 
 ## **Introduction**
 

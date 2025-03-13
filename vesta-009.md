@@ -1,10 +1,10 @@
 # VESTA-009
 
-PIR Motion Sensor&#x20;
-
 IR(P)-29 Series
 
-The PIR detects infrared signature to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its’ path of detection.
+## PIR Motion Sensor&#x20;
+
+The PIR detects infrared signatures to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its’ path of detection.
 
 The PIR consists of a two-part design made up of a cover and a base. The cover contains all the electronics and optics and the base provides a means of fixing. The base has knockouts to allow mounting on either a flat surface or in a corner situation
 
@@ -50,13 +50,13 @@ IRP-29SL / IRP-29SL-F1 – Pet Immune PIR sensor with lithium battery
 * When set as OFF, Supervision is enabled. **(Factory default for 868WF frequency models)**
 
 {% hint style="info" %}
-**433 FM** and **868FM frequency models** does not support JP2 Jumper Switch, Supervision is enabled and cannot be disabled.
+**433 FM** and **868FM frequency models** do not support JP2 Jumper Switch, Supervision is enabled and cannot be disabled.
 {% endhint %}
 
 **4. Sensitivity Increaser Jumper Switch (JP3)**
 
-* When set as OFF, the PIR’s detection sensitivity is in normal level. **(Factory default for non-Pet-Immune models)**
-* When set as ON, the PIRs detection sensitivity is high. (Factory default for Pet-Immune models)
+* When set as OFF, the PIR’s detection sensitivity is in a normal level. **(Factory default for non-Pet-Immune models)**
+* When set to ON, the PIR detection sensitivity is high. (Factory default for Pet-Immune models)
 
 **5. Tamper Switch**
 
@@ -94,7 +94,7 @@ In Normal operation mode, the LED Indicator lights up in the following situation
 
 IR-29 Series PIR Motions sensor uses with alkaline or lithium batteries as a power source:
 
-* The alkaline-powered models use two alkaline AA 1.5 V batteries as its power source.
+* The alkaline-powered models use two alkaline AA 1.5 V batteries as their power source.
 * The lithium-powered models use one 3V 2/3A (EL123AP) Lithium battery as its power source.
 
 The PIR features a low battery detection function. If low battery voltage is detected, a low battery signal will be sent to the Control Panel along with regular signal transmissions for the Control Panel to display the status accordingly.
