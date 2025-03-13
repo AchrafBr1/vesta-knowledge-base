@@ -22,7 +22,7 @@ Enter the default installer code: **7982** and press **Login**
 
 
 
-<figure><img src=".gitbook/assets/1 (1) (1).png" alt="" width="278"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1).png" alt="" width="278"><figcaption></figcaption></figure>
 
 
 
@@ -77,7 +77,7 @@ Press **Yes**, we could add a new account or link the control panel to an existi
 
 
 
-<figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 On this screen, we could decide whether to create a new user account or connect the control panel to an existing customer account
 
