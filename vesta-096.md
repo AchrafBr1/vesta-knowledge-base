@@ -1,4 +1,4 @@
-# VESTA-096
+# VESTA 096
 
 * **PIR Motion Sensor Camera** (VST-862)
 
@@ -212,6 +212,10 @@ The PIR Camera will conduct a Self-test Periodically by transmitting a superviso
 6. Fit the cover onto the base and tighten.
 
 * <mark style="background-color:yellow;">**Surface mounting with rotating bracket**</mark>[ <mark style="background-color:green;">**(optional item, sold separately):**</mark>](#user-content-fn-1)[^1]
+
+{% hint style="success" %}
+Rotating Bracket code: VESTA-212&#x20;
+{% endhint %}
 
 <mark style="background-color:yellow;">The rotating bracket can be mounted on the wall with provides screws.</mark>
 

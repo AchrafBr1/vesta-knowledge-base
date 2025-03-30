@@ -216,6 +216,10 @@ Note:
 
 ### **Surface mounting with rotating bracket (optional item, sold separately):**
 
+{% hint style="success" %}
+Rotating Bracket code: VESTA-212&#x20;
+{% endhint %}
+
 The rotating bracket can be mounted on the wall with provides screws.
 
 1. Screw the rotating bracket into the wall

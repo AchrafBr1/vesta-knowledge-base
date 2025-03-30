@@ -1,4 +1,4 @@
-# VESTA 211N
+# VESTA-211N
 
 **PIR Motion Sensor Camera (VST-892)**
 
@@ -287,6 +287,10 @@ _\<NOTE>_
 * **Surface mounting with rotating bracket (optional item, sold separately):**
 
 The rotating bracket can be mounted on the wall with the screws provided.
+
+{% hint style="success" %}
+Rotating Bracket code: VESTA-212&#x20;
+{% endhint %}
 
 *
   1. Screw the rotating bracket onto the wall.

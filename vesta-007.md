@@ -216,12 +216,16 @@ Note:
 
 ### **Surface mounting with rotating bracket (optional item, sold separately):**
 
+{% hint style="success" %}
+Rotating Bracket code: VESTA-212&#x20;
+{% endhint %}
+
 The rotating bracket can be mounted on the wall with provides screws.
 
 1. Screw the rotating bracket into the wall
 2. Fit the 3 hooks of the rotating bracket into the 3 holes of the base accordingly.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-Note: Control error or error control is because a device normally PIRCAM or pir camera has not been added by pressing the learn button for 4 seconds.
+Note: Control error or error control is because a device, normally PIRCAM or pir camera, has not been added by pressing the learn button for 4 seconds.
 
 <figure><img src=".gitbook/assets/2 (121).png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# VESTA-210
+# VESTA 210
 
 <figure><img src=".gitbook/assets/image (65).png" alt="" width="375"><figcaption><p>VESTA-210</p></figcaption></figure>
 
@@ -158,6 +158,10 @@ Press and hold the Test button for 3 seconds on the PIR Camera to send a signal 
 * _**Mounting & Installation Method**_
 
 **Mounting with mounting bracket and rotating holder:**
+
+{% hint style="success" %}
+Rotating Bracket code: VESTA-213&#x20;
+{% endhint %}
 
 ![](<.gitbook/assets/19 (9).jpeg>)
 
