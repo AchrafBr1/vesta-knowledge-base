@@ -22,7 +22,7 @@ Enter the default installer code: **7982** and press **Login**
 
 
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1).png" alt="" width="278"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1).png" alt="" width="278"><figcaption></figcaption></figure>
 
 
 
