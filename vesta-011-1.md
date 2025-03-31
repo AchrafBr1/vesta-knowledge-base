@@ -2,7 +2,7 @@
 
 &#x20;**KP-39**
 
-## **REMOTE KEYPAD**
+## **REMOTE KEYPAD** WIRELESS
 
 <figure><img src=".gitbook/assets/0 (35).png" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 
 KP-15-(NT)/ KP-15-(NT)-F1
 
-## Remote Keypad&#x20;
+## Remote Keypad WIRELESS
 
 The Remote Keypad includes the following models:
 
