@@ -1,56 +1,49 @@
-# VESTA 014
+# VESTA-014
 
-* Remote Controller (RC-16-F1)
+RC-16-F1
+
+## Remote Controller -Keyfob
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
-* _**Identifying the parts**_
+## _**Identifying the parts**_
 
-![RC-16 2](<.gitbook/assets/0 (11).jpeg>)**1.** **BUTTON**
+![RC-16 2](<.gitbook/assets/0 (11).jpeg>)
 
-![઀'ħ4](<.gitbook/assets/1 (20).png>)
+**1.** **BUTTON -** Press this button to arm the system in away mode.
 
-Press this button to arm the system in away mode.
+**2. BUTTON -** Press this button to disarm the system. When the alarm is activated, pressing this button will stop the alarm.
 
-**2. BUTTON**
+**3.**  **BUTTON -** Pressing this button will arm the system in home mode.
 
-![](<.gitbook/assets/2 (21).png>) ![](<.gitbook/assets/3 (19).png>)
+**4. BUTTON -** Press and hold this button for 3 seconds to send a panic signal regardless of system mode
 
-Press this button to disarm the system. When alarm is activated, pressing this button will stop the alarm.
+{% hint style="warning" %}
+Note:
 
-**3.** ![](<.gitbook/assets/4 (20).png>) **BUTTON**
+The panic alarm cannot be stopped after activation by pressing the disarm button on the Remote Controller.
+{% endhint %}
 
-Pressing this button will arm the system in home mode.
+**5. LED INDICATOR -** The LED will flash 6 times when the Away Arm, Home Arm and Disarm buttons are pressed. When the Panic Button is pressed, the LED will quickly flash 6 times.
 
-**4. BUTTON**
-
-![](<.gitbook/assets/5 (19).png>)
-
-Press and hold this button for 3 seconds to send a panic signal regardless of system mode
+**6. BATTERY COMPARTMENT -** The Remote Controller uses one **CR2032** 3V mAh Lithium battery as its power source. The low battery status will be sent to the Control Panel along with regular signal transmission, and the Control Panel will display the status accordingly.
 
 \<Note>
 
-* Panic alarm cannot be stopped after activation by pressing disarm button on Remote Controller.
+{% hint style="warning" %}
+Note:
 
-**5. LED INDICATOR**
+_When changing the battery, after removing the old battery, press any button twice to fully discharge before inserting the new battery._
 
-The LED will flash 6 times when the Away Arm, Home Arm and Disarm buttons are pressed.
+_When a low voltage battery is inserted, the LED will flash 3 times to indicate low battery._
+{% endhint %}
 
-When the Panic Button is pressed, the LED will quickly flash 6 times.
+## _**Getting Started**_
 
-**6. BATTERY COMPARTMENT**
-
-The Remote Controller uses one **CR2032** 3V mAh Lithium battery as its power source. The low battery status will be sent to the Control Panel along with regular signal transmission, and, the Control Panel will display the status accordingly.
-
-\<Note>
-
-* _When changing battery, after removing the old battery, press any button twice to fully discharge before inserting new battery._
-* _When a low voltage battery is inserted, the LED will flash 3 times to indicate low battery._
-* _**Getting Started**_
 * Remove the battery cover.
 * Insert the battery with the unmarked side (negative) of the battery facing down.
 * Secure the cover.
-* Put the Control Panel into learning mode, refer to Control Panel manual for detail.
+* Put the Control Panel into learning mode; refer to the Control Panel manual for details.
 * Press any buttons on the Remote Controller.
 * If the Control Panel receives the Remote Controller signal successfully, it will display the information accordingly.
 * Please refer to your Control Panel manual to complete the learning process.
