@@ -16,9 +16,9 @@ layout:
     visible: true
 ---
 
-# VESTA 012
+# VESTA-012
 
-KPT-39N
+KPT-39N-F1
 
 ## REMOTE KEYPAD WIRELESS
 
