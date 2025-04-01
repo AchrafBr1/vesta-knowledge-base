@@ -130,13 +130,13 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, and assign the user pin code to an Area.
 
-![](<.gitbook/assets/17 (13).png>)
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 Step 2. After VESTA-012N is successfully learnt into the panel, press ![](<.gitbook/assets/18 (5).jpeg>) key on the keypad. Then, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-![](<.gitbook/assets/19 (14).png>)
+<figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 Step 4. The tag has been added. You can use the tag to arm/home arm/disarm the system. When the Keypad is powered on by inserting batteries, the Orange LED will flash, and the white backlight will turn on. When the LED is off, wait 10 seconds for the keypad tag sensor to start functioning.
 
@@ -146,7 +146,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click Submit.
 
-![](<.gitbook/assets/20 (13).png>)
+<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 Step 3. The tag is cleared.
 
@@ -154,7 +154,7 @@ Step 3. The tag is cleared.
 
 **Enter Programming Mode:**
 
-* Put remote keypad in Programming Mode by entering the KP PIN code (default: **0000**), then press **＊** key. The three LEDs will turn on, along with a long beep.
+* Put the remote keypad in Programming Mode by entering the KP PIN code (default: **0000**), then press the **＊** key. The three LEDs will turn on, along with a long beep.
 
 **Programming Mode Functions:**
 
@@ -211,56 +211,63 @@ In the Programming Mode, Pressing ＊ key and then **8** key to enable Arm/Home 
 
 **Return to Disarm Mode**: Enter any one of the Control Panel user codes and the (disarm button) Key, or press the (disarm button) key and apply a label. If disarm is successful, the (disarm button)  LED will turn ON along with 2 beeps. If there is an **Alarm Memory,** the (disarm button) LED and fault LED will turn ON along with 5 beeps. (Disarm always requires a Control Panel User Code or NFC label.)
 
+
+
 ## _**Bluetooth Function to Disarm the System via Smartphone**_
 
 To use the keypad’s Bluetooth feature to disarm the system via Smartphone, the Control Panel must be registered on the Home Portal Server.
 
-_**Vesta Home 5 APP**_ is used for Bluetooth pairing the smartphone with the keypad. Up to **25** smartphones can be paired with the keypad to disarm the system via Vesta Home 5 APP.
+**SmartHomeSec&#x20;**_**APP**_ is used for Bluetooth pairing the smartphone with the keypad. Up to **25** smartphones can be paired with the keypad to disarm the system via the SmartHomeSec APP.
 
-Please go to APP store or Google Play and search _**Vesta Home 5**_ to download the application.
+Please go to the APP store or Google Play and search SmartHomeSec to download the application.
 
-* **Bluetooth Setup**
+### **Bluetooth Setup**
 
-**Pairing the Keypad with one or multiple smartphones**
+#### <mark style="color:blue;">**Pairing the Keypad with one or multiple smartphones**</mark>
 
-**Step 1.** In keypad **tamper open state**, put the keypad into the **BLE Pairing mode** by pressing and holding both **＊** key and **0** key together for **2 seconds**. When entering the BLE Pairing mode, the Keypad emits a long beep and Green and Orange LED will turn on during BLE Pairing mode.
+**Step 1.** In keypad **tamper open state**, put the keypad into the **BLE Pairing mode** by pressing and holding both **＊** key and **0** key together for **2 seconds**. When entering the BLE Pairing mode, the Keypad emits a long beep, and the Green and Orange LED will turn on during BLE Pairing mode.
 
-**Step 2.** On your smartphone, open the _**Vesta Home 5 App**_, enter the registered user ID and password, and tap
+**Step 2.** On your smartphone, open the **SmartHomeSec&#x20;**_**App**_, enter the registered user ID and password, and tap Connect to log into your account.
 
-Connect to log into your account. _Note:_ Make sure Bluetooth is turned on for your smartphone setting.
+{% hint style="warning" %}
+Note:
 
-**Step 3.** Go to the All Devices page, select KPT-39N-BLE. Tap “**Start Bluetooth Pairing**.”
+Make sure Bluetooth is turned on for your smartphone setting.
+{% endhint %}
 
-5
+**Step 3.** Go to the All Devices page and select VESTA-012N. Tap “**Start Bluetooth Pairing**.”
 
-**Step 4.** The app will automatically start scanning the Keypad that is under BLE Pairing mode. If it does not start
+**Step 4.** The app will automatically start scanning the Keypad that is under BLE Pairing mode. If it does not start scanning automatically, tap the button on the screen to search for the Keypad.
 
-scanning automatically, tap the  button on the screen to search for the Keypad.
+When the detected Keypad is shown on the list, tap it to enter the Pairing PIN Code page. Enter the BLE Pairing PIN Code **(Default: 000000)** and tap the **Pair** button to proceed.
 
-When the detected Keypad is shown on the list, tap it to enter the Pairing PIN Code page. Enter the BLE Pairing PIN Code **(Default: 000000)** and tap **Pair** button to proceed.
+{% hint style="warning" %}
+Note:
 
-_Note:_ To edit the Pairing PIN Code, enter 6-digit PIN Code and ＊ on the Keypad under the BLE Pairing mode.
+To edit the Pairing PIN Code, enter 6-digit PIN Code and ＊ on the Keypad under the BLE Pairing mode.
+{% endhint %}
 
 If the PIN Code setting is confirmed, the Keypad emits 1 long beep. If the PIN Code setting is not confirmed, the Keypad emits 4 beeps.
 
-**Step 5.** When the dialog box of Pairing Successful is shown on the APP, Pairing is successful.
+**Step 5.** When the dialog box Pairing Successful is shown on the APP, Pairing is successful.
 
-Click OK, and you will be directed to the KPT device setting page where you will need to set your PIN code.
+Click OK, and you will be directed to the KPT device setting page, where you will need to set your PIN code.
 
-6
-
-**Step 6.** Select PIN Code, and input a 4-digit or 6-digit Control Panel User PIN.
+**Step 6.** Select the PIN Code and input a 4-digit or 6-digit Control Panel User PIN.
 
 If the user wants to leave this page but the User PIN field is empty, the system will pop up an error message.
 
-_**Please Note:**_
+{% hint style="warning" %}
+Please Note:
 
-* When the Keypad is under the BLE Pairing mode, users can pair the Keypad with one or multiple smartphones. Whether the first pairing smartphone is connected or not, the second and more smartphones can be paired with the Keypad by following the **Step 2\~6** in the instructions above.
-* The Keypad can pair with a maximum of 25 smartphones.
+When the Keypad is in the BLE Pairing mode, users can pair the Keypad with one or multiple smartphones. Whether the first pairing smartphone is connected or not, the second and more smartphones can be paired with the Keypad by following steps **2\~6** in the instructions above.
+
+The Keypad can pair with a maximum of 25 smartphones.
+{% endhint %}
 
 **Step 7.** Leave the BLE Pairing Mode by pressing **#** key once. Otherwise, the Remote keypad will automatically exit BLE Pairing Mode after 5 minutes and return to Stand-by mode.
 
-**Unpairing a Keypad with One or Multiple Smartphones**
+#### <mark style="color:blue;">**Unpairing a Keypad with One or Multiple Smartphones**</mark>
 
 **Step 1.** Under keypad **BLE Pairing mode**, you can unpair the Keypad with one or multiple smartphones.
 
