@@ -22,7 +22,7 @@
 * [VESTA-019N](vesta-019n.md)
 * [VESTA-022](vesta-022.md)
 * [VESTA-023](vesta-023.md)
-* [VESTA 024](vesta-024.md)
+* [VESTA-024](vesta-024.md)
 * [VESTA 025](vesta-025.md)
 * [VESTA 026](vesta-026.md)
 * [VESTA 027](vesta-027.md)
