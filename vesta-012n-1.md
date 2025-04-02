@@ -1,10 +1,10 @@
-# Copy of VESTA 012N
+# VESTA-012N
 
 **KPT-39N-BLE**
 
 ## **BLUETOOTH REMOTE KEYPAD**
 
-KPT-39N-BLE is a Remote Keypad with Bluetooth feature and NFC reader. It is designed to have quick access control of the System Control Panel via User PIN Code, NFC label, or by approaching the keypad with the paired smartphone to disarm the system. The Keypad can send wireless signals to and receive wireless signals from the Control Panel.
+KPT-39N-BLE is a Remote Keypad with Bluetooth and NFC reader. It is designed to have quick access control of the System Control Panel via User PIN Code, NFC label, or by approaching the keypad with the paired smartphone to disarm the system. The Keypad can send wireless signals to and receive wireless signals from the Control Panel.
 
 The Remote Keypad can be mounted on a flat surface or wall with screws. It also has a tamper protection switch, which will be activated upon any unauthorized attempt to open the lid or to detachthe  keypad from the mounting surface.
 
@@ -40,7 +40,7 @@ Note:
 
 A short beep will sound along with a key pressing to indicate that the button pressed is valid.
 
-4 continuous beeps will sound, indicating mistake, and the user should repeat the process again.
+4 continuous beeps will sound, indicating a mistake, and the user should repeat the process again.
 {% endhint %}
 
 ## _**LED Indicator**_
@@ -105,9 +105,9 @@ Step 2. **Keypad Normal Mode**
 
 **Keypad Programming Mode**
 
-Alternatively, you can enable Remote keypad to enter Programming Mode first. Enter Keypad PIN Code (Default: 0000)
+Alternatively, you can enable the Remote keypad to enter Programming Mode first. Enter Keypad PIN Code (Default: 0000)
 
-&#x20;and then press **＊** key. The three![](<.gitbook/assets/13 (21).png>)![](<.gitbook/assets/14 (9).jpeg>) LEDs will turn on, along with a long beep. Press ＊ key and then **7** key to transmit learn code to Control Panel. Remote keypad will sound a long beep.
+&#x20;and then press **＊** key. The three![](<.gitbook/assets/13 (21).png>)![](<.gitbook/assets/14 (9).jpeg>) LEDs will turn on, along with a long beep. Press ＊ key and then **7** key to transmit learn code to Control Panel. The remote keypad will sound a long beep.
 
 Step 3. Refer to the Control Panel manual to complete the learning process. If learning is successful, the Keypad will emit 3 beeps upon receiving the acknowledgement signal from the Control Panel. If the Keypad does not sound 3 beeps, please repeat Step 2 to transmit the learn code again.
 
@@ -122,7 +122,7 @@ Step 4. After the Remote keypad is learnt-in, put the Control Panel into **Walk 
 
 ## _**Add Tag/Clear Tag Procedures**_
 
-The Keypad is capable of transmitting NFC (Near Field Communication) tags to the Control Panel, and you can assign a User PIN Code and user name to each NFC tag on the Panel webpage. The NFC tags can then be used to control alarm system mode through the Keypad. The number of NFC tags and User PIN Codes are managed on the Control Panel webpage.
+The Keypad is capable of transmitting NFC (Near Field Communication) tags to the Control Panel, and you can assign a User PIN Code and user name to each NFC tag on the Panel webpage. The NFC tags can then be used to control the alarm system mode through the Keypad. The number of NFC tags and User PIN Codes are managed on the Control Panel webpage.
 
 _**A) Add Tag:**_
 
@@ -130,13 +130,13 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, and assign the user pin code to an Area.
 
-<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 2. After VESTA-012N is successfully learnt into the panel, press ![](<.gitbook/assets/18 (5).jpeg>) key on the keypad. Then, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-<figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 4. The tag has been added. You can use the tag to arm/home arm/disarm the system. When the Keypad is powered on by inserting batteries, the Orange LED will flash, and the white backlight will turn on. When the LED is off, wait 10 seconds for the keypad tag sensor to start functioning.
 
@@ -146,7 +146,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click Submit.
 
-<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 3. The tag is cleared.
 
@@ -205,7 +205,7 @@ _**Arm/Home without Control Panel PIN Code:**_
 
 In the Programming Mode, Pressing ＊ key and then **8** key to enable Arm/Home without User PIN Code function
 
-**Enter Arm Mode:** Press the (arming away button)  key. If the panel has no fault and arming is successful, the (arming away button)  LED will turn ON&#x20;along with one long beep.
+**Enter Arm Mode:** Press the (arming away button)  key. If the panel has no fault and arming is successful, the (arming away button)  LED will turn ON&#x20;, along with one long beep.
 
 **Enter Home Mode**: Press the (arm stay button) key. If the panel has no fault and arming is successful, the (arm stay button) LED will turn ON&#x20;along with 3 beeps.
 
@@ -235,16 +235,20 @@ Note:
 Make sure Bluetooth is turned on for your smartphone setting.
 {% endhint %}
 
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption><p>Step 2                                                                                                                                                  Step 3</p></figcaption></figure>
+
 **Step 3.** Go to the All Devices page and select VESTA-012N. Tap “**Start Bluetooth Pairing**.”
 
 **Step 4.** The app will automatically start scanning the Keypad that is under BLE Pairing mode. If it does not start scanning automatically, tap the button on the screen to search for the Keypad.
 
 When the detected Keypad is shown on the list, tap it to enter the Pairing PIN Code page. Enter the BLE Pairing PIN Code **(Default: 000000)** and tap the **Pair** button to proceed.
 
+<figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Step 4                                                                                                                                                   Step 5</p></figcaption></figure>
+
 {% hint style="warning" %}
 Note:
 
-To edit the Pairing PIN Code, enter 6-digit PIN Code and ＊ on the Keypad under the BLE Pairing mode.
+To edit the Pairing PIN Code, enter the 6-digit PIN Code and ＊ on the Keypad under the BLE Pairing mode.
 {% endhint %}
 
 If the PIN Code setting is confirmed, the Keypad emits 1 long beep. If the PIN Code setting is not confirmed, the Keypad emits 4 beeps.
@@ -257,6 +261,8 @@ Click OK, and you will be directed to the KPT device setting page, where you wil
 
 If the user wants to leave this page but the User PIN field is empty, the system will pop up an error message.
 
+<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 Please Note:
 
@@ -265,83 +271,86 @@ When the Keypad is in the BLE Pairing mode, users can pair the Keypad with one o
 The Keypad can pair with a maximum of 25 smartphones.
 {% endhint %}
 
-**Step 7.** Leave the BLE Pairing Mode by pressing **#** key once. Otherwise, the Remote keypad will automatically exit BLE Pairing Mode after 5 minutes and return to Stand-by mode.
+**Step 7.** Leave the BLE Pairing Mode by pressing the **#** key once. Otherwise, the Remote keypad will automatically exit BLE Pairing Mode after 5 minutes and return to Stand-by mode.
 
 #### <mark style="color:blue;">**Unpairing a Keypad with One or Multiple Smartphones**</mark>
 
 **Step 1.** Under keypad **BLE Pairing mode**, you can unpair the Keypad with one or multiple smartphones.
 
-In keypad **tamper open state**, put the keypad into the **BLE Pairing mode** by pressing and holding both **＊** key and **0** key together for **2 seconds**. The Keypad emits a long beep and Green and Orange LED turn on.
+In keypad **tamper open state**, put the keypad into the **BLE Pairing mode** by pressing and holding both **＊** key and **0** key together for **2 seconds**. The Keypad emits a long beep, and the Green and Orange LEDs turn on.
 
 * Press **0, or 1, or 2, … 24** key and then **#** key — to unpair the 1st , 2nd, 3rd, ….or the 25th smartphone.
-* Press **25** key and then **#** key — to unpair all smartphones.
+* Press the **25** key and then **#** key — to unpair all smartphones.
 
 **Step 2.** Besides unpairing the keypad with your smartphone, you will also need to remove the Bluetooth Function of the keypad in your Smartphone APP.
 
-7
+<figure><img src=".gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Then, delete the paired Keypad from your smartphone. Navigate the Smartphone’s **Settings** > **Bluetooth** > **My Devices.** Tap the paired Keypad and select **Forget This Device** to remove it from the device list.
 
-* **Disarming the System via Smartphone**
+#### _<mark style="color:blue;">**Disarming the System via Smartphone**</mark>_
 
 To disarm the system via a paired smartphone:
 
-*
-  * The smartphone’s Bluetooth function needs to be turned ON, and the Vesta Home 5 APP must be kept active in the background so that the device can communicate with the App.
-  * A 4-digit or 6-digit Control Panel User Code must have been saved in the Vesta Home 5 APP.
+* The smartphone’s Bluetooth function needs to be turned ON, and the SmartHomeSec APP must be kept active in the background so that the device can communicate with the App.
+* A 4-digit or 6-digit Control Panel User Code must have been saved in the SmartHomeSec APP.
 
 When the system is armed, approach the keypad with the paired smartphone. Once the Keypad detects the paired smartphone within the BLE range, the system will automatically disarm.
 
-_**Note:**_
+{% hint style="warning" %}
+Note:
 
-*
-  *
-    * The effective BLE range may differ depending on different mobile devices.
-    * After the system arms, a 30-second buffer is configured for the paired mobile to be out of the Keypad BLE range. The keypad will start detecting only after the system is armed for 30 seconds. If the paired mobile is within the BLE range when the system arms, the system will not Disarm until the 30-second buffer passes.
-* _**Entry/Exit Sound**_
-  * After the Entry/Exit Sound is enabled by pressing **1** key + **2** key at the same time for 2 seconds (indicated by one long beep), the keypad will sound beeps when the Entry/exit timer is activated.
-  * After the Entry/Exit Sound is disabled by pressing **1** key + **2** key at the same time for 2 seconds (indicated by two short beeps), the keypad will remain silent when the Entry/exit timer is activated.
-* _**Fault Conditions**_
+The effective BLE range may differ depending on different mobile devices.
 
-_When Remote Keypad is under **NORMAL OPERATION MODE,**_
+After the system arms, a 30-second buffer is configured for the paired mobile to be out of the Keypad BLE range. The keypad will start detecting only after the system is armed for 30 seconds. If the paired mobile is within the BLE range when the system arms, the system will not disarm until the 30-second buffer passes.
+{% endhint %}
 
-*
-  1. When fault condition exists within Control Panel, if the Keypad is used to arm the panel, the Fault LED will flash along with 3 beeps to indicate fault condition.
-  2. When the Keypad disarms the panel, the  LED will turn ON along with two beeps indicating normal operation.
-  3. If you input incorrect KP Pin code for 4 times within 10 minutes under Programming Mode, KP will disable the key function for 1 minute and all the LEDs will flash 3 times along with 6 beeps. After 1 minute, it will emit a long beep to indicate that the key function is back to normal.
-  4. If you input incorrect User PIN Code for 4 times within 10 minutes when changing system mode, KP will disable key function for 5 minutes. After 5 minutes, the keypad will emit a long beep to indicate that the key function is back to normal.
-* _**Factory Reset**_
+## _**Entry/Exit Sound**_
 
-Resetting the Keypad to factory default will restore Keypad’s own PIN Code to 0000 and clear all panel learning memory.
+* After the Entry/Exit Sound is enabled by pressing **1** key + **2** key at the same time for 2 seconds (indicated by one long beep), the keypad will sound beeps when the Entry/exit timer is activated.
+* After the Entry/Exit Sound is disabled by pressing **1** key + **2** key at the same time for 2 seconds (indicated by two short beeps), the keypad will remain silent when the Entry/exit timer is activated.
+
+## _**Fault Conditions**_
+
+_When the Remote Keypad is in **NORMAL OPERATION MODE,**_
+
+1. When a fault condition exists within the Control Panel, if the Keypad is used to arm the panel, the Fault LED will flash along with 3 beeps to indicate the fault condition.
+2. When the Keypad disarms the panel, the (disarm button)  LED will turn ON along with two beeps indicating normal operation.
+3. If you input the incorrect KP Pin code 4 times within 10 minutes under Programming Mode, KP will disable the key function for 1 minute, and all the LEDs will flash 3 times along with 6 beeps. After 1 minute, it will emit a long beep to indicate that the key function is back to normal.
+4. If you input the incorrect User PIN Code 4 times within 10 minutes when changing system mode, KP will disable the key function for 5 minutes. After 5 minutes, the keypad will emit a long beep to indicate that the key function is back to normal.
+
+## _**Factory Reset**_
+
+Resetting the Keypad to the factory default will restore the Keypad’s own PIN Code to 0000 and clear all panel learning memory.
 
 _**Reset to factory default:**_
 
 Step 1 Remove the batteries and release the tamper.
 
-Step 2 If “**Arm/Home with Control Panel PIN Code**” method is selected, press & hold **3** key while inserting the battery back.
+Step 2 If “**Arm/Home with Control Panel PIN Code**” method is selected, press & hold the **3** key while inserting the battery back.
 
-.If “**Arm/Home without Control Panel PIN Code**” method is selected, press & hold **4** key while inserting the battery back.
+.If “**Arm/Home without Control Panel PIN Code**” method is selected, press & hold the **4** key while inserting the battery back.
 
-Step 3 Continue pressing **3** key until KP emit 3 beeps to indicate successful reset.
+Step 3 Continue pressing the **3** key until KP emit 3 beeps to indicate a successful reset.
 
-.Continue pressing 4 key until KP emit 4 beeps to indicate successful reset.
+.Continue pressing the 4 key until KP emit 4 beeps to indicate a successful reset.
 
-Step 4 Release **3** or 4 key, the reset process is complete. After reset, PIN code reverts to factory default values, **0000**.
+Step 4 Release **3** or 4 key, the reset process is complete. After reset, the PIN code reverts to factory default values, **0000**.
 
-.Remote keypad will need a new learn-in process to start functioning.
+The remote keypad will need a new learn-in process to start functioning.
 
-*
-  * Whenever the Keypad is removed from the Control Panel, it should be put to factory reset as well to clear its Control Panel memory.
-* _**Mounting Remote Keypad**_
+{% hint style="warning" %}
+Note:
+
+Whenever the Keypad is removed from the Control Panel, it should be put to factory reset as well to clear its Control Panel memory.
+{% endhint %}
+
+## _**Mounting Remote Keypad**_
 
 To mount the remote keypad:
 
 1. Remove the front cover.
 2. Using the 2 mounting holes of the back cover as a template, mark off the positions in the most appropriate place.
-   1. Insert the wall plugs if fixing into plaster or brick surface.
-
-IV. Screw the remote keypad onto the wall plugs.
-
-V. Replace the front cover.
-
-8
+3. Insert the wall plugs if fixing into a plaster or brick surface.
+4. &#x20;Screw the remote keypad onto the wall plugs.
+5. Replace the front cover.
