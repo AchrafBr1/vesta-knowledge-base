@@ -52,28 +52,20 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 
 **Caractéristiques**
 
-* _**Indicateur LED**_
-
-En mode de fonctionnement normal, la LED bleue ne s'allumera pas sauf dans les situations suivantes :
-
-* Lorsque la caméra PIR est en état de batterie faible, chaque fois qu'elle transmet un mouvement détecté, la LED bleue clignote pendant 2 secondes.
-* Lorsque le couvercle est ouvert et que l'interrupteur anti-sabotage est violé, la LED bleue clignote pendant 2 secondes pour indiquer qu'elle transmet le signal « Tamper ».
-* Lorsque la condition de sabotage persiste, chaque fois qu'il transmet un mouvement détecté, la LED bleue clignote pendant 2 secondes.
-* Lorsque la caméra PIR entre en mode test, la LED bleue clignote pendant 1 seconde. Pendant le mode Test, la LED bleue clignote également pendant 2 secondes à chaque fois qu'un mouvement est détecté.
-* Lorsque la caméra PIR est en période de préchauffage de 30 secondes, la LED bleue clignote lentement.
-* Lorsque la caméra PIR transmet des images capturées dans des conditions de défaut (batterie faible, interrupteur anti-sabotage activé), la LED bleue clignote en continu.
-* _**Capture d'image**_
-
-Lorsque le système d'alarme est armé, la caméra PIR capturera 1, 3 ou 6 images d'alarme en résolutions 640 x 480 ou 320 x 240 (programmable depuis le panneau de commande) lors de la détection de mouvement. Vous pouvez également demander manuellement à la caméra PIR de prendre une photo via le panneau de configuration. Les images capturées seront transférées vers le panneau de configuration pour que les utilisateurs puissent les consulter.
-
-* _**Période d'échauffement**_
-
-Lorsque le système du panneau de commande passe en mode armé ou lorsque la caméra PIR est mise en mode test, la caméra PIR se réchauffe pendant 30 secondes. Pendant la période de préchauffage de 30 secondes, la caméra PIR ne sera pas activée. La LED bleue clignotera lentement pendant la période de préchauffage uniquement lorsque le PIR entre en mode test.
-
-* _**Minuterie de mise en veille**_
-
-Quand**Cavalier 2**est réglé sur Off, la caméra PIR a un «**Temps de sommeil**" d'environ 1 minute pour économiser l'énergie. Après avoir transmis un mouvement détecté, la caméra PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera le temps de sommeil à 1 minute. Un mouvement continu devant la caméra PIR n'épuisera donc pas la batterie.
-
+* _**Voyant LED**_\
+  En fonctionnement normal, la LED bleue ne s'allumera pas sauf dans les situations suivantes :\
+  \- Lorsque le PIRCAM est en état de batterie faible, chaque fois qu'il transmet un mouvement détecté, la LED bleue clignote pendant 2 secondes.\
+  \- Lorsque le couvercle est ouvert et que l'autoprotection est déclenchée, la LED bleue clignote pendant 2 secondes pour indiquer qu'il transmet le signal "Autoprotection".\
+  \- Lorsque la condition de sabotage persiste, chaque fois qu'il transmet un mouvement détecté, la LED bleue clignote pendant 2 secondes.\
+  \- Lorsque le PIRCAM entre en mode test, la LED bleue clignote pendant 1 seconde. Pendant le mode Test, la LED bleue clignote également pendant 2 secondes à chaque fois qu'un mouvement est détecté.\
+  \- Lorsque le PIRCAM est en période de démarrage de 30 secondes, la LED bleue clignote lentement.\
+  \- Lorsque le PIRCAM transmet des images capturées dans des conditions de défaut (batterie faible, autoprotection), la LED bleue clignote en continu.
+* _**Capture d'image**_\
+  Lorsque le système d'alarme est armé, le PIRCAM capturera 1, 3 ou 6 images d'alarme en résolutions 640 x 480 ou 320 x 240 (programmable depuis la centrale) lors de la détection de mouvement. Vous pouvez également demander manuellement au PIRCAM de prendre une photo via la centrale. Les images capturées seront transférées vers la centrale pour que les utilisateurs puissent les consulter.
+* _**Période de démarrage**_\
+  Lorsque la centrale est armée ou lorsque le PIRCAM est mis en mode test, un période de démarrage de 30 secondes démarre. Pendant cette période, le PIRCAM ne sera pas actif. La LED bleue clignotera lentement pendant la période de démarrage uniquement lorsque le PIRCAM entre en mode test.
+* _**Mise en veille**_\
+  Quand**Cavalier 2**est réglé sur Off, la caméra PIR a un «**Temps de sommeil**" d'environ 1 minute pour économiser l'énergie. Après avoir transmis un mouvement détecté, la caméra PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera le temps de sommeil à 1 minute. Un mouvement continu devant la caméra PIR n'épuisera donc pas la batterie.
 * _Détection de batterie et de batterie faible_
 
 La caméra PIR utilise trois**Piles au lithium CR123A 3V**comme source d'énergie. Retirez le couvercle du compartiment des piles et insérez les piles pour activer la caméra PIR.
