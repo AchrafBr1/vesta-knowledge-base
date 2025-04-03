@@ -1,7 +1,3 @@
----
-icon: circle-chevron-right
----
-
 # VESTA-006
 
 **OPDC-1**
