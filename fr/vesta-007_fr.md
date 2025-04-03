@@ -50,14 +50,6 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
    \- Cavalier On : après la détection de mouvement, la caméra PIR n'entre pas en mode veille et transmettra à nouveau le signal de détection immédiatement si elle est déclenchée (**par défaut**).\
    \- Cavalier Off : la caméra PIR a une "**mise en veille**" d'environ 1 minute après la détection de mouvement pour économiser l'énergie.
 
-
-
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
 **Caractéristiques**
 
 * _**Indicateur LED**_
