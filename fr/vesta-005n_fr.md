@@ -2,7 +2,11 @@
 
 **SRV-23B**
 
+
+
 **Sirène intérieure sur prise secteur**
+
+
 
 **Introduction**
 
@@ -12,28 +16,27 @@ SRV-23B est une sirène intérieure et un carillon alimenté par une prise secte
 
 ![](<.gitbook/assets/0 (20).jpeg>)
 
-1. **Bouton de test/Voyant LED**
-   * Appuyez une fois pour envoyer un test/code d'apprentissage.
-   * La LED clignote une fois : le bouton est enfoncé.
-   * La LED clignote en continu : la sirène est en alarme.
-   * La LED reste allumée : la sirène est en mode apprentissage.
+1. **Bouton de test/Voyant LED**\
+   **-** Appuyez une fois pour envoyer un test/code d'apprentissage.\
+   \- La LED clignote une fois : le bouton est enfoncé.\
+   \- La LED clignote en continu : la sirène est en alarme.\
+   \- La LED reste allumée : la sirène est en mode apprentissage.
 2. **Haut-parleur**
+
+
 
 **Caractéristiques**
 
-* _**Activation de l'alarme**_
+* _**Activation de l'alarme**_\
+  Lorsqu'une alarme est déclenchée, la sirène et le voyant fonctionneront en continu . Si une temporisation est programmée dans la centrale d'alarme, la sirène sera activée en fonction de la durée programmée. Si le système d'alarme n'a pas de temporisation, la sirène sera activée pendant 15 minutes.\
+  Si la centrale a déjà déclenchée, au désarmement, la sirène diffusera le message vocal suivant :\
+  &#xNAN;_"Vous avez une alarme en mémoire."_
 
-Lorsqu'une alarme est déclenchée, la sirène et le voyant fonctionneront en continu . Si une temporisation est programmée dans la centrale d'alarme, la sirène sera activée en fonction de la durée programmée. Si le système d'alarme n'a pas de temporisation, la sirène sera activée pendant 15 minutes.
 
-Si la centrale a déjà déclenchée, au désarmement, la sirène diffusera le message vocal suivant :
 
-_"Vous avez une alarme en mémoire."_
-
-* _**Message vocaux**_
-
-La sirène émet différentes indications audio et messages vocaux en fonction de l'état du système de sécurité, comme indiqué dans le tableau ci-dessous.
-
-Vous pouvez modifier le volume de la synthèse vocale Haut, Moyen et Bas via la configuration de la centrale. Le volume par défaut est réglé sur Moyen. Veuillez vous référer à votre centrale pour plus de détails.
+* _**Message vocaux**_\
+  La sirène émet différentes indications audio et messages vocaux en fonction de l'état du système de sécurité, comme indiqué dans le tableau ci-dessous.\
+  Vous pouvez modifier le volume de la synthèse vocale Haut, Moyen et Bas via la configuration de la centrale. Le volume par défaut est réglé sur Moyen. Veuillez vous référer à votre centrale pour plus de détails.
 
 | **Condition**               | **Indication audio**                                                         |
 | --------------------------- | ---------------------------------------------------------------------------- |
@@ -47,25 +50,29 @@ Vous pouvez modifier le volume de la synthèse vocale Haut, Moyen et Bas via la 
 | Bips d'entrée               | _Bips_                                                                       |
 | Bips de sortie              | _Bips_                                                                       |
 
-* _**Alimentation**_
 
-La sirène est alimentée par une prise secteur. Branchez la sirène sur une prise de courant pour l'activer. La sirène entrera en mode de fonctionnement normal. SRV-23B, est équipée d'une batterie rechargeable qui sert de secours en cas de panne de courant. En fonctionnement normal, l'alimentation secteur est utilisée pour alimenter la sirène et en même temps recharger la batterie.
 
-* _**Détection de batterie faible**_
+* _**Alimentation**_\
+  La sirène est alimentée par une prise secteur. Branchez la sirène sur une prise de courant pour l'activer. La sirène entrera en mode de fonctionnement normal. SRV-23B, est équipée d'une batterie rechargeable qui sert de secours en cas de panne de courant. En fonctionnement normal, l'alimentation secteur est utilisée pour alimenter la sirène et en même temps recharger la batterie.
 
-Après une panne de courant, la sirène transmettra un signal de batterie faible à la centrale lorsque le seuil de batterie faible sera atteint. Pour restaurer la batterie, rebranchez l'alimentation secteur dans la prise de courant. Après 12 heures, la sirène transmettra une notification de batterie faible restaurée à la centrale.
 
-* _**Détection de panne secteur**_
 
-Chaque fois que la sirène est retirée de la prise de courant, elle transmettra un signal de perte secteur à la centrale pour informer les utilisateurs de la situation. La sirène utilisera alors à sa batterie interne.
+* _**Détection de batterie faible**_\
+  Après une panne de courant, la sirène transmettra un signal de batterie faible à la centrale lorsque le seuil de batterie faible sera atteint. Pour restaurer la batterie, rebranchez l'alimentation secteur dans la prise de courant. Après 12 heures, la sirène transmettra une notification de batterie faible restaurée à la centrale.
 
-Lorsque la sirène est rebranchée sur la prise de courant, elle enverra un signal de rétablissement de l'alimentation secteur à la centrale.
 
-* _**Supervision**_
 
-La sirène transmet un signal de supervision à la centrale une fois toutes les 30 à 50 minutes pendant le fonctionnement normal.
+* _**Détection de panne secteur**_\
+  Chaque fois que la sirène est retirée de la prise de courant, elle transmettra un signal de perte secteur à la centrale pour informer les utilisateurs de la situation. La sirène utilisera alors à sa batterie interne.\
+  Lorsque la sirène est rebranchée sur la prise de courant, elle enverra un signal de rétablissement de l'alimentation secteur à la centrale.
 
-Si ce signal n'est pas reçu pendant la durée programmée, la centrale indiquera que la sirène en question rencontre un problème de fonctionnement.
+
+
+* _**Supervision**_\
+  La sirène transmet un signal de supervision à la centrale une fois toutes les 30 à 50 minutes pendant le fonctionnement normal.\
+  Si ce signal n'est pas reçu pendant la durée programmée, la centrale indiquera que la sirène en question rencontre un problème de fonctionnement.
+
+
 
 **Démarrage**
 
@@ -77,6 +84,8 @@ Si ce signal n'est pas reçu pendant la durée programmée, la centrale indiquer
 6. Si en 1 minute la sirène reçoit un accusé de réception de la centrale et n'émet qu'un seul bip, cela signifie que la sirène a été préalablement apprise dans la centrale.
 7. Si après 1 minute la sirène ne reçoit pas d'accusé de réception de la centrale, la sirène émettra 5 bips et la LED s'éteindra. L’apprentissage a échoué. Veuillez répéter le processus d'apprentissage.
 
+
+
 **Programmation de la sirène**
 
 Suivez les instructions ci-dessous pour modifier la partition de la sirène et modifier les paramètres de la sirène dans la centrale.
@@ -87,6 +96,8 @@ Suivez les instructions ci-dessous pour modifier la partition de la sirène et m
 
 Étape 3 : Lorsque la sirène reçoit un signal d'accusé de réception de la centrale,  elle émettra 2 bips pour indiquer que le paramètre a été mis à jour. La sirène reviendra à un fonctionnement normal.
 
+
+
 **Retour aux paramètres d'usine**
 
 La sirène peut être réinitialisée et sa mémoire effacée en suivant les étapes suivantes :
@@ -96,3 +107,7 @@ La sirène peut être réinitialisée et sa mémoire effacée en suivant les ét
 3. Maintenez appuyé le bouton d'apprentissage tout en rebranchant la batterie rechargeable, puis en branchant la sirène sur la prise de courant. Si la batterie peut fournir de l'énergie, vous pouvez insérer la batterie uniquement sans brancher la sirène sur la prise de courant.
 4. Maintenez le bouton enfoncé pendant environ 7 secondes jusqu'à ce que la sirène émette 2 bips courts, puis un bip long.
 5. Relâchez le bouton, la réinitialisation est terminée.
+
+
+
+Remarque: Si la centrale dispose de plus de 2 partitions, la sirène n'indiquera pas le numéro de partition avecx les message vocaux.
