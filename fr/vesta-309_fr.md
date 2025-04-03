@@ -348,7 +348,7 @@ En appuyant sur le bouton du détecteur SDCO, vous pouvez tester si le détecteu
   * Si 5 bips (DO-Bi-Bi-Bi-DO) sont émis, cela signifie que le capteur de chaleur est en panne.
   * Si 7 bips (Bi-Bi-Bi-DO-Bi-Bi-Bi) sont émis, cela signifie que le capteur de CO est en panne.
 * _**Silence d'alarme**_
-  * Il existe deux manières de mettre manuellement le SDCO en mode Silence d'alarme : en appuyant sur le bouton ou en envoyant**Contrôle scène/sirène ou contrôle marche/arrêt sirène**commande. Quelle que soit la méthode, le SDCO entrera en mode Silence d’alarme. Après la période, un signal de restauration sera envoyé. Veuillez vous référer à la page 8\*\*« Urgence de fumée/Urgence de fumée résolue**\_**, Urgence de chaleur résolue et Urgence CO/**\_**Urgence CO résolue »\*\*pour plus de détails.
+  * Il existe deux manières de mettre manuellement le SDCO en mode Silence d'alarme : en appuyant sur le bouton ou en envoyant**Contrôle scène/sirène ou contrôle marche/arrêt sirène**commande. Quelle que soit la méthode, le SDCO entrera en mode Silence d’alarme. Après la période, un signal de restauration sera envoyé. Veuillez vous référer à la page 8\*\*« Urgence de fumée/Urgence de fumée résolu&#x65;**\_**, Urgence de chaleur résolue et Urgence CO/**\_**&#x55;rgence CO résolue »\*\*pour plus de détails.
 
 ![](<.gitbook/assets/18 (35).png>)
 
