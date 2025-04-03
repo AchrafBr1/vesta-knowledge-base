@@ -2,13 +2,13 @@
 icon: circle-chevron-right
 ---
 
-# VESTA 006
+# VESTA-006
 
-Ce modèle de capteur est le VESTA-006 et peut être trouvé sur le SITE WEB de bydemes.
+**OPDC-1**
 
-* Manuel d'utilisation du contact de porte optique (OPDC-1)
+**Détecteur d'ouverture optique**
 
-Le contact de porte optique, intégrant un capteur infrarouge, surveille l'ouverture/fermeture d'appareils spécifiés (par exemple porte ou fenêtre). En utilisant la technologie de détection infrarouge, l'OPDC peut détecter si la porte ou la fenêtre est ouverte ou fermée, sans avoir besoin d'un aimant supplémentaire. L'OPDC transmettra des signaux d'alarme lorsqu'il détectera un changement et protégera votre maison.
+Le détecteur d'ouverture optique, intégrant un capteur infrarouge, surveille l'ouverture/fermeture d'éléments spécifiques d'appareils spécifiés (par exemple porte ou fenêtre). En utilisant la technologie de détection infrarouge, l'OPDC peut détecter si la porte ou la fenêtre est ouverte ou fermée, sans avoir besoin d'un aimant supplémentaire. L'OPDC transmettra des signaux d'alarme lorsqu'il détectera un changement et protégera votre maison.
 
 Le contact de porte optique se compose d'un couvercle et d'une base. La base contient toute l'électronique et fournit un moyen de fixation de l'appareil. Un interrupteur anti-sabotage sur circuit imprimé fourni offre une protection contre l'ouverture non autorisée de l'appareil.
 
