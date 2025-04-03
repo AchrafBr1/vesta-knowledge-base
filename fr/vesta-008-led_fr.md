@@ -1,3 +1,7 @@
+---
+icon: circle-chevron-right
+---
+
 # VESTA 008 LED
 
 **Caméra à capteur de mouvement PIR**

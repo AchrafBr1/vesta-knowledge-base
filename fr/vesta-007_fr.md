@@ -1,7 +1,3 @@
----
-icon: circle-chevron-right
----
-
 # VESTA-007
 
 **VST-862**
