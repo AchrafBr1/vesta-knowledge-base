@@ -4,7 +4,7 @@
 * [📻 MODÈLES](models_fr.md)
 * [VESTA-005N](vesta-005n_fr.md)
 * [VESTA-006](vesta-006_fr.md)
-* [VESTA 007](vesta-007_fr.md)
+* [VESTA-007](vesta-007_fr.md)
 * [VESTA 008 LED](vesta-008-led_fr.md)
 * [VESTA 008](vesta-008_fr.md)
 * [VESTA 009](vesta-009_fr.md)

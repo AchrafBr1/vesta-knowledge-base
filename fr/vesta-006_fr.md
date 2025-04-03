@@ -4,11 +4,13 @@
 
 **Détecteur d'ouverture optique**
 
+**Introduction**
+
 Le détecteur d'ouverture optique, intégrant un capteur infrarouge, surveille l'ouverture/fermeture d'éléments spécifiques (par exemple porte ou fenêtre). En utilisant la technologie de détection infrarouge, OPDC peut détecter si la porte ou la fenêtre est ouverte ou fermée, sans avoir besoin d'un aimant supplémentaire. OPDC transmettra des signaux d'alarme lorsqu'il détectera un changement et protégera votre maison.
 
 Le détecteur d'ouverture optique se compose d'un couvercle et d'une base. La base contient toute l'électronique et permet de fixer l'appareil. Une autoprotection sur le circuit imprimé offre une protection contre l'ouverture non autorisée de l'appareil.
 
-**Identificaiton**
+**Identification**
 
 ![](<.gitbook/assets/0 (8).png>)
 
@@ -25,8 +27,8 @@ Le détecteur d'ouverture optique se compose d'un couvercle et d'une base. La ba
 
 En mode de fonctionnement normal, le voyant LED reste éteint sauf dans les situations suivantes :
 
-* Lorsque l’autoprotection du détecteur d'ouverture optique est déclenchée.
-* Chaque fois que le contact de porte optique est activé dans des conditions de sabotage ou de batterie faible.
+* Lorsque l’autoprotection du détecteur d'ouverture optique est déclenchée.\
+  Chaque fois que le contact de porte optique est activé dans des conditions de sabotage ou de batterie faible.
 * Chaque fois que le détecteur d'ouverture est activé et transmet le signal en mode test.
 * _**Surpervision**_
 

@@ -2,80 +2,64 @@
 icon: circle-chevron-right
 ---
 
-# VESTA 007
+# VESTA-007
 
-* Caméra à capteur de mouvement PIR
-* VST-862
-* Introduction
+**VST-862**
 
-VST-862 est une caméra à capteur de mouvement infrarouge passif (PIR). Il est capable d'envoyer des signaux sans fil et des images capturées (qualité d'image jusqu'à 640 x 480 pixels) au panneau de commande lors de la détection de mouvement.
+PIRCAM intérieur
 
-La caméra PIR est conçue pour offrir une portée de détection typique de 12 mètres lorsqu'elle est montée à 2 mètres au-dessus du sol. Pour les modèles immunisés contre les animaux, une portée de 7 mètres est fournie, vos animaux domestiques ne déclencheront pas de fausses alarmes à cette distance. Pour les modèles compatibles avec le répéteur RP-29/le routeur RMB-29 de Climax\*\*(Modèles P5 uniquement)\*\*, la portée de communication RF peut être encore étendue dans les zones difficiles d'accès.
+**Introduction**
 
-La caméra PIR se compose d'une conception en deux parties composée d'un couvercle et d'une base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un coin avec un support triangulaire pour un montage en coin.
+VST-862 est détecteur de mouvement infrarouge passif (PIR) avec caméra. Il est capable d'envoyer des signaux RF et des images (qualité d'image jusqu'à 640 x 480 pixels) à la centrale suite à la détection d'un mouvement.\
+Le PIRCAM est conçu pour offrir une portée de détection de 12 mètres lorsqu'il est installé à 2 mètres de haut. Pour les modèles avec immunité animaux,  la portée de l'immunité est de 7 mètres pour 27kg, vos animaux domestiques ne déclencheront pas de fausses alarmes dans les limites énoncées. Pour les modèles compatibles avec le répéteur RP-29/routeur RMB-29 de Climax (**Modèles P5 uniquement**), la portée de communication RF peut être encore étendue pour les zones difficiles à atteindre.\
+Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle contient toute l'électronique et l'optique et la base fournie un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un angle avec un support triangulaire.
 
-* La série VST-862 comprend les modèles suivants :
+**La série VST-862 comprend les modèles suivants :**
 
-| **Nom du modèle** | **LED clignotante** | **LED infrarouge** | **Immunisé contre les animaux** | **Compatible avec le répéteur** |
-| ----------------- | ------------------- | ------------------ | ------------------------------- | ------------------------------- |
-| VST-862-(P5)      | DANS                |                    |                                 | Modèle P5 uniquement            |
-| VST-862-IL-(P5)   |                     | DANS               |                                 | Modèle P5 uniquement            |
-| VST-862P-(P5)     | DANS                |                    | DANS                            | Modèle P5 uniquement            |
-| VST-862P-IL-(P5)  |                     | DANS               | DANS                            | Modèle P5 uniquement            |
+| **Nom du modèle** | **LED clignotante** | **LED IR** | **Immunité animaux** | **Compatibilité répéteur** |
+| ----------------- | ------------------- | ---------- | -------------------- | -------------------------- |
+| VST-862-(P5)      | OUI                 |            |                      | Modèle P5 uniquement       |
+| VST-862-IL-(P5)   |                     | OUI        |                      | Modèle P5 uniquement       |
+| VST-862P-(P5)     | OUI                 |            | OUI                  | Modèle P5 uniquement       |
+| VST-862P-IL-(P5)  |                     | OUI        | OUI                  | Modèle P5 uniquement       |
 
-* ![852Pro R8\_20160629](<.gitbook/assets/0 (8).jpeg>)Identification des pièces
+* **Identification**
 
-1. **LED flash / LED infrarouge**
+![852Pro R8\_20160629](<.gitbook/assets/0 (8).jpeg>)
 
-La LED flash (pour 862(P)) ou la LED infrarouge (pour 862(P)-IL) fournit suffisamment de lumière pour la capture d'images dans des conditions de faible éclairage.
+1. **LED clignotante / LED IR**\
+   La LED clignotante (pour 862(P)) ou la LED IR (pour 862(P)-IL) fournie suffisamment de lumière pour la capture d'images dans des conditions de faible éclairage.
+2. **LED bleue/bouton de fonction**\
+   **LED bleue:**\
+   (Prière de se référer à **Voyant LED** dans la description ci-dessous pour plus de détails)\
+   **Utilisation du bouton de fonction :**\
+   **-** Maintenez le bouton appuyé pendant 3 secondes pour envoyer un code d'apprentissage, relâchez lorsque la LED bleue s'allume (pour les centrales autonomes, après avoir appuyé et maintenu le bouton pendant 3 secondes, veuillez appuyer sur le bouton **de nouveau** pendant une seconde pour envoyer le code d'apprentissage).\
+   \- Appuyez une fois sur le bouton pour passer en mode test pendant 3 minutes.\
+   \- Appuyez une fois sur le bouton pour envoyer un code d'apprentissage au répéteur/routeur (Modèles P5 uniquement).
+3. **Capteur IR**
+4. **Objectif de caméra PIR**
+5. **Couvercle du compartiment à batteries**
+6. **Autoprotection**
+7. **Compartiment à batterie**
+8. **Cavalier de réglage de la sensibilité (JP3)**\
+   Le cavalier est inséré pour relier les deux broches.\
+   \- Cavalier On : le niveau de sensibilité du PIR est réglé sur Haut.\
+   \- Cavalier Off : le niveau de sensibilité du PIR est réglé sur Normal (**par défaut**).
+9. **Cavalier de mise en veille (JP2)**\
+   Le cavalier est inséré pour relier les deux broches.\
+   \- Cavalier On : après la détection de mouvement, la caméra PIR n'entre pas en mode veille et transmettra à nouveau le signal de détection immédiatement si elle est déclenchée (**par défaut**).\
+   \- Cavalier Off : la caméra PIR a une "**mise en veille**" d'environ 1 minute après la détection de mouvement pour économiser l'énergie.
 
-1. **LED bleue/bouton de fonction**
 
-**LED bleue :**
 
-(Prière de se référer à\_**Indicateur LED**\_description ci-dessous pour plus de détails)
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
-**Utilisation du bouton de fonction :**
+**Caractéristiques**
 
-* Appuyez et maintenez le bouton enfoncé pendant 3 secondes pour envoyer un code d'apprentissage, relâchez lorsque la LED bleue s'allume. (Pour le panneau fonctionnant sur batterie, après avoir appuyé et maintenu le bouton pendant 3 secondes, veuillez appuyer sur le bouton**encore**pendant une seconde pour envoyer un code d'apprentissage.)
-* Appuyez une fois sur le bouton pour passer en mode test pendant 3 minutes.
-* Appuyez une fois sur le bouton pour envoyer un code d'apprentissage au répéteur/routeur. (Modèles P5 uniquement)
-
-1. **Capteur IR**
-2. **Objectif de caméra PIR**
-3. **Couvercle du compartiment à piles**
-4. **Interrupteur anti-sabotage**
-5. **Compartiment à piles**
-6. **Cavalier de réglage de la sensibilité (JP3)**
-
-![jumper open](<.gitbook/assets/1 (3) (1).png>) ![jumper close](<.gitbook/assets/2 (3) (1).png>)
-
-**Cavalier**
-
-si le cavalier est retiré ou "**garé**» sur une épingle.
-
-**Cavalier**
-
-Le cavalier est inséré pour relier les deux broches.
-
-* Jumper On : le niveau de sensibilité du PIR est réglé sur High.
-* Jumper Off : le niveau de sensibilité du PIR est réglé sur Normal. (**Défaut de fabrication**)
-
-1. **Commutateur de cavalier de minuterie de mise en veille (JP2)**
-
-![jumper open](<.gitbook/assets/3 (3) (1).png>) ![jumper close](<.gitbook/assets/4 (3) (1).png>)
-
-**Cavalier**
-
-si le cavalier est retiré ou "**garé**» sur une épingle.
-
-**Cavalier**
-
-Le cavalier est inséré pour relier les deux broches.
-
-* Cavalier activé : après la détection de mouvement, la caméra PIR n'entre pas en mode veille et transmettra à nouveau le signal de détection immédiatement si elle est déclenchée (**Défaut de fabrication**).
-* Cavalier : la caméra PIR a un "**Temps de sommeil**" d'environ 1 minute après la détection de mouvement pour économiser l'énergie.
-* Caractéristiques
 * _**Indicateur LED**_
 
 En mode de fonctionnement normal, la LED bleue ne s'allumera pas sauf dans les situations suivantes :
