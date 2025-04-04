@@ -1,12 +1,14 @@
-# VESTA 034
+# VESTA-034
 
-**Garage Tilt Sensor (Gdts-1) User Manual**
+**Gdts-1**
+
+## **Garage Tilt Sensor**&#x20;
 
 The Garage Tilt Sensor monitors bi-direction tilting of overhead garage door. The Garage Tilt Sensor is fixed to the monitored device frame. When the door is open and the detected surface is tilted less than or equals to 35°(+-10) degrees, or when the door is closed and the detected surface is tilted more than or equals to 55°(+-10) degrees, the Garage Tilt Sensor will transmit alarm signal to the Control Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
 
 The Garage Tilt Sensor design consists of a cover and base. The cover contains all electronics and the base provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening and/or removal.
 
-**Parts Identification**
+## **Parts Identification**
 
 ![](<.gitbook/assets/0 (41).jpeg>)
 
@@ -14,36 +16,35 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
 
 **Test Button:**
 
-*
-  * Press the Test button to transmit a learning code.
-  * Press the Test button to enter test mode for 3 minutes.
+* Press the Test button to transmit a learning code.
+* Press the Test button to enter test mode for 3 minutes.
 
 **LED Indicator:**
 
-*
-  * The LED will flash for 3 times when it is transmitting a learning code.
-  * The LED will light up whenever the device is triggered under Test Mode.
-  * The LED will light up whenever the tamper switch is activated.
-  * (Door opened) When experiencing device fault or under Test Mode, the LED will flash for 6 times.
-  * (Door closed) When experiencing device fault or under Test Mode, the LED will flash for 6 times. After 10 seconds, the LED will flash for 3 times.
+* The LED will flash for 3 times when it is transmitting a learning code.
+* The LED will light up whenever the device is triggered under Test Mode.
+* The LED will light up whenever the tamper switch is activated.
+* (Door opened) When experiencing device fault or under Test Mode, the LED will flash for 6 times.
+* (Door closed) When experiencing device fault or under Test Mode, the LED will flash for 6 times. After 10 seconds, the LED will flash for 3 times.
 
-1. **Mounting Holes**
-   * Used to fix and screw the Garage Tilt Sensor directly on the top of the garage door.
-2. **Tamper Switch**
-   * When the Garage Tilt Sensor is mounted, the Tamper Switch will be fully compressed against the wall. When the device cover is opened or when it is removed from the mounted surface, the Tamper Switch will be activated. The LED will flash for 6 times and send a tamper open signal to notify user(s) of this condition.
-3. **Battery Insulator**
-4. **Battery Compartment**
+2. **Mounting Holes**
 
-**Features**
+* Used to fix and screw the Garage Tilt Sensor directly on the top of the garage door.
+
+3. **Tamper Switch**
+
+* When the Garage Tilt Sensor is mounted, the Tamper Switch will be fully compressed against the wall. When the device cover is opened or when it is removed from the mounted surface, the Tamper Switch will be activated. The LED will flash for 6 times and send a tamper open signal to notify user(s) of this condition.
+
+4. **Battery Insulator**
+5. **Battery Compartment**
+
+## **Features**
 
 * _**LED Indicator**_
   * In Normal Operation Mode, the LED will light up when the Garage Tilt Sensor is activated (device opened or closed).
   * When the device cover is opened or when the Tamper Switch is triggered, the LED will light up.
   * When the Garage Tilt Sensor is in Test mode, the LED will light up every time it is activated.
   * The LED will light up when the Garage Tilt Sensor is activated under low battery status. When the battery is exhausted, the Garage Tilt Sensor will stop all function, the LED will flash every 4 seconds.
-
-1
-
 * _**Battery**_
   * The Garage Tilt Sensor is powered by one CR123 3V Lithium battery. Please note: **ALWAYS** replace battery with the correct size and voltage.
   * The Garage Tilt Sensor can detect low battery condition. When the battery voltage is low, a low battery signal will be sent to the Control Panel to notify user(s) of this condition. When the battery is exhausted, the LED will flash every 4 seconds and the device will stop functioning.
@@ -65,9 +66,7 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
   * The Garage Tilt Sensor will transmit Supervisory Signal to the Control Panel at random intervals of 30-50 minutes.
   * If the Control Panel fails to receive any supervisory signals from the Garage Tilt Sensor over a preset period of time, an “Out-Of-Order” fault message will be generated.
 
-**Installation**
-
-![](<.gitbook/assets/1 (38).jpeg>)
+## **Installation**
 
 * _**Installation Guideline & Recommendations**_
 
@@ -77,23 +76,16 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
 
 ![](<.gitbook/assets/2 (30).jpeg>)
 
-
-
-2
-
 * The Garage Tilt Sensor should be mounted on the top panel of the garage door, as shown below.
 
 ![](<.gitbook/assets/3 (30).jpeg>)
 
 **Recommendations:**
 
-*
-  * The Garage Tilt Sensor is designed to be mounted on overhead garage door, not to be used on roll up garage door. Mount the detector at 1.8 meter height for optimal performance.
-  * The device shall be mounted vertically with the ground and shall be no greater than +-5 degrees when mounted.
-  * Mount the device on a dry and clean surface. Ensure the device is mounted with the LED indicator on top.
+* The Garage Tilt Sensor is designed to be mounted on overhead garage door, not to be used on roll up garage door. Mount the detector at 1.8 meter height for optimal performance.
+* The device shall be mounted vertically with the ground and shall be no greater than +-5 degrees when mounted.
+* Mount the device on a dry and clean surface. Ensure the device is mounted with the LED indicator on top.
 * _**Mounting the Garage Tilt Sensor**_
-
-![](<.gitbook/assets/4 (27).jpeg>)
 
 There are two ways to mount the Garage Tilt Sensor. Ensure the location is within signal range of the Control Panel and follow steps below to proceed:
 
@@ -101,20 +93,16 @@ There are two ways to mount the Garage Tilt Sensor. Ensure the location is withi
 
 * Find a suitable location to install the Garage Tilt Sensor. The mounting surface should be clean and dry. Clean the mounting surface thoroughly if needed.
 * Use the two mounting holes as a template to mark and drill mounting holes.
-* Use the provided wall plugs for plaster/brick installation. Screw the Garage Tilt Sensor into the provided wall
+* Use the provided wall plugs for plaster/brick installation. Screw the Garage Tilt Sensor into the provided wall plugs. Ensure the wall plugs are flush with the wall.
 
-plugs. Ensure the wall plugs are flush with the wall.
+{% hint style="warning" %}
+Note:
 
-![](<.gitbook/assets/5 (25).jpeg>)
-
-_\<NOTE>_
-
-* Only use this type of mounting method when the garage doors are thicker than the screws.
+Only use this type of mounting method when the garage doors are thicker than the screws
+{% endhint %}
 
 **Adhesive Mounting:**
 
 * Find a suitable location to install the Garage Tilt Sensor. The mounting surface should be clean and dry. Clean the mounting surface thoroughly if needed.
 * Remove the protective covering from one side of the double-sided adhesive pad. Apply it to the back of the Garage Tilt Sensor and press firmly for 30 seconds to ensure good contact.
 * Remove the other side of the adhesive tape and firmly press the Garage Tilt Sensor onto a desired location for another 30 seconds. Please avoid applying the adhesive pad on uneven surface or re-applying it for optimal detection performance.
-
-3

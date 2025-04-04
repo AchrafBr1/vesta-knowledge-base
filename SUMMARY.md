@@ -32,7 +32,7 @@
 * [VESTA-031](vesta-031.md)
 * [VESTA-032](vesta-032.md)
 * [VESTA-033N](vesta-033n.md)
-* [VESTA 034](vesta-034.md)
+* [VESTA-034](vesta-034.md)
 * [VESTA-036](vesta-036.md)
 * [VESTA-037](vesta-037.md)
 * [VESTA-038](vesta-038.md)
