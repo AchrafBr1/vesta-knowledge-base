@@ -146,7 +146,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click Submit.
 
-<figure><img src=".gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 3. The tag is cleared.
 
@@ -261,7 +261,7 @@ Click OK, and you will be directed to the KPT device setting page, where you wil
 
 If the user wants to leave this page but the User PIN field is empty, the system will pop up an error message.
 
-<figure><img src=".gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Please Note:

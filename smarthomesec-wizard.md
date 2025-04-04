@@ -128,7 +128,7 @@ In this tab, we can customize the customer's PIN code.
 
 Press **Yes**, and we will configure the name and code of the end user.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
