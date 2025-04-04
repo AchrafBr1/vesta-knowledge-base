@@ -1,6 +1,8 @@
 # VESTA-036
 
-**Outdoor Pet-Immune PIR Motion Sensor (EIR-32)**
+**EIR-32**
+
+## **Outdoor Pet-Immune PIR Motion Sensor**&#x20;
 
 The EIR-32, a battery operated outdoor PIR detector, allows economical and effortless outdoor installation while providing exceptional detection capabilities.
 
@@ -110,7 +112,7 @@ _\<NOTE>_
 
 ## _**DIP Switch Position Table**_
 
-The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and bottom position indicates OFF.
+The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and the bottom position indicates OFF.
 
 | <mark style="color:green;">DIP</mark> | <mark style="color:green;">Position</mark> | <mark style="color:green;">Function</mark>              |
 | ------------------------------------- | ------------------------------------------ | ------------------------------------------------------- |
@@ -138,9 +140,11 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 
 <div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-_**\<NOTE>**_
+{% hint style="warning" %}
+Note:
 
-* After changing Dip Switch settings, please re-power on EIR-32 for it to operate with new Dip Switch Settings.
+After changing Dip Switch settings, please re-power on EIR-32 for it to operate with new Dip Switch Settings.
+{% endhint %}
 
 ## _**Tamper Protection**_
 
@@ -161,10 +165,13 @@ _**\<NOTE>**_
 * After the Motion Sensor is learnt-in, put the Control Panel into Walk Test mode. Hold the Motion Sensor in the desired location, and press the Test button to confirm this location is within the signal range of the Control Panel.
 * When you are satisfied that the Motion Sensor works in the chosen location, you can proceed to installation.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* **Walk Test** should be conducted to confirm proper operation and coverage of the Motion Sensor.
-* When learning Motion Sensor or conducting Walk Test, please avoid obstructing the anti-masking detector by your hand, otherwise tamper open signal will transmitted to the Control Panel if masking condition lasts for 2 minutes.
+**Walk Test** should be conducted to confirm proper operation and coverage of the Motion Sensor.
+
+When learning Motion Sensor or conducting Walk Test, please avoid obstructing the anti-masking detector by your hand, otherwise tamper open signal will transmitted to the Control Panel if the masking condition lasts for 2 minutes.
+{% endhint %}
 
 ## _**Mounting & Installation Method**_
 
@@ -207,9 +214,11 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
 
 ![](<.gitbook/assets/10 (12).jpeg>)
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* After EIR-32 is mounted, if the Control Panel displays the Tamper fault status for the device, please make sure the anti-masking detector is not obstructed by any object and wait for two minutes to see if the Tamper Open status is cleared. If Tamper Open status persisits after two minutes, please remove EIR-32 from the mounting location, and check if the Tamper Switch is properly compressed against the mounting plate.
+After EIR-32 is mounted, if the Control Panel displays the Tamper fault status for the device, please make sure the anti-masking detector is not obstructed by any object and wait for two minutes to see if the Tamper Open status is cleared. If Tamper Open status persisits after two minutes, please remove EIR-32 from the mounting location, and check if the Tamper Switch is properly compressed against the mounting plate.
+{% endhint %}
 
 ## _**Installation Recommendations**_
 
@@ -245,12 +254,19 @@ _\<NOTE>_
 
 ![](<.gitbook/assets/15 (9).jpeg>)
 
-_\<IMPORTANT NOTE>_
+{% hint style="warning" %}
+IMPORTANT NOTE
 
-* Adjust the Dip Switches according to the installation location of the Motion Sensor for ideal performance. If Dip Switch settings does not match with installation environment, the Motion Sensor’s performance will be hindered and may cause either false alarm or inability to detect movement.
-* The Motion Sensor detects differences between the moving object and the background. If the object is stationary (i.e. not moving), the Motion Sensor is unable to detect it.
-* The Motion Sensor has a directional characteristic and is most effective at detecting intruder moving across field of detection. It is less sensitive for detecting motion directly towards the Motion Sensor.
-* For best performance, remember to adjust the mounting height of Motion Sensor with respect to the height of the tallest pet in the house. Taller dogs require the Motion Sensor to be mounted higher for pet friendliness.
-* The Motion Sensor has a blind spot of about 1 meter under it when mounted at a height of 2 meters. The blind spot area will enlarge if you mount the Motion Sensor higher than 2M, and reduce if lower than 2M.
-* Unless required, we suggest keeping the Motion Sensor mounting location at 2M for optimum performance. If you change the mounting height, please conduct detection test to make sure the Motion Sensor can detect intruder normally at the desired height.
+Adjust the Dip Switches according to the installation location of the Motion Sensor for ideal performance. If Dip Switch settings does not match with installation environment, the Motion Sensor’s performance will be hindered and may cause either false alarm or inability to detect movement.
+
+The Motion Sensor detects differences between the moving object and the background. If the object is stationary (i.e. not moving), the Motion Sensor is unable to detect it.
+
+The Motion Sensor has a directional characteristic and is most effective at detecting intruder moving across field of detection. It is less sensitive for detecting motion directly towards the Motion Sensor.
+
+For best performance, remember to adjust the mounting height of Motion Sensor with respect to the height of the tallest pet in the house. Taller dogs require the Motion Sensor to be mounted higher for pet friendliness.
+
+The Motion Sensor has a blind spot of about 1 meter under it when mounted at a height of 2 meters. The blind spot area will enlarge if you mount the Motion Sensor higher than 2M, and reduce if lower than 2M.
+
+Unless required, we suggest keeping the Motion Sensor mounting location at 2M for optimum performance. If you change the mounting height, please conduct detection test to make sure the Motion Sensor can detect intruder normally at the desired height.
+{% endhint %}
 
