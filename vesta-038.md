@@ -1,10 +1,12 @@
 # VESTA-038
 
-Panic Button (PB-15)
+PB-15
+
+## Panic Button&#x20;
 
 The Panic Button is used to activate (or deactivate) a panic alarm.
 
-* **Parts**
+## **Parts**
 
 ![](<.gitbook/assets/0 (16).jpeg>)
 
