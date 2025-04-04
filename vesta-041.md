@@ -100,9 +100,11 @@ _(Only use factory reset when network Z-Wave Control Panel/Gateway is missing or
 * Remove the batteries of the Room Sensor first.
 * Press and hold the Function Button. While holding the Function Button, power on the Room Sensor by re-inserting the batteries, wait for 10 seconds to factory reset.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Factory resetting the Room Sensor will restore it to factory default settings (excluded from the Z-wave network). The Z-Wave gateway or Z-Wave Control Panel will still keep its Z-Wave settings. Please refer to the gateway or Z-Wave Control Panel manual on how to remove the Room Sensor’s Z-Wave settings.
+Factory resetting the Room Sensor will restore it to factory default settings (excluded from the Z-wave network). The Z-Wave gateway or Z-Wave Control Panel will still keep its Z-Wave settings. Please refer to the gateway or Z-Wave Control Panel manual on how to remove the Room Sensor’s Z-Wave settings.
+{% endhint %}
 
 ## _**Range Test**_
 

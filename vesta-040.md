@@ -1,6 +1,8 @@
 # VESTA-040
 
-SVGS-5 Shock, Vibration & Glass Break Sensor
+SVGS-5
+
+## &#x20;Shock, Vibration & Glass Break Sensor
 
 SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wireless signals to the Control Panel upon detection of window glass break or shock/vibration.
 
@@ -113,9 +115,11 @@ The Sensor sensitivity is adjusted via Control Panel. The detection range of dif
 
 Determine the mounting location on window or wall. The sensor may be mounted at the center of or at the corner. If one sensor is unable to cover the entire surface, use multiple sensors.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* When mounting at corner, make sure to keep at least 10mm distance between the sensor and the edge of window or wall. Adjust the battery slot direction (**Do not face the corner**) to avoid difficulty when removing the battery slot.
+When mounting at corner, make sure to keep at least 10mm distance between the sensor and the edge of window or wall. Adjust the battery slot direction (**Do not face the corner**) to avoid difficulty when removing the battery slot.
+{% endhint %}
 
 <figure><img src=".gitbook/assets/vesta-040 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -130,9 +134,11 @@ When mounting on Safety Box, mount the Sensor no more than 2cm away from the doo
 
 <figure><img src=".gitbook/assets/vesta-040 4.png" alt=""><figcaption></figcaption></figure>
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* Please do not apply the double-sided adhesive tape to the front cover where Test Button and LED indicator are located, and do not apply the tape twice.
+Please do not apply the double-sided adhesive tape to the front cover where Test Button and LED indicator are located, and do not apply the tape twice.
+{% endhint %}
 
 ![](<.gitbook/assets/6 (18).png>)
 
