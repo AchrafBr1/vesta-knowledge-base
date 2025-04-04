@@ -1,6 +1,8 @@
 # VESTA-050
 
-**Voice Recognition Alarm (VRA)**
+**VRA**
+
+## **Voice Recognition Alarm**&#x20;
 
 The Voice Recognition Alarm (VRA) recognizes preset vocal commands or keywords and activates a Help alarm. In addition to voice activation, the VRA also features a large button for users to summon help during an emergency.
 
@@ -50,11 +52,11 @@ Plug in a DC 5V power adpator and rotate it 90 degrees clockwise to the lock pos
 
 <div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-_\<NOTE>_
+{% hint style="info" %}
+Note:
 
-* After Dip Switch settings are changed, please disconnect power supply (both external power supply and batteries must be removed) and then re-connect power to VRA. VRA will
-
-work with newly set sensitivity level after re-powered on.
+After Dip Switch settings are changed, please disconnect power supply (both external power supply and batteries must be removed) and then re-connect power to VRA. VRA will work with newly set sensitivity level after re-powered on.
+{% endhint %}
 
 ## **Getting Started**
 
@@ -83,11 +85,15 @@ work with newly set sensitivity level after re-powered on.
 
 &#x20;           **Speak the trigger Keyword.**                                      **Press the Help Button.**
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* To ensure voice recognition accuracy, please avoid installing VRA in a large or noisy room.
-* The ideal environment for voice recognition is silence or partial silence. If you call out the vocal command with normal voice, please speak within 2 meters of VRA to ensure alarm trigger.
-* The voice recognition function has three sensitivity levels. You may test with them and select the level that best suits your mounting location.
+To ensure voice recognition accuracy, please avoid installing VRA in a large or noisy room.
+
+The ideal environment for voice recognition is silence or partial silence. If you call out the vocal command with normal voice, please speak within 2 meters of VRA to ensure alarm trigger.
+
+The voice recognition function has three sensitivity levels. You may test with them and select the level that best suits your mounting location.
+{% endhint %}
 
 ## **Installation**
 

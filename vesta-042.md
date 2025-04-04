@@ -2,11 +2,11 @@
 
 PSM-29ZW / PSS-29ZW
 
-Power Switch Series
+## Power Switch Series
 
-**Introduction**
+## **Introduction**
 
-The Power Switch series include the following models:
+The Power Switch series includes the following models:
 
 **PSS-29ZW:** Z-Wave Power Switch with Router function
 

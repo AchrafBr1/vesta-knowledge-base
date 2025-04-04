@@ -1,6 +1,9 @@
 # VESTA-044
 
-* UPIC-5ZW Infrared Universal Remote Control
+UPIC-5ZW&#x20;
+
+## Infrared Universal Remote Control
+
 * **Introduction**
 
 UPIC5-ZW is a Z-Wave Infrared Remote Control. It is designed to operate your home appliances by transmitting IR signal. The IR Remote Control is capable of learning IR signal transmitted from the appliance’s remote control. After learning the signal, you can remotely control the IR Remote Control via Z-Wave network to send signal to appliance without using the remote control manually.
@@ -128,9 +131,12 @@ _(Only use factory reset when network Control Panel/Gateway is missing or inoper
 
 * Press and hold the Function/IR Button of the IR Remote Control for 10 seconds to factory reset.
 
-_**\<NOTE>**_
+{% hint style="warning" %}
+Note:
 
-* Factory resetting the IR Remote Control will restore it to factory default settings (excluded from the Z-Wave network). The Z-Wave gateway or control panel will still keep its Z-Wave settings. Please refer to the gateway or control panel manual on how to remove the IR Remote Control’s Z-Wave settings.
+Factory resetting the IR Remote Control will restore it to factory default settings (excluded from the Z-Wave network). The Z-Wave gateway or control panel will still keep its Z-Wave settings. Please refer to the gateway or control panel manual on how to remove the IR Remote Control’s Z-Wave settings.
+{% endhint %}
+
 * _Z-Wave Sleep Mode_
 * The IR Remote Control will enter Z-Wave Sleep mode (to conserve power) after waking up for a short period of time (\~10 seconds). While in Z-Wave sleep mode, Z-Wave gateways or control panels are unable to send commands to the IR Remote Control.
 * IR Signal Learning and Testing

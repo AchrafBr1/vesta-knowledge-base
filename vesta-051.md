@@ -1,6 +1,8 @@
-# VESTA 051
+# VESTA-051
 
-* Curtain PIR Motion Sensor (IRC-29)
+IRC-29
+
+## Curtain PIR Motion Sensor&#x20;
 
 The PIR detects infrared signature to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its’ path of detection.
 
@@ -10,11 +12,7 @@ The PIR has a tamper switch which will be activated when the cover is opened, or
 
 ## Identifying the Parts
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure></div>
 
 1. &#x20;**PIR Lens**
 2. **Learn / Test Button**
@@ -120,11 +118,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 * If the mounted PIR is forcedly removed, the Tamper Breakaway Area will be left on the wall separated from the PIR, the tamper will then be triggered.
 * The base has two knockouts, where the plastic is thinner and can be broken for mounting purpose.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure></div>
 
 1. Remove the fixing screw and cover assembly.
 2. Break through the knockouts on the inside of base.

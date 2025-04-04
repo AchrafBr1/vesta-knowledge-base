@@ -2,7 +2,7 @@
 
 **POVS-1-ZW**
 
-**PIR Occupancy/Vacancy Sensor**
+## **PIR Occupancy/Vacancy Sensor**
 
 **Introduction**
 
@@ -102,11 +102,15 @@ SmartStart enabled products can be added into a Z-Wave network by scanning the Z
 * Power on POVS-1-ZW, a SmartStart inclusion request will be automatically sent to the gateway.
 * The gateway will automatically include the device upon recognition of the device by matching the inclusion request with the DSK obtained
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* The DSK of the device is used only during inclusion.
-* The DSK can be read without the POVS powering ON, so it is possible to prepare the gateway to include the device prior to installing and powering up the POVS-1-ZW.
-* If the POVS-1-ZW has already been **included** (learnt) into another Z-Wave Gateway/Control Panel, please exclude it first (see _**Exclusion**_) before attempting to **include** it into the current Z-Wave Gateway/Control Panel. The POVS-1-ZW will not send a SmartStart inclusion request if it’s already in a Z-Wave Gateway/Control Panel.
+The DSK of the device is used only during inclusion.
+
+The DSK can be read without the POVS powering ON, so it is possible to prepare the gateway to include the device prior to installing and powering up the POVS-1-ZW.
+
+If the POVS-1-ZW has already been **included** (learnt) into another Z-Wave Gateway/Control Panel, please exclude it first (see _**Exclusion**_) before attempting to **include** it into the current Z-Wave Gateway/Control Panel. The POVS-1-ZW will not send a SmartStart inclusion request if it’s already in a Z-Wave Gateway/Control Panel.
+{% endhint %}
 
 ## Removing Device (Exclusion)
 
@@ -124,9 +128,11 @@ _(Only use factory reset when network Control Panel/Gateway is missing or inoper
 * Factory resetting the device will restore it to factory default settings (i.e. not included into any Z-Wave network). Please only use this procedure if the Z-Wave gateway or control panel is lost or otherwise inoperable.
 * Press and hold the Function Button of the device for 10 seconds to factory reset.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Before you remove or factory reset the POVS-1-ZW, please ensure that the device DSK information has been removed or does not exist in the gateway. If you remove or factory reset the device, but its DSK still exists in the gateway, the gateway will automatically include the device again.
+Before you remove or factory reset the POVS-1-ZW, please ensure that the device DSK information has been removed or does not exist in the gateway. If you remove or factory reset the device, but its DSK still exists in the gateway, the gateway will automatically include the device again.
+{% endhint %}
 
 ## _**Range Test**_
 

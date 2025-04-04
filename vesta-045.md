@@ -19,7 +19,9 @@ LED ON: Normal Operation
 3. Power on the Control Panel
 4. Refer to Control Panel installation manual and individual ZigBee device manual to learn in and control your ZigBee devices.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Do **NOT** plugin / unplug the ZigBee dongle into Control Panel when the panel is powered on.
+Do **NOT** plugin / unplug the ZigBee dongle into Control Panel when the panel is powered on.
+{% endhint %}
 
