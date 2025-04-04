@@ -1,52 +1,53 @@
-# VESTA 033N
+# VESTA-033N
 
-![](<.gitbook/assets/0 (43).png>)
+**TG-15N F1**
 
-**Tag Reader (TG-15N F1)**
+## **Tag Reader**&#x20;
 
-13-Mar-2017
+## _**Identifying the parts:**_
 
-![](<.gitbook/assets/1 (46).png>)
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-* _**Identifying the parts:**_
-  *
-    *
-      1. **Green LED Red LED Orange LED Arm Button**
-      2. **Tag Reader Sensor (for tag)**
-      3. **Battery Compartment**
-      4. **Learn Button**
-      5. **Tamper**
-* _**LED Indicator:**_
-  * **Green LED:**
-    * Light on for 3 seconds: When Control Panel is under Disarm Mode.
-    * Flashes for 5 seconds: When the Arm Button is pressed (_Put the tag near the Tag Reader Sensor to Arm the system during this 5 seconds_).
-  * **Red LED:**
-    * Light on for 3 seconds: When the Control Panel is under Arm Mode.
-    * Flashes for 3 seconds: When system is disarmed after alarming.
-  * **Orange LED:**
-    * Light on for 3 seconds: When Arm Button is pressed under Tag Reader/Control Panel fault
+1. **Green LED Red LED Orange LED Arm Button**
+2. **Tag Reader Sensor (for tag)**
+3. **Battery Compartment**
+4. **Learn Button**
+5. **Tamper**
+
+
+
+## _**LED Indicator:**_
+
+* **Green LED:**
+  * Light on for 3 seconds: When Control Panel is under Disarm Mode.
+  * Flashes for 5 seconds: When the Arm Button is pressed (_Put the tag near the Tag Reader Sensor to Arm the system during this 5 seconds_).
+* **Red LED:**
+  * Light on for 3 seconds: When the Control Panel is under Arm Mode.
+  * Flashes for 3 seconds: When system is disarmed after alarming.
+* **Orange LED:**
+  * Light on for 3 seconds: When Arm Button is pressed under Tag Reader/Control Panel fault
 
 conditions: low battery, tamper fault etc.
 
-*
-  *
-    * Flashes for 3 seconds: Learning failed or no response from the Control Panel.
-* _**Power:**_
-  * The Tag Reader is powered by two AA 1.5V L91 Lithium batteries as power source.
-  * The Tag Reader can also detect the battery status. If the battery voltage is low during operation, the low battery signal will be sent to the Control Panel along with regular signal transmissions for the Control Panel to display the status accordingly.
-  * If battery voltage is exhausted, both Green and Red LED will flash every 4 seconds and the Tag Reader will stop all operation.
-* _**Power Saving Feature:**_
-  * When idle, Tag Reader is in “**power saving**” mode and uses no power. It will activate and “**wake-up**” for 10 seconds when put the tag on the Tag Reader sensor.
-  * After 10 seconds of inactivity, the power goes off and it returns to power saving mode.
-* _**Tamper Protection:**_
-  * Tag Reader is protected against any attempt to open the lid or to detach Tag Reader from its mounting surface (see **Mounting Tag Reader** for details).
-  * When Tag Reader’s tamper is triggered, a tamper signal will be sent to the Control Panel for the Control Panel to display the status. Once the signal is sent, Tag Reader returns to power saving mode.
+* Flashes for 3 seconds: Learning failed or no response from the Control Panel.
 
-![](<.gitbook/assets/2 (29).jpeg>) ![](<.gitbook/assets/3 (49).png>)
+## _**Power:**_
 
-1
+* The Tag Reader is powered by two AA 1.5V L91 Lithium batteries as power source.
+* The Tag Reader can also detect the battery status. If the battery voltage is low during operation, the low battery signal will be sent to the Control Panel along with regular signal transmissions for the Control Panel to display the status accordingly.
+* If battery voltage is exhausted, both Green and Red LED will flash every 4 seconds and the Tag Reader will stop all operation.
 
-* _**Getting Started:**_
+## _**Power Saving Feature:**_
+
+* When idle, Tag Reader is in “**power saving**” mode and uses no power. It will activate and “**wake-up**” for 10 seconds when put the tag on the Tag Reader sensor.
+* After 10 seconds of inactivity, the power goes off and it returns to power saving mode.
+
+## _**Tamper Protection:**_
+
+* Tag Reader is protected against any attempt to open the lid or to detach Tag Reader from its mounting surface (see **Mounting Tag Reader** for details).
+* When Tag Reader’s tamper is triggered, a tamper signal will be sent to the Control Panel for the Control Panel to display the status. Once the signal is sent, Tag Reader returns to power saving mode.
+
+## _**Getting Started:**_
 
 **Step 1.** Remove the cover by losing the fixing screw.
 
@@ -63,7 +64,7 @@ conditions: low battery, tamper fault etc.
 
 **Step 5.** When you are satisfied that the Tag Reader works in the chosen location, you can proceed to mount the Tag Reader by following the below steps.
 
-* _**Mounting Tag Reader:**_
+## _**Mounting Tag Reader:**_
 
 The Tag Reader consists of a two-part design made up of a cover and base. The cover contains all the electronics and the base provides a mean of fixing. The tamper switch protects the enclosure from being opened or being removed from the mounting surface.
 
@@ -73,23 +74,27 @@ The base has three knockouts for mounting purpose. To mount the Tag Reader:
 
 ![](<.gitbook/assets/4 (26).jpeg>)
 
-I. Remove the fixing screw at the bottom II. Remove the cover assembly
+I. Remove the fixing screw at the bottom&#x20;
 
-1. Break through the appropriate knockouts on the mounting holes.
+II. Remove the cover assembly
+
+III. Break through the appropriate knockouts on the mounting holes.
 
 IV. Use the Mounting holes of the base as a template, drill holes in the surface.
 
-1. Insert the wall plugs if fixing into plaster or brick VI. Screw the base into the wall plugs
+V. Insert the wall plugs if fixing into plaster or brick
+
+&#x20;VI. Screw the base into the wall plugs
 
 VII. Fix the cover with the screw and clips to the base
 
-![](<.gitbook/assets/5 (45).png>)
+{% hint style="warning" %}
+Note:
 
-_**\<NOTE>**_
+If the mounted Tag Reader is forcedly removed, the Breakaway Area will be left on the wall separated from the Tag Reader, the tamper will then be triggered (only available by using the **Mounting Holes** method).
+{% endhint %}
 
-*
-  * If the mounted Tag Reader is forcedly removed, the Breakaway Area will be left on the wall separated from the Tag Reader, the tamper will then be triggered (only available by using the **Mounting Holes** method).
-* _**Tag Learning/Removing**_
+## _**Tag Learning/Removing**_
 
 After first power on the Tag Reader, please wait for 10 seconds for Tag Reader to enable tag sensor function.
 
@@ -100,17 +105,14 @@ Please start _**Learning**_ the tag into the Control Panel, follow the steps as 
 **Step 2.** Place the tag near the Tag Reader Sensor to record a tag ID into the Tag Reader:
 
 1. If a New tag ID is successfully learned in to the Tag Reader, the Green LED will flash twice with 2 beeps.
+2. If an Existing tag ID has already been learnt in, the Green LED will flash once with 1 beep.
+3. If tag ID is full (a maximum of 60 tags can be learned in), the Green LED will flash 4 times with 4 beeps to indicate.
 
-2
+{% hint style="warning" %}
+Note:
 
-1. If an Existing tag ID has already been learnt in, the Green LED will flash once with 1 beep.
-2. If tag ID is full (a maximum of 60 tags can be learned in), the Green LED will flash 4 times with 4 beeps to indicate.
-
-![](<.gitbook/assets/6 (33).png>)
-
-_**\<NOTE>**_
-
-* If Tag Reader has not yet learned into the Control Panel, placing the tag near the Tag Reader Sensor will emit 2 beeps indicating no transmission has been sent.
+If Tag Reader has not yet learned into the Control Panel, placing the tag near the Tag Reader Sensor will emit 2 beeps indicating no transmission has been sent.
+{% endhint %}
 
 **Step 3.** To exit Tag Learning Mode:
 
@@ -130,10 +132,10 @@ To start _**Removing**_ the tag from the Tag Reader, follow the steps as below:
 
 **Step 3.** To exit Tag Removing Mode:
 
-*
-  1. Press the Learn Button once, the Tag Reader will emit 2 beeps, and the Red LED will light off.
-  2. The Tag Reader will automatically exit Tag Removing Mode after 30 seconds, the Tag Reader will emit 2 beeps and Red LED will light off. Any tag detected during this period will recount 30 seconds.
-* _**Operation:**_
+1. Press the Learn Button once, the Tag Reader will emit 2 beeps, and the Red LED will light off.
+2. The Tag Reader will automatically exit Tag Removing Mode after 30 seconds, the Tag Reader will emit 2 beeps and Red LED will light off. Any tag detected during this period will recount 30 seconds.
+
+## _**Operation:**_
 
 After you complete learning the tag into the Tag Reader, you can now switch the system to Arm, Disarm Mode:
 
@@ -142,7 +144,7 @@ After you complete learning the tag into the Tag Reader, you can now switch the 
 3. **LED flash:** If system is Armed, Red LED will light on for 3 seconds. When Disarmed, Green LED will light on for 3 seconds.
 4. **Tamper:** When Tamper is triggered, the Tag Reader will transmit tamper alarm signal to the Control Panel immediately and returns to power saving mode.
 
-* _**Changing Battery:**_
+## _**Changing Battery:**_
 
 **Step 1:** Remove the Tag Reader cover by losing the fixing screw.
 
@@ -156,12 +158,10 @@ After you complete learning the tag into the Tag Reader, you can now switch the 
 
 **Step 6:** Fix the cover with the screw and mount back to its location.
 
-* _**Factory Default (Reset Learning Record):**_
+## _**Factory Default (Reset Learning Record):**_
 
 **Step 1:** Remove the cover by losing the fixing screw.
 
 **Step 2:** Remove battery, press and hold the Learn Button and insert the batteries to power back on.
 
 **Step 3:** The Tag Reader will be removed from the Control Panel until it emits 3 beeps.
-
-3

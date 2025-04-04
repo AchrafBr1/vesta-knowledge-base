@@ -24,7 +24,7 @@ The PIR is designed to give a typical detection range of 12 meters when mounted 
 
 ## _**Identifying the parts.**_
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1. Test Button / LED indicator**
 
