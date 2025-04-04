@@ -1,6 +1,8 @@
 # VESTA-039
 
-* Panic Button (PB-23)
+PB-23
+
+## Panic Button&#x20;
 
 The Panic Button is used to activate (or deactivate) a panic alarm.
 
