@@ -1,6 +1,8 @@
 # VESTA-060N
 
-**Door Contact / Shock Sensor (DCSV-29-2W)**
+&#x20;**DCSV-29-2W**
+
+## **Door Contact / Shock Sensor**
 
 DCSV-29-2W is a Door Contact / Shock Sensor that is capable of sending wireless signals to the Control Panel upon detection of door/window opening or window glass break & shock detection.
 
@@ -119,11 +121,14 @@ Refer to the table below for information about installation location and the thi
 2. Use the provided wall plugs for window frames / concrete wall installation.
 3. Screw the Door Contact / Shock Sensor into the wall plugs. (Drilling is recommended when mounting on steel, or you can also use the provided sticker in the package).
 4. Fit magnet on the door using small piece of double sided adhesive tape or with provided screws.
-5.  To mount the Magnet, use the 2 Magnet Screw holes as a template for appropriate hole positioning.
+5. To mount the Magnet, use the 2 Magnet Screw holes as a template for appropriate hole positioning.
 
-    _\<NOTE >_
+{% hint style="warning" %}
+Note:
 
-    * The magnet must align with the rib-mark side of the Door Contact. If required, apply the magnet spacer to the back of the magnet to better align the magnet to the rib marks.
+The magnet must align with the rib-mark side of the Door Contact. If required, apply the magnet spacer to the back of the magnet to better align the magnet to the rib marks.
+{% endhint %}
+
 6. Screw the magnet and insert the two white caps into the magnet screw holes for aesthetic integrity.
 7. Installation is now complete.
 

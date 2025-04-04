@@ -1,6 +1,8 @@
 # VESTA-060
 
-Door Contact / Shock Vibration Sensor (DCSV-23)
+DCSV-23
+
+## Door Contact / Shock Vibration Sensor&#x20;
 
 DCSV-23 is a Door Contact / Shock Sensor is capable of sending a door open signal to the Control Panel upon detection of door/window opening or shock/vibration detection.
 
@@ -154,16 +156,25 @@ The device is triggered by either of the following condition:
 4. Fit magnet on the door using small piece of double sided adhesive tape or with provided screws.
 5. To mount the Magnet, use the 2 Magnet Screw holes as a template for appropriate hole positioning.
 
-< Note >
+{% hint style="warning" %}
+Note:
 
-* The magnet must align with the rib-mark side of the Door Contact. If required, apply the magnet spacer to the back of the magnet to better align the magnet to the rib marks.
+The magnet must align with the rib-mark side of the Door Contact. If required, apply the magnet spacer to the back of the magnet to better align the magnet to the rib marks.
+{% endhint %}
+
+
 
 6. Screw the magnet and insert the two white caps into the magnet screw holes for aesthetic integrity.
 7. Installation is now complete.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* Don’t mount the device on surface materials where frequent vibration occurs, to prevent false alarming.
-* When mounting on safety box, mount the Door Contact / Shock Sensor no more than 2cm away from the door pivot (refer to the below picture).
+Don’t mount the device on surface materials where frequent vibration occurs, to prevent false alarming.
+
+When mounting on safety box, mount the Door Contact / Shock Sensor no more than 2cm away from the door pivot (refer to the below picture).
+
+
+{% endhint %}
 
 <div align="left"><figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure></div>

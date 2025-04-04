@@ -1,6 +1,8 @@
 # VESTA-053
 
-**LMHT-1ZW** **Ambient Light, Humidity and Temperature Sensor**
+**LMHT-1ZW**&#x20;
+
+## **Ambient Light, Humidity and Temperature Sensor**
 
 **Introduction**
 
@@ -82,9 +84,11 @@ _(Only use factory reset when network Control Panel/Gateway is missing or inoper
 * Remove the battery of the Sensor first.
 * Press and hold the Function Button. While holding the Function Button, power on the Sensor by re-inserting the battery, wait for 10 seconds to factory reset.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Factory resetting the Sensor will restore it to factory default settings (excluded from the Z-Wave network). The Z-Wave gateway or control panel will still keep its Z-Wave settings. Please refer to the gateway or control panel manual on how to remove the Sensor Z-Wave settings.
+Factory resetting the Sensor will restore it to factory default settings (excluded from the Z-Wave network). The Z-Wave gateway or control panel will still keep its Z-Wave settings. Please refer to the gateway or control panel manual on how to remove the Sensor Z-Wave settings.
+{% endhint %}
 
 ## _**Range Test**_
 
