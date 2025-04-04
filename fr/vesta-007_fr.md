@@ -29,27 +29,26 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 
 1. **LED clignotante / LED IR**\
    La LED clignotante (pour 862(P)) ou la LED IR (pour 862(P)-IL) fournie suffisamment de lumière pour la capture d'images dans des conditions de faible éclairage.
-2.
-3. **LED bleue/bouton de fonction**\
+2. **LED bleue/bouton de fonction**\
    **LED bleue:**\
    (Prière de se référer à **Voyant LED** dans la description ci-dessous pour plus de détails)\
    **Utilisation du bouton de fonction :**\
    **-** Maintenez le bouton appuyé pendant 3 secondes pour envoyer un code d'apprentissage, relâchez lorsque la LED bleue s'allume (pour les centrales autonomes, après avoir appuyé et maintenu le bouton pendant 3 secondes, veuillez appuyer sur le bouton **de nouveau** pendant une seconde pour envoyer le code d'apprentissage).\
    \- Appuyez une fois sur le bouton pour passer en mode test pendant 3 minutes.\
    \- Appuyez une fois sur le bouton pour envoyer un code d'apprentissage au répéteur/routeur (Modèles P5 uniquement).
-4. **Capteur IR**
-5. **Objectif de caméra PIR**
-6. **Couvercle du compartiment à batteries**
-7. **Autoprotection**
-8. **Compartiment à batterie**
-9. **Cavalier de réglage de la sensibilité (JP3)**\
+3. **Capteur IR**
+4. **Objectif de caméra PIR**
+5. **Couvercle du compartiment à batteries**
+6. **Autoprotection**
+7. **Compartiment à batterie**
+8. **Cavalier de réglage de la sensibilité (JP3)**\
    Le cavalier est inséré pour relier les deux broches.\
    \- Cavalier On : le niveau de sensibilité du PIR est réglé sur Haut.\
    \- Cavalier Off : le niveau de sensibilité du PIR est réglé sur Normal (**par défaut**).
-10. **Cavalier de mise en veille (JP2)**\
-    Le cavalier est inséré pour relier les deux broches.\
-    \- Cavalier On : après la détection de mouvement, la caméra PIR n'entre pas en mode veille et transmettra à nouveau le signal de détection immédiatement si elle est déclenchée (**par défaut**).\
-    \- Cavalier Off : la caméra PIR a une "**mise en veille**" d'environ 1 minute après la détection de mouvement pour économiser l'énergie.
+9. **Cavalier de mise en veille (JP2)**\
+   Le cavalier est inséré pour relier les deux broches.\
+   \- Cavalier On : après la détection de mouvement, la caméra PIR n'entre pas en mode veille et transmettra à nouveau le signal de détection immédiatement si elle est déclenchée (**par défaut**).\
+   \- Cavalier Off : la caméra PIR a une "**mise en veille**" d'environ 1 minute après la détection de mouvement pour économiser l'énergie.
 
 
 
