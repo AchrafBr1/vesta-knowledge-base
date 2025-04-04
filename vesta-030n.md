@@ -1,89 +1,85 @@
 # VESTA-030N
 
-**Repeater (RP-32)**
+**RP-32**
+
+## **Repeate**
 
 The Repeater is designed to increase the effectiveness and versatility of the alarm system. It is a device that makes your system more powerful by increasing the maximum possible distance between the Main Unit (Control Panel) and the Devices.
 
-* **Identifying the Parts**
+## **Identifying the Parts**
 
 ![](<.gitbook/assets/0 (135).jpeg>)
 
 1. **Power LED (Green)**
 
-**On** – Powered by a Power Adapter or Rechargeable Battery
+&#x20;       **On** – Powered by a Power Adapter or Rechargeable Battery
 
-**Flash** (1 flash every second) – Rechargeable Battery low on power
+&#x20;      **Flash** (1 flash every second) – Rechargeable Battery low on power
 
-1. **Mode LED (Yellow)**
+2. **Mode LED (Yellow)**
 
-**Slow Flash** (1 flash every 2 seconds) – When in Learning Device Mode operated from Local Webpage
+&#x20;       **Slow Flash** (1 flash every 2 seconds) – When in Learning Device Mode operated from Local Webpage
 
-**Flash** (1 flash every second) – In Walk Test Mode
+&#x20;       **Flash** (1 flash every second) – In Walk Test Mode
 
-**On** – In Learning Panel Mode
+&#x20;      **On** – In Learning Panel Mode
 
-1. **Transmission: Receive LED (Blue)**
+3. **Transmission: Receive LED (Blue)**
 
-The Blue LED lights up when the Repeater receives a signal transmission
+&#x20;      The Blue LED lights up when the Repeater receives a signal transmission
 
-1. **Transmission: Transmit LED (Red)**
+4. **Transmission: Transmit LED (Red)**
 
-The Red LED lights up when the Repeater transmits a signal.
+&#x20;      The Red LED lights up when the Repeater transmits a signal.
 
-1. **Test Button**
-2. **Battery Switch**
-3. **Tamper Switch**
-4. **Mounting Holes**
-5. **DC power jack**
-6. **Mounting Bracket**
+5. **Test Button**
+6. **Battery Switch**
+7. **Tamper Switch**
+8. **Mounting Holes**
+9. **DC power jack**
+10. **Mounting Bracket**
 
-1
-
-* **Power Supply**
+## **Power Supply**
 
 **Power Adapter Application:**
 
 A DC 12V 1A output Power Adapter is used to power the Repeater.
 
-The DC power jack and plug provide twist-lock feature that can prevent accidental disconnection. To connect the Power Adapter:
+The DC power jack and plug provide a twist-lock feature that can prevent accidental disconnection. To connect the Power Adapter:
 
 **Step 1** Align the arc parts of the plug with the arc parts on top/bottom of the DC jack slot, and fit the plug into the slot.
 
 ![](<.gitbook/assets/1 (110).jpeg>)
 
-**Step 2** Push the plug into place, and make a quarter turn clockwise to lock the plug.
+**Step 2** Push the plug into place and make a quarter turn clockwise to lock the plug.
 
 ![](<.gitbook/assets/2 (118).png>)
 
-**90°**
+{% hint style="info" %}
+Note:
 
-![](<.gitbook/assets/3 (110).png>) ![](<.gitbook/assets/4 (117).png>)
+The locked plug cannot be disconnected without twisting counterclockwise to unlock.
+{% endhint %}
 
-_\<NOTE>_
+**Step 3** Plug the Power Adapter into a wall power outlet.
 
-* Locked plug cannot be disconnected without twisting counterclockwise to unlock.
+**Step 4** The Repeater will sound a Long beep, and the Green LED will light up.
 
-**Step 3** Plug the Power Adapter to a wall power outlet.
-
-**Step 4** The Repeater will sound a Long beep and the Green LED will light up.
-
-**Rechargeable Battery:**
+## **Rechargeable Battery:**
 
 In addition to the adapter, there is a rechargeable battery inside the Repeater, which serves as a back-up power in case of a power failure.
-
-2
 
 When the Power Adapter is plugged into the DC power jack, slide the Battery Switch to the ON position so the Power Adapter supplies power to the Repeater and at the same time recharges the battery. It takes approximately 32 hours to fully charge the battery.
 
 When the Power Adapter is unplugged, the Repeater will be powered by the rechargeable battery.
 
-**AC Failure / AC Restore / Low Battery Detection:**
+## **AC Failure / AC Restore / Low Battery Detection:**
 
 The Repeater will send an AC Failure signal to the Control Panel when the Power Adapter is unplugged for 30-60 seconds. When the Power Adapter is plugged in again for 30-60 seconds, the Repeater will send an AC Restore signal to the Control Panel.
 
 The Repeater can detect the battery voltage. When the battery voltage is low, the Repeater will send a Low Battery signal to the Control Panel, the Green LED will flash to indicate low battery status. When the power adaptor is plugged in again, low battery status will be removed
 
-* **Learn Repeater into the Control Panel**
+## **Learn Repeater into the Control Panel**
 
 **Step 1** Put the Control Panel into Learning Mode (please refer to the Control Panel manual).
 
@@ -93,11 +89,13 @@ The Repeater can detect the battery voltage. When the battery voltage is low, th
 
 If the Repeater fails to receive an acknowledge signal from the Control Panel within 60 seconds, learning has failed. Please repeat step 1-2 again.
 
-_\<NOTE>_
+{% hint style="info" %}
+Note:
 
-*
-  * After the test button is pressed for 3 seconds, the Repeater enters learning mode with its yellow remain on for up to 60 seconds. The Repeater will leave learning mode upon successful learning, or reaches the 60 second timeout limit. Pressing the button for 3 seconds again will also leave learning mode immediately with 2 short beeps.
-* **Repeater Setting (Local Webpage)**
+After the test button is pressed for 3 seconds, the Repeater enters learning mode with its yellow remain on for up to 60 seconds. The Repeater will leave learning mode upon successful learning, or reaches the 60 second timeout limit. Pressing the button for 3 seconds again will also leave learning mode immediately with 2 short beeps.
+{% endhint %}
+
+## **Repeater Setting (Local Webpage)**
 
 After the repeater is learned into the Control Panel, proceed to program repeater setting on the Panel’s webpage.
 
@@ -105,11 +103,9 @@ Go to the **Repeater Setting** on Panel’s webpage.
 
 ![](<.gitbook/assets/5 (119).png>)
 
-3
-
 ![](<.gitbook/assets/6 (99).png>)
 
-**Learning Device/Repeater into the Repeater**
+## **Learning Device/Repeater into the Repeater**
 
 Make sure the devices/repeaters are already learned into the Control Panel before learning them into the Repeater.
 
@@ -130,9 +126,7 @@ If the Repeater receives a learn code from a device already learnt into the Repe
 
 Alternatively, the repeater will automatically exit device learning mode after 5 minutes.
 
-4
-
-**Conducting Walk Test**
+## **Conducting Walk Test**
 
 Learnt-in devices can check for its signal range with the Repeater if the Repeater enters Walk Test Mode.
 
@@ -144,7 +138,7 @@ Learnt-in devices can check for its signal range with the Repeater if the Repeat
 
 Alternatively, the repeater will automatically exit Walk Test mode after 5 minutes.
 
-**Query Child Node**
+## **Query Child Node**
 
 After the devices/repeaters are learned into the Repeater, click “**Query Child Node.**” The learned in devices/repeaters will be displayed one by one in the Child Node list.
 
@@ -152,11 +146,10 @@ _\<NOTE>_ If a child node device is not yet learned into the Control Panel, “U
 
 ![](<.gitbook/assets/8 (88).png>)
 
-**Delete Device/Repeaters from the Repeater**
+## **Delete Device/Repeaters from the Repeater**
 
-*
-  * **Delete All**: Click “**Delete All Child Nodes**”**.** All previously learned-in devices/repeaters will be removed.
-  * **Delete One At A Time**: Click the **Delete** button at the end of the device/repeater entry you wish to delete from the Device List. The device/repeater will then be deleted.
+* **Delete All**: Click “**Delete All Child Nodes**”**.** All previously learned-in devices/repeaters will be removed.
+* **Delete One At A Time**: Click the **Delete** button at the end of the device/repeater entry you wish to delete from the Device List. The device/repeater will then be deleted.
 * **RP Connection Map (Home Portal Server: Installer Web/App)**
 
 Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**.
@@ -165,13 +158,11 @@ If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![
 
 ![](<.gitbook/assets/10 (85).png>)
 
-5
-
 Clicking on the icon ![](<.gitbook/assets/11 (44).jpeg>) will pop up the RP Connection Map.
 
 ![](<.gitbook/assets/12 (68).png>)
 
-The **Panel**, the **Repeater/RF Devices**, and **the RF Device(s) that is/are connected to Repeater** will be displayed from the left column to the right column on the map.
+The **Panel**, the **Repeater/RF Devices**, and **the RF Device(s) that is/are connected to the Repeater** will be displayed from the left column to the right column on the map.
 
 If no devices are connected to any Repeater, only two columns (Panel, Repeater/Devices) will be shown on the map.
 
@@ -183,8 +174,6 @@ access the settings page for that repeater.
 
 * **Edit Mode**: In Edit Mode, only Repeater icons are highlighted. Click on a Repeater icon to access its settings page.
 
-6
-
 ![](<.gitbook/assets/18 (58).png>)
 
 * **Repeater Setting Page**: The Repeater Setting page lists the devices that are
@@ -193,15 +182,13 @@ connected to the repeater. You can add / delete devices by clicking ![](<.gitboo
 
 ![](<.gitbook/assets/21 (2).png>)
 
-**Add Device**:
+## **Add Device**:
 
 After clicking ![](<.gitbook/assets/22 (1).jpeg>), the Add Device list will pop up, displaying devices that are not connected to any Repeater and are available to be added to the current Repeater. Select the device(s) by checking the box(es), then click Submit to add the selected device(s) to the Repeater.
 
-7
-
 ![](<.gitbook/assets/23 (3).png>)
 
-**Remove Device**:
+## **Remove Device**:
 
 After clicking  , the Delete Device list will pop up, displaying devices that are connected to the current Repeater. Select the device(s) by checking the box(es), then
 
@@ -209,42 +196,40 @@ click Delete to remove the selected device(s) from the Repeater.
 
 After exiting Edit mode, the third column of devices connected to the Repeater(s) will be updated immediately.
 
-* **Supervisory Signal**
-  * After being learnt into the Control Panel, the Repeater will automatically transmit Supervisory Signals every 15 to 18 minutes.
-  * If the Control Panel has not received the signal from the Repeater for a preset period of time, the Control Panel will indicate it on its display to show that the Repeater is experiencing an out-of-signal problem.
+## **Supervisory Signal**
 
+* After being learnt into the Control Panel, the Repeater will automatically transmit Supervisory Signals every 15 to 18 minutes.
+* If the Control Panel has not received the signal from the Repeater for a preset period of time, the Control Panel will indicate it on its display to show that the Repeater is experiencing an out-of-signal problem.
 
+## **Tamper Protection**
 
-*   **Tamper Protection**
+* The Tamper Switch is in the normal operating position (Tamper Closed) when the Repeater is hooked onto the Wall Mounting Bracket. A tamper violation happens when the Repeater is removed from the hook where the Tamper Switch is released (Tamper Opened).
 
+## **Operation**
 
+* If the Repeater receives a signal from the Control Panel (e.g. a command), the signal is retransmitted to the corresponding device(s) from the Repeater. The transmission LEDs will light up accordingly.
+* If the Repeater receives a signal from a device (e.g. an alarm signal), the signal is retransmitted to the Control Panel from the Repeater. The transmission LEDs will light up accordingly.
 
-    * The Tamper Switch is in normal operating position (Tamper Closed) when the Repeater is hooked onto the Wall Mounting Bracket. Tamper violation happens when the Repeater is removed from the hook where Tamper Switch is released (Tamper Opened).
-*   **Operation**
+## **Deployment Guidelines**
 
+* All Devices and Repeaters must be learnt into the Control Panel for the panel to recognize them. Each device must be learnt into the Repeater that receives and relays its signal.
+* If a device is within an acceptable range for Control Panel to receive its signal, it is strongly recommended to learn the device into the Control Panel directly instead of into the Repeater.
+* When employing multiple repeaters, please learn each device into the closest repeater in its operation area. Avoid learning a device into multiple repeaters.
+* It is recommended to link only a single layer of repeaters.
+* If deployment requires linking repeaters to form a transmission relay, use no more than two layers. Only the MDC-5, IR-35, and SD-32 models are compatible with this setup."
+* Maintain a distance between repeaters and the Control Panel to prevent cross signaling.
 
+## **Single Repeater**
 
-    * If the Repeater receives a signal from the Control Panel (e.g. a command), the signal is retransmitted to the corresponding device(s) from the Repeater. The transmission LEDs will light up accordingly.
-    * If the Repeater receives signal from a device (e.g. an alarm signal), the signal is retransmitted to the Control Panel from the Repeater. The transmission LEDs will light up accordingly.
-* **Deployment Guidelines**
-  * All Devices and Repeaters must be learnt into the Control Panel for the panel to recognize them. Each device must be learnt into the Repeater that receives and relays its signal.
-  * If a device is within an acceptable range for Control Panel to receive its signal, it is strongly recommended to learn the device into the Control Panel directly instead of into the Repeater.
-  * When employing multiple repeaters, please learn each device into the closest repeater in its operation area. Avoid learning a device into multiple repeaters.
-  * It is recommended to link only a single layer of repeaters.
-  * If deployment requires linking repeaters to form a transmission relay, use no more than two layers. Only the MDC-5, IR-35, and SD-32 models are compatible with this setup."
-  * Maintain a distance between repeaters and the Control Panel to prevent cross signaling.
-
-**Single Repeater**
-
-In the example below when one repeater is used:
+In the example below, one repeater is used:
 
 * Repeater A should be learned into the Control Panel.
 * Device 2 should be learned into Repeater A for Repeater A to receive and relay its signals. Device 2 should also be learned into the Control Panel.
-* For Device1 that is within acceptable range for Control Panel to receive its signal, it is strongly recommended to learn Device1 into the Panel directly instead of into the Repeater
+* For Device1, that is within acceptable range for the Control Panel to receive its signal, it is strongly recommended to learn Device1 into the Panel directly instead of into the Repeater
 
 Example
 
-**Multiple Repeaters**
+## **Multiple Repeaters**
 
 
 
@@ -271,7 +256,7 @@ Learn the Device into its closest repeater (Repeater B), and learn Repeater B in
 
 Example 3:
 
-* **How to mount the Repeater**
+## **How to mount the Repeater**
 
 The Repeater can be placed on the table, mounted on the wall or wherever desired. Follow the steps below to mount the Repeater:
 
