@@ -1,6 +1,8 @@
 # VESTA-037
 
-**Acoustic Glass Break Detector (ACGS-23)**
+**ACGS-23**
+
+## **Acoustic Glass Break Detector**&#x20;
 
 The Glass Break Detector detects the high frequency sound emitted by glass breakage and transmits signal to notify the alarm system control panel when it is triggered.
 
@@ -85,9 +87,11 @@ Put the detector at the desired installation location, and make sure the sensiti
 3. Press the red start button of the FG-701. Within 8 seconds, strike the glass with a cushioned tool to create a glass striking sound. The FG-701 will respond by producing a burst of glass-break audio.
 4. ACGS-23 will be activated if both glass striking and glass break sounds are properly received. The Green LED will flash quickly and Red LED will light up, glass break signal will be transmitted to the control panel.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* After the red start button of the FG-701 is pressed, if there is no action for 8 seconds, the simulator will automatically "click" off. You will need to press the start button again to restart testing.
+After the red start button of the FG-701 is pressed, if there is no action for 8 seconds, the simulator will automatically "click" off. You will need to press the start button again to restart testing.
+{% endhint %}
 
 ## _**Supervision Function**_
 
