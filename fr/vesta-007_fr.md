@@ -4,7 +4,7 @@
 
 
 
-**PIRCAM intérieur**
+**PIRCAM intérieur (lithium)**
 
 
 
@@ -82,7 +82,7 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 
 
 * _**Batteries et détection batterie faible**_\
-  Le PIRCAM utilise se trois **Piles au lithium CR123A 3V** comme source d'énergie. Retirez le couvercle du compartiment des piles et insérez les piles pour activer le PIRCAM.\
+  Le PIRCAM utilise ses trois **Piles au lithium CR123A 3V** comme source d'énergie. Retirez le couvercle du compartiment des piles et insérez les piles pour activer le PIRCAM.\
   Le PIRCAM dispose d'une fonction de détection de batterie faible. Lorsque la tension de la batterie est faible, le PIRCAM transmet le signal de batterie faible à la centrale. Si un mouvement est détecté dans des conditions de batterie faible, la LED bleue clignote pendant 2 secondes.\
   Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur l'autoprotection ou sur le bouton de fonction pour la décharger complètement avant d'insérer de nouvelles piles.
 

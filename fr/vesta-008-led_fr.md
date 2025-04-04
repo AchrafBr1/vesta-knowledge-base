@@ -4,30 +4,32 @@ icon: circle-chevron-right
 
 # VESTA 008 LED
 
-**Caméra à capteur de mouvement PIR**
-
 **VST-862**
+
+
+
+**PIRCAM intérieur (alcalines)**
+
+
 
 **Introduction**
 
-VST-862 est une caméra à capteur de mouvement infrarouge passif (PIR). Il est capable d'envoyer des signaux sans fil et des images capturées (qualité d'image jusqu'à 640 x 480 pixels) au panneau de commande lors de la détection de mouvement.
-
-La caméra PIR est conçue pour offrir une portée de détection typique de 12 mètres lorsqu'elle est montée à 2 mètres au-dessus du sol. Les modèles insensibles aux animaux prennent en charge l'immunité aux animaux jusqu'à 27 kg dans un rayon de 7 mètres afin de minimiser les fausses alarmes. Pour les modèles compatibles avec le répéteur RP-29/le routeur RMB-29 de Climax\*\*(Modèles P5 uniquement)\*\*, la portée de communication RF peut être encore étendue dans les zones difficiles d'accès.
-
-La caméra PIR se compose d'une conception en deux parties composée d'un couvercle et d'une base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un coin avec un support triangulaire pour un montage en coin.
+VST-862 est détecteur de mouvement infrarouge passif (PIR) avec caméra. Il est capable d'envoyer des signaux RF et des images (qualité d'image jusqu'à 640 x 480 pixels) à la centrale suite à la détection d'un mouvement.\
+Le PIRCAM est conçu pour offrir une portée de détection de 12 mètres lorsqu'il est installé à 2 mètres de haut. Pour les modèles avec immunité animaux,  la portée de l'immunité est de 7 mètres pour 27kg, vos animaux domestiques ne déclencheront pas de fausses alarmes dans les limites énoncées. Pour les modèles compatibles avec le répéteur RP-29/routeur RMB-29 de Climax (**Modèles P5 uniquement**), la portée de communication RF peut être encore étendue pour les zones difficiles à atteindre.\
+Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle contient toute l'électronique et l'optique et la base fournie un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un angle avec un support triangulaire.
 
 **La série VST-862 comprend les modèles suivants :**
 
 | **Nom du modèle** | **LED clignotante** | **LED infrarouge** | **Immunisé contre les animaux** | **Compatible avec**  |
 | ----------------- | ------------------- | ------------------ | ------------------------------- | -------------------- |
 |                   |                     |                    |                                 | **Répétiteur**       |
-| VST-862-(P5)      | DANS                |                    |                                 | Modèle P5 uniquement |
+| VST-862-(P5)      | OUI                 |                    |                                 | Modèle P5 uniquement |
 |                   |                     |                    |                                 |                      |
-| VST-862-IL-(P5)   |                     | DANS               |                                 | Modèle P5 uniquement |
+| VST-862-IL-(P5)   |                     | OUI                |                                 | Modèle P5 uniquement |
 |                   |                     |                    |                                 |                      |
-| VST-862P-(P5)     | DANS                |                    | DANS                            | Modèle P5 uniquement |
+| VST-862P-(P5)     | OUI                 |                    | OUI                             | Modèle P5 uniquement |
 |                   |                     |                    |                                 |                      |
-| VST-862P-IL-(P5)  |                     | DANS               | DANS                            | Modèle P5 uniquement |
+| VST-862P-IL-(P5)  |                     | OUI                | OUI                             | Modèle P5 uniquement |
 |                   |                     |                    |                                 |                      |
 
 ![](<.gitbook/assets/0 (21).jpeg>)
