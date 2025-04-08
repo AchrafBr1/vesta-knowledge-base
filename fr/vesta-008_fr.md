@@ -10,7 +10,7 @@
 
 **Introduction**
 
-ST-862 est détecteur de mouvement infrarouge passif (PIR) avec caméra. Il est capable d'envoyer des signaux RF et des images (qualité d'image jusqu'à 640 x 480 pixels) à la centrale suite à la détection d'un mouvement.\
+VST-862 est détecteur de mouvement infrarouge passif (PIR) avec caméra. Il est capable d'envoyer des signaux RF et des images (qualité d'image jusqu'à 640 x 480 pixels) à la centrale suite à la détection d'un mouvement.\
 Le PIRCAM est conçu pour offrir une portée de détection de 12 mètres lorsqu'il est installé à 2 mètres de haut. Pour les modèles avec immunité animaux,  la portée de l'immunité est de 7 mètres pour 27kg, vos animaux domestiques ne déclencheront pas de fausses alarmes dans les limites énoncées. Pour les modèles compatibles avec le répéteur RP-29/routeur RMB-29 de Climax (**Modèles P5 uniquement**), la portée de communication RF peut être encore étendue pour les zones difficiles à atteindre.\
 Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un angle avec un support triangulaire.
 
@@ -31,13 +31,17 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 
 1. **LED clignotante / LED IR**\
    La LED clignotante (pour 862(P)) ou la LED IR (pour 862(P)-IL) fournie suffisamment de lumière pour la capture d'images dans des conditions de faible éclairage.
-2. **LED bleue/bouton de fonction LED bleue:** (Prière de se référer à **Voyant LED** dans la description ci-dessous pour plus de détails) **Utilisation du bouton de fonction : -** Maintenez le bouton appuyé pendant 3 secondes pour envoyer un code d'apprentissage, relâchez lorsque la LED bleue s'allume (pour les centrales autonomes, après avoir appuyé et maintenu le bouton pendant 3 secondes, veuillez appuyer sur le bouton **de nouveau** pendant une seconde pour envoyer le code d'apprentissage). - Appuyez une fois sur le bouton pour passer en mode test pendant 3 minutes. - Appuyez une fois sur le bouton pour envoyer un code d'apprentissage au répéteur/routeur (Modèles P5 uniquement).
+2. **LED bleue/bouton de fonction LED bleue:**\
+   (Prière de se référer à **Voyant LED** dans la description ci-dessous pour plus de détails) **Utilisation du bouton de fonction :**\
+   **-** Maintenez le bouton appuyé pendant 3 secondes pour envoyer un code d'apprentissage, relâchez lorsque la LED bleue s'allume (pour les centrales autonomes, après avoir appuyé et maintenu le bouton pendant 3 secondes, veuillez appuyer sur le bouton **de nouveau** pendant une seconde pour envoyer le code d'apprentissage).\
+   \- Appuyez une fois sur le bouton pour passer en mode test pendant 3 minutes.\
+   \- Appuyez une fois sur le bouton pour envoyer un code d'apprentissage au répéteur/routeur (Modèles P5 uniquement).
 3. **Capteur IR**
 4. **Objectif de caméra PIR**
 5. **Couvercle du compartiment à batteries**
 6. **Autoprotection**
 7. **Compartiment à batterie**
-8. r**Cavalier de réglage de la sensibilité (JP3)**\
+8. **Cavalier de réglage de la sensibilité (JP3)**\
    Le cavalier est inséré pour relier les deux broches.\
    \- Cavalier On : le niveau de sensibilité du PIR est réglé sur Haut.\
    \- Cavalier Off : le niveau de sensibilité du PIR est réglé sur Normal (**par défaut**).
@@ -88,7 +92,7 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 
 
 
-*   _Mode test_
+*   _**Mode test**_
 
     _**-**_ Le mode test permet de vérifier la plage de détection du PIRCAM (et non la couverture de prise de vue).\
     \- Appuyez une fois sur le bouton  de fonction pour passer en mode Test pendant 3 minutes, la LED bleue clignotera pendant 1 seconde.\

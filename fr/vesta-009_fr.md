@@ -4,125 +4,125 @@ icon: circle-chevron-right
 
 # VESTA 009
 
-* Capteur de mouvement PIR série IR(P)-29
+**IR(P)-29**
 
-Le PIR détecte la signature infrarouge pour capter les mouvements dans une zone assignée et signale au panneau de commande d'activer l'alarme si un intrus croise son chemin de détection.
 
-Le PIR se compose d’une conception en deux parties composée d’un couvercle et d’une base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre le montage sur une surface plane ou dans un coin
 
-Le PIR dispose d'un interrupteur anti-sabotage qui sera activé lorsque le couvercle est ouvert. Il peut également vous alerter des problèmes de communication et des situations de batterie faible.
+**Détecteur PIR**
 
-Le PIR est conçu pour offrir une portée de détection typique de 12 mètres lorsqu'il est monté à 2 mètres au-dessus du sol.
 
-Les modèles Pet-Immune du capteur PIR de la série IR-29 prennent en charge la fonction d'immunité aux animaux et ne détecteront pas les animaux pesant jusqu'à 27 kg dans un rayon de 7 mètres afin de minimiser les situations de fausse alarme.
 
-**Le capteur PIR de la série IR-29 comprend les modèles suivants**:
+**Introduction**
 
-IR-29 / IR-29 F1 – Capteur PIR avec piles alcalines
+Le détecteur PIR capte une signature infrarouge pour détecter les mouvements dans une zone donnée et signale à la centrale de déclencher une alarme si un intrus croise sa zone de détection.\
+Le détecteur PIR est composé de deux éléments, le couvercle et la base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un angle avec un support triangulaire.\
+Le détecteur PIR dispose d'une autoprotection qui s'activera lorsque le couvercle est ouvert. Il peut également vous alerter des problèmes de communication et des situations de batterie faible.\
+Le détecteur  PIR est conçu pour offrir une portée de 12 mètres lorsqu'il est monté à 2 mètres de haut.\
+Les modèles avec immunité animaux de la série IR-29 prennent en charge la fonction d'immunité aux animaux et ne détecteront pas les animaux pesant jusqu'à 27 kg dans un rayon de 7 mètres afin de minimiser les situations de fausse alarme.\
+\
+**Les détecteur PIR de la série IR-29 sont les suivants:**\
+\
+IR-29 / IR-29 F1 – Détecteur PIR avec piles alcalines\
+IRP-29 / IRP-29 F1 – Détecteur PIR, immunité animaux avec piles alcalines\
+IR-29SL / IR-29SL-F1 – Détecteur PIR avec batterie au lithium\
+IRP-29SL / IRP-29SL-F1 – Détecteur PIR, immunité animaux avec batterie au lithium
 
-IRP-29 / IRP-29 F1 – Capteur PIR Pet Immune avec piles alcalines
 
-IR-29SL / IR-29SL-F1 – Capteur PIR avec batterie au lithium.
 
-![](<.gitbook/assets/0 (3) (1).png>)IRP-29SL / IRP-29SL-F1 – Capteur PIR immunisé contre les animaux avec batterie au lithium
+* **Identification**\
+  ![](<.gitbook/assets/0 (3) (1).png>)
 
-* _**Identifier les pièces**_
 
-**1. Bouton de test/indicateur LED**
 
-Le bouton de test est utilisé pour tester les performances de la radio et à des fins d'apprentissage.
+1. **Bouton de test/Voyant LED**\
+   Le bouton de test est utilisé pour tester les performances du signal radio et pour l'apprentissage.\
+   Le voyant LED est utilisé pour indiquer l'état du périphérique.
+2. **Opercule de batterie**
+3. **Cavalier de supervision (JP2)**\
+   Le cavalier est inséré pour relier les deux broches.\
+   \- Cavalier On : la supervision est désactivée (**par défaut pour les modèles 433AM**).\
+   \- Cavalier Off : la supervision est activée (**par défaut pour les modèles 868WF**).\
+   Pour les modèles **433AM** ou **868WF** ne disposant pas de cavalier  JP2, la supervision est activée et ne peut pas être désactivée.
+4. **Cavalier de sensibilité (JP3)**\
+   **-** Cavalier Off : la sensibilité du détecteur PIR est au niveau normal **(par défaut pour les modèles sans immunité animaux)**.\
+   \- Cavalier On : la sensibilité du détecteur PIR est élevée (par défaut pour les modèles avec immunité animaux).
+5. **Autoprotection**\
+   L'autoprotection protège le détecteur PIR contre toute ouverture non autorisée du couvercle.
 
-L'indicateur LED est utilisé pour indiquer l'état du système.
 
-**2. Isolateur de batterie**
 
-**3. Commutateur d'activation/désactivation de la supervision (JP2)**
+* **Mise en veille**\
+  Le détecteur PIR a une "**mise en veille**" d'environs 1 minute pour économiser de l'énergie. Après avoir transmis un mouvement détecté, le détecteur PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera la temporisation de mise en veille de 1 minute. Un mouvement continu devant le PIRCAM n'épuisera donc pas la batterie.
 
-![jumper open](<.gitbook/assets/1 (5) (1).png>) ![jumper close](<.gitbook/assets/2 (5) (1).png>)
 
-**Cavalier**
 
-si le cavalier est retiré ou "**garé**» sur une épingle.
+* _**Supervision**_\
+  Si elle est activée (voir ci-dessus), lorsque le détecteur PIR est en mode de fonctionnement normal, il effectuera un auto-test en transmettant un signal de supervision une fois toutes les 30 à 50 minutes.\
+  Si la centrale ne parvient pas à recevoir les signaux de supervision pendant une durée définie, un message de défaut sera généré.
 
-**Cavalier**
 
-Le cavalier est inséré reliant les deux broches
 
-* Lorsqu’elle est définie sur ON, la supervision est désactivée.**(Par défaut d'usine pour les modèles de fréquence 433AM)**
-* Lorsqu'elle est définie sur OFF, la supervision est activée.**(Par défaut d'usine pour les modèles de fréquence 868WF)**
+* _**Augmentation de la sensibilité**_\
+  Vous pouvez utiliser la fonction d’augmentation de sensibilité pour augmenter la sensibilité de détection du détecteur PIR. Pour augmenter la sensibilité de détection, connectez le cavalier (JP3) ou le mettre en position ON (par défaut pour les modèles avec immunité animaux). Pour maintenir une sensibilité normale, déconnectez le cavalier (JP3) ou le mettre en position OFF (par défaut pour les modèles sans immunité animaux).
 
-**433FM**et**Modèles de fréquence 868FM**ne prend pas en charge le cavalier JP2, la supervision est activée et ne peut pas être désactivée.
 
-**4. Cavalier d'augmentation de sensibilité (JP3)**
 
-* Lorsqu'elle est réglée sur OFF, la sensibilité de détection du PIR est au niveau normal.**(Par défaut d'usine pour les modèles non immunisés contre les animaux)**
-* Lorsqu'elle est réglée sur ON, la sensibilité de détection des PIR est élevée. (Par défaut d'usine pour les modèles Pet-Immune)
+* _**Mode test**_\
+  Le détecteur  PIR peut être mis en mode Test en appuyant sur le bouton test. En mode Test, il désactivera la mise en veille et permettra au voyant LED de clignoter à chaque fois qu'un mouvement est détecté. Chaque fois que vous appuyez sur le bouton de test, le détecteur PIR transmettra un signal de test à la centrale pour un test de portée radio et entrera en mode test pendant 3 minutes. Le mode test expirera après 3 minutes.
 
-**5. Interrupteur anti-sabotage**
 
-L'interrupteur anti-sabotage protège le PIR contre toute ouverture non autorisée du couvercle.
 
-* _**Minuterie de mise en veille**_
+* _**Voyant LED**_\
+  En mode de fonctionnement normal, le voyant LED s'allume dans les situations suivantes (pour les modèles F1, le voyant clignote à la place) :\
+  \- Lorsqu'un mouvement est détecté dans des conditions de batterie faible.\
+  \- Lorsque le couvercle est ouvert et que l'autoprotection est déclenchée.\
+  \- Lorsqu'un mouvement est détecté si la condition d'autoprotection persiste.\
+  \- Lorsqu'un mouvement est détecté en mode test.\
+  \- Lorsque le bouton de test est enfoncé dans des conditions d'autoprotection ou si le détecteur PIR détecte une batterie faible.
 
-Le PIR a un «**Temps de sommeil**" d'environ 1 minute pour économiser l'énergie. Après avoir transmis un mouvement détecté, le PIR ne retransmettra pas pendant 1 minute ; tout mouvement supplémentaire détecté pendant cette période de sommeil prolongera la durée du sommeil d'une minute supplémentaire. De cette façon, un mouvement continu devant un PIR n’épuisera pas indûment la batterie.
 
-* _**Fonction de surveillance**_
 
-S'il est activé (voir tableau ci-dessus), lorsque le PIR est en mode de fonctionnement normal, il effectuera un auto-test périodiquement en transmettant un signal de supervision une fois toutes les 30 à 50 minutes.
+* _**Batterie**_\
+  Le détecteur PIR de la série IR-29 utilise des piles alcalines ou lithium comme source d'alimentation :\
+  \- Les modèles alimentés par des piles alcalines utilisent deux piles alcalines AA de 1,5 V.\
+  \- Les modèles alimentés par piles lithium utilisent une batterie au lithium 3 V 2/3 A (EL123AP).\
+  \
+  Le détecteur PIR dispose d'une fonction de détection de batterie faible. Si une faible tension de batterie est détectée, un signal de batterie faible sera envoyé à la centrale avec des transmissions régulières pour que la centrale affiche l'état en conséquence.\
+  \
+  Pour chaque installation, la batterie est installée en usine avant expédition avec un isolant inséré.\
+  \
+  Lors du changement des piles, après avoir retiré les anciennes piles, appuyez deux fois sur l'autoprotection pour décharger complètement avant d'insérer de nouvelles piles.
 
-Si le panneau de commande ne parvient pas à recevoir les signaux de supervision transmis par un certain PIR pendant une durée prédéfinie, un message «**Hors service**r” sera généré.
 
-* _**Fonction d'augmentation de la sensibilité**_
 
-Vous pouvez utiliser la fonction d’augmentation de sensibilité pour augmenter la sensibilité de détection du PIR. Pour augmenter la sensibilité de détection, connectez le cavalier (JP3) ou le**SUR**position (par défaut d’usine pour les modèles Pet-Immune). Pour maintenir une sensibilité de détection normale, débranchez le cavalier (JP3) ou le**DÉSACTIVÉ**position (par défaut d'usine pour les modèles non immunisés contre les animaux).
+* _**Démarrage**_\
+  _**-**_ Retirez l'isolant de la batterie pour activer la batterie.\
+  \- Le voyant LED clignote pendant 30 secondes (le détecteur PIR démarre). Pendant la période de démarrage, le détecteur PIR ne sera pas actif. Une fois la période de démarrage terminée, le voyant LED s'éteindra et le PIR sera prêt à fonctionner.\
+  \- Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale pour plus de détails.\
+  \- Appuyez sur le bouton de test du le capot avant.\
+  \- Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage.\
+  \- Une fois le détecteur PIR appris, mettez la centrale en  "**Test de fonctionnement"**, maintenez le détecteur PIR à l'emplacement souhaité et appuyez sur le bouton test pour confirmer que cet emplacement est à portée de signal de la centrale, reportez-vous au manuel de la centrale pour terminer le test de fonctionnement.\
+  \- Lorsque vous êtes convaincu que le détecteur PIR fonctionne à l'emplacement choisi, vous pouvez procéder au montage.
 
-* _**Mode d'essai**_
 
-Le PIR peut être mis en mode Test en appuyant sur le bouton Test sur le capot avant. En mode Test, il désactivera la minuterie de mise en veille et permettra à l'indicateur LED de clignoter à chaque fois qu'un mouvement est détecté. Chaque fois que vous appuyez sur le bouton de test, le PIR transmettra un signal de test au panneau de commande pour un test de portée radio et entrera en mode test pendant 3 minutes. Le mode test expirera après 3 minutes.
 
-* _Indicateur LED_
+* _**Montage**_\
+  _**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coin avec les vis de fixation et les chevilles fournies.\
+  ![](<.gitbook/assets/3 (5) (1).png>)\
+  \- La base dispose de découpes où le plastique est plus fin pour l'installation. Deux découpes sont destinées à une pose en applique et quatre sont destinées à une pose en angle,  comme indiqué sur l'image.\
+  \- Pour le montage en angle, un support triangulaire est fourni pour ajouter une autoprotection arrière. Le support comprend également deux emplacements de fixation.\
+  \- Pour le montage en applique, un support articulé en option est disponible pour permettre aux utilisateurs d'ajuster la plage de détection. Grâce au support articulé, le détecteur PIR peut pivoter de 80° horizontalement et de 70° verticalement pour offrir une couverture optimale.
 
-En mode de fonctionnement normal, le voyant LED s'allume dans les situations suivantes (pour les modèles F1, le voyant clignote à la place) :
 
-* Lorsqu'un mouvement est détecté dans des conditions de batterie faible
-* Lorsque le couvercle est ouvert et que l'interrupteur anti-sabotage est déclenché.
-* Lorsqu'un mouvement est détecté si la condition de sabotage persiste.
-* Lorsqu'un mouvement est détecté en mode Test
-* Lorsque le bouton de test est enfoncé dans des conditions de sabotage ou si le PIR est sous batterie faible.
-* _Batterie_
 
-Le capteur de mouvement PIR de la série IR-29 utilise des piles alcalines ou au lithium comme source d'alimentation :
-
-* Les modèles alimentés par des piles alcalines utilisent deux piles alcalines AA de 1,5 V comme source d'alimentation.
-* Les modèles alimentés au lithium utilisent une batterie au lithium 3 V 2/3 A (EL123AP) comme source d'alimentation.
-
-Le PIR dispose d'une fonction de détection de batterie faible. Si une faible tension de batterie est détectée, un signal de batterie faible sera envoyé au panneau de commande avec des transmissions de signal régulières pour que le panneau de commande affiche l'état en conséquence.
-
-Pour chaque installation, la batterie est installée en usine avant expédition avec un isolant inséré.
-
-\\
-
-* Lors du changement des piles, après avoir retiré les anciennes piles, appuyez deux fois sur l'interrupteur anti-sabotage pour les décharger complètement avant d'insérer de nouvelles piles.
-* _Commencer_
-* Retirez l'isolant de la batterie pour activer la batterie.
-* L'indicateur LED clignote pendant 30 secondes. (Le PIR s'échauffe). Pendant la période de préchauffage, le PIR ne sera pas activé. Une fois la période de préchauffage terminée, la LED s'éteindra et le PIR sera prêt à fonctionner.
-* Mettez le panneau de commande en mode apprentissage, reportez-vous au manuel du panneau de commande pour plus de détails.
-* Appuyez sur le bouton de test sur le capot avant.
-* Reportez-vous au manuel du panneau de commande pour terminer le processus d'apprentissage.
-* Une fois le PIR appris, placez le panneau de commande sur «**Test de marche**", maintenez le PIR à l'emplacement souhaité et appuyez sur le bouton Test pour confirmer que cet emplacement est à portée du signal du panneau de commande, reportez-vous au manuel du panneau de commande pour terminer le test de marche.
-* Lorsque vous êtes convaincu que le PIR fonctionne à l'emplacement choisi, vous pouvez procéder au montage.
-* _Méthode de montage_
-* Le PIR est conçu pour être monté sur une surface plane ou dans un coin avec les vis de fixation et les chevilles fournies.
-* ![](<.gitbook/assets/3 (5) (1).png>)La base comporte des découpes, où le plastique est plus fin et peut être cassé à des fins de montage. Deux découpes sont destinées à la fixation en surface et quatre sont destinées à la fixation en coin, comme indiqué sur l'image.
-* Pour le montage en coin, un support triangulaire est fourni pour ajouter une protection anti-effraction arrière. Le support comprend également deux entrées défonçables à monter au mur.
-* Pour le montage en surface, un support rotatif en option est fourni pour permettre aux utilisateurs d'ajuster la plage de détection. Grâce au support rotatif, l'IR-29 peut être pivoté de 80 degrés horizontalement et de 70 degrés verticalement pour offrir une couverture optimale.
-* **Montage en coin :**
-
-1. Traversez les KO aux quatre coins.
-2. En utilisant les quatre trous comme gabarit, percez des trous dans la surface du coin.
-3. Insérez les chevilles murales
-4. Vissez la base dans la cheville murale.
-5. ![](<.gitbook/assets/4 (5) (1).png>)Vissez le couvercle sur la base.
+* **Installation en angle :**\
+  1\. Percez les emplacements du support triangulaire.\
+  2\. Utilisez les deux trous comme gabarit pour percer des trous sur la surface en angle.\
+  3\. Insérez les chevilles murales.\
+  4\. Vissez le support triangulaire dans les chevilles murales avec les deux pions de fixation en haut face à vous.\
+  5\. Fixez le PIRCAM sur les crochets du support triangulaire.\
+  \
+  ![](<.gitbook/assets/4 (5) (1).png>)\
 
 * **Montage en angle avec support triangulaire :**
 
