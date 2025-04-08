@@ -180,6 +180,7 @@
 * [VESTA 384](vesta-384.md)
 * [VESTA-387](vesta-387.md)
 * [VESTA 393](vesta-393.md)
+* [VESTA-113N](vesta-113n.md)
 * [VESTA-396](vesta-396.md)
 * [VESTA 399](vesta-399.md)
 * [VESTA 411](vesta-411.md)
@@ -191,6 +192,10 @@
 * [VESTA 432](vesta-432.md)
 * [VESTA 433](vesta-433.md)
 * [VESTA 434](vesta-434.md)
+* [VESTA-440](vesta-440.md)
+* [VESTA-441](vesta-441.md)
+* [VESTA-442](vesta-442.md)
+* [VESTA-443](vesta-443.md)
 
 ## 📄 CERTIFICATES
 
@@ -222,7 +227,6 @@
 * [🧑‍🔧 SmartHomeSec Installer Manual](installer-manual-smart-home-sec.md)
 * [SmartHomeSec WIZARD](smarthomesec-wizard.md)
 * [PANEL INSTALLER MANUAL](intaller-manual.md)
-* [VESTA-113N](vesta-113n.md)
 * [VESTA-113N-SF1](vesta-113n-sf1.md)
 * [VESTA-112N](vesta-112n.md)
 * [VESTA-112N-SF1](vesta-112n-sf1.md)
@@ -234,4 +238,3 @@
 * [VESTA-243](vesta-243.md)
 * [VESTA-404](vesta-404.md)
 * [VESTA 425](vesta-425.md)
-* [VESTA-440](vesta-440.md)
