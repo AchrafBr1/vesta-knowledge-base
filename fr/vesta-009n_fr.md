@@ -1,8 +1,4 @@
----
-icon: circle-chevron-right
----
-
-# VESTA 009N
+# VESTA-009N
 
 **IR-16**
 
@@ -31,7 +27,7 @@ IRP-16SL – Détecteur PIR, immunité animaux avec batterie au lithium 3 V
 
 * _**Identification**_
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. **Bouton de test/indicateur LED**\
    Le bouton de test est utilisé pour tester les performances du signal radio et pour l'apprentissage.   \
@@ -42,7 +38,7 @@ IRP-16SL – Détecteur PIR, immunité animaux avec batterie au lithium 3 V
 4.  **Support d'angle**\
 
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 5. **Cavalier de supervision (JP2)**\
    **-** Cavalier Off : la supervision est activée (**par défaut pour les modèles 868WF**)\
    **-** Cavalier On : la supervision est désactivée (**par défaut pour les modèles 433AM**)\
@@ -108,105 +104,100 @@ _**-**_ Retirez l'isolant de la batterie pour activer la batterie.\
 
 
 
-_**Montage**_
+_**Montage**_\
+_**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coin avec les vis de fixation et les chevilles fournies.\
+\- La base dispose de découpes où le plastique est plus fin pour l'installation. Deux découpes sont destinées à une pose en applique et quatre sont destinées à une pose en angle, comme indiqué sur l'image.\
+\- Pour le montage en angle, un support triangulaire est fourni pour ajouter une autoprotection arrière. Le support comprend également deux emplacements de fixation.\
+\- Pour le montage en applique, un support articulé en option est disponible pour permettre aux utilisateurs d'ajuster la plage de détection. Grâce au support articulé, le détecteur PIR peut pivoter de 80° horizontalement et de 70° verticalement pour offrir une couverture optimale.
 
-* Le PIR est conçu pour être monté sur une surface plane ou dans un coin avec les vis de fixation et les chevilles fournies.
-* La base comporte des découpes, là où le plastique est plus fin, à des fins de montage. Quatre découpes sont destinées à la fixation en surface.
-* Pour le montage en coin, un support triangulaire est fourni pour ajouter une protection anti-effraction arrière. Montez d'abord le support triangulaire sur le mur avec les deux bâtons de pointage en haut face à vous. Fixez le PIR sur les crochets du support triangulaire ou vissez le PIR dessus.
-* Pour le montage en surface, un support rotatif en option est fourni pour permettre aux utilisateurs d'ajuster la plage de détection. Grâce au support rotatif, l'IR-16 peut pivoter de 80 degrés horizontalement et de 70 degrés verticalement pour offrir une couverture optimale.
-  * **Montage en coin :**
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="262"><figcaption></figcaption></figure>
 
-I. Casser les deux découpes du support triangulaire.
 
-![](<.gitbook/assets/5 (9).jpeg>)
 
-1. En utilisant les deux trous comme gabarit, percez des trous dans la surface du coin.
-2. Insérez les chevilles murales.
+* **Installation en applique :**\
+  1\. Ouvrez le couvercle en desserrant la vis.\
+  2\. Percez les découpes à l'intérieure de la base.\
+  3\. Utilisez les trous comme gabarit pour percer la surface de fixation.\
+  4\. Insérez les chevilles murales si vous le fixez dans du plâtre ou de la brique.\
+  5\. Vissez la base dans les chevilles murales.\
+  6\. Installez le couvercle sur la base et serrez.
 
-IV. Vissez le support triangulaire dans les chevilles murales avec les deux bâtons de pointage en haut face à vous (utilisez un tournevis Philips).
 
-1. Fixez le PIR sur les crochets du support triangulaire.
 
-VI. Si nécessaire, ouvrez le PIR en retirant l'ensemble vis de fixation et couvercle à l'aide d'un tournevis Philips.
+* **Montage en angle avec support :**\
+  1\. Percez les emplacements du support triangulaire.  \
+  2\. Utilisez les trous comme gabarit pour percer des trous sur la surface en angle.  \
+  3\. Insérez les chevilles murales.  \
+  4\. Vissez le support triangulaire dans les chevilles murales avec les deux pions de fixation en haut face à vous.  \
+  5\. Fixez le détecteur PIR sur les crochets du support triangulaire.\
+  6\. Si nécessaire, ouvrez le couvercle en desserrant la vis.\
+  7\. Percez les découpes à l'intérieure de la base.\
+  8\. Utilisez les trous comme gabarit pour percer la surface de fixation.\
+  9\. Insérez les chevilles murales si vous le fixez dans du plâtre ou de la brique.\
+  10\. Vissez la base dans les chevilles murales.\
+  11\. Installez le couvercle sur la base et serrez.
 
-VII. Percez les ouvertures défonçables appropriées pour la fixation des coins.
 
-VIII. En utilisant les découpes de fixation d'angle comme modèle, percez à nouveau des trous dans la surface du coin.
+
+* **Installation en applique avec support articulé (en option, vendu séparément):**\
+  Le support articulé peut être monté au mur à l'aide des vis fournies.\
+  1\. Vissez le support articulé au mur.\
+  2\. Insérez les 3 crochets du support articulé dans les 3 trous de la base.\
+  3\. Faites pivoter le support pour obtenir la plage de détection souhaitez et serrez la vis de fixation.
+
+
 
 ![](<.gitbook/assets/6 (13).jpeg>)
 
-IX. Insérez les chevilles murales si vous le fixez dans du plâtre ou de la brique.
 
-1. Fixez le PIR sur les crochets du support triangulaire.
 
-XI. Vissez la base dans les chevilles murales à l'aide d'un tournevis Philips.
+_**Installation**_\
+_**-**_ Décidez de l'emplacement du détecteur PIR et s'il doit être monté en angle ou en applique.\
+\- Une fois l'emplacement d'installation sélectionné, suivez les étapes décrites ci-dessus pour installer le détecteur PIR.\
+\- Appuyez sur le bouton test pour démarrer le mode test. Parcourez la zone protégée en vérifiant la LED s'allume et vérifiez que la couverture de détection est adéquate.\
+\- Lorsque la couverture de détection s'avère satisfaisante, l'installation est désormais terminée.
 
-XII. Revissez le couvercle sur sa base à l'aide d'un tournevis Philips.
 
-* **Montage en saillie :**
 
-1. Retirez la vis de fixation et l'ensemble couvercle à l'aide d'un tournevis Philips.
-2. Percez les trous appropriés sur la base.
-3. En utilisant les trous comme gabarit, percez des trous dans la surface.
+_**Recommandations d'installation**_
 
-IV. Insérez les chevilles murales si vous le fixez dans du plâtre ou de la brique.
+**Détecteur PIR standard**
 
-*
-  *
-    1. Vissez la base dans les chevilles murales à l'aide d'un tournevis Philips.
+* Le détecteur PIR est conçu pour offrir une portée de détection de 12 mètres lorsqu'il est installé à 2 mètres de haut.
 
-VI. Revissez le couvercle sur sa base à l'aide d'un tournevis Philips.
+**Détecteur PIR avec immunité animaux**
 
-* \*\*Montage en surface avec support rotatif (article en option, vendu séparément) :\*\*Le support rotatif peut être monté au mur à l'aide des vis fournies.
-  1. Vissez le support rotatif dans le mur.
-
-1. Insérez les 3 crochets du support rotatif dans les 3 trous de la base en conséquence.
-
-2
-
-*
-  *
-    1. Faites pivoter le support pour obtenir la plage de détection appropriée et serrez la vis de fixation.
-* _**Installation**_
-  * Décidez de l'emplacement du PIR et s'il doit être monté en coin ou en surface.
-  * Une fois le site d'installation sélectionné, suivez les étapes décrites ci-dessus pour monter le PIR.
-  * Appuyez sur le bouton Test pour accéder au mode Test. Parcourez la zone protégée en notant quand la LED s'allume et vérifiez que la couverture de détection est adéquate.
-  * Lorsque la couverture de détection s'avère satisfaisante, l'installation est désormais terminée.
-* _**Recommandations d'installation**_
-
-**PIR régulier**
-
-* La portée de détection peut atteindre 12 mètres si le PIR est monté à 2 mètres au-dessus du sol.
-
-**PIR immunisé contre les animaux**
-
-* Le PIR Pet-Immune prend en charge la fonction d'immunité aux animaux et ne détectera pas les animaux pesant jusqu'à 27 kg dans un rayon de 7 mètres afin de minimiser les situations de fausse alarme.
-* Si nécessaire, vous pouvez ajuster la hauteur du PIR en fonction de la taille de votre animal pour une performance immunitaire optimale. Un emplacement d'installation plus élevé offrira un plus grand espace immunisé contre les animaux de compagnie, mais augmentera également l'angle mort sous le PIR.
+* Le détecteur PIR avec immunité animaux prennent en charge la fonction d'immunité aux animaux et ne détecteront pas les animaux pesant jusqu'à 27 kg dans un rayon de 7 mètres afin de minimiser les situations de fausse alarme.
+* Si nécessaire, vous pouvez ajuster la hauteur du détecteur PIR en fonction de la taille de votre animal pour une immunité optimale. Un emplacement d'installation plus élevé offrira une plus grande zone immunisée mais augmentera également l'angle mort sous le PIR.
 
 ![](<.gitbook/assets/7 (12).jpeg>)
 
-Pour tirer pleinement parti du PIR, les directives suivantes doivent être prises en compte :
+Pour tirer pleinement parti du détecteur PIR, les directives suivantes doivent être prises en compte :\
+**Il est recommandé d'installer le PIR aux emplacements suivants:**\
+**-** Installez le détecteur à une hauteur de 1,9 M à 2,0 M pour de meilleures performances.
 
-* **Il est recommandé d'installer le PIR aux emplacements suivants**
-  * Montez le détecteur à une hauteur de 1,9 M à 2,0 M pour de meilleures performances :
 
-_\\_
 
-*
-  * Lorsque vous décidez de la hauteur du site de montage du PIR, n'oubliez pas de prendre en compte l'éventuel angle mort. L'angle mort sous le PIR s'agrandit proportionnellement à la hauteur du site de montage du PIR.
-  * Veuillez noter que les performances sont affectées par des facteurs externes, tels que la hauteur de l'objet détecté, la plage de détection souhaitée, la zone d'installation… etc. La hauteur de montage suggérée peut être ajustée en fonction des facteurs réels de l'environnement d'installation.
-* Lorsque l'IR-16 est monté avec un support rotatif, il n'aura pas la zone de détection normale (comme dans le diagramme ci-dessus) ni la plage d'immunité typique aux animaux de compagnie.
-  * Montez là où les animaux ne peuvent pas accéder à la zone de détection en grimpant sur des meubles ou d'autres objets.
-  * Ne dirigez pas le détecteur vers des escaliers sur lesquels les animaux peuvent monter.
-  * Dans une position telle qu’un intrus se déplacerait normalement d’un côté à l’autre du champ de vision du PIR.
-  * Dans un coin pour donner la vue la plus large.
-  * Où son champ de vision ne sera pas obstrué, par ex. par des rideaux, des ornements, etc.
-* **Limites**
-  * Ne positionnez pas un PIR pour regarder directement une porte protégée par un contact de porte, cela pourrait provoquer la transmission des signaux radio du contact de porte et du PIR au même instant lors de l'entrée, s'annulant mutuellement.
-  * N'installez pas le PIR complètement exposé à la lumière directe du soleil.
-  * Évitez d'installer le PIR dans des zones où les appareils peuvent provoquer un changement rapide de température dans la zone de détection, c'est-à-dire un climatiseur, un chauffage, etc.
-  * Évitez les gros obstacles dans la zone de détection.
-  * Ne pas pointer directement vers des sources de chaleur, par ex. feux ou chaudières, et pas au-dessus des radiateurs.
-  * Évitez de déplacer des objets dans la zone de détection, par exemple un rideau, une tenture murale, etc.
+NOTE\
+\- Lorsque vous décidez de la hauteur de pose du détecteur PIR, n'oubliez pas de prendre en compte l'éventuel angle mort. L'angle mort sous le détecteur PIR s'agrandit proportionnellement en fonction de la hauteur de pose.\
+\- Veuillez noter que les performances sont affectées par des facteurs externes, tels que la hauteur de l'objet détecté, la plage de détection souhaitée, la zone d'installation… etc. La hauteur de montage suggérée peut être ajustée en fonction des facteurs réels de l'environnement d'installation.\
+\- Lorsque le détecteur PIR est installé avec un support articulé, il n'aura pas la zone de détection normale (comme dans le diagramme ci-dessus) ni la plage d'immunité animaux classique.
 
-3
+
+
+* Installez le détecteur PIR là où les animaux ne peuvent pas accéder à la zone de détection en grimpant sur des meubles ou d'autres objets.
+* Ne dirigez pas le détecteur vers des escaliers où lesquels les animaux peuvent monter.
+* Dans une position telle qu’un intrus se déplacerait normalement d’un côté à l’autre du champ de détection du PIR.
+* Dans un angle pour une scène plus large.
+* Où son champ de vision ne sera pas obstrué, par ex. par des rideaux, des ornements, etc.
+
+
+
+* **Limites**\
+  **-** Ne positionnez pas un détecteur PIR directement vers une porte protégée par un détecteur d'ouverture, cela pourrait provoquer la transmission des signaux radio du contact de porte et du PIR au même instant lors de l'entrée, s'annulant mutuellement.\
+  \- N'installez pas le PIR complètement exposé à la lumière directe du soleil.\
+  \- Évitez d'installer le PIR dans des zones où les appareils peuvent provoquer un changement rapide de température dans la zone de détection, c'est-à-dire un climatiseur, un chauffage, etc.\
+  \- Évitez les gros obstacles dans la zone de détection.\
+  \- Ne pas pointer directement vers des sources de chaleur, par ex. feux ou chaudières, et pas au-dessus des radiateurs.\
+  \- Évitez de déplacer des objets dans la zone de détection, par exemple un rideau, une tenture murale, etc
+

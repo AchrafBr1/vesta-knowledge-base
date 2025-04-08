@@ -1,3 +1,7 @@
+---
+icon: circle-chevron-right
+---
+
 # VESTA 010
 
 * Clavier distant KP-15-(NT)/ KP-15-(NT)-F1
@@ -41,15 +45,15 @@
 
 **11. + Clé**
 
-\-appuyez à la fois sur 7 et 9 pour déclencher l'alarme médicale
+-appuyez à la fois sur 7 et 9 pour déclencher l'alarme médicale
 
 **12. Clé de feu**
 
-\-appuyez à la fois sur 4 et 6 pour déclencher l'alarme incendie
+-appuyez à la fois sur 4 et 6 pour déclencher l'alarme incendie
 
 **13. Une clé**
 
-\-appuyez à la fois sur 1 et 3 pour déclencher l'alarme de panique
+-appuyez à la fois sur 1 et 3 pour déclencher l'alarme de panique
 
 **14. Trou de montage**
 
