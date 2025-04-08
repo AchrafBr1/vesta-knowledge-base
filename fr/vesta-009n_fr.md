@@ -75,51 +75,46 @@ IRP-16SL – Détecteur PIR, immunité animaux avec batterie au lithium 3 V
 
 
 
-* _**Voyant LED**_
+* _**Voyant LED**_\
+  En mode de fonctionnement normal, le voyant LED ne s'allumera pas sauf dans les situations suivantes:\
+  \- Lorsque le PIR est en état de batterie faible, chaque fois qu'il transmet un évènement, la LED s'allume pendant environ 2 secondes.\
+  \- Lorsque le couvercle est ouvert et que l'autoprotection est déclenchée, la LED s'allume pendant 2 secondes pour indiquer la transmission d'un évènement "Autoprotection".\
+  \- Lorsque la condition d'autoprotection persiste, chaque fois qu'il transmet la détection d'un mouvement, la LED s'allumera.\
+  \- Lorsque le détecteur PIR est en mode test, la LED s'allume à chaque fois qu'un mouvement est détecté.
 
-En mode de fonctionnement normal, le voyant LED ne s'allumera pas sauf dans les situations suivantes :
 
-* Lorsque le PIR est en état de batterie faible, chaque fois qu'il transmet un mouvement détecté, la LED s'allume pendant environ 2 secondes.
-* Lorsque le couvercle est ouvert et que l'interrupteur anti-sabotage est violé, la LED s'allume pendant 2 secondes. pour indiquer qu'il transmet le
 
-1
+* _**Batterie**_\
+  Le détecteur PIR de la série IR-16 utilise différentes piles au lithium comme source d'alimentation:\
+  \- Les modèles non SL utilisent une pile lithium AA 3,6V (ER14505).\
+  \- Les modèles SL utilisent une pile lithium 3V 2/3 A (CR123).\
+  \
+  Le détecteur PIR dispose d'une fonction de détection de batterie faible. Si une faible tension de batterie est détectée, un signal de batterie faible sera envoyé à la centrale avec des transmissions régulières pour que la centrale affiche l'état en conséquence.\
+  \
+  La batterie est installée en usine avant expédition avec un isolant inséré.\
+  \
+  Lors du changement des piles, après avoir retiré les anciennes piles, appuyez deux fois sur l'autoprotection pour décharger complètement avant d'insérer de nouvelles piles.
 
-“**Altérer**» signale-t-il.
 
-*
-  * Lorsque la condition de sabotage persiste, chaque fois qu'il transmet un mouvement détecté, la LED s'allumera.
-  * Lorsque le PIR est en mode Test, la LED s'allume à chaque fois qu'un mouvement est détecté.
-* _**Batterie**_
 
-Le capteur de mouvement PIR de la série IR-16 utilise différentes piles au lithium comme source d'alimentation :
+_**Démarrage**_\
+_**-**_ Retirez l'isolant de la batterie pour activer la batterie.\
+\- Le voyant LED clignote pendant 30 secondes (le détecteur PIR démarre). Pendant la période de démarrage, le détecteur PIR ne sera pas actif. Une fois la période de démarrage terminée, le voyant LED s'éteindra et le PIR sera prêt à fonctionner.\
+\- Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale pour plus de détails.\
+\- Appuyez sur le bouton de test du le capot avant.\
+\- Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage.\
+\- Une fois le détecteur PIR appris, mettez la centrale en "**Test de fonctionnement"**, maintenez le détecteur PIR à l'emplacement souhaité et appuyez sur le bouton test pour confirmer que cet emplacement est à portée de signal de la centrale, reportez-vous au manuel de la centrale pour terminer le test de fonctionnement.\
+\- Lorsque vous êtes convaincu que le détecteur PIR fonctionne à l'emplacement choisi, vous pouvez procéder au montage
 
-* Les modèles non SL utilisent une pile au lithium AA 3,6 V (ER14505) comme source d'alimentation.
-* Les modèles SL utilisent une pile au lithium 3 V 2/3 A (CR123) comme source d'alimentation.
 
-Lorsqu'une faible tension de batterie est détectée, un signal de batterie faible sera envoyé au panneau de commande avec des transmissions de signal régulières pour que le panneau de commande affiche l'état en conséquence.
 
-La batterie est installée en usine avant expédition avec un isolant inséré.
+_**Montage**_
 
-_\\_
-
-*
-  *
-    *
-      * Lors du changement des piles, après avoir retiré les anciennes piles, appuyez deux fois sur l'interrupteur anti-sabotage pour les décharger complètement avant d'insérer de nouvelles piles.
-* _**Commencer**_
-  * Retirez l'isolant de la batterie pour activer la batterie.
-  * L'indicateur LED clignote pendant 30 secondes. (Le PIR s'échauffe). Pendant la période de préchauffage, le PIR ne sera pas activé. Il est recommandé de rester à l'écart de la zone de détection pendant cette période. Une fois la période de préchauffage terminée, la LED s'éteindra et le PIR sera prêt à fonctionner.
-  * Mettez le panneau de commande en mode apprentissage, reportez-vous au manuel du panneau de commande pour plus de détails.
-  * Appuyez sur le bouton de test sur le capot avant.
-  * Reportez-vous au manuel du panneau de commande pour terminer le processus d'apprentissage.
-  * Une fois le PIR appris, placez le panneau de commande sur «**Test de marche**", maintenez le PIR à l'emplacement souhaité et appuyez sur le bouton Test pour confirmer que cet emplacement est à portée du signal du panneau de commande, reportez-vous au manuel du panneau de commande pour terminer le test de marche.
-  * Lorsque vous êtes convaincu que le PIR fonctionne à l'emplacement choisi, vous pouvez procéder au montage.
-* _**Méthode de montage**_
-  * Le PIR est conçu pour être monté sur une surface plane ou dans un coin avec les vis de fixation et les chevilles fournies.
-  * La base comporte des découpes, là où le plastique est plus fin, à des fins de montage. Quatre découpes sont destinées à la fixation en surface.
-  * Pour le montage en coin, un support triangulaire est fourni pour ajouter une protection anti-effraction arrière. Montez d'abord le support triangulaire sur le mur avec les deux bâtons de pointage en haut face à vous. Fixez le PIR sur les crochets du support triangulaire ou vissez le PIR dessus.
-  * Pour le montage en surface, un support rotatif en option est fourni pour permettre aux utilisateurs d'ajuster la plage de détection. Grâce au support rotatif, l'IR-16 peut pivoter de 80 degrés horizontalement et de 70 degrés verticalement pour offrir une couverture optimale.
-    * **Montage en coin :**
+* Le PIR est conçu pour être monté sur une surface plane ou dans un coin avec les vis de fixation et les chevilles fournies.
+* La base comporte des découpes, là où le plastique est plus fin, à des fins de montage. Quatre découpes sont destinées à la fixation en surface.
+* Pour le montage en coin, un support triangulaire est fourni pour ajouter une protection anti-effraction arrière. Montez d'abord le support triangulaire sur le mur avec les deux bâtons de pointage en haut face à vous. Fixez le PIR sur les crochets du support triangulaire ou vissez le PIR dessus.
+* Pour le montage en surface, un support rotatif en option est fourni pour permettre aux utilisateurs d'ajuster la plage de détection. Grâce au support rotatif, l'IR-16 peut pivoter de 80 degrés horizontalement et de 70 degrés verticalement pour offrir une couverture optimale.
+  * **Montage en coin :**
 
 I. Casser les deux découpes du support triangulaire.
 
