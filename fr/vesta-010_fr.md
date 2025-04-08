@@ -4,81 +4,78 @@ icon: circle-chevron-right
 
 # VESTA 010
 
-* Clavier distant KP-15-(NT)/ KP-15-(NT)-F1
+**KP-15-(NT)/ KP-15-(NT)-F1**
 
-24-mars-2017
 
-* Le clavier distant comprend les modèles suivants :
-* KP-15 / KP-15-F1 : clavier à distance avec interrupteur anti-sabotage
-* KP-15-NT / KP-15-NT-F1 : clavier à distance sans interrupteur anti-sabotage
-* _**Identification des pièces**_
 
-![](<.gitbook/assets/0 (4) (1).png>)
+**Clavier sans fils**
 
-![](<.gitbook/assets/1 (6) (1).png>)
 
-**1. LED verte active**
 
-**2. LED rouge d'émission**
+Ce clavier est décliné en deux modèles :
 
-**3. LED de défaut orange**
+* KP-15 / KP-15-F1 : clavier sans fils avec autoprotection
+* KP-15-NT / KP-15-NT-F1 : clavier sans fils sans autoprotection
+
+
+
+_**Identification des pièces**_
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**1. LED verte-Activité**
+
+**2. LED rouge-Transmission**
+
+**3. LED orange-Défaut**
 
 **4. Section coulissante**
 
-![](<.gitbook/assets/2 (6) (1).png>)
+**5. Armement total**
 
-**5. Clé d'armement**
+**6. Armement partiel**
 
-**6. Clé d'accueil**
+**7. Annuler**
 
-![](<.gitbook/assets/3 (6) (1).png>)
-
-**7. Clé**
-
-**8. Désarmer la clé**
-
-![](<.gitbook/assets/4 (6) (1).png>)
+**8. Désarmement**
 
 **9. Touche ＃**
 
-**10. 🞸 Clé**
+**10. Touche 🞸**
 
-**11. + Clé**
+**11. Alarme Médicale**\
+\- Appuyez sur 7 et 9 simultanément pour déclencher une alarme médicale.
 
--appuyez à la fois sur 7 et 9 pour déclencher l'alarme médicale
+**12. Alarme Incendie**\
+\- Appuyez sur 4 et 6 simultanément pour déclencher une alarme incendie.
 
-**12. Clé de feu**
+**13. Alarme Panique**\
+\- Appuyez sur 1 et 3 simultanément pour déclencher l'alarme de panique.
 
--appuyez à la fois sur 4 et 6 pour déclencher l'alarme incendie
+**14. Fixations**
 
-**13. Une clé**
+**15. Autoprotection**
 
--appuyez à la fois sur 1 et 3 pour déclencher l'alarme de panique
+**16. Buzzer**
 
-**14. Trou de montage**
+**17. Opercule de batterie**
 
-**15. Interrupteur anti-sabotage**
 
-**16. Sonnette**
 
-**17. Isolateur de batterie**
+_**Indicateur LED :**_
 
-* _**Indicateur LED :**_
-* **LED verte active :**
-  *
-    * LED verte active allumée : le système est en**Mode de fonctionnement normal**.
-    * Clignotement LED actif vert : le système est en**Mode d'essai**.
-    * Lorsque le clavier est inactif, toutes les LED sont éteintes. Après toute pression sur une touche, la LED verte active s'allume pendant 5 secondes, indiquant que le clavier est actif.
-    * La LED verte active s'éteindra après la réussite d'une séquence de frappe valide ou lorsque la pause entre les frappes est supérieure à 5 secondes.
-    * Lorsque la LED verte active s'éteint avant qu'une séquence de frappe valide ne soit terminée (5 secondes), les touches saisies précédemment sont ignorées.
-* **LED rouge TX :**
-  *
-    * La LED Rouge TX clignote : le signal est transmis.
-* **LED de défaut orange :**
-  *
-    * Clignotement du voyant de panne orange : la batterie est faible pendant le fonctionnement.
-    * LED de défaut orange allumée : le sabotage est déclenché pendant le fonctionnement.
-    * Lorsque le sabotage du clavier est déclenché et que la batterie est faible, la LED orange de défaut s'allume pendant le fonctionnement.
+* **LED verte-Activité:**
+  * LED verte-Activité allumée : le système est en **Mode de fonctionnement normal**.
+  * LED verte-Activité clignotante : le système est en **Mode test**.
+  * Lorsque le clavier est inactif, toutes les LED sont éteintes. Après toute pression sur une touche, la LED verte-Activité s'allume pendant 5 secondes, indiquant que le clavier est actif.
+  * La LED verte-Activitée s'éteindra après une saisie correcte ou une pause dans la saisie de plus de 5 secondes.
+  * Lorsque la LED verte-Activité s'éteint avant qu'une saisie correcte ne soit terminée (5 secondes), la saisie est ignorée.
+* **LED rouge-Transmission :**
+  * La LED Rouge-Transmission : le signal est transmis.
+* **LED orange-Défaut :**
+  * LED Orange-Défaut clignotante : la batterie est faible.
+  * LED Orange-Défaut allumée : l'autoprotection est déclenchée.
+  * Lorsque l'autoprotection est déclenchée et que la batterie est faible, la LED orange-Défaut s'allume pendant le fonctionnement.
 
 **\\**
 
