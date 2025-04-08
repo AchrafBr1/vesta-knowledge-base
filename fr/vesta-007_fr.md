@@ -25,7 +25,7 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 
 * **Identification**
 
-![852Pro R8\_20160629](<.gitbook/assets/0 (8).jpeg>)
+<figure><img src=".gitbook/assets/0 (8).jpeg" alt=""><figcaption></figcaption></figure>
 
 1. **LED clignotante / LED IR**\
    La LED clignotante (pour 862(P)) ou la LED IR (pour 862(P)-IL) fournit suffisamment de lumière pour la capture d'images dans des conditions de faible éclairage.

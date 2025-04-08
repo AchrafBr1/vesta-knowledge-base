@@ -75,19 +75,21 @@ Le détecteur d'ouverture optique se compose d'un couvercle et d'une base. La ba
   Étape 7 : Une fois le détecteur d'ouverture optique appris, placez la centrale en mode "Test". Maintenez le détecteur d'ouverture optique à l'emplacement souhaité et appuyez sur le bouton Test pour confirmer si cet emplacement est à portée de signal de la centrale.\
   Étape 8 : Lorsque vous êtes satisfait du fonctionnement à l'emplacement choisi, procédez à l'installation.
 
-![](<.gitbook/assets/3 (6).png>)
+<figure><img src=".gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
 
 
 
-* _**Montage du détecteur d'ouverture**_\
-  Trouvez un endroit approprié pour installer le détecteur d'ouverture. Il est recommandé d'installer le détecteur d'ouverture sur un objet fixe (tel qu'un cadre de porte ou un cadre de fenêtre). Veuillez vous assurer que l'emplacement est à portée de signal de la centrale avant le montage.\
-  \
-  Etape 1 : La surface de montage doit être propre, sèche et lisse. Nettoyez la surface de montage avec un dégraissant adapté si nécessaire.\
-  Étape 2 : Retirez le revêtement protecteur d'un côté du tampon adhésif double face. Appliquez au dos de l'appareil et appuyer fermement pendant 30 secondes pour assurer un bon contact.\
-  Étape 3 : Retirez l'autre opercule et appuyez fermement sur le détecteur d'ouverture optique à l'emplacement souhaité. Veuillez éviter d'appliquer le tampon adhésif sur une surface inégale ou de le réappliquer.\
-  ![](<.gitbook/assets/4 (6).png>)\
-  Étape 4 : Marquez l’emplacement de l’autocollant réfléchissant. L'autocollant réfléchissant doit être appliqué sur le côté **opposé** de la zone de détection infrarouge. L'écart ne devrait pas dépasser **3mm** lorsque la porte/fenêtre est fermée.\
-  Étape 5 : Appliquez l'autocollant réfléchissant. Veuillez éviter d'appliquer l'autocollant réfléchissant sur une surface inégale ou de le réappliquer.
+*   _**Montage du détecteur d'ouverture**_\
+    Trouvez un endroit approprié pour installer le détecteur d'ouverture. Il est recommandé d'installer le détecteur d'ouverture sur un objet fixe (tel qu'un cadre de porte ou un cadre de fenêtre). Veuillez vous assurer que l'emplacement est à portée de signal de la centrale avant le montage.\
+    \
+    Etape 1 : La surface de montage doit être propre, sèche et lisse. Nettoyez la surface de montage avec un dégraissant adapté si nécessaire.\
+    Étape 2 : Retirez le revêtement protecteur d'un côté du tampon adhésif double face. Appliquez au dos de l'appareil et appuyer fermement pendant 30 secondes pour assurer un bon contact.\
+    Étape 3 : Retirez l'autre opercule et appuyez fermement sur le détecteur d'ouverture optique à l'emplacement souhaité. Veuillez éviter d'appliquer le tampon adhésif sur une surface inégale ou de le réappliquer.\
+    \
+    Étape 4 : Marquez l’emplacement de l’autocollant réfléchissant. L'autocollant réfléchissant doit être appliqué sur le côté **opposé** de la zone de détection infrarouge. L'écart ne devrait pas dépasser **3mm** lorsque la porte/fenêtre est fermée.\
+    Étape 5 : Appliquez l'autocollant réfléchissant. Veuillez éviter d'appliquer l'autocollant réfléchissant sur une surface inégale ou de le réappliquer.
+
+    <figure><img src=".gitbook/assets/4 (6).png" alt=""><figcaption></figcaption></figure>
 
 NOTE:
 
