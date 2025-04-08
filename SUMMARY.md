@@ -234,3 +234,4 @@
 * [VESTA-243](vesta-243.md)
 * [VESTA-404](vesta-404.md)
 * [VESTA 425](vesta-425.md)
+* [VESTA-440](vesta-440.md)
