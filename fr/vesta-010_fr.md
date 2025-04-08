@@ -77,32 +77,50 @@ _**Indicateur LED :**_
   * LED Orange-Défaut allumée : l'autoprotection est déclenchée.
   * Lorsque l'autoprotection est déclenchée et que la batterie est faible, la LED orange-Défaut s'allume pendant le fonctionnement.
 
-**\\**
+NOTE
 
 * Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.
-* 4 bips continus retentiront pour indiquer à l'utilisateur qu'il a saisi une frappe invalide, et l'utilisateur est invité à répéter le processus.
-* _**Pouvoir:**_
-* Le clavier utilise une pile au lithium CR2450 3V 540mAH comme source d'alimentation.
+* 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
+
+
+
+_**Alimentation**_
+
+* Le clavier utilise une pile au lithium CR2450 3V 540mAH.
 * Le clavier peut également détecter l'état de la batterie. La détection de batterie faible fonctionne lorsque le clavier dispose d'une réserve d'énergie suffisante pour fonctionner généralement pendant 4 mois avant d'être complètement épuisé.
 * Lorsque la batterie du clavier est faible, la LED orange de défaut clignote pendant le fonctionnement et un signal de batterie faible sera transmis avec les transmissions de signaux régulières.
 * Avant expédition, la batterie est préinstallée en usine.
-* _**Autoprotection:**_
+
+
+
+_**Autoprotection:**_
+
 * Le clavier est protégé contre toute tentative d'ouverture du couvercle ou de détachement du clavier de sa surface de montage.
 * La protection contre les altérations est désactivée en mode test.
 * Lorsque le sabotage du clavier est déclenché, il enverra un signal de défaut de sabotage KP au panneau de commande et la LED orange de défaut s'allumera. De plus, pendant l'utilisation du clavier, la LED Orange Fault restera allumée pour indiquer le défaut de sabotage KP.
-* _**Fonction d'économie d'énergie :**_
+
+
+
+_**Fonction d'économie d'énergie :**_
+
 * Lorsque le clavier n'est pas utilisé, aucune énergie n'est consommée. Chaque fois qu'une touche est enfoncée, le clavier s'active et "**réveillez-vous**» pendant 5 secondes lorsqu'une touche est enfoncée.
 * Après 5 secondes d'inactivité des touches, l'appareil s'éteint à nouveau et revient en mode veille.
 * À la fin d'une entrée de commande, l'alimentation est coupée et revient en mode veille.
-* _**Mode d'essai:**_
+
+
+
+_**Mode d'essai:**_
+
 * Le clavier peut être mis en mode Test en entrant le code PIN (par défaut :**0000**) suivi de \*. La LED verte active clignotera et le clavier émettra un long bip.
 * Pour quitter le mode Test, appuyez sur![](<.gitbook/assets/5 (5) (1).png>)**deux fois**, Le clavier émettra un long bip et la LED verte active s'allumera, puis le clavier reviendra en mode de fonctionnement normal.
 
-**\\**
+**NOTE**
 
 * Le mode test est utile pour contourner l'alarme anti-sabotage du clavier lors de l'installation, du remplacement des piles faibles ou du retrait sur un autre site de montage.
 * Lorsque le clavier est en mode Test, il fonctionne comme**réveillez-vous**Cette condition ne se déconnectera donc PAS après 5 secondes.
 * En mode test, si aucune touche n'est enfoncée dans les 30 minutes, le clavier quittera automatiquement le mode test pour passer en mode de fonctionnement normal.
+
+
 
 _Le**Mode test du clavier**permet les fonctions suivantes :_
 
