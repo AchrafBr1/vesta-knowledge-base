@@ -16,7 +16,7 @@ Le détecteur PIR dispose d'une autoprotection qui s'activera lorsque le couverc
 Le détecteur  PIR est conçu pour offrir une portée de 12 mètres lorsqu'il est monté à 2 mètres de haut.\
 Les modèles avec immunité animaux de la série IR-29 prennent en charge la fonction d'immunité aux animaux et ne détecteront pas les animaux pesant jusqu'à 27 kg dans un rayon de 7 mètres afin de minimiser les situations de fausse alarme.\
 \
-**Les détecteur PIR de la série IR-29 sont les suivants:**\
+**Les détecteurs PIR de la série IR-29 sont les suivants:**\
 \
 IR-29 / IR-29 F1 – Détecteur PIR avec piles alcalines\
 IRP-29 / IRP-29 F1 – Détecteur PIR, immunité animaux avec piles alcalines\
@@ -25,8 +25,10 @@ IRP-29SL / IRP-29SL-F1 – Détecteur PIR, immunité animaux avec batterie au li
 
 
 
-* **Identification**\
-  ![](<.gitbook/assets/0 (3) (1).png>)
+**Identification**\
+
+
+<figure><img src=".gitbook/assets/0 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

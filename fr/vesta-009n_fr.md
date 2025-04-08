@@ -4,78 +4,78 @@ icon: circle-chevron-right
 
 # VESTA 009N
 
-**Capteur de mouvement PIR (série IR-16)**
+**IR-16**
 
-Notre algorithme de processeur de signal adaptatif numérisé permet à ce PIR de capter les mouvements dans une zone assignée et signale au panneau de commande d'activer l'alarme si un intrus croise son chemin de détection.
 
-Le PIR se compose d’une conception en deux parties composée d’un couvercle et d’une base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un coin avec un support triangulaire pour un montage en coin.
 
-Un interrupteur anti-sabotage qui sera activé lorsque le couvercle est détaché de la base empêche tout accès non autorisé et tout retrait de la surface de montage. Le PIR peut également vous alerter des problèmes de communication et des situations de batterie faible.
+**Détecteur PIR**
 
-Le PIR est conçu pour offrir une portée de détection typique de 12 mètres lorsqu'il est monté à 2 mètres au-dessus du sol.
 
-**Le capteur PIR de la série IR-16 comprend les modèles suivants**:
 
-![](<.gitbook/assets/0 (22).jpeg>)
+**Introduction**
 
-IR-16 – Capteur PIR avec batterie au lithium 3,6 V
+Notre algorithme de processeur de signal adaptatif numérisé permet à ce détecteur PIR de capter les mouvements dans la zone de couverture et de signaler une alarme à la centrale si un intrus croise sa zone de détection.\
+Le détecteur PIR est composé de deux éléments, le couvercle et la base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un angle avec un support triangulaire.\
+Le détecteur PIR dispose d'une autoprotection qui s'activera lorsque le couvercle est ouvert. Il peut également vous alerter des problèmes de communication et des situations de batterie faible.\
+Le détecteur  PIR est conçu pour offrir une portée de 12 mètres lorsqu'il est monté à 2 mètres de haut.\
+\
+**Les détecteurs de la série IR-16 sont les suivants:**\
+\
+IR-16 – Détecteur PIR avec batterie lithium 3,6 V\
+IRP-16 – Détecteur PIR, immunité animaux avec batterie lithium 3,6 V\
+IR-16SL – Détecteur PIR avec batterie au lithium 3V\
+IRP-16SL – Détecteur PIR, immunité animaux avec batterie au lithium 3 V
 
-IRP-16 – Capteur PIR immunisé contre les animaux avec batterie au lithium 3,6 V
+\
 
-IR-16SL – Capteur PIR avec batterie au lithium 3V
 
-IRP-16SL – Capteur PIR immunisé contre les animaux avec batterie au lithium 3 V
+* _**Identification**_
 
-* _**Identifier les pièces.**_
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**1. Bouton de test/indicateur LED**
+1. **Bouton de test/indicateur LED**\
+   Le bouton de test est utilisé pour tester les performances du signal radio et pour l'apprentissage.   \
+   Le voyant LED est utilisé pour indiquer l'état du périphérique.
+2. **Autoprotection**\
+   L'autoprotection protège le détecteur PIR contre l'ouverture bu boîtier.
+3. **Opercule de batterie**
+4.  **Support d'angle**\
 
-Le bouton de test est utilisé pour tester les performances de la radio et à des fins d'apprentissage.
 
-L'indicateur LED est utilisé pour indiquer l'état du système.
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+5. **Cavalier de supervision (JP2)**\
+   **-** Cavalier Off : la supervision est activée (**par défaut pour les modèles 868WF**)\
+   **-** Cavalier On : la supervision est désactivée (**par défaut pour les modèles 433AM**)\
+   Pour les modèles **433AM** ou **868WF** ne disposant pas de cavalier JP2, la supervision est activée et ne peut pas être désactivée
+6. **Cavalier de sensibilité (JP3)**\
+   **-** Cavalier Off : la sensibilité du détecteur PIR est au niveau normal **(par défaut pour les modèles sans immunité animaux)**.\
+   \- Cavalier On : la sensibilité du détecteur PIR est élevée (par défaut pour les modèles avec immunité animaux)**.**
+7. **Autoprotection**
 
-**2. Interrupteur anti-sabotage**
 
-L'interrupteur anti-sabotage protège le boîtier contre l'ouverture.
 
-1. **Isolateur de batterie**
-2. **Support de montage d'angle**
-3. **Commutateur d'activation/désactivation de la supervision (JP2)**
-   * Si le cavalier est OFF (si le lien du cavalier est retiré ou "**garé**" sur une broche), la fonction Supervision est activée.**(Par défaut d'usine pour les modèles de fréquence 868 WF)**
-   * Si le cavalier est activé, la fonction de supervision de l'IR-16 est désactivée.**(Par défaut d'usine pour**
+* _**Mise en veille**_\
+  Le détecteur PIR a une "**mise en veille**" d'environs 1 minute pour économiser de l'énergie. Après avoir transmis un mouvement détecté, le détecteur PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera la temporisation de mise en veille de 1 minute. Un mouvement continu devant le PIRCAM n'épuisera donc pas la batterie.
 
-![](<.gitbook/assets/1 (30).png>) ![](<.gitbook/assets/2 (13).jpeg>)
 
-**Modèles de fréquence 433AM et 868AM)**
 
-*
-  *
-    * **433FM**/**868 modèles de fréquence FM**ne prend pas en charge le cavalier JP2, la supervision est toujours activée et ne peut pas être désactivée.
-  * **Commutateur de cavalier d'augmentation de sensibilité (JP3)**
-    * Si le cavalier est OFF (si le lien du cavalier est retiré ou "**garé**" sur une broche), la sensibilité de détection de l'IR-16SL est au niveau normal. (**Paramètres d'usine pour les modèles non immunisés contre les animaux**)
-    * Si le cavalier est activé, la sensibilité de détection de l'IR-16 est élevée.**(Par défaut d'usine pour les modèles immunisés contre les animaux)**
-  * **Interrupteur anti-sabotage**
-* _**Minuterie de mise en veille**_
+* _**Supervision**_\
+  Si elle est activée (voir ci-dessus), lorsque le détecteur PIR est en mode de fonctionnement normal, il effectuera un auto-test en transmettant un signal de supervision une fois toutes les 30 à 50 minutes.  \
+  Si la centrale ne parvient pas à recevoir les signaux de supervision pendant une durée définie, un message de défaut sera généré
 
-![](<.gitbook/assets/3 (13).jpeg>) ![](<.gitbook/assets/4 (14).jpeg>)
 
-Le PIR a un «**Temps de sommeil**" d'environ 1 minute pour économiser l'énergie. Après avoir transmis un mouvement détecté, le PIR ne retransmettra pas pendant 1 minute ; tout mouvement supplémentaire détecté pendant cette période de sommeil réinitialisera la minuterie de sommeil d'une minute. De cette manière, un mouvement continu devant un PIR n’épuisera pas indûment la batterie.
 
-* _**Fonction de surveillance**_
+* _**Augmentation de la sensibilité**_\
+  Vous pouvez utiliser la fonction d’augmentation de sensibilité pour augmenter la sensibilité de détection du détecteur PIR. Pour augmenter la sensibilité de détection, connectez le cavalier (JP3) ou le mettre en position ON (par défaut pour les modèles avec immunité animaux). Pour maintenir une sensibilité normale, déconnectez le cavalier (JP3) ou le mettre en position OFF (par défaut pour les modèles sans immunité animaux)
 
-S'il est activé, lorsque le PIR est en mode de fonctionnement normal, il effectuera un auto-test périodiquement en transmettant un signal de supervision une fois toutes les 30 à 50 minutes.
 
-Si le panneau de commande ne parvient pas à recevoir les signaux de surveillance transmis par un certain PIR pendant une durée prédéfinie, un message «**Hors service**r” sera généré.
 
-* _**Fonction d'augmentation de la sensibilité**_
+* _**Mode d'essai**_\
+  Le détecteur PIR peut être mis en mode Test en appuyant sur le bouton test. En mode Test, il désactivera la mise en veille et permettra au voyant LED de clignoter à chaque fois qu'un mouvement est détecté. Chaque fois que vous appuyez sur le bouton de test, le détecteur PIR transmettra un signal de test à la centrale pour un test de portée radio et entrera en mode test pendant 3 minutes. Le mode test expirera après 3 minutes
 
-Vous pouvez utiliser la fonction d’augmentation de sensibilité pour augmenter la sensibilité de détection de l’IR. Pour augmenter la sensibilité de détection, veuillez reconnecter le commutateur de cavalier d'augmentation de sensibilité à**SUR**position. Pour maintenir la sensibilité de détection normale, reconnectez le cavalier à**DÉSACTIVÉ**position (par défaut d’usine).
 
-* _**Mode d'essai**_
 
-Le PIR peut être mis en mode Test en appuyant sur le bouton Test sur le capot avant. En mode Test, il désactivera la minuterie de mise en veille et permettra à l'indicateur LED de clignoter à chaque fois qu'un mouvement est détecté. Chaque fois que vous appuyez sur le bouton Test, le PIR transmettra un signal de test au panneau de commande pour le test de portée radio et entrera en mode test pendant 3 minutes. Il quittera automatiquement le mode test après 3 minutes et reviendra en mode normal.
-
-* _**Indicateur LED**_
+* _**Voyant LED**_
 
 En mode de fonctionnement normal, le voyant LED ne s'allumera pas sauf dans les situations suivantes :
 
