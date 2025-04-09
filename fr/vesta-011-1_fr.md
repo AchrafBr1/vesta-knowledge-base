@@ -4,107 +4,125 @@ icon: circle-chevron-right
 
 # VESTA 011
 
-![](<.gitbook/assets/0 (22).png>)**CLAVIER À DISTANCE (KP-39)**
+**KP-39**
 
-* _**Identification des pièces**_
 
-1. Clé de bras
-2. Clé de la maison
-3. Clé de désarmement
-4. Alarme de panique (si activée)
-   * appuyez à la fois sur 1 et 3 pour déclencher l'alarme de panique
-5. Alarme incendie (si activée)
-   * appuyez à la fois sur 4 et 6 pour déclencher l'alarme incendie
-6. Alarme médicale (si activée)
-   * appuyez à la fois sur 7 et 9 pour déclencher l'alarme médicale
 
-![](<.gitbook/assets/1 (31).png>)
+**Clavier sans fils**
 
-1. Envoyer le code d'apprentissage
-   * appuyez sur ＊puis sur la touche 7 (sous Mode Test)
-   * appuyez à la fois sur les touches # et  (en mode de fonctionnement normal)
-2. \#Clé
-3.  Clé
-4. LED de défaut (LED orange)
-5. LED d'alimentation (LED verte)
-6. Trous de montage
-7. Interrupteur anti-sabotage
 
-_\\_
 
-*
-  *
-    * Un bip court retentira en même temps que la touche enfoncée pour indiquer que le bouton enfoncé est valide.
-    * 4 bips continus retentiront pour indiquer une erreur et l'utilisateur devra répéter le processus.
-* _**LED Indicator**_
-  * **LED d'alimentation (verte) :**
-    *
-      * Allumé pendant 5 secondes : après la réussite d’une séquence de touches valide.
-      * Flash pendant 5 secondes : batterie faible en mode de fonctionnement normal.
-      * Si le voyant d'alimentation s'éteint avant qu'une séquence de touches valide ne soit terminée, les touches saisies précédemment sont ignorées.
-  * **LED de défaut (orange) :**
-    *
-      * Touche de désarmement et LED orange allumées avec 5 bips : mémoire d'alarme (dépend du panneau de commande).
-      * Éclair:
+_**Identification**_
 
-![](<.gitbook/assets/2 (35).png>) ![](<.gitbook/assets/3 (32).png>)
+<figure><img src=".gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
 
-1
+1. Armement Total
+2. Armement Partiel
+3. Désarmement
+4. Alarme Panique (si activée)
+   * appuyez sur **1** et **3** pour déclencher l'alarme Panique
+5. Alarme Incendie (si activée)
+   * appuyez sur **4** et **6** pour déclencher l'alarme Incendie
+6. Alarme Médicale (si activée)
+   * appuyez sur **7** et **9** pour déclencher l'alarme Médicale
+7. Envoi du code d'apprentissage
+   * appuyez sur **＊**&#x65;t **7** (en Mode Test)
+   * appuyez sur **#** et **\*** (en mode normal)
+8. Touche **#**
+9. Touche  \*
+10. LED Défaut (orange)
+11. LED Alimentation (verte)
+12. Trous de fixation
+13. Autoprotection
 
-*
-  *
-    *
-      * Flash uniquement : Aucune réponse envoyée par la centrale dans les 10 secondes.
-      * Clignote accompagné de 2 bips : demande de mode Accueil pendant le mode Armement.
-      * Clignote avec 3 bips : demande de mode Accueil ou Armement en cas de condition de panne.
-      * Clignote accompagné de 4 bips : le code PIN était incorrect.
-* _**Opération générale**_
-  *
-    * Entrez en mode test — Entrez le code PIN du clavier, puis appuyez sur la touche ＊.
-    * Alarme de panique — Appuyez sur**1**touche +**3**clé en même temps. (si la fonction est activée)
-    * Alarme incendie — Appuyez sur**4**touche +**6**clé en même temps. (si la fonction est activée)
-    * Alarme médicale — Presse**7**touche +**9**clé en même temps. (si la fonction est activée)
-    * Vérifier l'état du panneau de commande - Mode normal Appuyez sur\*\*#\*\*clé.
-    * Activer/Désactiver le son d'entrée et de sortie — Appuyez sur**1**touche +**2**en même temps pendant 2 secondes. (Le clavier émettra un bip long pour indiquer que la fonction est activée et émettra 2 bips courts pour indiquer que la fonction est désactivée.)
-* _**Pouvoir**_
-  * Le clavier à distance utilise une pile au lithium CR123 3 V comme source d'alimentation.
-  * Le clavier distant peut également détecter l'état de la batterie. Si la tension de la batterie est faible, la LED d'alimentation clignote pendant 5 secondes pendant le fonctionnement. Le signal de batterie faible sera envoyé avec des transmissions de signal régulières au panneau de commande pour afficher l'état en conséquence.
-  * Avant expédition, la batterie est préinstallée en usine.
-  * Lors du changement de batterie, appuyez plusieurs fois sur n'importe quelle touche pour la décharger avant d'insérer une nouvelle batterie.
-* _**Fonction d'économie d'énergie**_
-  * Lorsqu'il est inactif, le clavier distant est en**Attendre**mode et ne consomme aucune énergie. Il s'activera et**réveillez-vous**pendant 5 secondes lorsqu'une touche est enfoncée.
-  * Après 5 secondes d'inactivité de la touche, l'alimentation s'éteint et revient**o En veille**mode.
-* _**Autoprotection**_
-  * Le clavier est protégé contre toute tentative d'ouverture du couvercle ou de détachement du clavier de sa surface de montage.
-  * La protection anti-sabotage est désactivée lorsque le clavier est en mode test.
-* _**Signal de surveillance**_
-  * Après l'installation, le clavier à distance transmettra automatiquement les signaux de supervision au panneau de commande à
+NOTE:\
+\- Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.\
+\- 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
 
-![](<.gitbook/assets/4 (15).jpeg>) ![](<.gitbook/assets/5 (10).jpeg>) ![](<.gitbook/assets/6 (14).jpeg>) ![](<.gitbook/assets/7 (13).jpeg>) ![](<.gitbook/assets/8 (9).jpeg>)
 
-un intervalle de 30 à 50 minutes.
 
-*
-  * Si la centrale n'a pas reçu le signal du clavier à distance pendant une période de temps prédéfinie, la centrale considérera le clavier à distance hors service et réagira en fonction des paramètres du panneau.
-* _**Commencer**_
 
-![](<.gitbook/assets/9 (4).jpeg>)
 
-Étape 1. Mettez le panneau de contrôle en mode apprentissage.
+_**Voyants LED**_
 
-Étape 2. Ajout d'un clavier distant dans le panneau de configuration :
+* **LED Alimentation (verte) :**
+  * Allumée pendant 5 secondes: saisie correcte.
+  * Clignote pendant 5 secondes : batterie faible en mode normal.
+  * Si le voyant d'alimentation s'éteint avant qu'une saisie ne soit terminée, la saisie est ignorée.
+* **LED Défaut (orange) :**
+  * Désarmement et LED orange allumée avec 5 bips : mémoire d'alarme (dépend de la centrale).
+  * Clignotante:
+    * Clignotante uniquement : Aucune réponse envoyée par la centrale dans les 10 secondes.
+    * Clignote avec 2 bips : demande d'armement Partiel depuis Armement Total.
+    * Clignote avec 3 bips : demande d'armement Total/Partiel avec défaut.
+    * Clignote accompagné de 4 bips : code incorrect.
 
-**Mode d'essai:**
 
-1. Mettez le clavier déporté en mode Test en saisissant le code PIN KP (par défaut :**0000**), puis appuyez\*\*＊\*\*clé.
 
-Les trois![](<.gitbook/assets/10 (13).png>)![](<.gitbook/assets/11 (9).jpeg>)Les LED s'allumeront avec un long bip.
 
-1. Appuyez ensuite sur la touche ＊**7**Clé pour transmettre le signal d'apprentissage. Le clavier à distance émettra un long bip.
 
-**Fonction du mode test :**
+_**Fonctionnement  Général**_
 
-I. Appuyez sur la touche ＊ puis sur la touche 2 - Activez la fonction d'alarme de panique à deux touches
+* Entrez en mode test - Saisir le code du clavier, puis appuyez sur la touche **＊**.
+* Alarme Panique - Appuyez sur les touches **1** et **3** simultanément (si la fonction est activée)
+* Alarme Incendie - Appuyez sur les touches **4** et **6** simultanément (si la fonction est activée)
+* Alarme Médicale - Appuyez sur les touches **7** et **9** simultanément (si la fonction est activée)
+* Vérifier l'état de la centrale - En mode normal appuyez sur la touche **#**.
+* Activer/Désactiver les bips d'entrée/sortie — Appuyez sur les touches **1** et **2** simultanement pendant 2 secondes (le clavier émettra un bip long pour indiquer que la fonction est activée et émettra 2 bips courts pour indiquer que la fonction est désactivée).
+
+
+
+
+
+_**Alimentation**_
+
+* Le clavier utilise une pile lithium CR123 3 V comme source d'alimentation.
+* Le clavier peut également détecter l'état de la batterie. Si la tension de la batterie est faible, la LED Alimentation clignote pendant 5 secondes pendant le fonctionnement. Le signal de batterie faible sera envoyé à la centrale.
+* La batterie est préinstallée en usine.
+* Lors du changement de batterie, appuyez plusieurs fois sur n'importe quelle touche avant d'insérer une nouvelle batterie.
+
+
+
+
+
+_**Mise en veille**_
+
+* Lorsqu'il est inactif, le clavier est en **veille** et ne consomme pas d'énergie. Il s'activera pendant 5 secondes lorsqu'une touche sera utilisée.
+* Après 5 secondes d'inactivité, le clavier revient en mode **veille**.
+
+
+
+
+
+_**Autoprotection**_
+
+* Le clavier est protégé contre toute tentative d'ouverture du couvercle ou d'arrachement de sa surface d'installation.
+* L'autoprotection est désactivée lorsqu'il est en mode test.
+
+
+
+
+
+_**Supervision**_
+
+* Après l'installation, le clavier transmet automatiquement des signaux de supervision à la centrale à un intervalle de 30 à 50 minutes.
+* Si la centrale n'a pas reçu le signal du clavier pendant une période de temps prédéfinie, la centrale considérera le clavier comme hors service et réagira en fonction de sa configuration
+
+
+
+
+
+_**Démarrage**_
+
+Étape 1. Mettez la centrale en mode apprentissage.\
+Étape 2. Ajout d'un clavier à la centrale
+
+* **Mode Test :**
+  1. Mettez le clavier Test en saisissant le code (par défaut :**0000**), puis appuyez la touch&#x65;**＊**.\
+     Les trois touches ![](<.gitbook/assets/10 (13).png>)![](<.gitbook/assets/11 (9).jpeg>) s'allumeront avec un long bip.
+  2. Appuyez ensuite sur les touches **\*** et **7** pour transmettre le signal d'apprentissage. Le clavier émettra un bip long.
+* **Fonction du mode test :**
+  1. Appuyez les touches **＊**&#x65;t **2** - Activez la fonction d'alarme de panique à deux touches
 
 1. Appuyez sur la touche ＊ puis sur la touche 4 — Activez la fonction d'alarme médicale à deux touches IV. Appuyez sur la touche ＊ puis sur la touche 5 - Désactivez toutes les fonctions Dual Key (par défaut)
 
