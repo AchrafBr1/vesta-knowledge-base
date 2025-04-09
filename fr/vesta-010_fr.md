@@ -23,11 +23,11 @@ _**Identification des pièces**_
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**1. LED verte-Activité**
+**1. LED Verte-Activité**
 
-**2. LED rouge-Transmission**
+**2. LED Rouge-Transmission**
 
-**3. LED orange-Défaut**
+**3. LED Orange-Défaut**
 
 **4. Section coulissante**
 
@@ -64,135 +64,112 @@ _**Identification des pièces**_
 
 _**Indicateur LED :**_
 
-* **LED verte-Activité:**
-  * LED verte-Activité allumée : le système est en **Mode de fonctionnement normal**.
-  * LED verte-Activité clignotante : le système est en **Mode test**.
-  * Lorsque le clavier est inactif, toutes les LED sont éteintes. Après toute pression sur une touche, la LED verte-Activité s'allume pendant 5 secondes, indiquant que le clavier est actif.
-  * La LED verte-Activitée s'éteindra après une saisie correcte ou une pause dans la saisie de plus de 5 secondes.
-  * Lorsque la LED verte-Activité s'éteint avant qu'une saisie correcte ne soit terminée (5 secondes), la saisie est ignorée.
-* **LED rouge-Transmission :**
+* **LED Verte-Activité:**
+  * LED Verte-Activité allumée : le système est en **Mode de fonctionnement normal**.
+  * LED Verte-Activité clignotante : le système est en **Mode test**.
+  * Lorsque le clavier est inactif, toutes les LED sont éteintes. Après toute pression sur une touche, la LED Verte-Activité s'allume pendant 5 secondes, indiquant que le clavier est actif.
+  * La LED Verte-Activité s'éteindra après une saisie correcte ou une pause dans la saisie de plus de 5 secondes.
+  * Lorsque la LED Verte-Activité s'éteint avant qu'une saisie correcte ne soit terminée (5 secondes), la saisie est ignorée.
+* **LED Rouge-Transmission :**
   * La LED Rouge-Transmission : le signal est transmis.
-* **LED orange-Défaut :**
+* **LED Orange-Défaut :**
   * LED Orange-Défaut clignotante : la batterie est faible.
   * LED Orange-Défaut allumée : l'autoprotection est déclenchée.
-  * Lorsque l'autoprotection est déclenchée et que la batterie est faible, la LED orange-Défaut s'allume pendant le fonctionnement.
+  * Lorsque l'autoprotection est déclenchée et que la batterie est faible, la LED Orange-Défaut s'allume pendant le fonctionnement.
 
-NOTE
-
-* Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.
-* 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
+NOTE\
+\- Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.\
+\- 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
 
 
 
 _**Alimentation**_
 
 * Le clavier utilise une pile au lithium CR2450 3V 540mAH.
-* Le clavier peut également détecter l'état de la batterie. La détection de batterie faible fonctionne lorsque le clavier dispose d'une réserve d'énergie suffisante pour fonctionner généralement pendant 4 mois avant d'être complètement épuisé.
-* Lorsque la batterie du clavier est faible, la LED orange de défaut clignote pendant le fonctionnement et un signal de batterie faible sera transmis avec les transmissions de signaux régulières.
+* Le clavier peut également détecter l'état de la batterie. La détection de batterie basse fonctionne lorsque le clavier dispose d'une réserve d'énergie suffisante pour fonctionner généralement pendant 4 mois avant d'être complètement épuisé.
+* Lorsque la batterie du clavier est faible, la LED Orange-Défaut clignote pendant le fonctionnement et un signal de batterie faible sera transmis avec les transmissions de signaux régulières.
 * Avant expédition, la batterie est préinstallée en usine.
 
 
 
 _**Autoprotection:**_
 
-* Le clavier est protégé contre toute tentative d'ouverture du couvercle ou de détachement du clavier de sa surface de montage.
-* La protection contre les altérations est désactivée en mode test.
-* Lorsque le sabotage du clavier est déclenché, il enverra un signal de défaut de sabotage KP au panneau de commande et la LED orange de défaut s'allumera. De plus, pendant l'utilisation du clavier, la LED Orange Fault restera allumée pour indiquer le défaut de sabotage KP.
+* Le clavier est protégé contre toute tentative d'ouverture du couvercle ou d'arrachement de sa surface d'installation.
+* La détection d'autoprotection est désactivée en mode test.
+* Lorsque l'autoprotection est déclenchée,  un évènement d'autoprotection du clavier sera envoyé à la centrale et la LED Orange-Défaut s'allumera. De plus, pendant l'utilisation du clavier, la LED Orange-Défaut restera allumée pour indiquer le déclenchement de l'autoprotection.
 
 
 
 _**Fonction d'économie d'énergie :**_
 
-* Lorsque le clavier n'est pas utilisé, aucune énergie n'est consommée. Chaque fois qu'une touche est enfoncée, le clavier s'active et "**réveillez-vous**» pendant 5 secondes lorsqu'une touche est enfoncée.
-* Après 5 secondes d'inactivité des touches, l'appareil s'éteint à nouveau et revient en mode veille.
-* À la fin d'une entrée de commande, l'alimentation est coupée et revient en mode veille.
+* Lorsque le clavier n'est pas utilisé, aucune énergie n'est consommée. Lorsqu'une touche est utilisée, le clavier s'active pendant 5 secondes.
+* Après 5 secondes d'inactivité, le clavier s'éteint à nouveau et revient en mode veille.
+* Lorsqu'une saisie est complétée correctement, l'alimentation est coupée et le clavier revient en mode veille.
 
 
 
-_**Mode d'essai:**_
+_**Mode Test:**_
 
-* Le clavier peut être mis en mode Test en entrant le code PIN (par défaut :**0000**) suivi de \*. La LED verte active clignotera et le clavier émettra un long bip.
-* Pour quitter le mode Test, appuyez sur![](<.gitbook/assets/5 (5) (1).png>)**deux fois**, Le clavier émettra un long bip et la LED verte active s'allumera, puis le clavier reviendra en mode de fonctionnement normal.
+* Le clavier peut être mis en mode Test en saisissant le code PIN (par défaut :**0000**) suivi de **\***. La LED verte-Activité clignotera et le clavier émettra un long bip.
+* Pour sortir du mode Test, appuyez sur <img src=".gitbook/assets/image (5).png" alt="" data-size="line"> **deux fois**, le clavier émettra un long bip et la LED verte-Activité s'allumera, puis le clavier reviendra en mode de fonctionnement normal.
 
-**NOTE**
-
-* Le mode test est utile pour contourner l'alarme anti-sabotage du clavier lors de l'installation, du remplacement des piles faibles ou du retrait sur un autre site de montage.
-* Lorsque le clavier est en mode Test, il fonctionne comme**réveillez-vous**Cette condition ne se déconnectera donc PAS après 5 secondes.
-* En mode test, si aucune touche n'est enfoncée dans les 30 minutes, le clavier quittera automatiquement le mode test pour passer en mode de fonctionnement normal.
-
+**NOTE**\
+**-** Le mode test est utile pour éjecter l'autoprotection du clavier lors de l'installation, le remplacement des piles ou un changement d'emplacement.\
+\- Lorsque le clavier est en mode Test, il est réveillé et ne reviendra PAS en mode veille après 5 secondes.\
+\- En mode test, si aucune touche n'est utilisée dans les 30 minutes, le clavier quittera automatiquement le mode test et passera en mode de fonctionnement normal.
 
 
-_Le**Mode test du clavier**permet les fonctions suivantes :_
 
-*
-  *
-    *
-      *
-        * Transmettre le signal d'apprentissage du clavier - appuyez sur ＊ puis**1**
-        * Activation de l'alarme de panique à deux touches — appuyez sur ＊ puis**2**
-        * Activation de l'alarme incendie à deux touches — appuyez sur ＊ puis**3**
-        * Activation de l'alarme médicale à deux touches — appuyez sur ＊ puis**4**
-        * Changez le code PIN — appuyez sur ＊ puis**6**
+_Le **Mode Test du clavier** permet les fonctions suivantes:_
 
-Entrez l'ancien code PIN, puis appuyez sur
+* Transmettre le signal d'apprentissage du clavier - appuyez sur **＊** puis **1**
+* Activez l'alarme de panique (double touches) - appuyez sur **＊** puis **2**
+* Activez l'alarme incendie (double touches) - appuyez sur **＊** puis **3**
+* Activez l'alarme médicale (double touches) - appuyez sur **＊** puis **4**
+* Changez le code PIN — appuyez sur **＊** puis **6**
+  * Saisir l'ancien code et appuyer sur <img src=".gitbook/assets/image (6).png" alt="" data-size="line">
+  * Saisir le nouveau code à 4 chiffres et appuyer sur  **#**
+* Désactivez double touches - Appuyez sur **＊** puis **5**
+* Quitter le mode test - appuyez sur <img src=".gitbook/assets/image (7).png" alt="" data-size="line"> **deux fois**.
+* Armement sans code - appuyez sur **＊** puis **8**
+* Armement avec code - appuyez sur **＊** puis **9**
 
-Entrez le nouveau code PIN à 4 chiffres, puis appuyez sur\*\*#\*\*
+NOTE\
+\- En cas de saisie  ou d'utilisation incorrecte, le clavier émettra 4 bips courts.\
+\- Lorsqu'un mauvais code est saisi 4 fois, le clavier émettra 6 bips et toutes les LED clignoteront 3 fois. Le clavier sera verrouillé pendant 1 min. Après 1 minute, le clavier émettra un bip et pourra être à nouveau utilisé.
 
-*
-  *
-    *
-      *
-        * Désactivation de la double touche — Appuyez sur ＊ puis**5**
-        * Quitter le mode test : appuyez sur![](<.gitbook/assets/6 (1) (1) (1).png>)**deux fois**.
-        * Armer/Accueil sans code PIN — appuyez sur ＊ puis**8**
-        * Armer/Accueil avec le code PIN — appuyez sur ＊ puis**9**
 
-**\\**
 
-* En cas de saisie ou d'utilisation incorrecte, le clavier émettra 4 bips courts.
-* Lorsqu'un mauvais code PIN est saisi 4 fois, le clavier émettra 6 bips et toutes les LED 3 fois. Le clavier sera verrouillé pendant 1 min. Après 1 minute, le clavier émettra un bip et pourra être à nouveau utilisé.
-* _**Procédures d'installation :**_
+_**Procédures d'installation :**_
 
-Étape 1. Mettez le panneau de commande dans**Mode d'apprentissage**. Veuillez vous référer au manuel du panneau de commande.
+Étape 1. Mettez l a centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
+Étape 2. Ajout du clavier dans la centrale :
 
-Étape 2. Ajout du clavier dans le panneau de configuration :
+* **Apprentissage en mode test :**
+  1. Mettez le clavier en mode Test en saisissant le code (par défaut :**0000**), puis appuyez sur la touche ＊. La LED Verte-Activité s'allumera avec un long bip.
+  2. Appuyez ensuite sur les touches **＊** et **1**. Le clavier émettra un bip.\
+     **NOTE:** Si le clavier n'a émis aucun bip, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale. Veuillez appuyer sur les touches **＊** et **1** à nouveau en Mode Test.
+  3. Reportez-vous au manuel du panneau de commande pour terminer le processus d'apprentissage
+* **Apprentissage par double touches**
+  1. Appuyez sur **#** et **＊**&#x73;imultanément en mode de fonctionnement normal. Le clavier émettra un bip long.\
+     **NOTE:** Si le clavier n'a émis aucun bip, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **#** et **＊** simultanément en mode de fonctionnement normal pour envoyer le code d'apprentissage.
+  2. Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage.
 
-**Apprentissage en mode test :**
+Étape 3. Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **＊** et **1** en Mode Test ou appuyez sur les touches  **#** et **＊** simultanément en mode.\
+Étape 4. Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**).\
+Étape 5. Réglage du code:&#x20;
 
-1. Mettez le clavier déporté en mode Test en saisissant le code PIN KP (par défaut :**0000**), puis appuyez sur la touche ＊. La LED bleue active s'allumera avec un long bip sonore.
-2. Appuyez ensuite sur la touche ＊**1**clé. Le clavier à distance émettra un bip.
+1. Appuyez sur **＊** et **6**, le clavier émet un bip long.
+2. Saisir **0000** (code par défaut)
+3. Appuyez sur <img src=".gitbook/assets/image (6).png" alt="" data-size="line">, le clavier émet un bip long.
+4. Saisir le nouveau code à 4 chiffres.
+5. Appuyez sur **#**, le clavier émet un bip long.
 
-\\
+Étape 6. Appuyez sur <img src=".gitbook/assets/image (7).png" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l’installation est terminée.
 
-* Si le clavier distant n'a émis aucun bip, cela signifie que le clavier distant n'a pas envoyé le code d'apprentissage au panneau de commande, veuillez appuyer sur la touche ＊ puis**1**touchez à nouveau en mode test pour envoyer le code d'apprentissage.
 
-1. Reportez-vous au manuel du panneau de commande pour terminer le processus d'apprentissage.
 
-**Apprentissage à double clé :**
-
-1. Appuyez à la fois\*\*#\*\*et ＊ ensemble en mode de fonctionnement normal. Le clavier à distance émettra un long bip.
-
-\\
-
-* Si le clavier distant n'a émis aucun bip, cela signifie que le clavier distant n'a pas envoyé le code d'apprentissage au panneau de commande, veuillez appuyer sur les deux\*\*#\*\*et ＊ ensemble en mode de fonctionnement normal pour envoyer le code d'apprentissage.
-
-1. Reportez-vous au manuel du panneau de commande pour terminer le processus d'apprentissage.
-
-Étape 3. Une fois le clavier mémorisé, placez le panneau de commande dans**Test de marche**mode. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage au panneau de commande pour confirmer que cet emplacement se trouve dans la plage de signal du panneau de commande. Pour envoyer le code d'apprentissage, soit appuyez sur la touche ＊ puis**1**sous Mode Test ou appuyez sur les deux\*\*#\*\*et ＊ ensemble en mode de fonctionnement normal.
-
-Étape 4. Lorsque vous êtes satisfait que le clavier fonctionne à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir\_**Montage du clavier**)\_.
-
-Étape 5. Définition du code PIN :
-
-1. Appuyez sur ＊ puis**6**, un long bip se fera entendre.
-2. Entrer**0000**(code PIN par défaut)
-3. Appuyez sur, le clavier émet un long bip.
-4. Entrez votre nouveau code à 4 chiffres.
-5. Presse\*\*#\*\*, Le clavier émet un long bip.
-
-Étape 6. Appuyez sur![](<.gitbook/assets/7 (2) (1).png>)**deux fois**pour quitter le mode Test et l’installation est terminée.
-
-* _**Montage du clavier :**_
+_**Montage du clavier :**_
 
 Pour monter le clavier :
 
