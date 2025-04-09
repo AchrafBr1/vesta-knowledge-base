@@ -1,8 +1,4 @@
----
-icon: circle-chevron-right
----
-
-# VESTA 010
+# VESTA-010
 
 **KP-15-(NT)/ KP-15-(NT)-F1**
 

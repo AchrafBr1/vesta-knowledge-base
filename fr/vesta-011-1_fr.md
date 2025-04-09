@@ -1,3 +1,7 @@
+---
+icon: circle-chevron-right
+---
+
 # VESTA 011
 
 ![](<.gitbook/assets/0 (22).png>)**CLAVIER À DISTANCE (KP-39)**
