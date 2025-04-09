@@ -21,7 +21,7 @@ Ce clavier est décliné en deux modèles :
 
 _**Identification des pièces**_
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **1. LED Verte-Activité**
 
@@ -29,7 +29,7 @@ _**Identification des pièces**_
 
 **3. LED Orange-Défaut**
 
-**4. Section coulissante**
+**4. Section amovible**
 
 **5. Armement total**
 
@@ -171,56 +171,66 @@ _**Procédures d'installation :**_
 
 _**Montage du clavier :**_
 
-Pour monter le clavier :
+Pour monter le clavier
 
-1. Retirez les 2 sections coulissantes du capot avant.
+1. Retirez les 2 sections amovibles du capot avant.
 2. En utilisant les 2 trous de montage comme gabarit, marquez les positions à l'endroit le plus approprié.
 3. Insérez les chevilles murales si vous fixez sur une surface en plâtre ou en brique.
 4. Vissez le clavier sur les chevilles murales.
-5. Remplacez les 2 sections coulissantes.
+5. Replacez les 2 sections coulissantes.
 
-* _**Contrôle du mode système**_
 
-Après avoir fini d'apprendre le clavier dans le panneau de commande du système d'alarme, l'utilisateur peut changer le système à l'aide du clavier.
 
+_**Contrôle du mode système**_
+
+Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier.\
 Il existe deux manières d'armer le système.
 
-1. Armement Absent / Domicile Armez le système en saisissant le code PIN utilisateur du panneau de commande.
-2. Armement Absent / Domicile Armez le système sans saisir le code PIN utilisateur du panneau de commande.
+1. Armement Total/Partiel en saisissant le code utilisateur.
+2. Armement Total/Partiel sans saisir le code utilisateur.
 
-Le désarmement du système nécessite toujours la saisie du code PIN utilisateur du panneau de commande.
+Le désarmement du système nécessite toujours la saisie du code utilisateur.
 
-**Armement/Accueil avec code PIN du panneau de commande**
+**Armement Total/Partiel avec code utilisateur**\
+En mode Test, appuyez sur les touches **＊** et **9** pour activer la fonction Armement avec code (**par défaut**).
 
-En mode Test, appuyez sur la touche ＊ puis**9**pour activer la fonction Armement/Accueil avec code PIN (**Défaut**).
+* **Armement Total:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image.png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état s'allumera accompagnée d'un bip long.
+* **Armement Partiel:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
+* **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
 
-**Armement/Accueil sans code PIN du panneau de commande**
+**Armement Total/Partiel sans code utilisateur**\
+En mode Test, appuyez sur les touches **＊** et **8** pour activer la fonction Armement sans code.
 
-En mode Test, appuyez sur la touche ＊ puis**8**Touche pour activer la fonction Armement/Accueil sans code PIN
+* **Armement Total:** appuyez sur la touche <img src=".gitbook/assets/image.png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état s'allumera accompagnée d'un bip long.
+* **Armement Partiel:** appuyez sur la touche <img src=".gitbook/assets/image (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
+* **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
 
-1. Mettez le panneau de commande dans le menu de programmation.
-2. Démontez le clavier en retirant d'abord les sections coulissantes, puis les vis de montage.
-3. Ouvrez le Clavier en desserrant les 2 vis de fixation situées derrière le Clavier
-4. Retirez l'ancienne batterie et insérez la nouvelle batterie dans le compartiment à batterie, avec le côté non marqué (négatif) de la batterie vers le bas.
-5. Fermez le boîtier à l'aide des vis de fixation arrière.
-6. Revissez le clavier à la surface avec les vis de montage, puis réinsérez les coulisses.
-7. Mettez le panneau de commande pour quitter le menu de programmation.
 
-* _**Annexe:**_
 
-Si vous avez oublié le code PIN ou si un problème s'est produit avec le clavier, vous pouvez réinitialiser le clavier aux paramètres d'usine par défaut et le réinitialiser.
+_**Remplacement de la batterie**_
+
+1. Mettez la centrale en mode programmation.
+2. Démontez le clavier en retirant d'abord les sections amobibles, puis les vis de montage.
+3. Ouvrez le Clavier en desserrant les 2 vis de fixation situées à l'arrière du clavier.
+4. Retirez l'ancienne batterie et insérez la nouvelle batterie dans le compartiment à batterie, avec le  pôle négatif vers le bas.
+5. Fermez le boîtier à l'aide des vis.
+6. Revissez le clavier à la surface avec les vis de montage, puis réinsérez les sections amovibles.
+7. Mettez la centrale en mode de fonctionnement normal.
+
+
+
+_**Annexe:**_
+
+Si vous avez oublié le code ou si un problème s'est produit avec le clavier, vous pouvez réinitialiser le clavier aux paramètres 'usine.
 
 _**Réinitialiser aux paramètres d'usine :**_
 
-Étape 1 Retirez l'une des piles et relâchez le dispositif anti-sabotage
+Étape 1 Retirez l'une des piles et relâchez l'autoprotection.\
+Étape 2 : Appuyez la touche **3** tout en réinsérant la batterie.\
+Étape 3: Maintenir la touche **3** Appuyée jusqu'à entendre 3 bips indiquant le succès de la réinitialisation.\
+Étape 4 : Relâchez la touche **3.**
 
-Étape 2 : Appuyez sur**3**tout en réinsérant la batterie retirée dans
+**NOTE**
 
-Étape 3 Continuez à appuyer**3**jusqu'à 3 bips courts pour indiquer une réinitialisation réussie
-
-Étape 4 : Libération**3**
-
-**\\**
-
-* Après la réinitialisation, le code PIN revient aux valeurs par défaut d'usine, "**0000**». Le clavier aura besoin d'un nouveau processus d'apprentissage pour commencer à fonctionner.
-* Chaque fois que le clavier est retiré du panneau de commande, il doit également être réinitialisé aux paramètres d'usine pour effacer la mémoire de son panneau de commande.
+* Après la réinitialisation, le code revient à la valeur par défaut,  "**0000"**. Le clavier aura besoin d'un nouveau processus d'apprentissage pour refonctionner.
+* Chaque fois que le clavier est retiré d'une centrale, il doit également réinitialisé pour effacer la précédente centrale de sa mémoire.
