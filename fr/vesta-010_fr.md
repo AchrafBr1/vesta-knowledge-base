@@ -58,6 +58,8 @@ _**Identification des pièces**_
 
 
 
+
+
 _**Indicateur LED :**_
 
 * **LED Verte-Activité:**
@@ -79,12 +81,16 @@ NOTE\
 
 
 
+
+
 _**Alimentation**_
 
 * Le clavier utilise une pile au lithium CR2450 3V 540mAH.
 * Le clavier peut également détecter l'état de la batterie. La détection de batterie basse fonctionne lorsque le clavier dispose d'une réserve d'énergie suffisante pour fonctionner généralement pendant 4 mois avant d'être complètement épuisé.
 * Lorsque la batterie du clavier est faible, la LED Orange-Défaut clignote pendant le fonctionnement et un signal de batterie faible sera transmis avec les transmissions de signaux régulières.
 * Avant expédition, la batterie est préinstallée en usine.
+
+
 
 
 
@@ -96,11 +102,15 @@ _**Autoprotection:**_
 
 
 
+
+
 _**Fonction d'économie d'énergie :**_
 
 * Lorsque le clavier n'est pas utilisé, aucune énergie n'est consommée. Lorsqu'une touche est utilisée, le clavier s'active pendant 5 secondes.
 * Après 5 secondes d'inactivité, le clavier s'éteint à nouveau et revient en mode veille.
 * Lorsqu'une saisie est complétée correctement, l'alimentation est coupée et le clavier revient en mode veille.
+
+
 
 
 
@@ -119,9 +129,9 @@ _**Mode Test:**_
 _Le **Mode Test du clavier** permet les fonctions suivantes:_
 
 * Transmettre le signal d'apprentissage du clavier - appuyez sur **＊** puis **1**
-* Activez l'alarme de panique (double touches) - appuyez sur **＊** puis **2**
-* Activez l'alarme incendie (double touches) - appuyez sur **＊** puis **3**
-* Activez l'alarme médicale (double touches) - appuyez sur **＊** puis **4**
+* Activez l'alarme Panique (double touches) - appuyez sur **＊** puis **2**
+* Activez l'alarme Incendie (double touches) - appuyez sur **＊** puis **3**
+* Activez l'alarme Médicale (double touches) - appuyez sur **＊** puis **4**
 * Changez le code PIN — appuyez sur **＊** puis **6**
   * Saisir l'ancien code et appuyer sur <img src=".gitbook/assets/image (6).png" alt="" data-size="line">
   * Saisir le nouveau code à 4 chiffres et appuyer sur  **#**
@@ -133,6 +143,8 @@ _Le **Mode Test du clavier** permet les fonctions suivantes:_
 NOTE\
 \- En cas de saisie  ou d'utilisation incorrecte, le clavier émettra 4 bips courts.\
 \- Lorsqu'un mauvais code est saisi 4 fois, le clavier émettra 6 bips et toutes les LED clignoteront 3 fois. Le clavier sera verrouillé pendant 1 min. Après 1 minute, le clavier émettra un bip et pourra être à nouveau utilisé.
+
+
 
 
 
@@ -165,6 +177,8 @@ _**Procédures d'installation :**_
 
 
 
+
+
 _**Montage du clavier :**_
 
 Pour monter le clavier
@@ -174,6 +188,8 @@ Pour monter le clavier
 3. Insérez les chevilles murales si vous fixez sur une surface en plâtre ou en brique.
 4. Vissez le clavier sur les chevilles murales.
 5. Replacez les 2 sections coulissantes.
+
+
 
 
 
@@ -200,6 +216,8 @@ En mode Test, appuyez sur les touches **＊** et **8** pour activer la fonction 
 * **Armement Total:** appuyez sur la touche <img src=".gitbook/assets/image.png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état s'allumera accompagnée d'un bip long.
 * **Armement Partiel:** appuyez sur la touche <img src=".gitbook/assets/image (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
 * **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
+
+
 
 
 

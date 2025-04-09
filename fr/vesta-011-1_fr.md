@@ -122,33 +122,22 @@ _**Démarrage**_
      Les trois touches ![](<.gitbook/assets/10 (13).png>)![](<.gitbook/assets/11 (9).jpeg>) s'allumeront avec un long bip.
   2. Appuyez ensuite sur les touches **\*** et **7** pour transmettre le signal d'apprentissage. Le clavier émettra un bip long.
 * **Fonction du mode test :**
-  1. Appuyez les touches **＊**&#x65;t **2** - Activez la fonction d'alarme de panique à deux touches
-
-1. Appuyez sur la touche ＊ puis sur la touche 4 — Activez la fonction d'alarme médicale à deux touches IV. Appuyez sur la touche ＊ puis sur la touche 5 - Désactivez toutes les fonctions Dual Key (par défaut)
-
-V. Appuyez sur la touche ＊ puis sur la touche 6 - Modifier le code PIN du clavier
-
-Entrer**Vieux**Code PIN du clavier, puis appuyez sur\*\*＊\*\*clé
-
-Entrer**Nouveau**un nouveau code PIN du clavier à 4 chiffres, puis appuyez sur\*\*#**clé**.\*\*
-
-VI. Appuyez sur la touche ＊ puis sur la touche 8 — .Activez la fonction Arm/Home sans code PIN.
-
-_(Prière de se référer à "**Armement/Accueil sans code PIN du panneau de commande**» pour plus de détails, page 3)._
-
-2
-
-VII. Appuyez sur la touche ＊, puis sur la touche 9 — Activer la fonction Armement/Accueil avec la fonction Code PIN utilisateur du panneau de commande (par défaut).
-
-(_Prière de se référer à "**Armement/Accueil avec code PIN du panneau de commande**» pour plus de détails, page 3_).
-
-![](<.gitbook/assets/12 (13).png>)
-
-_\\_
-
-* Si le clavier distant n'a pas émis de bip long, cela signifie que le clavier distant n'a pas envoyé le code d'apprentissage au panneau de commande, veuillez appuyer sur la touche ＊ puis**7**touchez à nouveau pour envoyer le code d'apprentissage.
-* Si le panneau de contrôle reçoit le code d'apprentissage, il affichera les informations en conséquence. Reportez-vous au manuel d'utilisation de votre panneau de commande pour terminer le processus d'apprentissage.
-* Une fois que le panneau de commande a reçu le signal du clavier distant, il enverra un accusé de réception au clavier distant. Le clavier distant émettra alors 3 bips pour confirmer que l'accusé de réception a été reçu. Si le clavier distant n'émet pas 3 bips, veuillez redémarrer la procédure d'apprentissage.
+  1. Appuyez sur les touches **＊**&#x65;t **2** - Activez la fonction Alarme Panique  (double touches)
+  2. Appuyez sur les touches **＊**&#x65;t **3** - Activez la fonction Alarme Incendie  (double touches)
+  3. Appuyez sur les touches **＊**&#x65;t **4** - Activez la fonction Alarme Médicale  (double touches)
+  4. Appuyez sur les touches **＊**&#x65;t **5** - Désactivez toutes les fonctions double touches (par défaut)
+  5. Appuyez sur les touches **＊** et **6** - Modifier le code du clavier\
+     \- Saisir l'ancien code du clavier et appuyer sur la touche **\***.\
+     \- Saisir le nouveau code à 4 chiffres et appuyer sur la touche **#**.
+  6. Appuyez sur les touches **＊** et **8** - Activez la fonction armement sans code.\
+     &#xNAN;_(Prière de se référer à "**Armement sans code utilisateur"** pour plus de détails)._
+  7. Appuyez sur les touches **＊** et **9** - Activez la fonction armement avec code (par défaut).\
+     &#xNAN;_(Prière de se référer à "**Armement avec code utilisateur"** pour plus de détails)_\
+     \
+     &#xNAN;_**NOTE :**_\
+     _-_ Si le clavier n'a pas émis de bip long, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **＊** puis **7** à nouveau pour renvoyer le code d'apprentissage.\
+     \- Si la centrale reçoit le code d'apprentissage, elle affichera les informations en conséquence. Reportez-vous au manuel d'utilisation de votre centrale pour terminer le processus d'apprentissage.\
+     \- Une fois que la centrale a reçu le signal du clavier, elle enverra un accusé de réception au clavier. Le clavier émettra alors 3 bips pour confirmer que l'accusé de réception a été reçu. Si le clavier distant n'émet pas 3 bips, veuillez redémarrer la procédure d'apprentissage.
 
 Étape 3. Une fois le clavier distant appris, placez le panneau de commande dans**Test de marche**mode, maintenez le clavier distant à l'emplacement souhaité et envoyez le code d'apprentissage au panneau de commande pour confirmer que cet emplacement se trouve dans la plage de signal du panneau de commande. Pour envoyer le code d'apprentissage, appuyez soit sur la touche\*\*＊**clé alors**7**sous Mode Test ou appuyez sur les deux**#**et**＊\*\*touches ensemble en mode de fonctionnement normal.
 
