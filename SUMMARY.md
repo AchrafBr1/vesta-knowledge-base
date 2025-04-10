@@ -214,6 +214,7 @@
 * [VESTA-427](certificates/vesta-427.md)
 * [VESTA-428](certificates/vesta-428.md)
 * [VESTA-429](certificates/vesta-429.md)
+* [VESTA-421  / VESTA-336 / VESTA-384](certificates/vesta-421-vesta-336-vesta-384.md)
 
 ## 🧩 THIRD PARTIES
 
