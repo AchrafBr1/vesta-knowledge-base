@@ -4,41 +4,35 @@ icon: circle-chevron-right
 
 # VESTA 012
 
-***
+**KPT-39N**
 
-couvertureY : 0 mise en page: couverture: visible : faux taille : héros titre: visible : vrai description: visible : faux table des matières: visible : vrai contour: visible : vrai pagination:
 
-```
-visible: true
-```
 
-***
+**Clavier sans fils avec lecteur RFID**
 
-## VESTA 012
 
-### GUIDE RAPIDE
+
+**GUIDE RAPIDE**
 
 <figure><img src=".gitbook/assets/VESTA-012N[1].jpg" alt="" width="225"><figcaption><p>VESTA-012 - KPT-39N-F1</p></figcaption></figure>
 
-**Pour ajouter un clavier dans le panneau VESTA :**
+**Pour ajouter un clavier dans une centrale VESTA :**\
+Étape 0 : Mettre la centrale en **Mode apprentissage.**\
+Étape 1 : Appuyez sur les touches **\*** et **#** pendant 3 secondes pour envoyer le code d'apprentissage à la centrale.
 
-Étape 0 : Mise en place du panneau**Mode d'apprentissage**
+\[❓] Comment mettre la centrale en mode apprentissage à partir de **SmartHomeSec**
 
-Étape 1 : Appuyez sur\[\*] +\[# ] pendant 3 secondes pour apprendre le clavier au panneau
+{% @arcade/embed flowId="7NazF7Y168alDmWGgmmI" url="https://app.arcade.software/share/7NazF7Y168alDmWGgmmI" %}
 
-\[❓] Comment mettre le panneau en mode apprentissage à partir de**SmartHomeSec**
-
-{% @arcade/embed flowid="nNYzAkqIZ9RJt89JI6XK" url="<https://app.arcade.software/share/nNYzAkqIZ9RJt89JI6XK" %}
-
-### CERTIFICATIONS
+**CERTIFICATIONS**
 
 EN50131 Niveau 2, Classe II
 
-### MANUEL
 
-CLAVIER À DISTANCE (KPT-39N) Ceci est VESTA-012
 
-* _**Identification des pièces**_
+
+
+_**Identification**_
 
 ![](<.gitbook/assets/0 (6) (1).png>)
 
