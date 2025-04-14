@@ -36,122 +36,154 @@ _**Identification**_
 
 ![](<.gitbook/assets/0 (6) (1).png>)
 
-| <ol><li>Clé de bras</li><li>Clé de la maison</li><li>Désarmer la clé</li><li>Alarme de panique (si activée)</li></ol><p>- appuyez à la fois sur 1 et 3 pour déclencher l'alarme de panique</p><ol><li>Alarme incendie (si activée)</li></ol><p>- appuyez à la fois sur 4 et 6 pour déclencher l'alarme incendie</p><ol><li>Alarme médicale (si activée)</li></ol><p>- appuyez à la fois sur 7 et 9 pour déclencher l'alarme médicale</p><ol><li>Envoyer le code d'apprentissage</li></ol><p>- appuyez sur ＊ puis sur la touche 7 (sous Mode Test)</p><p>- appuyez sur les touches # et 🞸 (en mode de fonctionnement normal)</p> | <ol><li># Clé</li></ol><p>- appuyez pour vérifier le mode actuel du système</p><ol><li>🞸 Clé</li><li>LED de défaut (LED orange)</li><li>LED d'alimentation (LED verte)</li><li>Zone de détection pour l'étiquette NFC</li></ol><ul><li>placez l'étiquette NFC à proximité de la zone de détection pour accéder au système d'alarme</li></ul><ol><li>Interrupteur anti-sabotage</li><li>Trous de montage</li><li>Étiquette NFC</li></ol> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+1. Armement Total
+2. Armement Partiel
+3. Désarmement
+4. Alarme Panique (si activée)\
+   \- appuyez sur **1** et **3** pour déclencher l'alarme panique
+5. Alarme Incendie (si activée)\
+   \- appuyez sur **4** et **6** pour déclencher l'alarme incendie
+6. Alarme Médicale (si activée)\
+   \- appuyez sur **7** et **9** pour déclencher l'alarme médicale.
+7. Envoyer le code d'apprentissage\
+   \- appuyez sur **＊**&#x65;t **7** (en Mode Test)\
+   \- appuyez sur les touches # et 🞸 (en mode normal
+8. Touche **#**\
+   \- appuyez pour vérifier l'état du système
+9. Touche **\***
+10. LED Défaut (orange)
+11. LED Alimentation (verte)
+12. Zone de détection RFID\
+    &#x20;\- présentez votre badge dans cette zone pour contrôler le système
+13. Autoprotection
+14. Fixations
+15. Badge
 
-\\
+_NOTE:_\
+\- Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.\
+\- 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
 
-* Un bip court retentira en même temps que la touche enfoncée pour indiquer que le bouton enfoncé est valide.
-* 4 bips continus retentiront pour indiquer une erreur et l'utilisateur devra répéter le processus.
-* _**Indicateur LED**_
-* **LED d'alimentation (verte) :**
-  *
-    * Allumé pendant 5 secondes : après la réussite d’une séquence de touches valide.
-    * Flash pendant 5 secondes : batterie faible en mode de fonctionnement normal.
-    * Si le voyant d'alimentation s'éteint avant qu'une séquence de touches valide ne soit terminée, les touches saisies précédemment sont ignorées.
-* **LED de défaut (orange) :**
-  *
-    * Touche de désarmement et LED orange allumées avec 5 bips : mémoire d'alarme (dépend du panneau de commande).
-    * Éclair:
-* Flash uniquement : Aucune réponse envoyée par la centrale dans les 10 secondes.
-* Clignote accompagné de 2 bips : demande de mode Accueil pendant le mode Armement.
-* Clignote avec 3 bips : demande de mode Accueil ou Armement en cas de condition de défaut.
-* Clignote accompagné de 4 bips : le code PIN était incorrect.
-* _**Opération générale**_
-* Entrez en mode test — Entrez le code PIN du clavier, puis appuyez sur la touche ＊.
-* Alarme de panique — Appuyez sur**1**touche +**3**clé en même temps. (si la fonction est activée)
-* Alarme incendie — Appuyez sur**4**touche +**6**clé en même temps. (si la fonction est activée)
-* Alarme médicale — Presse**7**touche +**9**clé en même temps. (si la fonction est activée)
-* Vérifier l'état du panneau de commande - Mode normal Appuyez sur\*\*#\*\*clé.
-* Activer/Désactiver le son d'entrée et de sortie — Appuyez sur**1**touche +**2**en même temps pendant 2 secondes. (Le clavier émettra un bip long pour indiquer que la fonction est activée et émettra 2 bips courts pour indiquer que la fonction est désactivée.)
-* _**Pouvoir**_
-* Le clavier à distance utilise une pile au lithium CR123 3 V comme source d'alimentation.
-* Le clavier distant peut également détecter l'état de la batterie. Si la tension de la batterie est faible, la LED d'alimentation clignote pendant 5 secondes pendant le fonctionnement. Le signal de batterie faible sera envoyé avec des transmissions de signal régulières au panneau de commande pour afficher l'état en conséquence.
-* Avant expédition, la batterie est préinstallée en usine.
-* Lors du changement de batterie, appuyez plusieurs fois sur n'importe quelle touche pour la décharger avant d'insérer une nouvelle batterie.
-* _**Fonction d'économie d'énergie**_
-* Lorsqu'il est inactif, le clavier distant est en**Attendre**mode et ne consomme aucune énergie. Il s'activera et**réveillez-vous**pendant 5 secondes lorsqu'une touche est enfoncée.
-* Après 5 secondes d'inactivité de la touche, l'alimentation s'éteint et revient**o En veille**mode.
-* _**Autoprotection**_
-* Le clavier est protégé contre toute tentative d'ouverture du couvercle ou de détachement du clavier de sa surface de montage.
-* La protection anti-sabotage est désactivée lorsque le clavier est en mode test.
-* _**Commencer**_
 
-Étape 1. Mettez le panneau de contrôle en mode apprentissage.
 
-Étape 2. Ajout d'un clavier distant dans le panneau de configuration :
 
-**Mode d'essai:**
 
-1. Mettez le clavier déporté en mode Test en saisissant le code PIN KP (par défaut :**0000**), puis appuyez\*\*＊\*\*clé.
+_**Voyant LED**_
 
-Les trois![](<.gitbook/assets/1 (8).png>)![](<.gitbook/assets/2 (8).png>)![](<.gitbook/assets/3 (8).png>)Les LED s'allumeront avec un long bip.
+* **LED Alimentation (verte) :**
+  * Allumée pendant 5 secondes: saisie correcte.
+  * Clignote pendant 5 secondes : batterie faible en mode normal.
+  * Si le voyant d'alimentation s'éteint avant qu'une saisie ne soit terminée, la saisie est ignorée.
+* **LED Défaut (orange) :**
+  * Désarmement et LED orange allumée avec 5 bips : mémoire d'alarme (dépend de la centrale).
+  * Clignotante:
+    * Clignotante uniquement : Aucune réponse envoyée par la centrale dans les 10 secondes.
+    * Clignote avec 2 bips : demande d'armement Partiel depuis Armement Total.
+    * Clignote avec 3 bips : demande d'armement Total/Partiel avec défaut.
+    * Clignote accompagné de 4 bips : code incorrect.
 
-1. Appuyez ensuite sur la touche ＊**7**Clé pour transmettre le signal d'apprentissage. Le clavier à distance émettra un long bip.
 
-**Fonction du mode test :**
 
-1. Appuyez sur la touche ＊ puis sur la touche 1 — Entrez dans le mode d'apprentissage/de gestion des étiquettes NFC.
-2. Appuyez sur la touche ＊ puis sur la touche 2 - Activez la fonction d'alarme de panique à deux touches
-3. Appuyez sur la touche ＊ puis sur la touche 3 — Activez la fonction d'alarme incendie à deux touches
-4. Appuyez sur la touche ＊ puis sur la touche 4 — Activez la fonction d'alarme médicale à deux touches
-5. Appuyez sur la touche ＊ puis sur la touche 5 - Désactivez toutes les fonctions Dual Key (par défaut)
-6. Appuyez sur la touche ＊ puis sur la touche 6 - Modifier le code PIN du clavier
 
-..Entrer**Vieux**Code PIN du clavier, puis appuyez sur\*\*＊\*\*clé
 
-..Entrer**Nouveau**un nouveau code PIN du clavier à 4 chiffres, puis appuyez sur\*\*#**clé**.\*\*
+_**Fonctionnement général**_
 
-1. Appuyez sur la touche ＊ puis sur la touche 8 — Activer la fonction Armement/Accueil sans code PIN.
+* Entrez en mode test - Saisir le code du clavier, puis appuyez sur la touche **＊**.
+* Alarme Panique - Appuyez sur les touches **1** et **3** simultanément (si la fonction est activée)
+* Alarme Incendie - Appuyez sur les touches **4** et **6** simultanément (si la fonction est activée)
+* Alarme Médicale - Appuyez sur les touches **7** et **9** simultanément (si la fonction est activée)
+* Vérifier l'état de la centrale - En mode normal appuyez sur la touche **#**.
+* Activer/Désactiver les bips d'entrée/sortie — Appuyez sur les touches **1** et **2** simultanement pendant 2 secondes (le clavier émettra un bip long pour indiquer que la fonction est activée et émettra 2 bips courts pour indiquer que la fonction est désactivée).
 
-_(Prière de se référer à "**Armement/Accueil sans code PIN du panneau de commande**» pour plus de détails, page 4)._
 
-1. Appuyez sur la touche ＊, puis sur la touche 9 — Activer la fonction Armement/Accueil avec la fonction Code PIN utilisateur du panneau de commande (par défaut).
 
-(_Prière de se référer à "**Armement/Accueil avec code PIN du panneau de commande**» pour plus de détails, page 4_).
 
-\\
 
-* Si le clavier distant n'a pas émis de bip long, cela signifie que le clavier distant n'a pas envoyé le code d'apprentissage au panneau de commande, veuillez appuyer sur la touche ＊ puis**7**touchez à nouveau pour envoyer le code d'apprentissage.
-* Si le panneau de contrôle reçoit le code d'apprentissage, il affichera les informations en conséquence. Reportez-vous au manuel d'utilisation de votre panneau de commande pour terminer le processus d'apprentissage.
-* Une fois que le panneau de commande a reçu le signal du clavier distant, il enverra un accusé de réception au clavier distant. Le clavier distant émettra alors 3 bips pour confirmer que l'accusé de réception a été reçu. Si le clavier distant n'émet pas 3 bips, veuillez redémarrer la procédure d'apprentissage.
+_**Alimentation**_
 
-Étape 3. Une fois le clavier distant appris, placez le panneau de commande dans**Test de marche**mode, maintenez le clavier distant à l'emplacement souhaité et envoyez le code d'apprentissage au panneau de commande pour confirmer que cet emplacement se trouve dans la plage de signal du panneau de commande. Pour envoyer le code d'apprentissage, appuyez soit sur la touche\*\*＊**clé alors**7**sous Mode Test ou appuyez sur les deux**#**et**＊\*\*clés ensemble en mode de fonctionnement normal.
+* Le clavier utilise une pile lithium CR123 3 V comme source d'alimentation.
+* Le clavier peut également détecter l'état de la batterie. Si la tension de la batterie est faible, la LED Alimentation clignote pendant 5 secondes pendant le fonctionnement. Le signal de batterie faible sera envoyé à la centrale.
+* La batterie est préinstallée en usine.
+* Lors du changement de batterie, appuyez plusieurs fois sur n'importe quelle touche avant d'insérer une nouvelle batterie.
 
-Étape 4. Lorsque vous êtes satisfait que le clavier distant fonctionne à l'emplacement choisi, vous pouvez procéder au montage du clavier distant en suivant les étapes décrites ci-dessous (veuillez vous référer à «_**Montage du clavier déporté**» pour plus de détails)_.
 
-Étape 5. Appuyez sur la touche Désarmer**deux fois**pour quitter le mode Test et l'installation est terminée. Le clavier à distance émettra un long bip et trois LED de mode système s'éteindront. Le clavier distant revient au mode de fonctionnement normal.
 
-\\
 
-* Le clavier distant quittera automatiquement le mode Test après 5 minutes d'inactivité et reviendra en mode Veille. Toutes les LED s'éteindront et le clavier émettra un long bip.
-* _**Procédures d'apprentissage/effacement/installation des étiquettes NFC**_
 
-NFC signifie Near Field Communication, qui est une technologie de communication sans fil qui établit une connexion entre deux appareils en les rapprochant. Vous pouvez stocker un code PIN utilisateur dans une étiquette NFC et utiliser l'étiquette NFC pour accéder au système d'alarme sans saisir de code PIN utilisateur sur le KPT-39N. Le clavier peut apprendre jusqu'à 100 étiquettes NFC avec jusqu'à 50 codes PIN.
+_**Mise en veille**_
 
-_**A. Procédure d'apprentissage NFC :**_
+* Lorsqu'il est inactif, le clavier est en **veille** et ne consomme pas d'énergie. Il s'activera pendant 5 secondes lorsqu'une touche sera utilisée.
+* Après 5 secondes d'inactivité, le clavier revient en mode **veille**.
 
-Étape 1. Activez d'abord le clavier distant pour passer en mode test. Saisissez le code PIN du clavier (par défaut :**0000**) suivi de la touche ＊. Lors de la saisie du code PIN, le**LED d'alimentation**(Vert) s'allumera. Le**LED d'alimentation**s'éteindra alors et émettra un long bip.
 
-Étape 2. Appuyez sur la touche ＊ puis**1**pour accéder au mode d'apprentissage de l'étiquette NFC. Le**LED de défaut**(Orange) s'allumera et émettra un long bip.
 
-Étape 3. Entrez un nouveau code PIN suivi de la touche #. Le clavier émettra un long bip et la LED orange commencera à clignoter pendant 5 secondes pour indiquer qu'il est prêt à apprendre une étiquette NFC.
 
-Étape 4. Dans les 5 secondes, placez une étiquette NFC à proximité de la zone de détection du clavier pour la coupler avec le code PIN utilisateur que vous venez de saisir.
 
-* Chaque étiquette associée réinitialisera le temps d'apprentissage de l'étiquette NFC à 5 secondes. Vous pouvez associer plusieurs étiquettes avec un seul code utilisateur en appliquant les étiquettes une par une.
-* Le clavier quittera le mode d'apprentissage des étiquettes NFC après 5 secondes d'inactivité.
-* Si l'étiquette apprise est nouvelle, le clavier émettra 2 bips courts.
-* Si l'étiquette apprise existe déjà dans le clavier (attribuée à un autre code PIN), le clavier émettra 1 bip court.
+_**Autoprotection**_
 
-Étape 5. Pour apprendre une autre étiquette, veuillez répéter l'étape 3 à l'étape 4. Le clavier quittera automatiquement le mode d'apprentissage de l'étiquette NFC après 5 secondes d'inactivité.
+* Le clavier est protégé contre toute tentative d'ouverture du couvercle ou d'arrachement de sa surface d'installation.
+* L'autoprotection est désactivée lorsqu'il est en mode test.
 
-Étape 6. Appuyez sur![](<.gitbook/assets/4 (8).png>)touche pour quitter le mode d'apprentissage des étiquettes NFC.
 
-* État d'erreur :
-* Si le code utilisateur du panneau de commande saisi dépasse le nombre maximum de chiffres du code PIN, la LED orange clignotera avec 4 bips courts pour indiquer une erreur.
-* Si le clavier a déjà stocké 50 codes PIN du panneau de commande, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez de saisir le 51e code PIN.
-* Si le clavier a déjà appris 100 étiquettes NFC, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez d'apprendre la 101ème étiquette NFC.
+
+
+
+_**Démarrage**_
+
+Étape 1. Mettez la centrale en mode apprentissage. Étape 2. Ajout d'un clavier à la centrale
+
+* **Mode Test :**
+  1. Mettez le clavier Test en saisissant le code (par défaut :**0000**), puis appuyez la touch&#x65;**＊**. Les trois touches <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-fe25c9957403e3c10f8e9d28f99d7d324e84ba0f%252F10%2520%2813%29.png%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=bf585e9e&#x26;sv=2" alt="" data-size="line"><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-cf49690b317e6f3fb07c55fd84d849931f4c4cae%252F11%2520%289%29.jpeg%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=b5350c2d&#x26;sv=2" alt="" data-size="line"> s'allumeront avec un long bip.
+  2. Appuyez ensuite sur les touches **\*** et **7** pour transmettre le signal d'apprentissage. Le clavier émettra un bip long.
+* **Fonction du mode test**&#x20;
+  1. Appuyez sur les touches **＊**&#x65;t **1** - Entrez dans le mode apprentissage de badges
+  2. Appuyez sur les touches **＊**&#x65;t **2** - Activez la fonction Alarme Panique (double touches)
+  3. Appuyez sur les touches **＊**&#x65;t **3** - Activez la fonction Alarme Incendie (double touches)
+  4. Appuyez sur les touches **＊**&#x65;t **4** - Activez la fonction Alarme Médicale (double touches)
+  5. Appuyez sur les touches **＊**&#x65;t **5** - Désactivez toutes les fonctions double touches (par défaut)
+  6. Appuyez sur les touches **＊** et **6** - Modifier le code du clavier\
+     \- Saisir l'ancien code du clavier et appuyer sur la touche **\***.\
+     \- Saisir le nouveau code à 4 chiffres et appuyer sur la touche **#**.
+  7. Appuyez sur les touches **＊** et **8** - Activez la fonction armement sans code.\
+     &#xNAN;_(Prière de se référer à "**Armement sans code utilisateur"** pour plus de détails)._
+  8. Appuyez sur les touches **＊** et **9** - Activez la fonction armement avec code (par défaut).\
+     &#xNAN;_(Prière de se référer à "**Armement avec code utilisateur"** pour plus de détails)._\
+     \
+     _NOTE:_\
+     _- -_ Si le clavier n'a pas émis de bip long, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **＊** puis **7** à nouveau pour renvoyer le code d'apprentissage.\
+     \- Si la centrale reçoit le code d'apprentissage, elle affichera les informations en conséquence. Reportez-vous au manuel d'utilisation de votre centrale pour terminer le processus d'apprentissage.\
+     \- Une fois que la centrale a reçu le signal du clavier, elle enverra un accusé de réception au clavier. Le clavier émettra alors 3 bips pour confirmer que l'accusé de réception a été reçu. Si le clavier n'émet pas 3 bips, veuillez redémarrer la procédure d'apprentissage.
+
+Étape 3. Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **\*** et **7** en Mode Test ou appuyez sur les touches **#** et **\*** simultanément en mode normal.\
+Étape 4. Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**). Étape 5. Appuyez sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F2MnHDzRPaVSuKYygr5PA%252Fimage.png%3Falt%3Dmedia%26token%3D5dbcd3d4-6f70-4fdf-9c3b-671ede8ec531&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=6a24b07d&#x26;sv=2" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l'installation est terminée. Le clavier émettra un long bip et les trois LED de mode système s'éteindront. Le clavier revient au mode de fonctionnement normal.\
+\
+&#xNAN;_&#x4E;OTE:_\
+Le clavier quittera automatiquement le mode test après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un long bip.
+
+
+
+
+
+_**Procédures d'apprentissage/effacement/installation des badges**_
+
+NFC signifie Near Field Communication, qui est une technologie de communication sans fil qui établit une connexion entre deux appareils en les rapprochant. Vous pouvez stocker un code PIN utilisateur dans une étiquette NFC et utiliser l'étiquette NFC pour accéder au système d'alarme sans saisir de code PIN utilisateur sur le KPT-39N. Le clavier peut apprendre jusqu'à 100 étiquettes NFC avec jusqu'à 50 codes.\
+&#xNAN;_**A. Procédure d'apprentissage NFC:**_\
+Étape 1. Activez le clavier pour passer en mode test. Saisissez le code du clavier (par défaut :**0000**) suivi de la touche ＊. Lors de la saisie du code, le **LED Alimentation (verte)** s'allumera. La **LED Alimentation** s'éteindra et un bip long sera audible.\
+Étape 2. Appuyez sur les touches **＊** puis **1** pour accéder au mode d'apprentissage des badges. La **LED Défaut (orange)** s'allumera et un bip long sera audible.\
+Étape 3. Saisir le nouveau code utilisateur suivi de la touche **#**. Le clavier émettra un long bip et la LED orange commencera à clignoter pendant 5 secondes pour indiquer qu'il est prêt à apprendre un badge.\
+Étape 4. Dans les 5 secondes, placez un badge à proximité de la zone de détection du clavier pour le coupler avec le code utilisateur que vous venez de saisir.
+
+* Chaque badge associé réinitialisera le délai d'apprentissage de badge de 5 secondes. Vous pouvez associer plusieurs badges avec un seul code utilisateur en appliquant les badges un par un.
+* Le clavier sortira du mode apprentissage des badges après 5 secondes d'inactivité.
+* Si le badge appris est seul, le clavier émettra 2 bips courts.
+* Si le badge appris existe déjà dans le clavier (attribué à un autre code PIN), le clavier émettra 1 bip court.
+
+Étape 5. Pour apprendre un autre badge, veuillez répéter les étapes 3 à 4. Le clavier quittera automatiquement le mode d'apprentissage de badges après 5 secondes d'inactivité.\
+Étape 6. Appuyez sur la touche <img src=".gitbook/assets/4 (8).png" alt="" data-size="line"> pour quitter le mode d'apprentissage de badges.
+
+* État d'erreur
+  * Si le code utilisateur du panneau de commande saisi dépasse le nombre maximum de chiffres du code PIN, la LED orange clignotera avec 4 bips courts pour indiquer une erreur.
+  * Si le clavier a déjà stocké 50 codes PIN du panneau de commande, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez de saisir le 51e code PIN.
+  * Si le clavier a déjà appris 100 étiquettes NFC, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez d'apprendre la 101ème étiquette NFC.
 
 _**B. Procédure de compensation NFC :**_
 
