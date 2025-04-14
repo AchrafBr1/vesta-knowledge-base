@@ -17,7 +17,7 @@ Ce clavier est décliné en deux modèles :
 
 _**Identification des pièces**_
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1. LED Verte-Activité**
 
@@ -117,7 +117,7 @@ _**Fonction d'économie d'énergie :**_
 _**Mode Test:**_
 
 * Le clavier peut être mis en mode Test en saisissant le code PIN (par défaut :**0000**) suivi de **\***. La LED verte-Activité clignotera et le clavier émettra un long bip.
-* Pour sortir du mode Test, appuyez sur <img src=".gitbook/assets/image (5).png" alt="" data-size="line"> **deux fois**, le clavier émettra un long bip et la LED verte-Activité s'allumera, puis le clavier reviendra en mode de fonctionnement normal.
+* Pour sortir du mode Test, appuyez sur <img src=".gitbook/assets/image (5) (1).png" alt="" data-size="line"> **deux fois**, le clavier émettra un long bip et la LED verte-Activité s'allumera, puis le clavier reviendra en mode de fonctionnement normal.
 
 **NOTE**\
 **-** Le mode test est utile pour éjecter l'autoprotection du clavier lors de l'installation, le remplacement des piles ou un changement d'emplacement.\
@@ -133,10 +133,10 @@ _Le **Mode Test du clavier** permet les fonctions suivantes:_
 * Activez l'alarme Incendie (double touches) - appuyez sur **＊** puis **3**
 * Activez l'alarme Médicale (double touches) - appuyez sur **＊** puis **4**
 * Changez le code PIN — appuyez sur **＊** puis **6**
-  * Saisir l'ancien code et appuyer sur <img src=".gitbook/assets/image (6).png" alt="" data-size="line">
+  * Saisir l'ancien code et appuyer sur <img src=".gitbook/assets/image (6) (1).png" alt="" data-size="line">
   * Saisir le nouveau code à 4 chiffres et appuyer sur  **#**
 * Désactivez double touches - Appuyez sur **＊** puis **5**
-* Quitter le mode test - appuyez sur <img src=".gitbook/assets/image (7).png" alt="" data-size="line"> **deux fois**.
+* Quitter le mode test - appuyez sur <img src=".gitbook/assets/image (7) (1).png" alt="" data-size="line"> **deux fois**.
 * Armement sans code - appuyez sur **＊** puis **8**
 * Armement avec code - appuyez sur **＊** puis **9**
 
@@ -163,17 +163,17 @@ _**Procédures d'installation :**_
      **NOTE:** Si le clavier n'a émis aucun bip, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **#** et **＊** simultanément en mode de fonctionnement normal pour envoyer le code d'apprentissage.
   2. Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage.
 
-Étape 3. Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **＊** et **1** en Mode Test ou appuyez sur les touches  **#** et **＊** simultanément en mode.\
+Étape 3. Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **＊** et **1** en Mode Test ou appuyez sur les touches  **#** et **＊** simultanément en mode normal.\
 Étape 4. Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**).\
 Étape 5. Réglage du code:&#x20;
 
 1. Appuyez sur **＊** et **6**, le clavier émet un bip long.
 2. Saisir **0000** (code par défaut)
-3. Appuyez sur <img src=".gitbook/assets/image (6).png" alt="" data-size="line">, le clavier émet un bip long.
+3. Appuyez sur <img src=".gitbook/assets/image (6) (1).png" alt="" data-size="line">, le clavier émet un bip long.
 4. Saisir le nouveau code à 4 chiffres.
 5. Appuyez sur **#**, le clavier émet un bip long.
 
-Étape 6. Appuyez sur <img src=".gitbook/assets/image (7).png" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l’installation est terminée.
+Étape 6. Appuyez sur <img src=".gitbook/assets/image (7) (1).png" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l’installation est terminée.
 
 
 
@@ -206,16 +206,16 @@ Le désarmement du système nécessite toujours la saisie du code utilisateur.
 **Armement Total/Partiel avec code utilisateur**\
 En mode Test, appuyez sur les touches **＊** et **9** pour activer la fonction Armement avec code (**par défaut**).
 
-* **Armement Total:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image.png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état s'allumera accompagnée d'un bip long.
-* **Armement Partiel:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
-* **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
+* **Armement Total:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (11).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état s'allumera accompagnée d'un bip long.
+* **Armement Partiel:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
+* **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7) (1).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
 
 **Armement Total/Partiel sans code utilisateur**\
 En mode Test, appuyez sur les touches **＊** et **8** pour activer la fonction Armement sans code.
 
-* **Armement Total:** appuyez sur la touche <img src=".gitbook/assets/image.png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état s'allumera accompagnée d'un bip long.
-* **Armement Partiel:** appuyez sur la touche <img src=".gitbook/assets/image (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
-* **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
+* **Armement Total:** appuyez sur la touche <img src=".gitbook/assets/image (11).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état s'allumera accompagnée d'un bip long.
+* **Armement Partiel:** appuyez sur la touche <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
+* **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7) (1).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
 
 
 
@@ -247,4 +247,4 @@ _**Réinitialiser aux paramètres d'usine :**_
 **NOTE**
 
 * Après la réinitialisation, le code revient à la valeur par défaut,  "**0000"**. Le clavier aura besoin d'un nouveau processus d'apprentissage pour refonctionner.
-* Chaque fois que le clavier est retiré d'une centrale, il doit également réinitialisé pour effacer la précédente centrale de sa mémoire.
+* Chaque fois que le clavier est retiré d'une centrale, il doit être également réinitialisé pour effacer la précédente centrale de sa mémoire.

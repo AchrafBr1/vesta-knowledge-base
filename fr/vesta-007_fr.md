@@ -181,7 +181,7 @@ Lors de l'apprentissage du PIRCAM dans un répéteur/routeur, veuillez appuyer u
   4\. Vissez le support triangulaire dans les chevilles murales avec les deux pions de fixation en haut face à vous.\
   5\. Fixez le PIRCAM sur les crochets du support triangulaire.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Montage en applique :**\
   1\. Ouvrez le couvercle en desserrant la vis à l'aide d'un tournevis Philips.\

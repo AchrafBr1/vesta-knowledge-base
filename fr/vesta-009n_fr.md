@@ -27,7 +27,7 @@ IRP-16SL – Détecteur PIR, immunité animaux avec batterie au lithium 3 V
 
 * _**Identification**_
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Bouton de test/indicateur LED**\
    Le bouton de test est utilisé pour tester les performances du signal radio et pour l'apprentissage.   \
@@ -38,7 +38,7 @@ IRP-16SL – Détecteur PIR, immunité animaux avec batterie au lithium 3 V
 4.  **Support d'angle**\
 
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5. **Cavalier de supervision (JP2)**\
    **-** Cavalier Off : la supervision est activée (**par défaut pour les modèles 868WF**)\
    **-** Cavalier On : la supervision est désactivée (**par défaut pour les modèles 433AM**)\
@@ -110,7 +110,7 @@ _**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coi
 \- Pour le montage en angle, un support triangulaire est fourni pour ajouter une autoprotection arrière. Le support comprend également deux emplacements de fixation.\
 \- Pour le montage en applique, un support articulé en option est disponible pour permettre aux utilisateurs d'ajuster la plage de détection. Grâce au support articulé, le détecteur PIR peut pivoter de 80° horizontalement et de 70° verticalement pour offrir une couverture optimale.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
 
 
 
