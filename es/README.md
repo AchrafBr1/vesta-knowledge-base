@@ -21,6 +21,12 @@ layout:
 
 Este portal es su recurso principal para acceder a la documentación técnica y guías de usuario del Sistema de Alarma VESTA. Aquí encontrará todo lo necesario para instalar, configurar y operar eficazmente su sistema, con acceso inmediato a la información más relevante para cada situación.
 
+***
+
+{% hint style="warning" %}
+Les recordamos que, a partir de febrero de 2024, ya está habilitado el nuevo portal de SmartHomeSec: [porta.vestasecurity.eu](https://portal.vestasecurity.eu/Vesta/), a través del cual continuaremos ofreciendo todos los servicios de VESTA.
+{% endhint %}
+
 ### El sistema de alarma más flexible del mercado
 
 VESTA es sistema de alarma más avanzado del mercado, diseñado para integrarse en entornos residenciales, comerciales e incluso en infraestructuras críticas. Con la certificación de Grado 2 y Grado 3, VESTA garantiza una protección extremadamente fiable, ofreciendo centenares de combinaciones para automatización avanzada. Su integración con las principales marcas de CCTV, intrusión y control de accesos, convierten el Sistema de Alarma VESTA en la elección preferida de los profesionales del sector.
