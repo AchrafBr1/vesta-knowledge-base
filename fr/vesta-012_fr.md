@@ -18,7 +18,7 @@
 
 \[❓] Comment mettre la centrale en mode apprentissage à partir de **SmartHomeSec**
 
-{% @arcade/embed flowId="7NazF7Y168alDmWGgmmI" url="https://app.arcade.software/share/7NazF7Y168alDmWGgmmI" %}
+{% @arcade/embed flowId="nNYzAkqIZ9RJt89JI6XK" url="https://app.arcade.software/share/nNYzAkqIZ9RJt89JI6XK" %}
 
 **CERTIFICATIONS**
 
