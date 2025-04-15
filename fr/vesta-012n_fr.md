@@ -4,17 +4,16 @@ icon: circle-chevron-right
 
 # VESTA 012N
 
-![](<.gitbook/assets/0 (24).jpeg>)**CLAVIER À DISTANCE BLUETOOTH (KPT-39N-BLE)**
+**KPT-39N-BLE**
 
-KPT-39N-BLE est un clavier distant avec fonction Bluetooth et lecteur NFC. Il est conçu pour permettre un contrôle d'accès rapide au panneau de commande du système via le code PIN utilisateur, l'étiquette NFC ou en approchant le clavier avec le smartphone couplé pour désarmer le système. Le clavier peut envoyer des signaux sans fil et recevoir des signaux sans fil du panneau de commande.
+## <mark style="color:blue;">**Clavier avec lecteur RFID et Bluetooth**</mark>
 
-![](<.gitbook/assets/1 (16).jpeg>)
+### _<mark style="background-color:yellow;">**Introduction**</mark>_
 
-Le clavier distant peut être monté sur une surface plane ou sur un mur à l'aide de vis. Il dispose également d'un interrupteur de protection anti-sabotage qui sera activé lors de toute tentative non autorisée d'ouvrir le couvercle ou de détacher le clavier de la surface de montage.
+KPT-39N-BLE est un clavier avec fonction Bluetooth et lecteur RFID. Il est conçu pour permettre un le contrôle rapide de la centrale via un code utilisateur, un badge ou en approchant un smartphone associé en Bluetooth pour désarmer le système. Le clavier peut envoyer et recevoir des sign,aux RF de la centrale.\
+Le clavier peut être installé sur une surface plane ou sur un mur à l'aide de vis. Il dispose également d'une autoprotection qui sera activée lors de toute tentative non autorisée d'ouvrir le couvercle ou retirer le clavier de son emplacement d'installation.
 
-![](<.gitbook/assets/2 (15).jpeg>)
-
-* _**Identification des pièces**_
+### _<mark style="background-color:yellow;">**Identification**</mark>_
 
 ![](<.gitbook/assets/3 (14).jpeg>)
 

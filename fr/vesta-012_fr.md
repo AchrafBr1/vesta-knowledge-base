@@ -4,7 +4,7 @@
 
 
 
-## **Clavier sans fils avec lecteur RFID**
+## **Clavier avec lecteur RFID**
 
 
 
