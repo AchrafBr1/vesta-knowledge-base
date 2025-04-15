@@ -1,8 +1,4 @@
----
-icon: circle-chevron-right
----
-
-# VESTA 012
+# VESTA-012
 
 **KPT-39N**
 
@@ -166,11 +162,11 @@ Le clavier quittera automatiquement le mode test après 5 minutes d'inactivité 
 _**Procédures d'apprentissage/effacement/installation des badges**_
 
 NFC signifie Near Field Communication, qui est une technologie de communication sans fil qui établit une connexion entre deux appareils en les rapprochant. Vous pouvez stocker un code PIN utilisateur dans une étiquette NFC et utiliser l'étiquette NFC pour accéder au système d'alarme sans saisir de code PIN utilisateur sur le KPT-39N. Le clavier peut apprendre jusqu'à 100 étiquettes NFC avec jusqu'à 50 codes.\
-&#xNAN;_**A. Procédure d'apprentissage NFC:**_\
+&#xNAN;_**A. Procédure d'apprentissage :**_\
 Étape 1. Activez le clavier pour passer en mode test. Saisissez le code du clavier (par défaut :**0000**) suivi de la touche ＊. Lors de la saisie du code, le **LED Alimentation (verte)** s'allumera. La **LED Alimentation** s'éteindra et un bip long sera audible.\
 Étape 2. Appuyez sur les touches **＊** puis **1** pour accéder au mode d'apprentissage des badges. La **LED Défaut (orange)** s'allumera et un bip long sera audible.\
 Étape 3. Saisir le nouveau code utilisateur suivi de la touche **#**. Le clavier émettra un long bip et la LED orange commencera à clignoter pendant 5 secondes pour indiquer qu'il est prêt à apprendre un badge.\
-Étape 4. Dans les 5 secondes, placez un badge à proximité de la zone de détection du clavier pour le coupler avec le code utilisateur que vous venez de saisir.
+Étape 4. Dans les 5 secondes, placez un badge à proximité de la zone de détection du clavier pour l'associer avec le code utilisateur que vous venez de saisir.
 
 * Chaque badge associé réinitialisera le délai d'apprentissage de badge de 5 secondes. Vous pouvez associer plusieurs badges avec un seul code utilisateur en appliquant les badges un par un.
 * Le clavier sortira du mode apprentissage des badges après 5 secondes d'inactivité.
@@ -180,121 +176,118 @@ NFC signifie Near Field Communication, qui est une technologie de communication 
 Étape 5. Pour apprendre un autre badge, veuillez répéter les étapes 3 à 4. Le clavier quittera automatiquement le mode d'apprentissage de badges après 5 secondes d'inactivité.\
 Étape 6. Appuyez sur la touche <img src=".gitbook/assets/4 (8).png" alt="" data-size="line"> pour quitter le mode d'apprentissage de badges.
 
-* État d'erreur
-  * Si le code utilisateur du panneau de commande saisi dépasse le nombre maximum de chiffres du code PIN, la LED orange clignotera avec 4 bips courts pour indiquer une erreur.
-  * Si le clavier a déjà stocké 50 codes PIN du panneau de commande, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez de saisir le 51e code PIN.
-  * Si le clavier a déjà appris 100 étiquettes NFC, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez d'apprendre la 101ème étiquette NFC.
+* Condition d'erreur
+  * Si le code utilisateur de la centrale saisi dépasse le nombre maximum de chiffres du code, la LED orange clignotera avec 4 bips courts pour indiquer une erreur.
+  * Si le clavier a déjà stocké 50 codes utilisateurs, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez de saisir le 51e code PIN.
+  * Si le clavier a déjà stocké 100 badges, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez d'apprendre le 101ème.
 
-_**B. Procédure de compensation NFC :**_
+_**B. Procédure de suppression :**_\
+Vous pouvez effacer les informations de l'étiquette NFC.\
+Étape 1. Activez le clavier pour passer en mode test. Saisissez le code du clavier (par défaut :**0000**) suivi de la touche **＊**. Lors de la saisie du code PIN, la **LED alimentation (verte)** s'allumera. La **LED alimentation** s'éteindra alors et un bip long sera audible.\
+Étape 2. Appuyez sur les touches **＊** puis **1** pour accéder au mode d'apprentissage des badges. La **LED Défaut (orange)** s'allumera et un bip long sera audible.\
+Étape 3. Si vous souhaitez supprimer un code utilisateur stocké dans le clavier et tous les badges associés à ce codes, entrez le code utilisateur et appuyez sur la touche **＊**, un bip long retentira.\
+Si vous souhaitez effacer uniquement un badge spécifique, appuyez sur la touche **＊**, un bi long retentira et la LED orange clignotera pendant 5 secondes. Appliquez le badge dans la zone de détection du clavier dans les 5 secondes :
 
-Vous pouvez effacer les informations de l'étiquette NFC.
+* Si le badge existe dans le clavier, le clavier émettra 2 bips courts pour indiquer que les données du badge ont été supprimées.
+* Si le badge appliqué n'existe pas sur le clavier, le clavier émettra 4 bips courts pour indiquer une erreur.
+* Chaque présentation de badge réinitialisera le délai de suppression à 5 secondes, vous pouvez supprimer badges en les appliquant un par un.
 
-Étape 1. Activez d'abord le clavier distant pour passer en mode test. Saisissez le code PIN du clavier (par défaut :**0000**) suivi de la touche ＊. Lors de la saisie du code PIN, le**LED d'alimentation**(Vert) s'allumera. Le**LED d'alimentation**s'éteindra alors et émettra un long bip.
+Étape 4. Le clavier quittera automatiquement le mode de suppression de badges après 5 secondes d'inactivité.\
+Étape 5. Appuyez sur la touche <img src=".gitbook/assets/4 (8).png" alt="" data-size="line"> pour quitter le mode de suppression de badges.
 
-Étape 2. Appuyez sur la touche ＊ puis**1**pour accéder au mode d'apprentissage de l'étiquette NFC. Le**LED de défaut**(Orange) s'allumera et émettra un long bip.
+_**C. Procédure d'installation d'étiquettes NFC :**_\
+Les petites étiquettes NFC peuvent être placées au dos des smartphones, des cartes ou des porte-clés pour un accès facile.\
+Étape 1. Apprenez l'étiquette NFC au clavier.\
+Étape 2. Retirez la protection de l'étiquette NFC.\
+Étape 3. Appliquez l'étiquette NFC sur la coque arrière de votre téléphone portable, etc.\
+Étape 4. Vous pouvez maintenant utiliser l'étiquette NFC pour accéder au système.\
+\
+&#xNAN;_&#x4E;OTE:_
 
-Étape 3. Si vous souhaitez supprimer un code PIN du panneau de commande stocké dans le clavier et toutes les étiquettes NFC attribuées à ce code PIN, entrez le code utilisateur du panneau de commande et appuyez sur la touche ＊, un long bip retentira.
+* Faites attention de ne pas plier l'étiquette NFC, car elle pourrait être endommagée et devenir inutilisable.
+* Le KPT-39N prend uniquement en charge le protocole ISO 14443A pour les étiquettes NFC.
 
-Si vous souhaitez effacer uniquement une étiquette NFC spécifique, appuyez sur la touche ＊ avec un long bip et la LED orange clignotera pendant 5 secondes. Apposez une étiquette NFC à proximité de la zone de détection du clavier dans les 5 secondes :
 
-* Si l'étiquette NFC appliquée existe dans le clavier, le clavier émettra 2 bips courts pour indiquer que les données de l'étiquette NFC ont été supprimées.
-* Si l'étiquette NFC appliquée n'existe pas sur le clavier, le clavier émettra 4 bips courts pour indiquer une erreur.
-* Chaque étiquette NFC appliquée réinitialisera le minuteur de retrait de l'étiquette NFC à 5 secondes, vous pouvez supprimer plusieurs NFC
 
-étiquettes en les appliquant une par une.
 
-Étape 4. Le clavier quittera automatiquement le mode de suppression des étiquettes NFC après 5 secondes d'inactivité.
 
-![NFC iPhone3](<.gitbook/assets/5 (1) (1) (1).jpeg>)Étape 5. Appuyez sur![](<.gitbook/assets/6 (3) (1).png>)touche pour quitter le mode d'apprentissage des étiquettes NFC.
+_**Contrôle du système**_
 
-_**C. NFC Installation Procedure**_
+Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier. Il existe deux manières d'armer le système.
 
-Les petites étiquettes NFC peuvent être placées au dos des smartphones, des cartes ou des porte-clés pour un accès facile.
+1. Armement Total/Partiel en saisissant le code utilisateur.
+2. Armement Total/Partiel sans saisir le code utilisateur.
 
-Étape 1. Apprenez l'étiquette NFC au clavier distant
+Le désarmement du système nécessite toujours la saisie du code utilisateur.
 
-Étape 2. Retirez le couvercle de protection de l'étiquette NFC.
+**Armement Total/Partiel avec code utilisateur:**\
+En mode Test, appuyez sur les touches **＊** et **9** pour activer la fonction Armement avec code (**par défaut**).
 
-Étape 3. Appliquez l'étiquette NFC sur la coque arrière de votre téléphone portable, etc.
+* **Armement Total:** Saisir un code utilisateur et appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FdmFGjR3gtYCSEVljlGkc%252Fimage.png%3Falt%3Dmedia%26token%3Dc4b43939-98ae-40c5-a663-b236e45e91aa&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=4f761386&#x26;sv=2" alt="" data-size="line"> ou appuyez sur <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FdmFGjR3gtYCSEVljlGkc%252Fimage.png%3Falt%3Dmedia%26token%3Dc4b43939-98ae-40c5-a663-b236e45e91aa&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=4f761386&#x26;sv=2" alt="" data-size="line"> et présenter le badge. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F1duxNYMFKZqlqu0vvi8d%252Fimage.png%3Falt%3Dmedia%26token%3Dee7d40f2-471c-4ef5-9396-5a0f84b69f02&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=5eb073fa&#x26;sv=2" alt="" data-size="line"> s'allumera accompagnée d'un bip long.
+* **Armement Partiel:** Saisir un code utilisateur et appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fb4PDPCHyfQSaX9IYAoWP%252Fimage.png%3Falt%3Dmedia%26token%3D17033c6d-9eb3-463a-8f04-b85d06bf00dd&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=f84da075&#x26;sv=2" alt="" data-size="line"> ou appuyez sur <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fb4PDPCHyfQSaX9IYAoWP%252Fimage.png%3Falt%3Dmedia%26token%3D17033c6d-9eb3-463a-8f04-b85d06bf00dd&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=f84da075&#x26;sv=2" alt="" data-size="line"> et présenter le badge. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FNmnuDxoa3GgdidX9GWHU%252Fimage.png%3Falt%3Dmedia%26token%3D803a0392-3e68-4856-9c3f-42bfcd016aca&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=39ccae56&#x26;sv=2" alt="" data-size="line"> s'allumera accompagnée de 3 bips.
+* **Désarmement**: Saisir un code utilisateur et appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Ftb0iCBwAJBf60kqn8Fga%252Fimage.png%3Falt%3Dmedia%26token%3Dd8c2133f-1cbd-4899-b214-5d40cc39b168&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=3090d548&#x26;sv=2" alt="" data-size="line"> ou appuyez sur <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Ftb0iCBwAJBf60kqn8Fga%252Fimage.png%3Falt%3Dmedia%26token%3Dd8c2133f-1cbd-4899-b214-5d40cc39b168&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=3090d548&#x26;sv=2" alt="" data-size="line"> et présenter le badge. Si le désarmement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FrJyHIZTVerswVjjDyD4L%252Fimage.png%3Falt%3Dmedia%26token%3Dc3d65df2-acb1-4b6f-98d6-38f92c655932&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=8de5945b&#x26;sv=2" alt="" data-size="line">s'allumera accompagnée de 2 bips.
 
-Étape 4. Vous pouvez maintenant utiliser l'étiquette NFC pour accéder au système.
+S'il y a une **Mémoire d'alarme** la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F6D7X8cEk4V8mFciKGA9V%252Fimage.png%3Falt%3Dmedia%26token%3D3002cd41-7b67-40ca-81f6-325844ee1be4&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=517d1f8e&#x26;sv=2" alt="" data-size="line"> et la LED de défaut s'allumeront avec 5 bips.
 
-**\\**
+**Armement Total/Partiel sans code utilisateur** En mode Test, appuyez sur les touches **＊** et **8** pour activer la fonction Armement sans code.
 
-* Faites attention à ne pas plier l'étiquette NFC, car elle pourrait être endommagée et devenir inutilisable.
-* Le KPT-39N prend uniquement en charge le protocole ISO 14443A pour l'étiquette NFC.
-* _**Contrôle du mode système**_
+* **Armement Total:** Appuyez sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FdmFGjR3gtYCSEVljlGkc%252Fimage.png%3Falt%3Dmedia%26token%3Dc4b43939-98ae-40c5-a663-b236e45e91aa&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=4f761386&#x26;sv=2" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F1duxNYMFKZqlqu0vvi8d%252Fimage.png%3Falt%3Dmedia%26token%3Dee7d40f2-471c-4ef5-9396-5a0f84b69f02&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=5eb073fa&#x26;sv=2" alt="" data-size="line"> s'allumera accompagnée d'un bip long.
+* **Armement Partiel:** Appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fb4PDPCHyfQSaX9IYAoWP%252Fimage.png%3Falt%3Dmedia%26token%3D17033c6d-9eb3-463a-8f04-b85d06bf00dd&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=f84da075&#x26;sv=2" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FNmnuDxoa3GgdidX9GWHU%252Fimage.png%3Falt%3Dmedia%26token%3D803a0392-3e68-4856-9c3f-42bfcd016aca&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=39ccae56&#x26;sv=2" alt="" data-size="line"> s'allumera accompagnée de 3 bips longs.
+* **Désarmement**: Saisir un code utilisateur et appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Ftb0iCBwAJBf60kqn8Fga%252Fimage.png%3Falt%3Dmedia%26token%3Dd8c2133f-1cbd-4899-b214-5d40cc39b168&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=3090d548&#x26;sv=2" alt="" data-size="line">. Si le désarmement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FrJyHIZTVerswVjjDyD4L%252Fimage.png%3Falt%3Dmedia%26token%3Dc3d65df2-acb1-4b6f-98d6-38f92c655932&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=8de5945b&#x26;sv=2" alt="" data-size="line">s'allumera accompagnée de 2 bips.
 
-Après avoir fini d'apprendre le clavier dans le panneau de commande du système d'alarme, l'utilisateur peut changer le système à l'aide du clavier.
+S'il y a une **Mémoire d'alarme** la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F6D7X8cEk4V8mFciKGA9V%252Fimage.png%3Falt%3Dmedia%26token%3D3002cd41-7b67-40ca-81f6-325844ee1be4&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=517d1f8e&#x26;sv=2" alt="" data-size="line"> et la LED de défaut s'allumeront avec 5 bips.
 
-Il existe deux manières d'armer le système.
 
-1. Armement absent/domicile Armez le système en saisissant le code PIN utilisateur du panneau de commande.
-2. Armement Absent/Départ Armez le système sans entrer le code PIN utilisateur du panneau de commande.
 
-Le désarmement du système nécessite toujours la saisie du code PIN utilisateur du panneau de commande.
 
-**Armement/Accueil avec code PIN du panneau de commande :**
 
-En mode Test, appuyez sur la touche ＊ puis**9**pour activer la fonction Armement/Accueil avec code PIN.
+_**Temporisation d'entrée/de sortie**_
 
-Étiquette NFC. Si le panneau ne présente aucun défaut et que l'armement est réussi, le![](<.gitbook/assets/9 (3) (1).png>)La LED s'allumera avec
+* Une fois le son des temporisations d'entrée/de sortie activé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par un bip long), le clavier émettra des bips lorsque l'une des temporisations sera activée.
+* Une fois le son des temporisations d'entrée/de sortie désactivé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par deux bips courts), restera silencieux pendant les temporisations d'entrée/de sortie.
 
-un long bip.
 
-bips.
 
-5 bips.
 
-**Armement/Accueil sans code PIN du panneau de commande :**
 
-En mode Test, appuyez sur la touche ＊ puis**8**Touche pour activer la fonction Arm/Home sans code PIN
+_**Conditions de défaut**_
 
-accompagné d'un long bip.
+Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**,
 
-accompagné de 3 bips.
+1. Lorsqu'un défaut existe dans la centrale, si le clavier est utilisé pour l'armement, la LED de défaut clignotera avec 3 bips pour indiquer une condition de défaut.
+2. Lorsque le clavier désarme la centrale, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F62JLaNrZYGDMWkpk9sfU%252Fimage.png%3Falt%3Dmedia%26token%3D9bdda193-6b70-4a65-bda5-d3de5b93bf14&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=ee2b4905&#x26;sv=2" alt="" data-size="line"> s'allumera avec deux bips indiquant un fonctionnement normal.
+3. Si vous saisissez un code incorrect 4 fois en 10 minutes en mode test, le clavier désactivera les touches pendant 1 minute et toutes les LED clignoteront 3 fois avec 6 bips. Après 1 minute, il émettra un bip long indiquant le retour en mode normal.
+4. Si vous saisissez un code incorrect 4 fois en 10 minutes lors d'un changement de mode, le clavier désactivera les touches pendant 5 minutes. Après 5 minutes, le clavier émettra un bip long indiquant le retour en mode normal.
 
-une marque. Si le désarmement réussit, le![](<.gitbook/assets/23 (1).png>)La LED s'allumera avec 2 bips. S'il y a\*\*Mémoire d'alarme,\*\*le![](<.gitbook/assets/24 (1).png>)La LED et la LED de défaut s'allumeront avec 5 bips.
 
-* _**Son d'entrée/sortie**_
-* Une fois le son d'entrée/sortie activé en appuyant sur**1**touche +**2**en même temps pendant 2 secondes (indiqué par un bip long), le clavier émettra des bips lorsque la minuterie d'entrée/sortie est activée.
-* Une fois le son d'entrée/sortie désactivé en appuyant sur**1**touche +**2**en même temps pendant 2 secondes (indiqué par deux bips courts), le clavier restera silencieux lorsque la minuterie d'entrée/sortie sera activée.
-* _**Conditions de panne**_
 
-_Lorsque le clavier distant est sous**MODE DE FONCTIONNEMENT NORMAL,**_
 
-*
-  1. Lorsqu'une condition de défaut existe dans le panneau de commande, si le clavier est utilisé pour armer le panneau, la LED de défaut clignotera avec 3 bips pour indiquer une condition de défaut.
-  2. Lorsque le clavier désarme le panneau, le![](<.gitbook/assets/25 (1).png>)La LED s'allumera avec deux bips indiquant un fonctionnement normal.
-  3. Si vous saisissez un code PIN KP incorrect 4 fois en 10 minutes en mode test, KP désactivera la fonction clé pendant 1 minute et toutes les LED clignoteront 3 fois avec 6 bips. Après 1 minute, il émettra un long bip pour indiquer que la fonction de la touche est revenue à la normale.
-  4. Si vous saisissez un code PIN KP incorrect 4 fois dans les 10 minutes lors du changement de mode système, KP désactivera la fonction clé pendant 5 minutes. Après 5 minutes, le clavier émettra un long bip pour indiquer que la fonction des touches est revenue à la normale.
-* _**Retour aux paramètres d'usine**_
 
-La réinitialisation du clavier aux paramètres d'usine par défaut restaurera le code PIN du clavier à 0000 et effacera toute la mémoire d'apprentissage du panneau.
+_**Retour aux paramètres d'usine**_
 
-_**Réinitialiser aux paramètres d'usine :**_
+La réinitialisation du clavier aux paramètres d'usine restaurera le code du clavier à 0000 et effacera les information relative à la centrale.\
+&#xNAN;_**Réinitialiser aux paramètres d'usine :**_\
+Étape 1: Retirez les piles et relâchez l'autoprotection.\
+Étape 2: \
+\- Si la fonction "**Armement Total/Partiel avec code**" est sélectionnée, maintenir la touche **3** appuyée en insérant la batterie.\
+\- Si la fonction "**Armement Total/Partiel sans code**" est sélectionnée, maintenir la touche **4** appuyée en insérant la batterie.\
+Étape 3:\
+\- Maintenir la touche **3** jusqu'à ce que le clavier émette 3 bips pour indiquer une réinitialisation réussie.\
+\- Maintenir la touche **4** jusqu'à ce que le clavier émette 4 bips pour indiquer une réinitialisation réussie. Étape 4: Relâchez la touche **3** ou **4**, le processus de réinitialisation est terminé.\
+Après la réinitialisation, le code revient à la valeur par défaut, "**0000"**. Le clavier aura besoin d'un nouveau processus d'apprentissage pour refonctionner.
 
-Étape 1 Retirez les piles et relâchez le dispositif anti-sabotage.
+* Chaque fois que le clavier est retiré d'une centrale, il doit être également réinitialisé pour effacer la précédente centrale de sa mémoire
 
-Étape 2 Si «**Armement/Accueil avec code PIN du panneau de commande**" La méthode est sélectionnée, appuyez et maintenez**3**clé tout en insérant la batterie.
 
-.Si "**Armement/Accueil sans code PIN du panneau de commande**" La méthode est sélectionnée, appuyez et maintenez**4**clé tout en insérant la batterie.
 
-Étape 3 Continuez à appuyer**3**jusqu'à ce que KP émette 3 bips pour indiquer une réinitialisation réussie.
 
-.Continuez à appuyer sur la touche 4 jusqu'à ce que KP émette 4 bips pour indiquer une réinitialisation réussie.
 
-Étape 4 : Libération**3**ou 4 touches, le processus de réinitialisation est terminé. Après la réinitialisation, le code PIN revient aux valeurs par défaut d'usine,**0000**.
+_**Montage du clavier**_
 
-Le clavier distant aura besoin d'un nouveau processus d'apprentissage pour commencer à fonctionner.
-
-* Chaque fois que le clavier est retiré du panneau de commande, il doit également être réinitialisé aux paramètres d'usine pour effacer la mémoire de son panneau de commande.
-* _**Montage du clavier déporté**_
-
-Pour monter le clavier déporté :
+Pour monter le clavier :
 
 1. Retirez le capot avant.
 2. En utilisant les 2 trous de montage de la coque arrière comme gabarit, marquez les positions à l'endroit le plus approprié.
 3. Insérez les chevilles murales si vous fixez sur une surface en plâtre ou en brique.
-4. Vissez le clavier déporté sur les chevilles.
-5. Remettez le capot avant.
+4. Vissez le clavier dans les chevilles.
+5. Replacez le capot avant.

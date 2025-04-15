@@ -213,7 +213,7 @@ La réinitialisation du clavier aux paramètres d'usine restaurera le code du cl
 Étape 3:\
 \- Maintenir la touche **3** jusqu'à ce que le clavier émette 3 bips pour indiquer une réinitialisation réussie.\
 \- Maintenir la touche **4** jusqu'à ce que le clavier émette 4 bips pour indiquer une réinitialisation réussie.\
-Étape 4 :relâchez la touche **3** ou **4**, le processus de réinitialisation est terminé.
+Étape 4: Relâchez la touche **3** ou **4**, le processus de réinitialisation est terminé.
 
 *   Après la réinitialisation, le code revient à la valeur par défaut, "**0000"**. Le clavier aura besoin d'un nouveau processus d'apprentissage pour refonctionner.
 
