@@ -2,13 +2,9 @@
 
 **VST-862**
 
+## **PIRCAM intérieur (alcalines)**
 
-
-**PIRCAM intérieur (alcalines)**
-
-
-
-**Introduction**
+### **Introduction**
 
 VST-862 est détecteur de mouvement infrarouge passif (PIR) avec caméra. Il est capable d'envoyer des signaux RF et des images (qualité d'image jusqu'à 640 x 480 pixels) à la centrale suite à la détection d'un mouvement.\
 Le PIRCAM est conçu pour offrir une portée de détection de 12 mètres lorsqu'il est installé à 2 mètres de haut. Pour les modèles avec immunité animaux,  la portée de l'immunité est de 7 mètres pour 27kg, vos animaux domestiques ne déclencheront pas de fausses alarmes dans les limites énoncées. Pour les modèles compatibles avec le répéteur RP-29/routeur RMB-29 de Climax (**Modèles P5 uniquement**), la portée de communication RF peut être encore étendue pour les zones difficiles à atteindre.\
@@ -27,9 +23,7 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 | VST-862P-IL-(P5)  |                     | OUI        | OUI                  | Modèle P5 uniquement       |
 |                   |                     |            |                      |                            |
 
-
-
-* **Identification**
+### **Identification**
 
 ![](<.gitbook/assets/0 (21).jpeg>)
 
@@ -57,7 +51,7 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 
 
 
-**Caractéristiques**
+### **Caractéristiques**
 
 * _**Voyant LED**_\
   En fonctionnement normal, la LED bleue ne s'allumera pas sauf dans les situations suivantes :\
@@ -139,7 +133,9 @@ Lors de l'apprentissage du PIRCAM dans un répéteur/routeur, veuillez appuyer u
   1\. Utilisez le menu de configuration depuis la centrale pour modifier la partition du PIRCAM.\
   2\. Maintenez appuyé le bouton de fonction pendant 3 secondes sur le PIRCAM pour envoyer un signal à la centrale, puis relâchez le bouton lorsque la LED s'allume (pour les centrales autonomes, après avoir appuyé et maintenu enfoncé le bouton de fonction pendant 3 secondes, veuillez appuyer **de nouveau** sur le bouton pendant une seconde pour envoyer un signal).
 
-**Installation**
+
+
+### **Installation**
 
 * _**Guide d'installation**_\
   _**-**_ Le PIRCAM est conçu pour être monté sur une surface plane ou dans un angle avec les vis de fixation et les chevilles fournies.\

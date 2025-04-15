@@ -2,13 +2,9 @@
 
 **IR(P)-29**
 
+## **Détecteur PIR**
 
-
-**Détecteur PIR**
-
-
-
-**Introduction**
+### **Introduction**
 
 Le détecteur PIR capte une signature infrarouge pour détecter les mouvements dans une zone donnée et signale à la centrale de déclencher une alarme si un intrus croise sa zone de détection.\
 Le détecteur PIR est composé de deux éléments, le couvercle et la base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un angle avec un support triangulaire.\
@@ -25,8 +21,7 @@ IRP-29SL / IRP-29SL-F1 – Détecteur PIR, immunité animaux avec batterie au li
 
 
 
-**Identification**\
-
+### **Identification** 
 
 <figure><img src=".gitbook/assets/0 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
