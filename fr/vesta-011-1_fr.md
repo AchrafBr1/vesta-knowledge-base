@@ -98,7 +98,7 @@ _**Autoprotection**_
 _**Supervision**_
 
 * Après l'installation, le clavier transmet automatiquement des signaux de supervision à la centrale à un intervalle de 30 à 50 minutes.
-* Si la centrale n'a pas reçu le signal du clavier pendant une période de temps prédéfinie, la centrale considérera le clavier comme hors service et réagira en fonction de sa configuration
+* Si la centrale n'a pas reçu le signal du clavier pendant une période de temps prédéfinie, la centrale considérera le clavier comme hors service et réagira en fonction de sa configuration.
 
 
 
@@ -131,7 +131,7 @@ _**Supervision**_
      \- Si la centrale reçoit le code d'apprentissage, elle affichera les informations en conséquence. Reportez-vous au manuel d'utilisation de votre centrale pour terminer le processus d'apprentissage.\
      \- Une fois que la centrale a reçu le signal du clavier, elle enverra un accusé de réception au clavier. Le clavier émettra alors 3 bips pour confirmer que l'accusé de réception a été reçu. Si le clavier n'émet pas 3 bips, veuillez redémarrer la procédure d'apprentissage.
 
-Étape 3. Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **\*** et **7** en Mode Test ou appuyez sur les touches **#** et **\*** simultanément en mode normal.\
+Étape 3. Une fois le clavier enregistré, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **\*** et **7** en Mode Test ou appuyez sur les touches **#** et **\*** simultanément en mode normal.\
 Étape 4. Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**).\
 Étape 5. Appuyez sur la touche <img src=".gitbook/assets/image (2).png" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l'installation est terminée. Le clavier émettra un long bip et les trois LED de mode système s'éteindront. Le clavier revient au mode de fonctionnement normal.\
 \

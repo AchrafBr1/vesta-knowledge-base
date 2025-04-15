@@ -64,93 +64,91 @@ NOTE:\
 
 
 
-* _**Opération générale**_
-  *
-    *
-      * Entrer en mode programmation — Entrez le code PIN du clavier, puis appuyez sur la touche ＊.
-      * Alarme de panique — Appuyez sur**1**touche +**3**clé en même temps. (si la fonction est activée)
-      * Alarme incendie — Appuyez sur**4**touche +**6**clé en même temps. (si la fonction est activée)
-      * Alarme médicale — Presse**7**touche +**9**clé en même temps. (si la fonction est activée)
-      * Vérifier l'état du panneau de commande - Mode normal Appuyez sur\*\*#\*\*clé.
-      * Activer/Désactiver le son d'entrée et de sortie — Appuyez sur**1**touche +**2**en même temps pendant 2 secondes. (Le clavier émettra un bip long pour indiquer que la fonction est activée et émettra 2 bips courts pour indiquer que la fonction est désactivée.)
-* _**Pouvoir**_
-  *
-    * Le clavier à distance utilise une pile au lithium CR123 3 V comme source d'alimentation.
-    * Le clavier distant peut également détecter l'état de la batterie. Si la tension de la batterie est faible, la LED d'alimentation clignote pendant 5 secondes pendant le fonctionnement. Le signal de batterie faible sera envoyé avec des transmissions de signal régulières au panneau de commande pour afficher l'état en conséquence.
-    * Avant expédition, la batterie est préinstallée en usine.
-    * Lors du changement de batterie, appuyez plusieurs fois sur n'importe quelle touche pour la décharger avant d'insérer une nouvelle batterie.
-* _**Fonction d'économie d'énergie**_
-  *
-    * Lorsqu'il est inactif, le clavier distant est en**Attendre**mode et ne consomme aucune énergie. Il s'activera et**réveillez-vous**pendant 5 secondes lorsqu'une touche est enfoncée.
-    * Après 5 secondes d'inactivité de la touche, l'alimentation s'éteint et revient**o En veille**mode.
-* _**Autoprotection**_
-  *
-    * Le clavier est protégé contre toute tentative d'ouverture du couvercle ou de détachement du clavier de sa surface de montage.
-    * La protection anti-sabotage est désactivée lorsque le clavier est en mode programmation.
-* _**Signal de surveillance**_
-  *
-    * Après l'installation, le clavier à distance transmettra automatiquement les signaux de supervision au panneau de commande à
+### _<mark style="background-color:yellow;">**Fonctionnement général**</mark>_
 
-![](<.gitbook/assets/6 (15).png>) ![](<.gitbook/assets/7 (15).jpeg>) ![](<.gitbook/assets/8 (11).jpeg>) ![](<.gitbook/assets/9 (6).jpeg>) ![](<.gitbook/assets/10 (6).jpeg>) ![](<.gitbook/assets/11 (10).jpeg>)
+* Entrez en mode test - Saisir le code du clavier, puis appuyez sur la touche **＊**.
+* Alarme Panique - Appuyez sur les touches **1** et **3** simultanément (si la fonction est activée).
+* Alarme Incendie - Appuyez sur les touches **4** et **6** simultanément (si la fonction est activée).
+* Alarme Médicale - Appuyez sur les touches **7** et **9** simultanément (si la fonction est activée).
+* Vérifier l'état de la centrale - En mode normal appuyez sur la touche **#**.
+* Activer/Désactiver les bips d'entrée/sortie — Appuyez sur les touches **1** et **2** simultanément pendant 2 secondes (le clavier émettra un bip long pour indiquer que la fonction est activée et émettra 2 bips courts pour indiquer que la fonction est désactivée).
 
-un intervalle de 30 à 50 minutes.
 
-*
-  * Si la centrale n'a pas reçu le signal du clavier à distance pendant une période de temps prédéfinie, la centrale considérera le clavier à distance hors service et réagira en fonction des paramètres du panneau.
-* _**Apprentissage du clavier dans le panneau de configuration**_
 
-![](<.gitbook/assets/12 (14).png>)
+### _<mark style="background-color:yellow;">**Alimentation**</mark>_
 
-Étape 1. Mettez le panneau de commande dans**Mode d'apprentissage**. Veuillez vous référer au manuel du panneau de commande.
+* Le clavier utilise une pile lithium CR123 3 V comme source d'alimentation.
+* Le clavier peut également détecter l'état de la batterie. Si la tension de la batterie est faible, la LED Alimentation clignote pendant 5 secondes pendant le fonctionnement. Le signal de batterie faible sera envoyé à la centrale.
+* La batterie est préinstallée en usine.
+* Lors du changement de batterie, appuyez plusieurs fois sur n'importe quelle touche avant d'insérer une nouvelle batterie.
 
-Étape 2.**Mode normal du clavier**
 
-En mode normal du clavier, appuyez et maintenez\*\*＊**clé et**#\*\*pendant 2 secondes pour transmettre le code d'apprentissage au panneau de commande.
 
-**Mode de programmation du clavier**
+### _<mark style="background-color:yellow;">**Mise en veille**</mark>_
 
-Vous pouvez également activer le clavier distant pour accéder d'abord au mode de programmation. Entrez le code PIN du clavier (par défaut :
+* Lorsqu'il est inactif, le clavier est en **veille** et ne consomme pas d'énergie. Il s'activera pendant 5 secondes lorsqu'une touche sera utilisée.
+* Après 5 secondes d'inactivité, le clavier revient en mode **veille**.
 
-**0000**), puis appuyez sur\*\*＊**clé. Les trois**![](<.gitbook/assets/13 (13).png>)![](<.gitbook/assets/14 (7).jpeg>)**Les LED s'allumeront avec un long bip. Appuyez sur la touche ＊ puis**7\*\*clé pour transmettre le code d’apprentissage au panneau de commande. Le clavier à distance émettra un long bip.
 
-Étape 3. Reportez-vous au manuel du panneau de configuration pour terminer le processus d'apprentissage. Si l'apprentissage réussit, le clavier émettra 3 bips dès réception du signal d'accusé de réception du panneau de commande. Si le clavier n'émet pas 3 bips,
 
-2
+### _<mark style="background-color:yellow;">**Autoprotection**</mark>_
 
-veuillez répéter l'étape 2 pour transmettre à nouveau le code d'apprentissage.
+* Le clavier est protégé contre toute tentative d'ouverture du couvercle ou d'arrachement de sa surface d'installation.
+* L'autoprotection est désactivée lorsque le clavier est en mode test.
 
-Étape 4. Une fois le clavier distant appris, placez le panneau de commande dans**Test de marche**mode, maintenez le clavier distant à l'emplacement souhaité et envoyez le code d'apprentissage au panneau de commande pour confirmer que cet emplacement se trouve dans la plage de signal du panneau de commande.
 
-![](<.gitbook/assets/15 (6).jpeg>)
 
-* _**Modifier la zone de fonctionnement du clavier**_
-  * Suivez les instructions ci-dessous pour modifier la zone du clavier dans le panneau de configuration.
-    1. Utilisez la fonction Modifier le périphérique du panneau pour modifier les paramètres de la zone du clavier.
-    2. Mettez le panneau de commande dans**Mode d'apprentissage**.
-    3. Appuyez et maintenez la touche ＊ et\*\*#\*\*touche du clavier pendant 2 secondes pour transmettre le code d'apprentissage au panneau de commande.
-* _**Procédures Ajouter une balise/Effacer une balise**_
+### _<mark style="background-color:yellow;">**Supervision**</mark>_
 
-![](<.gitbook/assets/16 (5).jpeg>)
+* Après l'installation, le clavier transmet automatiquement des signaux de supervision à la centrale à un intervalle de 30 à 50 minutes.
+* Si la centrale n'a pas reçu le signal du clavier pendant une période de temps prédéfinie, la centrale considérera le clavier comme hors service et réagira en fonction de sa configuration.
 
-Le clavier est capable de transmettre des balises NFC (Near Field Communication) au panneau de commande, et vous pouvez attribuer un code PIN utilisateur et un nom d'utilisateur à chaque balise NFC sur la page Web du panneau. Les balises NFC peuvent ensuite être utilisées pour contrôler le mode du système d’alarme via le clavier. Le nombre de balises NFC et de codes PIN utilisateur est géré sur la page Web du panneau de configuration.
 
-1. _**Ajouter une étiquette:**_
 
-Lors de l'ajout d'un nouveau tag, le clavier doit être en mode de fonctionnement normal.
+### _<mark style="background-color:yellow;">**Apprentissage du clavier dans la centrale**</mark>_
 
-Étape 1. Accédez à la page Code PIN sur la page Web du Panneau de configuration, saisissez un code PIN utilisateur à 4 ou 6 chiffres et un nom d'utilisateur pour l'étiquette, attribuez le code PIN utilisateur à une zone.
+Étape 1. Mettez la centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
+Étape 2. Ajoutez le clavier à la centrale.
 
-![](<.gitbook/assets/17 (8).png>)
+* **Mode normal**\
+  En mode normal, maintenir les touches \* et # appuyées pendant 2 secondes pour transmettre le code d'apprentissage à la centrale.
+* **Mode Test**\
+  Mettez le clavier en Mode Test en saisissant le code (par défaut :**0000**), puis appuyez la touch&#x65;**＊**. Les trois touches <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-fe25c9957403e3c10f8e9d28f99d7d324e84ba0f%252F10%2520%2813%29.png%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=bf585e9e&#x26;sv=2" alt="" data-size="line"><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-cf49690b317e6f3fb07c55fd84d849931f4c4cae%252F11%2520%289%29.jpeg%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=b5350c2d&#x26;sv=2" alt="" data-size="line"> s'allumeront avec un long bip.\
+  Appuyez ensuite sur les touches **\*** et **7** pour transmettre le signal d'apprentissage. Le clavier émettra un bip long.
 
-Étape 2. Une fois le KPT-39N-BLE appris avec succès dans le panneau, appuyez sur![](<.gitbook/assets/18 (5).jpeg>)touche du clavier. Ensuite, appliquez une nouvelle balise à la zone du capteur Keypad Tag. Le rétroéclairage blanc s'allumera avec 4 bips pour indiquer que cette balise est nouvelle (pas encore ajoutée au système).
+Étape 3. Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage. Si l'apprentissage réussit, le clavier émettra 3 bips dès réception du signal d'accusé de réception de la centrale. Si le clavier n'émet pas 3 bips,  veuillez répéter l'étape 2 pour transmettre à nouveau le code d'apprentissage.\
+Étape 4. Une fois le clavier enregistrée, mettre la centrale en **Mode** **Test**, maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que l'emplacement se trouve dans la plage de signal de la centrale.
 
-Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-![](<.gitbook/assets/19 (11).png>)
 
-Étape 4. La balise a été ajoutée. Vous pouvez utiliser l'étiquette pour armer/armer/désarmer le système. Lorsque le clavier est allumé en insérant les piles, la LED orange clignote et le rétroéclairage blanc s'allume. Lorsque la LED est éteinte, attendez 10 secondes pour que le capteur d'étiquette du clavier commence à fonctionner.
+### _<mark style="background-color:yellow;">**Modifier la partition du clavier**</mark>_
 
-1. _**Effacer la balise :**_
+* Suivez les instructions ci-dessous pour modifier la partition du clavier dans la centrale:
+  1. Utilisez le menu de configuration pour modifier la partition du clavier.
+  2. Mettez la centrale en **Mode apprentissage**.
+  3. Maintenez les touches **＊** et **#** appuyées pendant 2 secondes pour transmettre le code d'apprentissage à la centrale.
+
+
+
+### _<mark style="background-color:yellow;">**Procédure d'ajout/de suppression de badges**</mark>_
+
+Le clavier est capable de transmettre les informations des badges à la centrale et vous pouvez attribuer un code utilisateur et un nom à chaque badge depuis la page web de la central. Les badges peuvent ensuite être utilisés pour contrôler le mode de fonctionnement du système d’alarme via le clavier. Le nombre de badges et de codes utilisateur est géré depuis la page web de la centrale.
+
+1.  _**Ajouter un badge:**_\
+    Lors de l'ajout d'un nouveau badge, le clavier doit être en mode normal.\
+    Étape 1. Accédez au menu PIN code de la page web de la centrale. Choisir la partition dans laquelle l'utilisateur doit être créé, saisissez un code utilisateur à 4 ou 6 chiffres et un nom d'utilisateur qui seront associés au badge.\
+
+
+    ![](<.gitbook/assets/17 (8).png>)
+
+    Étape 2.  Une fois le clavier appris dans la centrale, appuyez sur la touche <img src=".gitbook/assets/18 (5).jpeg" alt="" data-size="line"> du clavier. Appliquez le nouveau badge dans la zone de détection du clavier. Le rétroéclairage blanc s'activera accompagné de 4 bips pour indiquer que ce badge n'a jamais été enregistré au système.\
+    Étape 3. Cliquez sur le bouton Load du menu PIN code de la page web comme indiqué ci-dessous. L'identifiant du badge s'affichera. Cliquez sur Submit pour sauvegarder la configuration.\
+
+
+    ![](<.gitbook/assets/19 (11).png>)
+
+    Étape 4. Le badge est ajouté. Vous pouvez utiliser le badge pour armer en mode total/partiel ou désarmer le système. Lorsque le clavier démarre en insérant les piles, la LED orange clignote et le rétroéclairage blanc s'allume. Lorsque la LED est éteinte, attendez 10 secondes pour que le lecteur RFID soit fonctionnel.
+2. _**Effacer un badge :**_
 
 Étape 1. Accédez à la page Code PIN sur la page Web du Panneau de configuration.
 
