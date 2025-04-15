@@ -2,13 +2,9 @@
 
 **IR-16**
 
+## **Détecteur PIR**
 
-
-**Détecteur PIR**
-
-
-
-**Introduction**
+### **Introduction**
 
 Notre algorithme de processeur de signal adaptatif numérisé permet à ce détecteur PIR de capter les mouvements dans la zone de couverture et de signaler une alarme à la centrale si un intrus croise sa zone de détection.\
 Le détecteur PIR est composé de deux éléments, le couvercle et la base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un angle avec un support triangulaire.\
@@ -25,7 +21,7 @@ IRP-16SL – Détecteur PIR, immunité animaux avec batterie au lithium 3 V
 \
 
 
-* _**Identification**_
+### _**Identification**_
 
 <figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -93,7 +89,8 @@ IRP-16SL – Détecteur PIR, immunité animaux avec batterie au lithium 3 V
 
 
 
-_**Démarrage**_\
+### _**Démarrage**_
+
 _**-**_ Retirez l'isolant de la batterie pour activer la batterie.\
 \- Le voyant LED clignote pendant 30 secondes (le détecteur PIR démarre). Pendant la période de démarrage, le détecteur PIR ne sera pas actif. Une fois la période de démarrage terminée, le voyant LED s'éteindra et le PIR sera prêt à fonctionner.\
 \- Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale pour plus de détails.\
@@ -104,7 +101,8 @@ _**-**_ Retirez l'isolant de la batterie pour activer la batterie.\
 
 
 
-_**Montage**_\
+### _**Montage**_
+
 _**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coin avec les vis de fixation et les chevilles fournies.\
 \- La base dispose de découpes où le plastique est plus fin pour l'installation. Deux découpes sont destinées à une pose en applique et quatre sont destinées à une pose en angle, comme indiqué sur l'image.\
 \- Pour le montage en angle, un support triangulaire est fourni pour ajouter une autoprotection arrière. Le support comprend également deux emplacements de fixation.\
@@ -159,7 +157,7 @@ _**-**_ Décidez de l'emplacement du détecteur PIR et s'il doit être monté en
 
 
 
-_**Recommandations d'installation**_
+### _**Recommandations d'installation**_
 
 **Détecteur PIR standard**
 
@@ -193,11 +191,12 @@ NOTE\
 
 
 
-* **Limites**\
-  **-** Ne positionnez pas un détecteur PIR directement vers une porte protégée par un détecteur d'ouverture, cela pourrait provoquer la transmission des signaux radio du contact de porte et du PIR au même instant lors de l'entrée, s'annulant mutuellement.\
-  \- N'installez pas le PIR complètement exposé à la lumière directe du soleil.\
-  \- Évitez d'installer le PIR dans des zones où les appareils peuvent provoquer un changement rapide de température dans la zone de détection, c'est-à-dire un climatiseur, un chauffage, etc.\
-  \- Évitez les gros obstacles dans la zone de détection.\
-  \- Ne pas pointer directement vers des sources de chaleur, par ex. feux ou chaudières, et pas au-dessus des radiateurs.\
-  \- Évitez de déplacer des objets dans la zone de détection, par exemple un rideau, une tenture murale, etc
+### **Limites**
+
+**-** Ne positionnez pas un détecteur PIR directement vers une porte protégée par un détecteur d'ouverture, cela pourrait provoquer la transmission des signaux radio du contact de porte et du PIR au même instant lors de l'entrée, s'annulant mutuellement.\
+\- N'installez pas le PIR complètement exposé à la lumière directe du soleil.\
+\- Évitez d'installer le PIR dans des zones où les appareils peuvent provoquer un changement rapide de température dans la zone de détection, c'est-à-dire un climatiseur, un chauffage, etc.\
+\- Évitez les gros obstacles dans la zone de détection.\
+\- Ne pas pointer directement vers des sources de chaleur, par ex. feux ou chaudières, et pas au-dessus des radiateurs.\
+\- Évitez de déplacer des objets dans la zone de détection, par exemple un rideau, une tenture murale, etc
 

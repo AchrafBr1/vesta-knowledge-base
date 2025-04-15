@@ -2,13 +2,9 @@
 
 **KP-39**
 
+## **Clavier sans fils**
 
-
-**Clavier sans fils**
-
-
-
-_**Identification**_
+### _**Identification**_
 
 <figure><img src=".gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -39,7 +35,7 @@ NOTE:\
 
 
 
-_**Voyants LED**_
+### _**Voyants LED**_
 
 * **LED Alimentation (verte) :**
   * Allumée pendant 5 secondes: saisie correcte.
@@ -57,7 +53,7 @@ _**Voyants LED**_
 
 
 
-_**Fonctionnement  Général**_
+### _**Fonctionnement  Général**_
 
 * Entrez en mode test - Saisir le code du clavier, puis appuyez sur la touche **＊**.
 * Alarme Panique - Appuyez sur les touches **1** et **3** simultanément (si la fonction est activée)
@@ -108,7 +104,7 @@ _**Supervision**_
 
 
 
-_**Démarrage**_
+### _**Démarrage**_
 
 Étape 1. Mettez la centrale en mode apprentissage.\
 Étape 2. Ajout d'un clavier à la centrale
@@ -146,7 +142,7 @@ Le clavier quittera automatiquement le mode test après 5 minutes d'inactivité 
 
 
 
-_**Contrôle du système**_
+### _**Contrôle du système**_
 
 Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier.\
 Il existe deux manières d'armer le système.
@@ -189,7 +185,7 @@ _**Temporisation d'entrée/de sortie**_
 
 
 
-_**Conditions de défaut**_
+### _**Conditions de défaut**_
 
 Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**,
 
@@ -202,7 +198,7 @@ Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**,
 
 
 
-_**Retour aux paramètres d'usine**_
+### _**Retour aux paramètres d'usine**_
 
 La réinitialisation du clavier aux paramètres d'usine restaurera le code du clavier à 0000 et effacera les information relative à la centrale.\
 &#xNAN;_**Réinitialiser aux paramètres d'usine :**_\
@@ -223,7 +219,7 @@ La réinitialisation du clavier aux paramètres d'usine restaurera le code du cl
 
 
 
-_**Montage du clavier**_
+### _**Montage du clavier**_
 
 Pour monter le clavier :
 

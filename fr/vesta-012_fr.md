@@ -4,11 +4,11 @@
 
 
 
-**Clavier sans fils avec lecteur RFID**
+## **Clavier sans fils avec lecteur RFID**
 
 
 
-**GUIDE RAPIDE**
+### **GUIDE RAPIDE**
 
 <figure><img src=".gitbook/assets/VESTA-012N[1].jpg" alt="" width="225"><figcaption><p>VESTA-012 - KPT-39N-F1</p></figcaption></figure>
 
@@ -28,7 +28,7 @@ EN50131 Niveau 2, Classe II
 
 
 
-_**Identification**_
+### _**Identification**_
 
 ![](<.gitbook/assets/0 (6) (1).png>)
 
@@ -63,7 +63,7 @@ _NOTE:_\
 
 
 
-_**Voyant LED**_
+### _**Voyant LED**_
 
 * **LED Alimentation (verte) :**
   * Allumée pendant 5 secondes: saisie correcte.
@@ -81,7 +81,7 @@ _**Voyant LED**_
 
 
 
-_**Fonctionnement général**_
+### _**Fonctionnement général**_
 
 * Entrez en mode test - Saisir le code du clavier, puis appuyez sur la touche **＊**.
 * Alarme Panique - Appuyez sur les touches **1** et **3** simultanément (si la fonction est activée)
@@ -123,7 +123,7 @@ _**Autoprotection**_
 
 
 
-_**Démarrage**_
+### _**Démarrage**_
 
 Étape 1. Mettez la centrale en mode apprentissage. Étape 2. Ajout d'un clavier à la centrale
 
@@ -145,7 +145,7 @@ _**Démarrage**_
      &#xNAN;_(Prière de se référer à "**Armement avec code utilisateur"** pour plus de détails)._\
      \
      _NOTE:_\
-     _- -_ Si le clavier n'a pas émis de bip long, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **＊** puis **7** à nouveau pour renvoyer le code d'apprentissage.\
+     _-_ Si le clavier n'a pas émis de bip long, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **＊** puis **7** à nouveau pour renvoyer le code d'apprentissage.\
      \- Si la centrale reçoit le code d'apprentissage, elle affichera les informations en conséquence. Reportez-vous au manuel d'utilisation de votre centrale pour terminer le processus d'apprentissage.\
      \- Une fois que la centrale a reçu le signal du clavier, elle enverra un accusé de réception au clavier. Le clavier émettra alors 3 bips pour confirmer que l'accusé de réception a été reçu. Si le clavier n'émet pas 3 bips, veuillez redémarrer la procédure d'apprentissage.
 
@@ -211,7 +211,7 @@ Les petites étiquettes NFC peuvent être placées au dos des smartphones, des c
 
 
 
-_**Contrôle du système**_
+### _**Contrôle du système**_
 
 Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier. Il existe deux manières d'armer le système.
 
@@ -250,7 +250,7 @@ _**Temporisation d'entrée/de sortie**_
 
 
 
-_**Conditions de défaut**_
+### _**Conditions de défaut**_
 
 Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**,
 
@@ -263,7 +263,7 @@ Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**,
 
 
 
-_**Retour aux paramètres d'usine**_
+### _**Retour aux paramètres d'usine**_
 
 La réinitialisation du clavier aux paramètres d'usine restaurera le code du clavier à 0000 et effacera les information relative à la centrale.\
 &#xNAN;_**Réinitialiser aux paramètres d'usine :**_\
@@ -282,7 +282,7 @@ Après la réinitialisation, le code revient à la valeur par défaut, "**0000"*
 
 
 
-_**Montage du clavier**_
+### _**Montage du clavier**_
 
 Pour monter le clavier :
 

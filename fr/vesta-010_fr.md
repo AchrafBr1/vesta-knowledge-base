@@ -2,9 +2,7 @@
 
 **KP-15-(NT)/ KP-15-(NT)-F1**
 
-
-
-**Clavier sans fils**
+### **Clavier sans fils**
 
 
 
@@ -15,7 +13,7 @@ Ce clavier est décliné en deux modèles :
 
 
 
-_**Identification des pièces**_
+### _**Identification**_
 
 <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +58,7 @@ _**Identification des pièces**_
 
 
 
-_**Indicateur LED :**_
+### _**Indicateur LED :**_
 
 * **LED Verte-Activité:**
   * LED Verte-Activité allumée : le système est en **Mode de fonctionnement normal**.
@@ -114,7 +112,7 @@ _**Fonction d'économie d'énergie :**_
 
 
 
-_**Mode Test:**_
+### _**Mode Test:**_
 
 * Le clavier peut être mis en mode Test en saisissant le code PIN (par défaut :**0000**) suivi de **\***. La LED verte-Activité clignotera et le clavier émettra un long bip.
 * Pour sortir du mode Test, appuyez sur <img src=".gitbook/assets/image (5) (1).png" alt="" data-size="line"> **deux fois**, le clavier émettra un long bip et la LED verte-Activité s'allumera, puis le clavier reviendra en mode de fonctionnement normal.
@@ -148,7 +146,7 @@ NOTE\
 
 
 
-_**Procédures d'installation :**_
+### _**Procédures d'installation :**_
 
 Étape 1. Mettez l a centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
 Étape 2. Ajout du clavier dans la centrale :
@@ -179,7 +177,7 @@ _**Procédures d'installation :**_
 
 
 
-_**Montage du clavier :**_
+### _**Montage du clavier :**_
 
 Pour monter le clavier
 
@@ -193,7 +191,7 @@ Pour monter le clavier
 
 
 
-_**Contrôle du mode système**_
+### _**Contrôle du mode système**_
 
 Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier.\
 Il existe deux manières d'armer le système.
@@ -237,7 +235,7 @@ _**Annexe:**_
 
 Si vous avez oublié le code ou si un problème s'est produit avec le clavier, vous pouvez réinitialiser le clavier aux paramètres 'usine.
 
-_**Réinitialiser aux paramètres d'usine :**_
+### _**Réinitialiser aux paramètres d'usine :**_
 
 Étape 1 Retirez l'une des piles et relâchez l'autoprotection.\
 Étape 2 : Appuyez la touche **3** tout en réinsérant la batterie.\
