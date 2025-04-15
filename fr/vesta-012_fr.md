@@ -43,7 +43,7 @@ EN50131 Niveau 2, Classe II
    \- appuyez sur **7** et **9** pour déclencher l'alarme médicale.
 7. Envoyer le code d'apprentissage\
    \- appuyez sur **＊**&#x65;t **7** (en Mode Test)\
-   \- appuyez sur les touches # et 🞸 (en mode normal
+   \- appuyez sur les touches # et 🞸 (en mode normal)
 8. Touche **#**\
    \- appuyez pour vérifier l'état du système
 9. Touche **\***

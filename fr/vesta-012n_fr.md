@@ -17,65 +17,52 @@ Le clavier peut être installé sur une surface plane ou sur un mur à l'aide de
 
 ![](<.gitbook/assets/3 (14).jpeg>)
 
-1. Clé de bras
-2. Clé de la maison
-3. Désarmer la clé
-4. Panic Alarm (if enabled)
-   * appuyez à la fois sur 1 et 3 pour déclencher l'alarme de panique
-5. Alarme incendie (si activée)
-   * appuyez à la fois sur 4 et 6 pour déclencher l'alarme incendie
-6. Alarme médicale (si activée)
-   * appuyez à la fois sur 7 et 9 pour déclencher l'alarme médicale
-7. Envoyer le code d'apprentissage
-   * appuyez sur ＊ puis sur la touche 7 (sous le mode de programmation)
-   * appuyez à la fois sur les touches # et  (en mode de fonctionnement normal)
+1. Armement Total
+2. Armement Partiel
+3. Désarmement
+4. Alarme Panique (si activée)\
+   \- appuyez sur **1** et **3** pour déclencher l'alarme panique
+5. Alarme Incendie (si activée)\
+   \- appuyez sur **4** et **6** pour déclencher l'alarme incendie
+6. Alarme Médicale (si activée)\
+   \- appuyez sur **7** et **9** pour déclencher l'alarme médicale.
+7. Envoyer le code d'apprentissage\
+   \- appuyez sur **＊**&#x65;t **7** (en Mode Test)\
+   \- appuyez sur les touches # et 🞸 (en mode normal)
+8. Touche **#**\
+   \- appuyez pour vérifier l'état du système
+9. Touche **\***
+10. LED Défaut (orange)
+11. LED Alimentation (verte)
+12. Zone de détection RFID\
+    &#x20;\- présentez votre badge dans cette zone pour contrôler le système
+13. Autoprotection
+14. Fixations
+15. Badge
 
-![](<.gitbook/assets/4 (31).png>)
+{% hint style="info" %}
+NOTE:\
+\- Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.\
+\- 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
+{% endhint %}
 
-1. \#Clé
-   * appuyez pour vérifier le mode actuel du système
-2.  Clé
-3. LED de défaut (LED orange)
-4. LED d'alimentation (LED verte)
-5. Zone de détection pour l'étiquette NFC
-   * placez l'étiquette NFC à proximité de la zone de détection pour accéder au système d'alarme
-6. Interrupteur anti-sabotage
-7. Trous de montage
-8. Étiquette NFC
 
-_\\_
 
-*
-  *
-    * Un bip court retentira en même temps que la touche enfoncée pour indiquer que le bouton enfoncé est valide.
-    * 4 bips continus retentiront pour indiquer une erreur et l'utilisateur devra répéter le processus.
-* _**Indicateur LED**_
-  * **LED d'alimentation (verte) :**
+### _<mark style="background-color:yellow;">**Voyant LED**</mark>_
 
-![](<.gitbook/assets/5 (24).png>)
+* **LED Alimentation (verte) :**
+  * Allumée pendant 5 secondes: saisie correcte.
+  * Clignote pendant 5 secondes : batterie faible en mode normal.
+  * Si le voyant d'alimentation s'éteint avant qu'une saisie ne soit terminée, la saisie est ignorée.
+* **LED Défaut (orange) :**
+  * Désarmement et LED orange allumée avec 5 bips : mémoire d'alarme (dépend de la centrale).
+  * Clignotante:
+    * Clignotante uniquement : Aucune réponse envoyée par la centrale dans les 10 secondes.
+    * Clignote avec 2 bips : demande d'armement Partiel depuis Armement Total.
+    * Clignote avec 3 bips : demande d'armement Total/Partiel avec défaut.
+    * Clignote accompagné de 4 bips : code incorrect.
 
-1
 
-*
-  *
-    *
-      *
-        * Allumé pendant 5 secondes : après la réussite d’une séquence de touches valide.
-        * Flash pendant 5 secondes : batterie faible en mode de fonctionnement normal.
-        * Si le voyant d'alimentation s'éteint avant qu'une séquence de touches valide ne soit terminée, les touches saisies précédemment sont ignorées.
-  * **LED de défaut (orange) :**
-    *
-      *
-        * Touche de désarmement et LED orange allumées avec 5 bips : mémoire d'alarme (dépend du panneau de commande).
-        * Éclair:
-
-Flash uniquement : Aucune réponse envoyée par la centrale dans les 10 secondes.
-
-Clignote accompagné de 2 bips : demande de mode Accueil pendant le mode Armement.
-
-Clignote avec 3 bips : demande de mode Accueil ou Armement en cas de condition de défaut.
-
-Clignote accompagné de 4 bips : le code PIN était incorrect.
 
 * _**Opération générale**_
   *
