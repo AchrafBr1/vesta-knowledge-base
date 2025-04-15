@@ -1,8 +1,4 @@
----
-icon: circle-chevron-right
----
-
-# VESTA 012N
+# VESTA-012N
 
 **39N-BLE**
 
@@ -216,7 +212,7 @@ L'application **SmartHomeSec** est utilisée pour associer le téléphone au cla
 Veuillez accéder à l'APP Store ou à Google Play et rechercher **SmartHomeSec** pour télécharger l'application.
 
 * <mark style="color:blue;">**Configuration Bluetooth**</mark>\ <mark style="color:blue;">**Association du clavier avec un smartphone**</mark>\
-  **Étape 1.** La clavier doit avoir son **autoprotection déclenchée**, placez le clavier en **Mode BLE** en appuyant simultanément les touches ＊ et  **0** appuyées pendant **2 secondes**. Lorsque vous entrez en mode BLE, le clavier émet un bip long et les LED verte et orange s'allument pendant l'utilisation du mode BLE.\
+  **Étape 1.** Le clavier doit avoir son **autoprotection déclenchée**, placez le clavier en **Mode BLE** en appuyant simultanément les touches ＊ et  **0** appuyées pendant **2 secondes**. Lorsque vous entrez en mode BLE, le clavier émet un bip long et les LED verte et orange s'allument pendant l'utilisation du mode BLE.\
   **Étape 2.** Sur votre smartphone, ouvrez l'application **SmartHomeSec**, saisissez l'ID utilisateur et le mot de passe associé, puis appuyez sur Connecter pour vous connecter à votre compte.\
   &#xNAN;_&#x4E;ote:_ Assurez-vous que le Bluetooth soit activé dans les paramètres de votre smartphone.\
   <img src=".gitbook/assets/image (13).png" alt="" data-size="original">\
@@ -239,81 +235,66 @@ Veuillez accéder à l'APP Store ou à Google Play et rechercher **SmartHomeSec*
   \
   **Étape 7.** Quittez le mode BLE en appuyant une fois sur la touche **#**. Sinon, le clavier quittera automatiquement le mode BLE après 5 minutes et reviendra en mode veille.\
   \
-  <mark style="color:blue;">**Dissocier un clavier avec un ou plusieurs smartphones**</mark>
+  <mark style="color:blue;">**Dissocier un clavier avec un ou plusieurs smartphones**</mark>\
+  **Étape 1.** En **mode BLE**, vous pouvez dissocier un ou plusieurs smartphones du clavier.\
+  Le clavier doit avoir son **autoprotection déclenchée**,  placez le clavier en **Mode BLE** en appuyant simultanément sur les touches **＊**&#x65;t **0** pendant **2 secondes**. Le clavier émet un bip long et les LED verte et orange s'allument.\
+  \- Saisir **0 ou, 1 ou, 2 … 24** puis la touche **#** pour dissocier le 1er, le 2ème, le 3ème,… ou le 25ème smartphone.\
+  \- Saisir **25** puis la touche **#** pour dissocier tous les smartphones.\
+  **Étape 2.** En plus de dissocier le clavier de votre smartphone, vous devrez également supprimer la fonction Bluetooth du clavier dans votre application.\
+  ![](<.gitbook/assets/image (24).png>)\
+  **Étape 3.** Ensuite, supprimez le clavier couplé depuis votre smartphone. Naviguez dans le smartphone **Paramètres>Bluetooth>Mes appareils**. Appuyez sur le clavier associé et sélectionnez **Oubliez cet appareil** pour le supprimer de la liste.\
+  \
+  <mark style="color:blue;">**Désarmer le système via un smartphone**</mark>\
+  Pour désarmer le système via un smartphone associé :\
+  \- La fonction Bluetooth du smartphone doit être activée et l'application SmartHomeSec doit rester active en arrière-plan afin que l'appareil puisse communiquer avec l'application.\
+  \- Un code utilisateur de la centrale à 4 ou 6 chiffres doit avoir été enregistré dans l'application SmartHomeSec.\
+  Lorsque le système est armé, approchez-vous du clavier avec un smartphone associé. Une fois que le clavier détecte le smartphone dans la portée BLE, le système se désarme automatiquement.\
+  \
+  &#xNAN;_&#x4E;ote:_\
+  _-_ La portée BLE peut différer selon les différents smartphones.\
+  \- Une fois le système armé, un délai de 30 secondes est configuré pour que le smartphone soit hors de portée du clavier BLE. Le clavier commencera à détecter seulement après 30 secondes suite à l'armement. Si le smartphone associé se trouve dans la portée BLE lorsque le système s'arme, le système ne se désarmera pas tant que le délai de 30 secondes ne sera pas écoulé.
 
-**Étape 1.Sous le clavierMode de couplage BLE**, vous pouvez dissocier le clavier d'un ou plusieurs smartphones.
 
-Dans le clavier**état d'ouverture inviolable**, placez le clavier dans le**Mode de couplage BLE**en appuyant et en maintenant les deux\*\*＊**clé et**0**clé ensemble pour**2 secondes\*\*. Le clavier émet un long bip et les LED verte et orange s'allument.
 
-* Presse**0, ou 1, ou 2, … 24**clé et puis\*\*#\*\*clé — pour dissocier le 1er, le 2ème, le 3ème,… ou le 25ème smartphone.
-* Presse**25**clé et puis\*\*#\*\*clé - pour dissocier tous les smartphones.
+### _<mark style="background-color:yellow;">**Temporisation d'entrée/de sortie**</mark>_
 
-\*\*Étape 2.\*\*En plus de dissocier le clavier de votre smartphone, vous devrez également supprimer la fonction Bluetooth du clavier dans votre application Smartphone.
+* Une fois le son des temporisations d'entrée/de sortie activé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par un bip long), le clavier émettra des bips lorsque l'une des temporisations sera activée.
+* Une fois le son des temporisations d'entrée/de sortie désactivé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par deux bips courts), restera silencieux pendant les temporisations d'entrée/de sortie.
 
-7
 
-**Étape 3.Ensuite, supprimez le clavier couplé de votre smartphone. Naviguez dans le smartphoneParamètres**>**Bluetooth**>**Mes appareils.Appuyez sur le clavier couplé et sélectionnezOubliez cet appareil**pour le supprimer de la liste des appareils.
 
-* **Désarmer le système via un smartphone**
+### _<mark style="background-color:yellow;">**Conditions de défaut**</mark>_
 
-Pour désarmer le système via un smartphone couplé :
+Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**
 
-*
-  * La fonction Bluetooth du smartphone doit être activée et l'application Vesta Home 5 doit rester active en arrière-plan afin que l'appareil puisse communiquer avec l'application.
-  * Un code utilisateur du panneau de commande à 4 ou 6 chiffres doit avoir été enregistré dans l'application Vesta Home 5.
+1. Lorsqu'un défaut existe dans la centrale, si le clavier est utilisé pour l'armement, la LED de défaut clignotera avec 3 bips pour indiquer une condition de défaut.
+2. Lorsque le clavier désarme la centrale, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F62JLaNrZYGDMWkpk9sfU%252Fimage.png%3Falt%3Dmedia%26token%3D9bdda193-6b70-4a65-bda5-d3de5b93bf14&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=ee2b4905&#x26;sv=2" alt="" data-size="line"> s'allumera avec deux bips indiquant un fonctionnement normal.
+3. Si vous saisissez un code incorrect 4 fois en 10 minutes en mode test, le clavier désactivera les touches pendant 1 minute et toutes les LED clignoteront 3 fois avec 6 bips. Après 1 minute, il émettra un bip long indiquant le retour en mode normal.
+4. Si vous saisissez un code incorrect 4 fois en 10 minutes lors d'un changement de mode, le clavier désactivera les touches pendant 5 minutes. Après 5 minutes, le clavier émettra un bip long indiquant le retour en mode normal.
 
-Lorsque le système est armé, approchez-vous du clavier avec le smartphone couplé. Une fois que le clavier détecte le smartphone couplé dans la portée BLE, le système se désarme automatiquement.
+### _<mark style="background-color:yellow;">**Réinitialisation**</mark>_ <a href="#retour-aux-parametres-dusine" id="retour-aux-parametres-dusine"></a>
 
-_**Note:**_
+La réinitialisation du clavier aux paramètres d'usine restaurera le code du clavier à 0000 et effacera les information relative à la centrale.\
+&#xNAN;_**Réinitialiser aux paramètres d'usine :**_\
+Étape 1: Retirez les piles et relâchez l'autoprotection.\
+Étape 2:\
+\- Si la fonction "**Armement Total/Partiel avec code**" est sélectionnée, maintenir la touche **3** appuyée en insérant la batterie.\
+\- Si la fonction "**Armement Total/Partiel sans code**" est sélectionnée, maintenir la touche **4** appuyée en insérant la batterie.\
+Étape 3:\
+\- Maintenir la touche **3** jusqu'à ce que le clavier émette 3 bips pour indiquer une réinitialisation réussie.\
+\- Maintenir la touche **4** jusqu'à ce que le clavier émette 4 bips pour indiquer une réinitialisation réussie.\
+Étape 4: Relâchez la touche **3** ou **4**, le processus de réinitialisation est terminé. Après la réinitialisation, le code revient à la valeur par défaut, "**0000"**. Le clavier aura besoin d'un nouveau processus d'apprentissage pour refonctionner.
 
-*
-  *
-    * La portée BLE effective peut différer selon les différents appareils mobiles.
-    * Une fois le système armé, un tampon de 30 secondes est configuré pour que le mobile couplé soit hors de portée du clavier BLE. Le clavier commencera à détecter seulement après que le système soit armé pendant 30 secondes. Si le mobile couplé se trouve dans la portée BLE lorsque le système s'arme, le système ne se désarmera pas tant que le tampon de 30 secondes ne sera pas écoulé.
-* _**Son d'entrée/sortie**_
-  * Une fois le son d'entrée/sortie activé en appuyant sur**1**touche +**2**en même temps pendant 2 secondes (indiqué par un bip long), le clavier émettra des bips lorsque la minuterie d'entrée/sortie est activée.
-  * Une fois le son d'entrée/sortie désactivé en appuyant sur**1**touche +**2**en même temps pendant 2 secondes (indiqué par deux bips courts), le clavier restera silencieux lorsque la minuterie d'entrée/sortie sera activée.
-* _**Conditions de panne**_
+* Chaque fois que le clavier est retiré d'une centrale, il doit être également réinitialisé pour effacer la précédente centrale de sa mémoire
 
-_Lorsque le clavier distant est sous**MODE DE FONCTIONNEMENT NORMAL,**_
 
-*
-  1. Lorsqu'une condition de défaut existe dans le panneau de commande, si le clavier est utilisé pour armer le panneau, la LED de défaut clignotera avec 3 bips pour indiquer une condition de défaut.
-  2. Lorsque le clavier désarme le panneau, la LED s'allumera avec deux bips indiquant un fonctionnement normal.
-  3. Si vous saisissez un code PIN KP incorrect 4 fois en 10 minutes en mode programmation, KP désactivera la fonction clé pendant 1 minute et toutes les LED clignoteront 3 fois avec 6 bips. Après 1 minute, il émettra un long bip pour indiquer que la fonction de la touche est revenue à la normale.
-  4. Si vous saisissez un code PIN utilisateur incorrect 4 fois en 10 minutes lors du changement de mode système, KP désactivera la fonction clé pendant 5 minutes. Après 5 minutes, le clavier émettra un long bip pour indiquer que la fonction des touches est revenue à la normale.
-* _**Retour aux paramètres d'usine**_
 
-La réinitialisation du clavier aux paramètres d'usine par défaut restaurera le code PIN du clavier à 0000 et effacera toute la mémoire d'apprentissage du panneau.
+### _<mark style="background-color:yellow;">**Montage du clavier**</mark>_ <a href="#montage-du-clavier" id="montage-du-clavier"></a>
 
-_**Réinitialiser aux paramètres d'usine :**_
-
-Étape 1 Retirez les piles et relâchez le dispositif anti-sabotage.
-
-Étape 2 Si «**Armement/Accueil avec code PIN du panneau de commande**" La méthode est sélectionnée, appuyez et maintenez**3**clé tout en insérant la batterie.
-
-.Si "**Armement/Accueil sans code PIN du panneau de commande**" La méthode est sélectionnée, appuyez et maintenez**4**clé tout en insérant la batterie.
-
-Étape 3 Continuez à appuyer**3**jusqu'à ce que KP émette 3 bips pour indiquer une réinitialisation réussie.
-
-.Continuez à appuyer sur la touche 4 jusqu'à ce que KP émette 4 bips pour indiquer une réinitialisation réussie.
-
-Étape 4 : Libération**3**ou 4 touches, le processus de réinitialisation est terminé. Après la réinitialisation, le code PIN revient aux valeurs par défaut d'usine,**0000**.
-
-Le clavier distant aura besoin d'un nouveau processus d'apprentissage pour commencer à fonctionner.
-
-*
-  * Chaque fois que le clavier est retiré du panneau de commande, il doit également être réinitialisé aux paramètres d'usine pour effacer la mémoire de son panneau de commande.
-* _**Montage du clavier déporté**_
-
-Pour monter le clavier déporté :
+Pour monter le clavier :
 
 1. Retirez le capot avant.
 2. En utilisant les 2 trous de montage de la coque arrière comme gabarit, marquez les positions à l'endroit le plus approprié.
-   1. Insérez les chevilles murales si vous fixez sur une surface en plâtre ou en brique.
-
-IV. Vissez le clavier déporté sur les chevilles.
-
-V. Remplacez le capot avant.
-
-8
+3. Insérez les chevilles murales si vous fixez sur une surface en plâtre ou en brique.
+4. Vissez le clavier dans les chevilles.
+5. Replacez le capot avant.
