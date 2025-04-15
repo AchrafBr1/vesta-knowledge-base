@@ -4,9 +4,9 @@ icon: circle-chevron-right
 
 # VESTA 012N
 
-**KPT-39N-BLE**
+**39N-BLE**
 
-## <mark style="color:blue;">**Clavier avec lecteur RFID et Bluetooth**</mark>
+## <mark style="color:green;">**Clavier avec lecteur RFID et Bluetooth**</mark>
 
 ### _<mark style="background-color:yellow;">**Introduction**</mark>_
 
@@ -136,141 +136,110 @@ Le clavier est capable de transmettre les informations des badges à la centrale
 
 1.  _**Ajouter un badge:**_\
     Lors de l'ajout d'un nouveau badge, le clavier doit être en mode normal.\
-    Étape 1. Accédez au menu PIN code de la page web de la centrale. Choisir la partition dans laquelle l'utilisateur doit être créé, saisissez un code utilisateur à 4 ou 6 chiffres et un nom d'utilisateur qui seront associés au badge.\
-
+    Étape 1. Accédez au menu PIN code de la page web de la centrale. Choisir la partition dans laquelle l'utilisateur doit être créé, saisissez un code utilisateur à 4 ou 6 chiffres et un nom d'utilisateur qui seront associés au badge.
 
     ![](<.gitbook/assets/17 (8).png>)
 
     Étape 2.  Une fois le clavier appris dans la centrale, appuyez sur la touche <img src=".gitbook/assets/18 (5).jpeg" alt="" data-size="line"> du clavier. Appliquez le nouveau badge dans la zone de détection du clavier. Le rétroéclairage blanc s'activera accompagné de 4 bips pour indiquer que ce badge n'a jamais été enregistré au système.\
-    Étape 3. Cliquez sur le bouton Load du menu PIN code de la page web comme indiqué ci-dessous. L'identifiant du badge s'affichera. Cliquez sur Submit pour sauvegarder la configuration.\
-
+    Étape 3. Cliquez sur le bouton Load du menu PIN code de la page web comme indiqué ci-dessous. L'identifiant du badge s'affichera. Cliquez sur Submit pour sauvegarder la configuration.
 
     ![](<.gitbook/assets/19 (11).png>)
 
     Étape 4. Le badge est ajouté. Vous pouvez utiliser le badge pour armer en mode total/partiel ou désarmer le système. Lorsque le clavier démarre en insérant les piles, la LED orange clignote et le rétroéclairage blanc s'allume. Lorsque la LED est éteinte, attendez 10 secondes pour que le lecteur RFID soit fonctionnel.
-2. _**Effacer un badge :**_
+2.  _**Supprimer un badge :**_\
+    Étape 1. Accédez au menu PIN code de la page web de la centrale.\
+    Étape 2. Supprimez manuellement le numéro du badge et cliquez sur Submit.
 
-Étape 1. Accédez à la page Code PIN sur la page Web du Panneau de configuration.
+    ![](<.gitbook/assets/20 (9).png>)
 
-Étape 2. Supprimez manuellement le numéro de balise et cliquez sur Soumettre.
+    Étape 3. Le badge est effacé.
 
-![](<.gitbook/assets/20 (9).png>)
 
-Étape 3. La balise est effacée.
 
-* _**Mode de programmation**_
+### _<mark style="background-color:yellow;">**Mode  programmation**</mark>_
 
 **Entrez en mode programmation :**
 
-* Mettez le clavier à distance en mode programmation en entrant le code PIN KP (par défaut :**0000**), puis appuyez\*\*＊\*\*clé. Les trois
+* Mettez le clavier en mode programmation en saisissant le code (par défaut :**0000**), puis appuyez la sur la touch&#x65;**＊**. Les trois touches <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-fe25c9957403e3c10f8e9d28f99d7d324e84ba0f%252F10%2520%2813%29.png%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=bf585e9e&#x26;sv=2" alt="" data-size="line"><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-cf49690b317e6f3fb07c55fd84d849931f4c4cae%252F11%2520%289%29.jpeg%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=b5350c2d&#x26;sv=2" alt="" data-size="line"> s'allumeront avec un bip long.
 
-Les LED s'allumeront avec un long bip.
+**Fonctions du mode programmation :**
 
-3
+* Appuyez sur les touches **\*** et **1** - Activez le mode BLE.
+  * Sauf en appuyant sur les touches **＊** et **1** en mode de programmation pour accéder au mode couplage BLE, l'accès rapide au mode couplage BLE consiste à appuyer sur les touches **＊** et **0** simultanément pendant 2 secondes avec l'autoprotection du clavier déclenchée.
+* Appuyez sur les touches **＊**&#x65;t **2** - Activez la fonction Alarme Panique (double touches)
+* Appuyez sur les touches **＊**&#x65;t **3** - Activez la fonction Alarme Incendie (double touches)
+* Appuyez sur les touches **＊**&#x65;t **4** - Activez la fonction Alarme Médicale (double touches)
+* Appuyez sur les touches **＊**&#x65;t **5** - Désactivez toutes les fonctions double touches (par défaut)
+* Appuyez sur les touches **＊** et **6** - Modifier le code du clavier - Saisir l'ancien code du clavier et appuyer sur la touche **\***. - Saisir le nouveau code à 4 chiffres et appuyer sur la touche **#**.
+* Appuyez sur les touches **＊** et **8** - Activez la fonction armement sans code. _(Prière de se référer à "**Armement sans code utilisateur"** pour plus de détails)._
+* Appuyez sur les touches **＊** et **9** - Activez la fonction armement avec code (par défaut). _(Prière de se référer à "**Armement avec code utilisateur"** pour plus de détails)._
 
-**Fonctions du mode de programmation :**
+**Sortir du mode programmation :**
 
-* Presse\*\*＊**clé et puis**1\*\*Touche : activez le mode de couplage BLE.
-  * Sauf en appuyant sur la touche ＊ puis sur la touche 1 en mode de programmation pour accéder au mode de couplage BLE, l'accès rapide au mode de couplage BLE consiste à appuyer sur la touche ＊ et la touche 0 en même temps pendant 2 secondes sur le clavier en état d'autoprotection.
-* Presse\*\*＊**clé et puis**2\*\*Touche — Activer la fonction d'alarme de panique à double touche (1+3)
-* Presse\*\*＊**clé et puis**3\*\*Touche — Activer la fonction d'alarme incendie à double touche (4+6)
-* Presse\*\*＊**clé et puis**4\*\*Touche — Activer la fonction d'alarme médicale à double touche (7+9)
-* Presse\*\*＊**clé et puis**5\*\*clé – Désactiver toutes les fonctions Dual Key (par défaut)
-* Presse\*\*＊**clé et puis**6\*\*touche — Modifier le code PIN du clavier
-* Presse\*\*＊**clé alors**7\*\*clé - Transmettre le signal d'apprentissage. Le clavier à distance émettra un long bip.
-* Presse\*\*＊**clé et puis**8\*\*Touche — Activer la fonction Armement/Accueil sans code PIN utilisateur.
+* Appuyez sur la touche <img src=".gitbook/assets/image (12).png" alt="" data-size="line"> **deux fois** pour quitter le mode programmation. Alternativement, le clavier sortira automatiquement du mode programmation après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un bip long.
 
-_(Prière de se référer à "**Armement/Accueil sans code PIN du panneau de commande**» pour plus de détails)._
 
-* Presse\*\*＊**clé et puis**9\*\*Touche — Activer Armer/Accueil avec la fonction de code PIN utilisateur du panneau de commande (par défaut).
 
-(_Prière de se référer à "**Arm/Home with Control Panel PIN Code**" pour plus de détails_).
+### _<mark style="background-color:yellow;">**Contrôle du système**</mark>_
 
-**Quitter le mode de programmation :**
+Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier. Il existe deux manières d'armer le système.
 
-*
-  * Appuyez sur la touche Désarmer**deux fois**pour quitter le mode Programmation. Alternativement, le clavier distant quittera automatiquement le mode de programmation après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un long bip.
-* _**System Mode Control**_
+1. Armement Total/Partiel en saisissant le code utilisateur.
+2. Armement Total/Partiel sans saisir le code utilisateur.
 
-Après avoir fini d'apprendre le clavier dans le panneau de commande du système d'alarme, l'utilisateur peut changer le système à l'aide du clavier.
+Le désarmement du système nécessite toujours la saisie du code utilisateur.
 
-Il existe deux manières d'armer le système.
+**Armement Total/Partiel avec code utilisateur:**\
+En mode programmation, appuyez sur les touches **＊** et **9** pour activer la fonction Armement avec code (**par défaut**).
 
-1. Armement absent/domicile Armez le système en saisissant le code PIN utilisateur du panneau de commande.
-2. Armement Absent/Départ Armez le système sans entrer le code PIN utilisateur du panneau de commande. Le désarmement du système nécessite toujours la saisie du code PIN utilisateur du panneau de commande.
+* **Armement Total:** Saisir un code utilisateur et appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FdmFGjR3gtYCSEVljlGkc%252Fimage.png%3Falt%3Dmedia%26token%3Dc4b43939-98ae-40c5-a663-b236e45e91aa&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=4f761386&#x26;sv=2" alt="" data-size="line"> ou appuyez sur <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FdmFGjR3gtYCSEVljlGkc%252Fimage.png%3Falt%3Dmedia%26token%3Dc4b43939-98ae-40c5-a663-b236e45e91aa&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=4f761386&#x26;sv=2" alt="" data-size="line"> et présenter le badge. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F1duxNYMFKZqlqu0vvi8d%252Fimage.png%3Falt%3Dmedia%26token%3Dee7d40f2-471c-4ef5-9396-5a0f84b69f02&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=5eb073fa&#x26;sv=2" alt="" data-size="line"> s'allumera accompagnée d'un bip long.
+* **Armement Partiel:** Saisir un code utilisateur et appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fb4PDPCHyfQSaX9IYAoWP%252Fimage.png%3Falt%3Dmedia%26token%3D17033c6d-9eb3-463a-8f04-b85d06bf00dd&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=f84da075&#x26;sv=2" alt="" data-size="line"> ou appuyez sur <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fb4PDPCHyfQSaX9IYAoWP%252Fimage.png%3Falt%3Dmedia%26token%3D17033c6d-9eb3-463a-8f04-b85d06bf00dd&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=f84da075&#x26;sv=2" alt="" data-size="line"> et présenter le badge. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FNmnuDxoa3GgdidX9GWHU%252Fimage.png%3Falt%3Dmedia%26token%3D803a0392-3e68-4856-9c3f-42bfcd016aca&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=39ccae56&#x26;sv=2" alt="" data-size="line"> s'allumera accompagnée de 3 bips.
+* **Désarmement**: Saisir un code utilisateur et appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Ftb0iCBwAJBf60kqn8Fga%252Fimage.png%3Falt%3Dmedia%26token%3Dd8c2133f-1cbd-4899-b214-5d40cc39b168&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=3090d548&#x26;sv=2" alt="" data-size="line"> ou appuyez sur <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Ftb0iCBwAJBf60kqn8Fga%252Fimage.png%3Falt%3Dmedia%26token%3Dd8c2133f-1cbd-4899-b214-5d40cc39b168&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=3090d548&#x26;sv=2" alt="" data-size="line"> et présenter le badge. Si le désarmement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FrJyHIZTVerswVjjDyD4L%252Fimage.png%3Falt%3Dmedia%26token%3Dc3d65df2-acb1-4b6f-98d6-38f92c655932&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=8de5945b&#x26;sv=2" alt="" data-size="line">s'allumera accompagnée de 2 bips.
 
-**Armement/Accueil avec code PIN du panneau de commande :**
+S'il y a une **Mémoire d'alarme** la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F6D7X8cEk4V8mFciKGA9V%252Fimage.png%3Falt%3Dmedia%26token%3D3002cd41-7b67-40ca-81f6-325844ee1be4&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=517d1f8e&#x26;sv=2" alt="" data-size="line"> et la LED de défaut s'allumeront avec 5 bips.
 
-En mode programmation, appuyez sur la touche ＊ puis**9**pour activer la fonction Armement/Accueil avec code PIN utilisateur.
+**Armement Total/Partiel sans code utilisateur**\
+En mode programmation, appuyez sur les touches **＊** et **8** pour activer la fonction Armement sans code.
 
-Étiquette NFC. Si le panneau ne présente aucun défaut et que l'armement est réussi, la LED s'allumera en même temps que
+* **Armement Total:** Appuyez sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FdmFGjR3gtYCSEVljlGkc%252Fimage.png%3Falt%3Dmedia%26token%3Dc4b43939-98ae-40c5-a663-b236e45e91aa&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=4f761386&#x26;sv=2" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F1duxNYMFKZqlqu0vvi8d%252Fimage.png%3Falt%3Dmedia%26token%3Dee7d40f2-471c-4ef5-9396-5a0f84b69f02&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=5eb073fa&#x26;sv=2" alt="" data-size="line"> s'allumera accompagnée d'un bip long.
+* **Armement Partiel:** Appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fb4PDPCHyfQSaX9IYAoWP%252Fimage.png%3Falt%3Dmedia%26token%3D17033c6d-9eb3-463a-8f04-b85d06bf00dd&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=f84da075&#x26;sv=2" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FNmnuDxoa3GgdidX9GWHU%252Fimage.png%3Falt%3Dmedia%26token%3D803a0392-3e68-4856-9c3f-42bfcd016aca&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=39ccae56&#x26;sv=2" alt="" data-size="line"> s'allumera accompagnée de 3 bips longs.
+* **Désarmement**: Saisir un code utilisateur et appuyer sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Ftb0iCBwAJBf60kqn8Fga%252Fimage.png%3Falt%3Dmedia%26token%3Dd8c2133f-1cbd-4899-b214-5d40cc39b168&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=3090d548&#x26;sv=2" alt="" data-size="line">. Si le désarmement est réalisé, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FrJyHIZTVerswVjjDyD4L%252Fimage.png%3Falt%3Dmedia%26token%3Dc3d65df2-acb1-4b6f-98d6-38f92c655932&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=8de5945b&#x26;sv=2" alt="" data-size="line">s'allumera accompagnée de 2 bips.
 
-un long bip.
+S'il y a une **Mémoire d'alarme** la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F6D7X8cEk4V8mFciKGA9V%252Fimage.png%3Falt%3Dmedia%26token%3D3002cd41-7b67-40ca-81f6-325844ee1be4&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=517d1f8e&#x26;sv=2" alt="" data-size="line"> et la LED de défaut s'allumeront avec 5 bips
 
-étiquette. Si le panneau ne présente aucun défaut et que l'armement est réussi, la LED s'allumera avec 3 bips.
 
-appliquez une étiquette NFC. Si le désarmement réussit, la LED s'allumera avec 2
 
-bips. S'il y a\*\*Mémoire d'alarme,\*\*la LED et la LED de défaut s'allumeront avec 5 bips.
+### _<mark style="background-color:yellow;">**Fonction Bluetooth pour désarmement avec smartphone**</mark>_
 
-**Armement/Accueil sans code PIN du panneau de commande :**
+Pour utiliser la fonction Bluetooth du clavier afin de désarmer le système via un smartphone, la centrale doit être enregistrée sur le serveur Vesta.\
+L'application **SmartHomeSec** est utilisée pour associer le téléphone au clavier en Bluetooth. Jusqu'à **25** smartphones peuvent être couplés au clavier pour désarmer le système via l'application SmartHomeSec.\
+Veuillez accéder à l'APP Store ou à Google Play et rechercher **SmartHomeSec** pour télécharger l'application.
 
-En mode programmation, appuyez sur la touche ＊ puis**8**Touche pour activer Arm/Home sans fonction de code PIN utilisateur
-
-une marque. Si le désarmement réussit, la LED s'allumera avec 2 bips. S'il y a\*\*Mémoire d'alarme,\*\*le
-
-La LED et la LED de défaut s'allumeront avec 5 bips. (Le désarmement nécessite toujours un code utilisateur du panneau de commande ou une étiquette NFC.)
-
-* _**Fonction Bluetooth pour désarmer le système via un smartphone**_
-
-Pour utiliser la fonction Bluetooth du clavier pour désarmer le système via un smartphone, le panneau de commande doit être enregistré sur Home Portal Server.
-
-\_**Application Vesta Home 5**\_est utilisé pour le couplage Bluetooth du smartphone avec le clavier. Jusqu'à**25**les smartphones peuvent être couplés au clavier pour désarmer le système via l'application Vesta Home 5.
-
-Veuillez accéder à l'APP Store ou à Google Play et effectuer une recherche\_**Vesta Maison 5**\_pour télécharger l'application.
-
-* **Configuration Bluetooth**
-
-**Couplage du clavier avec un ou plusieurs smartphones**
-
-**Étape 1.Dans le clavierétat d'ouverture inviolable**, placez le clavier dans le**Mode de couplage BLE**en appuyant et en maintenant les deux\*\*＊\*\* key and **0**clé ensemble pour**2 secondes**. Lorsque vous entrez dans le mode de couplage BLE, le clavier émet un long bip et les LED verte et orange s'allument pendant le mode de couplage BLE.
-
-**Étape 2.Sur votre smartphone, ouvrez le\_Application Vesta Home 5**\_, saisissez l'ID utilisateur et le mot de passe enregistrés, puis appuyez sur
-
-Connectez-vous pour vous connecter à votre compte.\_Note:\_Assurez-vous que Bluetooth est activé pour les paramètres de votre smartphone.
-
-\*\*Étape 3.\*\*Accédez à la page Tous les appareils, sélectionnez KPT-39N-BLE. Robinet "**Démarrer le couplage Bluetooth**.”
-
-5
-
-\*\*Étape 4.\*\*L'application commencera automatiquement à analyser le clavier qui est en mode de couplage BLE. S'il ne démarre pas
-
-numérisation automatique, appuyez sur le bouton sur l'écran pour rechercher le clavier.
-
-Lorsque le clavier détecté apparaît dans la liste, appuyez dessus pour accéder à la page Code PIN de couplage. Entrez le code PIN de couplage BLE\*\*(Par défaut : 000000)**et appuyez sur**Paire\*\*bouton pour continuer.
-
-\_Note:\_Pour modifier le code PIN de couplage, entrez le code PIN à 6 chiffres et ＊ sur le clavier en mode de couplage BLE.
-
-Si le paramétrage du code PIN est confirmé, le clavier émet 1 bip long. Si le réglage du code PIN n'est pas confirmé, le clavier émet 4 bips.
-
-\*\*Étape 5.\*\*Lorsque la boîte de dialogue Couplage réussi s'affiche sur l'application, le couplage est réussi.
-
-Cliquez sur OK et vous serez dirigé vers la page de configuration de l'appareil KPT où vous devrez définir votre code PIN.
-
-6
-
-\*\*Étape 6.\*\*Sélectionnez Code PIN et saisissez un code PIN utilisateur du panneau de commande à 4 ou 6 chiffres.
-
-Si l'utilisateur souhaite quitter cette page mais que le champ PIN utilisateur est vide, le système affichera un message d'erreur.
-
-_**Veuillez noter:**_
-
-* Lorsque le clavier est en mode de couplage BLE, les utilisateurs peuvent coupler le clavier avec un ou plusieurs smartphones. Que le premier smartphone couplé soit connecté ou non, le deuxième smartphone et plusieurs peuvent être couplés avec le clavier en suivant les instructions**Étape 2\~6**dans les instructions ci-dessus.
-* Le clavier peut être associé à un maximum de 25 smartphones.
-
-\*\*Étape 7.**Quittez le mode de couplage BLE en appuyant sur**#\*\*clé une fois. Sinon, le clavier distant quittera automatiquement le mode de couplage BLE après 5 minutes et reviendra en mode veille.
-
-**Dissocier un clavier avec un ou plusieurs smartphones**
+* <mark style="color:blue;">**Configuration Bluetooth**</mark>\ <mark style="color:blue;">**Association du clavier avec un smartphone**</mark>\
+  **Étape 1.** La clavier doit avoir son **autoprotection déclenchée**, placez le clavier en **Mode BLE** en appuyant simultanément les touches ＊ et  **0** appuyées pendant **2 secondes**. Lorsque vous entrez en mode BLE, le clavier émet un bip long et les LED verte et orange s'allument pendant l'utilisation du mode BLE.\
+  **Étape 2.** Sur votre smartphone, ouvrez l'application **SmartHomeSec**, saisissez l'ID utilisateur et le mot de passe associé, puis appuyez sur Connecter pour vous connecter à votre compte.\
+  &#xNAN;_&#x4E;ote:_ Assurez-vous que le Bluetooth soit activé dans les paramètres de votre smartphone.\
+  <img src=".gitbook/assets/image (13).png" alt="" data-size="original">\
+  **Étape 3.** Accédez à la liste des périphériques, sélectionnez le clavier. Cliquez sur "**Démarrer association Bluetooth**.\
+  ![](<.gitbook/assets/image (14).png>)![](<.gitbook/assets/image (15).png>)\
+  **Étape 4.** L'application commencera automatiquement à analyser le clavier qui est en mode BLE. Si la recherche ne démarre pas automatiquement, appuyez sur le bouton <img src=".gitbook/assets/image (16).png" alt="" data-size="line"> pour rechercher le clavier.\
+  Lorsque le clavier détecté apparaît dans la liste, appuyez dessus pour accéder à la page Code PIN de couplage. Entrez le code PIN de couplage BLE **(Par défaut : 000000)** et appuyez le bouton **Couplage** pour continuer.\
+  ![](<.gitbook/assets/image (17).png>)![](<.gitbook/assets/image (18).png>)![](<.gitbook/assets/image (19).png>)\
+  &#xNAN;_&#x4E;ote:_ Pour modifier le code PIN de couplage, entrez le code PIN à 6 chiffres suivi de **＊** sur le clavier en mode BLE. Si le paramétrage du code PIN est confirmé, le clavier émet 1 bip long. Si le réglage du code PIN n'est pas confirmé, le clavier émet 4 bips.\
+  **Étape 5.** Lorsque la boîte de dialogue Couplage réussi s'affiche sur l'application, le couplage est réussi.\
+  Cliquez sur OK et vous serez dirigé vers le menu de configuration du clavier où vous devrez définir votre code utilisateur.\
+  ![](<.gitbook/assets/image (20).png>)\
+  **Étape 6.** Sélectionnez Code PIN et saisissez un code utilisateur de la centrale à 4 ou 6 chiffres.\
+  Si l'utilisateur souhaite quitter cette page mais que le champ PIN utilisateur est vide, le système affichera un message d'erreur.\
+  ![](<.gitbook/assets/image (21).png>)![](<.gitbook/assets/image (22).png>)\
+  \
+  &#xNAN;_**Veuillez noter:**_\
+  _**-**_ Lorsque le clavier est en mode BLE, les utilisateurs peuvent coupler le clavier avec un ou plusieurs smartphones. Que le premier smartphone couplé soit connecté ou non, le deuxième smartphone et plusieurs autres peuvent être couplés avec le clavier en suivant les **Étapes 2\~6** dans les instructions ci-dessus.\
+  \- Le clavier peut être associé à un maximum de 25 smartphones.\
+  \
+  **Étape 7.** Quittez le mode BLE en appuyant une fois sur la touche **#**. Sinon, le clavier quittera automatiquement le mode BLE après 5 minutes et reviendra en mode veille.\
+  \
+  <mark style="color:blue;">**Dissocier un clavier avec un ou plusieurs smartphones**</mark>
 
 **Étape 1.Sous le clavierMode de couplage BLE**, vous pouvez dissocier le clavier d'un ou plusieurs smartphones.
 
