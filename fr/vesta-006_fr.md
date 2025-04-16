@@ -23,42 +23,37 @@ Le détecteur d'ouverture optique se compose d'un couvercle et d'une base. La ba
 5. **Zone de détection infrarouge**
 6. **Autocollant réfléchissant**
 
-
-
-#### _<mark style="background-color:purple;">**Voyant LED**</mark>_
+#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
 
 En mode de fonctionnement normal, le voyant LED reste éteint sauf dans les situations suivantes.\
 \- Lorsque l’autoprotection du détecteur d'ouverture optique est déclenchée.\
 \- Chaque fois que le contact de porte optique est activé dans des conditions de sabotage ou de batterie faible.\
 \- Chaque fois que le détecteur d'ouverture est activé et transmet le signal en mode test.
 
+#### _<mark style="background-color:green;">**- Supervision**</mark>_
 
+_**-**_ Le détecteur d'ouverture optique transmettra automatiquement des signaux de supervision périodiquement vers la centrale à des intervalles aléatoires de 30 à 50 minutes en mode de fonctionnement normal.\
+\- Si la centrale n'a pas reçu le signal du détecteur d'ouverture optique pendant une période prédéfinie, elle indiquera que ce périphérique rencontre un problème de perte de signal.
 
-* _**Supervision**_\
-  _**-**_ Le détecteur d'ouverture optique transmettra automatiquement des signaux de supervision périodiquement vers la centrale à des intervalles aléatoires de 30 à 50 minutes en mode de fonctionnement normal.\
-  \- Si la centrale n'a pas reçu le signal du détecteur d'ouverture optique pendant une période prédéfinie, elle indiquera que ce périphérique rencontre un problème de perte de signal.
+#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
 
+Elle est conçue pour protéger contre l’ouverture non autorisée du couvercle. Lorsque l'autoprotection est déclenchée, le détecteur d'ouverture optique émettra un signal vers la centrale pour rapport, la LED s'allumera également.
 
+#### _<mark style="background-color:green;">**- Batterie**</mark>_
 
-* _**Autoprotection**_\
-  _**-**_ Il est conçu pour protéger contre l’ouverture non autorisée du couvercle. Lorsque l'autoprotection est déclenchée, le détecteur d'ouverture optique émettra un signal vers la centrale pour rapport, la LED s'allumera également.
+Le détecteur d'ouverture optique utilise une **Pile alcaline AAA 1,5 V** comme source d'alimentation, et il est également capable de détecter une batterie faible. Lorsque la batterie est faible, un signal de batterie faible sera envoyé à la centrale. La LED s'allumera lorsque le détecteur d'ouverture est activé en cas de batterie faible. Lorsque la batterie est épuisée, le détecteur d'ouverture optique arrêtera toutes les fonctions et la LED clignotera toutes les 4 secondes.
 
+#### _<mark style="background-color:green;">**- Changer la batterie**</mark>_
 
-
-* _**Batterie**_\
-  Le détecteur d'ouverture optique utilise une **Pile alcaline AAA 1,5 V** comme source d'alimentation, et il est également capable de détecter une batterie faible. Lorsque la batterie est faible, un signal de batterie faible sera envoyé à la centrale. La LED s'allumera lorsque le détecteur d'ouverture est activé en cas de batterie faible. Lorsque la batterie est épuisée, le détecteur d'ouverture optique arrêtera toutes les fonctions et la LED clignotera toutes les 4 secondes.
-
-
-
-* _**Changer la batterie**_\
-  Maintenez la zone du bouton de test/apprentissage et soulevez doucement le couvercle. Retirez l'ancienne batterie comme indiqué sur la figure 1, puis appuyez 5 à 6 fois sur le bouton de test/apprentissage pour le décharger complètement. Insérez une nouvelle batterie et replacez le couvercle, comme indiqué sur la figure 2.
+Maintenez la zone du bouton de test/apprentissage et soulevez doucement le couvercle. Retirez l'ancienne batterie comme indiqué sur la figure 1, puis appuyez 5 à 6 fois sur le bouton de test/apprentissage pour le décharger complètement. Insérez une nouvelle batterie et replacez le couvercle, comme indiqué sur la figure 2.
 
 | Figure 1                                                          | Figure 2                                                          |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <img src=".gitbook/assets/1 (6).png" alt="" data-size="original"> | <img src=".gitbook/assets/2 (6).png" alt="" data-size="original"> |
 
-* _**Mode test**_\
-  Le détecteur d'ouverture optique peut être mis en mode test pendant 3 minutes en appuyant une fois sur le bouton de test situé sur le couvercle. Pendant le mode Test, le voyant LED s'allumera lors du déclenchement. À chaque pression sur le bouton de test, le détecteur d'ouverture optique transmettra un signal de test à la centrale pour un test de portée radio et réinitialise la durée du mode test à 3 minutes. Il quittera automatiquement le mode test après 3 minutes et reviendra au mode de fonctionnement normal.
+#### _<mark style="background-color:green;">**- Mode test**</mark>_
+
+Le détecteur d'ouverture optique peut être mis en mode test pendant 3 minutes en appuyant une fois sur le bouton de test situé sur le couvercle. Pendant le mode Test, le voyant LED s'allumera lors du déclenchement. À chaque pression sur le bouton de test, le détecteur d'ouverture optique transmettra un signal de test à la centrale pour un test de portée radio et réinitialise la durée du mode test à 3 minutes. Il quittera automatiquement le mode test après 3 minutes et reviendra au mode de fonctionnement normal.
 
 
 
