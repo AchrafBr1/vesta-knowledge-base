@@ -2,9 +2,9 @@
 
 **VST-862**
 
-## **PIRCAM intérieur (lithium)**
+## <mark style="color:green;">**PIRCAM intérieur (lithium)**</mark>
 
-### **Introduction**
+### _<mark style="background-color:yellow;">**Introduction**</mark>_
 
 VST-862 est détecteur de mouvement infrarouge passif (PIR) avec caméra. Il est capable d'envoyer des signaux RF et des images (qualité d'image jusqu'à 640 x 480 pixels) à la centrale suite à la détection d'un mouvement.\
 Le PIRCAM est conçu pour offrir une portée de détection de 12 mètres lorsqu'il est installé à 2 mètres de haut. Pour les modèles avec immunité animaux,  la portée de l'immunité est de 7 mètres pour 27kg, vos animaux domestiques ne déclencheront pas de fausses alarmes dans les limites énoncées. Pour les modèles compatibles avec le répéteur RP-29/routeur RMB-29 de Climax (**Modèles P5 uniquement**), la portée de communication RF peut être encore étendue pour les zones difficiles à atteindre.\
@@ -19,9 +19,9 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 | VST-862P-(P5)     | OUI                 |            | OUI                  | Modèle P5 uniquement       |
 | VST-862P-IL-(P5)  |                     | OUI        | OUI                  | Modèle P5 uniquement       |
 
-### **Identification**
+### _<mark style="background-color:yellow;">**Identification**</mark>_
 
-<figure><img src=".gitbook/assets/0 (8).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (8).jpeg" alt="" width="118"><figcaption></figcaption></figure>
 
 1. **LED clignotante / LED IR**\
    La LED clignotante (pour 862(P)) ou la LED IR (pour 862(P)-IL) fournit suffisamment de lumière pour la capture d'images dans des conditions de faible éclairage.
@@ -48,16 +48,17 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 
 
 
-### **Caractéristiques**
+### _<mark style="background-color:yellow;">**Caractéristiques**</mark>_
 
-* _**Voyant LED**_\
-  En fonctionnement normal, la LED bleue ne s'allumera pas sauf dans les situations suivantes :\
-  \- Lorsque le PIRCAM est en état de batterie faible, chaque fois qu'il transmet un mouvement détecté, la LED bleue clignote pendant 2 secondes.\
-  \- Lorsque le couvercle est ouvert et que l'autoprotection est déclenchée, la LED bleue clignote pendant 2 secondes pour indiquer qu'il transmet le signal "Autoprotection".\
-  \- Lorsque la condition de sabotage persiste, chaque fois qu'il transmet un mouvement détecté, la LED bleue clignote pendant 2 secondes.\
-  \- Lorsque le PIRCAM entre en mode test, la LED bleue clignote pendant 1 seconde. Pendant le mode Test, la LED bleue clignote également pendant 2 secondes à chaque fois qu'un mouvement est détecté.\
-  \- Lorsque le PIRCAM est en période de démarrage de 30 secondes, la LED bleue clignote lentement.\
-  \- Lorsque le PIRCAM transmet des images capturées dans des conditions de défaut (batterie faible, autoprotection), la LED bleue clignote en continu.
+#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
+
+En fonctionnement normal, la LED bleue ne s'allumera pas sauf dans les situations suivantes :\
+\- Lorsque le PIRCAM est en état de batterie faible, chaque fois qu'il transmet un mouvement détecté, la LED bleue clignote pendant 2 secondes.\
+\- Lorsque le couvercle est ouvert et que l'autoprotection est déclenchée, la LED bleue clignote pendant 2 secondes pour indiquer qu'il transmet le signal "Autoprotection".\
+\- Lorsque la condition de sabotage persiste, chaque fois qu'il transmet un mouvement détecté, la LED bleue clignote pendant 2 secondes.\
+\- Lorsque le PIRCAM entre en mode test, la LED bleue clignote pendant 1 seconde. Pendant le mode Test, la LED bleue clignote également pendant 2 secondes à chaque fois qu'un mouvement est détecté.\
+\- Lorsque le PIRCAM est en période de démarrage de 30 secondes, la LED bleue clignote lentement.\
+\- Lorsque le PIRCAM transmet des images capturées dans des conditions de défaut (batterie faible, autoprotection), la LED bleue clignote en continu.
 
 
 
