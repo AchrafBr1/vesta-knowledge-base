@@ -48,10 +48,29 @@ Follow these steps to add your VESTA security system to the VTH:
 3. **Select VESTA:** From the settings menu, choose the "VESTA" option.
 4. **Enter Panel Information:** You will need to provide the following information:
    * **Local IP of Panel:** Enter the local IP address of your VESTA panel. This is the IP address assigned to the panel on your home network.
+   * **Port:** 80
    * **User:** Enter the username for accessing the VESTA panel. This is often 'admin'.
    * **Password:** Enter the password for accessing the VESTA panel.
    * **Mac**: Mac adress of your VESTA panel
-5. **Save Settings:** After entering the information, save the settings within the VTH device.
+
+{% hint style="warning" %}
+**Important:** It's crucial to initialize the panel before use. Access the local web portal by entering the VESTA panel's IP address in your browser. Use the default credentials to log in, initialize the panel, and set a new password to ensure security.
+
+
+
+**Default local web access information:**
+
+User: admin\
+Password: cX+HsA\*7F1
+{% endhint %}
+
+{% hint style="success" %}
+Remember that if the web interface is not accessible, restart the control panel.
+{% endhint %}
+
+
+
+1. **Save Settings:** After entering the information, save the settings within the VTH device.
 
 ### Troubleshooting:
 

@@ -24,7 +24,7 @@ This portal is your primary resource for accessing technical documentation and u
 ***
 
 {% hint style="warning" %}
-We would like to remind you that as of February 2024, our **new SmartHomeSec portal**: [portal.vestasecurity.eu](https://portal.vestasecurity.eu/Vesta/) is available, ensuring the continued provision of all VESTA services.
+We would like to remind you that as of February 2025, our **new SmartHomeSec portal**: [portal.vestasecurity.eu](https://portal.vestasecurity.eu/Vesta/) is available, ensuring the continued provision of all VESTA services.
 {% endhint %}
 
 ### The most flexible alarm system on the market
