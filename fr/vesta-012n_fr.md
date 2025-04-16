@@ -1,6 +1,6 @@
 # VESTA-012N
 
-**39N-BLE**
+**KPT39N-BLE**
 
 ## <mark style="color:green;">**Clavier avec lecteur RFID et Bluetooth**</mark>
 
