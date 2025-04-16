@@ -44,7 +44,7 @@ NOTE:\
 
 
 
-#### _<mark style="background-color:yellow;">**Voyant LED**</mark>_
+### _<mark style="background-color:yellow;">**Voyant LED**</mark>_
 
 * **LED Alimentation (verte) :**
   * Allumée pendant 5 secondes: saisie correcte.
@@ -289,9 +289,9 @@ La réinitialisation du clavier aux paramètres d'usine restaurera le code du cl
 
 
 
-### _<mark style="background-color:yellow;">**Montage du clavier**</mark>_ <a href="#montage-du-clavier" id="montage-du-clavier"></a>
+### _<mark style="background-color:yellow;">**Installation du clavier**</mark>_ <a href="#montage-du-clavier" id="montage-du-clavier"></a>
 
-Pour monter le clavier :
+Pour installer le clavier :
 
 1. Retirez le capot avant.
 2. En utilisant les 2 trous de montage de la coque arrière comme gabarit, marquez les positions à l'endroit le plus approprié.
