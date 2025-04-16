@@ -2,13 +2,13 @@
 
 **SRV-23B**
 
-## **Sirène intérieure sur prise secteur**
+## <mark style="color:green;">**Sirène intérieure sur prise secteur**</mark>
 
-### **Introduction**
+### _<mark style="background-color:yellow;">**Introduction**</mark>_
 
-SRV-23B est une sirène intérieure et un carillon alimenté par une prise secteur avec batterie de secours. Avec le haut-parleur intégré, SRV-23B est capable d'émettre le son de carillon, les bips d'entrée/de sortie, de déclencher une alarme et de lire des messages vocaux pour informer les utilisateurs de l'état actuel du système.
+SRV-23B est une sirène intérieure et un carillon alimenté par une prise secteur avec batterie de secours. Avec le haut-parleur intégré, SRV-23B est capable d'émettre le son du carillon, les bips d'entrée/de sortie, de déclencher une alarme et de lire des messages vocaux pour informer les utilisateurs de l'état actuel du système.
 
-### **Identification**
+### _<mark style="background-color:yellow;">**Identification**</mark>_
 
 ![](<.gitbook/assets/0 (20).jpeg>)
 
@@ -21,7 +21,7 @@ SRV-23B est une sirène intérieure et un carillon alimenté par une prise secte
 
 
 
-### **Caractéristiques**
+### _<mark style="background-color:yellow;">**Caractéristiques**</mark>_
 
 * _**Activation de l'alarme**_\
   Lorsqu'une alarme est déclenchée, la sirène et le voyant fonctionneront en continu . Si une temporisation est programmée dans la centrale d'alarme, la sirène sera activée en fonction de la durée programmée. Si le système d'alarme n'a pas de temporisation, la sirène sera activée pendant 15 minutes.\
@@ -56,7 +56,7 @@ SRV-23B est une sirène intérieure et un carillon alimenté par une prise secte
 
 
 
-### **Démarrage**
+### _<mark style="background-color:yellow;">**Démarrage**</mark>_
 
 1. Branchez la sirène à la prise de courant. La LED clignotera une fois pour indiquer qu'elle est maintenant en mode de fonctionnement normal.
 2. Mettez la centrale en mode apprentissage.
@@ -68,19 +68,19 @@ SRV-23B est une sirène intérieure et un carillon alimenté par une prise secte
 
 
 
-### **Programmation de la sirène**
+### _<mark style="background-color:yellow;">**Programmation de la sirène**</mark>_
 
 Suivez les instructions ci-dessous pour modifier la partition de la sirène et modifier les paramètres de la sirène dans la centrale.
 
-Étape 1 : modifiez la configuration de la sirène  (partition, réglages) depuis la page de configuration de la centrale et appuyez sur le bouton OK pour confirmer. La sirène émettra 3 bips.
+<mark style="color:orange;">**Étape 1 :**</mark> modifiez la configuration de la sirène  (partition, réglages) depuis la page de configuration de la centrale et appuyez sur le bouton OK pour confirmer. La sirène émettra 3 bips.
 
-Étape 2 : Appuyez sur le bouton test de la sirène pour envoyer un signal à la centrale.
+<mark style="color:orange;">**Étape 2 :**</mark> Appuyez sur le bouton test de la sirène pour envoyer un signal à la centrale.
 
-Étape 3 : Lorsque la sirène reçoit un signal d'accusé de réception de la centrale,  elle émettra 2 bips pour indiquer que le paramètre a été mis à jour. La sirène reviendra à un fonctionnement normal.
+<mark style="color:orange;">**Étape 3 :**</mark> Lorsque la sirène reçoit un signal d'accusé de réception de la centrale,  elle émettra 2 bips pour indiquer que le paramètre a été mis à jour. La sirène reviendra à un fonctionnement normal.
 
 
 
-### **Retour aux paramètres d'usine**
+### _<mark style="background-color:yellow;">**Réinitialisation**</mark>_
 
 La sirène peut être réinitialisée et sa mémoire effacée en suivant les étapes suivantes :
 
@@ -92,4 +92,6 @@ La sirène peut être réinitialisée et sa mémoire effacée en suivant les ét
 
 
 
-Remarque: Si la centrale dispose de plus de 2 partitions, la sirène n'indiquera pas le numéro de partition avec les message vocaux.
+{% hint style="success" %}
+Si la centrale dispose de plus de 2 partitions, la sirène n'indiquera pas le numéro de partition avec les message vocaux.
+{% endhint %}
