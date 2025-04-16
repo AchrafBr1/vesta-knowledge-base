@@ -44,7 +44,7 @@ NOTE:\
 
 
 
-### _<mark style="background-color:yellow;">**Voyant LED**</mark>_
+#### _<mark style="background-color:yellow;">**Voyant LED**</mark>_
 
 * **LED Alimentation (verte) :**
   * Allumée pendant 5 secondes: saisie correcte.
@@ -103,8 +103,8 @@ NOTE:\
 
 ### _<mark style="background-color:yellow;">**Apprentissage du clavier dans la centrale**</mark>_
 
-<mark style="background-color:green;">Étape 1.</mark> Mettez la centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
-<mark style="background-color:green;">Étape 2.</mark> Ajoutez le clavier à la centrale.
+<mark style="color:orange;">**Étape 1.**</mark> Mettez la centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
+<mark style="color:orange;">**Étape 2.**</mark> Ajoutez le clavier à la centrale.
 
 * **Mode normal**\
   En mode normal, maintenir les touches \* et # appuyées pendant 2 secondes pour transmettre le code d'apprentissage à la centrale.
@@ -112,8 +112,8 @@ NOTE:\
   Mettez le clavier en Mode Test en saisissant le code (par défaut :**0000**), puis appuyez la touch&#x65;**＊**. Les trois touches <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-fe25c9957403e3c10f8e9d28f99d7d324e84ba0f%252F10%2520%2813%29.png%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=bf585e9e&#x26;sv=2" alt="" data-size="line"><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-cf49690b317e6f3fb07c55fd84d849931f4c4cae%252F11%2520%289%29.jpeg%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=b5350c2d&#x26;sv=2" alt="" data-size="line"> s'allumeront avec un long bip.\
   Appuyez ensuite sur les touches **\*** et **7** pour transmettre le signal d'apprentissage. Le clavier émettra un bip long.
 
-<mark style="background-color:green;">Étape 3.</mark> Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage. Si l'apprentissage réussit, le clavier émettra 3 bips dès réception du signal d'accusé de réception de la centrale. Si le clavier n'émet pas 3 bips,  veuillez répéter l'étape 2 pour transmettre à nouveau le code d'apprentissage.\
-<mark style="background-color:green;">Étape 4.</mark> Une fois le clavier enregistrée, mettre la centrale en **Mode** **Test**, maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que l'emplacement se trouve dans la plage de signal de la centrale.
+<mark style="color:orange;">**Étape 3.**</mark> Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage. Si l'apprentissage réussit, le clavier émettra 3 bips dès réception du signal d'accusé de réception de la centrale. Si le clavier n'émet pas 3 bips,  veuillez répéter l'étape 2 pour transmettre à nouveau le code d'apprentissage.\
+<mark style="color:orange;">**Étape 4.**</mark> Une fois le clavier enregistrée, mettre la centrale en **Mode** **Test**, maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que l'emplacement se trouve dans la plage de signal de la centrale.
 
 
 
@@ -130,25 +130,25 @@ NOTE:\
 
 Le clavier est capable de transmettre les informations des badges à la centrale et vous pouvez attribuer un code utilisateur et un nom à chaque badge depuis la page web de la central. Les badges peuvent ensuite être utilisés pour contrôler le mode de fonctionnement du système d’alarme via le clavier. Le nombre de badges et de codes utilisateur est géré depuis la page web de la centrale.
 
-1.  _**Ajouter un badge:**_\
+1.  _<mark style="color:blue;">**Ajouter un badge:**</mark>_\
     Lors de l'ajout d'un nouveau badge, le clavier doit être en mode normal.\
-    <mark style="color:orange;">Étape 1.</mark> Accédez au menu PIN code de la page web de la centrale. Choisir la partition dans laquelle l'utilisateur doit être créé, saisissez un code utilisateur à 4 ou 6 chiffres et un nom d'utilisateur qui seront associés au badge.
+    <mark style="color:orange;">**Étape 1.**</mark> Accédez au menu PIN code de la page web de la centrale. Choisir la partition dans laquelle l'utilisateur doit être créé, saisissez un code utilisateur à 4 ou 6 chiffres et un nom d'utilisateur qui seront associés au badge.
 
     ![](<.gitbook/assets/17 (8).png>)
 
-    <mark style="color:orange;">Étape 2.</mark>  Une fois le clavier appris dans la centrale, appuyez sur la touche <img src=".gitbook/assets/18 (5).jpeg" alt="" data-size="line"> du clavier. Appliquez le nouveau badge dans la zone de détection du clavier. Le rétroéclairage blanc s'activera accompagné de 4 bips pour indiquer que ce badge n'a jamais été enregistré au système.\
-    <mark style="color:orange;">Étape 3</mark>. Cliquez sur le bouton Load du menu PIN code de la page web comme indiqué ci-dessous. L'identifiant du badge s'affichera. Cliquez sur Submit pour sauvegarder la configuration.
+    <mark style="color:orange;">**Étape 2.**</mark>  Une fois le clavier appris dans la centrale, appuyez sur la touche <img src=".gitbook/assets/18 (5).jpeg" alt="" data-size="line"> du clavier. Appliquez le nouveau badge dans la zone de détection du clavier. Le rétroéclairage blanc s'activera accompagné de 4 bips pour indiquer que ce badge n'a jamais été enregistré au système.\
+    <mark style="color:orange;">**Étape 3.**</mark> Cliquez sur le bouton Load du menu PIN code de la page web comme indiqué ci-dessous. L'identifiant du badge s'affichera. Cliquez sur Submit pour sauvegarder la configuration.
 
     ![](<.gitbook/assets/19 (11).png>)
 
-    <mark style="color:orange;">Étape 4.</mark> Le badge est ajouté. Vous pouvez utiliser le badge pour armer en mode total/partiel ou désarmer le système. Lorsque le clavier démarre en insérant les piles, la LED orange clignote et le rétroéclairage blanc s'allume. Lorsque la LED est éteinte, attendez 10 secondes pour que le lecteur RFID soit fonctionnel.
-2.  _**Supprimer un badge :**_\
-    Étape 1. Accédez au menu PIN code de la page web de la centrale.\
-    Étape 2. Supprimez manuellement le numéro du badge et cliquez sur Submit.
+    <mark style="color:orange;">**Étape 4.**</mark> Le badge est ajouté. Vous pouvez utiliser le badge pour armer en mode total/partiel ou désarmer le système. Lorsque le clavier démarre en insérant les piles, la LED orange clignote et le rétroéclairage blanc s'allume. Lorsque la LED est éteinte, attendez 10 secondes pour que le lecteur RFID soit fonctionnel.
+2.  _<mark style="color:blue;">**Supprimer un badge :**</mark>_\
+    <mark style="color:orange;">**Étape 1.**</mark> Accédez au menu PIN code de la page web de la centrale.\
+    <mark style="color:orange;">**Étape 2.**</mark> Supprimez manuellement le numéro du badge et cliquez sur Submit.
 
     ![](<.gitbook/assets/20 (9).png>)
 
-    Étape 3. Le badge est effacé.
+    <mark style="color:orange;">**Étape 3.**</mark> Le badge est effacé.
 
 
 
@@ -212,20 +212,20 @@ L'application **SmartHomeSec** est utilisée pour associer le téléphone au cla
 Veuillez accéder à l'APP Store ou à Google Play et rechercher **SmartHomeSec** pour télécharger l'application.
 
 * <mark style="color:blue;">**Configuration Bluetooth**</mark>\ <mark style="color:blue;">**Association du clavier avec un smartphone**</mark>\
-  **Étape 1.** Le clavier doit avoir son **autoprotection déclenchée**, placez le clavier en **Mode BLE** en appuyant simultanément les touches ＊ et  **0** appuyées pendant **2 secondes**. Lorsque vous entrez en mode BLE, le clavier émet un bip long et les LED verte et orange s'allument pendant l'utilisation du mode BLE.\
-  **Étape 2.** Sur votre smartphone, ouvrez l'application **SmartHomeSec**, saisissez l'ID utilisateur et le mot de passe associé, puis appuyez sur Connecter pour vous connecter à votre compte.\
+  <mark style="color:orange;">**Étape 1.**</mark> Le clavier doit avoir son **autoprotection déclenchée**, placez le clavier en **Mode BLE** en appuyant simultanément les touches ＊ et  **0** appuyées pendant **2 secondes**. Lorsque vous entrez en mode BLE, le clavier émet un bip long et les LED verte et orange s'allument pendant l'utilisation du mode BLE.\
+  <mark style="color:orange;">**Étape 2.**</mark> Sur votre smartphone, ouvrez l'application **SmartHomeSec**, saisissez l'ID utilisateur et le mot de passe associé, puis appuyez sur Connecter pour vous connecter à votre compte.\
   &#xNAN;_&#x4E;ote:_ Assurez-vous que le Bluetooth soit activé dans les paramètres de votre smartphone.\
   <img src=".gitbook/assets/image (13).png" alt="" data-size="original">\
-  **Étape 3.** Accédez à la liste des périphériques, sélectionnez le clavier. Cliquez sur "**Démarrer association Bluetooth**.\
+  <mark style="color:orange;">**Étape 3.**</mark> Accédez à la liste des périphériques, sélectionnez le clavier. Cliquez sur "**Démarrer association Bluetooth**.\
   ![](<.gitbook/assets/image (14).png>)![](<.gitbook/assets/image (15).png>)\
-  **Étape 4.** L'application commencera automatiquement à analyser le clavier qui est en mode BLE. Si la recherche ne démarre pas automatiquement, appuyez sur le bouton <img src=".gitbook/assets/image (16).png" alt="" data-size="line"> pour rechercher le clavier.\
+  <mark style="color:orange;">**Étape 4.**</mark> L'application commencera automatiquement à analyser le clavier qui est en mode BLE. Si la recherche ne démarre pas automatiquement, appuyez sur le bouton <img src=".gitbook/assets/image (16).png" alt="" data-size="line"> pour rechercher le clavier.\
   Lorsque le clavier détecté apparaît dans la liste, appuyez dessus pour accéder à la page Code PIN de couplage. Entrez le code PIN de couplage BLE **(Par défaut : 000000)** et appuyez le bouton **Couplage** pour continuer.\
   ![](<.gitbook/assets/image (17).png>)![](<.gitbook/assets/image (18).png>)![](<.gitbook/assets/image (19).png>)\
   &#xNAN;_&#x4E;ote:_ Pour modifier le code PIN de couplage, entrez le code PIN à 6 chiffres suivi de **＊** sur le clavier en mode BLE. Si le paramétrage du code PIN est confirmé, le clavier émet 1 bip long. Si le réglage du code PIN n'est pas confirmé, le clavier émet 4 bips.\
-  **Étape 5.** Lorsque la boîte de dialogue Couplage réussi s'affiche sur l'application, le couplage est réussi.\
+  <mark style="color:orange;">**Étape 5.**</mark> Lorsque la boîte de dialogue Couplage réussi s'affiche sur l'application, le couplage est réussi.\
   Cliquez sur OK et vous serez dirigé vers le menu de configuration du clavier où vous devrez définir votre code utilisateur.\
   ![](<.gitbook/assets/image (20).png>)\
-  **Étape 6.** Sélectionnez Code PIN et saisissez un code utilisateur de la centrale à 4 ou 6 chiffres.\
+  <mark style="color:orange;">**Étape 6.**</mark> Sélectionnez Code PIN et saisissez un code utilisateur de la centrale à 4 ou 6 chiffres.\
   Si l'utilisateur souhaite quitter cette page mais que le champ PIN utilisateur est vide, le système affichera un message d'erreur.\
   ![](<.gitbook/assets/image (21).png>)![](<.gitbook/assets/image (22).png>)\
   \
@@ -233,16 +233,16 @@ Veuillez accéder à l'APP Store ou à Google Play et rechercher **SmartHomeSec*
   _**-**_ Lorsque le clavier est en mode BLE, les utilisateurs peuvent coupler le clavier avec un ou plusieurs smartphones. Que le premier smartphone couplé soit connecté ou non, le deuxième smartphone et plusieurs autres peuvent être couplés avec le clavier en suivant les **Étapes 2\~6** dans les instructions ci-dessus.\
   \- Le clavier peut être associé à un maximum de 25 smartphones.\
   \
-  **Étape 7.** Quittez le mode BLE en appuyant une fois sur la touche **#**. Sinon, le clavier quittera automatiquement le mode BLE après 5 minutes et reviendra en mode veille.\
+  <mark style="color:orange;">**Étape 7.**</mark> Quittez le mode BLE en appuyant une fois sur la touche **#**. Sinon, le clavier quittera automatiquement le mode BLE après 5 minutes et reviendra en mode veille.\
   \
   <mark style="color:blue;">**Dissocier un clavier avec un ou plusieurs smartphones**</mark>\
-  **Étape 1.** En **mode BLE**, vous pouvez dissocier un ou plusieurs smartphones du clavier.\
+  <mark style="color:orange;">**Étape 1.**</mark> En **mode BLE**, vous pouvez dissocier un ou plusieurs smartphones du clavier.\
   Le clavier doit avoir son **autoprotection déclenchée**,  placez le clavier en **Mode BLE** en appuyant simultanément sur les touches **＊**&#x65;t **0** pendant **2 secondes**. Le clavier émet un bip long et les LED verte et orange s'allument.\
   \- Saisir **0 ou, 1 ou, 2 … 24** puis la touche **#** pour dissocier le 1er, le 2ème, le 3ème,… ou le 25ème smartphone.\
   \- Saisir **25** puis la touche **#** pour dissocier tous les smartphones.\
-  **Étape 2.** En plus de dissocier le clavier de votre smartphone, vous devrez également supprimer la fonction Bluetooth du clavier dans votre application.\
+  <mark style="color:orange;">**Étape 2.**</mark> En plus de dissocier le clavier de votre smartphone, vous devrez également supprimer la fonction Bluetooth du clavier dans votre application.\
   ![](<.gitbook/assets/image (24).png>)\
-  **Étape 3.** Ensuite, supprimez le clavier couplé depuis votre smartphone. Naviguez dans le smartphone **Paramètres>Bluetooth>Mes appareils**. Appuyez sur le clavier associé et sélectionnez **Oubliez cet appareil** pour le supprimer de la liste.\
+  <mark style="color:orange;">**Étape 3.**</mark> Ensuite, supprimez le clavier couplé depuis votre smartphone. Naviguez dans le smartphone **Paramètres>Bluetooth>Mes appareils**. Appuyez sur le clavier associé et sélectionnez **Oubliez cet appareil** pour le supprimer de la liste.\
   \
   <mark style="color:blue;">**Désarmer le système via un smartphone**</mark>\
   Pour désarmer le système via un smartphone associé :\
@@ -275,15 +275,15 @@ Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**
 ### _<mark style="background-color:yellow;">**Réinitialisation**</mark>_ <a href="#retour-aux-parametres-dusine" id="retour-aux-parametres-dusine"></a>
 
 La réinitialisation du clavier aux paramètres d'usine restaurera le code du clavier à 0000 et effacera les information relative à la centrale.\
-&#xNAN;_**Réinitialiser aux paramètres d'usine :**_\
-Étape 1: Retirez les piles et relâchez l'autoprotection.\
-Étape 2:\
+&#xNAN;_<mark style="color:blue;">**Procédure de réinitialisation**</mark>**&#x20;:**_\
+<mark style="color:orange;">**Étape 1:**</mark> Retirez les piles et relâchez l'autoprotection.\
+<mark style="color:orange;">**Étape 2:**</mark>\
 \- Si la fonction "**Armement Total/Partiel avec code**" est sélectionnée, maintenir la touche **3** appuyée en insérant la batterie.\
 \- Si la fonction "**Armement Total/Partiel sans code**" est sélectionnée, maintenir la touche **4** appuyée en insérant la batterie.\
-Étape 3:\
+<mark style="color:orange;">**Étape 3:**</mark>\
 \- Maintenir la touche **3** jusqu'à ce que le clavier émette 3 bips pour indiquer une réinitialisation réussie.\
 \- Maintenir la touche **4** jusqu'à ce que le clavier émette 4 bips pour indiquer une réinitialisation réussie.\
-Étape 4: Relâchez la touche **3** ou **4**, le processus de réinitialisation est terminé. Après la réinitialisation, le code revient à la valeur par défaut, "**0000"**. Le clavier aura besoin d'un nouveau processus d'apprentissage pour refonctionner.
+<mark style="color:orange;">**Étape 4:**</mark> Relâchez la touche **3** ou **4**, le processus de réinitialisation est terminé. Après la réinitialisation, le code revient à la valeur par défaut, "**0000"**. Le clavier aura besoin d'un nouveau processus d'apprentissage pour refonctionner.
 
 * Chaque fois que le clavier est retiré d'une centrale, il doit être également réinitialisé pour effacer la précédente centrale de sa mémoire
 
