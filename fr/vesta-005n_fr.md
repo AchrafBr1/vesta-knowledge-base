@@ -23,13 +23,16 @@ SRV-23B est une sirène intérieure et un carillon alimenté par une prise secte
 
 ### _<mark style="background-color:yellow;">**Caractéristiques**</mark>_
 
-* _**Activation de l'alarme**_\
-  Lorsqu'une alarme est déclenchée, la sirène et le voyant fonctionneront en continu . Si une temporisation est programmée dans la centrale d'alarme, la sirène sera activée en fonction de la durée programmée. Si le système d'alarme n'a pas de temporisation, la sirène sera activée pendant 15 minutes.\
-  Si la centrale a déjà déclenchée, au désarmement, la sirène diffusera le message vocal suivant :\
-  &#xNAN;_"Vous avez une alarme en mémoire."_
-* _**Message vocaux**_\
-  La sirène émet différentes indications audio et messages vocaux en fonction de l'état du système de sécurité, comme indiqué dans le tableau ci-dessous.\
-  Vous pouvez modifier le volume de la synthèse vocale Haut, Moyen et Bas via la configuration de la centrale. Le volume par défaut est réglé sur Moyen. Veuillez vous référer à votre centrale pour plus de détails.
+#### _<mark style="background-color:green;">**- Activation de l'alarme**</mark>_
+
+Lorsqu'une alarme est déclenchée, la sirène et le voyant fonctionneront en continu . Si une temporisation est programmée dans la centrale d'alarme, la sirène sera activée en fonction de la durée programmée. Si le système d'alarme n'a pas de temporisation, la sirène sera activée pendant 15 minutes.\
+Si la centrale a déjà déclenchée, au désarmement, la sirène diffusera le message vocal suivant :\
+&#xNAN;_"Vous avez une alarme en mémoire."_
+
+#### _<mark style="background-color:green;">**- Message vocaux**</mark>_
+
+La sirène émet différentes indications audio et messages vocaux en fonction de l'état du système de sécurité, comme indiqué dans le tableau ci-dessous.\
+Vous pouvez modifier le volume de la synthèse vocale Haut, Moyen et Bas via la configuration de la centrale. Le volume par défaut est réglé sur Moyen. Veuillez vous référer à votre centrale pour plus de détails.
 
 | **Condition**               | **Indication audio**                                                         |
 | --------------------------- | ---------------------------------------------------------------------------- |
@@ -43,16 +46,23 @@ SRV-23B est une sirène intérieure et un carillon alimenté par une prise secte
 | Bips d'entrée               | _Bips_                                                                       |
 | Bips de sortie              | _Bips_                                                                       |
 
-* _**Alimentation**_\
-  La sirène est alimentée par une prise secteur. Branchez la sirène sur une prise de courant pour l'activer. La sirène entrera en mode de fonctionnement normal. SRV-23B, est équipée d'une batterie rechargeable qui sert de secours en cas de panne de courant. En fonctionnement normal, l'alimentation secteur est utilisée pour alimenter la sirène et en même temps recharger la batterie.
-* _**Détection de batterie faible**_\
-  Après une panne de courant, la sirène transmettra un signal de batterie faible à la centrale lorsque le seuil de batterie faible sera atteint. Pour restaurer la batterie, rebranchez l'alimentation secteur dans la prise de courant. Après 12 heures, la sirène transmettra une notification de batterie faible restaurée à la centrale.
-* _**Détection de panne secteur**_\
-  Chaque fois que la sirène est retirée de la prise de courant, elle transmettra un signal de perte secteur à la centrale pour informer les utilisateurs de la situation. La sirène utilisera alors à sa batterie interne.\
-  Lorsque la sirène est rebranchée sur la prise de courant, elle enverra un signal de rétablissement de l'alimentation secteur à la centrale.
-* _**Supervision**_\
-  La sirène transmet un signal de supervision à la centrale une fois toutes les 30 à 50 minutes pendant le fonctionnement normal.\
-  Si ce signal n'est pas reçu pendant la durée programmée, la centrale indiquera que la sirène en question rencontre un problème de fonctionnement.
+#### _<mark style="background-color:green;">**- Alimentation**</mark>_
+
+La sirène est alimentée par une prise secteur. Branchez la sirène sur une prise de courant pour l'activer. La sirène entrera en mode de fonctionnement normal. SRV-23B, est équipée d'une batterie rechargeable qui sert de secours en cas de panne de courant. En fonctionnement normal, l'alimentation secteur est utilisée pour alimenter la sirène et en même temps recharger la batterie.
+
+#### _<mark style="background-color:green;">**- Détection de batterie faible**</mark>_
+
+Après une panne de courant, la sirène transmettra un signal de batterie faible à la centrale lorsque le seuil de batterie faible sera atteint. Pour restaurer la batterie, rebranchez l'alimentation secteur dans la prise de courant. Après 12 heures, la sirène transmettra une notification de batterie faible restaurée à la centrale.
+
+#### _<mark style="background-color:green;">**- Détection de panne secteur**</mark>_
+
+Chaque fois que la sirène est retirée de la prise de courant, elle transmettra un signal de perte secteur à la centrale pour informer les utilisateurs de la situation. La sirène utilisera alors à sa batterie interne.\
+Lorsque la sirène est rebranchée sur la prise de courant, elle enverra un signal de rétablissement de l'alimentation secteur à la centrale.
+
+#### _<mark style="background-color:green;">**- Supervision**</mark>_
+
+La sirène transmet un signal de supervision à la centrale une fois toutes les 30 à 50 minutes pendant le fonctionnement normal.\
+Si ce signal n'est pas reçu pendant la durée programmée, la centrale indiquera que la sirène en question rencontre un problème de fonctionnement.
 
 
 

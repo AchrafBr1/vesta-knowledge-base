@@ -103,7 +103,7 @@ _**-**_ Le mode test permet de vérifier la plage de détection du PIRCAM (et no
 
 
 
-### <mark style="background-color:yellow;">**Apprentissage**</mark>
+### _<mark style="background-color:yellow;">**Apprentissage**</mark>_
 
 _**-**_ Allumez le PIRCAM en retirant l'opercule de la batterie situé sur le couvercle du compartiment de la batterie.\
 \- Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale pour plus de détails.\
@@ -130,7 +130,7 @@ Suivez les instructions ci-dessous pour modifier la partitions d'un PIRCAM dans 
 
 
 
-### <mark style="background-color:yellow;">**Installation**</mark>
+### _<mark style="background-color:yellow;">**Installation**</mark>_
 
 #### _<mark style="background-color:green;">**- Guide d'installation**</mark>_
 

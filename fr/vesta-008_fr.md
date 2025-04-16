@@ -119,7 +119,7 @@ Suivez les instructions ci-dessous pour modifier la partitions d'un PIRCAM dans 
 
 
 
-### <mark style="background-color:yellow;">**Installation**</mark>
+### _<mark style="background-color:yellow;">**Installation**</mark>_
 
 #### _<mark style="background-color:green;">**- Guide d'installation**</mark>_
 

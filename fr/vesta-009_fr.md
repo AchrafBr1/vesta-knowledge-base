@@ -2,9 +2,9 @@
 
 **IR(P)-29**
 
-## **Détecteur PIR**
+## <mark style="color:green;">**Détecteur PIR**</mark>
 
-### **Introduction**
+### _<mark style="background-color:yellow;">**Introduction**</mark>_
 
 Le détecteur PIR capte une signature infrarouge pour détecter les mouvements dans une zone donnée et signale à la centrale de déclencher une alarme si un intrus croise sa zone de détection.\
 Le détecteur PIR est composé de deux éléments, le couvercle et la base. Le couvercle contient toute l'électronique et l'optique et la base fournit un moyen de fixation. La base comporte des découpes pour permettre un montage sur une surface plane ou dans un angle avec un support triangulaire.\
@@ -21,7 +21,7 @@ IRP-29SL / IRP-29SL-F1 – Détecteur PIR, immunité animaux avec batterie au li
 
 
 
-### **Identification** 
+### _<mark style="background-color:yellow;">**Identification**</mark>_ 
 
 <figure><img src=".gitbook/assets/0 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,38 +44,33 @@ IRP-29SL / IRP-29SL-F1 – Détecteur PIR, immunité animaux avec batterie au li
 
 
 
-* **Mise en veille**\
-  Le détecteur PIR a une "**mise en veille**" d'environs 1 minute pour économiser de l'énergie. Après avoir transmis un mouvement détecté, le détecteur PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera la temporisation de mise en veille de 1 minute. Un mouvement continu devant le PIRCAM n'épuisera donc pas la batterie.
+#### _<mark style="background-color:green;">**- Mise en veille**</mark>_
 
+Le détecteur PIR a une "**mise en veille**" d'environs 1 minute pour économiser de l'énergie. Après avoir transmis un mouvement détecté, le détecteur PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera la temporisation de mise en veille de 1 minute. Un mouvement continu devant le PIRCAM n'épuisera donc pas la batterie.
 
+#### _<mark style="background-color:green;">**- Supervision**</mark>_
 
-* _**Supervision**_\
-  Si elle est activée (voir ci-dessus), lorsque le détecteur PIR est en mode de fonctionnement normal, il effectuera un auto-test en transmettant un signal de supervision une fois toutes les 30 à 50 minutes.\
-  Si la centrale ne parvient pas à recevoir les signaux de supervision pendant une durée définie, un message de défaut sera généré.
+Si elle est activée (voir ci-dessus), lorsque le détecteur PIR est en mode de fonctionnement normal, il effectuera un auto-test en transmettant un signal de supervision une fois toutes les 30 à 50 minutes.\
+Si la centrale ne parvient pas à recevoir les signaux de supervision pendant une durée définie, un message de défaut sera généré.
 
+#### _<mark style="background-color:green;">**- Augmentation de la sensibilité**</mark>_
 
+Vous pouvez utiliser la fonction d’augmentation de sensibilité pour augmenter la sensibilité de détection du détecteur PIR. Pour augmenter la sensibilité de détection, connectez le cavalier (JP3) ou le mettre en position ON (par défaut pour les modèles avec immunité animaux). Pour maintenir une sensibilité normale, déconnectez le cavalier (JP3) ou le mettre en position OFF (par défaut pour les modèles sans immunité animaux).
 
-* _**Augmentation de la sensibilité**_\
-  Vous pouvez utiliser la fonction d’augmentation de sensibilité pour augmenter la sensibilité de détection du détecteur PIR. Pour augmenter la sensibilité de détection, connectez le cavalier (JP3) ou le mettre en position ON (par défaut pour les modèles avec immunité animaux). Pour maintenir une sensibilité normale, déconnectez le cavalier (JP3) ou le mettre en position OFF (par défaut pour les modèles sans immunité animaux).
+#### _<mark style="background-color:green;">**- Mode test**</mark>_
 
+Le détecteur  PIR peut être mis en mode Test en appuyant sur le bouton test. En mode Test, il désactivera la mise en veille et permettra au voyant LED de clignoter à chaque fois qu'un mouvement est détecté. Chaque fois que vous appuyez sur le bouton de test, le détecteur PIR transmettra un signal de test à la centrale pour un test de portée radio et entrera en mode test pendant 3 minutes. Le mode test expirera après 3 minutes.
 
+#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
 
-* _**Mode test**_\
-  Le détecteur  PIR peut être mis en mode Test en appuyant sur le bouton test. En mode Test, il désactivera la mise en veille et permettra au voyant LED de clignoter à chaque fois qu'un mouvement est détecté. Chaque fois que vous appuyez sur le bouton de test, le détecteur PIR transmettra un signal de test à la centrale pour un test de portée radio et entrera en mode test pendant 3 minutes. Le mode test expirera après 3 minutes.
+En mode de fonctionnement normal, le voyant LED s'allume dans les situations suivantes (pour les modèles F1, le voyant clignote à la place) :\
+\- Lorsqu'un mouvement est détecté dans des conditions de batterie faible.\
+\- Lorsque le couvercle est ouvert et que l'autoprotection est déclenchée.\
+\- Lorsqu'un mouvement est détecté si la condition d'autoprotection persiste.\
+\- Lorsqu'un mouvement est détecté en mode test.\
+\- Lorsque le bouton de test est enfoncé dans des conditions d'autoprotection ou si le détecteur PIR détecte une batterie faible.
 
-
-
-* _**Voyant LED**_\
-  En mode de fonctionnement normal, le voyant LED s'allume dans les situations suivantes (pour les modèles F1, le voyant clignote à la place) :\
-  \- Lorsqu'un mouvement est détecté dans des conditions de batterie faible.\
-  \- Lorsque le couvercle est ouvert et que l'autoprotection est déclenchée.\
-  \- Lorsqu'un mouvement est détecté si la condition d'autoprotection persiste.\
-  \- Lorsqu'un mouvement est détecté en mode test.\
-  \- Lorsque le bouton de test est enfoncé dans des conditions d'autoprotection ou si le détecteur PIR détecte une batterie faible.
-
-
-
-### _**Batterie**_
+#### _<mark style="background-color:green;">**- Batterie**</mark>_
 
 Le détecteur PIR de la série IR-29 utilise des piles alcalines ou lithium comme source d'alimentation :\
 \- Les modèles alimentés par des piles alcalines utilisent deux piles alcalines AA de 1,5 V.\
@@ -83,13 +78,16 @@ Le détecteur PIR de la série IR-29 utilise des piles alcalines ou lithium comm
 \
 Le détecteur PIR dispose d'une fonction de détection de batterie faible. Si une faible tension de batterie est détectée, un signal de batterie faible sera envoyé à la centrale avec des transmissions régulières pour que la centrale affiche l'état en conséquence.\
 \
-Pour chaque installation, la batterie est installée en usine avant expédition avec un isolant inséré.\
-\
+Pour chaque installation, la batterie est installée en usine avant expédition avec un isolant inséré.
+
+{% hint style="info" %}
+NOTE:\
 Lors du changement des piles, après avoir retiré les anciennes piles, appuyez deux fois sur l'autoprotection pour décharger complètement avant d'insérer de nouvelles piles.
+{% endhint %}
 
 
 
-### _**Démarrage**_
+### _<mark style="background-color:yellow;">**Démarrage**</mark>_
 
 _**-**_ Retirez l'isolant de la batterie pour activer la batterie.\
 \- Le voyant LED clignote pendant 30 secondes (le détecteur PIR démarre). Pendant la période de démarrage, le détecteur PIR ne sera pas actif. Une fois la période de démarrage terminée, le voyant LED s'éteindra et le PIR sera prêt à fonctionner.\
@@ -101,7 +99,7 @@ _**-**_ Retirez l'isolant de la batterie pour activer la batterie.\
 
 
 
-### _**Montage**_
+### _<mark style="background-color:yellow;">**Type d'installation**</mark>_
 
 _**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coin avec les vis de fixation et les chevilles fournies.\
 \- La base dispose de découpes où le plastique est plus fin pour l'installation. Deux découpes sont destinées à une pose en applique et quatre sont destinées à une pose en angle,  comme indiqué sur l'image.\
@@ -127,7 +125,7 @@ _**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coi
   4\. Vissez la base dans les chevilles murales.\
   5\. Installez le couvercle sur la base et serrez.
 
-<figure><img src=".gitbook/assets/3 (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (5) (1).png" alt="" width="107"><figcaption></figcaption></figure>
 
 
 
@@ -141,7 +139,7 @@ _**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coi
     \
 
 
-    <figure><img src=".gitbook/assets/4 (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/4 (5) (1).png" alt="" width="97"><figcaption></figcaption></figure>
 * **Installation avec adhésif**\
   1\. L'emplacement doit être propre, sec et lisse. Nettoyer l'emplacement avec un dégraissant adapté si nécessaire.\
   2\. Deux pastilles adhésives double face sont fixées sur le support triangulaire avant expédition.\
@@ -162,16 +160,14 @@ _**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coi
 
 
 
-### _**Installation**_
+### _<mark style="background-color:yellow;">**Installation**</mark>_
 
 _**-**_ Décidez de l'emplacement du détecteur PIR et s'il doit être monté en angle ou en applique.\
 \- Une fois l'emplacement d'installation sélectionné, suivez les étapes décrites ci-dessus pour installer le détecteur PIR.\
 \- Appuyez sur le bouton test pour démarrer le mode test. Parcourez la zone protégée en vérifiant la LED s'allume et vérifiez que la couverture de détection est adéquate.\
 \- Lorsque la couverture de détection s'avère satisfaisante, l'installation est désormais terminée.
 
-
-
-### _**Recommandations d'installation**_
+#### _<mark style="background-color:green;">**Recommandations d'installatio**</mark>**n**_
 
 Le détecteur PIR est conçu pour offrir une portée de détection de 12 mètres lorsqu'il est installé à 2 mètres de haut.\
 Pour la série avec immunité animaux, il offre une portée d'immunité de 7 mètres lorsqu'il est installé à 1,9-2,0m de haut. S'il est installé plus haut, la portée de l'immunité animaux sera plus grande.\
@@ -184,27 +180,27 @@ Pour tirer pleinement parti du détecteur PIR, les directives suivantes doivent 
 
 ![](<.gitbook/assets/6 (7).png>)
 
-* **NOTES:**\
-  **-** Pour obtenir de meilleures performances avec la série disposant de l'immunité animaux, n'oubliez pas d'ajuster la hauteur de pose du détecteur PIR par rapport à la hauteur de l'animal le plus grand de la maison. Les animaux de compagnie plus grands que la moyenne peuvent nécessiter que le détecteur PIR soit monté plus haut pour l'immunité animaux.\
-  \- Lorsque vous décidez de la hauteur de pose du détecteur PIR, n'oubliez pas de prendre en compte l'éventuel angle mort. L'angle mort sous le détecteur PIR s'agrandit proportionnellement en fonction de la hauteur de pose.\
-  \- Veuillez noter que les performances sont affectées par des facteurs externes, tels que la hauteur de l'objet détecté, la plage de détection souhaitée, la zone d'installation… etc. La hauteur de montage suggérée peut être ajustée en fonction des facteurs réels de l'environnement d'installation.\
-  \- Lorsque le détecteur PIR est installé avec un support articulé, il n'aura pas la zone de détection normale (comme dans le diagramme ci-dessus) ni la plage d'immunité animaux classique.
+{% hint style="warning" %}
+NOTES:
 
-
-
+* Pour obtenir de meilleures performances avec la série disposant de l'immunité animaux, n'oubliez pas d'ajuster la hauteur de pose du détecteur PIR par rapport à la hauteur de l'animal le plus grand de la maison. Les animaux de compagnie plus grands que la moyenne peuvent nécessiter que le détecteur PIR soit monté plus haut pour l'immunité animaux.
+* Lorsque vous décidez de la hauteur de pose du détecteur PIR, n'oubliez pas de prendre en compte l'éventuel angle mort. L'angle mort sous le détecteur PIR s'agrandit proportionnellement en fonction de la hauteur de pose.
+* Veuillez noter que les performances sont affectées par des facteurs externes, tels que la hauteur de l'objet détecté, la plage de détection souhaitée, la zone d'installation… etc. La hauteur de montage suggérée peut être ajustée en fonction des facteurs réels de l'environnement d'installation.
+* Lorsque le détecteur PIR est installé avec un support articulé, il n'aura pas la zone de détection normale (comme dans le diagramme ci-dessus) ni la plage d'immunité animaux classique.
 * Installez le détecteur PIR là où les animaux ne peuvent pas accéder à la zone de détection en grimpant sur des meubles ou d'autres objets.
 * Ne dirigez pas le détecteur vers des escaliers où lesquels les animaux peuvent monter.
 * Dans une position telle qu’un intrus se déplacerait normalement d’un côté à l’autre du champ de détection du PIR.
 * Dans un angle pour une scène plus large.
 * Où son champ de vision ne sera pas obstrué, par ex. par des rideaux, des ornements, etc.
+{% endhint %}
 
+{% hint style="danger" %}
+Limites:
 
-
-### **Limites**
-
-**-** Ne positionnez pas un détecteur PIR directement vers une porte protégée par un détecteur d'ouverture, cela pourrait provoquer la transmission des signaux radio du contact de porte et du PIR au même instant lors de l'entrée, s'annulant mutuellement.\
-\- N'installez pas le PIR complètement exposé à la lumière directe du soleil.\
-\- Évitez d'installer le PIR dans des zones où les appareils peuvent provoquer un changement rapide de température dans la zone de détection, c'est-à-dire un climatiseur, un chauffage, etc.\
-\- Évitez les gros obstacles dans la zone de détection.\
-\- Ne pas pointer directement vers des sources de chaleur, par ex. feux ou chaudières, et pas au-dessus des radiateurs.\
-\- Évitez de déplacer des objets dans la zone de détection, par exemple un rideau, une tenture murale, etc.
+* Ne positionnez pas un détecteur PIR directement vers une porte protégée par un détecteur d'ouverture, cela pourrait provoquer la transmission des signaux radio du contact de porte et du PIR au même instant lors de l'entrée, s'annulant mutuellement.
+* N'installez pas le PIR complètement exposé à la lumière directe du soleil.
+* Évitez d'installer le PIR dans des zones où les appareils peuvent provoquer un changement rapide de température dans la zone de détection, c'est-à-dire un climatiseur, un chauffage, etc.
+* Évitez les gros obstacles dans la zone de détection.
+* Ne pas pointer directement vers des sources de chaleur, par ex. feux ou chaudières, et pas au-dessus des radiateurs.
+* Évitez de déplacer des objets dans la zone de détection, par exemple un rideau, une tenture murale, etc.
+{% endhint %}

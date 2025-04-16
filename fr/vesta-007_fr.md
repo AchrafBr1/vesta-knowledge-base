@@ -121,7 +121,7 @@ Suivez les instructions ci-dessous pour modifier la partitions d'un PIRCAM dans 
 
 
 
-### <mark style="background-color:yellow;">**Installation**</mark>
+### _<mark style="background-color:yellow;">**Installation**</mark>_
 
 #### _<mark style="background-color:green;">**Guide d'installation**</mark>_
 
@@ -154,7 +154,8 @@ _**-**_ Le PIRCAM est conçu pour être monté sur une surface plane ou dans un 
 
 #### _<mark style="background-color:green;">**Montage du PIRCAM**</mark>_
 
-![852 r3 knockouts](<.gitbook/assets/6 (2) (1).jpeg>)\
+<figure><img src=".gitbook/assets/pir.jpeg" alt="" width="198"><figcaption></figcaption></figure>
+
 \- Le PIR est conçu pour être monté sur une surface plane ou dans un angle avec les vis de fixation et les chevilles fournies.\
 \- Pour le montage en angle, un support triangulaire est fourni pour ajouter une autoprotection arrière. Le support comprend également deux emplacements de fixation.\
 \- Pour le montage en applique, un support articulé en option est disponible pour permettre aux utilisateurs d'ajuster la plage de détection. Grâce au support articulé, le PIRCAM peut pivoter de 80° horizontalement et de 70° verticalement pour offrir une couverture optimale.
