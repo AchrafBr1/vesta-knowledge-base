@@ -49,6 +49,7 @@ The Video Door Phone has built-in Blue and Red LEDs to indicate device status.
 
 **\*Note:** It takes about 1 minute for VDP to connect to Wi-Fi after power on. Before the Wi-Fi connection is established, the Red LED may flash momentarily.
 
+{% hint style="success" %}
 ## To restore factory settings:
 
 1. Unplug the VDP's power supply.
@@ -56,6 +57,7 @@ The Video Door Phone has built-in Blue and Red LEDs to indicate device status.
 3. Release the function button.
 4. The VDP will restart automatically.
 5. Once restarted, the blue LED will begin blinking to indicate that the device is now in Configuration mode.
+{% endhint %}
 
 <figure><img src=".gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
