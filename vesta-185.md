@@ -1,6 +1,8 @@
 # VESTA-185
 
-## **LMHT-1ZBS Ambient Light, Humidity and Temperature Sensor**
+**LMHT-1ZBS**&#x20;
+
+## **Ambient Light, Humidity and Temperature Sensor**
 
 ## **Introduction**
 

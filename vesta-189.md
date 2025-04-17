@@ -1,8 +1,10 @@
-# VESTA 189
+# VESTA-189
 
-**TMST-15-ZBS Thermostat**
+**TMST-15-ZBS**&#x20;
 
-**Introduction**
+## **Thermostat**
+
+## **Introduction**
 
 TMST-15-ZBS is a battery powered ZigBee Thermostat. It is designed to be incorporated into household heating and cooling system for home environment control. The Thermostat can be operated manually using the LCD screen and buttons, or accessed remotely via ZigBee network. It features Cooling and Heating modes with temperature set point and automatic schedule for you to control your home environment easily.
 
@@ -16,7 +18,7 @@ TMST-15-ZBS
 
 TMST-15-ZBS-OTA
 
-**Parts Identification**
+## **Parts Identification**
 
 ![](<.gitbook/assets/0 (86).jpeg>)
 

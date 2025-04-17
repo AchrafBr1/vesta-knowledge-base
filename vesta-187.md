@@ -1,6 +1,8 @@
 # VESTA-187
 
-## **WSS-4E-ZBS Smart Scenario Switch**
+**WSS-4E-ZBS**
+
+## **Smart Scenario Switch**
 
 ## **Introduction**
 

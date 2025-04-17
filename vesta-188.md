@@ -1,6 +1,8 @@
 # VESTA-188
 
-## **UPIC-5ZBS Infrared Universal Remote Control**
+**UPIC-5ZBS**&#x20;
+
+## **Infrared Universal Remote Control**
 
 ## **Introduction**
 
@@ -55,7 +57,7 @@ Jumper ON –IR Transmission power set to High.
 
 Jumper OFF – Deselected.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **IMPORTANT NOTE:**&#x20;
 
 **JP1 and JP2 jumper CANNOT be set to ON at the same time**
@@ -354,7 +356,7 @@ You can use this attribute to program which LEDs should be activated for differe
 
 _**IMPORTANT NOTE:**_
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Although it is possible to set multiple LED transmission when sending IR Signal, please set **NO MORE THAN 2** LEDs to be activated. The reason for such limitation is that for each extra LED activated, the power consumption will increase dramatically. If you activate more than 2 LEDs, the battery will be depleted in a much shorter time than is ideal.
 {% endhint %}
 

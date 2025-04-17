@@ -1,6 +1,8 @@
 # VESTA-186
 
-## **PSS-29ZBS(R) / PSM-29ZBS(R) Power Switch Series**
+**PSS-29ZBS(R) / PSM-29ZBS(R)**&#x20;
+
+## **Power Switch Series**
 
 ## **Introduction**
 
@@ -110,7 +112,7 @@ The Power Switch models with Router function allow other ZigBee devices to join 
 
 Plug the Power Switch into a power outlet, then Plug the appliance into the socket of the Power Switch. The appliance must be in ON status.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 _**IMPORTANT NOTE**_**:** The Power Switch does not have a backup battery and will be powered down when AC power fails. **DO NOT** use the Power Switch as router for your security sensor or alarm control devices such as Door Contact, PIR Sensor…etc., otherwise the sensors will lose connection to ZigBee network if the Power Switch is disconnected from AC power. Plan the installation locations of these security sensors without using the Power Switch and only use a router with backup battery for them. The router function of the Power Switch should **ONLY** be used to provide signal range extension for other Power Switches/Dimmer
 {% endhint %}
 
