@@ -1,6 +1,8 @@
 # VESTA-093
 
-**Pull Cord Unit&#x20;**<mark style="background-color:yellow;">**(PCU-3 / PCU-5)**</mark>
+<mark style="background-color:yellow;">**PCU-3 / PCU-5**</mark>
+
+## **Pull Cord Unit**&#x20;
 
 The Pull Cord Unit is used to activate an alarm when the cord is pulled. It can be quickly installed in easily accessible indoor locations for user to pull for emergency help.
 
@@ -52,13 +54,13 @@ Step 2. Open the upper cover of PCU by using the flat-headed screwdriver (**Pic 
 
 <figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20; **Lid                                                            (Pic 1.)** **(Pic 2.)**
+&#x20;                                                          **(Pic 1.)** **(Pic 2.)**
 
 Step 3. Loosen the two screws on the PCU base securing the stabilizer using a Philips screwdriver so that the stabilizer becomes mobile (**Pic 3.**) _It is not mandatory to entirely remove both screws_.
 
 <figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Stabilizer, Screw, Screw                                                       (Pic 3.)**
+&#x20;                                                                                                    **(Pic 3.)**
 
 
 
@@ -76,15 +78,15 @@ Step 7. Replace the upper cover, make sure the latches on the stabilizer is expo
 
 Step 8. Replace the lid. Please match the PCU LED with LED mark behind the lid and match the latches accordingly when replacing (Pic 7.).
 
-**Latches**    &#x20;
+&#x20; &#x20;
 
 <figure><img src=".gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                                               **(Pic 6.)**             &#x20;
 
-![](<.gitbook/assets/13 (27).png>)
+&#x20;                                         **LED** **LED Mark**                                                                                    &#x20;
 
-**LED,** **LED Mark                                                             (Pic 7.)**                                                                                    &#x20;
+![  (Pic 7.)](<.gitbook/assets/13 (27).png>)
 
 ### **Cord Installation**
 

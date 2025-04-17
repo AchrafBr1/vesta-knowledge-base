@@ -1,6 +1,8 @@
 # VESTA-082
 
-**WADC-1** **Wandering Prevention Door Contact**
+**WADC-1**
+
+## **Wandering Prevention Door Contact**
 
 WADC-1 is a door contact that combines PIR sensors to monitor openings of the door and detect the movements around it. Designed especially for those who are suffering from dementia and prone to wander, WADC-1 will transmit signals to the control panel to notify the caregiver when the user opens the door, moving from inside of the room to the outside.
 
@@ -114,9 +116,13 @@ You can use the sensitivity increaser function to increase the PIR sensors’ de
 
 You can use the Jumper Switch (JP4) to decide whether to recognize the device as a single sensor or multiple sensors after the device is learned into the Control Panel. If the Jumper Switch (JP4) is set to ON, WADC-1 will be recognized as 1 sensor. Whenever a movement is detected, the LED will flash. If the Jumper Switch is set to OFF, WADC-1 will be recognized as 3 separate sensors (PIR Zone 1 Sensor, PIR Zone 2 Sensor, and the Door Contact).&#x20;
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
 Everytime before chaning the setting of JP4, ensure to remove the battery first. Press the Test Button for several times, change to desired jumper setting, and insert the battery back. The changes will be effective after battery power is provided to the device.
+{% endhint %}
+
+
 
 ## _**Door Open Direction Detection (JP5)**_
 
@@ -188,10 +194,13 @@ In Normal operation mode, the LED Indicators will flash in the following situati
 2. Remove the liner from one side of the double-sided adhesive tape. Apply the adhesive tape to the back of the device and press firmly for 30 seconds to ensure good adhesion.
 3. Remove the other liner and firmly press the Door Contact onto the desired location for 30 seconds.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Do not use the adhesive tape installation on a surface with peeling or cracked paint, or on a rough surface.
-* Please do not re-apply the 3M adhesive tape. It cannot be reused
+Do not use the adhesive tape installation on a surface with peeling or cracked paint, or on a rough surface.
+
+Please do not re-apply the 3M adhesive tape. It cannot be reused
+{% endhint %}
 
 ### **Screw Mounting**
 

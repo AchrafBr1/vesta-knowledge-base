@@ -1,8 +1,8 @@
 # VESTA-078
 
-**Emergency Pendant/Wrist Transmitter**
-
 **(WTRS/WTRS2 Series)**
+
+## **Emergency Pendant/Wrist Transmitter**
 
 _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 
@@ -31,9 +31,11 @@ The Transmitter uses one CR2032 3V Lithium battery as its power source.
 
 Every time the Active Button is pressed, the Wrist Transmitter will check the battery voltage. If low battery status is detected 3 times in a row, the Wrist Transmitter will transmit Low Battery signal along with regular signal every time the button is pressed.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* A 30-second interval is required between each Active Button press to check the battery voltage again.
+A 30-second interval is required between each Active Button press to check the battery voltage again.
+{% endhint %}
 
 ## _**Auto Low Battery Detection**_
 

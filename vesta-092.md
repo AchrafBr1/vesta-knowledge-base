@@ -1,6 +1,8 @@
 # VESTA-092
 
-**VRCP-DECT** **Voice Extender**
+**VRCP-DECT**
+
+## &#x20;**Voice Extender**
 
 VRCP-DECT is a Voice Extender that enables users to summon emergency help with voice recognition command or a single button press. VRCP-DECT has built-in voice recognition and can activate an emergency call to CMS by preset vocal commands or keywords. It is suitable for senior and medical care, multi-storied homes, and larger premises.
 
@@ -57,11 +59,7 @@ The Voice Extender can be powered by either AC power or battery.
 * The voice recognition function has three sensitivity levels: high, medium, low. When sensitivity level is set to high, VRCP-DECT will most easily detect keyword/command and trigger alarm.
 * Please use a sharp tool to adjust the DIP Switch positions to set sensitivity level.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure></div>
 
 | DIP      | DIP     | Search (Sensitivity Level) |
 | -------- | ------- | -------------------------- |
@@ -70,9 +68,11 @@ The Voice Extender can be powered by either AC power or battery.
 | ON       | OFF     | Medium                     |
 | OFF      | ON      | High                       |
 
-_**\<NOTE>**_
+{% hint style="warning" %}
+Note:
 
-* After Dip Switch settings are changed, please disconnect power supply (both external power supply and batteries must be removed) and then re-connect power to VRCP-DECT. VRCP-DECT will operate with new sensitivity setting after re-powered on.
+After Dip Switch settings are changed, please disconnect power supply (both external power supply and batteries must be removed) and then re-connect power to VRCP-DECT. VRCP-DECT will operate with new sensitivity setting after re-powered on.
+{% endhint %}
 
 ## _**Learning Procedures:**_
 
@@ -86,9 +86,11 @@ Step 4.VRCP-DECT will emit two beeps to indicate successful learning upon receiv
 
 Step 5. Click “Add” on webpage to include selected device into panel.
 
-_**\<NOTE>**_
+{% hint style="warning" %}
+Note:
 
-* If VRCP-DECT does not receive acknowledgement from the Control Panel during the 30-second learning mode, it will emit one low-tone beep to indicate that learning has failed and exit learning mode. The Green LED will turn off, and the Red LED will turn on. Please perform the learning steps again.
+If VRCP-DECT does not receive acknowledgement from the Control Panel during the 30-second learning mode, it will emit one low-tone beep to indicate that learning has failed and exit learning mode. The Green LED will turn off, and the Red LED will turn on. Please perform the learning steps again.
+{% endhint %}
 
 ## _**Operation:**_
 
@@ -108,22 +110,31 @@ _**\<NOTE>**_
 
 ![](<.gitbook/assets/4 (57).png>)
 
-_**\<NOTE>**_
+{% hint style="warning" %}
+Note:
 
-* When the Callback option is enabled on the Control Panel, Green LED will stay on, after the call has been terminated. Green LED will turn off when the Callback timer has ended. Please refer to Control Panel manual for more details on Callback feature.
-* When the VRCP-DECT cancel function is enabled on the Control Panel, pressing the button on VRCP-DECT will end 2-way communication. When the VRCP-DECT cancel function is disabled, pressing the button on VRCP-DECT will not end 2-way communication.
-* To ensure voice recognition accuracy, please avoid installing VRCP-DECT in a large or noisy room.
-* The ideal environment for voice recognition is silence or partial silence. If you call out the vocal command with normal voice, please speak within 2 meters of VRCP-DECT to ensure alarm trigger.
-* The voice recognition function has three sensitivity levels. You may test with them and select the level that best suits your mounting location.
+When the Callback option is enabled on the Control Panel, Green LED will stay on, after the call has been terminated. Green LED will turn off when the Callback timer has ended. Please refer to Control Panel manual for more details on Callback feature.
+
+When the VRCP-DECT cancel function is enabled on the Control Panel, pressing the button on VRCP-DECT will end 2-way communication. When the VRCP-DECT cancel function is disabled, pressing the button on VRCP-DECT will not end 2-way communication.
+
+To ensure voice recognition accuracy, please avoid installing VRCP-DECT in a large or noisy room.
+
+The ideal environment for voice recognition is silence or partial silence. If you call out the vocal command with normal voice, please speak within 2 meters of VRCP-DECT to ensure alarm trigger.
+
+The voice recognition function has three sensitivity levels. You may test with them and select the level that best suits your mounting location.
+{% endhint %}
 
 ## **Alarm Report triggered by other devices**
 
 * When an alarm is triggered by a device learned in the Control Panel, and “808RV” is selected for Two-Way On function on that Device webpage, a Two-Way communication will be automatically started with VRCP-DECT without any button press.
 
-_**\<NOTE>**_
+{% hint style="warning" %}
+Note:
 
-* This function of automatically picking up call and opening two-way communication is only available when AC power is connected to VRCP-DECT.
-* If AC power is disconnected from VRCP-DECT, DECT will be turned off, VRCP-DECT will not be able to pick up call, and two-way communication will be started with GX instead.
+This function of automatically picking up call and opening two-way communication is only available when AC power is connected to VRCP-DECT.
+
+If AC power is disconnected from VRCP-DECT, DECT will be turned off, VRCP-DECT will not be able to pick up call, and two-way communication will be started with GX instead.
+{% endhint %}
 
 ![](<.gitbook/assets/5 (58).png>)
 

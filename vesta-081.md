@@ -1,6 +1,8 @@
 # VESTA-081
 
-**Voice Reach Talking Pendant (WTRVS-15-FS)**
+**WTRVS-15-FS**
+
+## **Voice Reach Talking Pendant**&#x20;
 
 WTRVS-15-FS is a small and lightweight Voice Reach Talking Pendant with a built-in fall sensor. The pendant allows immediate post-alarm voice follow up after an emergency call or fall detection. With a simple press of the button or after a fall detection, it can open two-way voice communication channel between the user and the Central Monitoring Station.
 

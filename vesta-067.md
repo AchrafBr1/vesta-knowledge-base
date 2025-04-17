@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # VESTA 067
 
 ![](<.gitbook/assets/0 (131).jpeg>)

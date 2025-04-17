@@ -2,7 +2,7 @@
 description: Manual for VESTA BOGP-type panels (VESTA-068N and VESTA-067)
 ---
 
-# VESTA 068N
+# VESTA-068N
 
 ## Introduction: Manual for Autonomous BOGP Type Panels
 
@@ -237,3 +237,6 @@ Step 2: Program the email provided by central monitoring station in "Captured fi
 **IMPORTANT:** If you use IP cameras integrated with VESTA, you have to lower the camera resolution to 2MP or lower for proper operation.
 {% endhint %}
 
+## PANEL INSTALLER MANUAL
+
+{% file src=".gitbook/assets/EN_VESTA-068N_manual_rev2.0.pdf" %}

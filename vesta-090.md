@@ -1,6 +1,8 @@
 # VESTA-090
 
-**Care Watch (CW-1)**
+**CW-1**
+
+## **Care Watch**
 
 <div align="left"><figure><img src=".gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -29,9 +31,11 @@ The RF transmitter uses a CR2016 3V Lithium battery as its power source, while t
 
 Every time the Active Button is pressed, the Care Watch will check the battery voltage. If low battery is detected for 3 times successively, the Care Watch will enter low battery status and transmit Low Battery signal along with regular signal every time the button is pressed.
 
-_\<NOTE>_
+{% hint style="info" %}
+Note:
 
-* A 30-second interval is required between each Active Button press to check the battery voltage again.
+A 30-second interval is required between each Active Button press to check the battery voltage again.
+{% endhint %}
 
 ## _**Auto Low Battery Detection**_
 

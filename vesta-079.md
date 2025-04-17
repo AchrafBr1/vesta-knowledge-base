@@ -1,6 +1,8 @@
 # VESTA-079
 
-**Jewelry Necklace Pendant (JLPD)**
+**JLPD**
+
+## **Jewelry Necklace Pendant**
 
 Elegant and compact, the Jewelry Necklace Pendant is designed to be worn by seniors as they move on the premises. When an emergency arises, the user can summon help with one simple button press.
 
@@ -25,9 +27,11 @@ The Pendant uses one CR2032 3V Lithium battery as its power source.
 
 Every time the Active Button is pressed, the Pendant will check the battery voltage. If low battery is detected for 3 times successively, the Pendant will enter low battery status and transmit Low Battery signal along with regular signal every time the button is pressed.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* A 30-second interval is required between each Active Button press to check the battery voltage again.
+A 30-second interval is required between each Active Button press to check the battery voltage again.
+{% endhint %}
 
 ## _**Auto Low Battery Detection**_
 

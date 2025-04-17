@@ -1,6 +1,8 @@
 # VESTA-085
 
-**Slim Door Contact (SDC-1) User Manual**
+**SDC-1**
+
+## **Slim Door Contact**
 
 The Slim Door Contact monitors the opening/closing of specified devices (e.g., doors or windows). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch and causing the Door Contact to transmit an alarm signal to the Control Panel. The Door Contact also has the capability of communicating signal problems along with low battery situations.
 
@@ -41,9 +43,11 @@ In Normal operation mode, the LED indicator remains off except in the following 
 * The Door Contact uses a Lithium Manganese Dioxide (Li/MnO2) battery pack as its power source.
 * The Door Contact is also capable of detecting low battery condition. When the battery is low, a low battery signal will be sent to the Control Panel along with regular signal transmission. The LED will light up when the Door Contact is activated under low battery status.
 
-_\<NOTE>_
+{% hint style="info" %}
+Note:
 
-* The pre-inserted battery in the Slim Door Contact cannot be replaced or switched out.
+The pre-inserted battery in the Slim Door Contact cannot be replaced or switched out.
+{% endhint %}
 
 ### _**Test Mode**_
 
@@ -76,11 +80,7 @@ the desired location, and press the Learn/Test button to confirm if this locatio
 
 **Step 2:** <mark style="background-color:blue;">Remove the tape liner from the adhesive tape on the back of the Door Contact.</mark>
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure></div>
 
 **Step 3:** Apply the Door Contact to the mounting surface (i.e., the door frame or window frame) <mark style="background-color:blue;">and press firmly for 30 seconds to ensure good adhesion.</mark>
 
@@ -88,16 +88,15 @@ the desired location, and press the Learn/Test button to confirm if this locatio
 
 **Step 5.** Apply the magnet on a mobile object, i.e., the door or window, <mark style="background-color:blue;">and press firmly for 30 seconds to ensure good adhesion.</mark> The magnet must be aligned with the magnet detection area of the Door Contact (Please refer to Magnet Scope Positioning below).
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* <mark style="background-color:blue;">Do not apply the 3M adhesive tape on a surface with peeling or cracked paint, or on a rough surface.</mark>
-* <mark style="background-color:blue;">The 3M adhesive tape cannot be reused.</mark>
+<mark style="background-color:blue;">Do not apply the 3M adhesive tape on a surface with peeling or cracked paint, or on a rough surface.</mark>
 
-<div align="left">
+<mark style="background-color:blue;">The 3M adhesive tape cannot be reused.</mark>
+{% endhint %}
 
-<figure><img src=".gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure></div>
 
 * _**Magnet Scope Positioning**_
   * The area near the Learn/Test Button of the Door Contact is the main **magnet detection area.**
