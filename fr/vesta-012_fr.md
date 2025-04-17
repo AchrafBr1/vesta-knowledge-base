@@ -2,19 +2,15 @@
 
 **KPT-39N**
 
+## <mark style="color:green;">**Clavier avec lecteur RFID**</mark>
 
-
-## **Clavier avec lecteur RFID**
-
-
-
-### **GUIDE RAPIDE**
+### <mark style="color:red;">**GUIDE RAPIDE**</mark>
 
 <figure><img src=".gitbook/assets/VESTA-012N[1].jpg" alt="" width="225"><figcaption><p>VESTA-012 - KPT-39N-F1</p></figcaption></figure>
 
 **Pour ajouter un clavier dans une centrale VESTA :**\
-Étape 0 : Mettre la centrale en **Mode apprentissage.**\
-Étape 1 : Appuyez sur les touches **\*** et **#** pendant 3 secondes pour envoyer le code d'apprentissage à la centrale.
+<mark style="color:orange;">**Étape 1:**</mark> Mettre la centrale en **Mode apprentissage.**\
+<mark style="color:orange;">**Étape 2:**</mark> Appuyez sur les touches **\*** et **#** pendant 3 secondes pour envoyer le code d'apprentissage à la centrale.
 
 \[❓] Comment mettre la centrale en mode apprentissage à partir de **SmartHomeSec**
 
@@ -26,9 +22,7 @@ EN50131 Niveau 2, Classe II
 
 
 
-
-
-### _**Identification**_
+### _<mark style="background-color:yellow;">**Identification**</mark>_
 
 ![](<.gitbook/assets/0 (6) (1).png>)
 
@@ -55,15 +49,16 @@ EN50131 Niveau 2, Classe II
 14. Fixations
 15. Badge
 
-_NOTE:_\
-\- Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.\
-\- 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
+{% hint style="info" %}
+NOTE:
+
+* Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.
+* 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
+{% endhint %}
 
 
 
-
-
-### _**Voyant LED**_
+### _<mark style="background-color:yellow;">**Voyant LED**</mark>_
 
 * **LED Alimentation (verte) :**
   * Allumée pendant 5 secondes: saisie correcte.
@@ -79,9 +74,7 @@ _NOTE:_\
 
 
 
-
-
-### _**Fonctionnement général**_
+### _<mark style="background-color:yellow;">**Fonctionnement général**</mark>_
 
 * Entrez en mode test - Saisir le code du clavier, puis appuyez sur la touche **＊**.
 * Alarme Panique - Appuyez sur les touches **1** et **3** simultanément (si la fonction est activée)
@@ -90,43 +83,29 @@ _NOTE:_\
 * Vérifier l'état de la centrale - En mode normal appuyez sur la touche **#**.
 * Activer/Désactiver les bips d'entrée/sortie — Appuyez sur les touches **1** et **2** simultanement pendant 2 secondes (le clavier émettra un bip long pour indiquer que la fonction est activée et émettra 2 bips courts pour indiquer que la fonction est désactivée).
 
-
-
-
-
-_**Alimentation**_
+#### _<mark style="background-color:green;">**- Alimentation**</mark>_
 
 * Le clavier utilise une pile lithium CR123 3 V comme source d'alimentation.
 * Le clavier peut également détecter l'état de la batterie. Si la tension de la batterie est faible, la LED Alimentation clignote pendant 5 secondes pendant le fonctionnement. Le signal de batterie faible sera envoyé à la centrale.
 * La batterie est préinstallée en usine.
 * Lors du changement de batterie, appuyez plusieurs fois sur n'importe quelle touche avant d'insérer une nouvelle batterie.
 
-
-
-
-
-_**Mise en veille**_
+#### _<mark style="background-color:green;">**- Mise en veille**</mark>_
 
 * Lorsqu'il est inactif, le clavier est en **veille** et ne consomme pas d'énergie. Il s'activera pendant 5 secondes lorsqu'une touche sera utilisée.
 * Après 5 secondes d'inactivité, le clavier revient en mode **veille**.
 
-
-
-
-
-_**Autoprotection**_
+#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
 
 * Le clavier est protégé contre toute tentative d'ouverture du couvercle ou d'arrachement de sa surface d'installation.
 * L'autoprotection est désactivée lorsqu'il est en mode test.
 
 
 
+### _<mark style="background-color:yellow;">**Démarrage**</mark>_
 
-
-### _**Démarrage**_
-
-Étape 1. Mettez la centrale en mode apprentissage.\
-Étape 2. Ajout d'un clavier à la centrale
+<mark style="color:orange;">**Étape 1.**</mark> Mettez la centrale en mode apprentissage.\
+<mark style="color:orange;">**Étape 2.**</mark> Ajout d'un clavier à la centrale
 
 * **Mode Test :**
   1. Mettez le clavier en Mode Test en saisissant le code (par défaut :**0000**), puis appuyez la touch&#x65;**＊**. Les trois touches <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-fe25c9957403e3c10f8e9d28f99d7d324e84ba0f%252F10%2520%2813%29.png%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=bf585e9e&#x26;sv=2" alt="" data-size="line"><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-cf49690b317e6f3fb07c55fd84d849931f4c4cae%252F11%2520%289%29.jpeg%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=b5350c2d&#x26;sv=2" alt="" data-size="line"> s'allumeront avec un long bip.
@@ -143,76 +122,80 @@ _**Autoprotection**_
   7. Appuyez sur les touches **＊** et **8** - Activez la fonction armement sans code.\
      &#xNAN;_(Prière de se référer à "**Armement sans code utilisateur"** pour plus de détails)._
   8. Appuyez sur les touches **＊** et **9** - Activez la fonction armement avec code (par défaut).\
-     &#xNAN;_(Prière de se référer à "**Armement avec code utilisateur"** pour plus de détails)._\
-     \
-     _NOTE:_\
-     _-_ Si le clavier n'a pas émis de bip long, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **＊** puis **7** à nouveau pour renvoyer le code d'apprentissage.\
-     \- Si la centrale reçoit le code d'apprentissage, elle affichera les informations en conséquence. Reportez-vous au manuel d'utilisation de votre centrale pour terminer le processus d'apprentissage.\
-     \- Une fois que la centrale a reçu le signal du clavier, elle enverra un accusé de réception au clavier. Le clavier émettra alors 3 bips pour confirmer que l'accusé de réception a été reçu. Si le clavier n'émet pas 3 bips, veuillez redémarrer la procédure d'apprentissage.
+     &#xNAN;_(Prière de se référer à "**Armement avec code utilisateur"** pour plus de détails)._
 
-Étape 3. Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **\*** et **7** en Mode Test ou appuyez sur les touches **#** et **\*** simultanément en mode normal.\
-Étape 4. Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**). Étape 5. Appuyez sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F2MnHDzRPaVSuKYygr5PA%252Fimage.png%3Falt%3Dmedia%26token%3D5dbcd3d4-6f70-4fdf-9c3b-671ede8ec531&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=6a24b07d&#x26;sv=2" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l'installation est terminée. Le clavier émettra un long bip et les trois LED de mode système s'éteindront. Le clavier revient au mode de fonctionnement normal.\
-\
-&#xNAN;_&#x4E;OTE:_\
-Le clavier quittera automatiquement le mode test après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un long bip.
+{% hint style="info" %}
+NOTES:
+
+* Si le clavier n'a pas émis de bip long, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **＊** puis **7** à nouveau pour renvoyer le code d'apprentissage.
+* Si la centrale reçoit le code d'apprentissage, elle affichera les informations en conséquence. Reportez-vous au manuel d'utilisation de votre centrale pour terminer le processus d'apprentissage.
+* Une fois que la centrale a reçu le signal du clavier, elle enverra un accusé de réception au clavier. Le clavier émettra alors 3 bips pour confirmer que l'accusé de réception a été reçu. Si le clavier n'émet pas 3 bips, veuillez redémarrer la procédure d'apprentissage.
+{% endhint %}
+
+<mark style="color:orange;">**Étape 3.**</mark> Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **\*** et **7** en Mode Test ou appuyez sur les touches **#** et **\*** simultanément en mode normal.\
+<mark style="color:orange;">**Étape 4.**</mark> Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**).\
+<mark style="color:orange;">**Étape 5.**</mark> Appuyez sur la touche <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F2MnHDzRPaVSuKYygr5PA%252Fimage.png%3Falt%3Dmedia%26token%3D5dbcd3d4-6f70-4fdf-9c3b-671ede8ec531&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=6a24b07d&#x26;sv=2" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l'installation est terminée. Le clavier émettra un long bip et les trois LED de mode système s'éteindront. Le clavier revient au mode de fonctionnement normal.
+
+{% hint style="info" %}
+NOTE:\
+Le clavier quittera automatiquement le mode test après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un long bip
+{% endhint %}
 
 
 
-
-
-_**Procédures d'apprentissage/effacement/installation des badges**_
+### _<mark style="background-color:yellow;">**Procédures d'apprentissage/effacement/installation des badges**</mark>_
 
 NFC signifie Near Field Communication, qui est une technologie de communication sans fil qui établit une connexion entre deux appareils en les rapprochant. Vous pouvez stocker un code PIN utilisateur dans une étiquette NFC et utiliser l'étiquette NFC pour accéder au système d'alarme sans saisir de code PIN utilisateur sur le KPT-39N. Le clavier peut apprendre jusqu'à 100 étiquettes NFC avec jusqu'à 50 codes.\
-&#xNAN;_**A. Procédure d'apprentissage :**_\
-Étape 1. Activez le clavier pour passer en mode test. Saisissez le code du clavier (par défaut :**0000**) suivi de la touche ＊. Lors de la saisie du code, le **LED Alimentation (verte)** s'allumera. La **LED Alimentation** s'éteindra et un bip long sera audible.\
-Étape 2. Appuyez sur les touches **＊** puis **1** pour accéder au mode d'apprentissage des badges. La **LED Défaut (orange)** s'allumera et un bip long sera audible.\
-Étape 3. Saisir le nouveau code utilisateur suivi de la touche **#**. Le clavier émettra un long bip et la LED orange commencera à clignoter pendant 5 secondes pour indiquer qu'il est prêt à apprendre un badge.\
-Étape 4. Dans les 5 secondes, placez un badge à proximité de la zone de détection du clavier pour l'associer avec le code utilisateur que vous venez de saisir.
+&#xNAN;_<mark style="color:blue;">**A. Procédure d'apprentissage**</mark>**&#x20;:**_\
+<mark style="color:orange;">**Étape 1.**</mark> Activez le clavier pour passer en mode test. Saisissez le code du clavier (par défaut :**0000**) suivi de la touche ＊. Lors de la saisie du code, le **LED Alimentation (verte)** s'allumera. La **LED Alimentation** s'éteindra et un bip long sera audible.\
+<mark style="color:orange;">**Étape 2.**</mark> Appuyez sur les touches **＊** puis **1** pour accéder au mode d'apprentissage des badges. La **LED Défaut (orange)** s'allumera et un bip long sera audible.\
+<mark style="color:orange;">**Étape 3.**</mark> Saisir le nouveau code utilisateur suivi de la touche **#**. Le clavier émettra un long bip et la LED orange commencera à clignoter pendant 5 secondes pour indiquer qu'il est prêt à apprendre un badge.\
+<mark style="color:orange;">**Étape 4.**</mark> Dans les 5 secondes, placez un badge à proximité de la zone de détection du clavier pour l'associer avec le code utilisateur que vous venez de saisir.
 
 * Chaque badge associé réinitialisera le délai d'apprentissage de badge de 5 secondes. Vous pouvez associer plusieurs badges avec un seul code utilisateur en appliquant les badges un par un.
 * Le clavier sortira du mode apprentissage des badges après 5 secondes d'inactivité.
 * Si le badge appris est seul, le clavier émettra 2 bips courts.
 * Si le badge appris existe déjà dans le clavier (attribué à un autre code PIN), le clavier émettra 1 bip court.
 
-Étape 5. Pour apprendre un autre badge, veuillez répéter les étapes 3 à 4. Le clavier quittera automatiquement le mode d'apprentissage de badges après 5 secondes d'inactivité.\
-Étape 6. Appuyez sur la touche <img src=".gitbook/assets/4 (8).png" alt="" data-size="line"> pour quitter le mode d'apprentissage de badges.
+<mark style="color:orange;">**Étape 5.**</mark> Pour apprendre un autre badge, veuillez répéter les étapes 3 à 4. Le clavier quittera automatiquement le mode d'apprentissage de badges après 5 secondes d'inactivité.\
+<mark style="color:orange;">**Étape 6.**</mark> Appuyez sur la touche <img src=".gitbook/assets/4 (8).png" alt="" data-size="line"> pour quitter le mode d'apprentissage de badges.
 
 * Condition d'erreur
   * Si le code utilisateur de la centrale saisi dépasse le nombre maximum de chiffres du code, la LED orange clignotera avec 4 bips courts pour indiquer une erreur.
   * Si le clavier a déjà stocké 50 codes utilisateurs, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez de saisir le 51e code PIN.
   * Si le clavier a déjà stocké 100 badges, il émettra 4 bips courts pour indiquer une erreur lorsque vous tenterez d'apprendre le 101ème.
 
-_**B. Procédure de suppression :**_\
+_<mark style="color:blue;">**B. Procédure de suppression :**</mark>_\
 Vous pouvez effacer les informations de l'étiquette NFC.\
-Étape 1. Activez le clavier pour passer en mode test. Saisissez le code du clavier (par défaut :**0000**) suivi de la touche **＊**. Lors de la saisie du code PIN, la **LED alimentation (verte)** s'allumera. La **LED alimentation** s'éteindra alors et un bip long sera audible.\
-Étape 2. Appuyez sur les touches **＊** puis **1** pour accéder au mode d'apprentissage des badges. La **LED Défaut (orange)** s'allumera et un bip long sera audible.\
-Étape 3. Si vous souhaitez supprimer un code utilisateur stocké dans le clavier et tous les badges associés à ce codes, entrez le code utilisateur et appuyez sur la touche **＊**, un bip long retentira.\
+<mark style="color:orange;">**Étape 1.**</mark> Activez le clavier pour passer en mode test. Saisissez le code du clavier (par défaut :**0000**) suivi de la touche **＊**. Lors de la saisie du code PIN, la **LED alimentation (verte)** s'allumera. La **LED alimentation** s'éteindra alors et un bip long sera audible.\
+<mark style="color:orange;">**Étape 2.**</mark> Appuyez sur les touches **＊** puis **1** pour accéder au mode d'apprentissage des badges. La **LED Défaut (orange)** s'allumera et un bip long sera audible.\
+<mark style="color:orange;">**Étape 3.**</mark> Si vous souhaitez supprimer un code utilisateur stocké dans le clavier et tous les badges associés à ce codes, entrez le code utilisateur et appuyez sur la touche **＊**, un bip long retentira.\
 Si vous souhaitez effacer uniquement un badge spécifique, appuyez sur la touche **＊**, un bi long retentira et la LED orange clignotera pendant 5 secondes. Appliquez le badge dans la zone de détection du clavier dans les 5 secondes :
 
 * Si le badge existe dans le clavier, le clavier émettra 2 bips courts pour indiquer que les données du badge ont été supprimées.
 * Si le badge appliqué n'existe pas sur le clavier, le clavier émettra 4 bips courts pour indiquer une erreur.
 * Chaque présentation de badge réinitialisera le délai de suppression à 5 secondes, vous pouvez supprimer badges en les appliquant un par un.
 
-Étape 4. Le clavier quittera automatiquement le mode de suppression de badges après 5 secondes d'inactivité.\
-Étape 5. Appuyez sur la touche <img src=".gitbook/assets/4 (8).png" alt="" data-size="line"> pour quitter le mode de suppression de badges.
+<mark style="color:orange;">**Étape 4.**</mark> Le clavier quittera automatiquement le mode de suppression de badges après 5 secondes d'inactivité.\
+<mark style="color:orange;">**Étape 5.**</mark> Appuyez sur la touche <img src=".gitbook/assets/4 (8).png" alt="" data-size="line"> pour quitter le mode de suppression de badges.
 
-_**C. Procédure d'installation d'étiquettes NFC :**_\
+_<mark style="color:blue;">**C. Procédure d'installation d'étiquettes NFC :**</mark>_\
 Les petites étiquettes NFC peuvent être placées au dos des smartphones, des cartes ou des porte-clés pour un accès facile.\
-Étape 1. Apprenez l'étiquette NFC au clavier.\
-Étape 2. Retirez la protection de l'étiquette NFC.\
-Étape 3. Appliquez l'étiquette NFC sur la coque arrière de votre téléphone portable, etc.\
-Étape 4. Vous pouvez maintenant utiliser l'étiquette NFC pour accéder au système.\
-\
-&#xNAN;_&#x4E;OTE:_
+<mark style="color:orange;">**Étape 1.**</mark> Apprenez l'étiquette NFC au clavier.\
+<mark style="color:orange;">**Étape 2.**</mark> Retirez la protection de l'étiquette NFC.\
+<mark style="color:orange;">**Étape 3.**</mark> Appliquez l'étiquette NFC sur la coque arrière de votre téléphone portable, etc.\
+<mark style="color:orange;">**Étape 4.**</mark> Vous pouvez maintenant utiliser l'étiquette NFC pour accéder au système.
+
+{% hint style="info" %}
+NOTES:
 
 * Faites attention de ne pas plier l'étiquette NFC, car elle pourrait être endommagée et devenir inutilisable.
 * Le KPT-39N prend uniquement en charge le protocole ISO 14443A pour les étiquettes NFC.
+{% endhint %}
 
 
 
-
-
-### _**Contrôle du système**_
+### _<mark style="background-color:yellow;">**Contrôle du système d'alarme**</mark>_
 
 Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier. Il existe deux manières d'armer le système.
 
@@ -220,6 +203,8 @@ Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur
 2. Armement Total/Partiel sans saisir le code utilisateur.
 
 Le désarmement du système nécessite toujours la saisie du code utilisateur.
+
+
 
 **Armement Total/Partiel avec code utilisateur:**\
 En mode Test, appuyez sur les touches **＊** et **9** pour activer la fonction Armement avec code (**par défaut**).
@@ -238,22 +223,16 @@ S'il y a une **Mémoire d'alarme** la LED <img src="https://vesta-guide.gitbook.
 
 S'il y a une **Mémoire d'alarme** la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F6D7X8cEk4V8mFciKGA9V%252Fimage.png%3Falt%3Dmedia%26token%3D3002cd41-7b67-40ca-81f6-325844ee1be4&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=517d1f8e&#x26;sv=2" alt="" data-size="line"> et la LED de défaut s'allumeront avec 5 bips.
 
-
-
-
-
-_**Temporisation d'entrée/de sortie**_
+#### _<mark style="background-color:green;">**Temporisation d'entrée/de sortie**</mark>_
 
 * Une fois le son des temporisations d'entrée/de sortie activé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par un bip long), le clavier émettra des bips lorsque l'une des temporisations sera activée.
 * Une fois le son des temporisations d'entrée/de sortie désactivé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par deux bips courts), restera silencieux pendant les temporisations d'entrée/de sortie.
 
 
 
+### _<mark style="background-color:yellow;">**Conditions de défaut**</mark>_
 
-
-### _**Conditions de défaut**_
-
-Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**,
+Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**
 
 1. Lorsqu'un défaut existe dans la centrale, si le clavier est utilisé pour l'armement, la LED de défaut clignotera avec 3 bips pour indiquer une condition de défaut.
 2. Lorsque le clavier désarme la centrale, la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F62JLaNrZYGDMWkpk9sfU%252Fimage.png%3Falt%3Dmedia%26token%3D9bdda193-6b70-4a65-bda5-d3de5b93bf14&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=ee2b4905&#x26;sv=2" alt="" data-size="line"> s'allumera avec deux bips indiquant un fonctionnement normal.
@@ -262,30 +241,26 @@ Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**,
 
 
 
-
-
-### _**Retour aux paramètres d'usine**_
+### _<mark style="background-color:yellow;">**Réinitialisation**</mark>_
 
 La réinitialisation du clavier aux paramètres d'usine restaurera le code du clavier à 0000 et effacera les information relative à la centrale.\
 &#xNAN;_**Réinitialiser aux paramètres d'usine :**_\
-Étape 1: Retirez les piles et relâchez l'autoprotection.\
-Étape 2: \
+<mark style="color:orange;">**Étape 1:**</mark> Retirez les piles et relâchez l'autoprotection.\
+<mark style="color:orange;">**Étape 2:**</mark> \
 \- Si la fonction "**Armement Total/Partiel avec code**" est sélectionnée, maintenir la touche **3** appuyée en insérant la batterie.\
 \- Si la fonction "**Armement Total/Partiel sans code**" est sélectionnée, maintenir la touche **4** appuyée en insérant la batterie.\
-Étape 3:\
+<mark style="color:orange;">**Étape 3:**</mark>\
 \- Maintenir la touche **3** jusqu'à ce que le clavier émette 3 bips pour indiquer une réinitialisation réussie.\
-\- Maintenir la touche **4** jusqu'à ce que le clavier émette 4 bips pour indiquer une réinitialisation réussie. Étape 4: Relâchez la touche **3** ou **4**, le processus de réinitialisation est terminé.\
+\- Maintenir la touche **4** jusqu'à ce que le clavier émette 4 bips pour indiquer une réinitialisation réussie. <mark style="color:orange;">**Étape 4:**</mark> Relâchez la touche **3** ou **4**, le processus de réinitialisation est terminé.\
 Après la réinitialisation, le code revient à la valeur par défaut, "**0000"**. Le clavier aura besoin d'un nouveau processus d'apprentissage pour refonctionner.
 
 * Chaque fois que le clavier est retiré d'une centrale, il doit être également réinitialisé pour effacer la précédente centrale de sa mémoire
 
 
 
+### _<mark style="background-color:yellow;">**Installation**</mark>_
 
-
-### _**Montage du clavier**_
-
-Pour monter le clavier :
+Pour installer le clavier :
 
 1. Retirez le capot avant.
 2. En utilisant les 2 trous de montage de la coque arrière comme gabarit, marquez les positions à l'endroit le plus approprié.
