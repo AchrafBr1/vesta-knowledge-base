@@ -1,6 +1,8 @@
 # VESTA-178
 
-## **Shutter Control (SCM-8ZBS)**
+**SCM-8ZBS**
+
+## **Shutter Control**
 
 ## **Introduction**
 

@@ -1,6 +1,6 @@
 # VESTA-173
 
-## **RSB-1ZBS**
+**RSB-1ZBS**
 
 ## **RGBW Smart Bulb**
 

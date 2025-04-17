@@ -1,6 +1,8 @@
 # VESTA-183
 
-## **TRV-1ZBS Thermostatic Radiator Valve**
+**TRV-1ZBS**
+
+## &#x20;**Thermostatic Radiator Valve**
 
 ## **Introduction**
 
@@ -12,7 +14,7 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (63).png>) ![](<.gitbook/assets/1 (74).jpeg>)
+<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Valve Cap**
 2. **LCD Display**
@@ -23,7 +25,7 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 **C**. &#x20;
 
-![](<.gitbook/assets/4 (52).jpeg>) On: Device set to default temperature 17°C.
+<img src=".gitbook/assets/4 (52).jpeg" alt="" data-size="line"> On: Device set to default temperature 17°C.
 
 ![](<.gitbook/assets/5 (39).jpeg>)   Flash: Valve closing.
 
@@ -57,7 +59,7 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
     The Radiator Valve is powered by two 1.5V AA alkaline batteries.
 
-
+<figure><img src=".gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 

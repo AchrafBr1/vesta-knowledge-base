@@ -1,8 +1,8 @@
-# VESTA 182
+# VESTA-182
 
 **PRLM-CH3-AC-ZBS(R)**
 
-**ZigBee Relay Switch**
+## **ZigBee Relay Switch**
 
 **Introduction**
 
@@ -12,11 +12,11 @@ The Relay Switch utilizes ZigBee technology for wireless signal transmission. Zi
 
 The Relay Switch also features router function. It serves as a router in the ZigBee network. After being included in the ZigBee network, it allows other ZigBee devices to join the network through the Relay Switch.
 
-**Parts Identification**
+## **Parts Identification**
 
-**Top Cover** **Base**
 
-![](<.gitbook/assets/0 (80).jpeg>)
+
+![Top Cover                                                                                                                Base](<.gitbook/assets/0 (80).jpeg>)
 
 1. **Switch Button 1/Function Button**
    * The function button is used for resetting the Relay Switch to join an available ZigBee network.
@@ -27,23 +27,23 @@ The Relay Switch also features router function. It serves as a router in the Zig
 3. **Switch Button 3**
    * Press the button to switch ON/OFF the Relay Channel 3.
 
-![](<.gitbook/assets/1 (67).png>)
+{% hint style="warning" %}
+Note:
 
-* _NOTE>_
-  * When Switch Button 2/3 is pressed, the Relay Channel 2/3 will instantly switch to ON/OFF.
-  * When Switch Button 1 is pressed, the Relay Channel 1 will switch to ON/OFF after 0.5 second, because the device needs to identify whether the button press is for switch on/off or for resetting the Relay.
+When Switch Button 2/3 is pressed, the Relay Channel 2/3 will instantly switch to ON/OFF.
 
-1. **LED indicator 1**
-2. **LED indicator 2**
-3. **LED indicator 3**
+When Switch Button 1 is pressed, the Relay Channel 1 will switch to ON/OFF after 0.5 second, because the device needs to identify whether the button press is for switch on/off or for resetting the Relay.
+{% endhint %}
+
+4. **LED indicator 1**
+5. **LED indicator 2**
+6. **LED indicator 3**
 
 The LED indicator 1/2/3 are used to indicate Relay Channel 1/2/3 status:
 
 * LED 1 On/Off: Relay Channel 1 On/Off
 * LED 2 On/Off: Relay Channel 2 On/Off
 * LED 3 On/Off: Relay Channel 3 On/Off
-
-1
 
 When powered on, all LEDs will sequentially flash for 1 cycle.
 
@@ -53,34 +53,34 @@ All LEDs will flash three times when the Relay has successfully joined a ZigBee 
 
 **7. Mounting Holes**
 
-**Connection Terminals**
+### **Connection Terminals**
 
 Connect the wire into the terminal, tighten the screw to close the clipper and hold wire in place. Unscrew to open the clipper to remove the wire connected to the terminal.
 
-1. **Line (AC input)**
-2. **Neutral**
-3. **NO (Channel 1)**
+8. **Line (AC input)**
+9. **Neutral**
+10. **NO (Channel 1)**
 
-For Normal Open connection with the device
+&#x20;     For Normal Open connection with the device
 
-1. **Common (Channel 1)**
-2. **NO (Channel 2)**
+11. **Common (Channel 1)**
+12. **NO (Channel 2)**
 
-For Normal Open connection with the device
+&#x20;       For Normal Open connection with the device
 
-1. **Common (Channel 2)**
-2. **NO (Channel 3)**
+13. **Common (Channel 2)**
+14. **NO (Channel 3)**
 
-For Normal Open connection with the device
+&#x20;      For Normal Open connection with the device
 
-1. **Common (Channel 3)**
-2. **Strain Relief Clamp**
+15. **Common (Channel 3)**
+16. **Strain Relief Clamp**
 
-The clamps are used for securing the wires, and providing strain relief to protect the wires from the metal cutout.
+&#x20;      The clamps are used for securing the wires, and providing strain relief to protect the wires from the metal cutout.
 
 **17. Wiring Holes**
 
-**Specification**
+## **Specification**
 
 * Power Supply: 100 - 240V AC
 * Supported Load Current (for each relay channel): 5A, 250VAC or 5A, 30VDC
@@ -105,17 +105,11 @@ Wire the Relay according to the instructions below.
 
 ![](<.gitbook/assets/2 (61).jpeg>)
 
-2
-
-**ZigBee Network Setup**
-
-![](<.gitbook/assets/3 (58).jpeg>)
+## **ZigBee Network Setup**
 
 * _**ZigBee Device Guideline**_
 
 ZigBee is a wireless communication protocol that is reliable, has low power consumption and has high transmission efficiency. Based on the IEEE802.15.4 standard, ZigBee allows a large amount of devices to be included in a network and are coordinated for data exchange and signal transmission.
-
-![](<.gitbook/assets/4 (51).jpeg>)
 
 * _**Joining the ZigBee Network**_
 
@@ -128,37 +122,30 @@ As a ZigBee device, the Relay needs to join a ZigBee network to receive commands
   4. After joining the ZigBee network, the Relay will be registered in the network automatically. Please check the ZigBee network coordinator, system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
 * _**Removing Device from ZigBee Network (Factory Reset)**_
 
-![](<.gitbook/assets/5 (74).png>)
-
 To remove the device from current ZigBee network, the Relay Switch must be put to Factory Reset to complete device removal. Factory Reset function will clear the device of its stored setting information and prompt the device to search for new ZigBee network.
 
 **Before removing device, make sure the Relay Switch is within current ZigBee network signal range**
 
-*
-  1. Delete the device from current control panel / CIE.
-  2. Press and hold the function button for 10 seconds, then release the button to reset the device.
-  3. Upon reset, the device will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
-* _**Range Test**_
+1. Delete the device from current control panel / CIE.
+2. Press and hold the function button for 10 seconds, then release the button to reset the device.
+3. Upon reset, the device will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
 
-![](<.gitbook/assets/6 (53).png>)
+* _**Range Test**_
 
 To test whether the device is able to communicate with the ZigBee network coordinator or control panel:
 
-*
-  * Put the gateway/panel into range test mode (Walk Test).
-  * Press the Function Button on the device
-  * The gateway/panel should display if the device is within the operation range (please refer to the operation manual of the gateway/panel).
+* Put the gateway/panel into range test mode (Walk Test).
+* Press the Function Button on the device
+* The gateway/panel should display if the device is within the operation range (please refer to the operation manual of the gateway/panel).
 * _**ZigBee Router Device Capacity**_
-
-![](<.gitbook/assets/7 (48).png>)
 
 The Relay Switch features Router function that allows other ZigBee devices to join the ZigBee Network through the Router. It has maximum capacity of 40 devices/routers.
 
-**Supervision**
+### **Supervision**
 
 The Relay Switch will transmit a supervision signal to report the ON/OFF status of Relay Channel 1/2/3 regularly according to user setting. The factory default interval is 30 minutes.
 
-**Mounting**
+## **Mounting**
 
 * After you have finished the range test, and you are satisfied that the device is able to communicate with the Control Panel in the chosen location, proceed to mounting.
 * Disconnect the main power supply.
@@ -167,20 +154,14 @@ The Relay Switch will transmit a supervision signal to report the ON/OFF status 
 * Drill holes into marked location and insert wall plugs if required, screw the base onto the mounting location.
 * Replace the top cover and tighten the bottom fixing screw.
 
-3
-
 ![](<.gitbook/assets/8 (39).jpeg>)
 
-**Operation**
-
-![](<.gitbook/assets/9 (27).jpeg>)
+## **Operation**
 
 * _**Relay Control**_
   * After the Relay Switch has successfully joined a ZigBee network, the gateway/control panel can remotely control the Relay Channel 1/2/3 to turn On/Off. Please refer to your ZigBee gateway/control panel for detail.
   * The user can also manually press the Switch Button 1/2/3 to switch ON/OFF the Relay Channel 1/2/3.
 * _**OTA Firmware Upgrade**_
-
-![](<.gitbook/assets/10 (20).jpeg>)
 
 The Relay Switch supports OTA firmware upgrade feature via ZigBee network, which can be initiated from the ZigBee network coordinator.
 
@@ -198,109 +179,8 @@ new ZigBee firmware provided. Please refer to ZigBee Coordinator User Manual for
 
 **Appendix (For developers only)**
 
-![](<.gitbook/assets/11 (36).png>)
-
 * _**Relay Cluster ID**_
 
-**Device ID: On Off Output :0x0002**
+<figure><img src=".gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
-**Endpoint:0x0A**
-
-| **Server Side** |               | **Client Side** |
-| --------------- | ------------- | --------------- |
-|                 |               |                 |
-|                 | **Mandatory** |                 |
-
-Basic (0x0000)
-
-Identify(0x0003)
-
-On/Off(0x0006)
-
-_None_
-
-**Optional**
-
-Groups(0x0004)
-
-None
-
-* _**Attribute of Basic Cluster Information**_
-
-| **Identifier** | **Name**           | **Type**       | **Range**   | **Access** | **Default** | **Mandatory** |   |
-| -------------- | ------------------ | -------------- | ----------- | ---------- | ----------- | ------------- | - |
-| **/ Optional** |                    |                |             |            |             |               |   |
-|                |                    |                |             |            |             |               |   |
-| 0x0000         | _ZCLVersion_       | Unsigned 8-bit | 0x00 –0xff  | Read       | 0x01        | M             |   |
-| integer        | only               |                |             |            |             |               |   |
-|                |                    |                |             |            |             |               |   |
-| 0x0001         | ApplicationVersion | Unsigned 8-bit | 0x00 – 0xff | Read       | 0x00        | O             |   |
-| integer        | only               |                |             |            |             |               |   |
-|                |                    |                |             |            |             |               |   |
-| 0x0003         | _HWVersion_        | Unsigned 8-bit | 0x00 –0xff  | Read       | 0           | O             |   |
-| integer        | only               |                |             |            |             |               |   |
-|                |                    |                |             |            |             |               |   |
-
-4
-
-| 0x0004 | _ManufacturerName_    | Character  | 0 – 32 bytes | Read   | Climax          | O |   |
-| ------ | --------------------- | ---------- | ------------ | ------ | --------------- | - | - |
-| String | only                  | Technology |              |        |                 |   |   |
-|        |                       |            |              |        |                 |   |   |
-| 0x0005 | _ModelIdentifier_     | Character  | 0 – 32 bytes | Read   | (Model Version) | O |   |
-| String | only                  |            |              |        |                 |   |   |
-|        |                       |            |              |        |                 |   |   |
-| 0x0006 | _DateCode_            | Character  | 0 – 16 bytes | Read   |                 | O |   |
-| String | only                  |            |              |        |                 |   |   |
-|        |                       |            |              |        |                 |   |   |
-|        |                       |            |              |        |                 |   |   |
-| 0x0007 | _PowerSource_         | 8-bit      | 0x00 –0xff   | Read   |                 | M |   |
-| only   |                       |            |              |        |                 |   |   |
-|        |                       |            |              |        |                 |   |   |
-| 0x0010 | _LocationDescription_ | Character  | 0 – 32 bytes | Read / |                 | O |   |
-| String | Write                 |            |              |        |                 |   |   |
-|        |                       |            |              |        |                 |   |   |
-| 0x0011 | _PhysicalEnvironment_ | 8-bit      | 0x00 –0xff   | Read / | 0x00            | O |   |
-| Write  |                       |            |              |        |                 |   |   |
-|        |                       |            |              |        |                 |   |   |
-| 0x0012 | _DeviceEnabled_       | Boolean    | 0x00 –0x01   | Read / | 0x01            | M |   |
-| Write  |                       |            |              |        |                 |   |   |
-|        |                       |            |              |        |                 |   |   |
-
-![](<.gitbook/assets/12 (21).jpeg>)
-
-* _**Attribute of Identify Cluster Information**_
-
-![](<.gitbook/assets/13 (23).jpeg>)
-
-| **Identifier**                                  | **Name**       | **Type** | **Range**    | **Access** | **Default** | **Mandatory** |   |
-| ----------------------------------------------- | -------------- | -------- | ------------ | ---------- | ----------- | ------------- | - |
-| **/ Optional**                                  |                |          |              |            |             |               |   |
-|                                                 |                |          |              |            |             |               |   |
-| 0x0000                                          | _IdentifyTime_ | Unsigned | 0x00 –0xffff | Read /     | 0x0000      | M             |   |
-| 16-bit integer                                  | Write          |          |              |            |             |               |   |
-|                                                 |                |          |              |            |             |               |   |
-|  _**Attribute of On/Off Cluster Information**_ |                |          |              |            |             |               |   |
-
-![](<.gitbook/assets/14 (29).png>)
-
-| **Identifier**                                       | **Name** | **Type** | **Range**  | **Access** | **Default** | **Mandatory** |   |
-| ---------------------------------------------------- | -------- | -------- | ---------- | ---------- | ----------- | ------------- | - |
-| **/ Optional**                                       |          |          |            |            |             |               |   |
-|                                                      |          |          |            |            |             |               |   |
-| 0x0000                                               | _OnOff_  | Boolean  | 0x00 –0x01 | Read       | 0x00        | M             |   |
-| only                                                 |          |          |            |            |             |               |   |
-|                                                      |          |          |            |            |             |               |   |
-|  _**Attributes of the Groups cluster Information**_ |          |          |            |            |             |               |   |
-
-![](<.gitbook/assets/15 (28).png>)
-
-| **Identifier** | **Name**      | **Type**     | **Range** | **Access** | **Default** | **Mandatory** |   |
-| -------------- | ------------- | ------------ | --------- | ---------- | ----------- | ------------- | - |
-| **/ Optional** |               |              |           |            |             |               |   |
-|                |               |              |           |            |             |               |   |
-| 0x0000         | _NameSupport_ | 8-bit bitmap | x0000000  | Read       | -           | M             |   |
-| only           |               |              |           |            |             |               |   |
-|                |               |              |           |            |             |               |   |
-
-5
+<figure><img src=".gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>

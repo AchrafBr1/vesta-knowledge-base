@@ -73,7 +73,7 @@ The Functional Switch Block determines which Mode the Repeater is in. A switch i
 
 ![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 switch block.jpg](<.gitbook/assets/1 (13).jpeg>)
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 DIP Switches 5 and 7 are reserved.
 

@@ -1,6 +1,8 @@
 # VESTA-171
 
-## **TRV-1ZW Thermostatic Radiator Valve**
+**TRV-1ZW**&#x20;
+
+## **Thermostatic Radiator Valve**
 
 ## **Introduction**
 
@@ -12,7 +14,7 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 ## **Parts Identification**
 
-<div align="left"><img src=".gitbook/assets/0 (62).png" alt="" width="177"> <img src=".gitbook/assets/1 (67).jpeg" alt="" width="189"></div>
+<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Valve Cap**
 2. **LCD Display**
@@ -23,7 +25,7 @@ A.  <img src=".gitbook/assets/image (12) (1) (1).png" alt="" data-size="line">**
 
 B. <img src=".gitbook/assets/image (13) (1) (1).png" alt="" data-size="line">**Low Battery Indicator.**
 
-C. ![](<.gitbook/assets/4 (47).jpeg>) On: Device set to default temperature 17 °C.
+C.  ![](<.gitbook/assets/4 (47).jpeg>) On: Device set to default temperature 17 °C.
 
 ![](<.gitbook/assets/5 (35).jpeg>) Flash: Valve closing.
 
@@ -39,18 +41,18 @@ F. <img src=".gitbook/assets/image (15) (1) (1).png" alt="" data-size="line"> **
 
 G. **Temperature Indicator.**
 
-**Others: InS**: When power on device (also for learning period).
+**Others:  InS**: When power on device (also for learning period).
 
-**AdA:** device motor working.
+&#x20;              **AdA:** device motor working.
 
-**F1/F3:** the valve is jammed, **F2:** no valve installed.
+&#x20;              **F1/F3:** the valve is jammed, **F2:** no valve installed.
 
 3. &#x20;**Function Buttons**
    1. **Manual/Auto:** Enter Manual or Auto mode.
    2. **Boost/ Z-Wave:** Speed up heating process/add into Z-Wave network.
    3. &#x20;![](<.gitbook/assets/9 (24).jpeg>) Press this button to instantly switch day and night temperatures.
 
-_**Default day**_ ![](<.gitbook/assets/10 (18).jpeg>) _temperature: 21_ °&#x43;_, **Default night**_ ![](<.gitbook/assets/11 (22).jpeg>) _temperature: 17_ °C
+&#x20;        _**Default day**_ ![](<.gitbook/assets/10 (18).jpeg>) _temperature: 21_ °&#x43;_, **Default night**_ ![](<.gitbook/assets/11 (22).jpeg>) _temperature: 17_ °C
 
 4. **Temperature Sensor**
 5.  **Control Knob**
@@ -59,6 +61,8 @@ _**Default day**_ ![](<.gitbook/assets/10 (18).jpeg>) _temperature: 21_ °&#x43;
 6.  **Battery Compartment**
 
     The Radiator Valve is powered by two 1.5V AA alkaline batteries.
+
+<figure><img src=".gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 

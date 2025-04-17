@@ -1,6 +1,6 @@
 # VESTA-175
 
-## **PRS5-ZBS(R)/PRM5-ZBS(R)**
+**PRS5-ZBS(R)/PRM5-ZBS(R)**
 
 ## **Power Relay Switch Series**
 

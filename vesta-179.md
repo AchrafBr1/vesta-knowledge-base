@@ -1,6 +1,8 @@
-# VESTA 179
+# VESTA-179
 
-**Shutter Control (SCM-5ZBS)**
+**SCM-5ZBS**
+
+## **Shutter Control**&#x20;
 
 **Introduction**
 
@@ -62,9 +64,7 @@ Connect to the Close terminal of the Shutter Motor.
 * Supported Load Current: 1/4 HP (Horse power); 1.8Amps for motors with compensated power factor (inductive loads)
 * Communication Protocol: ZigBee Pro Home Automation 1.2, 2.4GHz
 
-1
-
-![](<.gitbook/assets/1 (71).jpeg>)**Caution**
+**Caution**
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * Before installation or any maintenance work, make sure the power supply has been disconnected.
@@ -109,20 +109,14 @@ The Shutter Control will transmit a supervision signal to report its condition r
   * Before wiring, please make sure the power is off. To connect the wires:
     1. Lift the lever and insert the wire. **(Picture 1, 2)**
 
-2
+![Picture1                                                                   Picture 2](<.gitbook/assets/2 (72).png>)
 
-**Picture1** **Picture 2**
+2. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
-![](<.gitbook/assets/2 (72).png>)
+![Picture 3                                                                                   Picture 4](<.gitbook/assets/3 (72).png>)
 
-1. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
+3. In the same way as step 1 & 2, connect the other wires with connectors.
 
-**Picture 3** **Picture 4**
-
-![](<.gitbook/assets/3 (72).png>)
-
-*
-  1. In the same way as step 1 & 2, connect the other wires with connectors.
 * SCM-5 should be connected according to the diagram below:
 
 ![](<.gitbook/assets/4 (49).jpeg>)
@@ -132,8 +126,6 @@ The Shutter Control will transmit a supervision signal to report its condition r
 * Connect O1 terminal of SCM to the Open terminal of the Shutter Motor.
 * Connect O2 terminal of SCM to the Close terminal of the Shutter Motor.
 * **(Optional local switch)** Connect S2 and S1 terminals of SCM to the L terminal of Power Supply.
-
-3
 
 **Operation**
 
@@ -155,9 +147,8 @@ If it takes 30 seconds for the shutter to move from Open to Close, and 40 second
 
 After calibration, whenever the Shutter Control receives close command, it will roll toward close direction for 30 seconds. When it receives open command, it will roll toward open for 40 seconds.
 
-*
-  * The activation time will be reset to **4** minutes whenever the Shutter Control joins a ZigBee network.
-  * If the manual calibration process is successful, the LED will flash 5 times to indicate.
+* The activation time will be reset to **4** minutes whenever the Shutter Control joins a ZigBee network.
+* If the manual calibration process is successful, the LED will flash 5 times to indicate.
 * _**Shutter Control**_
 
 **ZigBee Network**
@@ -169,11 +160,10 @@ After calibration, whenever the Shutter Control receives close command, it will 
 
 **Local Switch**
 
-*
-  * If an optional Local Switch is connected, users can also press the switch button to open/close the shutter.
-  * Press and release the switch for less than 1 second will control the shutter to fully open or close.
-  * Press and hold the switch for more than 1 second will control the shutter to open and close until the switch is released. When the switch is released, the shutter will stop.
-  * Pressing the switch when the shutter is moving to opposite direction will stop the shutter. Press the switch again to open/close the shutter.
+* If an optional Local Switch is connected, users can also press the switch button to open/close the shutter.
+* Press and release the switch for less than 1 second will control the shutter to fully open or close.
+* Press and hold the switch for more than 1 second will control the shutter to open and close until the switch is released. When the switch is released, the shutter will stop.
+* Pressing the switch when the shutter is moving to opposite direction will stop the shutter. Press the switch again to open/close the shutter.
 
 For example, pressing the down switch when the shutter is opening will stop the shutter, press down switch again to start closing the shutter.
 
@@ -195,128 +185,10 @@ please do not perform any other actions, or power down the panel.
 
 **Step 5.**&#x57;ait for firmware to complete update. When the progress reaches 100%, the Device will reset
 
-4
-
 automatically. You can also refresh the webpage again to ensure if the Device firmware is successfully updated with the newest version displayed.
 
-**Appendix (For developers only)**
+## **Appendix (For developers only)**
 
 * _**Power Relay Shutter Control with Meter Cluster ID**_
 
-**Device ID: Shade :0x0200**
-
-**Endpoint:0x01**
-
-| **Server Side**                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               | **Client Side** |             |               |   |
-| ---------------------------------------------------- | - | --------------------- | ----------------- | ------------ | --------------- | -------------- | -------------- | --------------- | -------------- | ---------- | ----------- | ------------- | --------------- | ----------- | ------------- | - |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              | **Mandatory**   |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| Basic (0x0000)                                       |   |                       |                   |              |                 |                |                |                 |                |            |             |               | _None_          |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| Identify(0x0003)                                     |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| On/Off(0x0006)                                       |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| Level Control(0x0008)                                |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| Shade Config(0x0x0100)                               |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| Groups(0x0004)                                       |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| Scenes(0x0005)                                       |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              | **Optional**    |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| None                                                 |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 | None        |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|  _**Attribute of Basic Cluster Information**_       |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| **Identifier**                                       |   | **Name**              |                   |              | **Type**        |                |                | **Range**       |                | **Access** |             | **Default**   | **Mandatory**   |             |               |   |
-|                                                      |   |                       |                   |              |                 |                | **/ Optional** |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0000                                               |   | _ZCLVersion_          | Unsigned 8-bit    |              | 0x00 –0xff      |                | Read only      |                 | 0x01           | M          |             |               |                 |             |               |   |
-|                                                      |   |                       | integer           |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0001                                               |   | ApplicationVersion    | Unsigned 8-bit    |              | 0x00 – 0xff     |                | Read only      |                 | 0x00           | O          |             |               |                 |             |               |   |
-|                                                      |   |                       | integer           |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0003                                               |   | _HWVersion_           | Unsigned 8-bit    |              | 0x00 –0xff      |                | Read only      | 0               | O              |            |             |               |                 |             |               |   |
-|                                                      |   |                       | integer           |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0004                                               |   | _ManufacturerName_    | Character String  |              | 0 – 32 bytes    |                | Read only      |                 | Climax         | O          |             |               |                 |             |               |   |
-|                                                      |   |                       |                   | Technology   |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0005                                               |   | _ModelIdentifier_     | Character String  |              | 0 – 32 bytes    |                | Read only      | (Model Version) | O              |            |             |               |                 |             |               |   |
-| 0x0006                                               |   | _DateCode_            | Character String  |              | 0 – 16 bytes    |                | Read only      |                 |                | O          |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0007                                               |   | _PowerSource_         |                   |              | 8-bit           |                | 0x00 –0xff     |                 | Read only      |            |             | M             |                 |             |               |   |
-| 0x0010                                               |   | _LocationDescription_ | Character String  |              | 0 – 32 bytes    |                | Read / Write   |                 |                | O          |             |               |                 |             |               |   |
-| 0x0011                                               |   | _PhysicalEnvironment_ |                   |              | 8-bit           |                | 0x00 –0xff     |                 | Read / Write   |            | 0x00        | O             |                 |             |               |   |
-| 0x0012                                               |   | _DeviceEnabled_       |                   |              | Boolean         |                | 0x00 –0x01     |                 | Read / Write   |            | 0x01        | M             |                 |             |               |   |
-|  _**Attribute of Identify Cluster Information**_    |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| **Identifier**                                       |   | **Name**              |                   |              | **Type**        |                |                | **Range**       |                | **Access** |             | **Default**   | **Mandatory**   |             |               |   |
-|                                                      |   |                       |                   |              |                 |                | **/ Optional** |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0000                                               |   | _IdentifyTime_        | Unsigned 16-bit   |              | 0x00 –0xffff    |                | Read / Write   |                 | 0x0000         | M          |             |               |                 |             |               |   |
-|                                                      |   |                       | integer           |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|  _**Attribute of On/Off Cluster Information**_      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| **Identifier**                                       |   | **Name**              |                   |              | **Type**        |                |                | **Range**       |                | **Access** |             | **Default**   | **Mandatory**   |             |               |   |
-|                                                      |   |                       |                   |              |                 |                | **/ Optional** |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0000                                               |   | _OnOff_               |                   |              | Boolean         |                | 0x00 –0x01     |                 | Read only      |            | 0x00        | M             |                 |             |               |   |
-|  _**Attribute of Level Cluster Information**_       |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| **Identifier**                                       |   | **Name**              |                   |              | **Type**        |                | **Range**      |                 | **Access**     |            | **Default** | **Mandatory** |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 | **/ Optional** |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0000                                               |   | _CurrentLevel_        |                   |              | Unsigned        |                | 0x00 –0xff     |                 | Read only      |            | 0x00        | M             |                 |             |               |   |
-|                                                      |   |                       | 8-bit integer     |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0012                                               |   | _OnTransitionTime_    |                   |              | Unsigned 16-bit |                | 0x0000 –       |                 | Read / Write   |            | 0x0960      | O             |                 |             |               |   |
-|                                                      |   |                       | integer           |              | 0xFFFE          |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0013                                               |   | _OffTransitionTime_   |                   |              | Unsigned 16-bit |                | 0x0000 –       |                 | Read / Write   |            | 0x0960      | O             |                 |             |               |   |
-|                                                      |   |                       | integer           |              | 0xFFFE          |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|  _**Attributes of the Shade cluster Information**_  |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| **Identifier**                                       |   | **Name**              |                   |              | **Type**        |                |                | **Range**       |                | **Access** |             | **Default**   | **Mandatory**   |             |               |   |
-|                                                      |   |                       |                   |              |                 |                | **/ Optional** |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0002                                               |   | _Status_              |                   | 8-bit bitmap |                 | 0000xxxx B     |                | Read / Write    |                | 00000000 B | M           |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0010                                               |   | _ClosedLimit_         | Unsigned 16-bit   |              |                 | 0x0001 –       |                | Read / Write    |                | 0x0001     | M           |               |                 |             |               |   |
-|                                                      |   |                       |                   |              | integer         |                |                | 0xfffe          |                |            |             |               |                 |             |               |   |
-| 0x0011                                               |   | _Mode_                | 8-bit Enumeration |              | 0x00 – 0xfe     |                | Read / Write   |                 | 0x00           | M          |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|  _**Attributes of the Groups cluster Information**_ |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| **Identifier**                                       |   | **Name**              |                   |              | **Type**        |                |                | **Range**       |                |            | **Access**  |               |                 | **Default** | **Mandatory** |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 | **/ Optional** |            |             |               |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                |                |                 |                |            |             |               |                 |             |               |   |
-| 0x0000                                               |   | _NameSupport_         |                   |              | 8-bit bitmap    |                | x0000000       |                 | Read only      |            | -           | M             |                 |             |               |   |
-|                                                      |   |                       |                   |              |                 |                | 5              |                 |                |            |             |               |                 |             |               |   |
-
-* _**Attributes of the Scenes cluster Information**_
-
-| **Identifier** | **Name**       | **Type**       | **Range**   | **Access** | **Default** | **Mandatory** |   |
-| -------------- | -------------- | -------------- | ----------- | ---------- | ----------- | ------------- | - |
-| **/ Optional** |                |                |             |            |             |               |   |
-|                |                |                |             |            |             |               |   |
-| 0x0000         | _SceneCount_   | Unsigned 8-bit | 0x00 – 0xff | Read only  | 0x00        | M             |   |
-| integer        |                |                |             |            |             |               |   |
-|                |                |                |             |            |             |               |   |
-| 0x0001         | _CurrentScene_ | Unsigned 8-bit | 0x00 – 0xff | Read only  | 0x00        | M             |   |
-| integer        |                |                |             |            |             |               |   |
-|                |                |                |             |            |             |               |   |
-| 0x0002         | _CurrentGroup_ | Unsigned       | 0x0000 –    | Read only  | 0x00        | M             |   |
-| 16-bit integer | 0xfff7         |                |             |            |             |               |   |
-|                |                |                |             |            |             |               |   |
-| 0x0003         | _SceneValid_   | Boolean        | 0x00 – 0x01 | Read only  | 0x00        | M             |   |
-| 0x0004         | _NameSupport_  | 8-bit bitmap   | x0000000    | Read only  | -           | M             |   |
-
-6
+<figure><img src=".gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>

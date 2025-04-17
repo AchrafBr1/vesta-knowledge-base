@@ -1,6 +1,6 @@
 # VESTA-170
 
-## **PRLM-CH3-AC-ZW**&#x20;
+**PRLM-CH3-AC-ZW**&#x20;
 
 ## **Z-Wave Relay Switch**
 
@@ -218,27 +218,12 @@ Switch Binary (S2)
 
 #### **Z-Wave’s Groups (Association Command Class Version 2)**
 
-| **Root device :** |                |                |                                                 |
-| ----------------- | -------------- | -------------- | ----------------------------------------------- |
-| **ID**            | **Name**       | **Node count** | **Description**                                 |
-| **1**             | **Lifeline**   | **5**          | **Supports the following command classes:**     |
-|                   |                |                | **Device Reset Locally: triggered upon reset.** |
-|                   |                |                | **Switch Binary: triggered by the endpoints**   |
-| **2**             | **Relay EP 1** | **5**          | **Mirror of endpoint 1, group 2**               |
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-| **3**            | **Relay EP 2** | **5**          | **Mirror of endpoint 2, group 2**                  |
-| ---------------- | -------------- | -------------- | -------------------------------------------------- |
-| **4**            | **Relay EP 3** | **5**          | **Mirror of endpoint 3, group 2**                  |
-| **Endpoint 1 :** |                |                |                                                    |
-| **ID**           | **Name**       | **Node count** | **Description**                                    |
-| **1**            | **Lifeline**   | **0**          | **Mirror of root device, but without node count.** |
-| **2**            | **Relay EP 1** | **5**          | **Switch binary report on overload.**              |
-| **Endpoint 2 :** |                |                |                                                    |
-| **ID**           | **Name**       | **Node count** | **Description**                                    |
-| **1**            | **Lifeline**   | **0**          | **Mirror of root device, but without node count.** |
-| **2**            | **Relay EP 2** | **5**          | **Switch binary report on overload.**              |
-| **Endpoint 3:**  |                |                |                                                    |
-| **ID**           | **Name**       | **Node count** | **Description**                                    |
-| **1**            | **Lifeline**   | **0**          | **Mirror of root device, but without node count.** |
-| **2**            | **Relay EP 3** | **5**          | **Switch binary report on overload.**              |
+<figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,8 @@
 # VESTA-180
 
-## **SCS-1-ZBS Shutter Control Switch**
+**SCS-1-ZBS**&#x20;
+
+## **Shutter Control Switch**
 
 ## **Introduction**
 

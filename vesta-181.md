@@ -1,6 +1,8 @@
 # VESTA-181
 
-## **ZigBee Relay Toggle Switch PRL-1ZBS(R)-AC**
+**PRL-1ZBS(R)-AC**
+
+## **ZigBee Relay Toggle Switch**&#x20;
 
 ## **Introduction**
 

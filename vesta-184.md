@@ -1,8 +1,10 @@
-# VESTA 184
+# VESTA-184
 
-**RS-23ZBS Room Sensor** V:R3
+**RS-23ZBS**&#x20;
 
-**Introduction**
+## **Room Sensor** V:R3
+
+## **Introduction**
 
 RS-23ZBS is a ZigBee Room Sensor. It features both temperature and humidity detection function to monitor your home environments. The temperature and humidity information will be transmitted to the coordinator in the ZigBee network and displayed on the Room Sensor’s LCD screen.
 
@@ -25,47 +27,47 @@ The LCD displays the following information:
   * Low Battery status (icon).
   * LCD Backlight on: when function button is pressed.
 
-1. **Function Button**
-   * Press the button once to:
+2. **Function Button**
+
+* Press the button once to:
 
 Send a supervision signal with temperature/humidity info Light up the LCD backlight for 10 seconds.
 
-*
-  * Press and hold for 10 seconds then release to reset the Room Sensor
+* Press and hold for 10 seconds then release to reset the Room Sensor
 
-1. **Base Screw (Open/Close Cover)**
-
-![](<.gitbook/assets/2 (63).jpeg>)
+3. **Base Screw (Open/Close Cover)**
 
 When the front cover is installed on the back cover, open the cover by loosen the base screw and close it likewise.
 
-1. **Fahrenheit / Celcius Setting Jumper (JP1)**
-   * If the jumper link is inserted between the top 2 pins, the LCD will display the temperature in Celsius. (**Factory Default**)
-   * If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
-2. **Battery Compartment**
+4. **Fahrenheit / Celcius Setting Jumper (JP1)**
 
 ![](<.gitbook/assets/3 (74).png>)
 
-The Room Sensor is powered by two AA 1.5 V Alkaline batteries
+* If the jumper link is inserted between the top 2 pins, the LCD will display the temperature in Celsius. (**Factory Default**)
+* If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
 
-1. **Back Cover**
-2. **Wall Mounting Knockouts**
+5. **Battery Compartment**
 
-**Features**
+&#x20;      The Room Sensor is powered by two AA 1.5 V Alkaline batteries
+
+6. **Back Cover**
+7. **Wall Mounting Knockouts**
+
+## **Features**
 
 * _**Temperature and Humidity Detection**_
   * The Room Sensor will transmit temperature and humidity signals regularly according to setting. The factory default interval is 10 minutes.
   * When the temperature changes by +/- 2°C, or humidity changes +/- 10%,the Room Sensor will also transmit a signal.
   * The change level required to trigger signal transmission is programmable using ZigBee Configure Reporting command – Reportable Change parameter. The default values are: Temperature: **200** for 2°C.
 
-Humidity: **1000** for 10%.
+&#x20;             Humidity: **1000** for 10%.
 
-1
+* You can also press the Function Button once to transmit a temperature and humidity signal manually.
+* The temperature detection range is about -10°C - 50°C (14°F - 122°F).
+* The humidity detection range is about 10% - 90% RH.
 
-*
-  * You can also press the Function Button once to transmit a temperature and humidity signal manually.
-  * The temperature detection range is about -10°C - 50°C (14°F - 122°F).
-  * The humidity detection range is about 10% - 90% RH.
+
+
 * _**Battery and Low Battery Detection**_
   * The Room Sensor uses two 1.5 V Alkaline batteries as its power source. The batteries are included in the package.
   * The Room Sensor feature Low Battery Detection function. When the battery voltage is low, the Room Sensor will transmit Low Battery signal to notify the user and display low battery icon on LCD.
@@ -74,7 +76,7 @@ Humidity: **1000** for 10%.
 
 The Room Sensor will transmit a supervision signal along with the temperature and humidity signal to report its condition regularly. The factory default interval is 10 minutes, which can be adjusted according to setting.
 
-**ZigBee Network Setup**
+## **ZigBee Network Setup**
 
 * _**ZigBee Device Guideline**_
 
@@ -82,21 +84,20 @@ ZigBee is a wireless communication protocol that is reliable and has low power c
 
 Due to the fundamental structure of ZigBee network, ZigBee device will actively seek and join network after powering on. Since performing a task in connecting network may consume some power, it is required to follow the instructions to avoid draining battery of a ZigBee device
 
-*
-  * Ensure your ZigBee network router or coordinator is powered on before inserting battery into the ZigBee device.
-  * Ensure the ZigBee network router or coordinator is powered on and within range while a ZigBee device is in use.
-  * Do not remove a ZigBee device from the ZigBee network router or coordinator without removing the battery from a ZigBee device.
+* Ensure your ZigBee network router or coordinator is powered on before inserting battery into the ZigBee device.
+* Ensure the ZigBee network router or coordinator is powered on and within range while a ZigBee device is in use.
+* Do not remove a ZigBee device from the ZigBee network router or coordinator without removing the battery from a ZigBee device.
 * _**Joining the ZigBee Network**_
 
 As a ZigBee device, the Room Sensor needs to join a ZigBee network to transmit temperature and humidity signal. Please follow the steps bellow to join the Room Sensor into the ZigBee network.
 
-*
-  1. Insert the batteries into the battery compartment to power on the Room Sensor.
-  2. After powering up, press and hold the Function button for 10 seconds, then release it to join the network. Please make sure the permit-join feature on the router or coordinator of your ZigBee network is enabled.
-  3. If the Room Sensor successfully joins a ZigBee network, the ZigBee network connectivity icon will be displayed on the LCD
-  4. After joining the ZigBee network, the Room Sensor will be registered in the network automatically. Please check your ZigBee coordinator, system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
-  5. After joining network and registration is successful, if the Room Sensor loses connection with the Control Panel or the Control Panel is powered down, the ZigBee network connectivity icon on the LCD on the Room Sensor will go off in 1 or 2 minutes time.
-  6. If network joining and registration is unsuccessful, the ZigBee network connectivity icon will not be displayed. Please check your ZigBee network coordinator, control panel or CIE setting to ensure the permit-join function is available, and then use the Factory Reset function below to join the ZigBee network.
+1. Insert the batteries into the battery compartment to power on the Room Sensor.
+2. After powering up, press and hold the Function button for 10 seconds, then release it to join the network. Please make sure the permit-join feature on the router or coordinator of your ZigBee network is enabled.
+3. If the Room Sensor successfully joins a ZigBee network, the ZigBee network connectivity icon will be displayed on the LCD
+4. After joining the ZigBee network, the Room Sensor will be registered in the network automatically. Please check your ZigBee coordinator, system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
+5. After joining network and registration is successful, if the Room Sensor loses connection with the Control Panel or the Control Panel is powered down, the ZigBee network connectivity icon on the LCD on the Room Sensor will go off in 1 or 2 minutes time.
+6. If network joining and registration is unsuccessful, the ZigBee network connectivity icon will not be displayed. Please check your ZigBee network coordinator, control panel or CIE setting to ensure the permit-join function is available, and then use the Factory Reset function below to join the ZigBee network.
+
 * _**Removing Device from ZigBee Network (Factory Reset)**_
 
 To remove the Room Sensor from current ZigBee network, the device must be put to Factory Reset to complete device removal. Factory Reset function will clear the device of its stored setting information and prompt the Room Sensor to search for new ZigBee network.
@@ -106,11 +107,9 @@ To remove the Room Sensor from current ZigBee network, the device must be put to
 1. Press and hold the function button for 10 seconds, then release the button to reset Room Sensor.
 2. Upon reset, the Room Sensor will clear current ZigBee network setting and transmit signal to
 
-2
-
 ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
 
-**Installation**
+## **Installation**
 
 * _**Mounting the Room Sensor**_
 
@@ -120,150 +119,27 @@ For best LCD display quality, the Room Sensor should be mounted at location abou
 
 When mounting with screw, make sure to only use screws provided in the package by original manufacturer, as inappropriate screws may damage interior of the device.
 
-*
-  1. Remove the front cover by using a screwdriver.
-  2. Break through the knockouts on the back cover.
-  3. Using the holes as a template, drill holes in the surface
-  4. Insert the wall plugs if fixing into plaster or brick
-  5. Screw the back cover into the wall plugs
-  6. Screw the front cover back on to the back cover.
+1. Remove the front cover by using a screwdriver.
+2. Break through the knockouts on the back cover.
+3. Using the holes as a template, drill holes in the surface
+4. Insert the wall plugs if fixing into plaster or brick
+5. Screw the back cover into the wall plugs
+6. Screw the front cover back on to the back cover.
+
+
+
 * _**Using Room sensor with ZigBee Router**_
 
-_**IMPORTANT NOTE**_
+{% hint style="danger" %}
+_**IMPORTANT NOTE:**_
 
 If the Room sensor installation location is away from your system control panel and requires ZigBee routers to improve signal strength. **DO NOT** use a ZigBee Router without backup battery. A ZigBee router without battery will be powered down during AC power failure and the Room sensor connected to the router will lose connection with ZigBee network. You should plan your Room sensor installation location using only ZigBee router with backup battery.
+{% endhint %}
 
 **Appendix(For developers only.)**
 
 * _**Room Sensor Cluster ID**_
 
-**Device ID: Temperature Sensor 0x0302**
+<figure><img src=".gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
-**Endpoint: 0x01**
-
-| **Server Side**                       |               | **Client Side** |
-| ------------------------------------- | ------------- | --------------- |
-|                                       |               |                 |
-|                                       | **Mandatory** |                 |
-|                                       |               |                 |
-| Basic (0x0000)                        |               | _None_          |
-|                                       |               |                 |
-| Identify(0x0003)                      |               |                 |
-|                                       |               |                 |
-|                                       | **Optional**  |                 |
-|                                       |               |                 |
-| Power Configuration(0x0001)           |               | _None_          |
-|                                       |               |                 |
-| Temperature Measurement(0x0402)       |               |                 |
-|                                       |               |                 |
-| Relative Humidity Measurement(0x0405) |               |                 |
-|                                       |               |                 |
-
-|               | _**Attribute of Basic Cluster Information**_ |            |   |              |            |             |               |   |   |
-| -------------- | -------------------------------------------- | ---------- | - | ------------ | ---------- | ----------- | ------------- | - | - |
-|                |                                              |            |   |              |            |             |               |   |   |
-| **Identifier** | **Name**                                     | **Type**   |   | **Range**    | **Access** | **Default** | **Mandatory** |   |   |
-|                | **/ Optional**                               |            |   |              |            |             |               |   |   |
-|                |                                              |            |   |              |            |             |               |   |   |
-| 0x0000         | _ZCLVersion_                                 | Unsigned   |   | 0x00 –0xff   | Read only  | 0x01        | M             |   |   |
-| 8-bit integer  |                                              |            |   |              |            |             |               |   |   |
-|                |                                              |            |   |              |            |             |               |   |   |
-| 0x0001         | ApplicationVersion                           | Unsigned   |   | 0x00 –0xff   | Read only  | 0x00        | O             |   |   |
-| 8-bit integer  |                                              |            |   |              |            |             |               |   |   |
-|                |                                              |            |   |              |            |             |               |   |   |
-| 0x0003         | _HWVersion_                                  | Unsigned   |   | 0x00 –0xff   | Read only  | 0           | O             |   |   |
-| 8-bit integer  |                                              |            |   |              |            |             |               |   |   |
-|                |                                              |            |   |              |            |             |               |   |   |
-| 0x0004         | _ManufacturerName_                           | Character  |   | 0 – 32 bytes | Read only  | Climax      | O             |   |   |
-| String         |                                              | Technology |   |              |            |             |               |   |   |
-|                |                                              |            |   |              |            |             |               |   |   |
-| 0x0005         | _ModelIdentifier_                            | Character  |   | 0 – 32 bytes | Read only  | (Model      | O             |   |   |
-| String         |                                              | Version)   |   |              |            |             |               |   |   |
-|                |                                              |            |   |              |            |             |               |   |   |
-| 0x0006         | _DateCode_                                   | Character  |   | 0 – 16 bytes | Read only  |             | O             |   |   |
-| String         |                                              |            |   |              |            |             |               |   |   |
-|                |                                              |            |   |              |            |             |               |   |   |
-| 0x0007         | _PowerSource_                                | 8-bit      |   | 0x00 –0xff   | Read only  |             | M             |   |   |
-| 0x0010         | _LocationDescription_                        | Character  |   | 0 – 32 bytes | Read /     |             | O             |   |   |
-| String         |                                              | Write      |   |              |            |             |               |   |   |
-|                |                                              |            |   |              |            |             |               |   |   |
-| 0x0011         | _PhysicalEnvironment_                        | 8-bit      |   | 0x00 –0xff   | Read /     | 0x00        | O             |   |   |
-|                | Write                                        |            |   |              |            |             |               |   |   |
-|                |                                              |            |   |              |            |             |               |   |   |
-|                |                                              |            |   | 3            |            |             |               |   |   |
-
-0x0012
-
-_DeviceEnabled_
-
-Boolean
-
-0x00 –0x01
-
-Read /
-
-Write
-
-0x01
-
-M
-
-* _**Attribute of Identify Cluster Information**_
-
-| **Identifier** | **Name**       | **Type** | **Range**    | **Access** | **Default** | **Mandatory** |   |
-| -------------- | -------------- | -------- | ------------ | ---------- | ----------- | ------------- | - |
-| **/ Optional** |                |          |              |            |             |               |   |
-|                |                |          |              |            |             |               |   |
-| 0x0000         | _IdentifyTime_ | Unsigned | 0x00 –0xffff | Read /     | 0x0000      | M             |   |
-| 16-bit integer | Write          |          |              |            |             |               |   |
-|                |                |          |              |            |             |               |   |
-
- _**Attribute of Power Configuration Cluster Information**_
-
-| **Identifier** | **Name**           | **Type**     | **Range** | **Access** | **Default** | **Mandatory** |   |
-| -------------- | ------------------ | ------------ | --------- | ---------- | ----------- | ------------- | - |
-| **/ Optional** |                    |              |           |            |             |               |   |
-|                |                    |              |           |            |             |               |   |
-| 0x0035         | _BatteryAlarmMask_ | 8-bit bitmap | 0000 000x | Read /     | 0000 0000   | O             |   |
-| Write          |                    |              |           |            |             |               |   |
-|                |                    |              |           |            |             |               |   |
-
- _**Attribute of Temperature Measurement Cluster Information**_
-
-| **Identifier** | **Name**                                                             | **Type**        | **Range**           | **Access** | **Default** | **Mandatory** |   |   |
-| -------------- | -------------------------------------------------------------------- | --------------- | ------------------- | ---------- | ----------- | ------------- | - | - |
-| **/ Optional** |                                                                      |                 |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-| 0x0000         | MeasuredValue                                                        | Signed 16-bit   | MinMeasuredValue to | Read       | 0x00        | M             |   |   |
-| Integer        | MaxMeasuredValue                                                     | only            |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-| 0x0001         | MinMeasuredValue                                                     | Signed 16-bit   | 0x954d – 0x7ffe     | Read       | -1000       | M             |   |   |
-| Integer        | only                                                                 | (-10℃)          |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-| 0x0002         | MaxMeasuredValue                                                     | Signed 16-bit   | 0x954e – 0x7fff     | Read       | 5000        | M             |   |   |
-| Integer        | only                                                                 | (50℃)           |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-| 0x0003         | Tolerance                                                            | Unsigned 16-bit | 0x0000 – 0x0800     | Read       | 100         | O             |   |   |
-| Integer        | only                                                                 | (1℃)            |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-|               | _**Attribute of Relative Humidity Measurement Cluster Information**_ |                 |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-| **Identifier** | **Name**                                                             | **Type**        | **Range**           | **Access** | **Default** | **Mandatory** |   |   |
-| **/ Optional** |                                                                      |                 |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-| 0x0000         | MeasuredValue                                                        | Unsigned 16-bit | MinMeasuredValue to | Read       |             | M             |   |   |
-| Integer        | MaxMeasuredValue                                                     | only            |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-| 0x0001         | MinMeasuredValue                                                     | Unsigned 16-bit | 0x0000 – 0x270f     | Read       | 0           | M             |   |   |
-| Integer        | only                                                                 | (0%)            |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-| 0x0002         | MaxMeasuredValu                                                      | Unsigned 16-bit | 0x0001 – 0x2710     | Read       | 10000       | M             |   |   |
-| e              | Integer                                                              | only            | (100%)              |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-| 0x0003         | Tolerance                                                            | Unsigned 16-bit | 0x0000 – 0x0800     | Read       | 200         | O             |   |   |
-| Integer        | only                                                                 | (2%)            |                     |            |             |               |   |   |
-|                |                                                                      |                 |                     |            |             |               |   |   |
-
-4
+<figure><img src=".gitbook/assets/2 (133).png" alt=""><figcaption></figcaption></figure>
