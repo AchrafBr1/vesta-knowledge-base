@@ -1,4 +1,8 @@
-# VESTA 194
+# VESTA-194
+
+Fall Sensor-3
+
+## Fall Sensor
 
 <figure><img src=".gitbook/assets/image (56).png" alt="" width="375"><figcaption><p>VESTA-194</p></figcaption></figure>
 
@@ -10,7 +14,7 @@ One of the smallest and most elegantly built of its kind on the market, Climaxâ€
 
 This fall sensor is designed to activate the Control Panel by manual button press or auto fall detection to summon help in emergency condition.
 
-**A. Identifying the Parts**
+## **Identifying the Parts**
 
 ![](<.gitbook/assets/2 (69).jpeg>)
 
@@ -43,7 +47,7 @@ If the battery voltage is low, a Low Battery signal will be sent to the Control 
 It is prohibited to learn in Fall Sensor to Control Panel when it is in low battery status.
 {% endhint %}
 
-1. **Sensitivity Level Adjustment**
+## **Sensitivity Level Adjustment**
 
 The Fall Sensor sensitivity is programmable from the Control Panel. Five sensitivity levels are available for selection.
 
@@ -61,11 +65,11 @@ Level 1 refers to lowest sensitivity level, while Level 5 refers to highest sens
 After setting the sensitivity level from the Control Panel, please press and hold the button on the fall sensor for 8 seconds to receive the sensitivity level data from the Control Panel. The LED (green under normal mode; red under low battery status) will light up upon receiving data from the Control Panel.
 {% endhint %}
 
-**F. Inactivity Detection**
+## **Inactivity Detection**
 
 If a fall is detected, the sensor will transmit an alarm signal to Control Panel. If no sudden movement was detected within 10 seconds after fall detection, the Fall Sensor will transmit another inactivity code to Control Panel
 
-**G. Usage Recommendation**
+## **Usage Recommendation**
 
 * Best way to wear a fall sensor **(O)**
   1. Let it hang in front of the chest and adjust necklace length so that the sensor hangs at the bottom of the sternum as shown in the picture below.
@@ -85,7 +89,7 @@ If a fall is detected, the sensor will transmit an alarm signal to Control Panel
 
 During testing, do not trigger the fall sensor twice within a 10-second interval.
 
-_**FCC Statement**_
+## _**FCC Statement**_
 
 _This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions:_
 
