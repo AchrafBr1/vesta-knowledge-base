@@ -12,18 +12,18 @@ MDC-3
 
 <figure><img src=".gitbook/assets/VESTA-013[1].jpg" alt="" width="225"><figcaption><p>VESTA-013 - MDC-3-F1</p></figcaption></figure>
 
-1. Retirez l'isolateur de batterie du MDC-3.
-2. Mettez le panneau de commande VESTA en mode apprentissage (reportez-vous au manuel du panneau de commande pour plus de détails).
-3. Appuyez sur le bouton Learn/Test du MDC-3 pour envoyer le signal au panneau de commande.
+1. Retirez l'opercule isolant la batterie du MDC-3.
+2. Mettez la centrale en mode apprentissage (reportez-vous au manuel de la centrale pour plus de détails).
+3. Appuyez sur le bouton d'apprentissage/test à l'arrière du MDC-3 pour envoyer le signal à la centrale.
 4. Si la centrale reçoit le signal avec succès, elle doit répondre (par exemple en émettant un bip).
 
 
 
 ### _<mark style="background-color:yellow;">Introduction</mark>_
 
-Le mini contact de porte surveille l'ouverture/fermeture d'appareils spécifiés (par exemple porte ou fenêtre). Le contact de porte est fixé au cadre de l'appareil surveillé à l'aide d'un aimant d'actionnement fixé sur l'appareil. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du contact de porte, activant un interrupteur magnétique interne provoquant la transmission par le contact de porte d'un signal d'alarme au panneau de commande. L'appareil a également la capacité de communiquer les problèmes de signal ainsi que les situations de batterie faible.
+Le mini détecteur d'ouverture surveille l'ouverture/fermeture d'éléments spécifiques (par exemple porte ou fenêtre). L'électronique est fixée au cadre de l'élément à surveiller tandis que l'aiment est fixé sur la prtie mobile. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du détecteur d'ouverture, activant un interrupteur magnétique interne provoquant la transmission par le détecteur d'un signal d'alarme vers la centrale. L'appareil a également la capacité de communiquer les problèmes transmission ainsi que les situations de batterie faible.
 
-La conception du contact de porte est composée d'un capot avant et d'un capot arrière. Le capot avant (arrière) contient tous les composants électroniques et le capot arrière fournit un moyen de fixation de l'appareil. Un interrupteur anti-sabotage sur circuit imprimé fourni offre une protection contre l'ouverture non autorisée de l'appareil.
+Le détecteur d'ouverture se compose d'un couvercle et d'une base. L'ensemble contient tous les composants électroniques et la base permet la fixation de l'appareil. Une autoprotection sur le circuit imprimé offre une protection contre l'ouverture non autorisée de l'appareil.
 
 
 
