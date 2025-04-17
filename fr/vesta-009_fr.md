@@ -167,7 +167,7 @@ _**-**_ Décidez de l'emplacement du détecteur PIR et s'il doit être monté en
 \- Appuyez sur le bouton test pour démarrer le mode test. Parcourez la zone protégée en vérifiant la LED s'allume et vérifiez que la couverture de détection est adéquate.\
 \- Lorsque la couverture de détection s'avère satisfaisante, l'installation est désormais terminée.
 
-#### _<mark style="background-color:green;">**Recommandations d'installatio**</mark>**n**_
+#### _<mark style="background-color:green;">**Recommandations d'installation**</mark>_
 
 Le détecteur PIR est conçu pour offrir une portée de détection de 12 mètres lorsqu'il est installé à 2 mètres de haut.\
 Pour la série avec immunité animaux, il offre une portée d'immunité de 7 mètres lorsqu'il est installé à 1,9-2,0m de haut. S'il est installé plus haut, la portée de l'immunité animaux sera plus grande.\

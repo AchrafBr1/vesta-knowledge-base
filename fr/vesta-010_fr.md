@@ -2,7 +2,7 @@
 
 **KP-15-(NT)/ KP-15-(NT)-F1**
 
-### **Clavier sans fils**
+### <mark style="color:green;">**Clavier sans fils**</mark>
 
 
 
@@ -13,9 +13,9 @@ Ce clavier est décliné en deux modèles :
 
 
 
-### _**Identification**_
+### _<mark style="background-color:yellow;">**Identification**</mark>_
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="292"><figcaption></figcaption></figure>
 
 **1. LED Verte-Activité**
 
