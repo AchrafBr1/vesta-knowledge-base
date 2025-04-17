@@ -177,7 +177,7 @@ Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**
 ### _<mark style="background-color:yellow;">**Réinitialisation**</mark>_
 
 La réinitialisation du clavier aux paramètres d'usine restaurera le code du clavier à 0000 et effacera les information relative à la centrale.\
-&#xNAN;_**Réinitialiser aux paramètres d'usine :**_\
+&#xNAN;_<mark style="color:blue;">**Réinitialiser aux paramètres d'usine :**</mark>_\
 <mark style="color:orange;">**Étape 1:**</mark> Retirez les piles et relâchez l'autoprotection.\
 <mark style="color:orange;">**Étape 2:**</mark>\
 \- Si la fonction "**Armement Total/Partiel avec code**" est sélectionnée, maintenir la touche **3** appuyée en insérant la batterie.\

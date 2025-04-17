@@ -69,39 +69,31 @@ NOTE:\
 * Vérifier l'état de la centrale - En mode normal appuyez sur la touche **#**.
 * Activer/Désactiver les bips d'entrée/sortie — Appuyez sur les touches **1** et **2** simultanément pendant 2 secondes (le clavier émettra un bip long pour indiquer que la fonction est activée et émettra 2 bips courts pour indiquer que la fonction est désactivée).
 
-
-
-### _<mark style="background-color:yellow;">**Alimentation**</mark>_
+#### _<mark style="background-color:green;">**- Alimentation**</mark>_
 
 * Le clavier utilise une pile lithium CR123 3 V comme source d'alimentation.
 * Le clavier peut également détecter l'état de la batterie. Si la tension de la batterie est faible, la LED Alimentation clignote pendant 5 secondes pendant le fonctionnement. Le signal de batterie faible sera envoyé à la centrale.
 * La batterie est préinstallée en usine.
 * Lors du changement de batterie, appuyez plusieurs fois sur n'importe quelle touche avant d'insérer une nouvelle batterie.
 
-
-
-### _<mark style="background-color:yellow;">**Mise en veille**</mark>_
+#### _<mark style="background-color:green;">**- Mise en veille**</mark>_
 
 * Lorsqu'il est inactif, le clavier est en **veille** et ne consomme pas d'énergie. Il s'activera pendant 5 secondes lorsqu'une touche sera utilisée.
 * Après 5 secondes d'inactivité, le clavier revient en mode **veille**.
 
-
-
-### _<mark style="background-color:yellow;">**Autoprotection**</mark>_
+#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
 
 * Le clavier est protégé contre toute tentative d'ouverture du couvercle ou d'arrachement de sa surface d'installation.
 * L'autoprotection est désactivée lorsque le clavier est en mode test.
 
-
-
-### _<mark style="background-color:yellow;">**Supervision**</mark>_
+#### _<mark style="background-color:green;">**- Supervision**</mark>_
 
 * Après l'installation, le clavier transmet automatiquement des signaux de supervision à la centrale à un intervalle de 30 à 50 minutes.
 * Si la centrale n'a pas reçu le signal du clavier pendant une période de temps prédéfinie, la centrale considérera le clavier comme hors service et réagira en fonction de sa configuration.
 
 
 
-### _<mark style="background-color:yellow;">**Apprentissage du clavier dans la centrale**</mark>_
+### _<mark style="background-color:yellow;">**Apprentissage du clavier**</mark>_
 
 <mark style="color:orange;">**Étape 1.**</mark> Mettez la centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
 <mark style="color:orange;">**Étape 2.**</mark> Ajoutez le clavier à la centrale.
@@ -115,9 +107,7 @@ NOTE:\
 <mark style="color:orange;">**Étape 3.**</mark> Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage. Si l'apprentissage réussit, le clavier émettra 3 bips dès réception du signal d'accusé de réception de la centrale. Si le clavier n'émet pas 3 bips,  veuillez répéter l'étape 2 pour transmettre à nouveau le code d'apprentissage.\
 <mark style="color:orange;">**Étape 4.**</mark> Une fois le clavier enregistrée, mettre la centrale en **Mode** **Test**, maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que l'emplacement se trouve dans la plage de signal de la centrale.
 
-
-
-### _<mark style="background-color:yellow;">**Modifier la partition du clavier**</mark>_
+#### _<mark style="background-color:green;">**- Modifier la partition du clavier**</mark>_
 
 * Suivez les instructions ci-dessous pour modifier la partition du clavier dans la centrale:
   1. Utilisez le menu de configuration pour modifier la partition du clavier.
@@ -152,16 +142,16 @@ Le clavier est capable de transmettre les informations des badges à la centrale
 
 
 
-### _<mark style="background-color:yellow;">**Mode  programmation**</mark>_
+### _<mark style="background-color:yellow;">**Mode  Test**</mark>_
 
-**Entrez en mode programmation :**
+**Entrez en mode test :**
 
-* Mettez le clavier en mode programmation en saisissant le code (par défaut :**0000**), puis appuyez la sur la touch&#x65;**＊**. Les trois touches <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-fe25c9957403e3c10f8e9d28f99d7d324e84ba0f%252F10%2520%2813%29.png%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=bf585e9e&#x26;sv=2" alt="" data-size="line"><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-cf49690b317e6f3fb07c55fd84d849931f4c4cae%252F11%2520%289%29.jpeg%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=b5350c2d&#x26;sv=2" alt="" data-size="line"> s'allumeront avec un bip long.
+* Mettez le clavier en mode test en saisissant le code (par défaut :**0000**), puis appuyez la sur la touch&#x65;**＊**. Les trois touches <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-fe25c9957403e3c10f8e9d28f99d7d324e84ba0f%252F10%2520%2813%29.png%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=bf585e9e&#x26;sv=2" alt="" data-size="line"><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252Fgit-blob-cf49690b317e6f3fb07c55fd84d849931f4c4cae%252F11%2520%289%29.jpeg%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=b5350c2d&#x26;sv=2" alt="" data-size="line"> s'allumeront avec un bip long.
 
-**Fonctions du mode programmation :**
+**Fonctions du mode test :**
 
 * Appuyez sur les touches **\*** et **1** - Activez le mode BLE.
-  * Sauf en appuyant sur les touches **＊** et **1** en mode de programmation pour accéder au mode couplage BLE, l'accès rapide au mode couplage BLE consiste à appuyer sur les touches **＊** et **0** simultanément pendant 2 secondes avec l'autoprotection du clavier déclenchée.
+  * Sauf en appuyant sur les touches **＊** et **1** en mode test pour accéder au mode couplage BLE, l'accès rapide au mode couplage BLE consiste à appuyer sur les touches **＊** et **0** simultanément pendant 2 secondes avec l'autoprotection du clavier déclenchée.
 * Appuyez sur les touches **＊**&#x65;t **2** - Activez la fonction Alarme Panique (double touches)
 * Appuyez sur les touches **＊**&#x65;t **3** - Activez la fonction Alarme Incendie (double touches)
 * Appuyez sur les touches **＊**&#x65;t **4** - Activez la fonction Alarme Médicale (double touches)
@@ -170,13 +160,13 @@ Le clavier est capable de transmettre les informations des badges à la centrale
 * Appuyez sur les touches **＊** et **8** - Activez la fonction armement sans code. _(Prière de se référer à "**Armement sans code utilisateur"** pour plus de détails)._
 * Appuyez sur les touches **＊** et **9** - Activez la fonction armement avec code (par défaut). _(Prière de se référer à "**Armement avec code utilisateur"** pour plus de détails)._
 
-**Sortir du mode programmation :**
+**Sortir du mode test :**
 
-* Appuyez sur la touche <img src=".gitbook/assets/image (12).png" alt="" data-size="line"> **deux fois** pour quitter le mode programmation. Alternativement, le clavier sortira automatiquement du mode programmation après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un bip long.
+* Appuyez sur la touche <img src=".gitbook/assets/image (12).png" alt="" data-size="line"> **deux fois** pour quitter le mode test. Autrement, le clavier sortira automatiquement du mode programmation après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un bip long.
 
 
 
-### _<mark style="background-color:yellow;">**Contrôle du système**</mark>_
+### _<mark style="background-color:yellow;">**Contrôle du système d'alarme**</mark>_
 
 Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier. Il existe deux manières d'armer le système.
 
@@ -184,6 +174,8 @@ Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur
 2. Armement Total/Partiel sans saisir le code utilisateur.
 
 Le désarmement du système nécessite toujours la saisie du code utilisateur.
+
+
 
 **Armement Total/Partiel avec code utilisateur:**\
 En mode programmation, appuyez sur les touches **＊** et **9** pour activer la fonction Armement avec code (**par défaut**).
@@ -248,15 +240,16 @@ Veuillez accéder à l'APP Store ou à Google Play et rechercher **SmartHomeSec*
   Pour désarmer le système via un smartphone associé :\
   \- La fonction Bluetooth du smartphone doit être activée et l'application SmartHomeSec doit rester active en arrière-plan afin que l'appareil puisse communiquer avec l'application.\
   \- Un code utilisateur de la centrale à 4 ou 6 chiffres doit avoir été enregistré dans l'application SmartHomeSec.\
-  Lorsque le système est armé, approchez-vous du clavier avec un smartphone associé. Une fois que le clavier détecte le smartphone dans la portée BLE, le système se désarme automatiquement.\
-  \
-  &#xNAN;_&#x4E;ote:_\
-  _-_ La portée BLE peut différer selon les différents smartphones.\
-  \- Une fois le système armé, un délai de 30 secondes est configuré pour que le smartphone soit hors de portée du clavier BLE. Le clavier commencera à détecter seulement après 30 secondes suite à l'armement. Si le smartphone associé se trouve dans la portée BLE lorsque le système s'arme, le système ne se désarmera pas tant que le délai de 30 secondes ne sera pas écoulé.
+  Lorsque le système est armé, approchez-vous du clavier avec un smartphone associé. Une fois que le clavier détecte le smartphone dans la portée BLE, le système se désarme automatiquement.
 
+{% hint style="info" %}
+NOTE:
 
+* La portée BLE peut différer selon les différents smartphones.
+* Une fois le système armé, un délai de 30 secondes est configuré pour que le smartphone soit hors de portée du clavier BLE. Le clavier commencera à détecter seulement après 30 secondes suite à l'armement. Si le smartphone associé se trouve dans la portée BLE lorsque le système s'arme, le système ne se désarmera pas tant que le délai de 30 secondes ne sera pas écou
+{% endhint %}
 
-### _<mark style="background-color:yellow;">**Temporisation d'entrée/de sortie**</mark>_
+#### _<mark style="background-color:green;">**- Temporisation d'entrée/de sortie**</mark>_
 
 * Une fois le son des temporisations d'entrée/de sortie activé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par un bip long), le clavier émettra des bips lorsque l'une des temporisations sera activée.
 * Une fois le son des temporisations d'entrée/de sortie désactivé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par deux bips courts), restera silencieux pendant les temporisations d'entrée/de sortie.
@@ -289,7 +282,7 @@ La réinitialisation du clavier aux paramètres d'usine restaurera le code du cl
 
 
 
-### _<mark style="background-color:yellow;">**Installation du clavier**</mark>_ <a href="#montage-du-clavier" id="montage-du-clavier"></a>
+### _<mark style="background-color:yellow;">**Installation**</mark>_ <a href="#montage-du-clavier" id="montage-du-clavier"></a>
 
 Pour installer le clavier :
 

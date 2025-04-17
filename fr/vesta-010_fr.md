@@ -212,7 +212,7 @@ _<mark style="background-color:green;">**- Remplacement de la batterie**</mark>_
 
 
 
-### _<mark style="background-color:yellow;">**Réinitialiser aux paramètres d'usine**</mark>_
+### _<mark style="background-color:yellow;">**Réinitialisation**</mark>_
 
 {% hint style="info" %}
 _Annexe:_

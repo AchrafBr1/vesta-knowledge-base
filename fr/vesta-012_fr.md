@@ -223,7 +223,7 @@ S'il y a une **Mémoire d'alarme** la LED <img src="https://vesta-guide.gitbook.
 
 S'il y a une **Mémoire d'alarme** la LED <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F6D7X8cEk4V8mFciKGA9V%252Fimage.png%3Falt%3Dmedia%26token%3D3002cd41-7b67-40ca-81f6-325844ee1be4&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=517d1f8e&#x26;sv=2" alt="" data-size="line"> et la LED de défaut s'allumeront avec 5 bips.
 
-#### _<mark style="background-color:green;">**Temporisation d'entrée/de sortie**</mark>_
+#### _<mark style="background-color:green;">**- Temporisation d'entrée/de sortie**</mark>_
 
 * Une fois le son des temporisations d'entrée/de sortie activé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par un bip long), le clavier émettra des bips lorsque l'une des temporisations sera activée.
 * Une fois le son des temporisations d'entrée/de sortie désactivé en appuyant sur les touches **1** et **2** simultanément pendant 2 secondes (indiqué par deux bips courts), restera silencieux pendant les temporisations d'entrée/de sortie.
@@ -244,7 +244,7 @@ Lorsque le clavier est en **MODE DE FONCTIONNEMENT NORMAL**
 ### _<mark style="background-color:yellow;">**Réinitialisation**</mark>_
 
 La réinitialisation du clavier aux paramètres d'usine restaurera le code du clavier à 0000 et effacera les information relative à la centrale.\
-&#xNAN;_**Réinitialiser aux paramètres d'usine :**_\
+&#xNAN;_<mark style="color:blue;">**Réinitialiser aux paramètres d'usine :**</mark>_\
 <mark style="color:orange;">**Étape 1:**</mark> Retirez les piles et relâchez l'autoprotection.\
 <mark style="color:orange;">**Étape 2:**</mark> \
 \- Si la fonction "**Armement Total/Partiel avec code**" est sélectionnée, maintenir la touche **3** appuyée en insérant la batterie.\
