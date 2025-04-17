@@ -1,4 +1,8 @@
-# VESTA 126
+---
+hidden: true
+---
+
+# VESTA 126\_old
 
 Door Contact (DC-23 / DC-23-R3) User Manual
 
