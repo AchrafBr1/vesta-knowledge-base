@@ -1,6 +1,8 @@
 # VESTA-169
 
-## **Z-Wave Relay Controller PRL1-ZW-AC**
+**PRL1-ZW-AC**
+
+## **Z-Wave Relay Controller**&#x20;
 
 ## **Introduction**
 
@@ -34,13 +36,9 @@ To make wire connection, push the wire into the terminal and hold the wire in pl
 3. **Reserved**
 4. **Line (AC input)**
 5. **Neutral**
-6.  **NO**
-
-    For Normal Open connection with the device.
+6. **NO:**  For Normal Open connection with the device.
 7. **Common**
-8.  **NC**
-
-    For Normal Close connection with the device
+8. **NC:**  For Normal Close connection with the device
 
 ## **Specification**
 
@@ -76,13 +74,11 @@ Wire the Relay according to the instructions below:
 3. Depending on the device you wish to control via the Relay, select NO or NC terminal and wire the Relay with the device to establish Normal Open or Normal Close connection with device.
 4. After completing device wiring, turn on the power supply to power on the Relay Controller.
 
-_\<IMPORTANT NOTE>_
+{% hint style="danger" %}
+_IMPORTANT NOTE:_
 
-{% hint style="info" %}
 Wiring of the PRL should only be performed by certifiedtechnician with proper knowledge and training in electric equipment.
 {% endhint %}
-
-
 
 ## **Z-Wave Network**
 

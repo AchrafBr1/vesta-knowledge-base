@@ -1,6 +1,8 @@
 # VESTA-168
 
-## **SCS-1-ZW Shutter Control Switch**
+**SCS-1-ZW**
+
+## **Shutter Control Switch**
 
 ## **Introduction**
 

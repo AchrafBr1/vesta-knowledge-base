@@ -1,8 +1,10 @@
-# VESTA 140
+# VESTA-140
 
-## **Z-Wave Relay Controller PRL-8-ZW-AC**
+**PRL-8-ZW-AC**
 
-**Introduction**
+## **Z-Wave Relay Controller**&#x20;
+
+## **Introduction**
 
 PRL-8-ZW-AC is a Z-Wave Relay Controller that can be connected to wired devices and set to either Normal Open (N.O.) or Normal Close (N.C.) status. After joining Z-Wave network, the Relay Controller can be controlled via Z-Wave network to activate connected devices. Z-Wave is a wireless communication protocol that uses a low-power RF radio. The Z-Wave Relay Controller allows access to the “S2 Unauthenticated” class.
 

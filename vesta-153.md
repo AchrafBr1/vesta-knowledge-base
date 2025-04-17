@@ -1,6 +1,8 @@
 # VESTA-153
 
-## **REMOTE KEYPAD with NFC Label (KPT-23N, KPT-23N-F1)**
+**KPT-23N, KPT-23N-F1**
+
+## **REMOTE KEYPAD with NFC Label**
 
 ## _**Identifying the Parts**_
 

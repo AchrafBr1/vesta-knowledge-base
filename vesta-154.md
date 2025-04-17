@@ -1,6 +1,8 @@
 # VESTA-154
 
-## **EIRC-1-F1 Outdoor Curtain Motion Sensor**
+**EIRC-1-F1**&#x20;
+
+## **Outdoor Curtain Motion Sensor**
 
 EIRC-1-F1 is an Outdoor Curtain Motion Sensor that is equipped with both PIR and Microwave motion detection technology. The combination of dual detection methods greatly improves the Motion Sensor’s detection accuracy and reduces false alarm rate, by using the PIR as initial detection, and microwave as confirmation before actually transmitting the activation signal.
 

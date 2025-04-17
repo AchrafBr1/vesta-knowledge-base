@@ -1,6 +1,8 @@
 # VESTA-157
 
-## **Temperature Sensor (TS-29)**
+**TS-29**
+
+## **Temperature Sensor**&#x20;
 
 TS-29 is a wireless temperature sensor. It transmits temperature condition to the Control Panel every 30 minutes.
 

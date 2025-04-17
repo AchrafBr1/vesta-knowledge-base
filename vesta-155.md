@@ -1,6 +1,8 @@
 # VESTA-155
 
-## DI/DO Module (DIO-52-B)
+DIO-52-B
+
+## DI/DO Module
 
 ### Introduction
 

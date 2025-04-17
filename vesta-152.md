@@ -1,12 +1,14 @@
 # VESTA-152
 
-## Remote Controller (RC-29)&#x20;
+RC-29
+
+## Remote Controller&#x20;
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
 ### _**Identifying the parts**_
 
-<figure><img src=".gitbook/assets/1 (2).png" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (2) (1).png" alt="" width="298"><figcaption></figcaption></figure>
 
 1. <img src=".gitbook/assets/1 (22).jpeg" alt="" data-size="line"> **AWAY ARM BUTTON**
 

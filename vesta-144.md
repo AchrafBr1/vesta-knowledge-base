@@ -1,6 +1,8 @@
-# VESTA 144
+# VESTA-144
 
-## **Remote Controller (RC-16-2W)**
+**RC-16-2W**
+
+## **Remote Controller**
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 

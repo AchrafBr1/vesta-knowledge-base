@@ -1,6 +1,8 @@
 # VESTA-166
 
-## **Shutter Control (SCM-8ZW)**
+**SCM-8ZW**
+
+## **Shutter Control**
 
 ### **Introduction**
 
@@ -144,17 +146,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
   * If it takes the shutter 40 seconds to move from “Down” to “Up” position, its new open time will be 40 seconds. After calibration, whenever the “Up” button is pressed, the shutter will roll up for 40 seconds.
   * **Z-Wave Command:** Besides manual calibration, users can also adjust the activation time by sending command from the Z-Wave Controller with Configuration CC command, using parameters below:
 
-| **Setting**        | **Parameter Number** | **Size** | **Value**      | **Default**      |
-| ------------------ | -------------------- | -------- | -------------- | ---------------- |
-| Open Time Setting  | 0x01                 | 0x02     | 0x0000\~0x00FF | 0x00F0 (240 sec) |
-|                    |                      |          | (sec)          |                  |
-|                    |                      |          |                |                  |
-| Close Time Setting | 0x02                 | 0x02     | 0x0000\~0x00FF | 0x00F0 (240 sec) |
-|                    |                      |          | (sec)          |                  |
-|                    |                      |          |                |                  |
-| Current Position   | 0x03                 | 0x02     | 0x0000\~0x0063 | 0x0063 (99%)     |
-|                    |                      |          | (%)            | Full Open        |
-|                    |                      |          |                |                  |
+<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Parameter Number : 0x01\~0x03
   * For parameter 1, users can set the open time (from down to up) to a value that ranges from 0 to 255 seconds.
@@ -166,17 +158,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
     Example for Configuration Setting:
 
-| Parameter Number | Size | Value |               |
-| ---------------- | ---- | ----- | ------------- |
-|                  |      |       |               |
-| 01               | 02   | 0064  | (100 seconds) |
-|                  |      |       |               |
-| 02               | 02   | 0064  | (100 seconds) |
-|                  |      |       |               |
-| 03               | 02   | 0032  | (50%)         |
-|                  |      |       |               |
-
-
+<figure><img src=".gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 SWITCH\_MULTILEVEL\_SET: 0x00 (0%)
 
@@ -184,7 +166,11 @@ SCM will roll down (from up to down) for 50 seconds: (100/100)\*(100-50)
 
 * The activation time will be reset to **4** minutes whenever the Shutter Control is included in Z-Wave network, or when it is factory reset.
 
-_**\<NOTE>:**_ The Shutter Control’s default Current Position is set to 99% (Full Open). It is recommended to fully open the shutter before calibrating with Z-Wave command, otherwise please also re-adjust the Current Position setting with command.
+{% hint style="warning" %}
+Note:
+
+The Shutter Control’s default Current Position is set to 99% (Full Open). It is recommended to fully open the shutter before calibrating with Z-Wave command, otherwise please also re-adjust the Current Position setting with command.
+{% endhint %}
 
 ### _**Z-Wave Information**_
 
