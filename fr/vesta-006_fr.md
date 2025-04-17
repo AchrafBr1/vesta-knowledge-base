@@ -27,7 +27,7 @@ Le détecteur d'ouverture optique se compose d'un couvercle et d'une base. La ba
 
 En mode de fonctionnement normal, le voyant LED reste éteint sauf dans les situations suivantes.\
 \- Lorsque l’autoprotection du détecteur d'ouverture optique est déclenchée.\
-\- Chaque fois que le contact de porte optique est activé dans des conditions de sabotage ou de batterie faible.\
+\- Chaque fois que le détecteur d'ouverture optique est activé dans des conditions de sabotage ou de batterie faible.\
 \- Chaque fois que le détecteur d'ouverture est activé et transmet le signal en mode test.
 
 #### _<mark style="background-color:green;">**- Supervision**</mark>_
@@ -43,7 +43,7 @@ Elle est conçue pour protéger contre l’ouverture non autorisée du couvercle
 
 Le détecteur d'ouverture optique utilise une **Pile alcaline AAA 1,5 V** comme source d'alimentation, et il est également capable de détecter une batterie faible. Lorsque la batterie est faible, un signal de batterie faible sera envoyé à la centrale. La LED s'allumera lorsque le détecteur d'ouverture est activé en cas de batterie faible. Lorsque la batterie est épuisée, le détecteur d'ouverture optique arrêtera toutes les fonctions et la LED clignotera toutes les 4 secondes.
 
-#### _<mark style="background-color:green;">**- Changer la batterie**</mark>_
+#### _<mark style="background-color:green;">**- Changement de batterie**</mark>_
 
 Maintenez la zone du bouton de test/apprentissage et soulevez doucement le couvercle. Retirez l'ancienne batterie comme indiqué sur la figure 1, puis appuyez 5 à 6 fois sur le bouton de test/apprentissage pour le décharger complètement. Insérez une nouvelle batterie et replacez le couvercle, comme indiqué sur la figure 2.
 

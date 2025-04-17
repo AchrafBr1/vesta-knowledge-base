@@ -31,145 +31,150 @@ Le détecteur d'ouverture se compose d'un couvercle et d'une base. L'ensemble co
 
 ![](<.gitbook/assets/0 (7) (1).png>)
 
-1. **Marques de côtes**
-2. **Isolateur de batterie**
-3. **Bouton Apprendre/Test**
-   * Appuyez sur le bouton Test pour transmettre un code d'apprentissage.
-   * Appuyez une fois sur le bouton Test pour passer en mode Test pendant 3 minutes.
-4. **Indicateur LED rouge**
-5. **Interrupteur anti-sabotage**
+1. **Emplacement pour aimant**
+2. **Opercule de battarie**
+3. **Bouton d'apprentissage/test**
+   * Appuyez sur le bouton pour transmettre un code d'apprentissage.
+   * Appuyez une fois sur le bouton pour passer en mode Test pendant 3 minutes.
+4. **Voyant LED rouge**
+5. **Autoprotection**
 6. **Batterie**
-7. **Trous de montage (débouchures)**
-8. **Marque de compression du tampon**
+7. **Trous de fixation**
+8. **Ergot pour autoprotection**
 9. **Aimant**
 10. **Entretoise magnétique**
 
-* _**Accessoires inclus**_
+#### _<mark style="background-color:green;">**- Accessoires inclus**</mark>_
 
 1. 1 aimant
 2. 1 entretoise magnétique adhésive double face
 3. 2 vis
 4. 4 chevilles murales
-5. 1 bande Velcro adhésive double face (pour contact de porte)
-6. 1 tampon de ruban adhésif double face (pour Magnet)
-7. 2 vis de montage de l'aimant
+5. 1 bande Velcro adhésive double face (pour détecteur d'ouverture)
+6. 1 bande adhésive double face (pour aimant)
+7. 2 vis de montage pour l'aimant
 
 
 
 ### <mark style="background-color:yellow;">**Caractéristiques**</mark>
 
-* _**Indicateur LED**_
+#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
 
-En mode de fonctionnement normal, le voyant LED reste éteint sauf dans les situations suivantes lorsque :
+En mode de fonctionnement normal, le voyant LED reste éteint sauf dans les situations suivantes.
 
-* Lorsque l’interrupteur anti-sabotage du contact de porte est déclenché.
-* Lorsque le contact de porte est activé avec une condition de sabotage ou de batterie faible.
-* Lorsque le contact de porte est activé et transmet le signal en mode test.
-* _**Surveillance**_
-* Le contact de porte transmettra automatiquement des signaux de supervision périodiquement au panneau de commande à des intervalles aléatoires de 30 à 50 minutes en mode de fonctionnement normal.
-* Si le panneau de commande n'a pas reçu le signal du contact de porte pendant une période prédéfinie, le panneau de commande indiquera que ce contact de porte particulier rencontre un problème de manque de signal.
-* _**Interrupteur anti-sabotage**_
-* Il est conçu pour protéger contre toute ouverture non autorisée du couvercle. Lorsque l'autoprotection est déclenchée, le contact de porte émettra un signal au panneau de commande pour rapport, la LED s'allumera également.
-* _**Batterie**_
+* Lorsque l’autoprotection du détecteur d'ouverture est déclenchée.
+* Chaque fois que le détecteur d'ouverture est activé dans des conditions de sabotage ou de batterie faible.
+* Chaque fois que le détecteur d'ouverture est activé et transmet le signal en mode test.
 
-Le MDC-3 en utilise un**Pile au lithium 3V CR2450**comme source d'énergie
+#### _<mark style="background-color:green;">**- Supervision**</mark>_
 
-![](<.gitbook/assets/1 (10).jpeg>)Le contact de porte est également capable de détecter une batterie faible. Lorsque la batterie est faible, un signal de batterie faible sera envoyé au panneau de commande avec une transmission régulière. La LED s'allumera lorsque le contact de porte est activé en cas de batterie faible.
+* Le détecteur d'ouverture transmettra automatiquement des signaux de supervision périodiquement vers la centrale à des intervalles aléatoires de 30 à 50 minutes en mode de fonctionnement normal.
+* Si la centrale n'a pas reçu le signal du détecteur d'ouverture pendant une période prédéfinie, elle indiquera que ce périphérique rencontre un problème de perte de signal.
 
-* **Changer la batterie**
+#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
 
-Vous devez ouvrir le couvercle pour insérer/retirer la batterie
+* Elle est conçue pour protéger contre l’ouverture non autorisée du couvercle. Lorsque l'autoprotection est déclenchée, le détecteur d'ouverture émettra un signal vers la centrale pour rapport, la LED s'allumera également..
 
-(Prière de se référer à\_**Installation**\_sur la façon de retirer le couvercle du contact de porte pour plus de détails)
+#### _<mark style="background-color:green;">**- Batterie**</mark>_
 
-Une fois la batterie retirée, appuyez 5 à 6 fois sur le bouton Apprendre/Test pour la décharger complètement avant d'insérer la nouvelle batterie.
+Le MDC-3 en utilise une **Pile lithium 3V CR2450** comme source d'énergie.\
+Il est également capable de détecter une batterie faible. Lorsque la batterie est faible, un signal de batterie faible sera envoyé à la centrale. La LED s'allumera lorsque le détecteur d'ouverture est activé en cas de batterie faible.
 
-\\
+#### _<mark style="background-color:green;">**- Changement de batterie**</mark>_
 
-* Assurez-vous que la marque de la batterie avec le côté positif (+) est tournée vers le haut lors de l'insertion de la batterie.
-* Assurez-vous d'insérer ou de placer la batterie depuis l'angle supérieur droit dans la vue du capot avant (arrière) :
-* _**Mode d'essai**_
+<figure><img src=".gitbook/assets/image (25).png" alt="" width="349"><figcaption></figcaption></figure>
 
-Le contact de porte peut être mis en mode test pendant 3 minutes en appuyant une fois sur le bouton de test situé sur le capot avant (arrière). Pendant le mode Test, le voyant LED s'allumera lors du déclenchement. À chaque pression sur le bouton de test, le contact de porte transmettra un signal de test au panneau de commande pour un test de portée radio et réinitialise le mode de test à la durée de 3 minutes. Il quittera automatiquement le mode test après 3 minutes et reviendra au mode de fonctionnement normal.
+Vous devez ouvrir le couvercle pour insérer/retirer la batterie\
+(Prière de se référer à la rubrique **Installation** pour retirer correctement le couvercle)\
+Une fois la batterie retirée, appuyez 5 à 6 fois sur le bouton Apprentissage/Test pour une décharge complète avant d'insérer la nouvelle batterie.
 
-* _**Commencer**_
+{% hint style="info" %}
+NOTE:
 
-Étape 1 : Retirez l'isolant de la batterie situé à l'arrière du contact de porte.
+* assurez-vous que le pôle positif (+) de la batterie soit tourner vers le haut lors de l'insertion de la batterie.
+* Assurez-vous de placer la batterie depuis l'angle supérieur du boîtier
+{% endhint %}
 
-Étape 2 : Mettez le panneau de commande en mode d'apprentissage, reportez-vous au manuel du panneau de commande pour plus de détails.
+#### _<mark style="background-color:green;">**- Mode test**</mark>_
 
-Étape 3 : Appuyez sur le bouton d'apprentissage/test du contact de porte pour envoyer un signal au panneau de commande.
+Le détecteur d'ouverture peut être mis en mode test pendant 3 minutes en appuyant une fois sur le bouton de test situé à lo'arrière du boîtier. Pendant le mode Test, le voyant LED s'allumera lors du déclenchement. À chaque pression sur le bouton de test, le détecteur d'ouverture optique transmettra un signal de test à la centrale pour un test de portée radio et réinitialise la durée du mode test à 3 minutes. Il quittera automatiquement le mode test après 3 minutes et reviendra au mode de fonctionnement normal.
 
-Étape 4 : Si le panneau de commande reçoit le signal avec succès, le panneau de commande doit répondre (par exemple en émettant des bips). Reportez-vous au manuel de votre panneau de configuration pour terminer le processus d'apprentissage.
 
-Étape 5 : Une fois le contact de porte appris, placez le panneau de commande sur «**Test de marche**", maintenez le contact de porte à l'emplacement souhaité et appuyez sur le bouton Test pour confirmer si cet emplacement est à portée du signal du panneau de commande.
 
-Étape 6 : Lorsque vous êtes satisfait du contact de porte à l'emplacement choisi, passez à\_**installation**\_.
+### _<mark style="background-color:yellow;">**Démarrage**</mark>_
 
-**Installation**
+<mark style="color:orange;">**Étape 1 :**</mark> Retirez l'opercule isolant la batterie situé à l'arrière du détecteur d'ouverture.\
+<mark style="color:orange;">**Étape 2 :**</mark> Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale pour plus de détails.\
+<mark style="color:orange;">**Étape 3 :**</mark> Appuyez sur le bouton d'apprentissage/test du détecteur d'ouverture pour envoyer un signal à la centrale.\
+<mark style="color:orange;">**Étape 4 :**</mark> Si la centrale reçoit le signal avec succès, elle doit répondre (par exemple en émettant des bips). Reportez-vous au manuel de votre centrale pour terminer le processus d'apprentissage.\
+<mark style="color:orange;">**Étape 5 :**</mark> Une fois le détecteur d'ouverture appris, placez la centrale en **test de fonctionnement**, maintenez le détecteur d'ouverture à l'emplacement souhaité et appuyez sur le bouton Test pour confirmer si cet emplacement est à portée de signal de la centrale.\
+<mark style="color:orange;">**Étape 6 :**</mark> Lorsque vous êtes satisfait du fonctionnement à l'emplacement choisi, passez à **remplacement de la batterie**.
 
-Pour ouvrir le couvercle du contact de porte :
+### _<mark style="background-color:yellow;">**Remplacement de la batterie**</mark>_
 
-Étape 1. Utilisez un tournevis à tête plate pour l'insérer dans le trou d'ouverture du couvercle d'un côté comme (**Photo1**).
-
-Étape 2. Poussez le tournevis à tête plate vers le haut comme (**Becca**).
-
-Step 3. Turn to the other side and repeat Step 1 and Step 2.
+Pour ouvrir le couvercle du contact de porte :\
+<mark style="color:orange;">**Étape 1.**</mark> Utilisez un tournevis à tête plate pour l'insérer dans l'encoche sur le côté du détecteur d'ouverture (**Photo1**).\
+<mark style="color:orange;">**Étape 2.**</mark> Poussez le tournevis à tête plate vers le haut comme indiqué sur  **Photo2**.\
+<mark style="color:orange;">**Étape 3.**</mark> Réalisez la même manipulation de l'autre côté.
 
 | <img src=".gitbook/assets/2 (9).png" alt="" data-size="original"> | <img src=".gitbook/assets/3 (10).jpeg" alt="" data-size="original"> |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
 | (Photo 1)                                                         | (Photo 2)                                                           |
 
-Étape 4. Une fois le couvercle ouvert, vous pouvez procéder au changement de la batterie, etc.
+<mark style="color:orange;">**Étape 4.**</mark> Une fois le couvercle ouvert, vous pouvez procéder au changement de la batterie.\
+<mark style="color:orange;">**Étape 5.**</mark> Pour replacer le couvercle :\
+\- Assurez-vous que l'ergot de l'autoprotection soit dans le bon sens (**Photo3**).\
+-Assurez-vous également que les crochets de fixations du couvercle correspondent aux emplacements de fixation de la base (**Photo4**).\
+-Insérez le couvercle dans la base et pousser vers le bas (1) puis vers l'avant (2) jusqu'à entendre un clip (**Photo 5**).
 
-Étape 5. Pour remplacer le couvercle :
+|                                                       Photo3                                                       |                                                       Photo4                                                       |                                                       Photo5                                                      |
+| :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+| <div><figure><img src=".gitbook/assets/image (28).png" alt="" width="141"><figcaption></figcaption></figure></div> | <div><figure><img src=".gitbook/assets/image (29).png" alt="" width="150"><figcaption></figcaption></figure></div> | <div><figure><img src=".gitbook/assets/image (30).png" alt="" width="68"><figcaption></figcaption></figure></div> |
 
--Assurez-vous que la marque de compression du tampon est dirigée vers le commutateur de sécurité (**Photo 3**).
 
--Assurez-vous également que les crochets inférieurs de la couverture arrière sont verrouillés sur le bas de la couverture avant (arrière) comme (**Choisissez-en 4**)
 
--Insérez les crochets inférieurs dans les loquets inférieurs du capot avant (arrière), puis poussez-le vers le bas comme (1) dans (**Photo 5**), puis poussez vers l'avant (2) toute la façade arrière pour la fermer jusqu'à ce que vous entendiez un son de clip.
+### _<mark style="background-color:yellow;">**Méthodes d'installation**</mark>_
 
-* _**Méthodes de montage**_
-* Montez le contact de porte en utilisant l'une des méthodes de montage ci-dessous :**Bande Velcro**ou**Montage à vis.**
-* Montez l'aimant sur l'objet le plus mobile (comme une porte) à l'aide soit du tampon adhésif double face, soit des vis fournies.
-* Alignez l'aimant en fonction de la marque de nervure sur le contact de porte. Si nécessaire, utilisez l'entretoise magnétique pour mieux aligner l'aimant sur les marques de nervures.
+* Installez le détecteur d'ouverture en utilisant l'une des méthodes ci-dessous: **Bande Velcro** ou **Visser.**
+* Installez l'aimant sur la partie mobile (comme une porte) à l'aide de la bande adhésive ou de vis.
+* Alignez l'aimant en fonction des marques disponibles sur l'une des tranches du détecteur d'ouverture. Si nécessaire, utilisez l'entretoise magnétique pour mieux aligner l'aimant.
 
-\<Remarque>
+{% hint style="info" %}
+NOTE:\
+La distance entre l'aimant et le détecteur d'ouverture ne doit pas dépasser **15mm**.
+{% endhint %}
 
-* L'aimant ne doit pas dépasser**15mm**du détecteur lorsque la porte est fermée.
+#### <mark style="background-color:green;">**Méthodes d'installations du détecteur d'ouverture**</mark>
 
-**Méthodes de montage du contact de porte**
+* **Montage vissé**
 
-* **Montage à vis**
+La base comporte deux emplacements de fixation. Le plastique est plus fin, pour faciliter l'installation.
 
-La coque arrière comporte deux trous de montage (débouchures), là où le plastique est plus fin, à des fins de montage.
+Pour installer le détecteur d'ouverture :
 
-Pour monter le contact de porte :
-
-1. Retirez le couvercle (voir**Installation**au-dessus de).
-2. Brisez la découpe sur la couverture arrière.
+1. Retirez le couvercle (voir **Remplacement de la batterie** ci-dessus).
+2. Cassez les découpes de la base.
 3. En utilisant les trous comme gabarit, percez les deux trous.
 4. Insérez des chevilles murales si vous fixez dans du plâtre ou de la brique.
-5. Vissez le couvercle arrière dans la prise murale à l'aide d'un tournevis Philips.
-6. Fixez le capot avant au capot arrière (voir**Photo 3\~5**au-dessus de).
+5. Vissez la base dans les chevilles à l'aide d'un tournevis Philips.
+6. Fixez le couvercle à la base (voir **Photo3\~5** ci-dessus).
 
-* ![](<.gitbook/assets/7 (2) (1).jpeg>)**Bande Velcro**
 
-Le contact de porte peut être fixé au mur à l'aide de la bande Velcro fournie.
 
-1. Nettoyez l'emplacement de montage mural et l'arrière du contact de porte avec un dégraissant. Ne pas monter sur un mur avec de la peinture craquelée ou une surface rugueuse.
-2. La bande Velcro peut être séparée du côté crochet et boucle.
-3. Retirez le couvercle de protection du côté crochet et fixez-le à l'arrière du contact de porte. Appuyez fermement pendant 30 secondes pour assurer un bon contact. (**Photo 6.**)
-4. Retirez le couvercle de protection du côté boucle et appliquez-le à l'emplacement de montage souhaité comme indiqué (**Photo 7.**) Appuyez fermement pendant 30 secondes pour assurer un bon contact.
+* **Bande Velcro**
 
-![](<.gitbook/assets/8 (2) (1).jpeg>) ![](<.gitbook/assets/9 (3).jpeg>)
+Le détecteur d'ouverture peut être fixé à l'aide de la bande Velcro fournie.
 
-Crochets
+1. Nettoyez l'emplacement et l'arrière du contact de porte avec un dégraissant. Ne pas monter sur un mur avec de la peinture craquelée ou une surface rugueuse.
+2. La bande Velcro peut être séparée.
+3. Retirez l'opercule de protection du côté crochet et fixez-le à l'arrière du détecteur d'ouverture. Appuyez fermement pendant 30 secondes pour assurer un bon contact (**Photo6**).
+4. Retirez l'opercule de protection du côté boucle et appliquez-le à l'emplacement souhaité comme indiqué (**Photo7**). Appuyez fermement pendant 30 secondes pour assurer un bon contact.
 
-Boucles
+![Photo6](<.gitbook/assets/8 (2) (1).jpeg>) ![Photo7](<.gitbook/assets/9 (3).jpeg>)
 
-(**Photo 6.**) (**Photo 7.**)
+5. Appliquez le détecteur d'ouverture sur la parte boucle du Velcro.
+
+
 
 1. ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (1).jpeg>)Appliquez le contact de porte sur le côté boucle avec du Velcro collé sur le mur (**Photo 8 et 9.**)
 
