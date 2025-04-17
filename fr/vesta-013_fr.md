@@ -4,7 +4,11 @@ icon: circle-chevron-right
 
 # VESTA 013
 
-## GUIDE RAPIDE
+MDC-3
+
+## <mark style="color:green;">Mini Détecteur d'ouverture</mark>
+
+### <mark style="color:red;">GUIDE RAPIDE</mark>
 
 <figure><img src=".gitbook/assets/VESTA-013[1].jpg" alt="" width="225"><figcaption><p>VESTA-013 - MDC-3-F1</p></figcaption></figure>
 
@@ -13,19 +17,17 @@ icon: circle-chevron-right
 3. Appuyez sur le bouton Learn/Test du MDC-3 pour envoyer le signal au panneau de commande.
 4. Si la centrale reçoit le signal avec succès, elle doit répondre (par exemple en émettant un bip).
 
-\[❓] Comment mettre le panneau en mode apprentissage à partir de**SmartHomeSec**
 
-{% @arcade/embed flowid="nNYzAkqIZ9RJt89JI6XK" url="<https://app.arcade.software/share/nNYzAkqIZ9RJt89JI6XK" %}
 
-## MANUEL
-
-Manuel d'utilisation du mini contact de porte (MDC-3)
+### _<mark style="background-color:yellow;">Introduction</mark>_
 
 Le mini contact de porte surveille l'ouverture/fermeture d'appareils spécifiés (par exemple porte ou fenêtre). Le contact de porte est fixé au cadre de l'appareil surveillé à l'aide d'un aimant d'actionnement fixé sur l'appareil. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du contact de porte, activant un interrupteur magnétique interne provoquant la transmission par le contact de porte d'un signal d'alarme au panneau de commande. L'appareil a également la capacité de communiquer les problèmes de signal ainsi que les situations de batterie faible.
 
 La conception du contact de porte est composée d'un capot avant et d'un capot arrière. Le capot avant (arrière) contient tous les composants électroniques et le capot arrière fournit un moyen de fixation de l'appareil. Un interrupteur anti-sabotage sur circuit imprimé fourni offre une protection contre l'ouverture non autorisée de l'appareil.
 
-**Identifier les pièces**
+
+
+### _<mark style="background-color:yellow;">**Identification**</mark>_
 
 ![](<.gitbook/assets/0 (7) (1).png>)
 
@@ -52,7 +54,9 @@ La conception du contact de porte est composée d'un capot avant et d'un capot a
 6. 1 tampon de ruban adhésif double face (pour Magnet)
 7. 2 vis de montage de l'aimant
 
-**Caractéristiques**
+
+
+### <mark style="background-color:yellow;">**Caractéristiques**</mark>
 
 * _**Indicateur LED**_
 
