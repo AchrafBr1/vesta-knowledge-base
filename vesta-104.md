@@ -1,14 +1,14 @@
 # VESTA-104
 
-**Thermostat (TMST-15ZW Series)**
+**TMST-15ZW Series**
+
+## **Thermostat**
 
 **Introduction**
 
 TMST-15ZW is a battery powered thermostat. It is designed to be incorporated into household heating and cooling system for home environment control. The Thermostat can be operated manually using the LCD screen and buttons, or accessed remotely via Z-Wave coordinator. It features cooling and heating modes with temperature set point and automatic schedule for you to control your home environment easily.
 
 ## Parts Identification
-
-![](<.gitbook/assets/0 (23).jpeg>)**1. LCD Display**
 
 1. **LCD Display**
 
@@ -38,6 +38,8 @@ G. Temperature Reading / Setpoint
 
 \- Press and hold for 3 seconds to enter programming mode.
 
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+
 **3. Up (+) Button**
 
 \- Press the button and the LCD screen will display current setpoint, mode, and set for 5 seconds. Within 5 seconds, press the UP (+) button to increase setpoint.
@@ -48,15 +50,21 @@ G. Temperature Reading / Setpoint
 
 **4. Wall Mounting Hole**
 
+<figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+
 **5. Battery Compartment**
 
 Insert 2 AA Alkaline batteries.
+
+<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 **6. Relay Terminals (Remove Relay Cover to Access)**
 
 230V 5A NO/COM/NC relay terminals.
 
 Connect to home heating/cooling system.
+
+<figure><img src=".gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 

@@ -1,6 +1,8 @@
 # VESTA-105
 
-**Mini Door Contact (MDC-3)**&#x20;
+**MDC-3**
+
+## **Mini Door Contact**
 
 **Introduction**
 
@@ -76,10 +78,13 @@ You need to open the cover to insert/remove the battery
 
 After the battery has been removed, press the Learn / Test button 5-6 times to fully discharge before inserting the new battery.
 
-\<Note>
+{% hint style="warning" %}
+Note:
 
-* Make sure the battery mark with the positive side (+) is faced upwards when inserting the battery.
-* Make sure to insert or place the battery from the top right angle in the Front Cover (Back) view:
+Make sure the battery mark with the positive side (+) is faced upwards when inserting the battery.
+
+Make sure to insert or place the battery from the top right angle in the Front Cover (Back) view
+{% endhint %}
 
 ### _**Test Mode**_
 
@@ -131,9 +136,11 @@ Step 5. To replace the cover:
 * Mount the magnet on the more mobile object (such as door) using either the double-sided adhesive pad or the screws provided.
 * Align the magnet according the rib mark on Door Contact. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
 
-< Note >
+{% hint style="warning" %}
+Note:
 
-* The magnet should be no more than **15mm** from the detector when the door is closed.
+The magnet should be no more than **15mm** from the detector when the door is closed.
+{% endhint %}
 
 ### **Mounting Methods for the Door Contact**
 
@@ -177,9 +184,7 @@ Hooks, Loops
 
 
 
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Door / Window, Frame, Rib-Marks
+<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Door / Window, Frame, Rib-Marks</p></figcaption></figure>
 
 ### **Mounting Methods for the Magnet**
 
@@ -198,9 +203,7 @@ To mount the Magnet:
 3. Screw the back cover into the door/window using a Philips screwdriver. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
 4. Attach the front cover to the back cover. If the front cover is stabilized onto the back cover, you should hear a Click sound.
 
-![](<.gitbook/assets/15 (13).png>)
-
-Screw Mount with Spacer, Screw Mount without Spacer
+![Screw Mount with Spacer, Screw Mount without Spacer](<.gitbook/assets/15 (13).png>)
 
 ### **Adhesive Mounting**
 
@@ -210,10 +213,10 @@ The Magnet can also be mounted using the double-sided adhesive tape pad or the d
 2. Remove the protective covering from one side of the double-sided adhesive pad or the double-sided adhesive Magnet Spacer. Apply to the back of the Magnet and press firmly for 30 seconds to ensure good contact.
 3. Remove the other cover and firmly press the Magnet onto the desired location for 30 seconds..
 
-![](<.gitbook/assets/16 (16).png>)
+![Adhesive Mount with Spacer, Adhesive Mount with Pad](<.gitbook/assets/16 (16).png>)
 
-Adhesive Mount with Spacer, Adhesive Mount with Pad
+{% hint style="warning" %}
+Note:
 
-\<Note>
-
-* Please do not re-apply the double-sided adhesive tape pad or the double-sided adhesive Magnet Spacer. They cannot be reused
+Please do not re-apply the double-sided adhesive tape pad or the double-sided adhesive Magnet Spacer. They cannot be reused
+{% endhint %}

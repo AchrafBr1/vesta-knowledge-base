@@ -1,6 +1,8 @@
 # VESTA-103
 
-**Shutter Control (SCM-8)**
+**SCM-8**
+
+## **Shutter Control**
 
 **Introduction**
 
@@ -105,10 +107,13 @@ Step 5: If the Control Panel receives the signal from the Shutter Control, it wi
 
 Step 6: When the Shutter Control receives the learning code from the Control Panel, the LED of the Shutter Control will flash twice and then turn off to indicate that learning process is complete.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* After entering learning mode, if the Shutter Control does not receive acknowledgement from the Control Panel for 1 miniute, it will automatically leave learning mode.
-* If the Shutter Control already exists in a Control Panel system, you will need to first remove the Shutter Control from the Control Panel before you can learn it into a different Control Panel.
+After entering learning mode, if the Shutter Control does not receive acknowledgement from the Control Panel for 1 miniute, it will automatically leave learning mode.
+
+If the Shutter Control already exists in a Control Panel system, you will need to first remove the Shutter Control from the Control Panel before you can learn it into a different Control Panel.
+{% endhint %}
 
 ## **Walk Test**
 

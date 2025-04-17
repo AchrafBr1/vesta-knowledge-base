@@ -1,4 +1,8 @@
-# VESTA 096
+---
+hidden: true
+---
+
+# VESTA 096\_old
 
 * **PIR Motion Sensor Camera** (VST-862)
 

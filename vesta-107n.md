@@ -1,6 +1,8 @@
 # VESTA-107N
 
-**Wireless Outdoor Bell Box** **BX-32**
+**BX-32**
+
+## **Wireless Outdoor Bell Box**&#x20;
 
 The Outdoor Bell Box is used to attract attention when alarm signal is received from Control Panel, by activating its siren and strobe light.
 
@@ -92,10 +94,13 @@ Step 6: If the Control Panel receives the learning code, it will list the device
 
 Step 7: Refer to the Control Panel manual and use Edit Device function to check Bellbox settings. You can edit the operation area, zone number, and device name for the Bellbox.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* If the learning process fails, please remove the Bellbox from the Control Panel and repeat Steps 4-7 again.
-* If the Bellbox does not receive the confirm code from the Control Panel within one minute, the Bellbox will leave learning mode. Restart learning process from Step 4.
+If the learning process fails, please remove the Bellbox from the Control Panel and repeat Steps 4-7 again.
+
+If the Bellbox does not receive the confirm code from the Control Panel within one minute, the Bellbox will leave learning mode. Restart learning process from Step 4.
+{% endhint %}
 
 ### **Edit Bellbox Operation Area**
 
@@ -115,9 +120,11 @@ Proceed to installation after complete learning.
 
 Step 1. Disable the Siren Tamper function on the Control Panel (please refer to the Control Panel instruction manual). The bellbox will sound a beep to indicate the tamper switch is now disabled.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* The function Siren Tamper will only turn OFF for a duration of one hour. The Control Panel will automatically turn the function back ON after the duration.
+The function Siren Tamper will only turn OFF for a duration of one hour. The Control Panel will automatically turn the function back ON after the duration.
+{% endhint %}
 
 Step 2. Find the location where the Bellbox is to be mounted.
 
@@ -129,9 +136,11 @@ Step 5. Check whether BX has a strong enough signal with the Control Panel by pu
 
 Step 6. If you are satisfied with the signal strength, Identify the 3 mounting holes, mount and fix the Bellbox on the wall using the large screws and wall plugs provided. Secure the screws using a Philips screwdriver. Make sure the Tamper Switch is fully depressed against the wall.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* The tamper switch protrudes through the back of the unit. When the siren is pulled off from the wall, the alarm will be activated. Ensure it is fully depressed when the siren is mounted. If there is a gap, pack with suitable spacing material.
+The tamper switch protrudes through the back of the unit. When the siren is pulled off from the wall, the alarm will be activated. Ensure it is fully depressed when the siren is mounted. If there is a gap, pack with suitable spacing material.
+{% endhint %}
 
 Step 7. Replace the Top cover and tighten the bottom screw using a Philips screwdriver.
 
@@ -139,9 +148,11 @@ Step 8. Enable Siren Tamper function in the Control Panel (Please refer to the C
 
 Successful arming/disarming is indicated by the table provided in **Audio & Visual Status Indication**.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* If 5 short-beeps are noticed while arming/disarming, it means the tamper is not fully depressed. Check to ensure that tamper is properly set and then test from Control Panel again.
+If 5 short-beeps are noticed while arming/disarming, it means the tamper is not fully depressed. Check to ensure that tamper is properly set and then test from Control Panel again.
+{% endhint %}
 
 Step 10. The installation is now completed.
 
@@ -181,6 +192,8 @@ Step 4: Slide the battery switch to the OFF position.
 
 Step 5: Press and hold the Learn Button and slide the battery switch to ON position. Continue to hold the Learn Button for 7 seconds. Release the Learn Button when you hear 2 short beeps and a long beep. The previous parameters in the Bellbox will be cleared and it will return to normal mode.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Whenever the Bellbox is removed from the Control Panel, it should be put to factory reset as well to clear its Control Panel memory.
+Whenever the Bellbox is removed from the Control Panel, it should be put to factory reset as well to clear its Control Panel memory.
+{% endhint %}

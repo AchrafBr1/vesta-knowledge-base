@@ -1,6 +1,8 @@
 # VESTA-108
 
-Wireless Indoor Siren (SR-32 / SR-32-F1)
+SR-32 / SR-32-F1
+
+## Wireless Indoor Siren
 
 The Indoor Siren is used to attract attention when alarm signal is received from Control Panel by activating its siren. The Siren can also alert you to tamper violation, and low battery status.
 
@@ -40,10 +42,13 @@ The Siren is powered by two 1.5V Alkaline D batteries, it features low battery d
 
 When changing batteries, after removing the old batteries, press the Tamper Switch a couple times to fully discharge before inserting new batteries.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* Only use specified batteries with the device. When replacing batteries, always replace the whole set, do not mix different types of batteries or new and used ones to avoid damaging the device.
-* Supervision
+Only use specified batteries with the device. When replacing batteries, always replace the whole set, do not mix different types of batteries or new and used ones to avoid damaging the device.
+
+Supervision
+{% endhint %}
 
 The Siren will transmit a supervisory signal every 30-50 minutes in normal operation mode. If this signal is not received, the Control Panel will indicate that the particular Siren is experiencing an out-of-order problem.
 
@@ -106,10 +111,13 @@ Step 6: If the Control Panel receives the learning code, it will list the device
 
 Step 7: Refer to the Control Panel manual and use Edit Device function to check Siren settings. You can edit the operation area, zone number, and device name for the Siren.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* If the learning process fails, please remove the Siren from the Control Panel and repeat Steps 4-7 again.
-* If the Siren does not receive the confirm code from the Control Panel within one minute, the Siren will leave learning mode. Restart learning process from Step 4.
+If the learning process fails, please remove the Siren from the Control Panel and repeat Steps 4-7 again.
+
+If the Siren does not receive the confirm code from the Control Panel within one minute, the Siren will leave learning mode. Restart learning process from Step 4.
+{% endhint %}
 
 ### **Edit Siren Operation Area**
 
@@ -131,9 +139,11 @@ _<mark style="color:blue;">**Tamper On/ Tamper Off**</mark>_
 
 You can enable or disable all RF Sirens’ tamper protection with this function. Select to turn on or off the siren’s tamper function.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* When turned off, the Siren will stop tamper detection temporarity for one hour. After one hour, the Control Panel will automatically turn the function back ON if the tamper function is not turned on manually.
+When turned off, the Siren will stop tamper detection temporarity for one hour. After one hour, the Control Panel will automatically turn the function back ON if the tamper function is not turned on manually.
+{% endhint %}
 
 ### **Individual Siren Function**
 
@@ -178,9 +188,11 @@ Proceed to installation after complete learning.
 
 Step 1. Disable the Siren Tamper function on the Control Panel (please refer to the Control Panel instruction manual). The Siren will sound a beep to indicate the tamper switch is now disabled.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* The siren tamper can be turned off temporarily for 1 hour, refer to Control Panel instruction manual for further setup. The siren tamper will be turned on automatically after 1 hour in case users forget to turn it on.
+The siren tamper can be turned off temporarily for 1 hour, refer to Control Panel instruction manual for further setup. The siren tamper will be turned on automatically after 1 hour in case users forget to turn it on.
+{% endhint %}
 
 Step 2. Find the location where the Siren is to be mounted.
 
@@ -202,9 +214,11 @@ Step 8. Identify the two mounting holes at lower part of the Siren. Drill two ho
 
 Step 9. Secure the screw using a Phillips screwdriver. Make sure the Tamper Switch is fully depressed against the wall
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* The tamper switch protrudes through the back of the unit. When the siren is pulled off from the wall, the alarm will be activated. Ensure it is fully depressed when the siren is mounted.
+The tamper switch protrudes through the back of the unit. When the siren is pulled off from the wall, the alarm will be activated. Ensure it is fully depressed when the siren is mounted.
+{% endhint %}
 
 Step 10. Replace the Top cover and tighten the bottom screw using a Phillips screwdriver, as shown below.
 
@@ -218,9 +232,11 @@ Step 12. Check if the installation is successful by testing from the Control Pan
 
 Successful arming/disarming is indicated by the table provided in **Audio & Visual Status Indication**.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* If 5 short-beeps are noticed while arming/disarming, it means the tamper is not fully depressed. Check to ensure that tamper is properly set and then test from Control Panel again.
+If 5 short-beeps are noticed while arming/disarming, it means the tamper is not fully depressed. Check to ensure that tamper is properly set and then test from Control Panel again.
+{% endhint %}
 
 Step 13. The installation is now completed.
 
@@ -228,9 +244,11 @@ Step 13. The installation is now completed.
 
 Step 1: Disable the Siren Tamper function on the Control Panel. The Siren will sound a beep to indicate the tamper switch is now disabled.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* The siren tamper can be turned off temporarily for the need of changing batteries, refer to Control Panel instruction manual for further setup. The siren tamper will be turned on automatically after 1 hour in case users forget to turn it on after battery replacement is completed.
+The siren tamper can be turned off temporarily for the need of changing batteries, refer to Control Panel instruction manual for further setup. The siren tamper will be turned on automatically after 1 hour in case users forget to turn it on after battery replacement is completed.
+{% endhint %}
 
 Step 2: Release the cover-fixing screw at the bottom of Siren using a Phillips screwdriver and pull the outer case out carefully.
 
@@ -240,10 +258,13 @@ Step 4: The battery compartment is a large box in the Siren with a lid secured b
 
 Step 5: Remove the old batteries and press the Tamper Switch a couple times to discharge.
 
-\<NOTE>
+{% hint style="info" %}
+Note:
 
-* When changing batteries, after removing the old batteries, press the Learn Button twice to fully discharge before inserting new batteries.
-* Only use specified batteries with the device. When replacing batteries, always replace the whole set, do not mix different types of batteries or new and used ones to avoid damaging the device.
+When changing batteries, after removing the old batteries, press the Learn Button twice to fully discharge before inserting new batteries.
+
+Only use specified batteries with the device. When replacing batteries, always replace the whole set, do not mix different types of batteries or new and used ones to avoid damaging the device.
+{% endhint %}
 
 Step 6: Insert new batteries into the battery compartment.
 
@@ -269,6 +290,10 @@ Step 4: Slide the battery switch to the OFF position.
 
 Step 5: Press and hold the Learn Button and slide the battery switch to ON position. Continue to hold the Learn Button for 7 seconds. Release the Learn Button when you hear 2 short beeps and a long beep. The previous parameters in the Siren will be cleared and it will return to normal mode.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-* Whenever the siren is removed from the Control Panel, it should be put to factory reset as well to clear its Control Panel memory.
+Whenever the siren is removed from the Control Panel, it should be put to factory reset as well to clear its Control Panel memory.
+{% endhint %}
+
+*

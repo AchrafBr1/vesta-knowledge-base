@@ -33,7 +33,7 @@ The jumper link is inserted, connecting the two pins. The jumper link is removed
 
 1. **Input Jumper Switch (JP2)**
 
-![](<.gitbook/assets/2 (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/2 (1) (1) (1) (1) (1) (1).png>)
 
 | **Jumper On**                                        | **Jumper Off**                                        |
 | ---------------------------------------------------- | ----------------------------------------------------- |
