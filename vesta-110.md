@@ -1,6 +1,8 @@
 # VESTA-110
 
-**Universal Transmitter (UT-15SL / UT-15SL-NT)**
+**UT-15SL / UT-15SL-NT**
+
+## **Universal Transmitter**
 
 Universal Transmitter monitors the opening/closing of specified device that is connected to it. If any alarm is triggered by the connected device, the Universal Transmitter transmits the alarm signal to Control Panel to notify users of an alarm event.
 
@@ -73,10 +75,13 @@ Used for Roller shutter connection
 
 
 
-_\<NOTE >_
+{% hint style="warning" %}
+Note:
 
-* After you have set one function by sliding the DIP switch, you have to press Test Button to confirm the setting.
-* Only **1** switch of Dip Switch 1\~4 & 8 can be set to ON position at a time.
+After you have set one function by sliding the DIP switch, you have to press Test Button to confirm the setting.
+
+Only **1** switch of Dip Switch 1\~4 & 8 can be set to ON position at a time.
+{% endhint %}
 
 ## _**Accessories Included**_
 
@@ -131,9 +136,11 @@ Use the provided wall plugs for plaster/brick installation.
 
 Screw the transmitter into the provided wall plugs.
 
-_< Note >_
+{% hint style="info" %}
+Note:
 
-* Ensure the tamper switch spring is positioned so that it is in contact with the mounting surface through the tamper switch aperture.
+Ensure the tamper switch spring is positioned so that it is in contact with the mounting surface through the tamper switch aperture.
+{% endhint %}
 
 Step 3: Put the Control Panel into (**Walk Test**) Mode, and press the Test Button to test the signal range
 
@@ -151,9 +158,11 @@ Step 2: Locate a rectangular through-hole on the upper end of the front case. Th
 
 Step 3: Use Dip Switch 6 to select the N.O. or N.C. setting for Extension Terminal 1.
 
-_\<NOTE >_
+{% hint style="info" %}
+Note:
 
-* After you have selected the N.O. or N.C. setting with DIP Switch 6, you have to press the Test Button once, and operate once the device of Extension Terminal 1 (CON 4) to effectively change the state of CON 4.
+After you have selected the N.O. or N.C. setting with DIP Switch 6, you have to press the Test Button once, and operate once the device of Extension Terminal 1 (CON 4) to effectively change the state of CON 4.
+{% endhint %}
 
 Step 4: Activate the connected device to test the signal transmission.
 
@@ -167,15 +176,18 @@ Step 4: Activate the connected device to test the signal transmission.
 
 The Extension Terminal 2 can be triggered by the rotations of the axle. Connect the roller shutter to Extension Terminal 2 to use this function.
 
-_\<NOTE >_
+{% hint style="warning" %}
+Note:
 
-* The Extension Terminal 2 (CON 5) can be functioned only when the Dip Switch 1 is set to ON (the Door Contact type).
-*   When the pull cord is pulled down or retracted, it will cause the axles to rotate. Options are available for alarm trigger with 5- or 8-axle rotations.
+The Extension Terminal 2 (CON 5) can be functioned only when the Dip Switch 1 is set to ON (the Door Contact type).
+
+When the pull cord is pulled down or retracted, it will cause the axles to rotate. Options are available for alarm trigger with 5- or 8-axle rotations.
+{% endhint %}
 
 
 
-    * 5-axle rotations are about 9.5 cm.
-    * 8 axle rotations are about 13 cm.
+* 5-axle rotations are about 9.5 cm.
+* 8 axle rotations are about 13 cm.
 
 
 

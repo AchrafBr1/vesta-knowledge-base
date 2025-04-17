@@ -1,6 +1,8 @@
 # VESTA-114
 
-**WIRED/WIRELESS COMBO KEYPAD (KP-35-COMBO)**
+**KP-35-COMBO**
+
+## **WIRED/WIRELESS COMBO KEYPAD**
 
 KP-35-COMBO is a hardwired and wireless keypad designed to have quick access control of the system control panel. The keypad can send wired and wireless signals to and receive signals from the Control Panel within wire distance, depending on the wire gauge and the total power consumption of all wired devices. The LCD screen will display information the system control panel sends back.
 
@@ -74,9 +76,11 @@ When KP-35-Combo is hardwired to Control Panel, 13.5V (typical) power supply can
 * Two L91 1.5V AA lithium batteries can be installed inside the battery compartment to serve as a backup power source in case of power failure. Prior to inserting batteries, ensure correct battery placement to protect your device.
 * The wired/wireless keypad can also monitor the battery life. When batteries are low in power, a low battery signal will be sent along with regular signal transmission to the Control Panel to alert users to battery replacement.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Use only the specified batteries with the device. When replacing batteries, always replace the whole set and do not mix different types of batteries or new and used ones to avoid damaging the device.
+Use only the specified batteries with the device. When replacing batteries, always replace the whole set and do not mix different types of batteries or new and used ones to avoid damaging the device.
+{% endhint %}
 
 ### _**Power Saving Feature**_
 
@@ -128,10 +132,13 @@ For example, for KP-35-COMBO-**B** in the picture below, it is the farthest devi
 * “Scanning Network” will be displayed on the LCD screen while the wired/wireless keypad is sending learning code to the Control Panel.
 * When the keypad is added to the Control Panel, “Learning Success” will be displayed on the LCD screen along with 2 beeps.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* If the Control Panel promptly responds to the wired/wireless keypad, the “Scanning Network” process will be skipped, and “Learning Success” will be directly displayed on the LCD screen.
-* If the wired/wireless keypad does not receive any signal from the Control Panel within 20 seconds, the LCD screen will be turned off, and the wired/wireless keypad will return to stand-by mode.
+If the Control Panel promptly responds to the wired/wireless keypad, the “Scanning Network” process will be skipped, and “Learning Success” will be directly displayed on the LCD screen.
+
+If the wired/wireless keypad does not receive any signal from the Control Panel within 20 seconds, the LCD screen will be turned off, and the wired/wireless keypad will return to stand-by mode.
+{% endhint %}
 
 ## **Hardwiring Operation:**
 
@@ -177,9 +184,11 @@ To locate KP-35-Combo in the wired system:
 
 **Step 2.** If KP-35- Combo receives the signal from the Panel, the webpage will display a success message and the white backlight of the wired/wireless keypad will flash 10 times to indicate where it is to the user.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* If a timeout message is displayed on the webpage, it means the wired/wireless keypad did not receive the signal from the Panel.
+If a timeout message is displayed on the webpage, it means the wired/wireless keypad did not receive the signal from the Panel.
+{% endhint %}
 
 Please check whether KP-35-Combo is connected properly to the Panel within appropriate wiring distance.
 
@@ -231,13 +240,19 @@ After entering the PIN code, press the **Arm/Home Arm/OK** key to enter **Away A
 * **Alarm Memory:** This option will become available after an alarm is triggered. Entering User Menu will be directed to the Alarm Memory option automatically. Press **OK** to confirm the selection, and then use ![](<.gitbook/assets/image (119).png>) and ![](<.gitbook/assets/image (120).png>) keys to view the alarm memory.
 * **Fault Display:** This option will become available when fault event exists in the system. To view fault events, select “Fault Display” and press OK to confirm the selection. Use ![](<.gitbook/assets/image (121).png>) and ![](<.gitbook/assets/image (122).png>) keys to view the fault events and press ![](<.gitbook/assets/image (123).png>) key to return to User Menu.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* The Yellow LED will flash once every 3 seconds when any fault situation is detected, and turn to OFF when all fault situations are cleared.
-* If you try to arm the system when fault event exists, the arming will be prohibited and the LCD screen will jump to Fault Display. If you want to forcibly arm the system, perform the arm action again within 30 seconds. The system will ignore the fault event and enter your selected arm mode.
-* **Log**: Select “Log” and press OK to view the system log. Use ![](<.gitbook/assets/image (116).png>) and ![](<.gitbook/assets/image (117).png>) keys to view the events and press ![](<.gitbook/assets/image (118).png>) key to return to User Menu.
-* **Bypass:** This function is only available under wired connection. “Enter M. Code” will be shown on the LCD screen (default M. Code is **1111**). The Panel will ignore all signals received from the device being bypassed and not respond at all when such device is triggered.
-* **Setting:** For wireless connection, after entering Unser Menu, input the default M. code “**1111**” to enter the setting menu. For wired connection, input the default I. code “**7982**” to enter the setting menu. Use ![](<.gitbook/assets/image (114).png>) and ![](<.gitbook/assets/image (115).png>) keys to select setting options and press key to return to User Menu.
+The Yellow LED will flash once every 3 seconds when any fault situation is detected, and turn to OFF when all fault situations are cleared.
+
+If you try to arm the system when fault event exists, the arming will be prohibited and the LCD screen will jump to Fault Display. If you want to forcibly arm the system, perform the arm action again within 30 seconds. The system will ignore the fault event and enter your selected arm mode.
+
+**Log**: Select “Log” and press OK to view the system log. Use ![](<.gitbook/assets/image (116).png>) and ![](<.gitbook/assets/image (117).png>) keys to view the events and press ![](<.gitbook/assets/image (118).png>) key to return to User Menu.
+
+**Bypass:** This function is only available under wired connection. “Enter M. Code” will be shown on the LCD screen (default M. Code is **1111**). The Panel will ignore all signals received from the device being bypassed and not respond at all when such device is triggered.
+
+**Setting:** For wireless connection, after entering Unser Menu, input the default M. code “**1111**” to enter the setting menu. For wired connection, input the default I. code “**7982**” to enter the setting menu. Use ![](<.gitbook/assets/image (114).png>) and ![](<.gitbook/assets/image (115).png>) keys to select setting options and press key to return to User Menu.
+{% endhint %}
 
 **Beep Control**
 
@@ -283,10 +298,13 @@ This function is only available under wireless connection. The default M. code i
 * **Fault Display**: When the system arms with fault, “Fault Display” will be displayed on the LCD screen along with 3 beeps indicating arming fault.
 * **Incorrect PIN Code:** When incorrect password is submitted, “Incorrect PIN Code” will be displayed on the LCD screen along with 4 beeps indicating wrong password entered.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* After the mode change request is submitted, if no signal is received from the Control Panel, the keypad will return to stand-by mode within 15 seconds.
-* If there are 5 incorrect PIN Code attempts within 10 minutes, the wired/wireless keypad will be automatically locked up for 5 minutes. During this period, any operation will be invalid. When the lockup time expires, the wired/wireless keypad will emit. 1 long beep.
+After the mode change request is submitted, if no signal is received from the Control Panel, the keypad will return to stand-by mode within 15 seconds.
+
+If there are 5 incorrect PIN Code attempts within 10 minutes, the wired/wireless keypad will be automatically locked up for 5 minutes. During this period, any operation will be invalid. When the lockup time expires, the wired/wireless keypad will emit. 1 long beep.
+{% endhint %}
 
 ### _**Dual Key Alarm Functions**_
 
@@ -332,11 +350,15 @@ The wired/wireless keypad can be reset to clear all learnt-in data and return al
 6. Alarm Beep will be disabled.
 7. Dual Key alarm function will be disabled.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Factory default setting can only be performed within 10 seconds after inserting the batteries. If the keypad does not wake up within 10 seconds after inserting the batteries, remove the batteries and try again.
-* Whenever the keypad is removed from the Control Panel, it should be put to factory default as well to clear its Control Panel memory.
-* _**Mounting the Wired/Wireless Keypad**_
+Factory default setting can only be performed within 10 seconds after inserting the batteries. If the keypad does not wake up within 10 seconds after inserting the batteries, remove the batteries and try again.
+
+Whenever the keypad is removed from the Control Panel, it should be put to factory default as well to clear its Control Panel memory.
+{% endhint %}
+
+## _**Mounting the Wired/Wireless Keypad**_
 
 To mount the wired/wireless keypad:
 
