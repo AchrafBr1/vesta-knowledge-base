@@ -56,9 +56,7 @@ Ce clavier est décliné en deux modèles :
 
 
 
-
-
-### _**Indicateur LED :**_
+### _<mark style="background-color:yellow;">**Voyant LED**</mark>_
 
 * **LED Verte-Activité:**
   * LED Verte-Activité allumée : le système est en **Mode de fonctionnement normal**.
@@ -73,36 +71,27 @@ Ce clavier est décliné en deux modèles :
   * LED Orange-Défaut allumée : l'autoprotection est déclenchée.
   * Lorsque l'autoprotection est déclenchée et que la batterie est faible, la LED Orange-Défaut s'allume pendant le fonctionnement.
 
-NOTE\
-\- Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.\
-\- 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
+{% hint style="info" %}
+NOTE:
 
+* Un bip court retentira à chaque appui sur une touche, ce qui confirmera la validité de l'appui.
+* 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
+{% endhint %}
 
-
-
-
-_**Alimentation**_
+#### _<mark style="background-color:green;">**- Alimentation**</mark>_
 
 * Le clavier utilise une pile au lithium CR2450 3V 540mAH.
 * Le clavier peut également détecter l'état de la batterie. La détection de batterie basse fonctionne lorsque le clavier dispose d'une réserve d'énergie suffisante pour fonctionner généralement pendant 4 mois avant d'être complètement épuisé.
 * Lorsque la batterie du clavier est faible, la LED Orange-Défaut clignote pendant le fonctionnement et un signal de batterie faible sera transmis avec les transmissions de signaux régulières.
 * Avant expédition, la batterie est préinstallée en usine.
 
-
-
-
-
-_**Autoprotection:**_
+#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
 
 * Le clavier est protégé contre toute tentative d'ouverture du couvercle ou d'arrachement de sa surface d'installation.
 * La détection d'autoprotection est désactivée en mode test.
 * Lorsque l'autoprotection est déclenchée,  un évènement d'autoprotection du clavier sera envoyé à la centrale et la LED Orange-Défaut s'allumera. De plus, pendant l'utilisation du clavier, la LED Orange-Défaut restera allumée pour indiquer le déclenchement de l'autoprotection.
 
-
-
-
-
-_**Fonction d'économie d'énergie :**_
+#### _<mark style="background-color:green;">**- Fonction d'économie d'énergie**</mark>_
 
 * Lorsque le clavier n'est pas utilisé, aucune énergie n'est consommée. Lorsqu'une touche est utilisée, le clavier s'active pendant 5 secondes.
 * Après 5 secondes d'inactivité, le clavier s'éteint à nouveau et revient en mode veille.
@@ -110,19 +99,18 @@ _**Fonction d'économie d'énergie :**_
 
 
 
-
-
-### _**Mode Test:**_
+### _<mark style="background-color:yellow;">**Mode Test**</mark>_
 
 * Le clavier peut être mis en mode Test en saisissant le code PIN (par défaut :**0000**) suivi de **\***. La LED verte-Activité clignotera et le clavier émettra un long bip.
 * Pour sortir du mode Test, appuyez sur <img src=".gitbook/assets/image (5) (1).png" alt="" data-size="line"> **deux fois**, le clavier émettra un long bip et la LED verte-Activité s'allumera, puis le clavier reviendra en mode de fonctionnement normal.
 
-**NOTE**\
-**-** Le mode test est utile pour éjecter l'autoprotection du clavier lors de l'installation, le remplacement des piles ou un changement d'emplacement.\
-\- Lorsque le clavier est en mode Test, il est réveillé et ne reviendra PAS en mode veille après 5 secondes.\
-\- En mode test, si aucune touche n'est utilisée dans les 30 minutes, le clavier quittera automatiquement le mode test et passera en mode de fonctionnement normal.
+{% hint style="info" %}
+**NOTE**
 
-
+* Le mode test est utile pour éjecter l'autoprotection du clavier lors de l'installation, le remplacement des piles ou un changement d'emplacement.
+* Lorsque le clavier est en mode Test, il est réveillé et ne reviendra PAS en mode veille après 5 secondes.
+* En mode test, si aucune touche n'est utilisée dans les 30 minutes, le clavier quittera automatiquement le mode test et passera en mode de fonctionnement normal.
+{% endhint %}
 
 _Le **Mode Test du clavier** permet les fonctions suivantes:_
 
@@ -138,18 +126,19 @@ _Le **Mode Test du clavier** permet les fonctions suivantes:_
 * Armement sans code - appuyez sur **＊** puis **8**
 * Armement avec code - appuyez sur **＊** puis **9**
 
-NOTE\
-\- En cas de saisie  ou d'utilisation incorrecte, le clavier émettra 4 bips courts.\
-\- Lorsqu'un mauvais code est saisi 4 fois, le clavier émettra 6 bips et toutes les LED clignoteront 3 fois. Le clavier sera verrouillé pendant 1 min. Après 1 minute, le clavier émettra un bip et pourra être à nouveau utilisé.
+{% hint style="info" %}
+NOTE:
+
+* En cas de saisie  ou d'utilisation incorrecte, le clavier émettra 4 bips courts.
+* Lorsqu'un mauvais code est saisi 4 fois, le clavier émettra 6 bips et toutes les LED clignoteront 3 fois. Le clavier sera verrouillé pendant 1 min. Après 1 minute, le clavier émettra un bip et pourra être à nouveau utilisé.
+{% endhint %}
 
 
 
+### _<mark style="background-color:yellow;">**Procédures d'apprentissage**</mark>_
 
-
-### _**Procédures d'installation :**_
-
-Étape 1. Mettez l a centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
-Étape 2. Ajout du clavier dans la centrale :
+<mark style="color:orange;">**Étape 1.**</mark> Mettez l a centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
+<mark style="color:orange;">**Étape 2.**</mark> Ajout du clavier dans la centrale :
 
 * **Apprentissage en mode test :**
   1. Mettez le clavier en mode Test en saisissant le code (par défaut :**0000**), puis appuyez sur la touche ＊. La LED Verte-Activité s'allumera avec un long bip.
@@ -161,9 +150,9 @@ NOTE\
      **NOTE:** Si le clavier n'a émis aucun bip, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **#** et **＊** simultanément en mode de fonctionnement normal pour envoyer le code d'apprentissage.
   2. Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage.
 
-Étape 3. Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **＊** et **1** en Mode Test ou appuyez sur les touches  **#** et **＊** simultanément en mode normal.\
-Étape 4. Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**).\
-Étape 5. Réglage du code:&#x20;
+<mark style="color:orange;">**Étape 3.**</mark> Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **＊** et **1** en Mode Test ou appuyez sur les touches  **#** et **＊** simultanément en mode normal.\
+<mark style="color:orange;">**Étape 4.**</mark> Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**).\
+<mark style="color:orange;">**Étape 5.**</mark> Réglage du code:&#x20;
 
 1. Appuyez sur **＊** et **6**, le clavier émet un bip long.
 2. Saisir **0000** (code par défaut)
@@ -173,11 +162,7 @@ NOTE\
 
 Étape 6. Appuyez sur <img src=".gitbook/assets/image (7) (1).png" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l’installation est terminée.
 
-
-
-
-
-### _**Montage du clavier :**_
+#### _<mark style="background-color:green;">**- Installation du clavier**</mark>_
 
 Pour monter le clavier
 
@@ -189,9 +174,7 @@ Pour monter le clavier
 
 
 
-
-
-### _**Contrôle du mode système**_
+### _<mark style="background-color:yellow;">**Contrôle du système d'alarme**</mark>_
 
 Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier.\
 Il existe deux manières d'armer le système.
@@ -200,6 +183,8 @@ Il existe deux manières d'armer le système.
 2. Armement Total/Partiel sans saisir le code utilisateur.
 
 Le désarmement du système nécessite toujours la saisie du code utilisateur.
+
+
 
 **Armement Total/Partiel avec code utilisateur**\
 En mode Test, appuyez sur les touches **＊** et **9** pour activer la fonction Armement avec code (**par défaut**).
@@ -215,11 +200,7 @@ En mode Test, appuyez sur les touches **＊** et **8** pour activer la fonction 
 * **Armement Partiel:** appuyez sur la touche <img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
 * **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7) (1).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
 
-
-
-
-
-_**Remplacement de la batterie**_
+_<mark style="background-color:green;">**- Remplacement de la batterie**</mark>_
 
 1. Mettez la centrale en mode programmation.
 2. Démontez le clavier en retirant d'abord les sections amobibles, puis les vis de montage.
@@ -231,18 +212,22 @@ _**Remplacement de la batterie**_
 
 
 
-_**Annexe:**_
+### _<mark style="background-color:yellow;">**Réinitialiser aux paramètres d'usine**</mark>_
 
-Si vous avez oublié le code ou si un problème s'est produit avec le clavier, vous pouvez réinitialiser le clavier aux paramètres 'usine.
+{% hint style="info" %}
+_Annexe:_
 
-### _**Réinitialiser aux paramètres d'usine :**_
+Si vous avez oublié le code ou si un problème s'est produit avec le clavier, vous pouvez réinitialiser le clavier aux paramètres usine.
+{% endhint %}
 
 Étape 1 Retirez l'une des piles et relâchez l'autoprotection.\
 Étape 2 : Appuyez la touche **3** tout en réinsérant la batterie.\
 Étape 3: Maintenir la touche **3** Appuyée jusqu'à entendre 3 bips indiquant le succès de la réinitialisation.\
 Étape 4 : Relâchez la touche **3.**
 
+{% hint style="info" %}
 **NOTE**
 
 * Après la réinitialisation, le code revient à la valeur par défaut,  "**0000"**. Le clavier aura besoin d'un nouveau processus d'apprentissage pour refonctionner.
 * Chaque fois que le clavier est retiré d'une centrale, il doit être également réinitialisé pour effacer la précédente centrale de sa mémoire.
+{% endhint %}
