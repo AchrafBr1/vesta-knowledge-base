@@ -56,7 +56,7 @@ G. Temperature Reading / Setpoint
 
 Insert 2 AA Alkaline batteries.
 
-<figure><img src=".gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **6. Relay Terminals (Remove Relay Cover to Access)**
 
@@ -64,7 +64,7 @@ Insert 2 AA Alkaline batteries.
 
 Connect to home heating/cooling system.
 
-<figure><img src=".gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 

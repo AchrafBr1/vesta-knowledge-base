@@ -183,4 +183,4 @@ new ZigBee firmware provided. Please refer to ZigBee Coordinator User Manual for
 
 <figure><img src=".gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>

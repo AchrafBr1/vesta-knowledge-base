@@ -1,6 +1,8 @@
 # VESTA-191
 
-## **ZigBee Relay Controller PRL-8ZBS(R)-AC-OTA**
+**PRL-8ZBS(R)-AC-OTA**
+
+## **ZigBee Relay Controller**&#x20;
 
 ## **Introduction**
 
