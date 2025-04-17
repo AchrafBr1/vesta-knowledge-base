@@ -1,8 +1,4 @@
----
-icon: circle-chevron-right
----
-
-# VESTA 013
+# VESTA-013
 
 MDC-3
 
@@ -172,47 +168,43 @@ Le détecteur d'ouverture peut être fixé à l'aide de la bande Velcro fournie.
 
 ![Photo6](<.gitbook/assets/8 (2) (1).jpeg>) ![Photo7](<.gitbook/assets/9 (3).jpeg>)
 
-5. Appliquez le détecteur d'ouverture sur la parte boucle du Velcro.
+5. Appliquez le détecteur d'ouverture sur la partie boucle du Velcro collé sur le mur (**Photo 8 et 9.**)
+
+![Photo8](<.gitbook/assets/11 (6).jpeg>) ![Photo9](<.gitbook/assets/12 (10).png>)
 
 
 
-1. ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (1).jpeg>)Appliquez le contact de porte sur le côté boucle avec du Velcro collé sur le mur (**Photo 8 et 9.**)
+![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (1).jpeg>)
 
-![](<.gitbook/assets/11 (6).jpeg>) ![](<.gitbook/assets/12 (10).png>)
+#### <mark style="background-color:green;">**Méthodes d'installations de l'aimant**</mark>
 
-(**Photo 8.**) (**Photo 9.**)
+* **Montage visssé**
 
-**Méthodes de montage de l'aimant**
-
-* **Montage à vis**
-
-Le couvercle arrière de l'aimant comporte deux trous de montage à des fins de montage.
-
-Pour monter l'aimant :
-
-*
-  1. Ouvrez le capot arrière à l'aide d'un tournevis à tête plate pour l'insérer dans la zone évidée et poussez vers le haut.
+La base du boîtier de l'aimant comporte deux trous de fixation.\
+Pour installer l'aimant :\
+\
+1\. Ouvrez la base à l'aide d'un tournevis à tête plate pour l'insérer dans la zone évidée et poussez vers le haut.
 
 | <img src=".gitbook/assets/13 (4).jpeg" alt="" data-size="original"> | <img src=".gitbook/assets/14 (4).jpeg" alt="" data-size="original"> |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
 
-*
-  1. En utilisant les trous comme gabarit, percez les deux trous.
-  2. Vissez le couvercle arrière dans la porte/fenêtre à l'aide d'un tournevis Philips. Si nécessaire, utilisez l'entretoise magnétique pour mieux aligner l'aimant sur les marques de nervures.
-  3. Fixez le capot avant au capot arrière. Si le capot avant est stabilisé sur le capot arrière, vous devriez entendre un clic.
+2\. En utilisant les trous comme gabarit, percez les deux trous.\
+3\.  Vissez la base dans la porte/fenêtre à l'aide d'un tournevis Philips. Si nécessaire, utilisez l'entretoise magnétique pour mieux aligner l'aimant avec le détecteur d'ouverture.\
+4\. Fixez le capot avant au capot arrière. Si le capot avant est stabilisé sur le capot arrière, vous devriez entendre un clic.
 
 ![](<.gitbook/assets/15 (6).png>)
 
-* **Montage adhésif**
+* **Montage avec adhésif**
 
-L'aimant peut également être monté à l'aide du ruban adhésif double face ou de l'entretoise magnétique double face.
-
-1. Nettoyez l'emplacement de montage et l'arrière de l'aimant avec un dégraissant approprié.
-2. Retirez le revêtement protecteur d'un côté du tampon adhésif double face ou de l'entretoise magnétique adhésive double face. Appliquer au dos de l'Aimant et appuyer fermement pendant 30 secondes pour assurer un bon contact.
-3. Retirez l'autre couvercle et appuyez fermement sur l'aimant à l'emplacement souhaité pendant 30 secondes.
+L'aimant peut également être installé à l'aide du ruban adhésif double face ou de l'entretoise magnétique double face.\
+1\. Nettoyez l'emplacement et l'arrière de l'aimant avec un dégraissant approprié.\
+2\. Retirez un opercule protecteur de l'adhésif double face ou de l'entretoise magnétique adhésive double face. Appliquer au dos de l'aimant et appuyer fermement pendant 30 secondes pour assurer un bon contact.\
+3\. Retirez l'autre opercule et appuyez fermement sur l'aimant à l'emplacement souhaité pendant 30 secondes.
 
 ![](<.gitbook/assets/16 (9).png>)
 
-\\
+{% hint style="info" %}
+NOTE:
 
-* Veuillez ne pas réappliquer le ruban adhésif double face ou l'entretoise magnétique adhésive double face. Ils ne peuvent pas être réutilisés
+* Veuillez ne pas réappliquer l'adhésif double face ou l'entretoise magnétique adhésive double face. Ils ne peuvent pas être réutilisés.
+{% endhint %}
