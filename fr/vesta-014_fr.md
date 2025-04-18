@@ -4,57 +4,56 @@ icon: circle-chevron-right
 
 # VESTA 014
 
-* Télécommande (RC-16-F1)
+RC-16-F1
 
-La télécommande est utilisée pour armer le système en mode domicile ou absent, désarmer le système et envoyer un signal de panique.
+## <mark style="color:green;">Télécommande</mark>&#x20;
 
-* _**Identifier les pièces**_
+### _<mark style="background-color:yellow;">Introduction</mark>_
 
-![RC-16 2](<.gitbook/assets/0 (2) (1).jpeg>)\*\*1.\*\***BOUTON**
+La télécommande est utilisée pour armer le système en mode total ou partiel, désarmer le système et envoyer une alarme panique.
 
-![઀'ħ4](<.gitbook/assets/1 (9).png>)
 
-Appuyez sur ce bouton pour armer le système en mode absence.
 
-**2. BOUTON**
+### _<mark style="background-color:yellow;">**Identification**</mark>_
 
-![](<.gitbook/assets/2 (10).png>) ![](<.gitbook/assets/3 (9).png>)
+<figure><img src=".gitbook/assets/image (31).png" alt="" width="318"><figcaption></figcaption></figure>
 
-Appuyez sur ce bouton pour désarmer le système. Lorsque l'alarme est activée, appuyer sur ce bouton arrêtera l'alarme.
+1. **Bouton** <img src=".gitbook/assets/image (32).png" alt="" data-size="line">\
+   Appuyez sur ce bouton pour armer le système en mode total.
+2. **Bouton** <img src=".gitbook/assets/image (33).png" alt="" data-size="line">\
+   Appuyez sur ce bouton pour désarmer le système. Lorsque l'alarme est active, appuyer sur ce bouton arrêtera l'alarme.
+3. **Bouton** <img src=".gitbook/assets/image (34).png" alt="" data-size="line">\
+   Appuyer sur ce bouton armera le système en mode maison.
+4. **Bouton** <img src=".gitbook/assets/image (35).png" alt="" data-size="line">\
+   Appuyez et maintenez ce bouton pendant 3 secondes pour envoyer un signal de panique quel que soit le mode du système
 
-**3.**![](<.gitbook/assets/4 (9).png>)**BOUTON**
-
-Appuyer sur ce bouton armera le système en mode maison.
-
-**4. BOUTON**
-
-![](<.gitbook/assets/5 (6) (1).png>)
-
-Appuyez et maintenez ce bouton pendant 3 secondes pour envoyer un signal de panique quel que soit le mode du système
-
-\\
+{% hint style="info" %}
+NOTE:
 
 * L'alarme de panique ne peut pas être arrêtée après son activation en appuyant sur le bouton de désarmement de la télécommande.
+{% endhint %}
 
-**5. INDICATEUR LED**
+5. **Voyant LED**\
+   La LED clignote 6 fois lorsque les boutons Armement Total, Armement Partiel et Désarmement sont utilisés.\
+   Lorsque le bouton panique est utilisé, la LED clignote rapidement 6 fois.
+6. **Compartiment batterie**\
+   La télécommande utilise une batterie lithium 3V **CR2032** comme source d’alimentation. L'état de la batterie faible sera envoyé à la centrale via la transmission régulière du signal et la centrale affichera l'état en conséquence.
 
-La LED clignote 6 fois lorsque les boutons Armement absent, Armement domicile et Désarmement sont enfoncés.
+{% hint style="info" %}
+NOTE:
 
-Lorsque le bouton panique est enfoncé, la LED clignote rapidement 6 fois.
+* Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur n'importe quel bouton pour la décharger complètement avant d'insérer une nouvelle batterie.
+* Lorsqu'une batterie usagée est insérée, la LED clignote 3 fois pour indiquer une batterie faible.
+{% endhint %}
 
-**6. COMPARTIMENT BATTERIE**
 
-La télécommande utilise un**CR2032**Batterie au lithium 3 V mAh comme source d’alimentation. L'état de la batterie faible sera envoyé au panneau de commande avec la transmission régulière du signal, et le panneau de commande affichera l'état en conséquence.
 
-\\
+### _<mark style="background-color:yellow;">**Démarrage**</mark>_
 
-* _Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur n'importe quel bouton pour la décharger complètement avant d'insérer une nouvelle batterie._
-* _Lorsqu'une batterie basse tension est insérée, la LED clignote 3 fois pour indiquer une batterie faible._
-* _**Commencer**_
 * Retirez le couvercle de la batterie.
-* Insérez la batterie avec le côté non marqué (négatif) de la batterie vers le bas.
+* Insérez la batterie avec le pôle négatif de la batterie vers le bas.
 * Fixez le couvercle.
-* Mettez le panneau de commande en mode apprentissage, reportez-vous au manuel du panneau de commande pour plus de détails.
+* Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale plus de détails.
 * Appuyez sur n’importe quel bouton de la télécommande.
-* Si le panneau de commande reçoit le signal de la télécommande avec succès, il affichera les informations en conséquence.
-* Veuillez vous référer au manuel de votre panneau de configuration pour terminer le processus d'apprentissage.
+* Si la centrale reçoit le signal de la télécommande avec succès, elle affichera les informations en conséquence.
+* Veuillez vous référer au manuel de votre centrale pour terminer le processus d'apprentissage.
