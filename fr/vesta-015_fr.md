@@ -1,165 +1,154 @@
-# VESTA 015
+# VESTA-015
 
-**Capteur de mouvement PIR à dôme (IRD-23 / IRD-23SL)**
+**IRD-23 / IRD-23SL**
 
-Le capteur de mouvement Dome PIR est conçu pour être monté au plafond pour fournir une couverture de détection à 360° sans angles morts pour capter les mouvements dans une zone assignée et signale au panneau de commande d'activer l'alarme si un intrus croise son chemin de détection.
+## <mark style="color:green;">**Détecteur PIR dôme**</mark>
 
-Le PIR se compose d'une conception en deux parties composée d'un corps principal PIR et d'un couvercle arrière pour le montage mural. Le corps principal contient toute l’électronique et l’optique et la base fournit un moyen d’installation.
+### _<mark style="background-color:yellow;">**Introduction**</mark>_
 
-Le corps principal du PIR est doté d'un interrupteur anti-sabotage qui sera activé lorsque le corps principal est retiré du capot arrière pour empêcher tout accès non autorisé et tout retrait de la surface de montage. Le PIR peut également vous alerter des problèmes de communication et des situations de batterie faible.
+Le détecteur PIR dôme est conçu pour être monté au plafond et fournir une couverture de détection à 360° sans angles morts pour capter les mouvements dans une zone donnée et signaler à la centrale d'activer l'alarme si un intrus croise la zone de détection.\
+Le détecteur PIR se compose de deux parties: la partie principale qui est le détecteur PIR et d'une base de fixation. La partie principale contient toute l’électronique et l’optique et la base fournit un moyen d’installation.\
+La partie principale du détecteur PIR est dotée d'une autoprotection qui sera activée lorsque le corps de l'appareil est retirée de sa base pour empêcher tout accès non autorisé et tout retrait de la surface d'installation. Le détecteur PIR peut également vous alerter des problèmes de communication et des situations de batterie faible.\
+\
+Le détecteur PIR dôme est décliné en 2 modèles :\
+\- IRD-23: alimenté par 2 piles alcalines AA de 1,5V\
+\- IRD-23SL: alimenté par 1 pile lithium CR123A 3V
 
-Le Dome PIR comprend 2 modèles :
 
-IRD-23 : Alimenté par 2 piles alcalines AA de 1,5 V
 
-IRD-23SL : alimenté par 1 pile au lithium CR123A 3 V
+### _<mark style="background-color:yellow;">**Identification.**</mark>_
 
--   _**Identifier les pièces.**_
+![Partie principale](<.gitbook/assets/2 (17).jpeg>)
 
-**1. Bouton de test, également appelé indicateur LED**
+![Base de fixation](<.gitbook/assets/3 (16).jpeg>)
 
-Le bouton de test sert également d'indicateur LED. Le bouton de test est utilisé pour tester les performances de la radio et à des fins d'apprentissage. L'indicateur LED est utilisé pour indiquer l'état du système.
+1. **Bouton test/Voyant LED**\
+   Le bouton de test sert également de voyant LED. Le bouton de test est utilisé pour tester la communication radio et pour l'apprentissage. Le voyant LED est utilisé pour indiquer l'état de l'appareil.
+2. **Capteur IR**
+3. **Cavalier d'augmentation de sensibilité (JP3)**\
+   Le cavalier est inséré pour relier les deux broches.\
+   \- Cavalier On : le niveau de sensibilité du PIR est réglé sur Haut. <img src=".gitbook/assets/image (2).png" alt="" data-size="line">\
+   \- Cavalier Off : le niveau de sensibilité du PIR est réglé sur Normal (**par défaut**). <img src=".gitbook/assets/image (1).png" alt="" data-size="line">
+4. **Autoprotection**\
+   L'autoprotection protège le détecteur PIR en cas d'ouverture/d'arrachement.
+5. **Batterie**\
+   **-** IRD-23 : 2 piles alcalines AA 1,5V\
+   \- IRD-23SL : 1 pile lithium CR123A 3V
+6. **Fixations**
+7. **Crochets**
+8. **Emplacements de fixation (intérieur)**
 
-1.  **Capteur IR**
-2.  **Commutateur de cavalier d'augmentation de sensibilité (JP3)**
+#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
 
-![](<.gitbook/assets/0 (25).jpeg>)
+En mode normal, le voyant LED ne s'allumera pas sauf dans les situations suivantes:
 
-C'est un cavalier à 2 broches
+* Lorsque le PIR est en état de batterie faible, chaque fois qu'il transmet la détection d'un mouvement, la LED s'allume pendant environ 2 secondes.
+* Lorsque l'appareil est ouvert et que l'autoprotection est déclenchée, la LED s'allume pendant 2 sec. pour indiquer la transmission d'un signal **Autoprotection**.
+* Lorsque la condition d'autoprotection persiste, chaque fois qu'il transmet la détectetion d'un mouvement, la LED s'allumera.
+* Lorsque le PIR est en mode Test, la LED s'allume à chaque fois qu'un mouvement est détecté.
 
--   Si le cavalier est OFF (si le lien du cavalier est retiré ou "**garé »**sur une épingle),
+#### _<mark style="background-color:green;">**- Mise en veille**</mark>_
 
-la sensibilité de détection du PIR est au niveau normal. (**Défaut de fabrication**)
+Le détecteur PIR a une "**mise en veille**" d'environs 1 minute pour économiser de l'énergie. Après avoir transmis un mouvement détecté, le détecteur PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera la temporisation de mise en veille de 1 minute. Un mouvement continu devant le PIR n'épuisera donc pas la batterie.
 
-![](<.gitbook/assets/1 (18).jpeg>)
+#### _<mark style="background-color:green;">**- Supervision**</mark>_
 
--   -   Si le cavalier est sur ON, la sensibilité de détection du PIR est élevée.
+Le PIR transmet un signal de supervision toutes les 30 à 50 minutes. Si la centrale ne parvient pas à recevoir les signaux de supervision pendant une durée définie, un message de défaut sera généré.
 
-1.  **Interrupteur anti-sabotage**
+#### _<mark style="background-color:green;">**- Augmentation de la sensibilité**</mark>_
 
-L'interrupteur anti-sabotage protège le PIR du retrait de l'emplacement de montage.
+Vous pouvez utiliser la fonction d’augmentation de sensibilité pour augmenter la sensibilité de détection du détecteur PIR. Pour augmenter la sensibilité de détection, connectez le cavalier (JP3) ou le mettre en position ON. Pour maintenir une sensibilité normale, déconnectez le cavalier (JP3) ou le mettre en position OFF (par défaut).
 
-**5. Battery Compartment**
+#### _<mark style="background-color:green;">**- Mode d'essai**</mark>_
 
-IRD-23 : 2 piles alcalines AA 1,5 V.
+Le détecteur PIR peut être mis en mode Test/voyant LED en appuyant sur le bouton test. En mode Test, il désactivera la mise en veille et permettra au voyant LED de clignoter à chaque fois qu'un mouvement est détecté. Chaque fois que vous appuyez sur le bouton de test, le détecteur PIR transmettra un signal de test à la centrale pour un test de portée radio et entrera en mode test pendant 3 minutes. Le mode test expirera après 3 minutes.
 
-IRD-23SL : 1 pile CR123A lithium 3V
+#### _<mark style="background-color:green;">**- Batterie**</mark>_
 
--   1.  **Trous de montage**
-    2.  **Crochets**
-    3.  **Débouchures de montage au plafond (intérieur)**
--   _**Indicateur LED**_
+Le PIR utilise différentes batteries selon le modèle PIR :\
+\- IRD-23 : 2 piles alcalines AA 1,5V\
+\- IRD-23SL : 1 pile lithiumCR123A 3V
 
-En mode de fonctionnement normal, le voyant LED ne s'allumera pas sauf dans les situations suivantes :
+Le détecteur PIR dispose d'une fonction de détection de batterie faible. Si une faible tension de batterie est détectée, un signal de batterie faible sera envoyé à la centrale avec des transmissions régulières pour que la centrale affiche l'état en conséquence.
 
--   -   Lorsque le PIR est en état de batterie faible, chaque fois qu'il transmet un mouvement détecté, la LED s'allume pendant environ 2 secondes.
-    -   Lorsque le couvercle est ouvert et que l'interrupteur anti-sabotage est violé, la LED s'allume pendant
+{% hint style="info" %}
+NOTE:
 
-2 sec. pour indiquer qu'il transmet le "**Altérer**» signale-t-il.
+* Lors du changement des piles, après avoir retiré les anciennes piles, appuyez deux fois sur l'autoprotection pour décharger complètement avant d'insérer de nouvelles piles.
+{% endhint %}
 
--   -   Lorsque la condition de sabotage persiste, chaque fois qu'il transmet un mouvement détecté, la LED s'allumera.
-    -   Lorsque le PIR est en mode Test, la LED s'allume à chaque fois qu'un mouvement est détecté.
--   _**Minuterie de mise en veille**_
+#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
 
-_**Corps principal du PIR**_
+Le PIR dispose d'une autoprotection située sur la partie principale du PIR. Lorsque le PIR est correctement installé sur sa base, l'autoprotection est compressée. Lorsque le PIR est ouvert, l'autoprotection sera activée et déclenchera l'envoi d'un signal d'autoprotection à la centrale.
 
-![](<.gitbook/assets/2 (17).jpeg>)
 
-_**Quatrième de couverture**_
 
-![](<.gitbook/assets/3 (16).jpeg>)
+### _<mark style="background-color:yellow;">**Démarrage**</mark>_
 
-Le PIR a un «**Temps de sommeil**" d'environ 1 minute pour économiser l'énergie. Après avoir transmis un mouvement détecté, le PIR ne retransmettra pas pendant 1 minute ; tout mouvement supplémentaire détecté pendant cette période de sommeil prolongera la durée du sommeil d'une minute supplémentaire. De cette façon, un mouvement continu devant un PIR n’épuisera pas indûment la batterie.
+* Insérez la batterie.
+* Le voyant LED clignote pendant 30 secondes (le détecteur PIR démarre). Pendant la période de démarrage, le détecteur PIR ne sera pas actif. Une fois la période de démarrage terminée, le voyant LED s'éteindra et le PIR sera prêt à fonctionner.
+* Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale pour plus de détails.
+* Appuyez sur le bouton d'apprentissage/voyant test sur la face avant.
+* Si la centrale reçoit le signal du PIR, elle affichera les informations en conséquence. Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage.
+* Une fois le détecteur PIR appris, mettez la centrale en "**Test de fonctionnement"**, maintenez le détecteur PIR à l'emplacement souhaité et appuyez sur le bouton test pour confirmer que cet emplacement est à portée de signal de la centrale.
+* Lorsque vous êtes convaincu que le détecteur PIR fonctionne à l'emplacement choisi, vous pouvez procéder au montage.
 
--   _**Fonction de surveillance**_
 
-Le PIR transmet un signal de supervision toutes les 30 à 50 minutes. Si le panneau de commande ne parvient pas à recevoir les signaux de supervision transmis par un certain PIR pendant une durée prédéfinie, un message «**Hors service**r” sera généré.
 
--   _**Fonction d'augmentation de la sensibilité**_
+### _<mark style="background-color:yellow;">**Type d'installation**</mark>_
 
-Vous pouvez utiliser la fonction d’augmentation de sensibilité pour augmenter la sensibilité de détection de l’IR. Pour augmenter la sensibilité de détection, veuillez régler le cavalier JP3 sur**SUR**position. Pour maintenir la sensibilité de détection normale, réglez le cavalier JP3 sur**DÉSACTIVÉ**position (par défaut d’usine).
+* Le PIR est conçu pour être installé au plafond.
+* Lorsqu'il est installé à 2,7 mètres de haut, le PIR offre une couverture 360° d'environs **6m** de diamètre.
+* Lorsqu'il est installé à 4 mètres de haut, le PIR offre une couverture 360° d'environs **8m** de diamètre.
+* Pour des performances optimales, faites pivoter le PIR de manière à ce que l'intrus se déplace d'un côté à l'autre dans sa zone de détection.
 
--   _**Mode d'essai**_
+{% hint style="info" %}
+NOTE:\
+Pour connaître les « faces » du PIR. Tenez le PIR avec le voyant LED pointant vers le haut, les côtés gauche et droit du PIR sont considérés comme les côtés du PIR. Le capteur PIR est plus sensible lorsque l'intrus se déplace d'un côté vers l'autre
+{% endhint %}
 
-1
-
-Le PIR peut être mis en mode Test en appuyant sur le bouton Test, également appelé LED, sur le capot avant. En mode Test, il désactivera la minuterie de mise en veille et permettra à l'indicateur LED de clignoter à chaque fois qu'un mouvement est détecté. Chaque fois que vous appuyez sur le bouton Test, le PIR transmettra un signal de test au panneau de commande pour le test de portée radio et entrera en mode test pendant 3 minutes. Il quittera automatiquement le mode test après 3 minutes et reviendra en mode normal.
-
--   _**Batterie**_
-
-Le PIR utilise différentes batteries selon le modèle PIR :
-
-IRD-23 : 2 piles alcalines AA 1,5 V
-
-IRD-23SL : 1 pile CR123A lithium 3V
-
-Les piles sont incluses dans le colis. Le PIR dispose d'une fonction de détection de batterie faible. Un signal de batterie faible sera envoyé au panneau de commande avec des transmissions de signal régulières pour que le panneau de commande affiche l'état en conséquence.
-
-_\\<NOTE>_
-
--   -   Lors du changement des piles, après avoir retiré les anciennes piles, appuyez deux fois sur l'interrupteur anti-sabotage pour les décharger complètement avant d'insérer de nouvelles piles.
--   _**Interrupteur anti-sabotage**_
-
-Le PIR dispose d'un interrupteur anti-sabotage situé à l'arrière du corps principal du PIR. Lorsque le PIR est correctement installé sur le capot arrière, l'interrupteur anti-sabotage sera compressé. Lorsque le PIR est retiré du capot arrière, l'interrupteur d'autoprotection sera activé et déclenchera le PIR pour envoyer un signal d'autoprotection au panneau de commande.
-
--   _**Commencer**_
-    -   Insérez la batterie dans le compartiment à batterie.
-    -   Le voyant LED clignote régulièrement pendant 30 secondes. (Le PIR s'échauffe). Pendant la période de réchauffement, le PIR ne sera pas activé. Il est recommandé de rester à l'écart de la zone de détection pendant cette période. Une fois la période de réchauffement terminée, la lumière s'éteindra et le PIR sera prêt à fonctionner.
-    -   Mettez le panneau de commande en mode apprentissage, reportez-vous au manuel du panneau de commande pour plus de détails.
-    -   Appuyez sur le bouton d'apprentissage/test sur le capot avant.
-    -   Si le panneau de commande reçoit un signal PIR, il affichera les informations en conséquence, reportez-vous au manuel du panneau de commande pour terminer le processus d'apprentissage.
-    -   Une fois le PIR appris, placez le panneau de commande sur «**Test de marche**", maintenez le PIR à l'emplacement souhaité et appuyez sur le bouton Test pour confirmer que cet emplacement est à portée du signal du panneau de commande.
-    -   Lorsque vous êtes convaincu que le PIR fonctionne à l'emplacement choisi, vous pouvez procéder à l'installation.
--   _**Directive d'installation**_
-    -   Le PIR est conçu pour être monté au plafond
-    -   Lorsqu'il est monté à 2,7 mètres de hauteur, le PIR offre une couverture de détection d'un cercle de 360° d'environ**6**diamètre en mètres.
-    -   Lorsqu'il est monté à 4 mètres de hauteur, le PIR offre une couverture de détection d'un cercle de 360° avec environ**8** meter diameter.
-    -   Pour des performances optimales, faites pivoter le PIR de manière à ce que l'intrus se déplace d'un côté à l'autre dans sa zone de détection.
-
-_\\<NOTE>_
-
--   -   Pour connaître les « faces » du PIR. Tenez le PIR avec l’indicateur LED pointant vers le haut, et les côtés gauche et droit du PIR sont considérés comme les côtés du PIR. Le capteur PIR est plus sensible lorsque l'intrus se déplace d'un côté à l'autre
--   Reportez-vous aux schémas ci-dessous pour plus d’informations.
+* Reportez-vous aux schémas ci-dessous pour plus d’informations.
 
 ![](<.gitbook/assets/4 (32).png>)
 
--   **Il est recommandé d'installer le PIR aux emplacements suivants.**
-    -   Dans une zone de plafond avec une vue complète de sa couverture de détection non obstruée par des appareils électroménagers et des meubles.
-    -   Près de l'entrée d'une pièce ou d'une maison pour surveiller l'activité d'entrée.
--   **Limites**
-    -   Si une porte est déjà protégée par un contact de porte, n'installez pas le PIR trop près de la porte. Si le contact de porte et le PIR sont déclenchés et transmettent un signal en même temps, les signaux peuvent entrer en collision et s'annuler.
-    -   N'installez pas le PIR exposé à la lumière directe du soleil.
-    -   Évitez d'installer le PIR dans des zones où les appareils peuvent provoquer un changement rapide de température dans la zone de détection, c'est-à-dire dans l'air.
+* **Il est recommandé d'installer le PIR dans les emplacements suivants.**
+  * Dans une zone ou plafond dispose d'une vue complète sur la zone de détection non obstruée par des appareils électroménagers ou des meubles.
+  * Près de l'entrée d'une pièce ou d'une maison pour surveiller l'activité d'entrée.
 
-2
+{% hint style="danger" %}
+Limites:
 
-climatiseur, radiateurs, etc.
+* Ne positionnez pas un détecteur PIR directement vers une porte protégée par un détecteur d'ouverture, cela pourrait provoquer la transmission des signaux radio du contact de porte et du PIR au même instant lors de l'entrée, s'annulant mutuellement.
+* N'installez pas le PIR complètement exposé à la lumière directe du soleil.
+* Évitez d'installer le PIR dans des zones où les appareils peuvent provoquer un changement rapide de température dans la zone de détection, c'est-à-dire un climatiseur, un chauffage, etc.
+* Évitez les gros obstacles dans la zone de détection.
+* Ne pas pointer directement vers des sources de chaleur, par ex. feux ou chaudières, et pas au-dessus des radiateurs.
+* Évitez de déplacer des objets dans la zone de détection, par exemple un rideau, une tenture murale, etc
+{% endhint %}
 
--   -   -   -   Évitez les gros obstacles dans la zone de détection.
-            -   Ne pointez pas directement vers des sources de chaleur, par ex. Feux ou chaudières, et pas au-dessus des radiateurs.
-            -   Évitez de déplacer des objets dans la zone de détection, par exemple un rideau, une tenture murale, etc.
-    -   After the installation site is selected, follow the steps below to mount the PIR.
-    -   Appuyez sur le bouton Test pour accéder au mode Test. Parcourez la zone protégée en notant quand la LED s'allume et vérifiez que la couverture de détection est adéquate.
-    -   Lorsque la couverture de détection s'avère satisfaisante, l'installation est désormais terminée.
--   _**Méthode de montage**_
-    -   Le PIR est conçu pour être monté au plafond
-    -   La coque arrière comporte 4 découpes où le plastique est plus fin pour un montage au plafond.
-    -   Après avoir terminé l'apprentissage du PIR et le test de marche, procédez au montage du PIR conformément aux instructions ci-dessous I. Percez les 4 découpes à l'intérieur de la couverture arrière.
+* Après avoir sélectionné l'emplacement d'installation, suivre les étapes ci-dessous pour installer le PIR.
+* Appuyez sur le bouton Test pour accéder au mode Test. Parcourez la zone protégée en notant quand la LED s'allume et vérifiez que la couverture de détection soit correcte.
+* Lorsque la détection s'avère satisfaisante, l'installation est désormais terminée.
 
-1.  Utilisez les houes défonçables comme gabarit, percez des trous dans le plafond et insérez une cheville murale si nécessaire.
 
-III. Vissez le couvercle arrière au plafond en fonction des trous percés.
 
-IV. Le couvercle arrière comporte des numéros à l'intérieur pour marquer le numéro du trou de montage, qui correspond au numéro du crochet de montage à l'arrière du corps principal. Alignez le trou de montage avec le crochet de montage lors de l'installation. Reportez-vous à la figure ci-dessous pour connaître l'emplacement du crochet de montage et du trou.
+#### _<mark style="background-color:green;">**Méthode de montage**</mark>_
 
-_**Vue arrière du corps principal PIR**__**Vue intérieure de la couverture arrière**_
+* Le PIR est conçu pour être monté au plafond
+* La base dispose de 4 découpes où le plastique est plus fin pour la fixation au plafond.
+* Après avoir terminé l'apprentissage du PIR et le test de fonctionnement, procédez à la fixation du PIR conformément aux instructions ci-dessous:
 
-![](<.gitbook/assets/5 (13).jpeg>)
 
-1.  Installez le corps principal PIR sur le capot arrière. Installez les crochets du capot arrière sur les trous de montage du corps principal PIR VI. Faites pivoter le corps principal du PIR dans le sens des aiguilles d'une montre pour verrouiller les crochets dans le trou de montage. Reportez-vous à la figure ci-dessous,
 
-VII. Le montage du PIR est maintenant terminé.
+1. Percez les 4 découpes de la base.
+2. Utilisez ces découpes comme gabarit, percez les trous dans le plafond et insérez une cheville murale si nécessaire.
+3. Vissez la base au plafond en fonction des trous percés.
+4. La base comporte des numéros à l'intérieur pour marquer les trous de fixation qui correspond aux numéros des clips à l'arrière de la partie principale. Alignez les trous avec les clips. Reportez-vous à la figure ci-dessous pour connaître l'emplacement des clips et des trous.
+
+![Gauche: parti principale; Droite: Base](<.gitbook/assets/5 (13).jpeg>)
+
+5. Installez la partie principale sur la base. Faites correspondre les clips avec les trous de fixation.
+6. pivotez la partie principale du PIR dans le sens des aiguilles d'une montre pour verrouiller les clips. Reportez-vous à la figure ci-dessous.
+7. &#x20;L'installation du PIR est maintenant terminé.
 
 ![](<.gitbook/assets/6 (16).jpeg>)
-
-3

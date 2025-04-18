@@ -1,8 +1,4 @@
----
-icon: circle-chevron-right
----
-
-# VESTA 014
+# VESTA-014
 
 RC-16-F1
 
