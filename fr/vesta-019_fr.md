@@ -1,8 +1,8 @@
 ---
-icon: circle-chevron-right
+icon: door-open
 ---
 
-# VESTA 019
+# VESTA-019
 
 DC-23 / DC-23-R3
 
