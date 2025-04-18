@@ -1,8 +1,4 @@
----
-icon: circle-chevron-right
----
-
-# VESTA 018
+# VESTA-018
 
 **RC-15-F1**
 
@@ -10,53 +6,47 @@ icon: circle-chevron-right
 
 ### _<mark style="background-color:yellow;">**Introduction**</mark>_
 
-La télécommande est utilisée pour armer le système en mode domicile ou absent, désarmer le système et envoyer un signal de panique.
+La télécommande est utilisée pour armer le système en mode total ou partiel, désarmer le système et envoyer une alarme panique.
+
+
 
 ### _<mark style="background-color:yellow;">**Identification**</mark>_
 
-Appuyez et maintenez chaque touche enfoncée pour activer ses fonctions décrites ci-dessous :
-
-1. ![](<.gitbook/assets/0 (26).jpeg>)**BOUTON**
-
 ![](<.gitbook/assets/1 (19).jpeg>)
 
-Appuyer sur ce bouton armera le système en mode absence.
+Appuyez et maintenez chaque touche enfoncée pour activer ses fonctions décrites ci-dessous:
 
-1. ![](<.gitbook/assets/2 (18).jpeg>)**BOUTON**
+1. **Bouton** <img src=".gitbook/assets/image.png" alt="" data-size="line">\
+   Armement du système en mode Total.
+2. **Bouton** <img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+   Maintenir ce bouton appuyé pendant 3 secondes pour déclenche une alarme panique (système armé ou désarmé). Si l'appui ne dure pas 3 secondes, la commande est ignorée.
+3. **Bouton** <img src=".gitbook/assets/image (2).png" alt="" data-size="line">\
+   Armement du système en mode Partiel.
+4. **Bouton** <img src=".gitbook/assets/image (3).png" alt="" data-size="line">\
+   Désarmement du système. Lorsque l'alarme est active, appuyer sur ce bouton arrêtera l'alarme (à l'exception d'une alarme panique).
+5. **Voyant LED**\
+   La LED clignote rapidement lorsque les boutons armement Total, armement Partiel et Désarmement sont utilisés.\
+   Lorsque le bouton panique est utilisé, la LED clignote d'abord lentement pendant 3 secondes, puis clignote rapidement pendant 3 secondes et s'allume pendant 1 seconde.
+6. **Batterie**\
+   Le RC-15 utilise une pile lithium CR2032 3V comme source d'alimentation. L'état de batterie faible sera envoyé à la centrale via la transmission régulière du signal et la centrale affichera l'état en conséquence.
 
-Appuyer et maintenir ce bouton pendant trois secondes enverra un signal de panique, quel que soit l'état du système (armé ou désarmé). Si le délai de 3 secondes n'est pas atteint, l'activation d'urgence échouera.
+{% hint style="info" %}
+NOTE:
 
-1. ![](<.gitbook/assets/3 (17).jpeg>)**BOUTON**
+* Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur n'importe quel bouton pour la décharger complètement avant d'insérer une nouvelle batterie.
+* Lorsqu'une batterie usagée est insérée, la LED clignote 3 fois pour indiquer une batterie faible.
+{% endhint %}
 
-Appuyer sur ce bouton armera le système en mode maison.
 
-1. ![](<.gitbook/assets/4 (17).jpeg>)**BOUTON**
 
-Appuyer sur ce bouton désarmera le système. Si l'alarme retentit, appuyer sur ce bouton arrêtera l'alarme (sauf lorsque l'alarme a été déclenchée en appuyant sur le bouton Panique de la télécommande).
-
-1. **INDICATEUR LED**
-
-La LED clignote rapidement lorsque les boutons Armement absent, Armement domicile et Désarmement sont enfoncés.
-
-Lorsque le bouton panique est enfoncé, la LED clignote d'abord lentement pendant 3 secondes, puis clignote rapidement pendant 3 secondes et s'allume pendant 1 seconde.
-
-1. **COMPARTIMENT À BATTERIE**
-
-Le RC-15 utilise une pile au lithium « CR2032 » 3 V comme source d'alimentation. L'état de la batterie faible sera envoyé au panneau de commande avec la transmission régulière du signal, et le panneau de commande affichera l'état en conséquence.
-
-_\\_
-
-*
-  * _Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur n'importe quel bouton pour la décharger complètement avant d'insérer une nouvelle batterie._
-  * _Lorsqu'une batterie basse tension est insérée, la LED clignote 3 fois pour indiquer une batterie faible._
-* _**Commencer**_
+### _<mark style="background-color:yellow;">**Démarrage**</mark>_
 
 ![](<.gitbook/assets/5 (25).png>)
 
 * Retirez le couvercle de la batterie en utilisant une pièce de monnaie pour le tourner dans le sens inverse des aiguilles d'une montre.
-* Insérez la batterie comme indiqué sur le schéma, avec le côté non marqué (négatif) de la batterie vers le bas.
-* Remettez le couvercle de la batterie
+* Insérez la batterie avec le pôle négatif de la batterie vers le bas.
+* Remettez le couvercle.
 * Fixez le couvercle en utilisant une pièce de monnaie pour tourner dans le sens des aiguilles d'une montre
-* Mettez le panneau de configuration dans «**Appareil +/-**» puis sélectionnez «**Ajouter un appareil**" menu.
+* Mettez la centrale  en mode apparentissage.
 * Appuyez sur n’importe quel bouton de la télécommande.
-* Veuillez vous référer au manuel d'utilisation de votre panneau de commande dans la section «**Appareil +/-**» pour terminer le processus d'apprentissage.
+* Veuillez vous référer au manuel d'utilisation de la centrale pour terminer le processus d'apprentissage.

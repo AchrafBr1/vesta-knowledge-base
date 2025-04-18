@@ -32,8 +32,8 @@ NOTE:
 5. **Voyant LED**\
    La LED clignote 6 fois lorsque les boutons Armement Total, Armement Partiel et Désarmement sont utilisés.\
    Lorsque le bouton panique est utilisé, la LED clignote rapidement 6 fois.
-6. **Compartiment batterie**\
-   La télécommande utilise une batterie lithium 3V **CR2032** comme source d’alimentation. L'état de la batterie faible sera envoyé à la centrale via la transmission régulière du signal et la centrale affichera l'état en conséquence.
+6. **Batterie**\
+   La télécommande utilise une batterie lithium 3V **CR2032** comme source d’alimentation. L'état de batterie faible sera envoyé à la centrale via la transmission régulière du signal et la centrale affichera l'état en conséquence.
 
 {% hint style="info" %}
 NOTE:

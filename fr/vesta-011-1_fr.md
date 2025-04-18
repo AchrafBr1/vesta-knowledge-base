@@ -117,7 +117,7 @@ NOTES:
 
 <mark style="color:orange;">**Étape 3.**</mark> Une fois le clavier enregistré, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **\*** et **7** en Mode Test ou appuyez sur les touches **#** et **\*** simultanément en mode normal.\
 <mark style="color:orange;">**Étape 4.**</mark> Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**).\
-<mark style="color:orange;">**Étape 5**</mark>. Appuyez sur la touche <img src=".gitbook/assets/image (2) (1).png" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l'installation est terminée. Le clavier émettra un long bip et les trois LED de mode système s'éteindront. Le clavier revient au mode de fonctionnement normal.
+<mark style="color:orange;">**Étape 5**</mark>. Appuyez sur la touche <img src=".gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l'installation est terminée. Le clavier émettra un long bip et les trois LED de mode système s'éteindront. Le clavier revient au mode de fonctionnement normal.
 
 {% hint style="info" %}
 NOTE:\
@@ -141,7 +141,7 @@ Le désarmement du système nécessite toujours la saisie du code utilisateur.
 **Armement Total/Partiel avec code utilisateur:**\
 En mode Test, appuyez sur les touches **＊** et **9** pour activer la fonction Armement avec code (**par défaut**).
 
-* **Armement Total:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (3) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> s'allumera accompagnée d'un bip long.
+* **Armement Total:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src=".gitbook/assets/image (4) (1).png" alt="" data-size="line"> s'allumera accompagnée d'un bip long.
 * **Armement Partiel:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (5).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src=".gitbook/assets/image (6).png" alt="" data-size="line"> s'allumera accompagnée de 3 bips longs.
 * **Désarmement**: Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED <img src=".gitbook/assets/image (8).png" alt="" data-size="line">s'allumera accompagnée de 2 bips.
 
@@ -150,7 +150,7 @@ S'il y a une **Mémoire d'alarme** la LED <img src=".gitbook/assets/image (9).pn
 **Armement Total/Partiel sans code utilisateur**\
 En mode Test, appuyez sur les touches **＊** et **8** pour activer la fonction Armement sans code.
 
-* **Armement Total:** Appuyez sur la touche <img src=".gitbook/assets/image (3) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> s'allumera accompagnée d'un bip long.
+* **Armement Total:** Appuyez sur la touche <img src=".gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src=".gitbook/assets/image (4) (1).png" alt="" data-size="line"> s'allumera accompagnée d'un bip long.
 * **Armement Partiel:** Appuyer sur la touche <img src=".gitbook/assets/image (5).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED <img src=".gitbook/assets/image (6).png" alt="" data-size="line"> s'allumera accompagnée de 3 bips longs.
 * **Désarmement**: Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED <img src=".gitbook/assets/image (8).png" alt="" data-size="line">s'allumera accompagnée de 2 bips.
 
