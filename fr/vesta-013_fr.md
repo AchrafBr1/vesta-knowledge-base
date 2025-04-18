@@ -17,7 +17,7 @@ MDC-3
 
 ### _<mark style="background-color:yellow;">Introduction</mark>_
 
-Le mini détecteur d'ouverture surveille l'ouverture/fermeture d'éléments spécifiques (par exemple porte ou fenêtre). L'électronique est fixée au cadre de l'élément à surveiller tandis que l'aiment est fixé sur la prtie mobile. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du détecteur d'ouverture, activant un interrupteur magnétique interne provoquant la transmission par le détecteur d'un signal d'alarme vers la centrale. L'appareil a également la capacité de communiquer les problèmes transmission ainsi que les situations de batterie faible.
+Le mini détecteur d'ouverture surveille l'ouverture/fermeture d'éléments spécifiques (par exemple porte ou fenêtre). L'électronique est fixée au cadre de l'élément à surveiller tandis que l'aimant est fixé sur la partie mobile. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du détecteur d'ouverture, activant un interrupteur magnétique interne provoquant la transmission par le détecteur d'un signal d'alarme vers la centrale. L'appareil a également la capacité de communiquer les problèmes de transmission ainsi que les situations de batterie faible.
 
 Le détecteur d'ouverture se compose d'un couvercle et d'une base. L'ensemble contient tous les composants électroniques et la base permet la fixation de l'appareil. Une autoprotection sur le circuit imprimé offre une protection contre l'ouverture non autorisée de l'appareil.
 
@@ -28,7 +28,7 @@ Le détecteur d'ouverture se compose d'un couvercle et d'une base. L'ensemble co
 ![](<.gitbook/assets/0 (7) (1).png>)
 
 1. **Emplacement pour aimant**
-2. **Opercule de battarie**
+2. **Opercule de batterie**
 3. **Bouton d'apprentissage/test**
    * Appuyez sur le bouton pour transmettre un code d'apprentissage.
    * Appuyez une fois sur le bouton pour passer en mode Test pendant 3 minutes.

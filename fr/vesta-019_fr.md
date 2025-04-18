@@ -6,77 +6,52 @@ icon: circle-chevron-right
 
 DC-23 / DC-23-R3
 
-## <mark style="color:red;">Détecteur d'ouverture</mark>
+## <mark style="color:green;">Détecteur d'ouverture avec extension</mark>
 
 ### _<mark style="background-color:yellow;">Introduction</mark>_
 
-Le contact de porte surveille l'ouverture/fermeture d'appareils spécifiés (par exemple porte ou fenêtre). Le contact de porte est fixé au cadre de l'appareil surveillé à l'aide d'un aimant d'actionnement fixé sur l'appareil. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du contact de porte, activant un interrupteur magnétique interne provoquant la transmission par le contact de porte d'un signal d'alarme au panneau central. L'appareil a également la capacité de communiquer les problèmes de signal ainsi que les situations de batterie faible.
+Le détecteur d'ouverture surveille l'ouverture/fermeture d'éléments spécifiques (par exemple porte ou fenêtre). L'électronique est fixée au cadre de l'élément à surveiller tandis que l'aimant est fixé sur la partie mobile. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du détecteur d'ouverture, activant un interrupteur magnétique interne provoquant la transmission par le détecteur d'un signal d'alarme vers la centrale. L'appareil a également la capacité de communiquer les problèmes de transmission ainsi que les situations de batterie faible.
 
-La conception du contact de porte se compose d’un couvercle et d’une base. Le couvercle contient tous les composants électroniques et la base fournit un moyen de fixation de l'appareil. Un interrupteur anti-sabotage sur circuit imprimé fourni offre une protection contre l'ouverture et/ou le retrait non autorisé de l'appareil.
+Le détecteur d'ouverture se compose d'un couvercle et d'une base. L'ensemble contient tous les composants électroniques et la base permet la fixation de l'appareil. Une autoprotection sur le circuit imprimé offre une protection contre l'ouverture/l'arrachement non autorisé de l'appareil.
 
-Le contact de porte de la série DC-23 comprend les modèles suivants :
-
-DC-23 : Le couvercle des contacts de porte est fixé par une vis de fixation inférieure.
-
-DC-23-R3 : le couvercle des contacts de porte est sécurisé par deux loquets en haut et en bas
+Le détecteur d'ouverture de la série DC-23 est décliné en 2 modèles:\
+\- DC-23: Le couvercle du détecteur d'ouverture est fixé par une vis.\
+\- DC-23-R3: Le couvercle du détecteur d'ouverture est fixé par clips
 
 ![](<.gitbook/assets/0 (3) (1).jpeg>)
 
-Identification des pièces
+### <mark style="background-color:yellow;">Identification</mark>
 
-1. **Indicateur LED / Bouton Test**
+1. **Voyant LED/Bouton Test**\
+   Appuyez sur le bouton Test pour transmettre le code d'apprentissage ou passer en mode test pendant 3 min.
+2. **Trous de montage**\
+   Utilisé pour fixer et visser le contact de porte directement sur le cadre de porte ou le mur.
+3. **Interrupteur anti-sabotage**\
+   Lorsque le contact de porte est monté, l'interrupteur anti-sabotage sera activé lorsque le couvercle est ouvert ou lorsque le contact de porte est retiré de la surface montée.
+4. **Isolateur de batterie**
+5. **Cavalier de supervision (JP2)**\
+   **(**_**Modèle 868WF uniquement**_**)**\
+   **Cavalier**\
+   si le cavalier est retiré ou "**garé**» sur une épingle.\
+   **Cavalier**\
+   Le cavalier est inséré, reliant les deux broches\
+   Cavalier ON : Supervision désactivée\
+   Cavalier OFF : Supervision activée.**(Défaut de fabrication)**
+6. **Cavalier de commutateur à lames (JP3)**\
+   **Cavalier**\
+   Le cavalier est iséré, reliant les deux broches\
+   **Cavalier**\
+   si le cavalier est retiré ou "**garé**» sur une épingle.\
+   Cavalier activé : commutateur à lames désactivé. Seul l'appareil connecté au terminal d'extension activera le contact de porte.\
+   Cavalier OFF : commutateur à lames activé.**(Par défaut d'usine pour tous les modèles)**
+7. **Borne d'extension**\
+   En plus de l'interrupteur magnétique intégré, une borne de contact sec à 2 broches supplémentaire est fournie pour un interrupteur magnétique d'extension ou tout appareil doté d'une fonctionnalité N.C. (normalement fermé).
+8. **Compartiment à piles**
+9. **Aimant**
+10. **Aimant Trou de vis**
+11. **Entretoise magnétique**
 
-Appuyez sur le bouton Test pour transmettre le code d'apprentissage ou passer en mode test pendant 3 min.
 
-1. **Trous de montage**
-
-Utilisé pour fixer et visser le contact de porte directement sur le cadre de porte ou le mur.
-
-1. **Interrupteur anti-sabotage**
-
-Lorsque le contact de porte est monté, l'interrupteur anti-sabotage sera activé lorsque le couvercle est ouvert ou lorsque le contact de porte est retiré de la surface montée.
-
-1. **Isolateur de batterie**
-2. **Cavalier de supervision (JP2)**
-
-**(**_**Modèle 868WF uniquement**_**)**
-
-**Cavalier**
-
-si le cavalier est retiré ou "**garé**» sur une épingle.
-
-**Cavalier**
-
-Le cavalier est inséré, reliant les deux broches
-
-![jumper close](<.gitbook/assets/1 (10).png>) ![jumper open](<.gitbook/assets/2 (11).png>)
-
-* Cavalier ON : Supervision désactivée
-* Cavalier OFF : Supervision activée.**(Défaut de fabrication)**
-
-1. **Cavalier de commutateur à lames (JP3)**
-
-![jumper close](<.gitbook/assets/3 (10).png>) ![jumper open](<.gitbook/assets/4 (10).png>)
-
-**Cavalier**
-
-Le cavalier est inséré, reliant les deux broches
-
-**Cavalier**
-
-si le cavalier est retiré ou "**garé**» sur une épingle.
-
-* Cavalier activé : commutateur à lames désactivé. Seul l'appareil connecté au terminal d'extension activera le contact de porte.
-* Cavalier OFF : commutateur à lames activé.**(Par défaut d'usine pour tous les modèles)**
-
-1. **Borne d'extension**
-
-En plus de l'interrupteur magnétique intégré, une borne de contact sec à 2 broches supplémentaire est fournie pour un interrupteur magnétique d'extension ou tout appareil doté d'une fonctionnalité N.C. (normalement fermé).
-
-1. ![](<.gitbook/assets/5 (7) (1).png>)**Compartiment à piles**
-2. **Aimant**
-3. **Aimant Trou de vis**
-4. **Entretoise magnétique**
 
 Caractéristiques
 
