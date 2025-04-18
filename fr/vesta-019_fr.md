@@ -1,12 +1,8 @@
----
-icon: door-open
----
-
 # VESTA-019
 
 DC-23 / DC-23-R3
 
-## <mark style="color:green;">Détecteur d'ouverture avec extension</mark>
+## <mark style="color:green;">Détecteur d'ouverture avec extension filaire</mark>
 
 ### _<mark style="background-color:yellow;">Introduction</mark>_
 
