@@ -46,7 +46,7 @@ Remove the cover by loosening the bottom fixing screw, the inside of the Tempera
 6. **Battery Compartment**
 7. **External Temperature Probe Connector (TAS-9E only)**
 
-<figure><img src=".gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. **External Temperature Probe (TAS-9E only)**
 9. **Internal Temperature Probe**
@@ -119,6 +119,6 @@ IV. Screw the base into the wall plugs, then screw the cover back onto its base.
 * An alarm restoration signal is transmitted if the temperature drops below the Alarm Restoration Threshold **for 4 minutes**.
 * Please refer to the table below for more detail:
 
-<figure><img src=".gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * To switch between modes, simply adjust the DIP switches according to desired setting.

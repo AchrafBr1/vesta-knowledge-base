@@ -65,7 +65,7 @@ To adjust the sensitivity setting:
 
 
 
-<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
 ## **Learning and Installation**
 

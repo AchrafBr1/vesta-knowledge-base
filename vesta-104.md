@@ -38,7 +38,7 @@ G. Temperature Reading / Setpoint
 
 \- Press and hold for 3 seconds to enter programming mode.
 
-<figure><img src=".gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Up (+) Button**
 
@@ -50,13 +50,13 @@ G. Temperature Reading / Setpoint
 
 **4. Wall Mounting Hole**
 
-<figure><img src=".gitbook/assets/2 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **5. Battery Compartment**
 
 Insert 2 AA Alkaline batteries.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **6. Relay Terminals (Remove Relay Cover to Access)**
 
@@ -64,7 +64,7 @@ Insert 2 AA Alkaline batteries.
 
 Connect to home heating/cooling system.
 
-<figure><img src=".gitbook/assets/4 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 

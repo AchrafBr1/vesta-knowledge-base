@@ -191,4 +191,4 @@ automatically. You can also refresh the webpage again to ensure if the Device fi
 
 * _**Power Relay Shutter Control with Meter Cluster ID**_
 
-<figure><img src=".gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@
 
 ![](<../.gitbook/assets/0 (3).png>)
 
-![](<../.gitbook/assets/1 (3) (1).png>)
+![](<../.gitbook/assets/1 (3) (1) (1).png>)
 
 \
 **ÍNDICE**
@@ -261,7 +261,7 @@ Contraseña: 12345
 
 Después se puede cambiar la contraseña del administrador y crear más usuarios administradores en el menú Usuarios.
 
-![](<../.gitbook/assets/2 (3) (1).png>)
+![](<../.gitbook/assets/2 (3) (1) (1).png>)
 
 La pantalla de acceso al servidor nos informa de la versión actual de AlarmSpace, nos pide Usuario y contraseña y podemos _Aceptar_ para entrar en el Servidor o _Salir_ para abortar la operación. El último usuario utilizado queda registrado y aparecerá por defecto la próxima vez que se ejecute el Servidor.
 
@@ -271,7 +271,7 @@ Altas y modificaciones de usuarios.
 
 #### &#x20;2.2.1. Gestión de Usuarios <a href="#toc84228593" id="toc84228593"></a>
 
-![](<../.gitbook/assets/3 (3).png>)
+![](<../.gitbook/assets/3 (3) (1).png>)
 
 En esta tabla vemos todos los usuarios del sistema. Al hacer doble click sobre el usuario lo cargamos en la parte inferior para editarlo:
 

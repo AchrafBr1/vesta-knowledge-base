@@ -140,6 +140,6 @@ If the Room sensor installation location is away from your system control panel 
 
 * _**Room Sensor Cluster ID**_
 
-<figure><img src=".gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/2 (133).png" alt=""><figcaption></figcaption></figure>

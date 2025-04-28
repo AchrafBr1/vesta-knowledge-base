@@ -22,7 +22,7 @@ Enter the default installer code: **7982** and press **Login**
 
 
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="278"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="278"><figcaption></figcaption></figure>
 
 
 
@@ -77,7 +77,7 @@ Press **Yes**, we could add a new account or link the control panel to an existi
 
 
 
-<figure><img src=".gitbook/assets/2 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On this screen, we could decide whether to create a new user account or connect the control panel to an existing customer account
 
@@ -128,7 +128,7 @@ In this tab, we can customize the customer's PIN code.
 
 Press **Yes**, and we will configure the name and code of the end user.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -142,7 +142,7 @@ Press **Skip**, we will go forward in the wizard
 
 Press **Yes**, the control panel will ask you which device you want to add
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the device type you want to add, e.g., Motion Detector. Press and hold the pairing button on the device until the LED flashes (refer to the device's manual for specific instructions).
 
@@ -175,7 +175,7 @@ In this tab, we will define the security settings relating the partition of the 
 \
 e.g. Entry time, exit time, ....
 
-<figure><img src=".gitbook/assets/5 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -185,7 +185,7 @@ e.g. Entry time, exit time, ....
 
 In this tab, we could customize the options of the control panel
 
-<figure><img src=".gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -197,7 +197,7 @@ Press **Skip** will cause the panel to use the Ethernet connection
 
 Press **Yes**, we could enable SIM detection and set the APN if necessary
 
-<figure><img src=".gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 8. Report Settings
 
@@ -207,7 +207,7 @@ Press **Skip**, the control panel will send all events to the end user's app
 
 Press **YES**, we will configure the control panel to send events to a Central Monitoring Station.
 
-<figure><img src=".gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. We can apply a template already configured with the settings for the connection to the  Central Monitoring Station.
 
