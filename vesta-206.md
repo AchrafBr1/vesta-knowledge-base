@@ -1,10 +1,12 @@
 # VESTA-206
 
+PRL-3ZW-AC&#x20;
+
+## &#x20;**Z-Wave Relay Toggle Switch**&#x20;
+
 <figure><img src=".gitbook/assets/image (58).png" alt="" width="375"><figcaption><p>VESTA-206</p></figcaption></figure>
 
-**VESTA-206 Z-Wave Relay Toggle Switch PRL-3ZW-AC**
-
-**Introduction**
+## **Introduction**
 
 PRL-3ZW-AC is a Z-Wave Relay Toggle Switch. The Relay Toggle Switch can be connected to wired device and set to Normal Open (N.O.) status. After joining Z-Wave network, the Relay Toggle Switch can be controlled via Z-Wave network to activate connected devices.
 
@@ -18,7 +20,7 @@ PRL-3ZW-AC
 
 PRL-3ZW-AC-OTA
 
-**Parts Identification**
+## **Parts Identification**
 
 ![](<.gitbook/assets/0 (93).jpeg>)
 
@@ -29,7 +31,9 @@ The LED indicator is used to indicate Relay status:
 * LED On: Relay On
 * LED Off: Relay Off
 
-1. **Function Button**
+
+
+2. **Function Button**
 
 Press the button 3 times within 1.5 seconds to send a learn code.
 
@@ -41,8 +45,8 @@ Press the button to switch ON/OFF the Relay.
 
 Connect the wire into the terminal, tighten the screw to close the clipper and hold wire in place. Unscrew to open the clipper to remove the wire connected to the terminal.
 
-1. **Neutral**
-2. **Line (AC input)**
+3. **Neutral**
+4. **Line (AC input)**
 
 To power up the PRL-3ZW, connect L& N terminals of the Power Supply to L & N terminals.
 
@@ -54,7 +58,7 @@ For Normal Open connection with the device
 
 Connect NO & COM terminals of the wired device to NO & COM terminals of the PRL-3ZW.
 
-**Specification**
+## **Specification**
 
 * Power Source (External Power): 100-240VAC
 * Relay Output: Potential-free SPDT relay, Maximum Operation Load: 5A (Resistive) at 24VDC or 240VAC.
@@ -79,7 +83,7 @@ Connect NO & COM terminals of the wired device to NO & COM terminals of the PRL-
 
 ![](<.gitbook/assets/3 (69).jpeg>)
 
-**Installation**
+## **Installation**
 
 Wire the Relay according to the instructions below or refer to the diagram for more information.
 
@@ -92,27 +96,29 @@ Wire the Relay according to the instructions below or refer to the diagram for m
 Wiring of the PRL should only be performed by certified technician with proper knowledge and training in electric equipment.
 {% endhint %}
 
-**Features**
+## **Features**
 
-* _**Adding Device (Inclusion)**_
-  * Connect the power input to the Relay Toggle Switch according to Installation instruction above and power up the Relay Toggle Switch.
-  * Put the Z-Wave gateway or control panel into **Inclusion mode** (please refer to the Z-Wave gateway or control panel manual).
-  * Within 1.5 seconds, press the Function Button 3 times.
-  * Refer to the operation manual of the Z-Wave gateway or control panel to complete the adding process.
-  * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see _**Removing Device**_).
-* _**Removing Device (Exclusion)**_
+### _**Adding Device (Inclusion)**_
+
+* Connect the power input to the Relay Toggle Switch according to Installation instruction above and power up the Relay Toggle Switch.
+* Put the Z-Wave gateway or control panel into **Inclusion mode** (please refer to the Z-Wave gateway or control panel manual).
+* Within 1.5 seconds, press the Function Button 3 times.
+* Refer to the operation manual of the Z-Wave gateway or control panel to complete the adding process.
+* If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see _**Removing Device**_).
+
+### _**Removing Device (Exclusion)**_
 
 The device must be removed from existing Z-Wave network before being added into another. **Exclusion Mode**
 
 * Put the Z-Wave gateway or control panel into **Exclusion mode** (please refer to the Z-Wave gateway or control panel manual).
 * Within 1.5 seconds, press the Function Button 3 times and the device will be removed from the Z-Wave network.
 
-**Factory Reset**
+### **Factory Reset**
 
 * Factory resetting the device will restore it to factory default settings (i.e. not included into any Z-Wave network). Please only use this procedure if the Z-Wave gateway or control panel is lost or otherwise inoperable.
 * Press and hold the Function Button of the device for 10 seconds to factory reset.
 
-_**Range Test**_
+### _**Range Test**_
 
 To test whether the device is able to communicate with the Z-Wave gateway or control panel:
 
@@ -120,10 +126,11 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 * Press the Function Button on the device
 * The gateway / panel should display if the device is within the operation range (please refer to the operation manual of the gateway / panel).
 
-**Operation**
+## **Operation**
 
-* _**Relay Control**_
-  * After the Relay toggle Switch has successfully added into a Z-Wave network, the gateway/control panel can remotely control the Relay to turn On, Off or toggle between On and Off condition. Please refer to your Z-Wave gateway/control panel for detail.
+### _**Relay Control**_
+
+* After the Relay toggle Switch has successfully added into a Z-Wave network, the gateway/control panel can remotely control the Relay to turn On, Off or toggle between On and Off condition. Please refer to your Z-Wave gateway/control panel for detail.
 
 > **Z-Wave Information**
 >
@@ -153,7 +160,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 >
 > **Recommended CC Support**: Firmware Update Metadata CC
 
-* _**Z-Wave’s Groups (Association Command Class Version 2)**_
+### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
 The Switch can be set to send reports to associated Z-Wave devices. It supports one association group with five nodes support for Grouping 1. For grouping 1, the Switch will report its latest status to Z-Wave Gateway/Panel.
 

@@ -10,7 +10,7 @@ SDCO-1-F1 Series is a Smoke and Carbon Monoxide Detector. It is capable of sendi
 
 The SDCO-1 Series include the following models:
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Parts Identification
 
