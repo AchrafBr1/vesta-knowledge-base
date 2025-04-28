@@ -1,36 +1,33 @@
 # VESTA-217
 
+RMB-29
+
+## AC Powered Router (wireless F1 signal Extender)
+
 <figure><img src=".gitbook/assets/image (104).png" alt=""><figcaption><p>VESTA-217</p></figcaption></figure>
 
-**VESTA-217**
-
-**Introduction**
+## **Introduction**
 
 RMB-29 is a wireless AC Powered Router with built-in backup battery. The “plug-n-play” design provides a quick and convenient deployment for your system. This wireless signal extender is designed to make your system more powerful by increasing the maximum possible distance and boosting signal latency into hard-to-reach areas. Moreover, it is also optimal for receiving and transmitting signals from the Control Panel, and vice versa.
 
-**Parts Identification**
+## **Parts Identification**
 
 **1. Test Button / LED Indicator**
 
-Test Button Usage:
-
 ![](<.gitbook/assets/0 (97).jpeg>)
+
+Test Button Usage:
 
 * Press once to exit current learning process.
 * Learning into Control Panel & Learning Sensor into Router _(Please refer to the respective sections for more details.)_
 
 LED Indicator (Green and Red):
 
-|                 | Green LED                         | Red LED                        |
-| --------------- | --------------------------------- | ------------------------------ |
-| Steady ON       | -                                 | Learning into Control Panel    |
-| On for 1 second | Powering on                       | -                              |
-| Flash once      | Receiving signal sent from sensor | Retransmitting sensor´s signal |
-| Flash           | Learnig sensor into Router        | -                              |
+<figure><img src=".gitbook/assets/1 (126).png" alt=""><figcaption></figcaption></figure>
 
-**Features**
+## **Features**
 
-* _**One-way/Two-way setting**_
+### _**One-way/Two-way setting**_
 
 The Router can operate as either a one-way device or two-way device. When programmed as a two-way device, the Router can receive acknowledgement from the Control Panel to ensure successful transmission. Please follow steps below to complete one-way/two-way setting.
 
@@ -46,7 +43,7 @@ The Router can operate as either a one-way device or two-way device. When progra
 
 **Step 5.** After you complete one-way/two-way device setting, please learn in/re-learn in the router into the Panel for the updated setting to take effect.
 
-* _**Learning into Control Panel**_
+### _**Learning into Control Panel**_
 
 **Step 1.** To learn the Router into the Control Panel, plug the Router into the power socket. The Router will emit 1 long beep and the Green LED will be turned ON for one second.
 
@@ -56,15 +53,15 @@ The Router can operate as either a one-way device or two-way device. When progra
 
 LED will be steady ON.
 
-**Step 5.** If the Router successfully receives the signal within 60 seconds from the Control Panel, it will emit
+**Step 5.** If the Router successfully receives the signal within 60 seconds from the Control Panel, it will emit 3 beeps. The Red LED will be OFF and return to normal mode.
 
-3 beeps. The Red LED will be OFF and return to normal mode.
+{% hint style="warning" %}
+Note:
 
-{% hint style="info" %}
 To exit the current “Learning into Control Panel” process, press the test button once and the Router will emit 2 beeps. The Red LED will be OFF and return to normal mode.
 {% endhint %}
 
-* _**Learning Router into Router**_
+### _**Learning Router into Router**_
 
 To learn Router A into Router B:
 
@@ -74,13 +71,15 @@ To learn Router A into Router B:
 
 **Step 3.** When Router B receives signal sent from Router A, it will emit one long beep to confirm. If Router A has already been added to Router B, Router B will emit 2 beeps to notify the user.
 
-{% hint style="info" %}
+{% hint style="warning" %}
+Note:
+
 * To exit the current “Learning Router/Sensor into Router” process, press the test button once and the Router will emit 2 beeps and return to normal mode.
 * Please do not cross-learn the Routers, e.g. Learning Router A into Router B and learning Router B into Router A.
 * All Routers will have to be learnt into the Control Panel.
 {% endhint %}
 
-* _**Learning Sensor into Router**_
+### _**Learning Sensor into Router**_
 
 **Step 1.** To learn a sensor into the Router, press and hold the test button of the Router for 3 seconds. Release the button when the Router emits one beep. The Router will enter “Learning Router/Sensor into Router” process and emit one long beep. The Green LED will begin to flash.
 
@@ -92,41 +91,45 @@ To learn Router A into Router B:
 
 **A maximum of 60 devices (including routers) can be learnt into the Router, and up to 8 PIR cameras are supported. If the user attempts to learn in a 61st device, the Router will emit 4 beeps.**
 
-{% hint style="info" %}
+{% hint style="warning" %}
+Note:
+
 * To exit the current “Learning Router/Sensor into Router” process, press the test button once and the Router will emit 2 beeps and return to normal mode.
 * If multiple routers are used, please only learn devices into the router(s) closest to the operation areas of the devices.
 * All the devices learnt into the router must also be learnt into the Control Panel.
 {% endhint %}
 
-* _**Operation**_
+### _**Operation**_
 
 If the Router receives signal from a device, the Green LED will flash once and retransmit the signal to the Control Panel. The Red LED will flash once in transmission mode.
 
 If the Router receives a signal from the Control Panel, the signal will be retransmitted to the corresponding device(s) from the Router.
 
-{% hint style="info" %}
+{% hint style="warning" %}
+Note:
+
 If the user fails to learn a sensor into the Control Panel first, the signal received cannot be retransmitted to the Control Panel. The Green LED will flash once and the device will emit 4 beeps.
 {% endhint %}
 
-* _**Power Supply**_
+### _**Power Supply**_
 
 The Router is powered by AC power. Plug the Router into a power socket to activate the Router. There is a rechargeable battery inside the Router that serves as a backup in case of a power failure. It takes approximately 72 hours to fully charge the battery. During normal operation, AC power is used to power the Router and at the same time recharge the battery.
 
-* _**Battery and Low Battery Detection**_
+### _**Battery and Low Battery Detection**_
 
 The Router is powered by four AAA 1.2V Ni-MH rechargeable batteries. After AC power failure, the Router will transmit a Low Battery signal to the Control Panel when low battery voltage is detected. To restore battery, re-plug AC power into the power socket.
 
-* _**AC Failure Detection**_
+### _**AC Failure Detection**_
 
 Whenever the Router is removed from the power socket, the Router will transmit an AC Failure signal to the Control Panel to notify the situation. When the Router is re-plugged onto the power socket, it will transmit an AC restoration code.
 
-* _**Supervision**_
+### _**Supervision**_
 
 After learnt into the Control Panel, the Router will automatically transmit Supervisory Signals every 30 to 50 minutes when working as a one-way device.
 
 The Router will automatically transmit Supervisory Signals every 90 to 120 minutes when working as a two-way device.
 
-* _**Factory Reset**_
+### _**Factory Reset**_
 
 Factory Reset function will clear all learnt-in device and Control Panel. To reset the Router, please follow steps below:
 
@@ -138,7 +141,7 @@ Factory Reset function will clear all learnt-in device and Control Panel. To res
 
 **Step 4.** Factory reset is complete. All learn-in devices and Control Panel are cleared from the Router.
 
-* _**Recommendations**_
+### _**Recommendations**_
 
 It is strongly suggested to keep a distance between each router and the Control Panel to avoid cross signaling.
 
@@ -146,12 +149,14 @@ If a particular device is within an acceptable range for Control Panel to receiv
 
 When cascading routers to form a transmission relay, it is strongly recommended to link not more than 2 layers of routers.
 
-{% hint style="info" %}
+{% hint style="warning" %}
+Note:
+
 * For devices that are directly controlled by the Panel to turn on/turn off, e.g. power switches, power meter switches, valve controllers, Roller Shutter Controls, or Input and Output Switches, please link **only one layer** of router(s).
 * For keypad, it is also recommended to link **only one layer** of router(s).
 {% endhint %}
 
-* **Multiple Routers**
+### **Multiple Routers**
 
 If multiple routers are used, please follow the guidelines below for the optimum performance:
 
@@ -174,7 +179,9 @@ From the displayed diagram, the device is located between the RF coverage areas 
 
 It is **recommended** to learn the device into Router B only (and not to Router C) to reduce signal traffic.
 
-{% hint style="info" %}
+{% hint style="warning" %}
+Note:
+
 For the above system, Router C is also learnt into Router A or B or both so the signals from Router C can be relayed to the Control Panel through Router A or B, or either.
 {% endhint %}
 
@@ -186,7 +193,9 @@ From the displayed diagram, the device is located between the RF coverage areas 
 
 It is **recommended** to learn the device into Router A only or Router B only (and not to Router to reduce signal traffic).
 
-{% hint style="info" %}
+{% hint style="warning" %}
+Note:
+
 For the above system, Router C is also learnt into Router A or B or both so the signals from Router C can be relayed to the Control Panel through Router A or B, or either.
 {% endhint %}
 
@@ -194,7 +203,7 @@ Typically, most devices stay in the same RF coverage area. For the exceptions su
 
 
 
-**Features**
+## **Features**
 
 ***
 
@@ -210,7 +219,7 @@ Typically, most devices stay in the same RF coverage area. For the exceptions su
 * Low battery detection
 * Suitable for residential and commercial premises
 
-**Specifications**
+## **Specifications**
 
 ***
 
