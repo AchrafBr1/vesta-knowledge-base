@@ -1,12 +1,10 @@
-# VESTA 222
+# VESTA-222
 
 **PSS-29-F1/ PSM-29-F1**
 
-![](<.gitbook/assets/0 (101).jpeg>)
+## **Power Switch Sereis**
 
-**Power Switch Sereis**
-
-**Introduction**
+## **Introduction**
 
 The Power Switch series is designed for the user to remotely turn on/off an appliance that is attached to it.
 
@@ -20,7 +18,7 @@ PSM-29-F1 model has a built-in power meter to measure electricity consumption. T
 
 The integration of the Power Switch into your home automation system will allow you to conveniently control home appliances for comfort or energy-saving purposes.
 
-**Parts Identification**
+## **Parts Identification**
 
 ![](<.gitbook/assets/1 (89).jpeg>)
 
@@ -45,7 +43,7 @@ The LED indicator lights up in the following conditions:
 * Press and hold the button for 3 seconds to send a learn code.
 * Press and hold the button while powering on the Power Switch, then release the button when the LED lights up to factory reset
 
-**Getting Started**
+## **Getting Started**
 
 Step 1: Plug the Power Switch into the power outlet.
 
@@ -61,16 +59,14 @@ switch, it will display the information accordingly. Refer to the Control Panel 
 
 Step 6: When the Power Switch receives the learning code from the Control Panel, the LED of the Power Switch will flash 3 times and then turn off to indicate that learning process is complete.
 
-![](<.gitbook/assets/2 (83).png>)
-
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
 * After entering learning mode, the Power Switch will not automatically leave learning mode unlesss it receives acknowledgement from the Control Panel, or unless the Test button is pressed.
 * If the Power Switch already exists in a Control Panel system, you will need to first remove the Power Switch from the Control Panel before you can learn it into a different Control Panel.
+{% endhint %}
 
-1
-
-**Walk Test**
+### **Walk Test**
 
 To test whether the Power Switch is able to communicate with the Control Panel:
 
@@ -78,45 +74,44 @@ To test whether the Power Switch is able to communicate with the Control Panel:
 * Press the Test Button on the Power Switch.
 * The Control Panel should display if the Power Switch is within the operation range (please refer to the operation manual of the Control Panel).
 
-**Supervision**
+### **Supervision**
 
 * After the Power Switch is successfully learned in to the Control Panel, the device will automatically transmit supervisory signal along with ON/Off status to the Control Panel at random intervals of 30 to 50 minutes.
 * If the Control Panel has not received the signal from the Power Switch for the preset period of time, the Control Panel will indicate on its display that the particular Power Switch is experiencing an out-of-signal problem.
 
-**Operation**
+## **Operation**
 
-![](<.gitbook/assets/3 (74).jpeg>)
+### _**Installation**_
 
-* _**Installation**_
-  * Plug the Power Switch into a power outlet, then plug the appliance into the socket of the Power Switch. The appliance must be in ON status.
-* _**Appliance Control**_
-  * After the Power Switch is successfully learned in to the Control Panel, the Control Panel can remotely turn on/off the Power Switch to control the appliance. Please refer to your Control Panel manual for details.
-  * You can also press the button on the Power Switch to toggle its on/off status
-  * If the Power Switch is removed from power outlet, after re-plugging the Power Switch, its previous on/off status and current energy output data (PSM-29-F1 only) will be transmitted to the Control Panel.
-* _**Energy Consumption Monitor (For PSM-29-F1 Only)**_
+* Plug the Power Switch into a power outlet, then plug the appliance into the socket of the Power Switch. The appliance must be in ON status.
 
-![](<.gitbook/assets/4 (60).jpeg>) ![](<.gitbook/assets/5 (46).jpeg>)
+### _**Appliance Control**_
+
+* After the Power Switch is successfully learned in to the Control Panel, the Control Panel can remotely turn on/off the Power Switch to control the appliance. Please refer to your Control Panel manual for details.
+* You can also press the button on the Power Switch to toggle its on/off status
+* If the Power Switch is removed from power outlet, after re-plugging the Power Switch, its previous on/off status and current energy output data (PSM-29-F1 only) will be transmitted to the Control Panel.
+
+### _**Energy Consumption Monitor (For PSM-29-F1 Only)**_
 
 With a built-in power meter to measure electricity consumption, the PSM-29-F1 Power Meter Switch will transmit power consumption data to the Control Panel when:
 
-*
-  * When the Power Meter Switch is turned On/Off.
-  * Whenever the Power Switch energy output changes by +/- 2W.
-  * Whenever accumulated power usage increases by 0.2kW/hr.
-* _**Maximum Operation Load**_
-  * For 110V: the maximum operation load is 1760W and 16A.
-  * For 230V: the maximum operation load is 3680W and 16A.
-  * If the Power Switch is overheating, it will cut off power automatically as a safety measure. The LED indicator will flash quickly. After cut off, the Power Switch will resume normal operation if temperature drops below the threshold point.
+* When the Power Meter Switch is turned On/Off.
+* Whenever the Power Switch energy output changes by +/- 2W.
+* Whenever accumulated power usage increases by 0.2kW/hr.
 
-![](<.gitbook/assets/6 (58).jpeg>) ![](<.gitbook/assets/7 (63).png>)
+### _**Maximum Operation Load**_
 
-_\<NOTE>_
+* For 110V: the maximum operation load is 1760W and 16A.
+* For 230V: the maximum operation load is 3680W and 16A.
+* If the Power Switch is overheating, it will cut off power automatically as a safety measure. The LED indicator will flash quickly. After cut off, the Power Switch will resume normal operation if temperature drops below the threshold point.
 
-* The maximum operation load of _**Type B**_ is 110V, 1650W, and 15A which is different from the maximum operation load for 110V and 230V stated above.
+{% hint style="warning" %}
+Note:
 
-**Factory Reset**
+The maximum operation load of _**Type B**_ is 110V, 1650W, and 15A which is different from the maximum operation load for 110V and 230V stated above.
+{% endhint %}
+
+### **Factory Reset**
 
 * Factory resetting the Power Switch will clear its memory and restore it to factory default settings.
 * Press and hold the test button while powering on the Power Switch, then release the button when the LED lights up to factory reset.
-
-2

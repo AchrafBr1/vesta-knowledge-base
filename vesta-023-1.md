@@ -1,6 +1,6 @@
-# VESTA-023
+# VESTA-221
 
-SD-29-F1
+SD-29-HME-SC-F1
 
 ## Smoke Detector Series
 

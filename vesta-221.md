@@ -1,6 +1,12 @@
-# VESTA 221
+---
+hidden: true
+---
 
-![](<.gitbook/assets/0 (100).jpeg>)**SD-29 Smoke Detector Series**
+# VESTA 221\_old
+
+SD-29-HME-SC-F1
+
+## **Smoke Detector**
 
 SD-29 Series is a wireless smoke detector with built-in PIR motion sensor and heat detection capability. Designed to protect your family against potential fire hazards, the Smoke detector is also capable of detecting movements and reporting temperature to users. The Smoke Detector can be interconnected with other Smoke Detectors in the alarm system and will raise alarm when any Smoke Detector in the system is triggered **(SD-29-HME-SC only)**.
 

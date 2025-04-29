@@ -1,16 +1,18 @@
 # VESTA 237
 
-![](<.gitbook/assets/0 (68).png>)**REMOTE KEYPAD KP-23B-EL-(F1) / KP-23B-EL-NT-(F1)**
+**KP-23B-EL-(F1) / KP-23B-EL-NT-(F1)**
+
+## **REMOTE KEYPAD  F1**
 
 The Remote Keypad includes following models:
 
 KP-23B-EL / KP-23B-EL-F1: Remote Keypad with Tamper Switch
 
-![](<.gitbook/assets/1 (79).png>)
-
 KP-23B-EL-NT / KP-23B-EL-NT-F1: Remote Keypad without Tamper Switch
 
-* _**Parts Identification**_
+![](<.gitbook/assets/1 (79).png>)
+
+## _**Parts Identification**_
 
 | **1. Active LED** | - Press both # and  keys together to Send Learning |                                               |   |
 | ----------------- | --------------------------------------------------- | --------------------------------------------- | - |

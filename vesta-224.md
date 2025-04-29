@@ -1,8 +1,10 @@
-# VESTA 224
+# VESTA-224
 
-**WEZC-8 Series Expansion Module**
+**WEZC-8**
 
-**Introduction**
+## &#x20;**Series Expansion Module**
+
+## **Introduction**
 
 This installation guide shall be used in conjunction with the Hybrid Panel’s user’s manual, to which the WEZC-8 Series model is connected to.
 
@@ -14,58 +16,56 @@ The WEZC-8 Series Expansion Module is designed to support expansion for the Hybr
 
 **WEZC-8B** – Expansion Module with 8 wired zones and rechargeable battery pack
 
-**Identifying the Parts**
+## **Identifying the Parts**
 
-**Front View** **Back View**
 
-![](<.gitbook/assets/0 (7).jpeg>)
 
-**Internal View**
+![Front View Back View](<.gitbook/assets/0 (7).jpeg>)
 
-![](<.gitbook/assets/1 (9).jpeg>)
 
-1
+
+![Internal View](<.gitbook/assets/1 (9).jpeg>)
 
 1. **Power LED (Red)**
 
-On – Powered by a 12V power adapter or Hybrid Panel.
+&#x20;     On – Powered by a 12V power adapter or Hybrid Panel.
 
-Off – When the power is off, or when powered by rechargeable battery.
+&#x20;     Off – When the power is off, or when powered by rechargeable battery.
 
-1. **Zone 1\~8 LED (Red)**
+2. **Zone 1\~8 LED (Red)**
 
 The corresponding Zone LED will light up when certain zone(s) is/are triggered or has/have tamper or masking condition.
 
-1. **Transmission LED (Red)**
+3. **Transmission LED (Red)**
 
 Lights up when connection or signal transmission is normal between the Expansion Module and Control Panel.
 
-1. **Breakaway Area**
+4. **Breakaway Area**
 
 When the expansion module is forcibly removed from the mounting location, the area will be detached, causing the tamper switch to be activated.
 
-1. **Tamper Switch (For Wall Mounting)**
+5. **Tamper Switch (For Wall Mounting)**
 
 The expansion module is protected by the tamper switch against any unauthorized removal from the mounting location.
 
-1. **Mounting Holes**
-2. **Wiring Hole**
-3. **Battery Connection Terminal (for WEZC-8B only)**
+6. **Mounting Holes**
+7. **Wiring Hole**
+8. **Battery Connection Terminal (for WEZC-8B only)**
 
 For connecting the rechargeable battery pack to the PCB.
 
-1. **Rechargeable Battery Pack (for WEZC-8B only)**
-2. **Terminal Resistor Jumper Switch (J3)**
+9. **Rechargeable Battery Pack (for WEZC-8B only)**
+10. **Terminal Resistor Jumper Switch (J3)**
 
 When the Expansion Module is connected as the furthest BUS device on a BUS line, please set the Expansion Module’ terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (10).jpeg>)
-
 Turn the jumper to OFF by removing the jumper link or ―parking‖ the jumper link on one pin.
 
-![](<.gitbook/assets/3 (9).jpeg>)
+![](<.gitbook/assets/2 (10).jpeg>)
 
 Turn the jumper to ON by resting the jumper link on both pins.
+
+![](<.gitbook/assets/3 (9).jpeg>)
 
 **11. DC Jack**
 
@@ -73,8 +73,8 @@ For DC 12V switching power connection.
 
 To supply stable and sufficient power to charge the rechargeable batteries for WEZC-8B, it is strongly recommended to use a 12V/1A switching power adaptor.
 
-1. **Pluggable BUS Terminal**
-2. **Zone Terminal & 13.5V Auxiliary Voltage Output Terminal & GND Terminal**
+12. **Pluggable BUS Terminal**
+13. **Zone Terminal & 13.5V Auxiliary Voltage Output Terminal & GND Terminal**
 
 The typical voltage is 13.5V, and it might vary depending on the output voltage of the terminal.
 
@@ -82,19 +82,17 @@ The typical voltage is 13.5V, and it might vary depending on the output voltage 
 
 Press the test button to send a test signal to the Control Panel.
 
-1. **Reset Button (Reserved for Internal Use)**
-2. **Tamper Switch (For Case Cover)**
+15. **Reset Button (Reserved for Internal Use)**
+16. **Tamper Switch (For Case Cover)**
 
 The expansion module is protected by the tamper switch against any unauthorized case opening. Whenever the case cover is opened, the tamper switch will be activated.
 
-**Power Supply**
+## **Power Supply**
 
 * The expansion module is powered by the Hybrid Panel, which can provide 13.5V power source to the expansion module. Additionally, it is recommended to use the external power adaptor (12V) when connected to loads that require heavier power draw.
 * When the power supply from the adaptor is interrupted and restored, the expansion module will transmit an AC failure signal and a restore signal respectively to the Control Panel.
 
-2
-
-**Rechargeable Battery Pack (for WEZC-8B only)**
+### **Rechargeable Battery Pack (for WEZC-8B only)**
 
 * For WEZC-8B, a Ni-MH rechargeable battery pack is pre-installed in the Expansion Module to serve as a backup in case of a power failure.
 * Please connect the battery pack to the PCB manually to use it as a backup power source and/or to charge it automatically when power is connected from the adaptor or Hybrid Panel. \<Note> Before connecting the battery pack, make sure the power of DC Jack and/or BUS terminal is/are switched off.
@@ -103,7 +101,7 @@ It is strongly recommended to use a 12V/1A switching power adaptor to supply sta
 
 * When the rechargeable battery pack is low in power, the expansion module will transmit a low battery signal to the Control Panel. When the batteries have been charged, it will also transmit a battery restore signal to the Control Panel.
 
-**Tamper Protection**
+## **Tamper Protection**
 
 WEZC-8 Series has two Tamper Switches; each comes with a different function.
 
@@ -111,29 +109,22 @@ WEZC-8 Series has two Tamper Switches; each comes with a different function.
 * The Tamper Switch for wall mounting is located at the back of the board. It is in normal position when the module is well mounted on the wall. Tamper violation happens when the module is forcibly removed from the mounting location; the breakaway area will be detached, causing the tamper switch to be activated.
 * The tamper is considered as triggered if any one of the tamper is opened. The Tamper is only considered restored when both tampers are in closed state.
 
-**Supervisory Signal**
+## **Supervisory Signal**
 
 * After being learnt in to the Control Panel, the Expansion module will automatically transmit Supervisory Signals every 20 to 30 seconds.
 
-**Connection to the Hybrid Panel**
+## **Connection to the Hybrid Panel**
 
 * Before connection, make sure the power supply has been disconnected, and the panel battery switch has been slid to OFF position.
 * To assist with cable connections, the terminal blocks on each system module are color-coded.
 
-| **Red**    | VDD  |
-| ---------- | ---- |
-| **Black**  | GND  |
-| **Yellow** | 485A |
-| **Green**  | 485B |
+<figure><img src=".gitbook/assets/1 (135).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication of the connected BUS devices, ensure the furthest BUS device’s
 
 Terminal Resistor Jumper Switch and Control Panel’s J53 Jumper Switch are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
 * The WEZC-8 series can be connected to and powered by either the Control Panel via the BUS terminal or the external power via the 12V adaptor. If the expansion module is using external power, be sure to bypass the red VDD terminal on the Control Panel using the Wago 221 Splicing Connector.
-
-3
-
 * The following is WEZC-8 connected to and being powered by the Hybrid Panel:
 
 ![](<.gitbook/assets/4 (8).jpeg>)
@@ -142,15 +133,15 @@ Terminal Resistor Jumper Switch and Control Panel’s J53 Jumper Switch are set 
 
 ![](<.gitbook/assets/5 (7).jpeg>)
 
-4
-
-_Note:_
+{% hint style="warning" %}
+Note:
 
 * _Be sure to bypass the red VDD terminal on the Control Panel using the provided Wago 221 Splicing Connector. Connect the VDD terminal to the next BUS device (VST-892-BUS as example) that is powered by Hybrid Panel._
 * _The pluggable design of BUS terminal blocks improves installation efficiency. Before wiring, you can remove the terminal blocks from the device for ease of use, and plug in again after wiring. When re-installing the terminal blocks back to the board, make sure to install them in the same direction to avoid potential hazards._
 * _Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power._
+{% endhint %}
 
-**Zone Wiring**
+## **Zone Wiring**
 
 * The 8 zones can be wired to supervise NC (normally close) or NO (normally open) devices, e.g., PIR sensors, door contacts, smoke detectors, water sensors, fire sensors, CO sensors, gas detectors, heat detectors, and glass break detectors, etc.
 * Connect hardwired devices into any Zone terminal.
@@ -169,51 +160,41 @@ selection: 4.7K), or 4.7KΩ/5.6KΩ, 5.6KΩ, 2.2KΩ/3KΩ (resistor value selectio
 
 Please refer to the following diagrams of loops 1 to 10 for wiring examples.
 
-**NO/NC Wiring**
+### **NO/NC Wiring**
 
 The panel can detect alarm for corresponding NO or NC devices via the open, secure or shorted circuits.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
- There is no EOL resistor in loop 1 and loop 2
+There is no EOL resistor in loop 1 and loop 2
+{% endhint %}
 
 **NO/NC Wiring**
 
-1\. 2.
+![1](<.gitbook/assets/6 (7).jpeg>) ![2](<.gitbook/assets/7 (7).jpeg>)
 
-![](<.gitbook/assets/6 (7).jpeg>) ![](<.gitbook/assets/7 (7).jpeg>)
+#### **Single-End-of-Line Resistor Wiring**
 
-5
 
-**Single-End-of-Line Resistor Wiring**
 
-3\. 4.
+![3                                                                                                                                             4](<.gitbook/assets/8 (10).png>)
 
-![](<.gitbook/assets/8 (10).png>)
+![5                                                                                                                                        6](<.gitbook/assets/9 (14).png>)
 
-5\. 6.
+#### **Double-End-of-Line Resistor Wiring**
 
-![](<.gitbook/assets/9 (14).png>)
+![7                                                                                                                                               8](<.gitbook/assets/10 (15).png>)
 
-**Double-End-of-Line Resistor Wiring**
+#### **Triple-EOL Wiring**
 
-7\. 8.
+![9                                                                                                                            10](<.gitbook/assets/11 (11).png>)
 
-![](<.gitbook/assets/10 (15).png>)
-
-**Triple-EOL Wiring**
-
-9\. 10.
-
-![](<.gitbook/assets/11 (11).png>)
-
-6
-
-**Getting Started**
+## **Getting Started**
 
 After connecting the expansion board to the Hybrid Panel, and completing device wiring, please proceed to learning and zone programming.
 
-* _**Learning**_
+### _**Learning**_
 
 **Step 1.** Connect the Expansion Module to the Control Panel. Then, power on the Control Pane&#x6C;**.**
 
@@ -225,7 +206,7 @@ After connecting the expansion board to the Hybrid Panel, and completing device 
 
 **Step 5.** If the Expansion Module is successfully learnt into the system, the added device will be displayed in the ―Learned Device‖ section. The Device Type will be shown as ―Expander‖.
 
-* _**Wired Zone Programming**_
+### _**Wired Zone Programming**_
 
 After the expansion module is added, proceed to wired zone programming.
 
@@ -248,7 +229,7 @@ After the expansion module is added, proceed to wired zone programming.
 
 **Step 7.** Edit your device setting and information. Click ―OK‖ to save changes when finished.
 
-* _**Identification**_
+### _**Identification**_
 
 The ―Identify‖ function is used to localize a specific BUS device in the BUS wired system. This function is helpful in distinguishing which device is which especially in a large installation where numerous BUS devices are included.
 
@@ -260,28 +241,31 @@ To locate the Expansion Module in the BUS system:
 
 **Step 2.** If the Expansion Module receives the signal from the Hybrid Panel, the webpage will display a success message and the Expansion Module’s power LED indicator will flash for 10 times to indicate where it is to the user.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* If a timeout message is displayed on the webpage, it means the Expansion Module did not receive the signal from the Panel.
+If a timeout message is displayed on the webpage, it means the Expansion Module did not receive the signal from the Panel.
 
 Please check whether the Expansion Module is connected properly to the Panel within appropriate wiring distance.
+{% endhint %}
 
-7
+### _**Walk Test**_
 
-* _**Walk Test**_
 * To make sure the Expansion Module is able to communicate with the Panel after it is
 
 learned-in, place the Control Panel in Walk Test mode and press the Test button on WEZC-8 to transmit a test signal to the Control Panel.
 
 * When the Panel receives the test signal, it will beep once and display the Expansion Module’s information accordingly on the top of the device list.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* If there is no response from the Panel after the press of test button, it means the Panel did not receive the test signal from the device.
+If there is no response from the Panel after the press of test button, it means the Panel did not receive the test signal from the device.
 
 Please check whether the Expansion Module is connected properly to the Panel within appropriate wiring distance.
+{% endhint %}
 
-**How to Mount the Expansion Module**
+### **How to Mount the Expansion Module**
 
 The Expansion Module can be mounted on the wall. Follow the steps below to mount it:
 
@@ -292,5 +276,3 @@ The Expansion Module can be mounted on the wall. Follow the steps below to mount
 * Re-place the front cover and tighten the bottom fixing screws.
 
 ![](<.gitbook/assets/13 (3).jpeg>)
-
-8
