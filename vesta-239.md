@@ -1,10 +1,12 @@
-# VESTA 239
+# VESTA-239
 
-**ZBW Dongle**
+ZBW-DONGLE
+
+## Z-Wave and Zigbee dongle
 
 The ZBW Dongle has built in both ZigBee and Z-Wave modules to provide the Control Panel with extra ZigBee and Z-Wave compatibility. It enables the Control Panel to learn in and control ZigBee and Z-Wave devices.
 
-**Identifying the Parts**
+## **Identifying the Parts**
 
 ![](<.gitbook/assets/0 (103).jpeg>)
 
@@ -14,7 +16,7 @@ Blue LED ON: Normal Operation for ZigBee Network
 
 Red LED ON: Normal Operation for Z-Wave network
 
-**Operation**
+## **Operation**
 
 1. Power down the Control Panel.
 2. Plug the ZBW Dongle into the USB port on the Control Panel.
@@ -23,8 +25,10 @@ Red LED ON: Normal Operation for Z-Wave network
 
 ![](<.gitbook/assets/1 (78).png>)
 
-1. Refer to Control Panel installation manual and individual ZigBee or Z-wave device manual to learn in and control your ZigBee/Z-wave devices.
+5. Refer to Control Panel installation manual and individual ZigBee or Z-wave device manual to learn in and control your ZigBee/Z-wave devices.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Do **NOT** plugin/unplug the ZBW dongle into Control Panel when the panel is powered on.
+Do **NOT** plugin/unplug the ZBW dongle into Control Panel when the panel is powered on.
+{% endhint %}

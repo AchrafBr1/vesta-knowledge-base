@@ -1,19 +1,14 @@
-# VESTA 240
+# VESTA-240
 
-**Z-Wave Dongle**
+ZW-DONGLE
+
+## **Z-Wave Dongle**
 
 Z-Wave Dongle designed to be used with Climax gateways to provide extra Z-wave device compatibility. It enables the Control Panel to learn in and interact with various Z-wave devices on the market.
 
 ![](<.gitbook/assets/0 (104).jpeg>)
 
-| Z-wave        |   |   |
-| ------------- | - | - |
-| Z-wave device |   |   |
-| dongle        |   |   |
-|               |   |   |
-|               |   |   |
-
-**Identifying the Parts**
+## **Identifying the Parts**
 
 ![](<.gitbook/assets/1 (91).jpeg>)
 
@@ -21,7 +16,7 @@ Z-Wave Dongle designed to be used with Climax gateways to provide extra Z-wave d
 
 LED ON: Working Normally
 
-**Operation**
+## **Operation**
 
 1. Power down the Control Panel
 2. Plug the Z-wave Dongle into the USB port on the Control Panel
@@ -31,8 +26,10 @@ LED ON: Working Normally
 
 ![](<.gitbook/assets/2 (85).png>)
 
-1. Refer to Control Panel installation manual and individual Z-wave device manual to learn in and control your Z-wave devices.
+5. Refer to Control Panel installation manual and individual Z-wave device manual to learn in and control your Z-wave devices.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-* Do **NOT** plugin / unplug the Z-wave dongle into Control Panel when the panel is powered on.
+Do **NOT** plugin / unplug the Z-wave dongle into Control Panel when the panel is powered on.
+{% endhint %}
