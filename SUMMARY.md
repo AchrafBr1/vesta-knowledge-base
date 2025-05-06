@@ -256,3 +256,4 @@
 * [🧑‍🔧 SmartHomeSec Installer Manual](installer-manual-smart-home-sec.md)
 * [SmartHomeSec WIZARD](smarthomesec-wizard.md)
 * [PANEL INSTALLER MANUAL](intaller-manual.md)
+* [INTEGRATION WITH DAHUA IP CAMERAS](integration-with-dahua-ip-cameras.md)
