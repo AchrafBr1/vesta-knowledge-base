@@ -10,7 +10,7 @@ The VESTA-350 is **designed to work in conjunction with the** [**VESTA-150**](ve
 
 ***
 
-### **3. Technical Specifications (HE-100X)**
+### **2. Technical Specifications (HE-100X)**
 
 | **Detection Technology**     | Dual PIR                                           |
 | ---------------------------- | -------------------------------------------------- |
@@ -28,6 +28,8 @@ The VESTA-350 is **designed to work in conjunction with the** [**VESTA-150**](ve
 | **Protection Rating**        | IP55                                               |
 | **Color Options**            | White / Brown                                      |
 
+<figure><img src=".gitbook/assets/image (264).png" alt=""><figcaption><p>Dimension</p></figcaption></figure>
+
 ### **3. Typical Applications**
 
 * Perimeter protection at windows and doorways
@@ -35,9 +37,13 @@ The VESTA-350 is **designed to work in conjunction with the** [**VESTA-150**](ve
 * Ideal for sliding doors, floor-to-ceiling windows, and narrow entry areas
 * Compatible with wired and wireless security systems
 
+### 4. Detection Range and dimension
+
+<figure><img src=".gitbook/assets/image (260).png" alt=""><figcaption><p>Detection Range</p></figcaption></figure>
+
 ***
 
-### **4. Installation Recommendations**
+### **5. Installation Recommendations**
 
 * Mount at the **top center** of the door/window frame
 * Install **adjacent to the VESTA-150** where dual-layer detection is required
@@ -46,15 +52,9 @@ The VESTA-350 is **designed to work in conjunction with the** [**VESTA-150**](ve
 
 ***
 
-### **5. Precautions**
+### **6. Precautions**
 
 * Ensure secure mounting to avoid tamper or vibration-related false alarms
 * Clean Fresnel lenses regularly to ensure optimal detection performance
 * Dual-tech models should not face devices that emit microwave or heat signals
-
-### 6. Detection Range and dimension
-
-<figure><img src=".gitbook/assets/image (260).png" alt=""><figcaption><p>Detection Range</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (264).png" alt=""><figcaption><p>Dimension</p></figcaption></figure>
 
