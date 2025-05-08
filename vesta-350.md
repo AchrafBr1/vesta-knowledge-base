@@ -6,7 +6,9 @@
 
 The **VESTA-350** is a dual passive infrared (PIR) motion detector specifically designed for **top-mounted installation on windows and doors**, offering a **narrow curtain detection pattern**. It is ideal for early intrusion detection with high accuracy and minimal false alarms.
 
-The VESTA-350 is **designed to work in conjunction with the** [**VESTA-150**](vesta-150.md) **sensor**, creating a robust perimeter protection solution. The HE-100X series includes both **hardwired and battery-operated models**, with available **dual-tech antimasking** versions integrating microwave technology.
+{% hint style="success" %}
+The VESTA-350 is **designed to work in conjunction with the** [**VESTA-148**](https://vesta-guide.gitbook.io/vesta-guide/vesta-148) **sensor**, creating a robust perimeter protection solution. The HE-100X series includes both **hardwired and battery-operated models**, with available **dual-tech antimasking** versions integrating microwave technology.
+{% endhint %}
 
 ***
 
