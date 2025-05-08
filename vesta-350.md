@@ -35,7 +35,7 @@ The VESTA-350 is **designed to work in conjunction with the** [**VESTA-148**](ht
 ### **3. Typical Applications**
 
 * Perimeter protection at windows and doorways
-* Combined operation with the **VESTA-150** for enhanced access point security
+* Combined operation with the **VESTA-148** for enhanced access point security
 * Ideal for sliding doors, floor-to-ceiling windows, and narrow entry areas
 * Compatible with wired and wireless security systems
 
@@ -48,7 +48,7 @@ The VESTA-350 is **designed to work in conjunction with the** [**VESTA-148**](ht
 ### **5. Installation Recommendations**
 
 * Mount at the **top center** of the door/window frame
-* Install **adjacent to the VESTA-150** where dual-layer detection is required
+* Install **adjacent to the VESTA-148** where dual-layer detection is required
 * Configure pulse count and logic depending on site-specific sensitivity requirements
 * Avoid proximity to moving objects (e.g., curtains), reflective surfaces, or air vents
 
