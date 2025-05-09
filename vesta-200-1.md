@@ -1,25 +1,20 @@
----
-hidden: true
----
+# VESTA-200
 
-# VESTA 149
-
-**DC-15SC2-2W / DCA-15C2-2W**
+**DC-15SL-2W-F1**
 
 ## **Door Contact**&#x20;
 
-The Door Contact is used to detect the opening and closing of doors and windows. Typically the Door Contact is fixed to the&#x20;door frame and the actuating magnet is fixed to the door. When the door opens, the magnet is moved away from the Door&#x20;Contact and an internal magnetic switch will be activated causing the Door Contact to transmit an alarm.\
-A PCB tamper switch protects the enclosure from being opened or being removed from the mounting surface and also alert&#x20;you to signal communication problems and low battery situations.\
-The Door Contact features extension terminal which can be used to connect to a N.C. (Normal Close) device or roller&#x20;shutter to provide greater flexibility.
+The Door Contact monitors the opening/closing of specified devices (e.g. door or window). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch causing the Door Contact to transmit alarm signal to the Central Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
+
+The Door Contact design consists of a cover and base. The cover contains all electronics and the base provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening and/or removal.
+
+The Door Contact is a two-way radio signal transmission device. When Door Contact is triggered but did not receive acknowledgement from the Control Panel, the Door Contact will resend signal to ensure the panel successfully receive notification.
 
 ## _**Parts Identification**_
 
 1. **LED indicator / Test button**
 
-&#x20;      **Test Button**
-
-* Press once to transmit a learning code.
-* Press once to enter test mode for 3 min.
+&#x20;      Press the Test button to transmit learning code or enter test mode for 3 min.
 
 2. **Mounting Holes**
 
