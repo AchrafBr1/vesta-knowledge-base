@@ -75,12 +75,12 @@ Only use specified batteries with the device. When replacing batteries, always r
 ### Joining the System Network
 
 * To add the keypad to the system network, first put the Control Panel in learning mode.
-* Press the OK key once. When “Enter PIN Code” is displayed on the LCD screen, press and hold the **OK** key for 10 seconds.
+* **Press the OK key once. When “Enter PIN Code” is displayed on the LCD screen, press and hold the OK key for 10 seconds.**
 * “KPT will reset in 2 seconds” will be displayed on the LCD screen along with a long beep.
 * “Scanning Network” will be displayed on the LCD screen while the keypad is sending learning code to the Control Panel.
 * When the keypad is added to the Control Panel, “Learning Success” will be displayed on the LCD screen along with 2 beeps.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Note
 
 * If the Control Panel promptly responds to the keypad, the “Scanning Network” process will be skipped, and “Learning Success” will be directly displayed on the LCD screen.
