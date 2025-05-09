@@ -26,11 +26,11 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 8. **Backlit OK Key**
 9. **Backlit Pound (＃) Key**
    * For confirming the keyed-in data or confirming the selection.
-10. **Backlit Arm/ Key**
+10. **Backlit Arm/ " UP ARROW " Key**
     * Use this key to move the cursor and scroll the display upwards
     * The key is also used for entering “Away Armed” mode.
 11. **Backlit NFC Sensor Zone**
-12. **Backlit Home Arm/ Key**
+12. **Backlit Home Arm/"DOWN ARROW" Key**
     * Use this key to move the cursor and scroll the display downwards.
     * The key is also used for entering “Home Armed” mode.
 13. **Buzzer**
@@ -173,7 +173,7 @@ Step 3. The label is cleared.
 ### **Wireless Operation:**
 
 * To add the wired/wireless keypad to the system network, first put the Control Panel in learning mode.
-* Press the OK key once. When “Enter PIN Code” is displayed on the LCD screen, press and hold the **OK** key for 10 seconds.
+* **Press the OK key once. When “Enter PIN Code” is displayed on the LCD screen, press and hold the OK key for 10 seconds.**
 * “KP will reset in 2 seconds” will be displayed on the LCD screen along with a long beep.
 * “Scanning Network” will be displayed on the LCD screen while the wired/wireless keypad is sending learning code to the Control Panel.
 * When the keypad is added to the Control Panel, “Learning Success” will be displayed on the LCD screen along with 2 beeps.
@@ -218,7 +218,7 @@ To locate KPT-35N-Combo-BYD in the wired system:
 
 **Step 2.** If KPT-35N-Combo-BYD receives the signal from the Panel, the webpage will display a success message and the white backlight of the wired/wireless keypad will flash 10 times to indicate where it is to the user.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Note:
 
 If a timeout message is displayed on the webpage, it means the wired/wireless keypad did not receive the signal from the Panel. Please check whether KPT-35N-Combo-BYD is connected properly to the Panel within proper wiring distance.
@@ -245,14 +245,13 @@ After entering the PIN code, press the **Arm/Home Arm/OK** key to enter **Away A
 
 Press the **Arm/Home Arm/OK** key, and then swipe the label. If the label info is correct, “Success” will be displayed on the LCD screen, indicating that the system has entered **Away Armed/Home Armed/System Disarmed** mode.
 
-*
-  * When the system mode is changed to disarmed mode, the LCD will show “Area No. Alarm Memory” and Yellow LED will flash once every 3 seconds with 5 beeps if there is/are alarm(s) triggered before. Users can manually enter User Menu to view the alarm memory (please refer to User Menu section below for details).
-  * **Quick Arm Function:** Users can enter Setting Menu to activate the Quick Arm Function (Choose **Setting > Quick Arm > Enable**, and then press OK), which will allow users to change the mode by pressing the Arm key or the Home Arm key without entering the PIN code or swiping the label. To disarm the system, users still need to enter PIN code or use the label.
-  * After entering User Menu with the system disarmed, users can also select **Away Arm** or **Home Arm**, and press OK to change the system mode.
+* When the system mode is changed to disarmed mode, the LCD will show “Area No. Alarm Memory” and Yellow LED will flash once every 3 seconds with 5 beeps if there is/are alarm(s) triggered before. Users can manually enter User Menu to view the alarm memory (please refer to User Menu section below for details).
+* **Quick Arm Function:** Users can enter Setting Menu to activate the Quick Arm Function (Choose **Setting > Quick Arm > Enable**, and then press OK), which will allow users to change the mode by pressing the Arm key or the Home Arm key without entering the PIN code or swiping the label. To disarm the system, users still need to enter PIN code or use the label.
+* After entering User Menu with the system disarmed, users can also select **Away Arm** or **Home Arm**, and press OK to change the system mode.
 
 ### _**User Menu**_
 
-* The keypad will communicate with the system to retrieve information before entering User Menu. The following options will be displayed on the LCD screen for selection. Use **** and **** keys to select, and press the **OK** key to confirm your selection.
+* The keypad will communicate with the system to retrieve information before entering User Menu. The following options will be displayed on the LCD screen for selection. Use "UP ARROW" and "DOWN ARROW" keys to select, and press the **OK** key to confirm your selection.
 * To enter User Menu, press and hold “**＊**” for 2 seconds in idle mode of the keypad when the system of the area where KPT-35N-Combo-BYD is located is already in **Disarmed mode**.
 * The keypad will exit User Menu automatically after 20 seconds of inactivity.
 
@@ -261,7 +260,7 @@ Press the **Arm/Home Arm/OK** key, and then swipe the label. If the label info i
 * **Away Arm:** Select “Away Arm” and press the OK key to change the system mode to “Away Armed”.
 * **Home Arm:** Select “Home Arm” and press the OK key to change the system mode to “Home Armed”.
 * **Alarm Memory:** This option will become available after an alarm is triggered. Entering User Menu will be directed to the Alarm Memory option automatically. Press **OK** to confirm the selection, and then use **** and **** keys to view the alarm memory.
-  * **Fault Display:** This option will become available when fault event exists in system. To view fault events, select “Fault Display” and press OK to confirm the selection. Use  and  keys to view the fault events and press key to return to User Menu.
+* **Fault Display:** This option will become available when fault event exists in system. To view fault events, select “Fault Display” and press OK to confirm the selection. Use  and  keys to view the fault events and press key to return to User Menu.
 
 {% hint style="warning" %}
 Note:
@@ -271,13 +270,13 @@ The Yellow LED will flash once every 3 seconds when any fault situation is detec
 If you try to arm the system when fault event exists, the arming will be prohibited and the LCD screen will jump to Fault Display. If you want to forcibly arm the system, perform the arm action again within 30 seconds. The system will ignore the fault event and enter your selected arm mode.
 {% endhint %}
 
-* **Log:** Select “Log” and press OK to view the system log. Use  and  keys to view the events and press key to return to User Menu.
+* **Log:** Select “Log” and press OK to view the system log. Use "UP ARROW" and "DOWN ARROW" keys to view the events and press key to return to User Menu.
 * **Bypass:** This function is only available under wired connection. “Enter M. Code” will be shown on the LCD screen (default M. Code is **1111**). The Panel will ignore all signals received from the device being bypassed and not respond at all when such device is triggered.
 * **Setting:** For wireless connection, after entering User Menu, input the default M. Code “**1111**” to enter the setting menu. For wired connection, input the default I. code “**7982**” to enter the setting menu. Use  and  keys to select setting options and press key to return to User Menu.
 
 <figure><img src=".gitbook/assets/5 (123).png" alt=""><figcaption></figcaption></figure>
 
-* **Language:** Select “Language” and press OK key to enter the language menu. Use  and  keys to select the 6 language for display, and press key to return to User Menu.
+* **Language:** Select “Language” and press OK key to enter the language menu. Use"UP ARROW" and "DOWN ARROW" keys to select the 6 language for display, and press key to return to User Menu.
 
 <figure><img src=".gitbook/assets/6 (102).png" alt=""><figcaption></figcaption></figure>
 
@@ -337,7 +336,7 @@ _When the wired/wireless keypad is under **NORMAL OPERATION MODE,**_
 The wired/wireless keypad can be reset to clear all learnt-in data and return all settings to the default values by the steps below:
 
 1. Please follow _**Change of Batteries**_ steps for factory default.
-2. Within 10 seconds after inserting the batteries, enter “0000”. When the last digit of “0000” turns into “” on the LCD screen, press “#” to reset the wired/wireless keypad to the default values.
+2. Within 10 seconds after inserting the batteries, enter “0000”. When the last digit of “0000” turns into “ \* ” on the LCD screen, press “#” to reset the wired/wireless keypad to the default values.
 3. “Reset Default” will be displayed on the LCD screen along with 3 beeps indicating successful operation.
 4. All learnt-in data will be cleared.
 5. Entry/ Exit Beeps will be disabled.
