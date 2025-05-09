@@ -184,15 +184,7 @@ Step 2: Program the email provided by central monitoring station in "Captured fi
 
 
 
-<figure><img src=".gitbook/assets/image (231).png" alt=""><figcaption><p>Hybrid Lite</p></figcaption></figure>
 
-{% file src=".gitbook/assets/Hybrid Panel Lite 2G 4G _Installation Guide.pdf" %}
-
-
-
-<figure><img src=".gitbook/assets/image (232).png" alt=""><figcaption><p>Radio panels</p></figcaption></figure>
-
-{% file src=".gitbook/assets/HSGW Installer Guide.pdf" %}
 
 
 

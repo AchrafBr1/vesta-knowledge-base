@@ -172,29 +172,11 @@ Step 2: Program the email provided by central monitoring station in "Captured fi
 
 
 
-## COMPLETE INSTALATION MANUALS
-
-
-
-<figure><img src=".gitbook/assets/image (230).png" alt=""><figcaption><p>Hybrid Grade 3</p></figcaption></figure>
-
-{% file src=".gitbook/assets/Hybrid Panel-1_Installation Guide.pdf" %}
-
-
-
-
-
-<figure><img src=".gitbook/assets/image (231).png" alt=""><figcaption><p>Hybrid Lite</p></figcaption></figure>
-
-{% file src=".gitbook/assets/Hybrid Panel Lite 2G 4G _Installation Guide.pdf" %}
-
-
+## COMPLETE INSTALLATION MANUALS
 
 <figure><img src=".gitbook/assets/image (232).png" alt=""><figcaption><p>Radio panels</p></figcaption></figure>
 
-{% file src=".gitbook/assets/HSGW Installer Guide.pdf" %}
-
-
+{% file src=".gitbook/assets/HSGW-MAX8-DT18-SF1-DUAL 20220811 (1).pdf" %}
 
 
 
