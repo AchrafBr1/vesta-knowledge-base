@@ -151,7 +151,7 @@
 * [VESTA-243](vesta-243.md)
 * [VESTA-245](vesta-245.md)
 * [VESTA-248](vesta-248.md)
-* [VESTA 259](vesta-259.md)
+* [VESTA-259](vesta-259.md)
 * [VESTA 260](vesta-260.md)
 * [VESTA 268](vesta-268.md)
 * [VESTA 269](vesta-269.md)
