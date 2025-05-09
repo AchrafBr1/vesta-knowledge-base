@@ -33,13 +33,13 @@ The jumper link is inserted, connecting the two pins. The jumper link is removed
 
 1. **Input Jumper Switch (JP2)**
 
-![](<.gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 | **Jumper On**                                        | **Jumper Off**                                        |
 | ---------------------------------------------------- | ----------------------------------------------------- |
 | The jumper link is inserted, connecting the two pins | if the jumper link is removed or “parked” on one pin. |
 
-![](.gitbook/assets/3.jpeg)
+![](<.gitbook/assets/3 (1).jpeg>)
 
 * Jumper ON: Normally Closed (N.C.) is set.
 * Jumper OFF: Normally Open (N.O.) is set **(Factory Default)**.
@@ -55,7 +55,7 @@ The jumper link is inserted, connecting the two pins. The jumper link is removed
 
 **Features**
 
-![](.gitbook/assets/4.jpeg)
+![](<.gitbook/assets/4 (1).jpeg>)
 
 * _**LED Indicator**_
   * In Normal Operation Mode, the LED will not light up when the device is activated.

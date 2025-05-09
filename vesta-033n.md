@@ -6,7 +6,7 @@
 
 ## _**Identifying the parts:**_
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Green LED Red LED Orange LED Arm Button**
 2. **Tag Reader Sensor (for tag)**

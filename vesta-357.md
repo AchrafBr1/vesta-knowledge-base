@@ -54,7 +54,7 @@ When the PIR motion sensor camera is connected as the furthest BUS device on a B
 
 **Jumper On**
 
-![](<.gitbook/assets/4 (1) (1).jpeg>)
+![](<.gitbook/assets/4 (1) (1) (1).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 

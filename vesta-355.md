@@ -59,7 +59,7 @@ When the PIR Camera is connected as the furthest BUS device on a BUS line, pleas
 
 **Jumper On**
 
-![](<.gitbook/assets/4 (1).jpeg>)
+![](<.gitbook/assets/4 (1) (1).jpeg>)
 
 The jumper link is inserted, connecting the two pins.
 

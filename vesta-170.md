@@ -218,9 +218,9 @@ Switch Binary (S2)
 
 #### **Z-Wave’s Groups (Association Command Class Version 2)**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
