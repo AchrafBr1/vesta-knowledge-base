@@ -1,4 +1,4 @@
-# VESTA 271
+# VESTA-271
 
 ## QUICK START
 
@@ -28,17 +28,13 @@
 
 **function.**
 
-![](<.gitbook/assets/1 (81).png>)
-
-**Identifying the Parts**
+## **Identifying the Parts**
 
 1. **LED indicator (Red)**
 2. **Learn/Test Button**
 3. **Battery (CR123)**
 
-![](<.gitbook/assets/2 (88).png>)
-
-**LED Indicator**
+## **LED Indicator**
 
 **In Normal operation mode, the LED Indicator remains off except:**
 
@@ -48,7 +44,7 @@
 
 **When the Tamper Switch is triggered, the LED will flash to indicate it is transmitting “Tamper” signal. When the Tamper condition persists, each time it transmits a detected movement, the LED will flash. When the battery is exhausted, the LED will flash every 4 seconds.**
 
-**Learning**
+## **Learning**
 
 **Follow the steps below to install the transmitter.**
 
@@ -58,13 +54,13 @@
 
 **Refer to Control Panel manual to complete the learn-in process.**
 
-**Walk Test**
+## **Walk Test**
 
 **After the detector is learnt-in, put the Control Panel into “Walk Test” mode, hold the detector in the desired location, and press the Test button to confirm this location is within signal range of the Control Panel, refer to Control Panel manual to complete Walk Test.**
 
 **When you are satisfied that the detector works in the chosen location, you can proceed to mounting.**
 
-**Battery**
+## **Battery**
 
 **The detector uses one CR123 Lithium battery as its power source.**
 
@@ -74,75 +70,27 @@
 
 **When changing battery, after removing the old battery, press the Learn button twice to fully discharge before inserting new battery.**
 
-**Supervision**
+## **Supervision**
 
 **The detector will transmit a supervisory signal every 90-110 minutes.**
 
-**Installation of the Transmitter**
-
-![](<.gitbook/assets/3 (85).png>) ![](<.gitbook/assets/4 (91).png>) ![](<.gitbook/assets/5 (93).png>) ![](<.gitbook/assets/6 (71).png>) ![](<.gitbook/assets/7 (66).png>)
+## **Installation of the Transmitter**
 
 **The section illustrates how to install the transmitter in the motion detector QXI-RDT-X5, BXS-RAM, VXS-RAM, and WXI-RAM.**
 
-**1**
-
-![](<.gitbook/assets/8 (66).png>)**QXI-RDT-X5**
+### **QXI-RDT-X5**
 
 **Step 1. Apply the foam tape on the transmitter.**
 
-![](<.gitbook/assets/9 (65).png>)
-
-**Apply the foam tape here.** ![](<.gitbook/assets/10 (61).png>)
-
-![](<.gitbook/assets/11 (51).png>)
-
-**Before Application**
-
-![](<.gitbook/assets/12 (52).png>)
-
-**After Application**
+<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2. Remove the back cover. Align its border with the lower side of the cover case and the middle of the hole as the pictures shown below.**
 
-![](<.gitbook/assets/13 (41).png>)
-
-**The middle**
-
-![](<.gitbook/assets/14 (39).png>)
-
-**of the hole**
-
-**The lower side**
-
-**Align the upper side of the**
-
-**transmitter with the middle**
-
-**of the hole.**
-
-**Align here**
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/12.png">12.png</a></td></tr><tr><td></td><td><a href=".gitbook/assets/13.png">13.png</a></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 **Step 3. Connect the wires and fix the wires as the pictures shown below.**
 
-![](<.gitbook/assets/15 (40).png>)
-
-**○1 Insert the wires and pull the**
-
-**wires downward for about 45° and**
-
-**fix them onto the cover case.**
-
-**○2 Pull the wires downward for about**
-
-**45° and fix them onto the corner of the**
-
-**cover case.**
-
-**○3 Pull the wires leftward**
-
-**and fix them on the left side.**
-
-**2**
+<figure><img src=".gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
 
 **Step 4. Use the wires to make a loose knot, and thread the wires’ end into the circles.**
 
@@ -160,142 +108,102 @@
 
 ![](<.gitbook/assets/19 (37).png>)
 
-**3**
-
-![](<.gitbook/assets/20 (28).png>)**BXS-RAM**
+### **BXS-RAM**
 
 **Step 1. Apply the foam tape on the transmitter.**
 
-**Apply the foam tape here.**
-
-**Before Application**
-
-**After Application**
+<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Use the wires to make a loose knot, and thread the wires’ end into the circles.**
 
+<figure><img src=".gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
+
 **Step 3. Thread the other pair of wires through the knot, and fix the wires onto BXS-RAM.**
+
+<figure><img src=".gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
 
 **Step 4. Turn the BXS-RAM around. Use the wires to make a loose knot and thread the wires’ end into the circles. Align a foam tape with the edge marked in the picture below and apply it in the middle to fill in the gap. Align the transmitter in the middle of the back cover as the picture shown below and attach the transmitter to the foam tape closely.**
 
-**Note: A foam tape is included in the package to fill in the gap between the BXS-RAM and the transmitter board.**
+{% hint style="warning" %}
+Note:
 
-**4**
+**A foam tape is included in the package to fill in the gap between the BXS-RAM and the transmitter board.**
+{% endhint %}
 
-**Turn the BXS-RAM around. Use the wires to make a loose knot and thread the wires’ end into the circles.**
+<figure><img src=".gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
 
-**Align a foam tape with the edge.**
-
-**Apply the foam tape in the middle to fill in the gap.**
-
-**Align the transmitter with the middle of the hole.**
-
-**Align the lower side of the wire connector here. Attach the transmitter board to the foam tape closely. Be sure the foam tape is applied before installing the transmitter.**
-
-**Align the transmitter with the middle of the hole.**
-
-**5**
+<figure><img src=".gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
 
 **Step 5. The installation is complete.**
 
-**VXS-RAM**
+<figure><img src=".gitbook/assets/21.png" alt=""><figcaption></figcaption></figure>
+
+### **VXS-RAM**
 
 **Step 1. Apply the foam tape on the transmitter.**
 
-**Apply the foam tape here.**
-
-**Before Application**
-
-**After Application**
+<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2. First, turn the front of the board to the farthest right.**
 
+<figure><img src=".gitbook/assets/30.png" alt=""><figcaption></figcaption></figure>
+
 **Step 3. Turn to the back of the board. Use the wires to make a loose knot, and thread the wires’ end into the circles.**
 
-**Be sure to paste the wires**
+<figure><img src=".gitbook/assets/31.png" alt=""><figcaption></figcaption></figure>
 
-**under the sticker to avoid**
+**Step 4. Turn the front of the board to the** farthest left. Then, insert the cables.
 
-**blocking the label.**
+<figure><img src=".gitbook/assets/32.png" alt=""><figcaption></figcaption></figure>
 
-**6**
+&#x20;**Step 5. Pull the cables downward and** paste the cables onto the device.
 
-**Step 4. Turn the front of the board to the** **Step 5. Pull the cables downward and**
-
-**farthest left. Then, insert the cables.** **paste the cables onto the device.**
+<figure><img src=".gitbook/assets/33.png" alt=""><figcaption></figcaption></figure>
 
 **Step 6. It should look like the image when wire pasting is completed.**
 
-**Be sure to paste the wires**
-
-**under the sticker to avoid**
-
-**blocking the label.**
+<figure><img src=".gitbook/assets/34.png" alt=""><figcaption></figcaption></figure>
 
 **Step 7. Install the transmitter board.**
 
-**The lower side of the**
-
-**button must align**
-
-**with the edges of the**
-
-**device’s slot.**
-
-**The right side of the transmitter must align with the edges of the device’s slot.**
-
-**7**
+<figure><img src=".gitbook/assets/35.png" alt=""><figcaption></figcaption></figure>
 
 **Step 8. After installing the transmitter, connect the cables. It should look like the picture below when the installation is completed.**
 
+<figure><img src=".gitbook/assets/40.png" alt=""><figcaption></figcaption></figure>
+
 **Note: The front of the device should look like this when the transmitter is installed. Full rotation of the front will not be interfered by the wire connection.**
 
-**WXI-RAM**
+<figure><img src=".gitbook/assets/41.png" alt=""><figcaption></figcaption></figure>
+
+### **WXI-RAM**
 
 **Step 1. Apply the foam tape on the transmitter.**
 
-**Apply the foam tape here.**
-
-**Before Application**
-
-**After Application**
+<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2. Pull two set of cables to the lower left side. (Refer to the image below).**
 
-**8**
+<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3. Fix the two set of wires onto WXI-RAM. (Refer to the image below)**
 
+<figure><img src=".gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
+
 **Step 4. Bend the wires that are not connected to the small board, and fix it onto the device.**
+
+<figure><img src=".gitbook/assets/12 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5. Then, take the wires connected to the small board, and fix them onto the device. (For the fixing position, refer to the image below)**
 
+<figure><img src=".gitbook/assets/13 (1).png" alt=""><figcaption></figcaption></figure>
+
 **Step 6. Fix the rest of the wires onto the device.**
 
-**9**
+<figure><img src=".gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7. To install the transmitter, the lower side of the transmitter should be align the installation line and use the middle of the hole or the middle of the screw to align the transmitter in the middle. Please refer to the pictures below.**
 
-**Align the**
-
-**transmitter with**
-
-**the middle of the**
-
-**hole or the**
-
-**middle of the**
-
-**screw.**
-
-**The lower side of the**
-
-**transmitter must align**
-
-**with the installation**
-
-**line.**
+<figure><img src=".gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8. The installation is complete.**
-
-**10**

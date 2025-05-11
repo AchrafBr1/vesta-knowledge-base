@@ -18,7 +18,7 @@ PSM-DIN2-ZW-OTA
 
 ## _**Identifying the Parts**_
 
-<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (2).png" alt=""><figcaption></figcaption></figure>
 
 1. **Input Connector**
 2. **Output Connector**

@@ -153,7 +153,7 @@ When the Video Doorbell button is pressed, all associated accounts with incoming
 
 <figure><img src=".gitbook/assets/20.jpg" alt="" width="360"><figcaption></figcaption></figure>
 
-To access camera function setup, tap the ![](<.gitbook/assets/21 (1).png>) icon and follow below instructions.
+To access camera function setup, tap the ![](<.gitbook/assets/21 (1) (1).png>) icon and follow below instructions.
 
 * **Device Name**
 
