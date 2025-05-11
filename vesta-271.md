@@ -12,11 +12,9 @@
 
 **The transmitter is installed in the motion detector, allowing them to send wireless RF signals to the Control Panel. 4**
 
-**motion detector models are included, QXI-RDT-X5, BXS-RAM, VXS-RAM, and WXI-RAM. The introduction of the**
+**motion detector models are included, QXI-RDT-X5, BXS-RAM, VXS-RAM, and WXI-RAM. The introduction of the transmitter and the installation of the transmitter are illustrated below.**
 
 ![](<.gitbook/assets/0 (69).png>)
-
-**transmitter and the installation of the transmitter are illustrated below.**
 
 **For the Remote Control settings of Sleep Time, Alarm Notification with LED,**
 
@@ -86,7 +84,9 @@
 
 **Step 2. Remove the back cover. Align its border with the lower side of the cover case and the middle of the hole as the pictures shown below.**
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/12.png">12.png</a></td></tr><tr><td></td><td><a href=".gitbook/assets/13.png">13.png</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+<figure><img src=".gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3. Connect the wires and fix the wires as the pictures shown below.**
 
