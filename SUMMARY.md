@@ -158,7 +158,7 @@
 * [VESTA 270\_old](vesta-270.md)
 * [VESTA-270](vesta-245-1.md)
 * [VESTA-271](vesta-271.md)
-* [VESTA 294](vesta-294.md)
+* [VESTA-294](vesta-294.md)
 * [VESTA 295](vesta-295.md)
 * [VESTA 296](vesta-296.md)
 * [VESTA 305](vesta-305.md)
