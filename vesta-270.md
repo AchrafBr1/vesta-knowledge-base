@@ -1,4 +1,8 @@
-# VESTA 270
+---
+hidden: true
+---
+
+# VESTA 270\_old
 
 * PIR Motion Sensor Camera
 * VST-892
