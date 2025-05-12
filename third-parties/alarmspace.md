@@ -336,7 +336,7 @@ Los equipos que se están visualizando según el filtro se pueden exportar a CSV
 
 Para gestionar cambios doble-click sobre la fila del equipo:
 
-![](<../.gitbook/assets/10 (2) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/10 (2) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Si queremos añadir un nuevo equipo pulsamos en el botón Nuevo.
 

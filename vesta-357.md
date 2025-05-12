@@ -187,7 +187,7 @@ After unplugging the terminal, when re-installing the terminal back to the board
 
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (6).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Getting Started – Learning the PIR Camera into the Control Panel**_
 
@@ -236,7 +236,7 @@ If there is no response from the Panel after the press of test button, it means 
   * The PIR Camera can be mounted on a flat surface with the fixing screws, wall plugs, and the mounting bracket provided.
   * The provided mounting bracket has knockouts, where the plastic is thinner and can be broken for mounting purpose.
 
-<figure><img src=".gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   To mount VST-892EX-BUS with the mounting bracket:
 
@@ -247,7 +247,7 @@ If there is no response from the Panel after the press of test button, it means 
 
 *
 
-    <figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/11 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -261,11 +261,11 @@ A rotating holder is provided as a user-friendly mounting option **(optional ite
 
 With the rotating holder, the PIR Camera can be rotated horizontally to provide the optimal coverage.
 
-<figure><img src=".gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 A special screwdriver with a reversible double-sided bit and three star socket screws are provided for fixing the rotating holder to the wall. Please use the provided screwdriver to tighten/loosen the star socket screws.
 
-<figure><img src=".gitbook/assets/10 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * To mount VST-892EX-BUS with the mounting bracket and rotating holder:
 
@@ -275,7 +275,7 @@ A special screwdriver with a reversible double-sided bit and three star socket s
 4. Rotate the swivel ball horizontally to adjust VST-892EX-BUS’s detecting angle. (When the angle adjusting screw is half loosen, the swivel ball can still be rotated.)
 5. When VST-892EX-BUS is rotated to a position with desired detection coverage, you can lock the position by firmly tightening the angle adjusting screw.
 
-<figure><img src=".gitbook/assets/10 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * _**Installation Recommendations**_
 
@@ -287,7 +287,7 @@ A special screwdriver with a reversible double-sided bit and three star socket s
 * On a surface or in a corner where animals are inaccessible
 * The PIR Camera has a detection range of 10 meters when mounted at the height of 2.3 meters above the ground.
 
-<figure><img src=".gitbook/assets/10 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Limitations:**
 
@@ -297,7 +297,7 @@ A special screwdriver with a reversible double-sided bit and three star socket s
 * Never attempt to disassemble or modify the device.
 * Please install the PIR Camera straight up. Do not tilt it.
 
-<figure><img src=".gitbook/assets/10 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Do not install the motion sensor camera where objects are moved by the wind, such as trees and laundry, which may block the motion sensor camera’s field of view.
 
