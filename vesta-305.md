@@ -1,8 +1,10 @@
-# VESTA 305
+# VESTA-305
 
-**WEPC-1 Series Programmable Output Expansion Module**
+**WEPC-1**
 
-**Introduction**
+## &#x20;**Series Programmable Output Expansion Module**
+
+## **Introduction**
 
 The WEPC-1 Series Programmable Output Expansion Module is designed to provide programmable output for the Hybrid Panel. Connected to the Hybrid Panel via BUS connection, it includes 4 programmable relay outputs, which can be used in conjunction with compatible panels. The WEPC-1 Series is equipped with its own enclosure case, which has tamper protection and LED status indicators.
 
@@ -12,91 +14,86 @@ The WEPC-1 Series Programmable Output Expansion Module is designed to provide pr
 
 **WEPC-1B** – Programmable Output Expansion Module with rechargeable battery pack
 
-**Identifying the Parts**
+## **Identifying the Parts**
 
 **Front View** **Back View**
 
-![](<.gitbook/assets/0 (8).jpeg>)
 
-**Internal View**
 
-![](<.gitbook/assets/1 (10).jpeg>)
-
-1
+![Internal View](<.gitbook/assets/1 (10).jpeg>)
 
 1. **Power LED (Red)**
 
-On – Powered by a 12V power adapter or Hybrid Panel.
+&#x20;      On – Powered by a 12V power adapter or Hybrid Panel.
 
-Off – When the power is off, or when powered by rechargeable battery.
+&#x20;      Off – When the power is off, or when powered by rechargeable battery.
 
-1. **Zone 1\~4 LED (Red)**
+2. **Zone 1\~4 LED (Red)**
 
-The corresponding Zone LED will light up when the dry contact relay output switch is turned on, and the LED light will turn off when the switch is being turned off.
+&#x20;      The corresponding Zone LED will light up when the dry contact relay output switch is turned on, and the LED light will turn off when the switch is being turned off.
 
-1. **Transmission LED (Red)**
+3. **Transmission LED (Red)**
 
-Lights up when connection is normal between the Expansion Module and Control Panel.
+&#x20;      Lights up when connection is normal between the Expansion Module and Control Panel.
 
-1. **Breakaway Area**
+4. **Breakaway Area**
 
-When the expansion module is forcibly removed from the mounting location, the area will detach and allow tamper switch to be activated.
+&#x20;     When the expansion module is forcibly removed from the mounting location, the area will detach and allow tamper switch to be activated.
 
-1. **Tamper Switch (For Wall Mounting)**
+5. **Tamper Switch (For Wall Mounting)**
 
 The expansion module is protected by the tamper switch against any unauthorized removal from the mounting location.
 
-1. **Mounting Holes**
-2. **Wiring Hole**
-3. **Battery Connection Terminal (for WEPC-1B only)**
+6. **Mounting Holes**
+7. **Wiring Hole**
+8. **Battery Connection Terminal (for WEPC-1B only)**
 
-For connecting the rechargeable battery pack to the PCB.
+&#x20;      For connecting the rechargeable battery pack to the PCB.
 
-1. **Terminal Resistor Jumper Switch (J3)**
+9. **Terminal Resistor Jumper Switch (J3)**
 
 When the Expansion Module is connected as the furthest BUS device on a BUS line, please set the Expansion Module’ terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
 * Turn the jumper to OFF by removing the jumper link or “parking” the jumper link on one pin.
+* Turn the jumper to ON by resting the jumper link on both pins.
 
-![](<.gitbook/assets/2 (10).png>)
-
-\- Turn the jumper to ON by resting the jumper link on both pins.
-
-1. **Rechargeable Battery Pack (For WEPC-1B only)**
-2. **DC Jack**
+10. **Rechargeable Battery Pack (For WEPC-1B only)**
+11. **DC Jack**
 
 For DC 12V switching power connection.
 
-To supply stable and sufficient power to charge the rechargeable batteries for WEPC-1B, it is strongly recommended to use a 12V/1A switching power adaptor.
+&#x20;     To supply stable and sufficient power to charge the rechargeable batteries for WEPC-1B, it is strongly recommended to use a 12V/1A switching power adaptor.
 
-1. **Pluggable BUS Terminal**
-2. **Dry Contact Relay PGM Output Terminal**
-3. **Tamper Switch (For Case Cover)**
+12. **Pluggable BUS Terminal**
+13. **Dry Contact Relay PGM Output Terminal**
+14. **Tamper Switch (For Case Cover)**
 
-The expansion module is protected by the tamper switch against any unauthorized case opening. Whenever the case cover is opened, the tamper switch will be activated.
+&#x20;      The expansion module is protected by the tamper switch against any unauthorized case opening. Whenever the case cover is opened, the tamper switch will be activated.
 
-1. **Reset Button (Reserved for Internal Use)**
-2. **Test Button**
+15. **Reset Button (Reserved for Internal Use)**
+16. **Test Button**
 
-Press the test button to send a test signal to the Control Panel.
+&#x20;      Press the test button to send a test signal to the Control Panel.
 
-**Power Supply**
+## **Power Supply**
 
 * The expansion module is powered by the Hybrid Panel, which can provide 13.5V power source to the expansion module. Additionally, it is recommended to use the external power adaptor (12V) when connected to loads that require heavier power draw.
 * When the power supply from the adaptor is interrupted and restored, the expansion module will transmit an AC failure signal and a restore signal respectively to the Control Panel.
 
-2
-
-**Rechargeable Battery Pack (for WEPC-1B only)**
+## **Rechargeable Battery Pack (for WEPC-1B only)**
 
 * For WEPC-1B, a Ni-MH rechargeable battery pack is pre-installed in the Expansion Module to serve as a backup in case of a power failure.
-* Please connect the battery pack to the PCB manually to use it as a backup power source and/or to charge it automatically when power is connected from the adaptor or Hybrid Panel. \<Note> Before connecting the battery pack, make sure the power of DC Jack and/or BUS terminal is/are switched off.
+* Please connect the battery pack to the PCB manually to use it as a backup power source and/or to charge it automatically when power is connected from the adaptor or Hybrid Panel.
 
-It is strongly recommended to use a 12V/1A switching power adaptor to supply stable and sufficient power to charge the batteries.
+{% hint style="warning" %}
+Note:
+
+Before connecting the battery pack, make sure the power of DC Jack and/or BUS terminal is/are switched off. It is strongly recommended to use a 12V/1A switching power adaptor to supply stable and sufficient power to charge the batteries.
+{% endhint %}
 
 * When the rechargeable battery pack is low in power, the expansion module will transmit a low battery signal to the Control Panel. When the batteries have been charged, it will also transmit a battery restore signal to the Control Panel.
 
-**Tamper Protection**
+## **Tamper Protection**
 
 WEPC-1Series has two Tamper Switches; each comes with a different function.
 
@@ -104,27 +101,20 @@ WEPC-1Series has two Tamper Switches; each comes with a different function.
 * The Tamper Switch for wall mounting is located at the back of the board. It is in normal position when the module is well mounted on the wall. Tamper violation happens when the module is forcibly removed from the mounting location, the area will detach and allow tamper switch to be activated.
 * The tamper is considered as triggered if any one of the tamper is opened. The tamper is only considered restored when both tampers are in closed state.
 
-**Supervisory Signal**
+## **Supervisory Signal**
 
 * After being learnt in to the Control Panel, the Expansion module will automatically transmit Supervisory Signals every 20 to 30 seconds.
 
-**Connection to the Hybrid Panel**
+## **Connection to the Hybrid Panel**
 
 * Before connection, make sure the power supply has been disconnected, and the panel battery switch has been slid to OFF position.
 * To assist with cable connections, the terminal blocks on each system module are color-coded.
 
-| **Red**    | VDD  |
-| ---------- | ---- |
-| **Black**  | GND  |
-| **Yellow** | 485A |
-| **Green**  | 485B |
+<figure><img src=".gitbook/assets/10 (90).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication of the wired connection between the Control Panel and the connected BUS devices, ensure the furthest BUS device’s Communication Jumper Switch and Control Panel’s J53 Jumper Switch are set to ON to serve as a terminating resistor. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 * The WEPC-1 series can be connected to and powered by either the Control Panel via the BUS terminal or the external power via the 12V adaptor. If the expansion module is using external power, be sure to bypass the red VDD terminal on the Control Panel using the Wago 221 Splicing Connector.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
-
-3
-
 * The following diagram shows how WEPC-1 is connected to and powered by the Hybrid Panel.
 
 ![](<.gitbook/assets/3 (10).jpeg>)
@@ -133,18 +123,18 @@ WEPC-1Series has two Tamper Switches; each comes with a different function.
 
 ![](<.gitbook/assets/4 (9).jpeg>)
 
-4
-
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
 * _Be sure to bypass the red VDD terminal on the Control Panel using the provided Wago 221 Splicing Connector. Connect the VDD terminal to the next BUS device (VST-892-BUS as example) that is powered by Hybrid Panel._
 * _The pluggable design of the BUS terminal improves installation efficiency. Before wiring, you can remove the terminal blocks from the device for ease of use, and plug in again after wiring. When re-installing the terminal blocks back to the board, make sure to install them in the same direction to avoid potential hazards._
+{% endhint %}
 
-**Getting Started**
+## **Getting Started**
 
 After connecting the expansion board to the Hybrid Panel, and completing device wiring, please proceed to learning and power switch sensor programming.
 
-* _**Learning**_
+### _**Learning**_
 
 **Step 1.** Connect the Expansion Module to the Control Panel. Then, power on the Control Pane&#x6C;**.**
 
@@ -156,7 +146,7 @@ After connecting the expansion board to the Hybrid Panel, and completing device 
 
 **Step 5.** If the Expansion Module is successfully learnt into the system, the added device will be displayed in the “Learned Device” section. The Device Type will be shown as “Expander”.
 
-* _**Power Switch Sensor Programming**_
+### _**Power Switch Sensor Programming**_
 
 After the programmable output expansion module is added, proceed to Power Switch Sensor programming.
 
@@ -178,7 +168,7 @@ After the programmable output expansion module is added, proceed to Power Switch
 
 **Step 8.** You may also edit your device setting and information. Click “**Edit**” at the end of device entry and click “OK” to save changes when finished.
 
-* _**Identification**_
+### _**Identification**_
 
 The “Identify” function is used to localize a specific BUS device in the BUS wired system. This function is helpful in distinguishing which device is which especially in a large installation where numerous BUS devices are included.
 
@@ -188,41 +178,39 @@ To locate the Programmable Output Expansion Module in the BUS system:
 
 ![](<.gitbook/assets/5 (12).png>)
 
-5
-
 **Step 2.** If the Programmable Output Expansion Module receives the signal from the Hybrid Panel, the webpage will display a success message and the WEPC-1(B)’s power LED indicator will flash for 10 times to indicate where it is to the user.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-*
-  * If a timeout message is displayed on the webpage, it means the Programmable Output Expansion Module did not receive the signal from the Panel.
+If a timeout message is displayed on the webpage, it means the Programmable Output Expansion Module did not receive the signal from the Panel. Please check whether WEPC-1(B) is connected properly to the Panel within appropriate wiring distance.
+{% endhint %}
 
-Please check whether WEPC-1(B) is connected properly to the Panel within appropriate wiring distance.
+### _**Walk Test**_
 
-* _**Walk Test**_
 * To make sure the Programmable Output Expansion Module is able to communicate with the
 
 Panel after it is learned-in, place the Control Panel in Walk Test mode and press the Test button on WEPC-1(B) to transmit a test signal to the Control Panel.
 
 * When the Panel receives the test signal, it will beep once and display the WEPC-1(B)’s information accordingly on the top of the device list.
 
-_\<NOTE>_
+{% hint style="info" %}
+Note:
 
-* If there is no response from the Panel after the press of test button, it means the Panel did not receive the test signal from the device.
+If there is no response from the Panel after the press of test button, it means the Panel did not receive the test signal from the device. Please check whether WEPC-1(B) is connected properly to the Panel within appropriate wiring distance.
+{% endhint %}
 
-Please check whether WEPC-1(B) is connected properly to the Panel within appropriate wiring distance.
 
-**PGM Wiring**
+
+## **PGM Wiring**
 
 * The PGM port can serve as dry contact relay output.
 * By default, the N.C and COM are set as short circuited.
 * You may set the N.O. and COM as the short circuit by turning on the power switch through the programming web page.
 
-**Default Setting** **Setting by Programming Page**
+![Default Setting](<.gitbook/assets/6 (8).jpeg>) ![Setting by Programming Page](<.gitbook/assets/7 (8).jpeg>)
 
-![](<.gitbook/assets/6 (8).jpeg>) ![](<.gitbook/assets/7 (8).jpeg>)
-
-**How to Mount the Programmable Output Expansion Module**
+## **How to Mount the Programmable Output Expansion Module**
 
 ![](<.gitbook/assets/8 (8).jpeg>)
 
@@ -233,5 +221,3 @@ The Programmable Output Expansion Module can be mounted on the wall as the steps
 * Drill holes on the marked location on the wall. Insert wall plugs if required.
 * Screw the base onto the mounting location.
 * Re-place the front cover, and tighten the bottom fixing screws.
-
-6
