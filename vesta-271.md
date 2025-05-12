@@ -80,7 +80,7 @@
 
 **Step 1. Apply the foam tape on the transmitter.**
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2. Remove the back cover. Align its border with the lower side of the cover case and the middle of the hole as the pictures shown below.**
 
@@ -112,7 +112,7 @@
 
 **Step 1. Apply the foam tape on the transmitter.**
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Use the wires to make a loose knot, and thread the wires’ end into the circles.**
 
@@ -142,7 +142,7 @@ Note:
 
 **Step 1. Apply the foam tape on the transmitter.**
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2. First, turn the front of the board to the farthest right.**
 
@@ -180,15 +180,15 @@ Note:
 
 **Step 1. Apply the foam tape on the transmitter.**
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2. Pull two set of cables to the lower left side. (Refer to the image below).**
 
-<figure><img src=".gitbook/assets/10 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3. Fix the two set of wires onto WXI-RAM. (Refer to the image below)**
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4. Bend the wires that are not connected to the small board, and fix it onto the device.**
 
@@ -200,10 +200,10 @@ Note:
 
 **Step 6. Fix the rest of the wires onto the device.**
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7. To install the transmitter, the lower side of the transmitter should be align the installation line and use the middle of the hole or the middle of the screw to align the transmitter in the middle. Please refer to the pictures below.**
 
-<figure><img src=".gitbook/assets/10 (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8. The installation is complete.**

@@ -1,10 +1,12 @@
 # VESTA-340
 
-**Programmable Output Expansion Module**
+WEPC-1
+
+## **Programmable Output Expansion Module**
 
 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Note: If you use it **without battery** backup, you have to **remove the JUMPER J8**, and leave it in parked position without plugging it in.
 {% endhint %}
 
@@ -20,7 +22,7 @@ The WEPC-1 Series Programmable Output Expansion Module is designed to provide pr
 
 **WEPC-1B** – Programmable Output Expansion Module with rechargeable battery pack
 
-### **Identifying the Parts**
+## **Identifying the Parts**
 
 &#x20;                            **Front View**                                                                               **Back View**
 
@@ -60,7 +62,7 @@ The expansion module is protected by the tamper switch against any unauthorized 
 
 For connecting the rechargeable battery pack to the PCB.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If you do not wish to install the battery, its monitoring can be disabled by disconnecting jumper switch J8. Before manipulating jumper J8, disconnect the power supply.
 
 * OFF= battery status monitoring disabled
@@ -106,7 +108,7 @@ Press the test button to send a test signal to the Control Panel.
 * For WEPC-1B, a Ni-MH rechargeable battery pack is pre-installed in the Expansion Module to serve as a backup in case of a power failure.
 * Please connect the battery pack to the PCB manually to use it as a backup power source and/or to charge it automatically when power is connected from the adaptor or Hybrid Panel.&#x20;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Before connecting the battery pack, make sure the power of DC Jack and/or BUS terminal is/are switched off. It is strongly recommended to use a 12V/1A switching power adaptor to supply stable and sufficient power to charge the batteries.
 {% endhint %}
 
@@ -114,7 +116,7 @@ Before connecting the battery pack, make sure the power of DC Jack and/or BUS te
 
 ### **Tamper Protection**
 
-WEPC-1Series has two Tamper Switches; each comes with a different function.
+WEPC-1 Series has two Tamper Switches; each comes with a different function.
 
 * The Tamper Switch for case cover is located at the front of the board. It is in normal position when the case is closed. Tamper violation happens when the case is opened where Tamper Switch is released (Tamper Opened).
 * The Tamper Switch for wall mounting is located at the back of the board. It is in normal position when the module is well mounted on the wall. Tamper violation happens when the module is forcibly removed from the mounting location, the area will detach and allow tamper switch to be activated.
@@ -146,7 +148,7 @@ WEPC-1Series has two Tamper Switches; each comes with a different function.
 
 ![](<.gitbook/assets/4 (13).jpeg>)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 _-Be sure to bypass the red VDD terminal on the Control Panel using the provided Wago 221 Splicing Connector. Connect the VDD terminal to the next BUS device (VST-892-BUS as example) that is powered by Hybrid Panel._
 
 _-The pluggable design of the BUS terminal improves installation efficiency. Before wiring, you can remove the terminal blocks from the device for ease of use, and plug in again after wiring. When re-installing the terminal blocks back to the board, make sure to install them in the same direction to avoid potential hazards._
@@ -204,7 +206,7 @@ To locate the Programmable Output Expansion Module in the BUS system:
 
 **Step 2.** If the Programmable Output Expansion Module receives the signal from the Hybrid Panel, the webpage will display a success message and the WEPC-1(B)’s power LED indicator will flash for 10 times to indicate where it is to the user.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If a timeout message is displayed on the webpage, it means the Programmable Output Expansion Module did not receive the signal from the Panel.
 {% endhint %}
 
@@ -215,7 +217,7 @@ Please check whether WEPC-1(B) is connected properly to the Panel within appropr
 * To make sure the Programmable Output Expansion Module is able to communicate with the anel after it is learned-in, place the Control Panel in Walk Test mode and press the Test button on WEPC-1(B) to transmit a test signal to the Control Panel.
 * When the Panel receives the test signal, it will beep once and display the WEPC-1(B)’s information accordingly on the top of the device list.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If there is no response from the Panel after the press of test button, it means the Panel did not receive the test signal from the device.
 {% endhint %}
 

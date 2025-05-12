@@ -1,6 +1,8 @@
-# VESTA 336
+# VESTA-336
 
-![](<.gitbook/assets/0 (117).jpeg>)**SD-32 Smoke Detector Series**
+**SD-32**&#x20;
+
+## **Smoke Detector Series**
 
 SD-32 Series is a wireless smoke detector designed to protect you against potential fire hazards. The Smoke detector uses multi criteria sensor technology for detecting between fast burning flames and slow smoldering fires, while at the same time includes intelligent technology to differentiate between cooking smoke and actual life-threatening house-fire emergencies, virtually eliminating nuisance alarms.
 
@@ -8,21 +10,11 @@ In addition to the capability of smoke detection, the models with heat detection
 
 The SD-32 series models are listed as below:
 
-|                 | Model Name |   |   | Smoke Detection |   |   | Heat Detection |   |   | PIR Motion |   |   | Interconnection |   |   |
-| --------------- | ---------- | - | - | --------------- | - | - | -------------- | - | - | ---------- | - | - | --------------- | - | - |
-|                 |            |   |   |                 |   |   |                |   |   |            |   |   |                 |   |   |
-|                 |            |   |   |                 |   |   | Sensor         |   |   |            |   |   |                 |   |   |
-|                 |            |   |   |                 |   |   |                |   |   |            |   |   |                 |   |   |
-| **SD-32**       |            | O |   |                 |   |   |                |   |   |            |   |   |                 |   |   |
-|                 |            |   |   |                 |   |   |                |   |   |            |   |   |                 |   |   |
-| **SD-32-HM**    |            | O |   | O               |   | O |                |   |   |            |   |   |                 |   |   |
-|                 |            |   |   |                 |   |   |                |   |   |            |   |   |                 |   |   |
-| **SD-32-HM-SC** |            | O |   | O               |   | O |                |   | O |            |   |   |                 |   |   |
-|                 |            |   |   |                 |   |   |                |   |   |            |   |   |                 |   |   |
+<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+
+## _**Parts Identification**_
 
 ![](<.gitbook/assets/1 (88).png>)
-
-_**Parts Identification**_
 
 **1. LED Indicator / Test Button**
 
@@ -44,46 +36,40 @@ _**Parts Identification**_
 
 **Learn/Test Button**
 
-*
-  * Press the button once to:
-    * Send a test signal.
-    * Check smoke detection chamber.
-    * Silence alarm when the Smoke Detector is alarming.
-    * Transmit a learn code. **(For non-SC model)**
-  * Press and hold the button for 3 seconds to send all learn code(s). **(For SC model)**
-  * Press and hold the button for 10 seconds to enter calibration process.
+* Press the button once to:
+  * Send a test signal.
+  * Check smoke detection chamber.
+  * Silence alarm when the Smoke Detector is alarming.
+  * Transmit a learn code. **(For non-SC model)**
+* Press and hold the button for 3 seconds to send all learn code(s). **(For SC model)**
+* Press and hold the button for 10 seconds to enter calibration process.
 
-1. **IR Lens (SD-32-HM/-HM-SC only)**
-2. **Buzzer**
-3. **Battery Compartment**
-4. **Hooks**
-5. **Fixing Screw of Battery Comapartment Cover**
-6. **Mounting Bracket**
-7. **Mounting Holes**
-8. **Mounting Sheet**
+2. **IR Lens (SD-32-HM/-HM-SC only)**
+3. **Buzzer**
+4. **Battery Compartment**
+5. **Hooks**
+6. **Fixing Screw of Battery Comapartment Cover**
+7. **Mounting Bracket**
+8. **Mounting Holes**
+9. **Mounting Sheet**
 
-1
+## **Features**
 
-**Features**
+### _**Battery**_
 
-![](<.gitbook/assets/2 (96).png>)
+* Three CR123 3V Lithium batteries are used to supply power to the Smoke Detector.
+* The Smoke Detector has a foolproof mechanism which prohibits cover closure without first installing battery. Press down the tab and insert three new batteries into the compartment.
+* The Smoke Detector will automatically check battery voltage every 25 seconds. If low battery is detected 2 times in a row, the Smoke Detector will transmit a low battery signal and enter low battery status.
+* Under low battery status, low battery signal will be transmitted along with regular signal transmissions; the Orange LED will flash once every 45 seconds.
+* The Red and Orange LED will flash once every 4 seconds when the battery is exhausted.
 
-* _**Battery**_
-  * Three CR123 3V Lithium batteries are used to supply power to the Smoke Detector.
-  * The Smoke Detector has a foolproof mechanism which prohibits cover closure without first installing battery. Press down the tab and insert three new batteries into the compartment.
-  * The Smoke Detector will automatically check battery voltage every 25 seconds. If low battery is detected 2 times in a row, the Smoke Detector will transmit a low battery signal and enter low battery status.
-  * Under low battery status, low battery signal will be transmitted along with regular signal transmissions; the Orange LED will flash once every 45 seconds.
-  * The Red and Orange LED will flash once every 4 seconds when the battery is exhausted.
+{% hint style="warning" %}
+Note:
 
-![](<.gitbook/assets/3 (93).png>)
+When changing the batteries, after removing the old batteries, press the Test Button twice to fully discharge before inserting new batteries.
+{% endhint %}
 
-_\<NOTE>_
-
-*
-  * When changing the batteries, after removing the old batteries, press the Test Button twice to fully discharge before inserting new batteries.
-* _**Getting Started**_
-
-![](<.gitbook/assets/4 (98).png>)
+## _**Getting Started**_
 
 **Step 1.** Insert three CR123 3V Lithium batteries to power on the Smoke Detector. Orient the battery according to the battery compartment polarity before insertion.
 
@@ -93,11 +79,11 @@ mode lasts for **1 minute** (If calibration fails, the smoke detector will retry
 
 **Step 4.** When calibration is completed, the Smoke Detector will emit 2 short beeps and turn off LED to return to normal mode.
 
-![](<.gitbook/assets/5 (99).png>)
+{% hint style="warning" %}
+Note:
 
-_\<NOTE>_
-
-* If calibration fails, the Smoke Detector will beep continuously. Please remove the battery, press the Test Button twice to fully discharge, and then reinsert the batteries to retry from step 1.
+If calibration fails, the Smoke Detector will beep continuously. Please remove the battery, press the Test Button twice to fully discharge, and then reinsert the batteries to retry from step 1.
+{% endhint %}
 
 After warm up and calibration process are successfully completed, you can proceed to learning.
 
@@ -109,21 +95,18 @@ After warm up and calibration process are successfully completed, you can procee
 
 **Step 7.** Immediately add the detected sensor(s) to Control Panel.
 
-![](<.gitbook/assets/6 (78).png>)
+{% hint style="warning" %}
+Note:
 
-_\<NOTE>_
+For SC model, the Smoke Detector will emit a 2-tone beep upon receiving acknowledgement from the Control Panel for Smoke/Temperature sensor learn code.
+{% endhint %}
 
-*
-  * For SC model, the Smoke Detector will emit a 2-tone beep upon receiving acknowledgement from the Control Panel for Smoke/Temperature sensor learn code.
-* _**Testing the Smoke Detector**_
-
-![](<.gitbook/assets/7 (69).png>)
+## _**Testing the Smoke Detector**_
 
 By pressing the Test Button on the Smoke Detector, you can test if the Smoke Detector is functioning normally.
 
-*
-  * If the Smoke Detector functions normally, the Red LED will be on for 2 seconds followed by a 2-tone beep.
-  * If the buzzer sounds 2-tone beeps 3 times, the “**Optical Chamber**” on the Smoke Detector is either dirty or out-of-order.
+* If the Smoke Detector functions normally, the Red LED will be on for 2 seconds followed by a 2-tone beep.
+* If the buzzer sounds 2-tone beeps 3 times, the “**Optical Chamber**” on the Smoke Detector is either dirty or out-of-order.
 * _**Test Mode for IR Function**_**&#x20;(SD-32-HM/-HM-SC only)**
   * The device’s PIR Motion Sensor can be put into Test mode by pressing the Test Button. Every time the Test Button is pressed, the device will transmit a test signal to the Control Panel for radio range test and enter the test mode for 3 mins. It will exit Test Mode automatically after 3 minutes and return to normal mode. In Test mode, the sleep timer is disabled, and the LED indicator will flash every time a movement is detected.
 * _**Sleep Timer of IR Function**_**&#x20;(SD-32-HM/-HM-SC only)**
@@ -134,8 +117,6 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
   * The Temperature Sensor measures temperature every 10 seconds, and transmits temperature reading to the Control Panel every 30\~33 minutes.
   * Users can also press the Test Button once to transmit current temperature reading manually.
 * _**Alarm Activation**_
-
-![](<.gitbook/assets/8 (50).jpeg>) ![](<.gitbook/assets/9 (69).png>) ![](<.gitbook/assets/10 (65).png>) ![](<.gitbook/assets/11 (55).png>) ![](<.gitbook/assets/12 (55).png>)
 
 The Smoke Detector will activate fire alarm when smoke detection is triggered. The models with heat detection will also activate alarm when high heat is detected. When an alarm is activated, the Smoke Detector will transmit alarm signal and raise alarm with its built-in buzzer.
 
@@ -150,9 +131,6 @@ The Smoke Detector will activate fire alarm when smoke detection is triggered. T
 * The Smoke Detector checks temperature every 10 seconds. The alarm will be activated in the following conditions:
   * When the temperature rises by 8.25°C per minute (Rate of Rise).
   * When the temperature exceeds 57.25°C (High Heat).
-
-2
-
 * The Red LED will flash every second during alarm. The Smoke Detector will only stop alarming if the temperature drops below alarm threshold:
 * If the alarm was triggered by Rate of Rise condition (8.25°C per minute or more), the temperature must drop to 4°C below highest temperature detected for the detector to stop alarming.
 * If the alarm was triggered by High Heat condition (57.25°C), the temperature must drop below 49°C for the Smoke Detector to stop alarming.
@@ -161,8 +139,7 @@ The Smoke Detector will activate fire alarm when smoke detection is triggered. T
 
 **IR Detection: (SD-32-HM/-HM-SC only)**
 
-*
-  * The Smoke Detector will transmit signal to the Control Panel if any movement is picked up within the IR detection coverage. The buzzer will not sound and the LED will not flash. Please refer to your Control Panel for details.
+* The Smoke Detector will transmit signal to the Control Panel if any movement is picked up within the IR detection coverage. The buzzer will not sound and the LED will not flash. Please refer to your Control Panel for details.
 * _**Interconnection**_**&#x20;(SD-32-HM-SC only)**
   * The Smoke Detector is interconnected with other Smoke Detectors in the alarm system. When a Smoke Detector activates alarm, the Control Panel will notify other Smoke Detectors to also raise alarm even if they have not detected smoke yet. The alarm length will be in accordance with the Control Panel’s setting.
   * Disarming the system will stop alarm of other Smoke Detectors activated by the Control Panel. The alarm triggered by the Smoke Detector that detects smoke will only stop when the smoke concentration drops below alarm threshold.
@@ -175,8 +152,6 @@ The Smoke Detector will activate fire alarm when smoke detection is triggered. T
   * If smoke concentration continues to rise during Alarm Silence period and exceeds a second alarm threshold, the Smoke Detector will start alarming again. An alarm activated by exceeding the second alarm threshold could not be silenced by pressing the test button.
 * _**Recalibration**_
 
-![](<.gitbook/assets/13 (35).jpeg>) ![](<.gitbook/assets/14 (45).png>) ![](<.gitbook/assets/15 (45).png>)
-
 As the operation condition of the Smoke Detector may vary after being installed for some time, you may wish to recalibrate the Smoke Detector to take a new smoke detection threshold value and ensure optimal performance of the Smoke Detector. To do this:
 
 * Press and hold the Test Button for 10 seconds and release when the Smoke Detector emits 2 beeps. The device will sound another beep after 5 seconds and begin calibration. The Red LED will flash every 2 seconds to indicate.
@@ -184,44 +159,38 @@ As the operation condition of the Smoke Detector may vary after being installed 
 * When calibration is finished, the Smoke Detector will sound a two-tone beep. The Red LED will stop flashing to indicate it has returned to normal mode.
 * If calibration fails, the Smoke Detector will beep continuously, and the Orange LED will flash every second. Please remove the battery, press the Test Button twice to fully discharge, and then reinsert the batteries to restart Smoke Detector.
 
-![](<.gitbook/assets/16 (47).png>)
+## **Installation**
 
-**Installation**
+![At least 60cm from the wall](<.gitbook/assets/18 (40).png>)
 
-![](<.gitbook/assets/17 (35).png>) ![](<.gitbook/assets/18 (40).png>)
+![At the top of a starway](<.gitbook/assets/16 (47).png>)
 
- _**Installation Guideline**_
+### _**Installation Guideline**_
 
- It is recommended that the installation site be in the center area of the ceiling.
+It is recommended that the installation site be in the center area of the ceiling.
 
- Do not locate the detector in the following locations:
+Do not locate the detector in the following locations:
 
-![](<.gitbook/assets/19 (40).png>) ![](<.gitbook/assets/20 (30).png>)
+1. The Kitchen – Smoke from cooking might cause an unwanted alarm.
+2. Near a ventilating fan, florescent lamp or air-conditioner – air drafts from them may affect the sensitivity of the detector.
+3. Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the detector.
+4. In the peak of an “**A**” frame type of ceiling.
 
- The Kitchen – Smoke from cooking might cause an unwanted alarm.
+### _**Installation Recommendation**_
 
-*
-  *
-    *
-      * Near a ventilating fan, florescent lamp or air-conditioner – air drafts from them may affect the sensitivity of the detector.
-      * Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the detector.
-      * In the peak of an “**A**” frame type of ceiling.
-* _**Installation Recommendation**_
-  * **It is recommended to install the Smoke Detector in the following locations.**
-    * In a ceiling area with full view of its detection coverage unobstructed by appliances and furniture.
-    * Near the entrance of a room or house to monitor entry activity.
-  * **Limitations**
-    * Do not install the Smoke Detector exposed to direct sunlight.
-    * Avoid installing the Smoke Detector in areas where devices may cause rapid change of temperature in the detection area, i.e. air conditioner, heaters, etc.
-    * Avoid large obstacles in the detection area.
-    * Do not aim directly at sources of heat e.g. Fires or boilers, and not above radiators.
-    * Avoid moving objects in the detection area i.e. curtain, wall hanging etc.
-  * Press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check that the detection coverage is adequate.
-  * When detection coverage is found to be satisfying, installation is now completed.
+* **It is recommended to install the Smoke Detector in the following locations.**
+  * In a ceiling area with full view of its detection coverage unobstructed by appliances and furniture.
+  * Near the entrance of a room or house to monitor entry activity.
+* **Limitations**
+  * Do not install the Smoke Detector exposed to direct sunlight.
+  * Avoid installing the Smoke Detector in areas where devices may cause rapid change of temperature in the detection area, i.e. air conditioner, heaters, etc.
+  * Avoid large obstacles in the detection area.
+  * Do not aim directly at sources of heat e.g. Fires or boilers, and not above radiators.
+  * Avoid moving objects in the detection area i.e. curtain, wall hanging etc.
+* Press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check that the detection coverage is adequate.
+* When detection coverage is found to be satisfying, installation is now completed.
 
-3
-
-* _**Mounting the Smoke Detector**_
+## _**Mounting the Smoke Detector**_
 
 **Step 1.** Insert three CR123A Lithium Batteries. Orient the batteries according to the battery compartment polarity indication.
 
@@ -249,9 +218,14 @@ Ensure the wall plugs are flush with the mounting surface.
 
 * The Smoke Detector is designed to be mounted on the ceiling. The ideal mounting height for the Smoke Detector is 3 meters. Mounting above 3 meters can affect detection performace. **(SD-32-HM/-HM-SC only))**
 * The Motion Detector provides detection coverage of a 360° circle with 6 meters in diameter. Please refer to below figures for the installation details
+
+<figure><img src=".gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement.
 
-**Maintenance & Cleaning**
+<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+
+## **Maintenance & Cleaning**
 
 Regular maintenance and cleaning will help keep your Smoke Detector in good working order.
 
@@ -268,5 +242,3 @@ Regular maintenance and cleaning will help keep your Smoke Detector in good work
 The Smoke Detector has a maximum life time of **10 years** from the date of installation. You should replace the Smoke Detector immediately after 10 years of service.
 
 It is recommended to write the “Replace by” date (10 years from installation date) on the back of the detector prior to installation.
-
-4

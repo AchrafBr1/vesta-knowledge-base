@@ -102,7 +102,7 @@ If you wish to re-pair BL-3, please follow the steps above to remove it from the
 
 When the active button is pressed, BL-3 utilizes the Bluetooth connection with the smartphone app to immediately report an alarm and user's location. In addition, it will make a VOIP call (currently unavailable), or make an emergency call to the emergency contact, or send SCAIP report to server depending on the specified reporting method (on the Reporting page.
 
-<figure><img src=".gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -117,11 +117,11 @@ The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wris
 
 **Step 1.** Push the **FRONT** of the transmitter to take it off from the lanyard frame.
 
-<figure><img src=".gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.** Remove the transmitter.
 
-<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Push the transmitter into the wristband frame from the **BACK** side until you hear a click sound. All done!
 
@@ -135,4 +135,4 @@ The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wris
 
 **Step 2.** Push the protruding part on the inner wristband into right hole for your wrist size.
 
-<figure><img src=".gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1).png" alt=""><figcaption></figcaption></figure>
