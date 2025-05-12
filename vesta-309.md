@@ -170,13 +170,13 @@ The SDCO Detector allows the user to set up a location prompt for an area (e.g.,
 
 **Step 8.** The device will play prompt #7 “Programmed” after you release the button and emit 2 beeps for confirmation.
 
-<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (2).png" alt=""><figcaption></figcaption></figure>
 
 * When a CO, smoke, and/ or temperature alarm is triggered, the siren will be activated according to the time length below and followed by voice prompts to notify the user to evacuate.
 
-<figure><img src=".gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Fire Verification**_
 
@@ -209,11 +209,11 @@ The SDCO Detector will activate fire alarm when either of its smoke detection or
 2. The CO sensor features self-diagnosis function and will regularly check the health or status of the sensor every 12 hours.
 3. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with EN-50291 standard)
 
-<figure><img src=".gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with UL-2034 standard)
 
-<figure><img src=".gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Once the CO concentration level exceeds the threshold and persists for the time length as listed in the above table, the SDCO Detector will transmit the signal to Z-Wave coordinator and raise alarm with its built-in siren.
 6. If CO drops below 30ppm for 10 continuous detection times, the SDCO will transmit a restore signal.
@@ -324,11 +324,11 @@ It is recommended writing the “Replace by” date (10 years from installation 
   * Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the detector.
   * In the peak of an “**A**” frame type of ceiling.
 
-<figure><img src=".gitbook/assets/10 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The SDCO Detector can support detection coverage within a radius of 4 meters.
 
-<figure><img src=".gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Installation Recommendation**_
 
@@ -354,7 +354,7 @@ It is recommended writing the “Replace by” date (10 years from installation 
 
 **Step 7.** Insert the AC wires to the two connectors respectively, as shown below.
 
-<figure><img src=".gitbook/assets/10 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8.** The SDCO Detector has a mounting bracket for ceiling installation. The bracket provides bidirectional flexibility.
 
@@ -400,7 +400,7 @@ It is recommended writing the “Replace by” date (10 years from installation 
 
 <figure><img src=".gitbook/assets/10 (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
@@ -598,7 +598,7 @@ _**Table 3**_
 
 * Property ID (0x00-0xFE) --- LED on\_off times
 
-<figure><img src=".gitbook/assets/12 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -632,7 +632,7 @@ _**Table 3**_
 
  Table 5 0x10 (Temporary Snooze)
 
-<figure><img src=".gitbook/assets/12 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Factory Reset**
 

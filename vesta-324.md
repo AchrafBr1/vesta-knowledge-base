@@ -1,6 +1,12 @@
-# VESTA 324
+---
+icon: star-of-life
+---
 
-![](<.gitbook/assets/0 (73).png>)**Emergency Pendant/Wrist Transmitter (WTRSC-1)**
+# VESTA-324
+
+**WTRSC-1**
+
+## **Emergency Pendant/Wrist Transmitter**
 
 _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 
@@ -8,43 +14,39 @@ WTRSC-1 is an emergency pendant/wrist transmitter. It is designed to be worn by 
 
 ![](<.gitbook/assets/1 (85).png>)
 
-* _**Active Button**_
-  * Pressing the Active Button for more than 1 second will activate the Control Panel, causing it to dial emergency call or alarm.
-  * Press and hold the Active Button for 8 seconds to send a Cancel Code to the Control Panel. (This function is not compatible with every control panel).
-* _**Battery Life**_
+## _**Active Button**_
 
-![](<.gitbook/assets/2 (94).png>)
+* Pressing the Active Button for more than 1 second will activate the Control Panel, causing it to dial emergency call or alarm.
+* Press and hold the Active Button for 8 seconds to send a Cancel Code to the Control Panel. (This function is not compatible with every control panel).
+
+## _**Battery Life**_
 
 The Transmitter uses one CR2032 3V Lithium battery as its power source.
 
-Every time the Active Button is pressed, the Wrist Transmitter will check the battery voltage. If low battery status is detected 3 times in a row, the Wrist Transmitter will transmit Low Battery signal along with regular signal every time the button is pressed.
+Every time the Active Button is pressed, the Wrist Transmitter will check the battery voltage. If low battery status is detected 3 times in a row, the Wrist Transmitter will transmit Low Battery signal along with regular signal every time the button is pressed
 
-![](<.gitbook/assets/3 (91).png>)
+{% hint style="warning" %}
+Note:
 
-_\<NOTE>_
+A 30-second interval is required between each Active Button press to check the battery voltage again.
+{% endhint %}
 
-*
-  * A 30-second interval is required between each Active Button press to check the battery voltage again.
-* _**Auto Low Battery Detection**_
+## _**Auto Low Battery Detection**_
 
 The Wrist Transmitter features Auto Low Battery detection function.
 
-1
+* The Wrist Transmitter will automatically check battery voltage every 16-24 hours. If low battery is detected 3 times in a row, the Wrist Transmitter will enter low battery status and transmit low battery signal every 12 hours.
 
-*
-  * The Wrist Transmitter will automatically check battery voltage every 16-24 hours. If low battery is detected 3 times in a row, the Wrist Transmitter will enter low battery status and transmit low battery signal every 12 hours.
-* _**Getting Started**_
+## _**Getting Started**_
 
 ![](<.gitbook/assets/4 (96).png>)
 
-*
-  * Use a coin to unlock and remove the battery cover from the back of the transmitter by turning the mark on the cover anti-clockwise from Lock position to **Open** position.
-  * Insert the battery with the unmarked (negative) side facing down.
-  * Use a coin to lock the battery cover back onto the back of the transmitter by turning the mark on the cover clockwise from Open position to **Lock** position.
-  * Make sure the baseline printed on the back of the transmitter is horizontally aligned with 2 marks of Lock position.
-* _**Learn in the Transmitter**_
+* Use a coin to unlock and remove the battery cover from the back of the transmitter by turning the mark on the cover anti-clockwise from Lock position to **Open** position.
+* Insert the battery with the unmarked (negative) side facing down.
+* Use a coin to lock the battery cover back onto the back of the transmitter by turning the mark on the cover clockwise from Open position to **Lock** position.
+* Make sure the baseline printed on the back of the transmitter is horizontally aligned with 2 marks of Lock position.
 
-![](<.gitbook/assets/5 (97).png>)
+## _**Learn in the Transmitter**_
 
 Step 1. Put the Control Panel into learning mode.
 
@@ -52,9 +54,7 @@ Step 2. Press the Active Button on the Transmitter. A radio signal will be trans
 
 Step 3. Please refer to the operation manual of your Control Panel to complete the learning process.
 
-![](<.gitbook/assets/6 (75).png>)
-
-* _**One-Click Lanyard / Wristband Swtich**_
+## _**One-Click Lanyard / Wristband Swtich**_
 
 The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wrist band. Please refer to instructions below to switch between wearing a Pendant or as a wrist watch.
 
@@ -72,9 +72,7 @@ The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wris
 
 ![](<.gitbook/assets/9 (38).jpeg>)
 
-3
-
-* ![](<.gitbook/assets/10 (64).png>)_**Wearing the Transmitter as Wrist Watch**_
+## _**Wearing the Transmitter as Wrist Watch**_
 
 **Step 1.** Slide the top part of the wristband through the hole at the end of the bottom part of the wristband.
 
@@ -82,9 +80,9 @@ The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wris
 
 **Step 2.** Push the protruding part on the inner wristband into right hole for your wrist size.
 
-![](<.gitbook/assets/12 (29).jpeg>) ![](<.gitbook/assets/13 (44).png>) ![](<.gitbook/assets/14 (43).png>)
+![](<.gitbook/assets/14 (43).png>)
 
-* _**Compliance with Standards**_
+## _**Compliance with Standards**_
 
 Complies with the requirements of the Radio Equipment Directive 2014/53/EU Electromagnetic Compatibility Directive 2014/30/EU, Low Voltage Directive 2014/35/EU
 
@@ -108,19 +106,13 @@ EN 300220-3-1:V1.1.1:2017
 
 EN 300220-3-2:V1.1.1:2017
 
-![](<.gitbook/assets/15 (24).jpeg>)
-
-_**FCC Statement**_
+### _**FCC Statement**_
 
 _This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions:_
 
 1. _This device may not cause harmful interference, and_
 2. _This device must accept any interference received, including interference that may cause undesired operation._
 
-![](<.gitbook/assets/16 (18).jpeg>)
-
-_**FCC Caution:**_
+### _**FCC Caution:**_
 
 _To assure continued compliance, any changes or modifications not expressly approved by the party responsible for compliance may void the user's authority to operate this equipment. (Example - use only shielded interface cables when connecting to computer or peripheral devices)._
-
-4
