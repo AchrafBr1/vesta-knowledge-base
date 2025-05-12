@@ -111,7 +111,7 @@ _\<NOTE>_
 
 The PIR Camera will warm up for 60 seconds when the PIR Camera is turned on by the Control Panel upon entering armed mode.
 
-![](<.gitbook/assets/10 (7).png>)
+![](<.gitbook/assets/10 (7) (1).png>)
 
 * _**Test Mode**_
   * The PIR Camera can be put into Test mode for 10 minutes by pressing the test button once.
@@ -122,7 +122,7 @@ The PIR Camera will warm up for 60 seconds when the PIR Camera is turned on by t
   * The PIR Camera has a double knock function. If the double knock function is enabled, the PIR Camera will report an alarm to the control panel only if two movements are detected within 10 seconds. If the double knock function is disabled, the PIR Camera will report an alarm to the Control Panel when a movement is detected.
 * _**DIP Switch Position Table**_
 
-![](<.gitbook/assets/11 (7).png>) ![](<.gitbook/assets/12 (7).png>)
+![](<.gitbook/assets/11 (7) (1).png>) ![](<.gitbook/assets/12 (7).png>)
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON, and bottom position indicates OFF.
 

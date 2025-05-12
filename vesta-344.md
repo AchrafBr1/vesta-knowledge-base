@@ -145,7 +145,7 @@ To locate the WIEGAND module in the BUS system:
 
 **Step 2.** If the tag reader receives the signal from the Hybrid Panel, the webpage will display a success message and WGT-1-COMBO’s LED indicator will flash 10 times to indicate where it is to the user.
 
-![](<.gitbook/assets/10 (5).png>)
+![](<.gitbook/assets/10 (5) (1).png>)
 
 _\<NOTE>_
 

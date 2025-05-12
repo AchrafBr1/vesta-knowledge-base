@@ -117,7 +117,7 @@ The extension terminal may be useful for the following situations:
   * Under Test Mode, the LED will flash 3 times whenever the Wired Door Contact is activated.
   * Each additional Test Button press will reset the Test Mode period to 3 minutes.
 
-![](<.gitbook/assets/10 (9).png>) ![](<.gitbook/assets/11 (8).png>) ![](<.gitbook/assets/12 (8).png>)
+![](<.gitbook/assets/10 (9) (1).png>) ![](<.gitbook/assets/11 (8).png>) ![](<.gitbook/assets/12 (8).png>)
 
 2
 

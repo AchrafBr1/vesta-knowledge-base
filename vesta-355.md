@@ -122,7 +122,7 @@ _\<NOTE>_
   * If your PIR Camera is installed at a location where the camera’s field of view is a complex environment with intense light or lots of colors, the images captured will be great in file size, possibly leading to truncation when the images are transmitted to the Control Panel.
 * _**Warm Up Period**_
 
-![](<.gitbook/assets/10 (6).png>)
+![](<.gitbook/assets/10 (6) (1).png>)
 
 When the Control Panel system enters armed mode, or when the PIR Camera is put into Test Mode, the PIR Camera will warm up for 30 seconds.
 

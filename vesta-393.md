@@ -63,7 +63,7 @@ The jumper link is removed or “**parked**” on one pin.
 
 When TG-15N-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
 
-![](<.gitbook/assets/10 (13).png>)
+![](<.gitbook/assets/10 (13) (1).png>)
 
 * _**Tamper Protection:**_
   * The Wired Tag Reader is protected against any attempt to open the lid or to detach the Reader from its mounting surface (see **Mounting Tag Reader** for details).

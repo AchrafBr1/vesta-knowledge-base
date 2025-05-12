@@ -96,7 +96,7 @@ While arming / disarming the system, different methods are used to distinguish v
 | Disarm (Tamper)        | 5 beeps          |
 | Entry/Exit Delay Sound | Count-down beeps |
 
-![](<.gitbook/assets/10 (12).png>) ![](<.gitbook/assets/11 (4).jpeg>) ![](<.gitbook/assets/12 (3).jpeg>)
+![](<.gitbook/assets/10 (12) (1).png>) ![](<.gitbook/assets/11 (4).jpeg>) ![](<.gitbook/assets/12 (3).jpeg>)
 
 **Caution**
 

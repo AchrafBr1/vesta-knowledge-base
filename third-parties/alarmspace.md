@@ -336,7 +336,7 @@ Los equipos que se están visualizando según el filtro se pueden exportar a CSV
 
 Para gestionar cambios doble-click sobre la fila del equipo:
 
-![](<../.gitbook/assets/10 (2) (1) (1).png>)
+![](<../.gitbook/assets/10 (2) (1) (1) (1).png>)
 
 Si queremos añadir un nuevo equipo pulsamos en el botón Nuevo.
 
@@ -380,7 +380,7 @@ Contraseña: la contraseña del usuario anterior.
 
 Al pulsar _Cargar configuración_ el software intentará conectar con el equipo por las vías disponibles e informará de la correcta o incorrecta conexión por cada una de ellas.
 
-![](<../.gitbook/assets/11 (3).png>)
+![](<../.gitbook/assets/11 (3) (1).png>)
 
 Además, carga el número de serie leído en _Número de Serie,_ los canales totales del equipo en _Canales,_ los canales de salida y la Fecha del equipo.
 
@@ -388,7 +388,7 @@ Si pulsamos en _Guardar_ se guardarán los cambios y se añadirá la fila si era
 
 El botón _Datos_ permite asignar datos adicionales al equipo:
 
-![](<../.gitbook/assets/12 (2) (1).png>)
+![](<../.gitbook/assets/12 (2) (1) (1).png>)
 
 Se han añadido nuevos filtros para poder utilizar estos cambios:
 

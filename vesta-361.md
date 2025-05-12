@@ -97,7 +97,7 @@ While arming / disarming the system, the Bell box uses different methods to dist
 | Entry/Exit delay | Count-down      |                                   |                              |
 | Sound            | beeps           |                                   |                              |
 
-![](<.gitbook/assets/8 (4).jpeg>) ![](<.gitbook/assets/9 (2).jpeg>) ![](<.gitbook/assets/10 (11).png>)
+![](<.gitbook/assets/8 (4).jpeg>) ![](<.gitbook/assets/9 (2).jpeg>) ![](<.gitbook/assets/10 (11) (1).png>)
 
 **Caution**
 

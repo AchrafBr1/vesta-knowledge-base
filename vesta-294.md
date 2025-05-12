@@ -188,7 +188,7 @@ When a Z-Wave command is received from Z-Wave controller, it will determine the 
 
 
 
-<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (13).png" alt=""><figcaption></figcaption></figure>
 
 *   Parameter Number : 0x01\~0x04
 
@@ -201,7 +201,7 @@ When a Z-Wave command is received from Z-Wave controller, it will determine the 
 
     The shutter control will start movement upon receiving Z-wave command Switch Binary Set or Switch Multilevel Set, and the movement will be executed based on current position setting. Example for Configuration Setting:
 
-<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (7).png" alt=""><figcaption></figcaption></figure>
 
 SWITCH\_MULTILEVEL\_SET: 0x00 (0%)\
 SCM will roll down (from up to down) for 50 seconds: (1000/1000)\*(100-50)
@@ -231,4 +231,4 @@ The Shutter Control’s default Current Position is set to 99% (Full Open). It i
 
 **Supported Command Class**&#x20;
 
-<figure><img src=".gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1).png" alt=""><figcaption></figcaption></figure>
