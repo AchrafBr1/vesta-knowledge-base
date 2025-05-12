@@ -22,7 +22,7 @@ Mobile Lite-R29
 
 ![Front View ](<.gitbook/assets/4 (95).png>) ![ Side View](<.gitbook/assets/5 (96).png>) ![ Side View](<.gitbook/assets/6 (74).png>)
 
-<figure><img src=".gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **3.Power Supply**
 

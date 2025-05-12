@@ -112,7 +112,7 @@ The PIR can be put into Test mode by pressing the Test Button. Every time the Te
     2. Input the PIR motion sensor configuration in the Sensor Setting section. Click OK to confirm.
     3. Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity and set Sensitivity level to high, you can input 03.
 
-![](<.gitbook/assets/9 (8).png>) ![](<.gitbook/assets/10 (8) (1).png>)
+![](<.gitbook/assets/9 (8).png>) ![](<.gitbook/assets/10 (8) (1) (1).png>)
 
 | **IR Configuration** | **Pet Immunity** | **Sensitivity** |
 | -------------------- | ---------------- | --------------- |

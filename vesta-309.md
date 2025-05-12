@@ -170,7 +170,7 @@ The SDCO Detector allows the user to set up a location prompt for an area (e.g.,
 
 **Step 8.** The device will play prompt #7 “Programmed” after you release the button and emit 2 beeps for confirmation.
 
-<figure><img src=".gitbook/assets/10 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/11 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -209,11 +209,11 @@ The SDCO Detector will activate fire alarm when either of its smoke detection or
 2. The CO sensor features self-diagnosis function and will regularly check the health or status of the sensor every 12 hours.
 3. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with EN-50291 standard)
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with UL-2034 standard)
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Once the CO concentration level exceeds the threshold and persists for the time length as listed in the above table, the SDCO Detector will transmit the signal to Z-Wave coordinator and raise alarm with its built-in siren.
 6. If CO drops below 30ppm for 10 continuous detection times, the SDCO will transmit a restore signal.
@@ -324,11 +324,11 @@ It is recommended writing the “Replace by” date (10 years from installation 
   * Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the detector.
   * In the peak of an “**A**” frame type of ceiling.
 
-<figure><img src=".gitbook/assets/10 (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The SDCO Detector can support detection coverage within a radius of 4 meters.
 
-<figure><img src=".gitbook/assets/10 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Installation Recommendation**_
 
@@ -354,7 +354,7 @@ It is recommended writing the “Replace by” date (10 years from installation 
 
 **Step 7.** Insert the AC wires to the two connectors respectively, as shown below.
 
-<figure><img src=".gitbook/assets/10 (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8.** The SDCO Detector has a mounting bracket for ceiling installation. The bracket provides bidirectional flexibility.
 
@@ -368,7 +368,7 @@ It is recommended writing the “Replace by” date (10 years from installation 
 
 **Step 13.** Use a Phillips screwdriver to remove the battery compartment fixing screw. Remove the battery compartment cover and attach the cable to the PCB board of the SDCO Detector. The foolproof design provides an easy installation procedure.
 
-<figure><img src=".gitbook/assets/10 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 14.** Put the two Splicing Connectors in the space next to the rechargeable battery.
 
@@ -398,7 +398,7 @@ It is recommended writing the “Replace by” date (10 years from installation 
 
 **Supported Command Class :**
 
-<figure><img src=".gitbook/assets/10 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/11 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -533,7 +533,7 @@ Note: 0B 77 06 00 42 61 73 65 6D 65 6E 74 is when the location is “Basement”
 
 _**Table 1**_
 
-<figure><img src=".gitbook/assets/10 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/11 (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -558,13 +558,13 @@ _**Table 1**_
 
 _**Table 2**_
 
-<figure><img src=".gitbook/assets/10 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Location name /Bit4\~0/Num, as shown in Table 3 below
 
 _**Table 3**_
 
-<figure><img src=".gitbook/assets/10 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/11 (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -583,7 +583,7 @@ _**Table 3**_
 * The LED indicator of SDCO can be controlled by using Indicator Set commands.
 * The following commands can be used to set the indicator command:
 
-<figure><img src=".gitbook/assets/10 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Indicator set on (0xFF) --- indicator function on
 * Indicator set off (0x00) --- indicator function off

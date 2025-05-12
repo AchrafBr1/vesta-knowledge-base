@@ -10,7 +10,7 @@ In addition to the capability of smoke detection, the models with heat detection
 
 The SD-32 series models are listed as below:
 
-<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (10).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Parts Identification**_
 
@@ -219,11 +219,11 @@ Ensure the wall plugs are flush with the mounting surface.
 * The Smoke Detector is designed to be mounted on the ceiling. The ideal mounting height for the Smoke Detector is 3 meters. Mounting above 3 meters can affect detection performace. **(SD-32-HM/-HM-SC only))**
 * The Motion Detector provides detection coverage of a 360° circle with 6 meters in diameter. Please refer to below figures for the installation details
 
-<figure><img src=".gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement.
 
-<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Maintenance & Cleaning**
 

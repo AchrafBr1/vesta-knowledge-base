@@ -85,7 +85,7 @@ The device is triggered by door/window opening or a shock detection which exceed
 
 The device supports shock detection on various materials including glass, wood, metal, and concrete. After installation, you can select the material of the mounting surface on the Control Panel. The default is set as **Wood**.
 
-![](<.gitbook/assets/10 (10) (1).png>)
+![](<.gitbook/assets/10 (10) (1) (1).png>)
 
 * _**Sensitivity**_
   * The sensitivity required to activate the Wired Door Contact / Shock Sensor is determined by the Control Panel.
