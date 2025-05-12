@@ -1,33 +1,17 @@
 # VESTA 370
 
-![](<.gitbook/assets/0 (87).png>)Secure Your Way of Life
+ST-894(M)
 
-![](<.gitbook/assets/1 (102).png>) ![](<.gitbook/assets/2 (110).png>)
-
-**Secured Ultimate**
-
-**Safety with Dual PIR**
-
-**Sensing**
+## HD Outdoor Motion Sensor Camera
 
 ![](<.gitbook/assets/3 (89).jpeg>)
-
-VST-894(M)
-
-HD Outdoor Motion Sensor Camera
-
-![](<.gitbook/assets/4 (111).png>)
 
 * 2 independent PIR sensors only raise the alarm when both react to the movement
 * Low-mounted PIR base with installation height of 0.8-1.2m
 * Adjustment of detection range from 2.5 to 12 meters
-* Rotatable angle up to a total of 90° to achieve exible installation
+* Rotatable angle up to a total of 90° to achieve flexible installation
 
-![](<.gitbook/assets/5 (112).png>)Secure Your Way of Life
-
-**VST-894(M)**
-
-HD Outdoor Motion Sensor Camera
+## Intruduction
 
 VST-894 is a new-generation Outdoor Motion Sensor Camera featuring two independent PIR sensors, installation height ranging from 0.8 to 1.2 meters and special analysis logic to provide exceptional detection precision.
 
@@ -35,9 +19,7 @@ Utilizing a unique dual-lens design, an alarm is only triggered when both the up
 
 Additionally, VST-894 incorporates SF1 technology, which enables it to excel with 2 to 3 times faster VGA/QVGA alarm image transmission speed. With increased processing speed, the camera can send detailed HD images (up to 1280 x 720 pixels) for precise veri cation, thereby o ering clear visual veri cation to achieve enhanced security bene ts.
 
-![](<.gitbook/assets/6 (93).png>)
-
-**Two independent IR Lens**
+## **Two independent IR Lens**
 
 trigger alarm when both sensors detect movement, reducing false alarms
 
@@ -48,51 +30,33 @@ trigger alarm when both sensors detect movement, reducing false alarms
 | detection | detection |    |   |
 |           |           |    |   |
 
-![](<.gitbook/assets/8 (82).png>)
-
-**High-Speed File Transfer**
+## **High-Speed File Transfer**
 
 SF1 technology accelerates alarm image transmission by **2 to 3 times**, realizing le transfer at ground-breaking speed.
 
-![](<.gitbook/assets/9 (86).png>)
+<div align="left"><img src=".gitbook/assets/9 (86).png" alt=""></div>
 
 _**3 TIMES Faster**_
 
 **Anti-masking**
 
-**Installation Height of**
-
-0.8 to 1.2 Meters
+**Installation Height of** 0.8 to 1.2 Meters
 
 ![](<.gitbook/assets/10 (79).png>)
 
 0.8 to 1.2 Meters
 
-![](<.gitbook/assets/11 (63).png>) ![](<.gitbook/assets/12 (65).png>) ![](<.gitbook/assets/13 (54).png>)
+## **HD Image Transmission**
 
-**HD Image Transmission**
-
-With heightened SF1 processing speed, the camera transmits larger **HD images** (up to 1280 x 720 pixels), for more comprehensive alarm visual veri cation
-
-HD HD HD
-
-![](<.gitbook/assets/14 (56).png>)
-
-![](<.gitbook/assets/15 (54).png>)HD
-
-![](<.gitbook/assets/16 (59).png>)
+With heightened SF1 processing speed, the camera transmits larger **HD images** (up to 1280 x 720 pixels), for more comprehensive alarm visual verification
 
 identi es obstructions on the lens during detector's operational status monitoring
 
-![](<.gitbook/assets/17 (45).png>)
+<div align="left"><img src=".gitbook/assets/17 (45).png" alt=""></div>
 
-Secure Your Way of Life
+## **Walk Test**
 
-![](<.gitbook/assets/18 (53).png>)
-
-**Walk Test**
-
-Is initiated automatically upon closing the cover.
+It Is initiated automatically upon closing the cover.
 
 ![](<.gitbook/assets/19 (53).png>)
 
@@ -105,14 +69,6 @@ Is initiated automatically upon closing the cover.
 **Rotatable angle**
 
 up to a total of 90° to achieve exible installation
-
-ABCDEFG
-
-90°&#x20;
-
-90°
-
-90°
 
 **Detection range**
 
@@ -145,8 +101,6 @@ is exible, adjustable from 2.5 to 12 meters, with 5 levels.
 |                                         | **Unit: m (ft.)** |                    | 12    | **n**      | **m** |       |       | **Unit: m (ft.)** |   |
 |                                         |                   | (40)               |       |            |       |       |       |                   |   |
 
-Secure Your Way of Life
-
 **Other Features**
 
 * Unique technological analysis improves immunity against various noise factors such as climate changes and vegetation sways
@@ -173,7 +127,7 @@ Secure Your Way of Life
 * IP55 for outdoor usage
 * EN50131 Grade 2, Class IV certi ed
 
-**Speci cations**
+**Specifications**
 
 **VST-894(M)** HD Outdoor Motion Sensor Camera
 
@@ -236,7 +190,3 @@ Secure Your Way of Life
 **VST-894M** HD Outdoor Motion Sensor Camera with Dual Lenses, Flash LED and Microwave Function
 
 **VST-894M-IL** HD Outdoor Motion Sensor Camera with Dual Lenses, Infrared LED and Microwave Function
-
-Climax Technology Co., Ltd.．Website: www.climax.com.tw ．Email: sales@climax.com.tw
-
-Copyright © 2023 Climax Technology Co., Ltd. All Rights Reserved．Oct. 12, 2023

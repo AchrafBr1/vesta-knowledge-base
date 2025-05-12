@@ -1,12 +1,14 @@
-# VESTA 363
+# VESTA-363
 
-**BUS Isolated Range Extender (ISL-1-BUS)**
+**ISL-1-BUS**
+
+## **BUS Isolated Range Extender**&#x20;
 
 **Introduction**
 
 The ISL-1-BUS is an isolated range extender. It can extend the communication range and amplify the signal of wired security system over long distances, while protecting the connected devices against short circuit downstream. The isolator has galvanically separated the input and output terminals. In case when there is a short circuit at the output, all the devices connected to the input of ISL-1-BUS will continue to operate without interruption. The ISL-1-BUS can also boost the voltage up to 13.5V for BUS devices connected to output.
 
-**Identifying the Parts**
+## **Identifying the Parts**
 
 ![](<.gitbook/assets/0 (10).png>)
 
@@ -14,55 +16,47 @@ The ISL-1-BUS is an isolated range extender. It can extend the communication ran
 2. **Pluggable BUS Terminal for Input**
 3. **LED for BUS Terminal (Input)**
 
-The LED lights up when the BUS output terminal A is powered.
+&#x20;     The LED lights up when the BUS output terminal A is powered.
 
-1. **Terminal Resistor Jumper for Terminal Input**
+4. **Terminal Resistor Jumper for Terminal Input**
 
-![](<.gitbook/assets/1 (6).jpeg>)
+&#x20;      Turn the jumper to OFF by removing or “parking” the jumper link.
 
-Turn the jumper to OFF by removing or “parking” the jumper link.
+&#x20;      Turn the jumper to ON by resting the jumper link on both pins.
 
-![](<.gitbook/assets/2 (5).jpeg>)
+5. **LED for BUS Terminal (Output A)**
 
-Turn the jumper to ON by resting the jumper link on both pins.
+&#x20;      The LED lights up when the BUS output terminal A is powered.
 
-1. **LED for BUS Terminal (Output A)**
+6. **Terminal Resistor Jumper for BUS Terminal (Output A)**
 
-The LED lights up when the BUS output terminal A is powered.
+&#x20;      Turn the jumper to OFF by removing or “parking” the jumper link.
 
-1. **Terminal Resistor Jumper for BUS Terminal (Output A)**
+&#x20;      Turn the jumper to ON by resting the jumper link on both pins.
 
-![](<.gitbook/assets/3 (5).jpeg>) Turn the jumper to OFF by removing or “parking” the jumper link.
+7. **Pluggable BUS Terminal for Output A**
 
-![](<.gitbook/assets/4 (5).jpeg>)
+&#x20;      The LED lights up when the BUS output terminal A is powered.
 
-Turn the jumper to ON by resting the jumper link on both pins.
+8. **BUS Wiring Outlet for Output Lines**
+9. **Pluggable BUS Terminal Output B**
+10. **LED for BUS Terminal (Output B)**
 
-1. **Pluggable BUS Terminal for Output A**
+&#x20;     The LED lights up when the BUS output terminal B is powered.
 
-The LED lights up when the BUS output terminal A is powered.
+11. **Terminal Resistor Jumper for BUS Terminal (Output B)**
 
-1. **BUS Wiring Outlet for Output Lines**
-2. **Pluggable BUS Terminal Output B**
-3. **LED for BUS Terminal (Output B)**
-
-The LED lights up when the BUS output terminal B is powered.
-
-1
-
-1. **Terminal Resistor Jumper for BUS Terminal (Output B)**
-
-The same function as Terminal Resistor Jumper for Terminal Output A.
+&#x20;     The same function as Terminal Resistor Jumper for Terminal Output A.
 
 _**Please note:**_
 
 * _**After unplugging the terminal(s), when re-installing the terminal(s) back to the board, make sure to install the terminal(s) in the same orientation to avoid potential hazards.**_
 
-**Power Supply**
+## **Power Supply**
 
 The ISL-1-BUS is powered by the Hybrid Panel BUS. As a booster, the ISL-1-BUS can provide 13.5V, 0.5A power on each of its output terminal A and B.
 
-**Wiring Connection**
+## **Wiring Connection**
 
 Adding the ISL-1-BUS to the existing BUS system will extend the BUS range and boost the power up to 13.5V, 0.5A for each of its output terminal A and B.
 
@@ -81,5 +75,3 @@ _**Please also note:**_
 * _**As ISL-1-BUS provides up to 0.5A for each of its 2 output terminals, it is recommended to connect the BUS devices to ISL-1-BUS’s output terminal one by one to ensure optimal system operation. Please try to avoid connecting all the devices to the output terminal at once.**_
 * _**Given that the control panel supplies power to ISL-1-BUS, the maximum wiring distance from the control panel to ISL-1-BUS is 300 feet.**_
 * _**It is recommended to have only one ISL-1-BUS on a single BUS line.**_
-
-2
