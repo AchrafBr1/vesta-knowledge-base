@@ -1,58 +1,52 @@
-# VESTA 344
+# VESTA-344
 
-![](<.gitbook/assets/0 (6).png>)**WIEGAND Module (WGT-1-Combo)**
+**WGT-1-Combo**
+
+## **WIEGAND Module**
 
 WGT-1-COMBO is a WIEGAND module that can be connected to HIKVISION Card Reader to covert WIEGAND 26 \[W26] Protocol into RF wireless signals or BUS wired signals. When WIEGAND Card Reader reads a tag for arming/disarming request, WGT-1-COMBO will transmit ARM/Disarm signal with the tag number to the Control Panel.
 
 ![](<.gitbook/assets/1 (6).png>)
 
-* _**Identifying the parts**_
-  1. **Pluggable BUS Terminal**
-  2. **LED Indicator**
+## _**Identifying the parts**_
 
-The LED flashes for once after powering on.
+1. **Pluggable BUS Terminal**
+2. **LED Indicator**
 
-The LED flashes for 3 times when pressed the learn button and is transmitting RF signal.
+&#x20;      The LED flashes for once after powering on.
 
-*
-  1. **Learn Button**
-  2. **Terminal Resistor Jumper Switch**
+&#x20;       The LED flashes for 3 times when pressed the learn button and is transmitting RF signal
+
+3. **Learn Button**
+4. **Terminal Resistor Jumper Switch**
 
 When the WIEGAND module is connected as the furthest BUS device on a BUS line, please set the WIEGAND module's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) terminal resistor jumper to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
 * If the jumper is OFF (if the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
 * If the jumper is ON, the communication ability will be enhanced.
 
-
-
-* **DC 12V Input / GND**
-
-![](<.gitbook/assets/2 (6).png>)
+5. **DC 12V Input / GND**
 
 Connect to 12V 1A power supply.
 
-1. **DC 12V Output / GND**
+6. **DC 12V Output / GND**
 
 Provide 12V DC@150mA to the connected HIKVISION Card Reader.
 
-1
+7. **DATA0**
 
-1. **DATA0**
+&#x20;        Connect to W0 of HIKVISION Card Reader.
 
-Connect to W0 of HIKVISION Card Reader.
+&#x20;        **DATA1**
 
-**DATA1**
+&#x20;       Connect to W1 of HIKVISION Card Reader.
 
-Connect to W1 of HIKVISION Card Reader.
+8. **Wiring Hole**
+9. **Base Screws x 4**
+10. **Mounting Holes x 2 (for Mounting Bracket)**
+11. **Mounting Bracket**
 
-1. **Wiring Hole**
-2. **Base Screws x 4**
-3. **Mounting Holes x 2 (for Mounting Bracket)**
-4. **Mounting Bracket**
-
-![](<.gitbook/assets/3 (5).png>)
-
-* _**Power**_
+## _**Power**_
 
 **Powered by Hybrid Panel (For BUS wired application only)**
 
@@ -65,16 +59,14 @@ Connect to W1 of HIKVISION Card Reader.
 
 **Power Output:**
 
-*
-  *
-    * WGT-1-COMBO can supply 12V, 150mA power to connected HIKVISION Card Reader via the power terminal.
-* _**Application Diagram**_
-  * The insertion holes’ wiring specification is AWG 20-28 or Ø 0.518-0.081 (mm²). When connecting wire to terminal, tighten the screw to close the clipper and hold wire in place. Unscrew to open the clipper and remove the wire.
-  * The WGT-1-COMBO can be connected for either wireless application or wired application according to the diagrams below:
-    *
-      1. **RF Wireless Application (**&#x4E;OT wired to Hybrid Pane&#x6C;**)**
+* WGT-1-COMBO can supply 12V, 150mA power to connected HIKVISION Card Reader via the power terminal.
 
-![](<.gitbook/assets/4 (6).png>)
+## _**Application Diagram**_
+
+* The insertion holes’ wiring specification is AWG 20-28 or Ø 0.518-0.081 (mm²). When connecting wire to terminal, tighten the screw to close the clipper and hold wire in place. Unscrew to open the clipper and remove the wire.
+* The WGT-1-COMBO can be connected for either wireless application or wired application according to the diagrams below:
+
+1. **RF Wireless Application (**&#x4E;OT wired to Hybrid Pane&#x6C;**)**
 
 * Before wiring, make sure the power supply has been disconnected.
   * Connect **GND** terminal of WGT-1-COMBO to the Ground terminal of a Power Supply.
@@ -86,9 +78,7 @@ Connect to W1 of HIKVISION Card Reader.
 
 ![](<.gitbook/assets/5 (5).png>)
 
-2
-
-1. **BUS Wired Application (**&#x68;ardwired to Hybrid Pane&#x6C;**)**
+2. **BUS Wired Application (**&#x68;ardwired to Hybrid Pane&#x6C;**)**
 
 * Before connecting the WIEGAND module to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
@@ -101,27 +91,26 @@ Connect to W1 of HIKVISION Card Reader.
 | **Yellow** | 485A |
 | **Green**  | 485B |
 
-*
-  * Connect **DC OUT** terminal of WGT-1-COMBO to the **red cable** of HIKVISION Card Reader.
-  * Connect **GND** terminal of WGT-1-COMBO to the **black cable** of HIKVISION Card Reader.
-  * Connect **DATA0** terminal of WGT-1-COMBO to the **green cable (W0)** of HIKVISION Card Reader.
-  * Connect **DATA1** terminal of WGT-1-COMBO to the **white cable (W1)** of HIKVISION Card Reader.
+* Connect **DC OUT** terminal of WGT-1-COMBO to the **red cable** of HIKVISION Card Reader.
+* Connect **GND** terminal of WGT-1-COMBO to the **black cable** of HIKVISION Card Reader.
+* Connect **DATA0** terminal of WGT-1-COMBO to the **green cable (W0)** of HIKVISION Card Reader.
+* Connect **DATA1** terminal of WGT-1-COMBO to the **white cable (W1)** of HIKVISION Card Reader.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 * Power on the panel, the WGT-1-COMBO will be powered on as well.
 
 ![](<.gitbook/assets/7 (1) (1) (1).jpeg>)
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-*
-  * The pluggable design of BUS terminal blocks improves upon installation efficiency. Before wiring, you can remove the terminal blocks from the PCB board for ease of use, and plug in again after wiring.
-  * After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
+* The pluggable design of BUS terminal blocks improves upon installation efficiency. Before wiring, you can remove the terminal blocks from the PCB board for ease of use, and plug in again after wiring.
+* After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards
+{% endhint %}
+
 * The WIEGAND module can be connected in series with other BUS devices to the Hybrid Panel. When connected to **VBUS** terminal without connection to **DC IN**, the total length of wiring shall not exceed 300 feet. When connected to **DC IN**, the total length of wiring can be up to 3000 feet.
 * For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
-3
-
-* ![](<.gitbook/assets/8 (4).png>)_**Learning WGT-1-COMBO into the Control Panel**_
+## _**Learning WGT-1-COMBO into the Control Panel**_
 
 **Step 1.** Put Control Panel into Learning Mode.
 
@@ -135,7 +124,7 @@ _\<NOTE>_
 
 ![](<.gitbook/assets/9 (5).png>)
 
-* _**Identification (For BUS Wired Application)**_
+## _**Identification (For BUS Wired Application)**_
 
 The “**Identify**” function is used to localize a specific BUS device in the BUS wired system. This function is helpful in distinguishing which device is which especially in a large installation where numerous BUS devices are included.
 
@@ -145,29 +134,27 @@ To locate the WIEGAND module in the BUS system:
 
 **Step 2.** If the tag reader receives the signal from the Hybrid Panel, the webpage will display a success message and WGT-1-COMBO’s LED indicator will flash 10 times to indicate where it is to the user.
 
-![](<.gitbook/assets/10 (5) (1).png>)
+{% hint style="warning" %}
+Note:
 
-_\<NOTE>_
+If a timeout message is displayed on the webpage, it means the WIEGAND module did not receive the signal from the Panel. Please check whether the WIEGAND module is connected properly to the Panel with appropriate wiring distance.
+{% endhint %}
 
-* If a timeout message is displayed on the webpage, it means the WIEGAND module did not receive the signal from the Panel.
+## _**Walk Test**_
 
-Please check whether the WIEGAND module is connected properly to the Panel with appropriate wiring distance.
+* To make sure the WIEGAND module is able to communicate with the Panel after it is learned-in, place the Control Panel in Walk Test mode and press the learn button on WGT-1-COMBO to transmit a test signal to the Control Panel.
+* When the Panel receives the test signal, it will beep once and display the WIEGAND module’s information accordingly on the top of the device list.
 
-* _**Walk Test**_
-  * To make sure the WIEGAND module is able to communicate with the Panel after it is learned-in, place the Control Panel in Walk Test mode and press the learn button on WGT-1-COMBO to transmit a test signal to the Control Panel.
-  * When the Panel receives the test signal, it will beep once and display the WIEGAND module’s information accordingly on the top of the device list.
+{% hint style="warning" %}
+Note:
 
-_\<NOTE>_
+If there is no response from the Panel after the press of learn button, it means the Panel did not receive the test signal from the device. Please check whether WGT-1-COMBO is connected properly to the Panel within appropriate wiring distance.
+{% endhint %}
 
-* If there is no response from the Panel after the press of learn button, it means the Panel did not receive the test signal from the device.
+## _**Tag Learning / Removal**_
 
-Please check whether WGT-1-COMBO is connected properly to the Panel within appropriate wiring distance.
-
-* _**Tag Learning / Removal**_
-  * Before learning a tag into the Control Panel, make sure the WGT-1-COMBO has been learned into the Control Panel.
-  * After first power on HIKVISION Card Reader, please wait until the buzzer sound a beep, indicating that the starting up process is completed.
-
-![](<.gitbook/assets/13 (6).png>)
+* Before learning a tag into the Control Panel, make sure the WGT-1-COMBO has been learned into the Control Panel.
+* After first power on HIKVISION Card Reader, please wait until the buzzer sound a beep, indicating that the starting up process is completed.
 
 **Tag Learning**
 
@@ -177,8 +164,6 @@ Please check whether WGT-1-COMBO is connected properly to the Panel within appro
 
 ![](<.gitbook/assets/14 (6).png>)
 
-4
-
 **Step 3.** When the tag ID number is shown on the webpage, enter a 4-digit or a 6- digit User Code and assign a user name for the tag.
 
 ![](<.gitbook/assets/15 (6).png>)
@@ -187,7 +172,7 @@ Please check whether WGT-1-COMBO is connected properly to the Panel within appro
 
 **Step 5.** Tag learning is complet&#x65;**.**
 
-**Tag Removal**
+## **Tag Removal**
 
 **Step 1.** Disarm the system.
 
@@ -205,16 +190,15 @@ Please check whether WGT-1-COMBO is connected properly to the Panel within appro
 
 **Step 5.** The removal of tag is complete.
 
-* _**Supervision Signal**_
-  * When in wired mode, the WIEGAND module will automatically transmit Supervision Signals to the Control Panel at an interval of 20-30 seconds.
-  * When in wireless mode, the WIEGAND module will automatically transmit Supervision Signals to the Control Panel at an interval of 30-50 minutes.
-  * If the Control Panel has not received the signal from the WIEGAND module for a preset period of time, the Control Panel will consider the WIEGAND module out of order and react according to panel setting.
+## _**Supervision Signal**_
 
-5
-
+* When in wired mode, the WIEGAND module will automatically transmit Supervision Signals to the Control Panel at an interval of 20-30 seconds.
+* When in wireless mode, the WIEGAND module will automatically transmit Supervision Signals to the Control Panel at an interval of 30-50 minutes.
+* If the Control Panel has not received the signal from the WIEGAND module for a preset period of time, the Control Panel will consider the WIEGAND module out of order and react according to panel setting.
 * **To Arm the System:** Pass tag **one time** through the HIKVISION Card Reader, a beep will be emitted by the card reader. After 4 seconds, WGT-1-COMBO will transmit ARM signal with the tag number to the Control Panel. If the Control Panel confirms the tag is attached to the user, it will automatically switch to Arm Mode.
 * **To Disarm the System:** Pass tag **two times** through the HIKVISION Card Reader in **less than 4 seconds**, two beeps will be emitted by the card reader, and then WGT-1-COMBO will transmit DISARM signal with the tag number to the Control Panel. If the Control Panel confirms the tag is attached to the user, it will automatically switch to Disarm Mode.
-* _**Mounting**_
+
+## _**Mounting**_
 
 **Mount the Bracket**
 
@@ -228,3 +212,4 @@ Please check whether WGT-1-COMBO is connected properly to the Panel within appro
 
 **Step 5.** Sliding down the WIEGAND module when hooked to the mounting bracket to tighten and secure the module.
 
+<figure><img src=".gitbook/assets/10 (91).png" alt=""><figcaption></figcaption></figure>

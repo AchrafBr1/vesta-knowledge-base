@@ -1,61 +1,20 @@
-# VESTA 349
+# VESTA-349
 
-![](<.gitbook/assets/0 (74).png>)VCP-LTE-SV Quick Start Guide
+VCP-LTE-SV Quick Start Guide
 
-**1. Package Content**
+## **1. Package Content**
 
-![](<.gitbook/assets/1 (91).png>)
+![Voice Call Point                                         A power supply (DC 9V 1A SPS adaptor)                                         A Wall Mounting Bracket](<.gitbook/assets/1 (91).png>)
 
 Voice Call Point A power supply (DC 9V 1A SPS adaptor) A Wall Mounting Bracket
 
-**2. Identifying the Parts**
+## **2. Identifying the Parts**
 
-![](<.gitbook/assets/2 (98).png>) ![](<.gitbook/assets/3 (95).png>) ![](<.gitbook/assets/4 (100).png>)
+<figure><img src=".gitbook/assets/10 (94).png" alt=""><figcaption></figcaption></figure>
 
-▼ Front View ▼ Side View ▼ Back View
+<figure><img src=".gitbook/assets/11 (69).png" alt=""><figcaption></figcaption></figure>
 
-LED Indicator (Red) LED Indicator (Green)
-
-![](<.gitbook/assets/5 (101).png>) ![](<.gitbook/assets/6 (81).png>)
-
-Speaker
-
-Microphone
-
-Alarm Button
-
-DC Jack
-
-![](<.gitbook/assets/7 (71).png>)
-
-Battery
-
-Switch
-
-Micro USB Jack Nano SIM Card Slot
-
-| **Component**             | **Behavior**                  | **Condition**                                    |
-| ------------------------- | ----------------------------- | ------------------------------------------------ |
-| **Alarm Button**          | Press once                    | - To make an emergency call / activate alarm.    |
-|                           |                               | - To answer an incoming call.                    |
-|                           |                               |                                                  |
-|                           | Press and hold for 5 seconds. | - To cancel the alarm.                           |
-|                           |                               | - To terminate the call.                         |
-|                           |                               |                                                  |
-|                           | Press and hold for 8 seconds. | - To transmit a learn code to the Control Panel. |
-|                           |                               |                                                  |
-| **LED Indicator (Green)** | Light on                      | AC Power on                                      |
-|                           |                               |                                                  |
-|                           | Flashes once every 5 seconds  | AC Fail                                          |
-|                           |                               |                                                  |
-| **LED Indicator (Red)**   | Flashes once every 3 seconds: | Low Battery.                                     |
-|                           |                               |                                                  |
-|                           | Flashes once every 5 seconds: | GSM fault.                                       |
-|                           |                               |                                                  |
-
-![](<.gitbook/assets/8 (71).png>)
-
-**3. Power Supply**
+## **3. Power Supply**
 
 A DC 9V 1A SPS power adapter is provided for AC power connection.
 
@@ -63,11 +22,11 @@ In addition to the AC power adapter, a rechargeable battery is installed inside 
 
 You need to switch the battery switch to ON for the battery to be charged when AC power is connected and serve as a backup power source when AC power is missing.
 
-![](<.gitbook/assets/9 (70).png>)
-
-**4. Hardware Installation**
+## **4. Hardware Installation**
 
 **Insert SIM card**
+
+![](<.gitbook/assets/9 (70).png>)
 
 • It is recommended to disable the SIM card PIN code before inserting into the VCP-LTE-SV.
 
@@ -77,16 +36,14 @@ You need to switch the battery switch to ON for the battery to be charged when A
 
 • SIM Card will delete its SMS messages whenever the VCP-LTE-SV is powered on.
 
-![](<.gitbook/assets/10 (66).png>)
+{% hint style="danger" %}
+Note:
 
-*
-  * _**Note >**_
 * _Only a Nano SIM card can fit in the SIM card slot. If you don’t have the right SIM card size, please contact your service provider for a replacement of SIM card._
 * _Do not insert a SIM card with a SIM card adapter or it will cause damage to the SIM card and its holder._
+{% endhint %}
 
-**1**
-
-**Wall Mounting**
+### **Wall Mounting**
 
 **Step 1.** Break through the 2 knockouts on the Wall Mounting Bracket.
 
@@ -98,21 +55,13 @@ You need to switch the battery switch to ON for the battery to be charged when A
 
 ![](<.gitbook/assets/11 (56).png>)
 
-ON ![](<.gitbook/assets/12 (56).png>)![](<.gitbook/assets/13 (46).png>)
-
-ON ![](<.gitbook/assets/14 (46).png>)
-
 **Step 5.** Fit VCP-LTE-SV onto the mounting bracket. Make sure the imprinted mark on VCP-LTE-SV is aligned with the upper mark on the bracket.
 
 **Step 6.** Rotate VCP-LTE-SV clockwise to the lock position.
 
-![](<.gitbook/assets/15 (46).png>)
+![                                                                    Open position                                                     Lock position](<.gitbook/assets/15 (46).png>)
 
-![](<.gitbook/assets/16 (48).png>)![](<.gitbook/assets/17 (36).png>)![](<.gitbook/assets/18 (41).png>) Open position
-
-![](<.gitbook/assets/19 (41).png>)![](<.gitbook/assets/20 (31).png>) Lock position
-
-**Surface Placement**
+### **Surface Placement**
 
 **Step 1.** Clean the back of VCP-LTE-SV with degreaser. Connect a DC 9V 1A SPS power adapter to the DC jack and keep the cable well-placed to the right or left.
 
@@ -120,7 +69,7 @@ ON ![](<.gitbook/assets/14 (46).png>)
 
 **Step 3.** Place VCP-LTE-SV at the desired location.
 
-**5. Software Installation**
+## **5. Software Installation**
 
 VCP-LTE-SV can be programmed via USB port connection of a computer using the PC Programming Tool software (with the Programming Cable). The USB Driver must be installed first for your computer to recognize the USB connection. Please go to http://www.ftdichip.com/Drivers/VCP.htm to download and install the driver according to your operation system.
 
@@ -129,5 +78,3 @@ VCP-LTE-SV can be programmed via USB port connection of a computer using the PC 
 * Download the PC programming Tool (MobileTool).
 * For more detailed instruction, please download “ VCP-LTE-SV Voice Call Point Installation Guide ”.
   * _https://www.climax.com.tw/climax-download-vcp-lte-sv.html_
-
-**2** 2023-03-15

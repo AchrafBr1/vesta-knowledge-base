@@ -4,10 +4,6 @@
 
 
 
-![](https://192-168-195-151.jpab.direct.quickconnect.to:5001/ns/dv/6jnMN/9fdc70f4c98930f7b8924b40c90de48146d501e2/_ZDhRzavSTwy_erRsG6kYSQ/image.png?SynoToken=msYiY6OS.sAp.\&tid=gfGWk2j9Q0WRwB8n4CRtvnpzS0Yh7upYD87OomxM4tVL9X3WS85hzJG6_sElpMdMpwCefNBDRq6-H7_b)
-
-
-
 ## QUICK GUIDE
 
 {% stepper %}
@@ -23,10 +19,6 @@ Add to VESTA panel (Only VESTA-349N)
 Put panel in learn mode and press help button in VESTA-349N
 {% endstep %}
 {% endstepper %}
-
-
-
-
 
 ### Device button and led indicator
 

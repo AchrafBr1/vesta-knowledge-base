@@ -1,6 +1,8 @@
-# VESTA 355
+# VESTA-355
 
-**Wired PIR Motion Sensor Camera (VST-892-BUS)**
+**VST-892-BUS**
+
+## **Wired PIR Motion Sensor Camera**
 
 **Introduction**
 
@@ -16,9 +18,11 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 
 **The VST-892-BUS Series includes the following models**:
 
-VST-892-BUS – Wired PIR motion sensor camera with flash LED VST-892-IL-BUS – Wired PIR motion sensor camera with Infrared LED
+VST-892-BUS – Wired PIR motion sensor camera with flash LED
 
-**Parts Identification**
+VST-892-IL-BUS – Wired PIR motion sensor camera with Infrared LED
+
+## **Parts Identification**
 
 ![](<.gitbook/assets/0 (1) (1).jpeg>)
 
@@ -34,57 +38,39 @@ The Flash LED (For VST-892-BUS) or Infrared LED (For VST-892-IL-BUS) delivers su
 
 **Function Button Usage:**
 
-*
-  * Press the button once to enter test mode for 3 minutes.
+* Press the button once to enter test mode for 3 minutes.
 
-1. **Digital Proximity Detector**
+3. **Digital Proximity Detector**
 
 The digital proximity detector is used to detect any masking (blocking) attempt by an intruder
 
-1. **IR Sensor**
-2. **PIR Camera Lens**
-3. **BUS Terminal**
+4. **IR Sensor**
+5. **PIR Camera Lens**
+6. **BUS Terminal**
 
 ![](<.gitbook/assets/1 (1).jpeg>)
 
 Hardwire the four terminals (VCC, GND, A, B) to the BUS Terminal on the Control Panel. Please refer to _**PIR Camera Wiring**_ section for details.
 
-1
-
-1. **Terminal Resistor Jumper Switch**
+7. **Terminal Resistor Jumper Switch**
 
 When the PIR Camera is connected as the furthest BUS device on a BUS line, please set the PIR Camera's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (1).jpeg>) ![](<.gitbook/assets/3 (6).png>)
+**Jumper On:** The jumper link is inserted, connecting the two pins.
 
-**Jumper On**
+**Jumper Off:** The jumper link is removed or “**parked**” on one pin.
 
-![](<.gitbook/assets/4 (1) (1).jpeg>)
+* If the jumper is OFF, the communication ability is in normal level.
+* If the jumper is ON, the communication ability is enhanced.
 
-The jumper link is inserted, connecting the two pins.
+8. **Tamper Switch**
+9. **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
-**Jumper Off**
+<figure><img src=".gitbook/assets/10 (98).png" alt=""><figcaption></figcaption></figure>
 
-The jumper link is removed or “**parked**” on one pin.
+**Jumper On:** The jumper link is inserted, connecting the two pins.
 
-*
-  * If the jumper is OFF, the communication ability is in normal level.
-  * If the jumper is ON, the communication ability is enhanced.
-
-1. **Tamper Switch**
-2. **Pet Immunity Enable/Disable Jumper Switch (JP3)**
-
-![](<.gitbook/assets/5 (6).png>)
-
-**Jumper On**
-
-![](<.gitbook/assets/6 (2).jpeg>)
-
-The jumper link is inserted, connecting the two pins.
-
-**Jumper Off**
-
-The jumper link is removed or “**parked**” on one pin.
+**Jumper Off:** The jumper link is removed or “**parked**” on one pin.
 
 When set to ON, Pet Immunity is disabled (Factory default).
 
@@ -96,43 +82,33 @@ When set to ON, the PIR’s detection sensitivity is high.
 
 When set to OFF, the PIR’s detection sensitivity is in normal level (Factory default).
 
-1. **Bottom Fixing Screw**
-2. **Breakaway Area for Tamper Switch**
-3. **Breakaway Area Options for Wiring**
-4. **Mounting Bracket**
+11. **Bottom Fixing Screw**
+12. **Breakaway Area for Tamper Switch**
+13. **Breakaway Area Options for Wiring**
+14. **Mounting Bracket**
 
-**Features**
-
-![](<.gitbook/assets/7 (5).png>)
+## **Features**
 
 * _**LED Indicator**_
   * The Blue LED will flash for 1 second when the PIR Camera enters Test Mode. During Test mode, the Blue LED will flash once every time a movement is detected.
   * The LED will not flash if the PIR Camera is normal and is not under test mode.
 * _**Image Capture**_
 
-![](<.gitbook/assets/8 (5).png>)
-
 When the alarm system is armed, the PIR Camera will capture 1, 3 or 6 alarm images with resolution of 640 x 480 or 320 x 240 (programmable from the Control Panel) upon movement detection. You can also manually request the PIR Camera to take a picture through the Control Panel. The captured images will be transferred to the Control Panel for users to view.
 
-![](<.gitbook/assets/9 (6).png>)
+{% hint style="warning" %}
+Note:
 
-_\<NOTE>_
+If your PIR Camera is installed at a location where the camera’s field of view is a complex environment with intense light or lots of colors, the images captured will be great in file size, possibly leading to truncation when the images are transmitted to the Control Panel.
+{% endhint %}
 
-*
-  * If your PIR Camera is installed at a location where the camera’s field of view is a complex environment with intense light or lots of colors, the images captured will be great in file size, possibly leading to truncation when the images are transmitted to the Control Panel.
 * _**Warm Up Period**_
 
-![](<.gitbook/assets/10 (6) (1).png>)
-
 When the Control Panel system enters armed mode, or when the PIR Camera is put into Test Mode, the PIR Camera will warm up for 30 seconds.
-
-![](.gitbook/assets/11.jpeg)
 
 * _**Power Supply**_
 
 When VST-892-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
-
-![](<.gitbook/assets/12 (6).png>)
 
 * _**Anti-Masking**_
   * The PIR Camera has a digital proximity detector that can detect any masking (blocking) attempts by an intruder.
@@ -140,57 +116,39 @@ When VST-892-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provi
   * After masking/blocking is removed for 3 minutes, VST-892-BUS will send a restore signal to the Control Panel.
 * _**Tamper Protection**_
 
-![](<.gitbook/assets/13 (7).png>)
-
 The PIR Camera is protected by a tamper switch which is depressed when the PIR Camera is properly installed. When the PIR Camera is removed from the mounting surface or its cover is opened, the tamper switch will be activated and the PIR Camera will send a tamper open signal to the system control panel to remind the user of the condition.
 
-![](<.gitbook/assets/14 (1).jpeg>)
-
-2
-
-* ![](<.gitbook/assets/15 (7).png>)_**Supervision**_
+* _**Supervision**_
 
 The PIR Camera will conduct a self-test periodically by transmitting a supervisory signal once every 20-30 seconds.
 
-![](<.gitbook/assets/16 (7).png>)
-
 * _**Test Mode**_
-  *
-    * Test Mode is for you to check the PIR camera’s detection range (not shooting coverage).
-    * Press the Function button once to enter Test Mode for 3 minutes. The Blue LED will flash for 1 second.
-    * The PIR camera will warm up for 30 seconds. Please do not trigger the Camera during this warm-up period.
-    * After the warm-up period, you can trigger the PIR camera to check the IR detection range. If the PIR camera is triggered, the Blue LED will flash once.
+  * Test Mode is for you to check the PIR camera’s detection range (not shooting coverage).
+  * Press the Function button once to enter Test Mode for 3 minutes. The Blue LED will flash for 1 second.
+  * The PIR camera will warm up for 30 seconds. Please do not trigger the Camera during this warm-up period.
+  * After the warm-up period, you can trigger the PIR camera to check the IR detection range. If the PIR camera is triggered, the Blue LED will flash once.
 * _**Caution**_
   * Wiring of the PIR camera should only be performed by certified technicians with proper knowledge and training in electric equipment.
   * Before installation or any maintenance work, make sure the power supply from the Control Panel has been disconnected.
 * _**PIR camera Wiring**_
-  *
-    * Before connection, make sure the Panel power supply has been disconnected, and the panel battery switch has been slid to OFF position.
-    * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
+  * Before connection, make sure the Panel power supply has been disconnected, and the panel battery switch has been slid to OFF position.
+  * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/17 (6).png>) ![](<.gitbook/assets/18 (5).png>)
-
-| **Red**    | VDD  |
-| ---------- | ---- |
-| **Black**  | GND  |
-| **Yellow** | 485A |
-| **Green**  | 485B |
+<figure><img src=".gitbook/assets/10 (90).png" alt=""><figcaption></figcaption></figure>
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
-![](<.gitbook/assets/19 (5).png>)
+{% hint style="warning" %}
+Note:
 
-_\<NOTE>_
+* The pluggable design of BUS terminal blocks improves upon installation efficiency. Before wiring, you can remove the terminal blocks from the PCB board for ease of use, and plug in again after wiring.
+* After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
+{% endhint %}
 
-*
-  * The pluggable design of BUS terminal blocks improves upon installation efficiency. Before wiring, you can remove the terminal blocks from the PCB board for ease of use, and plug in again after wiring.
-  * After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 * There are eight Breakaway Area Options on the back cover and the battery cover for the wires to exit by detaching any one of them.
 
 ![](.gitbook/assets/20.jpeg)
-
-3
 
 * _**Learning**_
 
@@ -212,28 +170,27 @@ The “Identify” function is used to localize a specific BUS device in the BUS
 
 To locate the PIR Camera in the BUS system:
 
+<figure><img src=".gitbook/assets/10 (99).png" alt=""><figcaption></figcaption></figure>
+
 **Step 1.** On Hybrid Panel’s webpage, click “Identify” under the device list after the IR Camera’s device column entry.
 
 **Step 2.** If VST-892-BUS receives the signal from the Hybrid Panel, the webpage will display a success message and VST-892-BUS’s LED indicator will flash 10 times to indicate where it is to the user.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-*
-  *
-    * If a timeout message is displayed on the webpage, it means VST-892-BUS did not receive the signal from the Panel.
-
-Please check whether VST-892-BUS is connected properly to the Panel within appropriate wiring distance.
+If a timeout message is displayed on the webpage, it means VST-892-BUS did not receive the signal from the Panel. Please check whether VST-892-BUS is connected properly to the Panel within appropriate wiring distance.
+{% endhint %}
 
 * _**Walk Test**_
   * To make sure the PIR Camera is able to communicate with the Panel after it is learned-in, place the Control Panel in Walk Test mode and press the function button on VST-892-BUS to transmit a test signal to the Panel.
   * When the Panel receives the test signal, it will beep once and display the PIR Camera’s information accordingly on the top of the device list.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-*
-  * If there is no response from the Panel after the press of function button, it means the Panel did not receive the test signal from the device.
-
-Please check whether VST-892-BUS is connected properly to the Panel within appropriate wiring distance.
+If there is no response from the Panel after the press of function button, it means the Panel did not receive the test signal from the device. Please check whether VST-892-BUS is connected properly to the Panel within appropriate wiring distance.
+{% endhint %}
 
 * _**Pet Immunity Function**_
 
@@ -249,9 +206,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 
 **Control Panel Webpage**:
 
-*
-  *
-    1. On the Panel’s local webpage, go to the Edit Device page and input the PIR Camera configuration in the Sensor Setting section. Click OK to confirm.
+1. On the Panel’s local webpage, go to the Edit Device page and input the PIR Camera configuration in the Sensor Setting section. Click OK to confirm.
 
 Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity and set Sensitivity level to high, you can input 02.
 
@@ -265,10 +220,7 @@ Please refer to the table below for configuration details. For example, if you w
 **Home Portal Server**:
 
 1. On Home Portal Server, go to the Device Setting page, click the VST-892 device row and select “IR Configuration.”
-
-4
-
-1. Select the Pet Immunity function (Enable/Disable) and Sensitivity (High/Normal) from the drop-down menu, and click “Submit” to confirm the setting.
+2. Select the Pet Immunity function (Enable/Disable) and Sensitivity (High/Normal) from the drop-down menu, and click “Submit” to confirm the setting.
 
 **Installation**
 
@@ -281,48 +233,64 @@ Please refer to the table below for configuration details. For example, if you w
 
 **It is recommended installing the PIR Camera in the following locations:**
 
-*
-  * At a position where the animals cannot come to the detection area by climbing on furniture or other objects.
-  * Don’t mount the device at stairways where animals can climb on.
-  * At a position where an intruder would normally move across the PIR’s field of view.
-  * At a height between 2.3 and 2.5 meters above the ground for best performance.
-  * In a corner to give the widest view.
-  * At a position where its field of view will not be obstructed by, e.g., curtains, ornaments, etc.
+* At a position where the animals cannot come to the detection area by climbing on furniture or other objects.
+* Don’t mount the device at stairways where animals can climb on.
+* At a position where an intruder would normally move across the PIR’s field of view.
+* At a height between 2.3 and 2.5 meters above the ground for best performance.
+* In a corner to give the widest view.
+* At a position where its field of view will not be obstructed by, e.g., curtains, ornaments, etc.
 * **Limitations**
 
-|  | Do not install outdoors.                             |  | Avoid large obstacles in the detection area.               |
-| - | ---------------------------------------------------- | - | ---------------------------------------------------------- |
-|   |                                                      |   |                                                            |
-|  | Do not expose the PIR Camera completely to direct    |  | Avoid vapor or high humidity that can cause                |
-|   | sunlight.                                            |   | condensation.                                              |
-|   |                                                      |   |                                                            |
-|  | Avoid moving objects, e.g., curtains, wall hangings, |  | Avoid reflected light from bright surfaces, e.g., mirrors, |
-|   | etc., in the detection area.                         |   | windows, etc.                                              |
-|   |                                                      |   |                                                            |
+<figure><img src=".gitbook/assets/10 (100).png" alt=""><figcaption></figcaption></figure>
 
-5
+<figure><img src=".gitbook/assets/11 (71).png" alt=""><figcaption></figcaption></figure>
 
-* Avoid installing the PIR Camera in areas where machines such as air conditioners or heaters may cause rapid change in temperature in the detection area.
-* Avoid reflecting surfaces in the detection area. Reflected infrared signatures may lead to false alarm.
+Be sure to always remain the RSSI signal stregth steady at "4".
 
-6
+<figure><img src=".gitbook/assets/10 (101).png" alt=""><figcaption></figcaption></figure>
 
-6\. Re-place the cover onto the base and tighten the bottom fixing screw.
+## Mounting the PIR Camera
 
-* **Surface Mounting with the mounting bracket:**
-  1. Use the two central screw holes on the bracket as a template and drill holes into the surface to be mounted.
-  2. Insert the wall plugs if the PIR Camera is to be fixed onto plaster or bricks.
-  3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
-  4. Hook the PIR Camera onto the hooks of the mounting bracket.
-* **Corner mounting with the mounting bracket:**
-  1. Use the 4 side screw holes on the bracket as template and drill holes on the corner surface.
-  2. Insert the wall plugs if the PIR Camera is to be fixed onto plaster or bricks.
-  3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
-     1. Hook the PIR Camera onto the hooks of the mounting bracket.
+* The PIR Camera is designed to be mounted either on a flat surface or in a corner.
+* A mounting bracket is provided and includes two central screw holes for fixing the PIR  \
+  Camera onto a flat surface and four side screw holes for fixing the PIR Camera onto a  \
+  corner.
+* For surface mounting, an optional rotating bracket is provided for users to adjust the  \
+  range of detection. With the rotating bracket, the VST-892-BUS can be rotated 80  \
+  degrees horizontally and 70 degrees vertically to provide optimal coverage.
 
-7
+<figure><img src=".gitbook/assets/10 (102).png" alt=""><figcaption></figcaption></figure>
 
-* **Surface mounting with rotating bracket (optional item, sold separately):**
+### Surface mounting whitout the mounting bracket:
+
+1. Detach the cover by loosening the bottom fixing screw with a Phillips screwdriver.
+2. Break through the 2 surface knockouts at the center of the base.
+3. Use the 2 holes as a template and drill holes on the surface.
+4. Insert the wall plugs if the PIR Camera is to be fixed onto plaster or bricks.
+5. Screw the base onto the wall plugs.
+6. Re-place the cover onto the base and tighten the bottom fixing screw.
+
+<figure><img src=".gitbook/assets/10 (103).png" alt=""><figcaption></figcaption></figure>
+
+### **Surface Mounting with the mounting bracket:**
+
+1. Use the two central screw holes on the bracket as a template and drill holes into the surface to be mounted.
+2. Insert the wall plugs if the PIR Camera is to be fixed onto plaster or bricks.
+3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
+4. Hook the PIR Camera onto the hooks of the mounting bracket.
+
+<figure><img src=".gitbook/assets/10 (104).png" alt=""><figcaption></figcaption></figure>
+
+### **Corner mounting with the mounting bracket:**
+
+1. Use the 4 side screw holes on the bracket as template and drill holes on the corner surface.
+2. Insert the wall plugs if the PIR Camera is to be fixed onto plaster or bricks.
+3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
+4. Hook the PIR Camera onto the hooks of the mounting bracket.
+
+<figure><img src=".gitbook/assets/10 (105).png" alt=""><figcaption></figcaption></figure>
+
+### **Surface mounting with rotating bracket (optional item, sold separately):**
 
 The rotating bracket can be mounted on the wall with the screws provided.
 
@@ -330,4 +298,4 @@ The rotating bracket can be mounted on the wall with the screws provided.
 2. Hook the PIR Camera onto the rotating bracket accordingly.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-8
+<figure><img src=".gitbook/assets/10 (106).png" alt=""><figcaption></figcaption></figure>
