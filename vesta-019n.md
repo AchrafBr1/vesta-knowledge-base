@@ -6,7 +6,7 @@ DC-23 / DC-23-R3
 
 
 
-## JUMPER CONFIGURATION
+### JUMPER CONFIGURATION
 
 
 
@@ -44,21 +44,18 @@ Press the Test button to transmit the learning code or enter test mode for 3 min
 
 ![](https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F1580875003-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZJzpNocHhYVmD43GZobR%252Fuploads%252Ft64Ru2DjKhRHSftgiitJ%252F1.png%3Falt%3Dmedia%26token%3D8b71aebc-e1b9-4c29-b0cb-7d1bc9419d1e\&width=768\&dpr=4\&quality=100\&sign=c7435426\&sv=2)
 
-1. **Mounting Holes**
+2. **Mounting Holes**
 
 Used to fixed and screw the Door Contact directly onto the Door Frame or Wall.
 
-1. **Tamper Switch**
+3. **Tamper Switch**
 
 When the Door Contact is mounted, the Tamper switch will be activated when the cover is opened or when the Door Contact is removed from the mounted surface.
 
-![](https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F1580875003-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZJzpNocHhYVmD43GZobR%252Fuploads%252FVCypPhe1tVXDOL9K941J%252F2.png%3Falt%3Dmedia%26token%3Dc8453d45-e238-4d27-b0d9-5d3f9edd54ce\&width=768\&dpr=4\&quality=100\&sign=e785831c\&sv=2)
+<figure><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F1580875003-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZJzpNocHhYVmD43GZobR%252Fuploads%252FVCypPhe1tVXDOL9K941J%252F2.png%3Falt%3Dmedia%26token%3Dc8453d45-e238-4d27-b0d9-5d3f9edd54ce&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e785831c&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-1. **Battery Insulator**
-
-
-
-1. **(JP2): NO/NC Mode**
+4. **Battery Insulator**
+5. **(JP2): NO/NC Mode**
 
 **Jumper Off - T**he jumper link is removed or “**parked**” on one pin.
 
@@ -71,7 +68,7 @@ When the Door Contact is mounted, the Tamper switch will be activated when the c
 * JP OFF: NO (Normally Open)
 * JP ON: NC (Normally Closed)
 
-1. **(JP3): Door Contact or External Input Mode**
+6. **(JP3): Door Contact or External Input Mode**
 
 ![](https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F1580875003-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZJzpNocHhYVmD43GZobR%252Fuploads%252FfWDK8LNdBMclar4PHPPS%252F3.png%3Falt%3Dmedia\&width=768\&dpr=4\&quality=100\&sign=3c82e69\&sv=2)jumper close
 
@@ -88,19 +85,19 @@ When the Door Contact is mounted, the Tamper switch will be activated when the c
 
 
 
-1. **Extension Terminal**
+7. **Extension Terminal**
 
 In addition to the built-in magnet switch, an additional 2-pin dry contact terminal is provided for an extension magnet switch or any device with N.C. (Normally Closed) functionality.
 
-1. **Battery Compartment**
-2. **Magnet**
+8. **Battery Compartment**
+9. **Magnet**
 
 <figure><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F1580875003-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZJzpNocHhYVmD43GZobR%252Fuploads%252FMPEXERXvJ1cM7TSzAU2B%252F4.png%3Falt%3Dmedia%26token%3Dca398152-18b5-4668-9151-35fa07bb03d1&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9ec1651a&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-1. **Magnet Screw hole**
-2. **Magnet Spacer**
+10. **Magnet Screw hole**
+11. **Magnet Spacer**
 
-### Features <a href="#features" id="features"></a>
+## Features <a href="#features" id="features"></a>
 
 #### _**LED Indicator**_ <a href="#led-indicator" id="led-indicator"></a>
 
@@ -173,7 +170,7 @@ The Extension terminal may be useful for the following situation.
 * After the Door Contact is learned-in, place the Control Panel into (**Walk Test)** mode, hold the Door Contact in the desired location, and press the Test button to transmit a test signal to the Control Panel. If the Control Panel is within Door Contact signal range, the panel will display door contact information accordingly.
 * Proceed with mounting and installation once you are satisfied that the Door Contact location functions properly.
 
-### Installation <a href="#installation" id="installation"></a>
+## Installation <a href="#installation" id="installation"></a>
 
 #### _Installation Guideline_ <a href="#installation-guideline" id="installation-guideline"></a>
 
