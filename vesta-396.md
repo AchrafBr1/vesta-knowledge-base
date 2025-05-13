@@ -1,5 +1,5 @@
 ---
-icon: user-doctor-hair-long
+icon: star-of-life
 ---
 
 # VESTA-396

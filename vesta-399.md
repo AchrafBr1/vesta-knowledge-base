@@ -1,10 +1,12 @@
-# VESTA 399
+# VESTA-399
 
+UIM-1-BUS
 
+## Universal Interface Module
 
 Universal Interface Module (UIM-1-BUS) UIM-1-BUS is a Universal Interface Module that is designed to connect any wired detectors with dry contact to the Hybrid Panel and provide the connected detector with the power source. Designed with 3 inputs, UIM-1-BUS is capable of transmitting alarm/tamper/fault signals from the connected wired detector to the hybrid panel, therefore enabling devices without BUS terminals to conveniently and flexibly be integrated with the Alary System.
 
-Parts Identification
+## Parts Identification
 
 
 
@@ -18,27 +20,15 @@ When the Universal Interface Module is connected as the furthest BUS device on a
 
 
 
-**Jumper On**
+**Jumper On:** The jumper link is inserted, connecting the two pins
 
-The jumper link is inserted, connecting the two pins
-
-
-
-<figure><img src=".gitbook/assets/2025-02-27 14_53_55-UIM-1-BUS_20230804.pdf - Foxit PDF Reader.png" alt=""><figcaption></figcaption></figure>
-
-&#x20;**Jumper Off**
-
-The jumper link is removed or “parked” on one pin.2
-
-
-
-<figure><img src=".gitbook/assets/2025-02-27 14_54_25-UIM-1-BUS_20230804.pdf - Foxit PDF Reader.png" alt=""><figcaption></figcaption></figure>
+&#x20;**Jumper Off:** The jumper link is removed or “parked” on one pin.2 &#x20;
 
 \- If the jumper is ON, the communication ability will be enhanced.
 
 **-**&#x49;f the jumper is OFF, the communication ability is in normal level.
 
-**3. 5-wire Connector**
+**3.   5-wire Connector**
 
 | Wire Color | Function     | Power Supply / Signal                                                            |
 | ---------- | ------------ | -------------------------------------------------------------------------------- |
@@ -64,21 +54,23 @@ The jumper link is removed or “parked” on one pin.2
 
 \- Press the Test Button to enter test mode for 3 minutes.
 
-**Features**
+## **Features**
 
-&#x20;**Power Supply**
+### &#x20;**Power Supply**
 
 &#x20;UIM-1-BUS is powered by the Hybrid Panel through the BUS Terminal, and can provide 6.2V-13.5V, amaximum of 200mA power to the connected detector.
 
-&#x20;**Signal Transmission**
+### &#x20;**Signal Transmission**
 
 UIM-1-BUS has 3 inputs that can receive alarm signals (orange wire), tamper signals (yellow wire) and fault/masking signals (brown wire) from the connected detector and report them to the Panel over BUS.
 
+{% hint style="danger" %}
 **Caution**
 
 Wiring of the module should only be performed by certified technicians with proper knowledge and training in electric equipment.
 
 &#x20;Before installation or any maintenance work, make sure the power supply has been disconnected. **Wiring the Universal Interface Module**
+{% endhint %}
 
 Connect the wires to the desired detector according to FIG. 1 below.
 
@@ -103,6 +95,10 @@ Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal
 
 Incorrect connections will result in failure or malfunction. Inspect wiring and ensure proper connections before applying the power.
 
-\<NOTE>
+{% hint style="warning" %}
+Note:
 
-&#x20;When re-installing the BUS terminal, make sure to install the blocks in the same way and direction as the picture below to avoid potential hazards.\
+&#x20;When re-installing the BUS terminal, make sure to install the blocks in the same way and direction as the picture below to avoid potential hazards.
+{% endhint %}
+
+\
