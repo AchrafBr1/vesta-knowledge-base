@@ -14,7 +14,7 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Valve Cap**
 2. **LCD Display**
@@ -59,7 +59,7 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
     The Radiator Valve is powered by two 1.5V AA alkaline batteries.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 

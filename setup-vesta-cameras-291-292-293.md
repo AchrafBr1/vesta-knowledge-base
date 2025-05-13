@@ -31,7 +31,7 @@ We will show how to add the camera Vesta-292, but the steps to add the camera Ve
 
 ## Camera 292
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### STEP 1:  Plug the power cable&#x20;
 

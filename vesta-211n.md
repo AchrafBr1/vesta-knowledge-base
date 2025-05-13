@@ -176,7 +176,7 @@ The PIR camera supports remote setting of pet Immunity and sensitivity.
 
 Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity and set Sensitivity level to high, you can input 02.
 
-<figure><img src=".gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) Press the function button once on the PIR Camera to send a signal to the Control Panel, new settings will be applied immediately. If the button is not pressed, new settings will be applied upon next signal transmission, e.g., transmission of the supervision signal or IR trigger signal.
 
@@ -192,7 +192,7 @@ Please refer to the table below for configuration details. For example, if you w
 * When a masking event is detected, and the masking condition lasts for 3 minutes, VST-892 will send a masking alarm signal to the Control Panel to notify user of the masking condition.
 * After masking/blocking is removed for 3 minutes, VST-892 will send restore signal to the Control Panel.
 
-<figure><img src=".gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Installation**
 
@@ -215,9 +215,9 @@ Please refer to the table below for configuration details. For example, if you w
 
 **Limitations**
 
-<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Mounting the PIR Camera
 
@@ -236,7 +236,7 @@ bracket when the PIR Camera is mounted with the mounting bracket.
 
 * For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, the VST-892 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.
 
-<figure><img src=".gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface mounting without the mounting bracket:**
 

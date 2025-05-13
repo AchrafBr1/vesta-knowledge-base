@@ -235,7 +235,7 @@ When the screw on the side of the rotating holder is loose, the VST-892EXC can b
 
 Step 6. PIR lens A / B should be installed vertically; PIR lens C is installed horizontally. Different applications and installation methods are shown in the table and figures below.
 
-<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Installation Recommendations**_
 
@@ -250,16 +250,16 @@ Step 6. PIR lens A / B should be installed vertically; PIR lens C is installed h
 
 **Lens A: Vertical Curtain (pet immune)**
 
-<figure><img src=".gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Users can slightly tilt the PIR Camera to reduce blind spot.
 * Lens B for vertical curtain detection does not have Pet immune function.
 
-<figure><img src=".gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (75).png" alt="" width="375"><figcaption><p>Vertical Curtain Detection Range</p></figcaption></figure>
 
