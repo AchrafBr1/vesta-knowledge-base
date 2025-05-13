@@ -1,8 +1,8 @@
 # VESTA-429
 
-### PLUG & PLAY WITH VESTA
+## VESTA wired detectors
 
-
+#### PLUG & PLAY WITH VESTA
 
 {% hint style="success" %}
 Wiring guide with VESTA HYBRID PANEL:&#x20;
