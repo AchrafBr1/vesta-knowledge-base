@@ -43,7 +43,9 @@ c. 4 x 1.5V D alkaline cells (pre-inserted)
 
 ## **Power Supply**
 
-The Bellbox can be powered by a 9V, 1A power adapter or it can be battery-powered. Switch the power switch to the appropriate terminal. **Battery and AC Power:**
+The Bellbox can be powered by a 9V, 1A power adapter or it can be battery-powered. Switch the power switch to the appropriate terminal.&#x20;
+
+**Battery and AC Power:**
 
 When Power Switch is set to BT4 position, the Bellbox will use AC power if AC connection is available, and switch to battery power automatically if no AC power is detected.
 
