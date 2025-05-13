@@ -1,6 +1,8 @@
-# VESTA 384
+# VESTA-384
 
-![](<.gitbook/assets/0 (125).jpeg>)**Wired Smoke Detector (SD-32-BUS)**
+**SD-32-BUS**
+
+## **Wired Smoke Detector**
 
 **Introduction**
 
@@ -8,7 +10,7 @@ SD-32-BUS is a wired smoke detector designed to protect you against potential fi
 
 The wired smoke detector can also be interconnected with other smoke detectors in the alarm system, and raises alarm when any smoke detector in the system is triggered.
 
-**Parts Identification**
+## **Parts Identification**
 
 ![](<.gitbook/assets/1 (96).png>)
 
@@ -29,53 +31,39 @@ The wired smoke detector can also be interconnected with other smoke detectors i
 
 **Test Button**
 
-*
-  * Press the button once to:
-    * Send a test signal.
-    * Check smoke detection chamber.
-    * Silence alarm when the Smoke Detector is alarming.
-  * Press and hold the button for 10 seconds to enter calibration process.
+* Press the button once to:
+  * Send a test signal.
+  * Check smoke detection chamber.
+  * Silence alarm when the Smoke Detector is alarming.
+* Press and hold the button for 10 seconds to enter calibration process.
 
-1. **Buzzer**
-2. **BUS Terminal Compartment**
-3. **Hooks**
-4. **Pre-punched Hole for Wiring**
-5. **Fixing Screw of BUS Terminal Comapartment Cover**
-6. **BUS Terminal**
-7. **Terminal Resistor Jumper Switch**
+2. **Buzzer**
+3. **BUS Terminal Compartment**
+4. **Hooks**
+5. **Pre-punched Hole for Wiring**
+6. **Fixing Screw of BUS Terminal Comapartment Cover**
+7. **BUS Terminal**
+8. **Terminal Resistor Jumper Switch**
 
 When the Smoke Detector is connected as the furthest BUS device on a BUS line, please set the Smoke Detector 's terminal resistor jumper and the first BUS device’s (usually the Hybrid Panel’s) Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-![](<.gitbook/assets/2 (88).jpeg>)
+* If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
+* If the jumper is ON, the the communication ability will be enhanced.
 
-*
-  *
-    * If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
-  * If the jumper is ON, the the communication ability will be enhanced.
+9. **Mounting Bracket**
+10. **Mounting Holes**
+11. **Mounting Sheet**
 
-1. **Mounting Bracket**
-2. **Mounting Holes**
-3. **Mounting Sheet**
-
-![](<.gitbook/assets/3 (88).jpeg>)
-
-1
-
-**Features**
-
-![](<.gitbook/assets/4 (107).png>)
+## **Features**
 
 * _**Power Supply**_
   * When SD-32-BUS is hardwired to a Hybrid Panel, 13.5V power supply can be provided by the Hybrid Panel.
 * _**Testing the Smoke Detector**_
 
-![](<.gitbook/assets/5 (111).png>)
-
 By pressing the Test Button on the Smoke Detector, you can test if the Smoke Detector is functioning normally.
 
-*
-  * If the Smoke Detector functions normally, the Red LED will be on for 2 seconds followed by a 2-tone beep.
-  * If the buzzer sounds 2-tone beeps 3 times, the “**Optical Chamber**” on the Smoke Detector is either dirty or out-of-order.
+* If the Smoke Detector functions normally, the Red LED will be on for 2 seconds followed by a 2-tone beep.
+* If the buzzer sounds 2-tone beeps 3 times, the “**Optical Chamber**” on the Smoke Detector is either dirty or out-of-order.
 * _**Dust Accumulation Detection**_
   * The detector regularly checks for excessive dust buildup inside the Optical Chamber.
   * If the chamber accumulates must dust, the detector will report to the Panel to notify the user to clean it.
@@ -85,16 +73,13 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
   * If the Control Panel has not received the signal from the Wired Smoke Detector for a preset period time, the Control Panel will indicate that the particular Smoke Detector is experiencing an out-of-signal problem.
 * _**Alarm Activation**_
 
-![](<.gitbook/assets/6 (91).png>) ![](<.gitbook/assets/7 (81).png>) ![](<.gitbook/assets/8 (80).png>)
-
 The Smoke Detector will activate fire alarm when smoke detection is triggered. When an alarm is activated, the Smoke Detector will transmit alarm signal and raise alarm with its built-in buzzer.
 
-**Smoke Detection:**
+#### **Smoke Detection:**
 
-*
-  * The Smoke Detector checks smoke concentration every 8 seconds
-  * The alarm is activated whenever the smoke concentration exceeds the detection threshold, and will continue until the smoke concentration drops below alarm threshold.
-  * The Red LED will flash quickly during alarm.
+* The Smoke Detector checks smoke concentration every 8 seconds
+* The alarm is activated whenever the smoke concentration exceeds the detection threshold, and will continue until the smoke concentration drops below alarm threshold.
+* The Red LED will flash quickly during alarm.
 * _**Alarm Silence**_
   * When the Smoke Detector is alarming, pressing the Test button will put the Smoke Detector into Alarm Silence mode to silence the alarm for 9 minutes. The buzzer will only stop sounding after the alarm has been activated for at least 1-minute. If the button is pressed before alarm time reaches 1 minute, the Smoke Detector will wait until alarm time has reach 1 minute before silencing the alarm.
   * During the 9-minute Alarm Silence period, the Red LED will flash once per second. The Smoke Detector will continue to monitor smoke concentration during the alarm silence period:
@@ -105,35 +90,34 @@ The Smoke Detector will activate fire alarm when smoke detection is triggered. W
   * The Smoke Detector is interconnected with other Smoke Detectors in the alarm system. When a Smoke Detector activates alarm, the Control Panel will notify other Smoke Detectors to also raise alarm even if they have not detected smoke yet. The alarm length will be in accordance with the Control Panel’s setting.
   * Disarming the system will stop alarm of other Smoke Detectors activated by the Control Panel. The alarm triggered by the Smoke Detector that detects smoke will only stop when the smoke concentration drops below alarm threshold.
   * Pressing the Test button of a smoke detector will only silence alarm of that specific smoke detector, but cannot silence alarm of all interconnected Smoke detectors.
-* _**Caution**_
-  * Wiring of the Smoke Detector should only be performed by certified technicians with proper knowledge and training in electric equipment.
-  * Before installation or any maintenance work, make sure the power supply has been disconnected.
+
+{% hint style="danger" %}
+_**Caution**_
+
+* Wiring of the Smoke Detector should only be performed by certified technicians with proper knowledge and training in electric equipment.
+* Before installation or any maintenance work, make sure the power supply has been disconnected.
+{% endhint %}
+
 * _**Smoke Detector Wiring**_
   * Before connecting the Wired Smoke Detector to the system BUS, please switch the power off.
   * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/9 (81).png>) ![](<.gitbook/assets/10 (31).jpeg>) ![](<.gitbook/assets/11 (61).png>) ![](<.gitbook/assets/12 (63).png>) ![](<.gitbook/assets/13 (41).jpeg>)
-
-| **Red**    | VDD  |
-| ---------- | ---- |
-| **Black**  | GND  |
-| **Yellow** | 485A |
-| **Green**  | 485B |
+![](<.gitbook/assets/13 (41).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
-_\<NOTE>_
+{% hint style="warning" %}
+Note:
 
-2
+* The pluggable design of BUS terminal blocks improves upon installation efficiency. Before wiring, you can remove the terminal blocks from the PCB board for ease of use, and plug in again after wiring.
+* After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
+{% endhint %}
 
-*
-  * The pluggable design of BUS terminal blocks improves upon installation efficiency. Before wiring, you can remove the terminal blocks from the PCB board for ease of use, and plug in again after wiring.
-  * After unplugging the terminal, when re-installing the terminal back to the board, make sure to install the terminal in the same direction to avoid potential hazards.
 * Incorrect connections will result in failure or malfunction. Inspect wiring and ensure proper connections before applying power.
 
 ![](<.gitbook/assets/14 (54).png>)
 
-* _**Getting Started**_
+## _**Getting Started**_
 
 **Step 1** Connect the detector to the Panel. Then, power the Panel on, the Smoke Detector will be powered on as well.
 
@@ -141,11 +125,13 @@ _\<NOTE>_
 
 **Step 3.** When the Smoke Detector completes warm-up, it will emit a beep to indicate it has entered **calibration mode**. The calibration mode lasts for **1 minute** (If calibration fails, the smoke detector will retry calibration, calibration mode will last 9 minutes at most). The Red LED will continue to flash every two seconds during calibration.
 
-**Step 4.** When calibration is completed, the Smoke Detector will emit 2 short beeps and turn off LED to return to normal mode. _\<NOTE>_
+**Step 4.** When calibration is completed, the Smoke Detector will emit 2 short beeps and turn off LED to return to normal mode.&#x20;
 
-![](<.gitbook/assets/15 (52).png>)
+{% hint style="warning" %}
+Note:
 
-* If calibration fails, the Smoke Detector will beep continuously. Please power off the smoke detector, and then re-power on to retry from step 1.
+If calibration fails, the Smoke Detector will beep continuously. Please power off the smoke detector, and then re-power on to retry from step 1.
+{% endhint %}
 
 After warm up and calibration process are successfully completed, you can proceed to learning.
 
@@ -155,9 +141,7 @@ After warm up and calibration process are successfully completed, you can procee
 
 **Step 7.** Click “**Add**” to include the detected smoke detector to Control Panel.
 
-![](<.gitbook/assets/16 (57).png>)
-
-* _**Identification**_
+### _**Identification**_
 
 The “Identify” function is used to localize a specific BUS device in the BUS wired system. This function is helpful in distinguishing which device is which especially in a large installation where numerous BUS devices are included.
 
@@ -167,29 +151,24 @@ To locate the Wired Smoke Detector in the BUS system:
 
 **Step 2.** If the Wired Smoke Detector receives the signal from the Hybrid Panel, the webpage will display a success message and the Wired Smoke Detector’s Red LED indicator will flash 10 times to indicate where it is to the user.
 
-![](<.gitbook/assets/17 (44).png>)
+{% hint style="warning" %}
+Note:
 
-_\<NOTE>_
+If a timeout message is displayed on the webpage, it means the Wired Smoke Detector did not receive the signal from the Panel. Please check whether SD-32-BUS is connected properly to the Panel within appropriate wiring distance.
+{% endhint %}
 
-*
-  *
-    * If a timeout message is displayed on the webpage, it means the Wired Smoke Detector did not receive the signal from the Panel. Please check whether SD-32-BUS is connected properly to the Panel within appropriate wiring distance.
-* _**Walk Test**_
-  * To make sure the Wired Smoke Detector is able to communicate with the Panel after it is learned-in, place the Control Panel in Walk Test mode and press the Test button on SD-32-BUS to transmit a test signal to the Control Panel.
-  * When the Panel receives the test signal, it will beep once and display the Wired Smoke Detector’s information accordingly on the top of the device list.
+### _**Walk Test**_
 
-![](<.gitbook/assets/18 (52).png>) ![](<.gitbook/assets/19 (51).png>)
+* To make sure the Wired Smoke Detector is able to communicate with the Panel after it is learned-in, place the Control Panel in Walk Test mode and press the Test button on SD-32-BUS to transmit a test signal to the Control Panel.
+* When the Panel receives the test signal, it will beep once and display the Wired Smoke Detector’s information accordingly on the top of the device list.
 
-_\<NOTE>_
+{% hint style="info" %}
+Note:
 
-*
-  * If there is no response from the Panel after the press of test button, it means the Panel did not receive the test signal from the device.
+If there is no response from the Panel after the press of test button, it means the Panel did not receive the test signal from the device. Please check whether the Smoke Detector is connected properly to the Panel within appropriate wiring distance.
+{% endhint %}
 
-Please check whether the Smoke Detector is connected properly to the Panel within appropriate wiring distance.
-
-* _**Recalibration**_
-
-![](<.gitbook/assets/20 (39).png>)
+### _**Recalibration**_
 
 As the operation condition of the Smoke Detector may vary after being installed for some time, you may wish to recalibrate the Smoke 3
 
@@ -200,7 +179,7 @@ Detector to take a new smoke detection threshold value and ensure optimal perfor
 * When calibration is finished, the Smoke Detector will sound a two-tone beep. The Red LED will stop flashing to indicate it has returned to normal mode.
 * If calibration fails, the Smoke Detector will beep continuously, and the Orange LED will flash every second. Please power off the smoke detector, and then re-power on to restart Smoke Detector.
 
-**Maintenance & Cleaning**
+## **Maintenance & Cleaning**
 
 Regular maintenance and cleaning will help keep your Smoke Detector in good working order.
 
@@ -212,29 +191,24 @@ Regular maintenance and cleaning will help keep your Smoke Detector in good work
 * Avoid spraying air freshener, hair spray, or other aerosols near the Smoke Detector.
 * Do not paint nor modify the detector under any circumstances.
 
-**Expiration**
+## **Expiration**
 
 The Smoke Detector has a maximum life time of **10 years** from the date of installation. You should replace the Smoke Detector immediately after 10 years of service.
 
 It is recommended to write the “Replace by” date (10 years from installation date) on the back of the detector prior to installation.
 
-**Installation**
+## **Installation**
 
- _**Installation Guideline**_
+### _**Installation Guideline**_
 
- It is recommended that the installation site be in the center area of the ceiling.
-
- Do not locate the detector in the following locations:
-
- The Kitchen – Smoke from cooking might cause an unwanted alarm.
-
- Near a ventilating fan, florescent lamp or air-conditioning equipment – air drafts from them may affect the sensitivity of the detector.
-
+* It is recommended that the installation site be in the center area of the ceiling.
+* Do not locate the detector in the following locations:
+* The Kitchen – Smoke from cooking might cause an unwanted alarm.
+* Near a ventilating fan, florescent lamp or air-conditioning equipment – air drafts from them may affect the sensitivity of the detector.
 * Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the detector.
+* In the peak of an “**A**” frame type of ceiling.
 
- In the peak of an “**A**” frame type of ceiling.
-
-* _**Mounting the Smoke Detector**_
+### _**Mounting the Smoke Detector**_
 
 **Step 1.** Place the Smoke Detector at desired mounting location.
 
@@ -248,8 +222,12 @@ Ensure the wall plugs are flush with the mounting surface.
 
 **Step 5.** The Smoke Detector has 4 hooks on its back cover. Hold the Smoke Detector with extra care and align the 4 notches on the mounting bracket with the 4 hooks.
 
+<figure><img src=".gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
+
 **Step 6.** Rotate clockwise to lock the hook.
 
-**Step 7.** Installation is now complete. You can now tear off the mounting sheet.
+<figure><img src=".gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
-4
+<figure><img src=".gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+
+**Step 7.** Installation is now complete. You can now tear off the mounting sheet.
