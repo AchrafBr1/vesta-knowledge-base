@@ -77,21 +77,21 @@ The jumper link is inserted, connecting the two pins. The jumper link is removed
 
 ## _**Operation**_
 
-## **Door Opening Detection**
+### **Door Opening Detection**
 
 * **Door Opening** is detected by the detector’s built-in reed switch and the magnet.
 * The detector is usually fixed to the monitored door/window frame with the magnet fixed to the door/window. When the door or window opens/closes, the magnet moves away / approaches, and the reed switch changes the state of the contacts, causing the detector to transmit a door open / closing signal to the Panel.
 * Besides the built-in magnet switch, an additional 2-pin dry contact terminal is provided for an extensionmagnet switch or any device with N.C. (Normally Closed) or N.O. (Normally Open) functionality.
 * The extension terminal and the internal magnetic switch can function together to trigger the Door Contact when either of them is activated, you can also choose to disable the internal magnetic switch through JP1 Jumper setting. If both extension terminal and internal magnetic switch are in use and any of them is triggered (opened), the Door Contact will only send Door Contact a close (restore) signal when both of them are closed.
 
-## **Shock Detection**
+### **Shock Detection**
 
 * The device is triggered by shock detection that exceeds the detection threshold.
 * **Materials of Mounting Surface:** The device supports shock detection on various materials including glass, wood, metal, and concrete. After installation, you can select the material of the mounting surface on the Control Panel. The default is set to **Wood**.
 * **Sensitivity:** The shock sensor sensitivity is programmable from the Control Panel. Three sensitivity levels are selectable: **Low**, **Medium (Default)**, and **High**.
 * Please refer to the following section _**Set the Material & Sensitivity Level for Shock Sensor**_ for further details.
 
-## **Tilt Detection**
+### **Tilt Detection**
 
 * The tilt sensor detects vertical axis deviation of a device. If the device tilts beyond the programmed alarm threshold, it will be triggered.
 * **Tilt angle for alarm triggering:** The tilt sensor’s active trigger threshold is programmable from the
@@ -146,11 +146,11 @@ Please follow the steps below to learn the device into the Panel.
 
 **Step 6.** If the devices are successfully learnt into the Panel, they will be displayed in the “**Learned Device**” section.
 
-### _**Set the Material & Sensitivity Level for Shock Sensor:**_
+## _**Set the Material & Sensitivity Level for Shock Sensor:**_
 
 After the device is learnt into the Control Panel, the user can edit the device configuration. The default setting of Shock sensor is wood / medium.
 
-**For HPGW/HSGW**
+### **For HPGW/HSGW**
 
 **Step 1.** After DCSV-32 is learned into the Control Panel, press the Test Button on DCSV-32 once.
 
@@ -164,7 +164,7 @@ After the device is learnt into the Control Panel, the user can edit the device 
 
 **Step 4.** Press the Test Button on DCSV-32 to receive Material & Sensitivity Level data from the Control Panel. The LED will first turn off, and then become brighter and then turn dark, indicating that programming command from the Control Panel has been successfully received.
 
-**For BOGP-3**
+### **For BOGP-3**
 
 **Step 1.** After DCSV-32 is learned into the Control Panel, press the Test Button on DCSV-32 once.
 
@@ -174,46 +174,17 @@ After the device is learnt into the Control Panel, the user can edit the device 
 
 **Step 3.** Input the Sensitivity configuration in the **Device Edit** section. Please refer to the table below for configuration details. For example, if you want to set the material and sensitivity level as concrete and low, please input 0800.
 
-|   | **Sensitivity**   |   |   | **Material** |   |        | **Sensitivity** |   |   |
-| - | ----------------- | - | - | ------------ | - | ------ | --------------- | - | - |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   | **Configuration** |   |   |              |   |        |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   | 0800              |   |   | Concrete     |   | Low    |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   | 0801              |   |   | Concrete     |   | Medium |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   | 0802              |   |   | Concrete     |   | High   |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   | 0A00              |   |   | Metal        |   | Low    |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   | 0A01              |   |   | Metal        |   | Medium |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   | 0A02              |   |   | Metal        |   | High   |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   | 0C00              |   |   | Glass        |   | Low    |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
-|   | 0C01              |   |   | Glass        |   | Medium |                 |   |   |
-|   |                   |   |   |              |   |        |                 |   |   |
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-| 0C02 | Glass | High   |
-| ---- | ----- | ------ |
-|      |       |        |
-| 0E00 | Wood  | Low    |
-|      |       |        |
-| 0E01 | Wood  | Medium |
-|      |       |        |
-| 0E02 | Wood  | High   |
-|      |       |        |
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Click “**Submit**” to confirm. Press the Test Button on DCSV-32 to receive Material & Sensitivity Level data from the Control Panel. The LED will first turn off, and then become brighter and then turn dark, indicating that programming command from the Control Panel has been successfully received.
 
-### _**Tilt Sensor Configuration**_
+## _**Tilt Sensor Configuration**_
 
 Once the device is learnt into the Control Panel, the user can edit the device configuration. The default setting of Tilt Sensor is Tilt ≥ 5° for Alarm Trigger Threshold, and 10 secs for Restore Time.”
 
-**For HPGW/HSGW**
+### **For HPGW/HSGW**
 
 **Step 1.** Go to the Tilt Sensor device edit page.
 
@@ -221,34 +192,11 @@ Once the device is learnt into the Control Panel, the user can edit the device c
 
 Please refer to the table below for configuration details. For example, to set the alarm trigger threshold to ≥5° and restore time to 2 seconds, please input 1100.
 
-|   | Parameter 1           |   |                  | Parameter 2         |   |              | Parameter 3 |   |              | Parameter 4 |   |   |
-| - | --------------------- | - | ---------------- | ------------------- | - | ------------ | ----------- | - | ------------ | ----------- | - | - |
-|   |                       |   |                  |                     |   |              |             |   |              |             |   |   |
-|   |                       |   |                  |                     |   |              |             |   |              |             |   |   |
-|   | **Alarm Trigger**     |   |                  |                     |   |              |             |   |              |             |   |   |
-|   |                       |   | **Restore Time** |                     |   | **Reserved** |             |   | **Reserved** |             |   |   |
-|   | **Threshold**         |   |                  |                     |   |              |             |   |              |             |   |   |
-|   |                       |   |                  |                     |   |              |             |   |              |             |   |   |
-| 0 | = disable             |   | 0                | = disable           | 0 |              | 0           |   |              |             |   |   |
-| 1 | = Tilt ≥ 5° (default) |   | 1                | = 2 secs            | 0 |              | 0           |   |              |             |   |   |
-| 2 | = Tilt ≥ 10°          |   | 2                | = 4 secs            | 0 |              | 0           |   |              |             |   |   |
-| 3 | = Tilt ≥ 15°          |   | 3                | = 6 secs            | 0 |              | 0           |   |              |             |   |   |
-| 4 | = Tilt ≥ 20°          |   | 4                | = 8 secs            | 0 |              | 0           |   |              |             |   |   |
-| 5 | = Tilt ≥ 25°          |   | 5                | = 10 secs (default) | 0 |              | 0           |   |              |             |   |   |
-|   |                       |   | 6                | = 12 secs           | 0 |              | 0           |   |              |             |   |   |
-|   |                       |   | 7                | = 14 secs           | 0 |              | 0           |   |              |             |   |   |
-|   |                       |   | 8                | = 16 secs           | 0 |              | 0           |   |              |             |   |   |
-|   |                       |   | 9                | = 18 secs           | 0 |              | 0           |   |              |             |   |   |
-|   |                       |   | A = 20 secs      | 0                   |   | 0            |             |   |              |             |   |   |
-|   |                       |   | B = 22 secs      | 0                   |   | 0            |             |   |              |             |   |   |
-|   |                       |   | C = 24 secs      | 0                   |   | 0            |             |   |              |             |   |   |
-|   |                       |   | D = 26 secs      | 0                   |   | 0            |             |   |              |             |   |   |
-|   |                       |   | E = 28 secs      | 0                   |   | 0            |             |   |              |             |   |   |
-|   |                       |   | F = 30 secs      | 0                   |   | 0            |             |   |              |             |   |   |
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Press the Test Button of DCSV-32 to receive Tilt Sensor configuration from the Control Panel. The LED will first turn off, and then become brighter and turn dark, indicating that programming command from the Control Panel has been successfully received.
 
-**For BOGP-3**
+### **For BOGP-3**
 
 **Step 1.** After DCSV-32 is learned into the Control Panel, press the Test Button on DCSV-32 once.
 
@@ -256,11 +204,15 @@ Please refer to the table below for configuration details. For example, to set t
 
 the **Tilt Sensor** row.
 
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 **Step 3.** Input the Sensitivity configuration in the **Device Edit** section. For configuration details, please refer to the table mentioned in **Step 2** of the **HPGW/HSGW** Section in the Tilt Sensor Configuration. For example, to set the alarm trigger threshold to ≥5° and restore time to 2 seconds, please input 1100.
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Click “**Submit**” to confirm. Press the Test Button of DCSV-32 to receive Tilt Sensor configuration from the Control Panel. The LED will first turn off, and then become brighter and turn dark, indicating that programming command from the Control Panel has been successfully received.
 
-### _**Walk Test**_
+## _**Walk Test**_
 
 * After the device is learned-in, place the Control Panel into (Walk Test) mode, hold the device in the desired location, and press the Test Button to transmit a test signal to Control Panel. If the Control Panel is within device signal range, the panel will display Door Contact / Shock Sensor / Tilt sensor information accordingly.
 * Proceed with mounting and installation once you are satisfied that the device functions properly in the desired location.
@@ -275,40 +227,36 @@ the **Tilt Sensor** row.
 * The distance between Door Contact and the magnet should be no more than 15 mm when the door is closed.
 * Mount the device as high as possible.
 
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 #### **Mounting as a Shock Sensor:**
 
 Refer to the table below for information about installation location and the thickness of different materials:
 
-|                           | Glass Window | Wood/Metal Door | Concrete Wall |   |
-| ------------------------- | ------------ | --------------- | ------------- | - |
-|                           |              |                 |               |   |
-| **Thickness**             | >5mm         | <40mm           | -             |   |
-|                           |              |                 |               |   |
-| **Installation Location** | Window Frame | Door            | Wall          |   |
-|                           |              |                 |               |   |
-|                           | 7            |                 |               |   |
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-|                        | **Low Sensitivity**  | 0.5M | 0.5M | 0.25M |   |
-| ---------------------- | -------------------- | ---- | ---- | ----- | - |
-| **Shock Detection**    |                      |      |      |       |   |
-| **Medium Sensitivity** | 1M                   | 1M   | 0.5M |       |   |
-| **Radius**             |                      |      |      |       |   |
-|                        |                      |      |      |       |   |
-|                        | **High Sensitivity** | 1.5M | 2M   | 1M    |   |
-|                        |                      |      |      |       |   |
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Mounting as a Tilt Sensor:**
 
 * The tilt sensor detects vertical deviation relative to the initial position exceeding the programmed activation threshold (≥5°, ≥10°, ≥15°, ≥20°, ≥25°).
 * The tilt sensor can be installed on windows or skylights, and the device should be mounted either vertically or horizontally with respect to the ground (within ±5°).
+
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 * _**Mounting Procedure**_
   1. Use the 2 mounting holes on the back cover as a template and drill holes into the surface to be mounted.
   2. Insert the provided wall plugs when the device is to be mounted on window frames / concrete wall.
   3. Screw the detector onto the wall plugs. (Drilling is recommended when mounting on steel, or you can also use the provided sticker in the package).
   4. Fit the magnet on the door using a small piece of double-sided adhesive tape or the provided screws.
   5. To mount the magnet, use the 2 magnet screw holes as a template for hole positioning and drilling.
-     * _NOTE >_
-       * The magnet must align with the rib-mark side of the Door Contact. If required, apply the magnet spacer to the back of the magnet to better align the magnet to the rib marks.
-  6. Screw the magnet and insert the two white caps into the magnet screw holes for aesthetic integrity.
-  7. Installation is now complete.
+
+{% hint style="warning" %}
+Note:
+
+The magnet must align with the rib-mark side of the Door Contact. If required, apply the magnet spacer to the back of the magnet to better align the magnet to the rib marks.
+{% endhint %}
+
+6. Screw the magnet and insert the two white caps into the magnet screw holes for aesthetic integrity.
+7. Installation is now complete.
 

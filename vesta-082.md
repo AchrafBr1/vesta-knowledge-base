@@ -28,13 +28,13 @@ Press the Test button to transmit learning code or enter test mode for 3 minutes
 
 **Jumper On**
 
-<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is inserted connecting the two pins
 
 **Jumper Off**
 
-<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or **“parked”** on one pin.
 
@@ -47,13 +47,13 @@ The jumper link is removed or **“parked”** on one pin.
 
 **Jumper On**
 
-<div align="left"><figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is inserted connecting the two pins
 
 **Jumper Off**
 
-<div align="left"><figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or **“parked”** on one pin.
 
@@ -64,13 +64,13 @@ The jumper link is removed or **“parked”** on one pin.
 
 **Jumper On**
 
-<div align="left"><figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-<div align="left"><figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -79,7 +79,7 @@ The jumper link is removed or “**parked**” on one pin.
 
 **7.Door Open Direction Jumper Switch (JP5)**
 
-<div align="left"><figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Jumper On**
 
@@ -87,7 +87,7 @@ The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-<div align="left"><figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or “**parked**” on one pin.
 

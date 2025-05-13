@@ -6,7 +6,7 @@ icon: lightbulb-exclamation-on
 
 ## Manual for Integrating RAYTEC Lights with VESTA Panels
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://bydemes.com/es/marcas/raytec">RAYTEC</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://bydemes.com/es/marcas/raytec">RAYTEC</a></p></figcaption></figure>
 
 This manual explains how to integrate RAYTEC lights with VESTA security panels using HTTP GET commands. These commands can be configured in scenes and automatic rules of the VESTA panels via the **SmartHomeSec** platform. Below are detailed examples for turning off, turning on, and making a RAYTEC light blink.
 
