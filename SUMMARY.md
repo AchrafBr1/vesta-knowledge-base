@@ -228,6 +228,10 @@
 * [VESTA-429](certificates/vesta-429.md)
 * [VESTA-421  / VESTA-336 / VESTA-384](certificates/vesta-421-vesta-336-vesta-384.md)
 
+***
+
+* [DECLARATION OF COMPLIANCE PD6662](declaration-of-compliance-pd6662.md)
+
 ## 🧩 THIRD PARTIES
 
 * [Integration Guide for DAHUA VTH Monitors with VESTA](integration-guide-for-dahua-vth-monitors-with-vesta.md)
