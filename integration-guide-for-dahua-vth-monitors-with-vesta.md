@@ -35,9 +35,21 @@ This is an integration guide for VTH monitors (models VTH5321GW-W, VTH5321GB-W, 
 
 ### Before You Start
 
-Before beginning the integration, you must update the VTH to include the integration package:\
+Before beginning the integration, you must update the VTH to include the integration package:
+
+**VERSION 1.0 (**<mark style="color:red;">Deprecated</mark>**)**\
 **Customer\_VTH53X1\_MultiLang\_SIP\_V4.400.00BY000.0.R.20241203.bin**\
 [Download the update](https://drive.google.com/file/d/1ZrdeRizv-VHpTvorulqKDoywTdrPXQCa/view?usp=drive_link)
+
+
+
+**VERSION 2.0** (<mark style="color:green;">NEW</mark>)
+
+Customer\_VTH53X1\_MultiLang\_SIP\_V4.400.00BY000.0.T.20250327.zip
+
+[Download the update](https://drive.google.com/file/d/1f4012VX1Ealt-zi62zF4abYr2YLzi9ug/view)
+
+
 
 ### **Adding VESTA to VTH**&#x20;
 
