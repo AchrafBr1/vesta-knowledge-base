@@ -1,10 +1,12 @@
-# VESTA-424
+# VESTA 424
 
-**TWO-WAY VOICE REMOTE KEYPAD with NFC Tag (KPT-41N-SFV)**
+**KPT-41N-SFV**
+
+## **TWO-WAY VOICE REMOTE KEYPAD with NFC Tag**
 
 ![](<.gitbook/assets/1 (111).png>)
 
-* _**Identifying the Parts**_
+## _**Identifying the Parts**_
 
 1. **Siren**
 2. **Speaker**
@@ -21,29 +23,28 @@
     * Press both 4 and 6 to trigger fire alarm
 11. **Medical Alarm (if enabled)**
     * Press both 7 and 9 to trigger Medical alarm
+12. **Service Call**
+    * Press both 7 and 8 for Service Report
+    * During the service call communicaiton, press and hold both 7 and 8 keys for 5 seconds to end the call. Then the Two-Way Voice Remote Keypad will emit one beep to indicate.
+13. **\* Key**
+    * In Stand-by mode, press \* Key to enter Test and Programming Mode.
+    * Enter Keypad PIN Code + \* Key to adjust the volume (Low/Medium/High). The volume is Low by default.
+14. **# Key**
+    * In Stand-by mode, press **#** Key to check current system mode, the corresponding LED will light up.
+15. **Battery Compartment**
+16. **Tamper Switch**
+17. **Mounting Holes**
+18. **NFC Tag**
 
-1
+{% hint style="warning" %}
+Note:
 
-1. **Service Call**
-   * Press both 7 and 8 for Service Report
-   * During the service call communicaiton, press and hold both 7 and 8 keys for 5 seconds to end the call. Then the Two-Way Voice Remote Keypad will emit one beep to indicate.
-2. ** Key**
-   * In Stand-by mode, press  Key to enter Test and Programming Mode.
-   * Enter Keypad PIN Code +  Key to adjust the volume (Low/Medium/High). The volume is Low by default.
-3. **# Key**
-   * In Stand-by mode, press **#** Key to check current system mode, the corresponding LED will light up.
-4. **Battery Compartment**
-5. **Tamper Switch**
-6. **Mounting Holes**
-7. **NFC Tag**
+* A short beep will sound along with key pressing to indicate that the button pressed is valid.
+* A long beep will sound along with key pressing to indicate successful command.
+* 4 continuous beeps will sound indicating mistake and the user should repeat the process again.
+* Backlight will be ON for any key pressed, or command sent from the Keypad. When the system is in Disarm Mode, the backlight will also light up by pressing the \* key.
+{% endhint %}
 
-_\<NOTE>_
-
-*
-  * A short beep will sound along with key pressing to indicate that the button pressed is valid.
-  * A long beep will sound along with key pressing to indicate successful command.
-  * 4 continuous beeps will sound indicating mistake and the user should repeat the process again.
-  * Backlight will be ON for any key pressed, or command sent from the Keypad. When the system is in Disarm Mode, the backlight will also light up by pressing the  key.
 * _**LED Indicator**_
 
  **Red LED (Away Arm Key)**
