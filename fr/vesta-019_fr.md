@@ -16,7 +16,7 @@ Le détecteur d'ouverture de la série DC-23 est décliné en 2 modèles:\
 
 ![](<.gitbook/assets/0 (3) (1).jpeg>)
 
-### <mark style="background-color:yellow;">Identification</mark>
+### _<mark style="background-color:yellow;">Identification</mark>_
 
 1. **Voyant LED/Bouton Test**\
    Appuyez sur le bouton Test pour transmettre le code d'apprentissage ou passer en mode test pendant 3 min.
@@ -46,7 +46,7 @@ Le détecteur d'ouverture de la série DC-23 est décliné en 2 modèles:\
 
 ### _<mark style="background-color:yellow;">Caractéristiques</mark>_
 
-#### _<mark style="background-color:green;">**- Indicateur LED**</mark>_
+#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
 
 En mode normal, le voyant LED ne s'allumera pas sauf dans les situations suivantes:
 
@@ -64,7 +64,7 @@ Pour connecter un appareil au bornier d'extension&#x20;
 
 * **Pour le modèle DC-23 :**
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="133"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="133"><figcaption></figcaption></figure>
 
 1. Ouvrez le couvercle du détecteur d'ouverture à l'aide d'un tournevis pour desserrer la vis de fixation située en bas (voir l'image ci-dessus en vue de dessus).
 2. L'extrémité supérieure du boîtier présente une découpe. Percez cette ouverture pour créer un passage  de câble vers le bornier d'extension.
@@ -72,7 +72,7 @@ Pour connecter un appareil au bornier d'extension&#x20;
 
 * **Pour le modèle DC-23-R3 :**
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="179"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
 
 1. Utilisez votre pouce pour appuyer sur le loquet, tout en appuyant dessus, retirez le couvercle de la base du détecteur d'ouverture (voir l'image ci-dessus en vue de dessus).
 2. L'extrémité supérieure du boîtier présente une découpe. Percez cette ouverture pour créer un passage  de câble vers le bornier d'extension.
@@ -104,7 +104,7 @@ Le bornier d'extension peut être utile dans la situation suivante:
 * Lorsqu'elle est activée, le détecteur d'ouverture transmettra automatiquement des signaux de supervision périodiquement vers la centrale à des intervalles aléatoires de 30 à 50 minutes.
 * Si la centrale n'a pas reçu le signal du détecteur d'ouverture pendant une période prédéfinie, elle indiquera que ce périphérique rencontre un problème de perte de signal.
 
-#### _<mark style="background-color:green;">**- Mode d'essai**</mark>_
+#### _<mark style="background-color:green;">**- Mode test**</mark>_
 
 * En mode normal, appuyez sur le bouton Test pour transmettre un signal de test et un code d'apprentissage à la centrale. Le détecteur d'ouverture entrera également en mode test pendant 3 minutes.
 * En mode test, la LED s'allumera chaque fois que le détecteur sera activé.
@@ -131,7 +131,7 @@ Le bornier d'extension peut être utile dans la situation suivante:
   * Évitez d'installer le détecteur d'ouverture sur une surface métallique. En cas d'installation sur une surface métallique, assurez-vous de tester si le détecteur d'ouverture peut être déclenché lorsque la porte est ouverte.
   * Installez le détecteur d'ouverture aussi haut que possible.
 
-#### _<mark style="background-color:green;">**- Montage du contact de porte**</mark>_
+#### _<mark style="background-color:green;">**- Montage du détecteur d'ouverture**</mark>_
 
 1. Trouvez un emplacement approprié à proximité de votre porte/fenêtre pour installer le détecteur d'ouverture.
 2. Le détecteur d'ouverture comporte 2 repères sur un côté (voir image), marquant l'emplacement de l'ILS. Le détecteur d'ouverture doit être installé soit verticalement, soit inversé pour garantir que le côté marqué par les repères soit face à l'aimant.

@@ -1,210 +1,164 @@
----
-icon: circle-chevron-right
----
+# VESTA-019N
 
-# VESTA 019N
+**DC-23 / DC-23-R3**
 
-**Manuel d'utilisation du contact de porte (DC-23 / DC-23-R3)**
+## <mark style="color:green;">Détecteur d'ouverture avec extension filaire</mark>
 
-Le contact de porte surveille l'ouverture/fermeture d'appareils spécifiés (par exemple, portes ou fenêtres). Le contact de porte est fixé au cadre de l'appareil surveillé à l'aide d'un aimant d'actionnement fixé sur l'appareil. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du contact de porte, activant un interrupteur magnétique interne, permettant au contact de porte de transmettre des signaux d'alarme au panneau de commande. L'appareil a également la capacité de communiquer les problèmes de signal ainsi que les situations de batterie faible.
+### _<mark style="background-color:yellow;">**Introduction**</mark>_
 
-La conception du contact de porte se compose d’un couvercle et d’une base. Le couvercle contient toute l'électronique et la base fournit un moyen de fixation du contact de porte. Un interrupteur anti-sabotage sur circuit imprimé fourni offre une protection contre l'ouverture et/ou le retrait non autorisé de l'appareil.
+Le détecteur d'ouverture surveille l'ouverture/fermeture d'éléments spécifiques (par exemple porte ou fenêtre). L'électronique est fixée au cadre de l'élément à surveiller tandis que l'aimant est fixé sur la partie mobile. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du détecteur d'ouverture, activant un interrupteur magnétique interne provoquant la transmission par le détecteur d'un signal d'alarme vers la centrale. L'appareil a également la capacité de communiquer les problèmes de transmission ainsi que les situations de batterie faible.
 
-Le contact de porte de la série DC-23 comprend les modèles suivants :
+Le détecteur d'ouverture se compose d'un couvercle et d'une base. L'ensemble contient tous les composants électroniques et la base permet la fixation de l'appareil. Une autoprotection sur le circuit imprimé offre une protection contre l'ouverture/l'arrachement non autorisé de l'appareil.
 
-DC-23 : Le couvercle du contact de porte est fixé par une vis de fixation inférieure.
-
-DC-23-R3 : Le couvercle du contact de porte est sécurisé par deux loquets en haut et en bas.
+Le détecteur d'ouverture de la série DC-23 est décliné en 2 modèles:\
+\- DC-23: Le couvercle du détecteur d'ouverture est fixé par une vis.\
+\- DC-23-R3: Le couvercle du détecteur d'ouverture est fixé par clips
 
 ![](<.gitbook/assets/0 (26).png>)
 
-**Identification des pièces**
+### _<mark style="background-color:yellow;">**Identification**</mark>_
 
-1. **Indicateur LED / Bouton Test**
-
-Appuyez sur le bouton Test pour transmettre un code d'apprentissage ou passer en mode test pendant 3 min.
-
-1. **Trous de montage**
-
-Permet de fixer et visser le Contact de Porte directement sur le cadre de la porte ou sur le mur.
-
-1. **Interrupteur anti-sabotage**
-
-Lorsque le contact de porte est monté, l'interrupteur anti-sabotage sera activé lorsque le couvercle est ouvert ou lorsque le contact de porte est retiré de la surface de montage.
-
-1. **Isolateur de batterie**
-2. **Cavalier de supervision (JP2) (**_**Modèle 868WF uniquement**_**)**
-
-![](<.gitbook/assets/1 (21).jpeg>)
-
-**Cavalier**
-
-![](<.gitbook/assets/2 (20).jpeg>) ![](<.gitbook/assets/3 (19).jpeg>)
-
-Le cavalier est inséré, reliant les deux broches
-
-**Cavalier**
-
-Le lien de cavalier est supprimé ou "**garé**» sur une épingle.
-
-* Cavalier ON : Supervision désactivée
-* Cavalier OFF : Supervision activée\*\*(Défaut de fabrication)\*\*.
-
-**6. Cavalier de commutateur à lames (JP3)**
-
-![](<.gitbook/assets/4 (18).jpeg>)
-
-**Cavalier**
-
-![](<.gitbook/assets/5 (14).jpeg>) ![](<.gitbook/assets/6 (17).jpeg>)
-
-Le cavalier est inséré, reliant les deux broches
-
-**Cavalier**
-
-Le lien de cavalier est supprimé ou "**garé**» sur une épingle.
-
-*
-  * Cavalier activé : commutateur à lames désactivé. Seul l'appareil connecté au terminal d'extension activera le contact de porte.
-  * Cavalier OFF : commutateur à lames activé\*\*(Par défaut d'usine pour tous les modèles)\*\*.
-
-1. **Borne d'extension**
-
-En plus de l'interrupteur magnétique intégré, une borne de contact sec à 2 broches supplémentaire est fournie pour un interrupteur magnétique d'extension ou tout appareil doté d'une fonctionnalité N.C. (normalement fermé).
-
-1. **Compartiment à piles**
-2. **Aimant**
-3. **Aimant Trou de vis**
-4. **Entretoise magnétique**
+1. **Voyant LED/Bouton Test**\
+   Appuyez sur le bouton Test pour transmettre le code d'apprentissage ou passer en mode test pendant 3 min.
+2. **Trous de fixation**\
+   Pour fixer et visser le contact de porte directement sur le cadre de porte ou le mur.
+3. **Autoprotection**\
+   Lorsque le détecteur d'ouverture est installé, l'autoprotection déclenchera lorsque le couvercle sera ouvert ou lorsqu'il sera retiré de sa surface d'installation.
+4. **Opercule de batterie**
+5. **Cavalier de l'extension (JP2)**\
+   Le cavalier est inséré pour relier les deux broches.\
+   \- Cavalier On : le contact doit être de type NF (Normalement Fermé). <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F0p4nSEK1AO4PxDL25eFj%252Fimage.png%3Falt%3Dmedia%26token%3Df98fa98a-eb3a-4b7c-8f15-483b715bc4a1&#x26;width=22&#x26;dpr=4&#x26;quality=100&#x26;sign=f62bfe51&#x26;sv=2" alt="" data-size="line"> \
+   \- Cavalier Off : le contact doit être de type NO (Normalement Ouvert - **réglage par défaut**). <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FZYhxX59Fs1O8h4oz0qP5%252Fimage.png%3Falt%3Dmedia%26token%3Dfcb10a11-57bc-41e3-9246-a7bd2959a7d6&#x26;width=29&#x26;dpr=4&#x26;quality=100&#x26;sign=73d4f567&#x26;sv=2" alt="" data-size="line">
+6. **Cavalier de l'Interrupteur à Lame Souple ILS (JP3)**\
+   Le cavalier est inséré pour relier les deux broches.\
+   \- Cavalier On : l'ILS est désactivé.<img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252F0p4nSEK1AO4PxDL25eFj%252Fimage.png%3Falt%3Dmedia%26token%3Df98fa98a-eb3a-4b7c-8f15-483b715bc4a1&#x26;width=22&#x26;dpr=4&#x26;quality=100&#x26;sign=f62bfe51&#x26;sv=2" alt="" data-size="line">\
+   Seul le dispositif câblé sur l'extension activera le détecteur d'ouverture.\
+   \- Cavalier Off : l'ILS est activé (**par défaut**). <img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F908378341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQPulEgH1xZnFX9QnBY0O%252Fuploads%252FZYhxX59Fs1O8h4oz0qP5%252Fimage.png%3Falt%3Dmedia%26token%3Dfcb10a11-57bc-41e3-9246-a7bd2959a7d6&#x26;width=29&#x26;dpr=4&#x26;quality=100&#x26;sign=73d4f567&#x26;sv=2" alt="" data-size="line">
+7. **Extension**\
+   En plus de l'ILS, un bornier 2 broches pour un contact sec est disponible pour relier tout autre appareil NO/NF.
+8. **Piles**
+9. **Aimant**
+10. **Fixation aimant**
+11. **Entretoise**
 
 ![](<.gitbook/assets/7 (16).jpeg>)
 
-1
+### _<mark style="background-color:yellow;">**Caractéristiques**</mark>_
 
-**Caractéristiques**
+#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
 
-![](<.gitbook/assets/8 (12).jpeg>)
+En mode normal, le voyant LED ne s'allumera pas sauf dans les situations suivantes:
 
-* _**Indicateur LED**_
-  * En mode de fonctionnement normal, la LED ne s'allume pas lorsque le contact de porte est activé.
-  * Lorsque la tension de la batterie du contact de porte est faible, chaque fois que le contact de porte est activé (appareil ouvert/fermé), la LED s'allumera pendant 2 secondes.
-  * Lorsque le couvercle est ouvert ou que l'interrupteur anti-sabotage est déclenché, la LED s'allume pendant 2 secondes. Lorsque la condition de sabotage persiste, la LED s'allume pendant 2 secondes chaque fois que le contact de porte est activé.
-  * Lorsque le contact de porte est en mode test, la LED s'allume à chaque fois qu'il est activé.
-  * Lorsque la batterie est épuisée, le contact de porte arrêtera toutes les fonctions et la LED clignotera toutes les 4 secondes.
-* _**Borne d'extension**_
+* Lorsque le détecteur d'ouverture est en état de batterie faible, chaque fois qu'il transmet, la LED s'allume pendant environ 2 secondes.
+* Lorsque l'appareil est ouvert et que l'autoprotection est déclenchée, la LED s'allume pendant 2 sec. pour indiquer la transmission d'un signal **Autoprotection**. Lorsque la condition d'autoprotection persiste, chaque fois qu'il transmet, la LED s'allumera.
+* Lorsque le détecteur est en mode Test, la LED s'allume à chaque fois qu'il est déclenché.
+* Lorsque la batterie est épuisée, le contact de porte arrêtera toute fonction, la LED clignotera toutes les 4 secondes
 
-![](<.gitbook/assets/9 (7).jpeg>)
+#### _<mark style="background-color:green;">**- Borne d'extension**</mark>_
 
-Le contact de porte dispose d'une borne d'extension pour offrir une flexibilité accrue. Le terminal d'extension forme une boucle fermée avec l'appareil qui y est connecté. Lorsque l'appareil est déclenché avec la boucle ouverte, le contact de porte sera également déclenché. La borne d'extension et l'interrupteur magnétique interne peuvent fonctionner ensemble pour déclencher le contact de porte lorsque l'un d'eux est activé. Vous pouvez également choisir de désactiver l'interrupteur magnétique interne via le réglage du cavalier JP3.
+Le détecteur d'ouverture dispose d'un bornier d'extension pour plus de flexibilité. L'appareil connecté doit former NO (normalement ouverte) ou NF (normalement fermée) sur le bornier selon la position du cavalier JP2. L'appareil est déclenché, lorsque la boucle change d'état.\
+Le bornier d'extension et l'ILS peuvent fonctionner ensemble pour déclencher le détecteur d'ouverture lorsque l'un d'eux est activé. Vous pouvez également choisir de désactiver l'ILS via le réglage du cavalier JP3.
 
-Pour connecter l'appareil au terminal d'extension :
+Pour connecter l'appareil au bornier d'extension :
 
-**Pour le modèle DC-23 :**
+* **Pour le modèle DC-23 :**
 
 ![](<.gitbook/assets/10 (8).jpeg>)
 
-1. Ouvrez le couvercle du contact de porte avec un tournevis pour desserrer la vis de fixation du couvercle en bas du couvercle du contact de porte (voir l'image de la vue de dessus à droite).
-2. L'extrémité supérieure du boîtier avant présente une découpe en plastique plus fine. Percez l'ouverture défonçable pour créer un trou pour la connexion du câblage à la borne d'extension.
-3. Connectez l'appareil au terminal d'extension
+1. Ouvrez le couvercle du détecteur d'ouverture à l'aide d'un tournevis pour desserrer la vis de fixation située en bas (voir l'image ci-dessus en vue de dessus).
+2. L'extrémité supérieure du boîtier présente une découpe. Percez cette ouverture pour créer un passage de câble vers le bornier d'extension.
+3. Connectez l'appareil au bornier d'extension.
 
-**Pour le modèle DC-23-R3 :**
+* **Pour le modèle DC-23-R3 :**
 
-1. Utilisez votre pouce pour appuyer sur le loquet, tout en appuyant dessus, retirez le couvercle de la base du contact de porte (voir l'image vue de dessus à droite).
-2. L'extrémité supérieure du boîtier avant présente une découpe en plastique plus fine. Percez l'ouverture défonçable pour créer un trou pour la connexion du câblage à la borne d'extension.
-3. Connectez l'appareil au terminal d'extension
+1. Utilisez votre pouce pour appuyer sur le loquet, tout en appuyant dessus, retirez le couvercle de la base du détecteur d'ouverture (voir l'image ci-dessus en vue de dessus).
+2. L'extrémité supérieure du boîtier présente une découpe. Percez cette ouverture pour créer un passage de câble vers le bornier d'extension.
+3. Connectez l'appareil au bornier d'extension.
 
 ![](<.gitbook/assets/11 (12).jpeg>)
 
-Le terminal d'extension peut être utile dans la situation suivante.
+Le bornier d'extension peut être utile dans la situation suivante.
 
-* Si le contact de porte ne peut pas être monté sur le cadre de la porte, vous pouvez connecter un
-
-interrupteur magnétique d'extension supplémentaire au terminal d'extension pour monter le contact de porte à distance.
-
-* Tous les dispositifs à contact sec dotés d'une boucle N.C. (fermeture normale) peuvent être connectés à la borne d'extension, faisant du contact de porte un émetteur universel.
-* Plusieurs dispositifs à contact sec peuvent être câblés avec le contact de porte, comme indiqué dans l'image ci-dessous.
+* Si le détecteur d'ouverture ne peut pas être installé sur le cadre de la porte, vous pouvez connecter un détecteur d'ouverture filaire sur le bornier d'extension.
+* Tout appareil disposant d'un contact sec NO (normalement ouvert) ou NF (normalement fermé) peut être câblé au bornier d'extension, faisant du détecteur d'ouverture un émetteur universel.
+* Plusieurs appareils NO/NF peuvent être câblés avec le détecteur d'ouverture, comme le montre le schéma ci-dessous.
 
 ![](<.gitbook/assets/12 (7).jpeg>)
 
-*
-  *
-    * La borne d'extension et l'interrupteur magnétique interne peuvent fonctionner ensemble pour déclencher le contact de porte lorsque l'un d'eux est activé ; vous pouvez également choisir de désactiver le commutateur magnétique interne via le réglage du cavalier JP3. Si la borne d'extension et l'interrupteur magnétique interne sont utilisés et que l'un d'entre eux est déclenché (ouvert), un signal de déclenchement sera envoyé au panneau de commande. Le contact de porte enverra un signal de fermeture (rétablissement) du contact de porte uniquement lorsque les deux sont fermés.
-* _**Batterie**_
-  * Le contact de porte est alimenté par une pile au lithium CR123 3V. Veuillez noter:**TOUJOURS**remplacez la batterie par une taille et une tension correctes.
-  * Le contact de porte peut détecter des conditions de batterie faible. Lorsque la tension de la batterie est faible, un signal de batterie faible sera envoyé au panneau de commande pour indiquer la condition. La LED s'allumera lorsque le contact de porte est activé dans un état de batterie faible. Lorsque la batterie est épuisée, le contact de porte arrêtera toutes les fonctions et la LED clignotera toutes les 4 secondes.
+* La bornier d'extension et l'ILS peuvent fonctionner ensemble pour déclencher le détecteur d'ouverture lorsque l'un d'eux est activé. Vous pouvez également choisir de désactiver l'ILS via le réglage du cavalier JP3. Si le bornier d'extension et l'ILS sont utilisés et que l'un d'entre eux est déclenché, le détecteur d'ouverture transmettra l'information à la centrale d'alarme. Le signal de fermeture (rétablissement) du détecteur d'ouverture sera envoyé uniquement lorsque les 2 contacts seront fermés.
 
-![](<.gitbook/assets/13 (6).jpeg>)
+#### _<mark style="background-color:green;">**Batterie**</mark>_
 
-2
+* Le détecteur d'ouverture est alimenté par une pile lithium CR123 3V. Veuillez noter de **TOUJOURS** remplacer la batterie par un modèle de taille et tension équivalentess.
+* Le détecteur d'ouverture peut détecter une batterie faible. Lorsque la tension de la batterie est faible, un signal batterie faible sera envoyé à la centrale. La LED s'allumera lorsque le détecteur d'ouverture est activé en cas de batterie faible. Lorsque la batterie est épuisée, le détecteur d'ouverture arrêtera toute fonction, la LED clignotera toutes les 4 secondes.
+* Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur l'autoprotection pour une décharge complète avant d'insérer une nouvelle batterie.
 
-*
-  * Lors du changement de batterie, après avoir retiré la batterie usagée, appuyez deux fois sur l'interrupteur anti-sabotage pour la décharger complètement avant d'insérer une nouvelle batterie.
-* _**Autoprotection**_
-  * Le contact de porte est protégé par un interrupteur anti-sabotage qui est enfoncé contre la surface de montage lorsque le contact de porte est monté en place. Chaque fois que le couvercle du contact de porte est ouvert ou retiré de la surface de montage, l'interrupteur d'autoprotection sera activé et le contact de porte enverra un signal d'autoprotection pour rappeler à l'utilisateur la condition.
-* _**Signal de surveillance**_
-  * La fonction de supervision pour le modèle 868WF est contrôlée par le réglage du cavalier JP2. Pour le modèle non-868WF, la fonction de supervision est toujours activée.
-  * Lorsqu'il est activé, le contact de porte transmettra automatiquement des signaux de supervision périodiquement au panneau de commande à des intervalles aléatoires de 30 à 50 minutes.
-  * Si le panneau de commande n'a pas reçu le signal du contact de porte pendant une période prédéfinie, le panneau de commande indiquera que le contact de porte particulier rencontre un problème de manque de signal.
-* _**Mode d'essai**_
-  * En mode normal, appuyez sur le bouton de test pour transmettre un signal de test et un code d'apprentissage au panneau de commande. Le contact de porte entrera également en mode test pendant 3 minutes.
-  * En mode test, la LED s'allumera chaque fois que le contact de porte est activé.
-  * Chaque pression supplémentaire sur le bouton de test réinitialisera la période du mode test à 3 minutes.
-* _**Commencer**_
-  * Ouvrez le couvercle du contact de porte et insérez la batterie.
-  * Mettez le panneau de commande en mode apprentissage (veuillez vous référer au manuel d'utilisation du panneau).
-  * Appuyez sur le bouton de test du contact de porte.
-  * Reportez-vous au manuel d'utilisation de votre panneau de commande pour terminer le processus d'apprentissage.
-  * Une fois le contact de porte appris, placez le panneau de commande dans (\*\*Test de marche)\*\*mode, maintenez le contact de porte à l'emplacement souhaité et appuyez sur le bouton de test pour transmettre un signal de test au panneau de commande. Si le panneau de commande se trouve dans la plage du signal du contact de porte, le panneau affichera les informations du contact de porte en conséquence.
-  * Procédez au montage et à l'installation une fois que vous êtes convaincu que le contact de porte fonctionne correctement à l'emplacement souhaité.
+#### _<mark style="background-color:green;">**Autoprotection**</mark>_
 
-![](<.gitbook/assets/14 (8).jpeg>) ![](<.gitbook/assets/15 (7).jpeg>) ![](<.gitbook/assets/16 (7).jpeg>) ![](<.gitbook/assets/17 (7).jpeg>)
+* Le détecteur d'ouverture est protégé par une autoprotection qui est comprimée contre la surface de fixation. Chaque fois que le couvercle du détecteur d'ouverture est ouvert ou lorsqu'il est retiré de son emplacement, l'autoprotection sera activée et le détecteur enverra un signal d'autoprotection à la centrale pour informer l'utilisateur.
 
-**Installation**
+#### _<mark style="background-color:green;">**Supervision**</mark>_
 
-![](<.gitbook/assets/18 (7).jpeg>)
+* La supervision pour le modèle 868WF est contrôlée par le réglage du cavalier JP2. Pour le modèle non-868WF, la fonction de supervision est toujours activée.
+* Lorsqu'elle est activée, le détecteur d'ouverture transmettra automatiquement des signaux de supervision périodiquement vers la centrale à des intervalles aléatoires de 30 à 50 minutes.
+* Si la centrale n'a pas reçu le signal du détecteur d'ouverture pendant une période prédéfinie, elle indiquera que ce périphérique rencontre un problème de perte de signal.
 
-* _**Directive d'installation**_
-  * Le contact de porte doit être installé sur le cadre de porte/fenêtre et l'aimant sur la porte/fenêtre.
-  * La distance entre le contact de porte et l'aimant ne doit pas dépasser 15 mm lorsque la porte est fermée.
-  * Évitez de monter le contact de porte sur des surfaces métalliques. Si un montage sur une surface métallique est nécessaire, assurez-vous de tester si le contact de porte peut être déclenché lorsque la porte est ouverte.
-  * Montez le contact de porte aussi haut que possible.
-* _**Montage du contact de porte**_
+#### _<mark style="background-color:green;">**Mode test**</mark>_
 
-![](<.gitbook/assets/19 (3).jpeg>)
+* En mode normal, appuyez sur le bouton Test pour transmettre un signal de test et un code d'apprentissage à la centrale. Le détecteur d'ouverture entrera également en mode test pendant 3 minutes.
+* En mode test, la LED s'allumera chaque fois que le détecteur sera activé.
+* Chaque pression supplémentaire sur le bouton Test réinitialisera la durée du mode test à 3 minutes.
 
-1. Trouvez un emplacement approprié à proximité de votre porte/fenêtre pour installer le contact de porte.
-2. Le contact de porte comporte 2 marques de nervures sur un côté (voir l'image ci-dessous), marquant l'emplacement de l'interrupteur magnétique interne. Le contact de porte doit être installé soit verticalement, soit inversé pour garantir que le côté marqué par la nervure soit face à l'aimant.
-3. Pour monter le contact de porte :
-   1. Utilisez les 2 trous de montage du contact de porte comme modèle pour le positionnement approprié des trous.
+
+
+### _<mark style="background-color:yellow;">**Démarrage**</mark>_
+
+* Ouvrez le détecteur d'ouverture et insérez la batterie.
+* Mettez la centrale en mode apprentissage (veuillez vous référer au manuel d'utilisation de la centrale).
+* Appuyez sur le bouton Test du détecteur d'ouverture.
+* Reportez-vous au manuel d'utilisation de votre centrale pour terminer le processus d'apprentissage.
+* Une fois le détecteur d'ouverture appris, placez la centrale en test de fonctionnement, maintenez le détecteur d'ouverture à l'emplacement souhaité et appuyez sur le bouton Test pour transmettre le signal de test à la centrale. Si la centrale se trouve à portée de signal de détecteur, la centrale affichera les informations de détecteur d'ouverture en conséquence.
+* Procédez à l'installation une fois que vous êtes convaincu que l'emplacement du périphérique permet une fonctionnement correct.
+
+
+
+### _<mark style="background-color:yellow;">**Installation**</mark>_
+
+*   **Directives d'installation**
+
+    * Le détecteur d'ouverture doit être installé sur le cadre de porte/fenêtre et l'aimant sur la porte/fenêtre.
+    * La distance entre le détecteur d'ouverture et l'aimant ne doit pas dépasser 15 mm lorsque la porte est fermée.
+    * Évitez d'installer le détecteur d'ouverture sur une surface métallique. En cas d'installation sur une surface métallique, assurez-vous de tester si le détecteur d'ouverture peut être déclenché lorsque la porte est ouverte.
+    * Installez le détecteur d'ouverture aussi haut que possible.
+
+
+
+#### _<mark style="background-color:green;">**Montage du détecteur d'ouverture**</mark>_
+
+1. Trouvez un emplacement approprié à proximité de votre porte/fenêtre pour installer le détecteur d'ouverture.
+2. Le détecteur d'ouverture comporte 2 repères sur un côté (voir image), marquant l'emplacement de l'ILS. Le détecteur d'ouverture doit être installé soit verticalement, soit inversé pour garantir que le côté marqué par les repères soit face à l'aimant.
+3. Pour installer le détecteur d'ouverture :
+   1. Utilisez les 2 trous de fixation du détecteur d'ouverture porte comme modèle pour le positionnement approprié.
    2. Utilisez les chevilles murales fournies pour l'installation en plâtre/brique.
-   3. Vissez le contact de porte dans les chevilles murales fournies.
+   3. Vissez le détecteur d'ouverture dans les chevilles murales fournies.
 4. Pour monter l'aimant :
-5. Utilisez les 2 trous de vis magnétiques comme modèle pour un positionnement approprié des trous.
+   1. Utilisez les 2 trous de fixation comme modèle pour un positionnement approprié.
+   2. Vissez l'aimant sur la porte.
+   3. Insérez les deux capuchons blancs pour une intégrité esthétique.
 
-_\<REMARQUE>_
+{% hint style="info" %}
+NOTE:
 
-*
-  *
-    * L'aimant ne doit pas être à plus de 15 mm du contact de porte lorsque la porte est fermée.
-    * L'aimant doit s'aligner avec le côté marqué des nervures du contact de porte. Si nécessaire, appliquez l'entretoise magnétique à l'arrière de l'aimant pour mieux aligner l'aimant sur les marques de nervures.
-  * Vissez l'aimant sur la porte.
-  * Insérez les deux capuchons blancs dans les trous de vis magnétiques pour une intégrité esthétique.
+* L'aimant ne doit pas être à plus de 15 mm du détecteur d'ouverture lorsque la porte est fermée.
+* L'aimant doit s'aligner avec le côté marqué des repères sur le détecteur d'ouverture. Si nécessaire, appliquez l'entretoise à l'arrière de l'aimant pour mieux aligner l'aimant sur les repères.
+{% endhint %}
 
-![](<.gitbook/assets/20 (11).png>)
+5. L'installation est maintenant terminée.
 
-3
-
-5.L'installation est maintenant terminée.
+<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Déclaration FCC
 
-Cet appareil est conforme à la partie 15 des règles FCC. L’exploitation est soumise aux deux conditions suivantes :
+Cet appareil est conforme à la partie 15 des règles FCC. L’exploitation est soumise aux deux conditions suivantes : (1) Cet appareil ne doit pas provoquer d'interférences nuisibles, et (2) Cet appareil doit accepter toute interférence reçue, y compris les interférences susceptibles de provoquer un fonctionnement indésirable.
 
-1. Cet appareil ne doit pas provoquer d'interférences nuisibles et
-2. Cet appareil doit accepter toute interférence reçue, y compris les interférences susceptibles de provoquer un fonctionnement indésirable.
-
-Attention FCC :
-
-Pour garantir une conformité continue, tout changement ou modification non expressément approuvé par la partie responsable de la conformité peut annuler le droit de l'utilisateur à utiliser cet équipement. (Exemple : utilisez uniquement des câbles d'interface blindés lors de la connexion à un ordinateur ou à des périphériques).
-
-4
+Avertissement FCC : Pour garantir une conformité continue, tout changement ou modification non expressément approuvé par la partie responsable de la conformité peut annuler le droit de l'utilisateur à utiliser cet équipement. (Exemple : utilisez uniquement des câbles d'interface blindés lors de la connexion à un ordinateur ou à des périphériques).
