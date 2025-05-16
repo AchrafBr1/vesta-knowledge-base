@@ -10,9 +10,13 @@ SD-8-EL / SD-8-EL-F1
 
 ### _<mark style="background-color:yellow;">Introduction</mark>_
 
-Le détecteur de fumée SD-8-EL / SD-8-EL-F1 est conçu pour être monté au plafond ou en haut des cages d'escalier où la fumée se concentrerait pour déclencher une alarme en temps opportun et protéger votre maison des risques d'incendie.
+Le détecteur de fumée SD-8-EL/SD-8-EL-F1 est conçu pour être monté au plafond ou en haut des cages d'escalier où la fumée se concentrerait pour déclencher une alarme en temps opportun et protéger votre maison des risques d'incendie.
 
-* Identification des pièces![SD-8](<.gitbook/assets/0 (4) (1).jpeg>)
+
+
+### _<mark style="background-color:yellow;">Identification</mark>_
+
+<figure><img src=".gitbook/assets/0 (4) (1).jpeg" alt="" width="190"><figcaption></figcaption></figure>
 
 **1. Bouton Apprendre/Test**
 

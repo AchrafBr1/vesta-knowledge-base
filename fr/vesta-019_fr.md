@@ -14,9 +14,9 @@ Le détecteur d'ouverture de la série DC-23 est décliné en 2 modèles:\
 \- DC-23: Le couvercle du détecteur d'ouverture est fixé par une vis.\
 \- DC-23-R3: Le couvercle du détecteur d'ouverture est fixé par clips
 
-![](<.gitbook/assets/0 (3) (1).jpeg>)
-
 ### _<mark style="background-color:yellow;">Identification</mark>_
+
+![](<.gitbook/assets/0 (3) (1).jpeg>)
 
 1. **Voyant LED/Bouton Test**\
    Appuyez sur le bouton Test pour transmettre le code d'apprentissage ou passer en mode test pendant 3 min.
@@ -64,7 +64,7 @@ Pour connecter un appareil au bornier d'extension&#x20;
 
 * **Pour le modèle DC-23 :**
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="133"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="133"><figcaption></figcaption></figure>
 
 1. Ouvrez le couvercle du détecteur d'ouverture à l'aide d'un tournevis pour desserrer la vis de fixation située en bas (voir l'image ci-dessus en vue de dessus).
 2. L'extrémité supérieure du boîtier présente une découpe. Percez cette ouverture pour créer un passage  de câble vers le bornier d'extension.
@@ -72,7 +72,7 @@ Pour connecter un appareil au bornier d'extension&#x20;
 
 * **Pour le modèle DC-23-R3 :**
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
 
 1. Utilisez votre pouce pour appuyer sur le loquet, tout en appuyant dessus, retirez le couvercle de la base du détecteur d'ouverture (voir l'image ci-dessus en vue de dessus).
 2. L'extrémité supérieure du boîtier présente une découpe. Percez cette ouverture pour créer un passage  de câble vers le bornier d'extension.
