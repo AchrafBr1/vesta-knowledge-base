@@ -220,6 +220,7 @@
 * [VESTA-441](vesta-441.md)
 * [VESTA-442](vesta-442.md)
 * [VESTA-443](vesta-443.md)
+* [VESTA 447](vesta-447.md)
 
 ## 📄 CERTIFICATES
 
