@@ -18,36 +18,40 @@ Le détecteur de fumée SD-8-EL/SD-8-EL-F1 est conçu pour être monté au plafo
 
 <figure><img src=".gitbook/assets/0 (4) (1).jpeg" alt="" width="190"><figcaption></figcaption></figure>
 
-**1. Bouton Apprendre/Test**
+**1. Bouton d'apprentissage/de Test**\
+Il est nécessaire d'appuyer sur ce bouton une fis dans les situations suivantes:
 
-Le bouton Apprendre/Test est enfoncé dans les situations suivantes :
-
-* Apprentissage – Dans le détecteur de fumée.
-* Pour tester la portée des communications radio.
+* Apprentissage du détecteur de fumée.
+* Pour tester la portée radio.
 * Pour tester si le détecteur de fumée fonctionne normalement.
-* Pour faire taire l'alarme
+* Pour arrêter la sirène.
 
-**2. Indicateur LED**
+**2. Voyant LED**
 
-* Flash toutes les 30 secondes – Batterie faible
-* Flash lorsque le bouton est enfoncé – Transmettre le signal
-* Flash continu – Préchauffage ou calibrage/alarme/mode silence d’alarme.
+* Clignote toutes les 30 secondes – Batterie faible
+* Clignote quand le bouton est appuyé – Transmission de signal
+* Clignote continuellement – Préchauffage ou Etalonnage/Alarme/Mode Alarme Silencieuse.
 
 **3. Compartiment à piles**
 
-**4. Trou de montage**
+**4. Fixations**
 
-**5. Support de montage**
+**5. Support**&#x20;
 
-**6. Crochet**
+**6. Clips de fixation**
 
-* Caractéristiques
-* Batterie
+
+
+### _<mark style="background-color:yellow;">Caractéristiques</mark>_
+
+### _<mark style="background-color:yellow;">Batterie</mark>_
+
 * Le détecteur de fumée utilise 3 piles alcalines AA comme alimentation.
-* Lorsque vous utilisez des piles fournies par l'usine, le détecteur de fumée a une durée de vie moyenne de 4 ans.
-* Lorsqu'une faible tension de batterie est détectée, un signal de batterie faible sera transmis avec les transmissions de signal régulières. Si la tension de la batterie est faible, la LED clignotera accompagnée d'un bip de faible volume toutes les 30 secondes.
-* Lors du changement des piles, retirez les anciennes piles et appuyez deux fois sur le bouton Test pour les décharger complètement avant d'insérer de nouvelles piles.
-* Apprentissage / Prise en main
+* Lorsque vous utilisez des piles fournies, le détecteur de fumée a une durée de vie moyenne de 4 ans.
+* Lorsqu'une faible tension de batterie est détectée, un signal de batterie faible sera transmis avec les transmissions de signal régulières. Si la tension de la batterie est faible, la LED clignotera et sera  accompagnée d'un bip de faible volume toutes les 30 secondes.
+* Lors du changement des piles, retirez les anciennes piles et appuyez deux fois sur le bouton Test pour les décharger complètement l'appareil avant d'insérer de nouvelles piles.
+
+### _<mark style="background-color:yellow;">Apprentissage / Démarrage</mark>_
 
 Étape 1. Insérez les piles dans le compartiment à piles en respectant la polarité.
 
