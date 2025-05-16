@@ -53,54 +53,53 @@ Il est nécessaire d'appuyer sur ce bouton une fis dans les situations suivantes
 
 ### _<mark style="background-color:yellow;">Apprentissage / Démarrage</mark>_
 
-Étape 1. Insérez les piles dans le compartiment à piles en respectant la polarité.
+<mark style="color:orange;">**Étape 1.**</mark> Insérez les piles dans le compartiment à piles en respectant la polarité.\
+<mark style="color:orange;">**Étape 2.**</mark> Une fois les 3 piles insérées, le détecteur de fumée émettra 2 bips courts, la LED commencera à clignoter et la période de de démarrage de 6 minutes débutera.\
+<mark style="color:orange;">**Étape 3.**</mark> Pendant la période de démarrage de 6 minutes, le détecteur de fumée peut être ajouté à une centrale.
 
-Étape 2. Une fois les 3 piles insérées, le détecteur de fumée émettra 2 bips courts, la LED commencera à clignoter et commencera une période de réchauffement de 6 minutes.
+1. Mettez la centrale en mode apprentissage. Veuillez vous référer au manuel de la centrale pour plus de détails.
+2. Appuyez sur le bouton Apprentissage/Test du détecteur de fumée. La LED s'allumera brièvement et le détecteur de fumée émettra un bip à 2 tons pour indiquer qu'il transmet un signal.
+3. Si la centrale reçoit le signal avec succès, elle répondra en conséquence. Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage.
 
-Étape 3. Pendant la période de réchauffement de 6 minutes, le détecteur de fumée peut être intégré au panneau.
-
-1. Mettez le panneau de configuration en mode apprentissage. Veuillez vous référer au manuel du panneau de commande pour plus de détails.
-2. Appuyez sur le bouton Apprendre/Test du détecteur de fumée. La LED s'allumera brièvement et le détecteur de fumée émettra un bip à 2 tons pour indiquer qu'il transmet un signal.
-3. Si le panneau de commande reçoit le signal avec succès, il répondra en conséquence. Reportez-vous au manuel du panneau de commande pour terminer le processus d'apprentissage.
-
-Étape 4. Lorsque la période de réchauffement de 6 minutes expire, le détecteur de fumée émet un court bip pour indiquer qu'il commence le processus d'étalonnage.
-
-Le processus sera répété toutes les 100 secondes et notifié respectivement par un bip court. La fin du processus d'étalonnage sera notifiée par un bip à 2 tons et la LED sera éteinte.
-
+<mark style="color:orange;">**Étape 4.**</mark> Lorsque la période de démarrage de 6 minutes est terminée, le détecteur de fumée émet un bip court pour indiquer qu'il commence le processus d'étalonnage.\
+Le processus sera répété toutes les 100 secondes et notifié respectivement par un bip court. La fin du processus d'étalonnage sera notifiée par un bip à 2 tons et la LED sera éteinte.\
 Normalement, cela prend environ 2\~16 minutes pour terminer l'étalonnage. Cependant, après 16 minutes, si le détecteur de fumée émet des bips continus, cela indique que le détecteur de fumée a échoué à son étalonnage et que ses piles doivent être retirées pour faire taire les bips. Ensuite, veuillez recommencer à partir de l'étape 1 pour réessayer après une pause d'au moins 30 secondes.
 
-\\
+{% hint style="info" %}
+NOTE:\
+Pendant la période d'étalonnage, l'apprentissage est désactivé. Si vous n'avez pas terminé l'apprentissage (étape 3) pendant la période de démarrage de 6 minutes, vous devez attendre que l'étalonnage soit terminé (étape 4) pour effectuer l'apprentissage.
+{% endhint %}
 
-* Pendant la période d'étalonnage, l'apprentissage est désactivé. Si vous n'avez pas terminé l'apprentissage (étape 3) pendant la période de réchauffement de 6 minutes, vous devez attendre que l'étalonnage soit terminé (étape 4) pour effectuer l'apprentissage.
+<mark style="color:orange;">**Étape 5.**</mark> Une fois le démarrage, l'apprentissage et l'étalonnage terminés, vous devez tester la plage de transmission du signal du détecteur de fumée. Mettez la centrale en mode test, placez le détecteur de fumée à l'emplacement souhaité et appuyez sur le bouton Apprentissage/Test pour transmettre le signal à la centrale.\
+Si la centrale peut recevoir le signal normalement, procédez à l'installation du détecteur de fumée. Si le signal ne peut pas être reçu, changez d’emplacement.
 
-Étape 5. Une fois l'échauffement, l'apprentissage et l'étalonnage terminés, vous devez tester la plage de transmission du signal du détecteur de fumée. Mettez le panneau de commande en mode test de marche et placez le détecteur de fumée à l'emplacement de montage souhaité, puis appuyez sur le bouton Apprendre/Test pour transmettre le signal au panneau de commande.
+### _<mark style="background-color:yellow;">Installation</mark>_
 
-Si le panneau peut recevoir le signal normalement, procédez au montage du détecteur de fumée. Si le signal ne peut pas être reçu, changez l’emplacement de montage.
+* Il est recommandé que l'emplacement d'installation se situe au centre du plafond avec au moins 60 cm d'espace avec le murs ou des obstacles.
+* Ne placez pas le détecteur dans les endroits suivants:
+  * Cuisine ou garage – La fumée provenant de la cuisine ou du véhicule peut provoquer une fausse alarme.
+  * À proximité d'un ventilateur, d'une lampe fluorescente ou d'un équipement de climatisation – les courants d'air qui en proviennent peuvent affecter la sensibilité du détecteur.
+  * Près des poutres au plafond ou au-dessus d'une armoire – l'air stagnant dans ces zones peut affecter la sensibilité du détecteur.
+  * Au plus haut d'une structure en "A" au plafond.
 
-* Installation
-* Il est recommandé que le site d'installation se situe au centre du plafond, à au moins 60 cm du mur ou des obstacles.
-* Ne placez pas le détecteur dans les endroits suivants :
-* Cuisine ou garage – La fumée provenant de la cuisine ou du véhicule peut provoquer une fausse alarme.
-* À proximité d'un ventilateur, d'une lampe fluorescente ou d'un équipement de climatisation – les courants d'air qui en proviennent peuvent affecter la sensibilité du détecteur.
-* Près des poutres du plafond ou au-dessus d'une armoire – l'air stagnant dans ces zones peut affecter la sensibilité du détecteur.
-* Au plus fort d’un «**UN**”type de plafond à ossature.
+<figure><img src=".gitbook/assets/image (36).png" alt="" width="220"><figcaption></figcaption></figure>
 
-![SD-7\_4](<.gitbook/assets/1 (11).png>) ![100-2](<.gitbook/assets/2 (12).png>) ![100-3](<.gitbook/assets/3 (11).png>)
+<mark style="color:orange;">**Étape 1.**</mark> Utilisez le support comme modèle pour marquer les deux trous de fixation. Percez les trous à l'emplacement désiré et insérez des chevilles murales si nécessaire.\
+<mark style="color:orange;">**Étape 2.**</mark> Vissez le support de montage à l'emplacement marqué avec les deux crochets orientés vers le bas.\
+<mark style="color:orange;">**Étape 3.**</mark> Localisez le repère sur le détecteur et alignez-le avec l'un des clips du support. Installez le détecteur de fumée sur les clips, puis faites pivoter le détecteur dans le sens inverse des aiguilles d'une montre pour le verrouiller. L'installation est maintenant terminée.
 
-Étape 1. Utilisez le support de montage comme modèle pour marquer les deux trous de montage. Percez des trous dans l'emplacement de montage et insérez des chevilles murales si nécessaire.
+![SD-7\_4](<.gitbook/assets/1 (11).png>)
 
-Étape 2. Vissez le support de montage à l'emplacement marqué avec les deux crochets orientés vers le bas.
-
-Étape 3. Localisez la marque de ligne unique sur le détecteur et alignez-la avec l'un des crochets du support. Installez le détecteur de fumée sur les crochets du support, puis faites pivoter le détecteur dans le sens inverse des aiguilles d'une montre pour le verrouiller en place. L'installation est maintenant terminée.
-
-* Test du détecteur de fumée
+### <mark style="background-color:yellow;">Test du détecteur de fumée</mark>
 
 Appuyez sur le bouton Apprendre/Test du détecteur de fumée pour tester si le détecteur de fumée fonctionne normalement.
 
 * Si le détecteur de fumée fonctionne normalement, la LED s'allumera brièvement et le détecteur de fumée émettra un bip à 2 tons.
 * Si le buzzer retentit 3 fois de bip à 2 tons, cela signifie que le «**Chambre optique**» sur le détecteur de fumée est sale ou en panne.
 * Si la LED ne s'allume pas et qu'aucun bip n'est émis, cela signifie que le détecteur de fumée est en panne ou que ses piles sont épuisées.
-* Signal de surveillance
+
+Signal de surveillance
+
 * Après l'installation, le détecteur de fumée transmettra automatiquement des signaux de surveillance périodiquement au panneau de commande à intervalles de 30\~50 minutes au hasard.
 * Si la centrale n'a pas reçu le signal du détecteur de fumée pendant une période de temps prédéfinie, la centrale considérera le détecteur de fumée concerné comme étant hors service et réagira en fonction des paramètres du panneau.
 * Détection de fumée
