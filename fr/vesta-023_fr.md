@@ -4,7 +4,11 @@ icon: circle-chevron-right
 
 # VESTA 023
 
-Série de détecteurs de fumée SD-29
+SD-29
+
+## <mark style="color:green;">Détecteur de fumée avec détecteur PIR intégré</mark>
+
+### _<mark style="background-color:yellow;">Introduction</mark>_
 
 La série SD-29 est un détecteur de fumée sans fil avec capteur de mouvement PIR intégré et capacité de détection de chaleur. Conçu pour protéger votre famille contre les risques potentiels d'incendie, le détecteur de fumée est également capable de détecter les mouvements et de signaler la température aux utilisateurs. Le détecteur de fumée peut être interconnecté avec d'autres détecteurs de fumée du système d'alarme et déclenchera une alarme lorsqu'un détecteur de fumée du système est déclenché.**(SD-29-HME-SC uniquement)**.
 
