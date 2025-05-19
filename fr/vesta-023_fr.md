@@ -10,75 +10,69 @@ SD-29
 
 ### _<mark style="background-color:yellow;">Introduction</mark>_
 
-La série SD-29 est un détecteur de fumée sans fil avec capteur de mouvement PIR intégré et capacité de détection de chaleur. Conçu pour protéger votre famille contre les risques potentiels d'incendie, le détecteur de fumée est également capable de détecter les mouvements et de signaler la température aux utilisateurs. Le détecteur de fumée peut être interconnecté avec d'autres détecteurs de fumée du système d'alarme et déclenchera une alarme lorsqu'un détecteur de fumée du système est déclenché.**(SD-29-HME-SC uniquement)**.
+La série SD-29 correspond à un détecteur de fumée sans fil avec détecteur de mouvement PIR intégré et capacité de détection de chaleur. Conçu pour protéger votre famille contre les risques potentiels d'incendie, le détecteur de fumée est également capable de détecter les mouvements et de signaler la température aux utilisateurs. Le détecteur de fumée peut être interconnecté avec d'autres détecteurs de fumée du système d'alarme et déclenchera une alarme lorsqu'un détecteur de fumée du système est déclenché **(SD-29-HME-SC uniquement)**.
 
-Le détecteur de fumée comprend les modèles suivants :
+Les différentes déclinaisons sont les suivantes :
 
-| Nom du modèle | Détection de chaleur | Capteur de mouvement PIR | Lumière d'urgence | Interconnexion |
-| ------------- | -------------------- | ------------------------ | ----------------- | -------------- |
-| SD-29-H       | Ô                    |                          |                   |                |
-| SD-29-HM      | Ô                    | Ô                        |                   |                |
-| SD-29-HME     | Ô                    | Ô                        | Ô                 |                |
-| SD-29-HME-SC  | Ô                    | Ô                        | Ô                 | Ô              |
+<table data-full-width="false"><thead><tr><th>Modèle</th><th align="center">Détection de chaleur</th><th align="center" valign="middle">Détecteur PIR</th><th align="center">Voyant d'Urgence</th><th align="center">Interconnexion</th></tr></thead><tbody><tr><td>SD-29-H</td><td align="center">OUI</td><td align="center" valign="middle"></td><td align="center"></td><td align="center"></td></tr><tr><td>SD-29-HM</td><td align="center">OUI</td><td align="center" valign="middle">OUI</td><td align="center"></td><td align="center"></td></tr><tr><td>SD-29-HME</td><td align="center">OUI</td><td align="center" valign="middle">OUI</td><td align="center">OUI</td><td align="center"></td></tr><tr><td>SD-29-HME-SC</td><td align="center">OUI</td><td align="center" valign="middle">OUI</td><td align="center">OUI</td><td align="center">OUI</td></tr></tbody></table>
 
-Identification des pièces
+### _<mark style="background-color:yellow;">Identification</mark>_
 
 ![](<.gitbook/assets/0 (8) (1).png>) ![](<.gitbook/assets/1 (12).png>)
 
-1. **Indicateur LED/bouton de test/éclairage d'urgence**
+1.  **Voyant LED/Bouton Test/Voyant d'Urgence**
 
-**LED rouge**
+    **LED rouge**
 
-* Flash rapide : Alarmant.
-* Clignote toutes les secondes : détecteur de fumée en mode silence d'alarme.
-* Clignote toutes les 2 secondes : détecteur de fumée en cours de processus de préchauffage et d'étalonnage.
-* Clignote toutes les 4 secondes avec LED Orange : batterie épuisée.
-* Clignote brièvement : lorsque le bouton d'apprentissage est enfoncé pour voir si l'appareil fonctionne normalement.
-* S'allume brièvement : transmission du signal.
+    * Clignote rapidement : Alarme.
+    * Clignote toutes les secondes : détecteur de fumée en Mode Alarme Silencieuse.
+    * Clignote toutes les 2 secondes : détecteur de fumée en cours de démarrage et d'étalonnage.
+    * Clignote toutes les 4 secondes avec LED Orange : batterie faible.
+    * Clignote brièvement : lorsque le bouton d'apprentissage est utilisé pour voir si l'appareil fonctionne normalement.
+    * S'allume brièvement : transmission du signal.
 
-**LED orange**
+    **LED orange**
 
-* Clignote toutes les secondes : mise sous tension de l'appareil/échec de l'étalonnage.
-* Clignote toutes les 4 secondes avec LED ROUGE : batterie épuisée.
-* Clignote toutes les 5 secondes : échec de détection de fumée ou dysfonctionnement de l'appareil.
-* Clignote toutes les 45 secondes : état de batterie faible
+    * Clignote toutes les secondes : mise sous tension de l'appareil/échec de l'étalonnage.
+    * Clignote toutes les 4 secondes avec LED ROUGE : batterie faible.
+    * Clignote toutes les 5 secondes : échec de détection de fumée ou dysfonctionnement de l'appareil.
+    * Clignote toutes les 45 secondes : état de batterie faible
 
-**Bouton Apprendre/Test**
+    **Bouton Apprentissage/Test**
 
-* Appuyez une fois sur le bouton pour :
-* Envoyer un signal de supervision/test.
-* Vérifiez la chambre de détection de fumée.
-* Alarme silencieuse.
-* Appuyez et maintenez le bouton pendant 10 secondes pour entrer dans le processus d'étalonnage.
+    * Appuyez une fois sur le bouton pour :\
+      \- Envoyer un signal de supervision/test.\
+      \- Vérifiez la chambre de détection de fumée.\
+      \- Mettre en mode silencieux.
+    * Maintenir appuyé le bouton pendant 10 secondes pour entrer dans le processus d'étalonnage.
 
-**LED blanche (lumière de secours)**
+    **LED blanche (voyant d'urgence)**
 
-* Le voyant d'urgence commencera à clignoter lentement pour alerter les utilisateurs que le système est en alarme.**(SD-29-HME uniquement)**
+    * Le voyant d'urgence commencera à clignoter lentement pour alerter les utilisateurs que le système est en alarm&#x65;**( SD-29-HME uniquement)**.
+2. **Lentille IR (SD-29-HM/SD-29-HME uniquement)**
+3. **Sirène**
+4. **Vis de fixation du compartiment à piles**
+5. **Compartiment à piles**
+6. **Crochets**
+7. **Support d'installation**
+8. **Trous de fixation**\
+   Les crochets du support peuvent s'accrocher à ce trou de fixation.
+9. **Gabarit de perçage**
 
-1. **Objectif IR (SD-29-HM/SD-29-HME uniquement)**
-2. **Avertisseur sonore**
-3. **Vis de fixation du compartiment à piles**
-4. **Compartiment à piles**
-5. **Crochets**
-6. **Support de montage**
-7. **Trous de montage**
+### _<mark style="background-color:yellow;">Caractéristiques</mark>_
 
-Les crochets du support de montage peuvent s'accrocher à ce trou de montage.
+* **Batterie**\
+  \- Trois piles au lithium CR123 3V sont utilisées pour alimenter le détecteur de fumée.\
+  \- Le détecteur de fumée est doté d'un mécanisme infaillible qui interdit la fermeture du couvercle sans installer au préalable la pile. Appuyez sur la languette et insérez trois nouvelles piles dans le compartiment.\
+  \- Lorsque la batterie du détecteur de fumée est faible, un signal de batterie faible sera transmis avec les transmissions de signaux régulières. La LED orange clignotera accompagnée d'un bip de faible volume toutes les 45 secondes.\
+  \- Les LED rouge et orange clignoteront une fois toutes les 4 secondes lorsque la batterie est épuisée.
 
-1. **Feuille de montage**
+{% hint style="info" %}
+NOTE:\
+Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur le bouton Test pour la décharger complètement avant d'insérer une nouvelle batterie.
+{% endhint %}
 
-Caractéristiques
-
-* Batterie
-* Trois piles au lithium CR123 3V sont utilisées pour alimenter le détecteur de fumée.
-* Le détecteur de fumée est doté d'un mécanisme infaillible qui interdit la fermeture du couvercle sans installer au préalable la pile. Appuyez sur la languette et insérez trois nouvelles piles dans le compartiment.
-* Lorsque la batterie du détecteur de fumée est faible, un signal de batterie faible sera transmis avec les transmissions de signaux régulières. La LED orange clignotera accompagnée d'un bip de faible volume toutes les 45 secondes.
-* Les LED rouge et orange clignoteront une fois toutes les 4 secondes lorsque la batterie est épuisée.
-
-\\
-
-* Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur le bouton Test pour la décharger complètement avant d'insérer une nouvelle batterie.
-* Commencer
+* **Démarrage**
 
 \*\*Étape 1.\*\*Mettez le Panneau de configuration en mode apprentissage. Reportez-vous au manuel du panneau de commande pour plus de détails.
 
