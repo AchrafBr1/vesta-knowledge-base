@@ -4,6 +4,63 @@ icon: video
 
 # VESTA ADVANCED IP CAMERA SERIES
 
+## ✨ Are you ready to discover the new VESTA ADVANCED SERIES cameras?
+
+{% embed url="https://drive.google.com/file/d/1snvNV-L2JUDdsPN4qwz1_Xb32DzoiepE/view?usp=sharing" %}
+
+### **Start-up with VESTA panels in 3 steps**
+
+{% stepper %}
+{% step %}
+### Upgrade the IP cam
+
+To update the camera, follow these steps:
+
+1.  **Download the Firmware**: Ensure you download the firmware that matches your camera model from the following list according to your model:\
+
+
+    <table><thead><tr><th>Models</th><th width="114">Firmware</th></tr></thead><tbody><tr><td><ul><li>IPC-T38-ZAS-PV-B</li><li>IPC-T38-ZAS-PV</li><li>IPC-B38-ZAS-PV-B</li><li>IPC-B38-ZAS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/u9fVnKEjg">Download</a></td></tr><tr><td><ul><li>IPC-T35-AS-PV-B</li><li>IPC-T35-AS-PV</li><li>IPC-B35-AS-PV-B</li><li>IPC-B35-AS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/LJPMxKDbU">Download</a></td></tr><tr><td><ul><li>IPC-D24-ZAS-L-B</li><li>IPC-D24-ZAS-L</li></ul><ul><li>IPC-T24-L</li><li>IPC-B24-L</li></ul></td><td><a href="https://gofile.me/7yryF/HYczagZrp">Download</a></td></tr></tbody></table>
+
+
+2. **Access Local Interface**: Navigate to the camera's local interface (Default IP: _192.168.1.86_).
+3. **Navigate to Setup**: Go to 'Setup' in the menu.
+4. **Select System**: Choose 'System' from the options.
+5. **Choose Upgrade**: Proceed to 'Upgrade' to begin the firmware update process.
+
+<figure><img src=".gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Panel and SmartHomeSec APP upgrade
+
+{% hint style="success" %}
+It is important to ensure that the **panel is at version 34F or higher** and that the **application is updated to version 3.6.0 or higher**. These updates include this integration. Check and update regularly to maintain compatibility and optimal performance of your devices.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### Adding the camera to the panel
+
+1. **Network Verification:** Ensure that both the VESTA panel and the camera are connected to the same network.
+2. **SmartHomeSec APP Setup:**
+   * Open the app and log in using your Master account credentials.
+   * Navigate to the "Cameras" section and select "VESTA ADVANCED."
+3. **Camera Scanning:**
+   * The system will begin scanning for new cameras on the network automatically.
+4.  **Camera Selection:**
+
+    * Choose the camera from the list, and input the username and password. Use the same credentials you use for accessing the camera's web server locally.
+
+
+{% endstep %}
+{% endstepper %}
+
+
+
+
+
+
+
 ### VESTA advanced series complete manual guide&#x20;
 
 {% file src=".gitbook/assets/VESTA Advanced Series .doc" %}
