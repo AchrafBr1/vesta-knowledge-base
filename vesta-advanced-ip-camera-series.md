@@ -1,5 +1,16 @@
 ---
 icon: video
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # VESTA ADVANCED IP CAMERA SERIES
@@ -7,6 +18,10 @@ icon: video
 ## ✨ Are you ready to discover the new VESTA ADVANCED SERIES cameras?
 
 {% embed url="https://drive.google.com/file/d/1snvNV-L2JUDdsPN4qwz1_Xb32DzoiepE/view?usp=sharing" %}
+
+### What does this VESTA integration allow?
+
+<figure><img src=".gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
 ### **Start-up with VESTA panels in 3 steps**
 
@@ -22,7 +37,7 @@ To update the camera, follow these steps:
     <table><thead><tr><th>Models</th><th width="114">Firmware</th></tr></thead><tbody><tr><td><ul><li>IPC-T38-ZAS-PV-B</li><li>IPC-T38-ZAS-PV</li><li>IPC-B38-ZAS-PV-B</li><li>IPC-B38-ZAS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/u9fVnKEjg">Download</a></td></tr><tr><td><ul><li>IPC-T35-AS-PV-B</li><li>IPC-T35-AS-PV</li><li>IPC-B35-AS-PV-B</li><li>IPC-B35-AS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/LJPMxKDbU">Download</a></td></tr><tr><td><ul><li>IPC-D24-ZAS-L-B</li><li>IPC-D24-ZAS-L</li></ul><ul><li>IPC-T24-L</li><li>IPC-B24-L</li></ul></td><td><a href="https://gofile.me/7yryF/HYczagZrp">Download</a></td></tr></tbody></table>
 
 
-2. **Access Local Interface**: Navigate to the camera's local interface (Default IP: _192.168.1.86_).
+2. [**Access Local Interface**](vesta-advanced-ip-camera-series.md#quick-login-to-local-portal): Navigate to the camera's local interface (Default IP: _192.168.1.86_).
 3. **Navigate to Setup**: Go to 'Setup' in the menu.
 4. **Select System**: Choose 'System' from the options.
 5. **Choose Upgrade**: Proceed to 'Upgrade' to begin the firmware update process.
@@ -33,7 +48,7 @@ To update the camera, follow these steps:
 {% step %}
 ### Panel and SmartHomeSec APP upgrade
 
-{% hint style="success" %}
+{% hint style="info" %}
 It is important to ensure that the **panel is at version 34F or higher** and that the **application is updated to version 3.6.0 or higher**. These updates include this integration. Check and update regularly to maintain compatibility and optimal performance of your devices.
 {% endhint %}
 {% endstep %}
@@ -43,29 +58,35 @@ It is important to ensure that the **panel is at version 34F or higher** and tha
 
 1. **Network Verification:** Ensure that both the VESTA panel and the camera are connected to the same network.
 2. **SmartHomeSec APP Setup:**
-   * Open the app and log in using your Master account credentials.
-   * Navigate to the "Cameras" section and select "VESTA ADVANCED."
+   * Open the app and log in using your **Master account** credentials.
+   * Navigate to the "**Cameras**" section and select "**VESTA ADVANCED**."
 3. **Camera Scanning:**
-   * The system will begin scanning for new cameras on the network automatically.
-4.  **Camera Selection:**
-
-    * Choose the camera from the list, and input the username and password. Use the same credentials you use for accessing the camera's web server locally.
-
-
+   * The system will begin **scanning for new cameras on the network automatically**.
+4. **Camera Selection:**
+   * Choose the camera from the list, and input the **username and password**. Use the same credentials you use for accessing the camera's web server locally.
 {% endstep %}
 {% endstepper %}
 
+<figure><img src=".gitbook/assets/ADV-settings.gif" alt=""><figcaption></figcaption></figure>
 
 
 
+### How to set up continuous recording on MicroSD of IP CAM:
+
+**Enable Continuous Recording on MicroSD**
+
+1. **Storage Configuration:**
+   * Navigate to the **Storage** section.
+   * Select **Destination** and ensure **Scheduled** is enabled.
+   * In **Scheduled** make sure to enable 24h all days or needed days
+
+<figure><img src=".gitbook/assets/step-step-SD.gif" alt=""><figcaption></figcaption></figure>
 
 
 
-### VESTA advanced series complete manual guide&#x20;
+### **Quick login to local portal:**&#x20;
 
-{% file src=".gitbook/assets/VESTA Advanced Series .doc" %}
-
-{% hint style="info" %}
+{% hint style="success" %}
 **Quick login to local portal:**&#x20;
 
 
@@ -88,6 +109,10 @@ It is important to ensure that the **panel is at version 34F or higher** and tha
 
 
 
+
+### VESTA advanced series complete manual guide&#x20;
+
+{% file src=".gitbook/assets/VESTA Advanced Series .doc" %}
 
 ### Quick Guide
 
