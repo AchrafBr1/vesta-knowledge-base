@@ -112,7 +112,7 @@ _**Caution**_
 * Before installation or any maintenance work, make sure the power supply has been disconnected.
 {% endhint %}
 
-![](.gitbook/assets/12.jpeg)
+![](<.gitbook/assets/12 (1).jpeg>)
 
 The extension terminal may be useful for the following situations:
 
@@ -122,7 +122,7 @@ The extension terminal may be useful for the following situations:
 
 
 
-![](.gitbook/assets/14.jpeg)
+![](<.gitbook/assets/14 (1).jpeg>)
 
 * The extension terminal and the internal magnetic switch can function together to trigger the Door Contact when either of them is activated. You can also choose to disable the internal magnetic switch through JP1 Jumper setting. If both extension terminal and internal magnetic switch are in use and any of them is triggered (opened), the Door Contact will only send Door Contact a close (restore) signal when both of them are closed.
 

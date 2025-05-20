@@ -18,7 +18,7 @@ For connection, use the cable and connector provided on the Optex detector.
 
 ## _**Identifying the Parts**_
 
-<div align="center" data-full-width="true"><figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="215"><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="215"><figcaption></figcaption></figure></div>
 
 1. **Learn/Test Button**
 2. **Battery (CR2)**

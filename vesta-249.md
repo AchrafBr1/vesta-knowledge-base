@@ -12,7 +12,7 @@ A  PCB tamper switch protects the enclosure from being opened or being removed f
 
 **1. RED LED indicator Test Button**
 
-![](.gitbook/assets/0.png)
+![](<.gitbook/assets/0 (1).png>)
 
 Test Button
 
@@ -104,11 +104,11 @@ If you want to disable one of the functions, remove its corresponding zone from 
 
 ### &#x20;_**Mounting Methods and Installation**_
 
-![](.gitbook/assets/2.png)
+![](<.gitbook/assets/2 (1).png>)
 
 It is recommended that the Door Contact should be placed on the door frame and the magnet on the door. If the door contact is placed on the door, and the door is opened too fast, the transmitted distance may be shorted. The magnet should not be more than 15mm from the Door Contact when the door is closed.
 
-![](.gitbook/assets/3.png)
+![](<.gitbook/assets/3 (1).png>)
 
 {% hint style="warning" %}
 Note:
@@ -180,7 +180,7 @@ This Jumper is to select how many pulses it takes to activate Terminal 1 when it
 
 alarm signal.
 
-![](.gitbook/assets/8.png)If the jumper is OFF, the Terminal 2 will not be triggered by 5 Pulses in 10 seconds. _(**Factory Default**)_
+![](<.gitbook/assets/8 (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 5 Pulses in 10 seconds. _(**Factory Default**)_
 
 **6. Roller Shutter Setting** － **6 Pulse /Disable(JP5)**
 
@@ -188,7 +188,7 @@ alarm signal.
 
 This Jumper is to select how many pulses it takes to activate Terminal 1 when it is set to Roller Shutter
 
-![](.gitbook/assets/9.png)If the jumper is ON, when the Terminal 2 counts **6** Pulses **in 10 seconds**, the Door Contact will send
+![](<.gitbook/assets/9 (1).png>)If the jumper is ON, when the Terminal 2 counts **6** Pulses **in 10 seconds**, the Door Contact will send
 
 alarm signal.
 

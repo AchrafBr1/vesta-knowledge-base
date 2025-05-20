@@ -62,7 +62,7 @@ G. **Temperature Indicator.**
 
     The Radiator Valve is powered by two 1.5V AA alkaline batteries.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 

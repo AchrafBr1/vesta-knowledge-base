@@ -235,7 +235,7 @@ When the screw on the side of the rotating holder is loose, the VST-892EXC can b
 
 Step 6. PIR lens A / B should be installed vertically; PIR lens C is installed horizontally. Different applications and installation methods are shown in the table and figures below.
 
-<figure><img src=".gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Installation Recommendations**_
 

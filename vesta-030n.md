@@ -184,7 +184,7 @@ connected to the repeater. You can add / delete devices by clicking ![](<.gitboo
 
 ## **Add Device**:
 
-After clicking ![](<.gitbook/assets/22 (1).jpeg>), the Add Device list will pop up, displaying devices that are not connected to any Repeater and are available to be added to the current Repeater. Select the device(s) by checking the box(es), then click Submit to add the selected device(s) to the Repeater.
+After clicking ![](<.gitbook/assets/22 (1) (1).jpeg>), the Add Device list will pop up, displaying devices that are not connected to any Repeater and are available to be added to the current Repeater. Select the device(s) by checking the box(es), then click Submit to add the selected device(s) to the Repeater.
 
 ![](<.gitbook/assets/23 (3).png>)
 

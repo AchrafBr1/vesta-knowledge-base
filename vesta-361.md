@@ -102,7 +102,7 @@ Note:
 
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/13 (1) (1).jpeg>)
+![](<.gitbook/assets/13 (1) (1) (1).jpeg>)
 
 ## **Learning**
 
