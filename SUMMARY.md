@@ -89,7 +89,7 @@
 * [VESTA-140](vesta-140.md)
 * [VESTA-144](vesta-144.md)
 * [VESTA-148](vesta-148.md)
-* [VESTA 149](vesta-200.md)
+* [VESTA-149](vesta-200.md)
 * [VESTA-150](vesta-150.md)
 * [VESTA-150N](vesta-150n.md)
 * [VESTA-152](vesta-152.md)
@@ -220,7 +220,7 @@
 * [VESTA-441](vesta-441.md)
 * [VESTA-442](vesta-442.md)
 * [VESTA-443](vesta-443.md)
-* [VESTA 447](vesta-447.md)
+* [VESTA-447](vesta-447.md)
 
 ## 📄 CERTIFICATES
 

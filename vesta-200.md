@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# VESTA 149
+# VESTA-149
 
 **DC-15SC2-2W / DCA-15C2-2W**
 
