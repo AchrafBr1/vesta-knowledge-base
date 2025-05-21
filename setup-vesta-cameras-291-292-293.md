@@ -47,43 +47,67 @@ Use the SmartHomeSec app to initialise the camera and **add** it to the system
 
 ### STEP 3: Press + Icon to add a camera
 
-<figure><img src=".gitbook/assets/101.png" alt=""><figcaption><p>STEP 4                                                                                              STEP 5                                      </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
 
-### STEP 4: Press the Imou/Vesta icon
+### STEP 4: Press the VESTA/Imou icon
 
-### STEP 5: Scan the Camera QR code  and press NEXT&#x20;
+### STEP 5: Scan the Camera QR code and press NEXT&#x20;
 
-<figure><img src=".gitbook/assets/102.png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
+### STEP 6: Select how to add the camera:
 
-### STEP 6: Choose the communication path of the camera (Ethernet or Wi-Fi)
+* &#x20;Add to the equipment: The camera must be installed on the same panel LAN network. In this way, the camera will be fully supported in the panel and the user app.&#x20;
+
+{% hint style="success" %}
+Vantages to add to the equipment:
+
+* The camera will be an intrusion zone in the panel, and it can generate alarms.
+* SD-CARD video recording access
+* Movement detection.
+* PTZ control for the VESTA-292
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
+
+* Add to the cloud: The camera will be installed using the cloud. The user will see the live video only from the user's app account.
+
+{% hint style="success" %}
+Vantages to add to the cloud:
+
+* The camera can be installed on a different network (or at a different site).
+* Users with panels connected with 4G communication only can have cameras connected to their accounts.
+{% endhint %}
+
+### STEP 7: Choose the communication path of the camera (Ethernet or Wi-Fi)
 
 {% hint style="warning" %}
 The camera and the panel must be in the same network, please check before proceeding&#x20;
 {% endhint %}
 
+<figure><img src=".gitbook/assets/102.png" alt=""><figcaption><p>STEP 7</p></figcaption></figure>
+
 {% hint style="info" %}
-In case of Ethernet communication jump directly to STEP 11
+,In case of Ethernet communication jump directly to STEP 12
 {% endhint %}
 
-### STEP 7: Wi-Fi connection
-
-<figure><img src=".gitbook/assets/102.2.png" alt=""><figcaption><p>STEP 7                                                                STEP 8                                                                 STEP 9</p></figcaption></figure>
+### STEP 8: Wi-Fi connection
 
 {% hint style="warning" %}
 The mobile must be connected to the Wi-Fi network that you want to connect the camera
 {% endhint %}
 
-### STEP 8: Connet your mobile to the camera network by pressing join
+<figure><img src=".gitbook/assets/102.2.png" alt=""><figcaption><p>STEP 8                                                                STEP 9                                                                 STEP 10</p></figcaption></figure>
 
-### STEP 9: Select the network and press next
+### STEP 9: Connect your mobile to the camera network by pressing join
 
-<figure><img src=".gitbook/assets/103.png" alt=""><figcaption><p>STEP 7</p></figcaption></figure>
+### STEP 10: Select the network and press Next
 
-### STEP 10: Write the Wi-Fi password
+<figure><img src=".gitbook/assets/103.png" alt=""><figcaption><p> STEP 11                                                                STEP 12                                                                    STEP 13</p></figcaption></figure>
 
-### STEP 11: The app will show you the camera&#x20;
+### STEP 11: Write the Wi-Fi password
 
-<figure><img src=".gitbook/assets/104.png" alt=""><figcaption></figcaption></figure>
+### STEP 12: The app will show you the camera&#x20;
+
+<figure><img src=".gitbook/assets/104.png" alt=""><figcaption><p>STEP 12                                                                                                                                                  </p></figcaption></figure>
 
 ### STEP 12:  User name: admin and Password: (Safety code of the camera, label below)
 
