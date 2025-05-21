@@ -74,19 +74,19 @@ Vantages to add to the equipment:
 Vantages to add to the cloud:
 
 * The camera can be installed on a different network (or at a different site).
-* Users with panels connected with 4G communication only can have cameras connected to their accounts.
+* Users with panels connected with 4G communication only, can have cameras connected to their accounts.
 {% endhint %}
 
 ### STEP 7: Choose the communication path of the camera (Ethernet or Wi-Fi)
 
 {% hint style="warning" %}
-The camera and the panel must be in the same network, please check before proceeding&#x20;
+The camera and the panel must be on the same network, please check before proceeding&#x20;
 {% endhint %}
 
 <figure><img src=".gitbook/assets/102.png" alt=""><figcaption><p>STEP 7</p></figcaption></figure>
 
 {% hint style="info" %}
-,In case of Ethernet communication jump directly to STEP 12
+In case of Ethernet communication, jump directly to STEP 12
 {% endhint %}
 
 ### STEP 8: Wi-Fi connection
@@ -105,13 +105,21 @@ The mobile must be connected to the Wi-Fi network that you want to connect the c
 
 ### STEP 11: Write the Wi-Fi password
 
-### STEP 12: The app will show you the camera&#x20;
+### STEP 12: The app will show you the camera userID and password
 
 <figure><img src=".gitbook/assets/104.png" alt=""><figcaption><p>STEP 12                                                                                                                                                  </p></figcaption></figure>
 
-### STEP 12:  User name: admin and Password: (Safety code of the camera, label below)
+{% hint style="warning" %}
+Note:
 
-<figure><img src=".gitbook/assets/105.png" alt="" width="272"><figcaption></figcaption></figure>
+If the password field is not automatically filled:&#x20;
+
+UserID: admin
+
+Password: (Safety code of the camera, label below)
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Password</p></figcaption></figure>
 
 SETUP COMPLETED
 
