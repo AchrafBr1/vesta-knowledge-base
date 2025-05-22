@@ -2,7 +2,7 @@
 
 **MDC-3**
 
-## **Mini Door Contact**
+## **Mini Door Contact (Brown)**
 
 **Introduction**
 
