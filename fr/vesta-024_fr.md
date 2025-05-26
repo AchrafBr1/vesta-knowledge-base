@@ -44,88 +44,90 @@ VST-862EX-IL – Détecteur de mouvement PIR avec caméra et LED infrarouge
 
 ### _<mark style="background-color:yellow;">**Voyant LED**</mark>_
 
-Lorsqu'il est activé, l'indicateur LED s'allume dans les conditions suivantes :
+Lorsqu'il est activé, le voyant LED s'allume dans les conditions suivantes :\
+\- Lorsque l'autoprotection est déclenchée, la LED clignote 6 fois pour indiquer qu'elle transmet un signal "**Autoprotection**".\
+\- Lorsque le PIRCAM est en condition de défaut (autoprotection, batterie basse persistante), chaque fois qu'il transmet un mouvement, la LED clignote 6 fois.\
+\- Après avoir appuyé une fois sur le bouton Test pour passer en mode Test, la LED clignote pendant 60 secondes pour indiquer que le PIRCAM est en train de démarrer.\
+\- En mode Test, la LED s'allumera pendant 2 secondes chaque fois qu'un mouvement est détecté.
 
-* Lorsque l'interrupteur anti-sabotage est déclenché, la LED clignote 6 fois pour indiquer qu'elle transmet "**Altérer**» signale-t-il.
+{% hint style="info" %}
+NOTE:
 
-1
+L'indicateur LED peut être activé en réglant le DIP Switch 2 sur la position ON. Prière de se référer au **Tableau de position des DIP switchs** pour plus de détails.
+{% endhint %}
 
-* Lorsque la caméra PIR est dans des conditions de défaut (une condition d'ouverture ou de batterie faible persiste), chaque fois qu'elle transmet un mouvement détecté, la LED clignote 6 fois.
-* Après avoir appuyé une fois sur le bouton Test pour passer en mode Test, la LED clignote pendant 60 secondes pour indiquer que la caméra à capteur de mouvement PIR est en train de se réchauffer.
-* En mode Test, la LED s'allumera pendant 2 secondes chaque fois qu'un mouvement est détecté.
+### _<mark style="background-color:yellow;">**Capture d'image**</mark>_
 
-_\\_
+Lorsque le système d'alarme est armé, le PIRCAM capturera 1, 3 ou 6 images d'alarme en résolutions 640 x 480 ou 320 x 240 (programmable depuis la centrale) lors de la détection de mouvement. Vous pouvez également demander manuellement au PIRCAM de prendre une photo via la centrale. Les images capturées seront transférées à la centrale pour vérification visuelle des alarmes.
 
-*
-  * L'indicateur LED peut être activé en réglant le DIP Switch2 sur la position ON. Prière de se référer à**Tableau de position des commutateurs DIP**pour plus de détails.
-* _**Capture d'image**_
+{% hint style="info" %}
+NOTE:
 
-Lorsque le système d'alarme est armé, la caméra PIR capturera 1, 3 ou 6 images d'alarme en résolutions 640 x 480 ou 320 x 240 (programmable depuis le panneau de commande) lors de la détection de mouvement. Vous pouvez également demander manuellement à la caméra PIR de prendre une photo via le panneau de configuration. Les images capturées seront transférées au panneau de commande pour vérification visuelle des alarmes.
+Si votre PIRCAM est installé à un endroit où la scène est un environnement complexe avec une lumière intense ou beaucoup de couleurs, les images capturées seront de grande taille, ce qui pourrait entraîner une coupure lorsque les images sont transmises à la centrale.
+{% endhint %}
 
-_\\_
+### _<mark style="background-color:yellow;">**Période de démarrage**</mark>_
 
-*
-  * Si votre caméra PIR est installée à un endroit où le champ de vision de la caméra est un environnement complexe avec une lumière intense ou beaucoup de couleurs, les images capturées seront de grande taille, ce qui pourrait entraîner une troncature lorsque les images sont transmises au panneau de commande. .
-* _**Période d'échauffement**_
+Le PIRCAM à une période de démarrage de 60 secondes dans les conditions suivantes :\
+\- Lorsque le PIRCAM est activé par la centrale en cas d'armement u d'armement avec défaut.\
+\- Lorsque le bouton Test est utilisé une fois pour entrer en mode test.\
+La LED rouge clignotera lentement pendant la période de démarrage. Pendant cette période de 60 secondes, le PIRCAM ne sera pas actif.
 
-La caméra PIR se réchauffera pendant 60 secondes dans les conditions suivantes :
+### _<mark style="background-color:yellow;">**Mode Test**</mark>_
 
-* Lorsque la caméra PIR est allumée par le système du panneau de commande lors de l'entrée en mode armement ou de l'entrée en mode armement avec des conditions de défaut.
-* Lorsque le bouton de test est enfoncé une fois pour entrer en mode test.
+* Le PIRCAM peut être mise en mode Test pendant 10 minutes en appuyant une fois sur le bouton Test. En mode Test, les fonctions de minuterie de mise en veille et de capture d'image sont désactivées. Le voyant LED s'allume pendant deux secondes chaque fois qu'un mouvement est détecté. Le PIRCAM quittera automatiquement le mode test après 10 minutes et reviendra en mode normal.
+* Pour mettre le PIRCAM en mode test constamment, veuillez régler le DIP switch 1 sur ON (veuillez consulter le **Tableau de position des DIP switchs** pour plus de détails).
 
-La LED rouge clignotera lentement pendant la période de préchauffage. Pendant la période de préchauffage de 60 secondes, la caméra PIR ne sera pas activée.
+### _<mark style="background-color:yellow;">**Supervision**</mark>_
 
-* _**Mode d'essai**_
-  * La caméra PIR peut être mise en mode Test pendant 10 minutes en appuyant une fois sur le bouton Test. En mode Test, les fonctions de minuterie de mise en veille et de capture d'image sont désactivées. L'indicateur LED peut s'allumer pendant deux secondes chaque fois qu'un mouvement est détecté. La caméra PIR quittera automatiquement le mode test après 10 minutes et reviendra en mode normal.
-  * Pour mettre la caméra PIR en mode test constant, veuillez régler le commutateur DIP 1 sur la position ON (veuillez vous référer à**Tableau de position des commutateurs DIP**).
-* _**Signal de surveillance**_
-  * Après l'installation, la caméra PIR transmettra automatiquement et périodiquement des signaux de surveillance au panneau de commande à des intervalles aléatoires de 30 à 50 minutes.
-  * Si le panneau de commande n'a pas reçu le signal de la caméra PIR pendant la période de temps prédéfinie, le panneau de commande indiquera sur son écran que la caméra PIR particulière rencontre un problème de manque de signal.
-* _**Minuterie de mise en veille**_
-  * La caméra PIR dispose d'un « temps de veille » automatique d'environ une minute pour économiser l'énergie. Après avoir transmis un mouvement détecté, la caméra PIR ne retransmettra pas pendant une minute. Tout autre mouvement détecté au cours de cette période de sommeil d’une minute prolongera la durée du sommeil d’une minute supplémentaire. De cette façon, un mouvement continu devant la caméra PIR n’épuisera pas indûment la batterie.
-* _**Fonction double coup**_
-  * La caméra PIR a une fonction double coup. Si la fonction double coup est activée, la caméra PIR signalera une alarme au panneau de commande uniquement si deux mouvements sont détectés dans les 10 secondes. Si la fonction double coup est désactivée, la caméra PIR signalera une alarme au panneau de commande lorsqu'un mouvement est détecté.
-* _**Autoprotection**_
-  * La caméra PIR est protégée par un interrupteur anti-sabotage interne qui est comprimé lorsque la caméra PIR est accrochée au support de montage. Lorsque la caméra PIR est retirée du support de montage, le commutateur d'autoprotection sera activé et la caméra PIR enverra un signal d'autoprotection au panneau de commande pour rappeler à l'utilisateur cette condition.
-* _**Tableau de position des commutateurs DIP**_
+* Après l'installation, le PIRCAM transmettra automatiquement et périodiquement des signaux de supervision à la centrale aléatoirement de 30 à 50 minutes.
+* Si la centrale ne reçoit le signal du PIRCAM pendant la période de temps définie, la centrale indiquera sur son écran que le PIRCAM rencontre un problème de perte de signal.
 
-La fonction de chaque commutateur DIP est répertoriée dans le tableau ci-dessous. Le commutateur DIP est soit activé, soit désactivé. La position supérieure indique ON et la position inférieure indique OFF.
+### _<mark style="background-color:yellow;">**Mise en veille**</mark>_
 
-|   | TREMPER      |   |           | Position            |                                  |                                    | Fonction                           |   |              |              |                                                    | TREMPER   |              |                                      | Niveau de sensibilité                       |   |   |           |   |   |
-| - | ------------ | - | --------- | ------------------- | -------------------------------- | ---------------------------------- | ---------------------------------- | - | ------------ | ------------ | -------------------------------------------------- | --------- | ------------ | ------------------------------------ | ------------------------------------------- | - | - | --------- | - | - |
-|   |              |   |           |                     |                                  |                                    |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   | Commutateur1 |   |           | SUR                 |                                  | Mode d'essai                       |                                    |   |              | Commutateur5 |                                                    |           | Commutateur6 |                                      |                                             |   |   |           |   |   |
-|   |              |   | DÉSACTIVÉ |                     | Mode normal (par défaut)         |                                    |                                    |   | SUR          |              |                                                    | SUR       |              | Faible; Animal de 60 kg (par défaut) | SUR                                         |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           | SUR                 |                                  | Indicateur LED activé (par défaut) |                                    |   | SUR          |              |                                                    | DÉSACTIVÉ |              | Haut; animal de 35 kg                |                                             |   |   |           |   |   |
-|   | Commutateur2 |   |           |                     |                                  |                                    | DÉSACTIVÉ                          |   |              | SUR          |                                                    | Réservé   |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           | DÉSACTIVÉ           |                                  | Désactivation du voyant LED        |                                    |   |              | DÉSACTIVÉ    |                                                    |           | DÉSACTIVÉ    |                                      | Réservé                                     |   |   |           |   |   |
-|   |              |   |           | SUR                 |                                  | Caméra PIR face                    | un mur                             |   |              |              |                                                    |           |              |                                      |                                             |   |   | DÉSACTIVÉ |   |   |
-|   |              |   |           |                     |                                  |                                    | TREMPER                            |   |              | Position     |                                                    |           | Fonction     |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    | Caméra PIR face à un espace ouvert |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   | Commutateur3 |   |           |                     |                                  |                                    |                                    |   | Commutateur7 |              |                                                    | SUR       |              | Activer le double coup (par défaut)  |                                             |   |   |           |   |   |
-|   |              |   | DÉSACTIVÉ |                     | espace (pas de mur à l'intérieur | 10 m)                              |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    |                                    |   | DÉSACTIVÉ    |              | Désactivation du double coup                       |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    | (défaut)                           |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    |                                    |   |              |              |                                                    |           | SUR          |                                      | Activer l'immunité aux animaux (par défaut) |   |   |           |   |   |
-|   |              |   |           | SUR                 |                                  | Caméra PIR face                    | une pelouse                        |   |              | Commutateur8 |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    |                                    |   | DÉSACTIVÉ    |              | Désactivation immunitaire des animaux de compagnie |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     | (défaut)                         |                                    |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   | Commutateur4 |   |           |                     |                                  |                                    |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   | DÉSACTIVÉ |                     | Caméra PIR face à un             |                                    |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           | sol en béton/pierre |                                  |                                    |                                    |   | 2            |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
-|   |              |   |           |                     |                                  |                                    |                                    |   |              |              |                                                    |           |              |                                      |                                             |   |   |           |   |   |
+Le PIRCAM dispose d'une « mise en veille » automatique d'environ une minute pour économiser l'énergie. Après avoir transmis la détection d'un mouvement, le PIRCAM ne retransmettra pas pendant une minute. Tout autre mouvement détecté au cours de cette période de veille d’une minute prolongera la durée de veille minute supplémentaire. De cette façon, un mouvement continu devant le PIRCAM n’épuisera pas la batterie.
+
+### _<mark style="background-color:yellow;">**Fonction double détection**</mark>_
+
+Le PIRCAM à une fonction de double détection. Si cette fonction est activée, le PIRCAM signalera une alarme à la centrale uniquement si deux mouvements sont détectés dans les 10 secondes. Si la fonction double détection est désactivée, le PIRCAM signalera une alarme à la centrale lorsqu'un mouvement est détecté.
+
+### _<mark style="background-color:yellow;">**Autoprotection**</mark>_
+
+Le PIRCAM est protégée par une autoprotection qui est comprimée lorsque le PIRCAM est fixé à son support. Lorsque le PIRCAM est retiré de sons support, l'autoprotection sera activée et le PIRCAM enverra un signal d'autoprotection à la centrale pour informer l'utilisateur de cette condition.
+
+### _<mark style="background-color:yellow;">**Tableau de position des DIP switchs**</mark>_
+
+La fonction de chaque switch DIP est répertoriée dans le tableau ci-dessous. Le switch DIP est soit activé, soit désactivé. La position haute indique ON et la position basse indique OFF.
 
 ![](<.gitbook/assets/2 (37).png>)
 
-_**\\**_
+| DIP      | Position | Fonction                                                                     |
+| -------- | -------- | ---------------------------------------------------------------------------- |
+| Switch 1 | ON       | Mode Test                                                                    |
+|          | OFF      | Mode Normal (par défaut)                                                     |
+| Switch 2 | ON       | Led activée (par défaut)                                                     |
+|          | OFF      | Led désactivée                                                               |
+| Switch 3 | ON       | PIR faisant face à un mur                                                    |
+|          | OFF      | PIUR faisant face à une scène ouverte (aucune mur dans les 10m) (par défaut) |
+| Switch 4 | ON       | PIR faisant face à une espace végétalisée (pelouse) (par défaut)             |
+|          | OFF      | PIR faisant face à une scène maçonnée (béton, pavets)                        |
+| Switch 5 | Switch 6 | Sensibilité immunité animaux                                                 |
+| ON       | ON       | Basse, 60kg (par défaut)                                                     |
+| ON       | OFF      | Haute, 35kg                                                                  |
+| OFF      | ON       | non utilisé                                                                  |
+| OFF      | OFF      | non utilisé                                                                  |
+| Switch 7 | ON       | Double détection activée (par défaut)                                        |
+|          | OFF      | Double détection désactivée                                                  |
+| Switch 8 | ON       | Immunité animaux activée (par défaut)                                        |
+|          | OFF      | Immunité animaux désactivée                                                  |
 
- Après avoir modifié les paramètres du commutateur Dip, veuillez rallumer la caméra PIR pour qu'elle fonctionne avec les nouveaux paramètres du commutateur Dip.
+{% hint style="info" %}
+NOTE:\
+Après avoir modifié la position des switchs, veuillez rallumer le PIRCAM afin qu'il fonctionne avec les nouveaux paramètres.
+{% endhint %}
 
-* _**Batterie**_
+### _<mark style="background-color:yellow;">**Batterie**</mark>_
+
 * La caméra PIR utilise quatre piles au lithium AAL91 comme source d'alimentation.
 * La caméra PIR dispose d'une détection de tension de batterie faible. Lorsqu'une batterie faible est détectée, un signal de batterie faible sera envoyé au panneau de commande avec des transmissions de signal régulières pour que le panneau de commande affiche l'état en conséquence.
 * **Pour changer les piles :**
