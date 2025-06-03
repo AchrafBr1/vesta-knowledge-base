@@ -1,4 +1,4 @@
-# Intégration avec Dahua
+# Intégration avec les caméras Dahua
 
 Intégration **DAHUA**:
 
@@ -29,10 +29,9 @@ Avec SmartHomeSec, il st possible d'ajouter une caméra à une zone de la centra
 {% hint style="info" %}
 NOTE:
 
-L'intégration Vesta/Dahua ne fonctionne qu'avec les photos, pas les vidéos.\
-Le réglage correspondant doit être réalisé sur la zone utilisée par la caméra.
+L'intégration Vesta/Dahua ne fonctionne qu'avec les photos, pas les vidéos. Le réglage correspondant doit être réalisé sur la zone utilisée par la caméra.
 {% endhint %}
 
 ### _<mark style="background-color:yellow;">**Durée entre deux alarmes**</mark>_
 
-Pour une vérification correcte, il y a une temporisation de 3 minutes entre les détection.
+Pour une vérification correcte, il y a un délai de 3 minutes entre les détections.

@@ -175,4 +175,4 @@
 * [🎦 Caméras Vesta](cameras-vesta/README.md)
   * [VESTA-291/292/293](cameras-vesta/vesta-291-292-293.md)
   * [Vesta Advanced](cameras-vesta/vesta-advanced.md)
-  * [Intégration avec Dahua](cameras-vesta/integration-avec-dahua.md)
+  * [Intégration avec les caméras Dahua](cameras-vesta/integration-avec-les-cameras-dahua.md)
