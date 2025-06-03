@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Vesta Advanced
 
 ## Etes-vous prêt à découvrir la nouvelle gamme de caméras VESTA ADVANCED SERIES?
@@ -20,13 +16,13 @@ hidden: true
 
 Pour mettre à jour la caméra, suivre les étapes suivantes:
 
-1.  **Téléchargement du firmware**: Assurez-vous d'avoir télmécharger le firmware qui correspond à votre modèle de caméra depuis la liste ci-dessous:\
+1.  **Téléchargement du firmware**: Assurez-vous d'avoir téléchargé le firmware qui correspond à votre modèle de caméra depuis la liste ci-dessous:\
 
 
     <table><thead><tr><th>Modèles</th><th width="114">Firmware</th></tr></thead><tbody><tr><td><ul><li>IPC-T38-ZAS-PV-B</li><li>IPC-T38-ZAS-PV</li><li>IPC-B38-ZAS-PV-B</li><li>IPC-B38-ZAS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/u9fVnKEjg">Download</a></td></tr><tr><td><ul><li>IPC-T35-AS-PV-B</li><li>IPC-T35-AS-PV</li><li>IPC-B35-AS-PV-B</li><li>IPC-B35-AS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/LJPMxKDbU">Download</a></td></tr><tr><td><ul><li>IPC-D24-ZAS-L-B</li><li>IPC-D24-ZAS-L</li></ul><ul><li>IPC-T24-L</li><li>IPC-B24-L</li></ul></td><td><a href="https://gofile.me/7yryF/HYczagZrp">Download</a></td></tr></tbody></table>
 
 
-2. [**Accéder à l'interface locale**](./#quick-login-to-local-portal): Se connecter à l'interface web locale de la caméra (IP par défaut: _192.168.1.86_).
+2. [**Accéder à l'interface locale**](./#connexion-a-linterface-locale): Se connecter à l'interface web locale de la caméra (IP par défaut: _192.168.1.86_).
 3. **Se rendre dans la configuration**: Cliquez sur le menu "Setup".
 4. **Se rendre dans le menu Système**: Cliquez sur "System'.
 5. **Se rendre dans le menu Mise à jour**: Cliquez sur "Upgrade" et sélectionnez le fichier précédemment téléchargé pour démarrer le processus de mise à jour.
@@ -38,7 +34,7 @@ Pour mettre à jour la caméra, suivre les étapes suivantes:
 ### Mise à jour centrale et application SmartHomeSec
 
 {% hint style="info" %}
-Il est important de s'assurer que la **centrale utilise  la version** **34F ou plus** et que l'**application soit en version 3.6.0 ou plus**. Ces mises à jour disposent de l'intégratione. Vérifiez et mettez à jour régulièrement vos périphériques pour conserver la compatibilité et maintenir une performance optimale.
+Il est important de s'assurer que la **centrale utilise  la version** **34F ou plus** et que l'**application soit en version 3.6.0 ou plus**. Ces mises à jour disposent de l'intégration. Vérifiez et mettez à jour régulièrement vos périphériques pour conserver la compatibilité et maintenir une performance optimale.
 {% endhint %}
 {% endstep %}
 
