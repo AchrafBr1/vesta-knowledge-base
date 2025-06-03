@@ -102,6 +102,6 @@ Il est important de s'assurer que la **centrale utilise  la version** **34F ou p
 {% file src="../../.gitbook/assets/Quickly User Manual v25.pdf" %}
 
 {% hint style="warning" %}
-_**Plus d'informations seront ajoutées prochainement.**_
+_**Plus d'informations prochainement disponibles.**_
 {% endhint %}
 

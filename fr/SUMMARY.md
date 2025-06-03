@@ -4,7 +4,7 @@
 * [🎦 Caméras Vesta](cameras-vesta/README.md)
   * [VESTA-291/292/293](cameras-vesta/vesta-291-292-293.md)
   * [Vesta Advanced](cameras-vesta/vesta-advanced/README.md)
-    * [GAMME DE CAMERAS IP VESTA ADVANCED](cameras-vesta/vesta-advanced/gamme-de-cameras-ip-vesta-advanced.md)
+    * [Caméras IP VESTA ADVANCED B24, D24, T24, B35, T35, B38, T38](cameras-vesta/vesta-advanced/cameras-ip-vesta-advanced-b24-d24-t24-b35-t35-b38-t38.md)
   * [Intégration avec les caméras Dahua](cameras-vesta/integration-avec-les-cameras-dahua.md)
 * [VESTA-005N](vesta-005n_fr.md)
 * [VESTA-006](vesta-006_fr.md)
