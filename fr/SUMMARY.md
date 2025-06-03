@@ -1,7 +1,11 @@
 # Table of contents
 
 * [📘 Manuels et guides techniques du système d'alarme VESTA](README.md)
-* [📻 MODÈLES](models_fr.md)
+* [🎦 Caméras Vesta](cameras-vesta/README.md)
+  * [VESTA-291/292/293](cameras-vesta/vesta-291-292-293.md)
+  * [Vesta Advanced](cameras-vesta/vesta-advanced/README.md)
+    * [GAMME DE CAMERAS IP VESTA ADVANCED](cameras-vesta/vesta-advanced/gamme-de-cameras-ip-vesta-advanced.md)
+  * [Intégration avec les caméras Dahua](cameras-vesta/integration-avec-les-cameras-dahua.md)
 * [VESTA-005N](vesta-005n_fr.md)
 * [VESTA-006](vesta-006_fr.md)
 * [VESTA-007](vesta-007_fr.md)
@@ -172,8 +176,4 @@
 * [VESTA 387](vesta-387_fr.md)
 * [VESTA 393](vesta-393_fr.md)
 * [CONSEILS SUR LES BUS VMAX](vmax-bus-tips_fr.md)
-* [🎦 Caméras Vesta](cameras-vesta/README.md)
-  * [VESTA-291/292/293](cameras-vesta/vesta-291-292-293.md)
-  * [Vesta Advanced](cameras-vesta/vesta-advanced/README.md)
-    * [GAMME DE CAMERAS IP VESTA ADVANCED](cameras-vesta/vesta-advanced/gamme-de-cameras-ip-vesta-advanced.md)
-  * [Intégration avec les caméras Dahua](cameras-vesta/integration-avec-les-cameras-dahua.md)
+* [📻 MODÈLES](models_fr.md)

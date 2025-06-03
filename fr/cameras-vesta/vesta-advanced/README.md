@@ -1,3 +1,7 @@
+---
+icon: video
+---
+
 # Vesta Advanced
 
 ## Etes-vous prêt à découvrir la nouvelle gamme de caméras VESTA ADVANCED SERIES?

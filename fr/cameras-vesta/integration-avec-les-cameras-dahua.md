@@ -1,3 +1,7 @@
+---
+icon: circle-video
+---
+
 # Intégration avec les caméras Dahua
 
 Intégration **DAHUA**:
