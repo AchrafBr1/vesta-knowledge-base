@@ -174,5 +174,6 @@
 * [CONSEILS SUR LES BUS VMAX](vmax-bus-tips_fr.md)
 * [🎦 Caméras Vesta](cameras-vesta/README.md)
   * [VESTA-291/292/293](cameras-vesta/vesta-291-292-293.md)
-  * [Vesta Advanced](cameras-vesta/vesta-advanced.md)
+  * [Vesta Advanced](cameras-vesta/vesta-advanced/README.md)
+    * [GAMME DE CAMERAS IP VESTA ADVANCED](cameras-vesta/vesta-advanced/gamme-de-cameras-ip-vesta-advanced.md)
   * [Intégration avec les caméras Dahua](cameras-vesta/integration-avec-les-cameras-dahua.md)
