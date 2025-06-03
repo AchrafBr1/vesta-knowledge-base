@@ -6,10 +6,6 @@
   * [Vesta Advanced](cameras-vesta/vesta-advanced/README.md)
     * [Caméras IP VESTA ADVANCED B24, D24, T24, B35, T35, B38, T38](cameras-vesta/vesta-advanced/cameras-ip-vesta-advanced-b24-d24-t24-b35-t35-b38-t38.md)
   * [Intégration avec les caméras Dahua](cameras-vesta/integration-avec-les-cameras-dahua.md)
-* [Intégrations](integrations.md)
-* [❓ Trucs et astuces](trucs-et-astuces/README.md)
-  * [📻 MODÈLES](trucs-et-astuces/models_fr.md)
-  * [CONSEILS SUR LES BUS VMAX](trucs-et-astuces/vmax-bus-tips_fr.md)
 * [VESTA-005N](vesta-005n_fr.md)
 * [VESTA-006](vesta-006_fr.md)
 * [VESTA-007](vesta-007_fr.md)
@@ -129,6 +125,14 @@
 * [VESTA 207N](vesta-207n_fr.md)
 * [VESTA 210](vesta-210_fr.md)
 * [VESTA 211N 720P](vesta-211n-720p_fr.md)
+
+## ❓ Trucs et astuces
+
+* [📻 MODÈLES](trucs-et-astuces/models_fr.md)
+* [CONSEILS SUR LES BUS VMAX](trucs-et-astuces/vmax-bus-tips_fr.md)
+
+***
+
 * [VESTA 211N](vesta-211n_fr.md)
 * [VESTA 217](vesta-217_fr.md)
 * [VESTA 218](vesta-218_fr.md)
@@ -179,3 +183,7 @@
 * [VESTA 384](vesta-384_fr.md)
 * [VESTA 387](vesta-387_fr.md)
 * [VESTA 393](vesta-393_fr.md)
+
+## 🧩 Intégrations
+
+* [Page 1](integrations/page-1.md)
