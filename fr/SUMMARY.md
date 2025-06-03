@@ -125,14 +125,6 @@
 * [VESTA 207N](vesta-207n_fr.md)
 * [VESTA 210](vesta-210_fr.md)
 * [VESTA 211N 720P](vesta-211n-720p_fr.md)
-
-## ❓ Trucs et astuces
-
-* [📻 MODÈLES](trucs-et-astuces/models_fr.md)
-* [CONSEILS SUR LES BUS VMAX](trucs-et-astuces/vmax-bus-tips_fr.md)
-
-***
-
 * [VESTA 211N](vesta-211n_fr.md)
 * [VESTA 217](vesta-217_fr.md)
 * [VESTA 218](vesta-218_fr.md)
@@ -183,6 +175,11 @@
 * [VESTA 384](vesta-384_fr.md)
 * [VESTA 387](vesta-387_fr.md)
 * [VESTA 393](vesta-393_fr.md)
+
+## ❓ Trucs et astuces
+
+* [📻 MODÈLES](trucs-et-astuces/models_fr.md)
+* [CONSEILS SUR LES BUS VMAX](trucs-et-astuces/vmax-bus-tips_fr.md)
 
 ## 🧩 Intégrations
 
