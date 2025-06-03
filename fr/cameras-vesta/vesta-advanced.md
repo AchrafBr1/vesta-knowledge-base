@@ -1,2 +1,6 @@
-# Vesta Advance
+---
+hidden: true
+---
+
+# Vesta Advanced
 
