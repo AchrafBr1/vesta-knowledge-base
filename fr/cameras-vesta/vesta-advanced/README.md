@@ -69,8 +69,6 @@ Il est important de s'assurer que la **centrale utilise  la version** **34F ou p
 
 <figure><img src="../../.gitbook/assets/step-step-SD.gif" alt=""><figcaption></figcaption></figure>
 
-
-
 ### **Connexion à l'interface locale:**&#x20;
 
 {% hint style="success" %}
@@ -89,15 +87,11 @@ Il est important de s'assurer que la **centrale utilise  la version** **34F ou p
 **Reset du mot de passe:** Si l'utilisateur oublie le mo de passe, cliquez sur Reset Password pour obtenir une clé. Une fois cette clé envoyé à nos techniciens, une nouvelle clé de décodage sera générée pour l'utilisateur et le **mot de passe** sera forcé à sa valeur **par défaut** **“123456”.**
 {% endhint %}
 
-
-
-
-
-### Manuel complet gamme VESTA ADVANCED&#x20;
+### _<mark style="background-color:yellow;">Gamme VESTA ADVANCED manuel complet (anglais)</mark>_
 
 {% file src="../../.gitbook/assets/VESTA Advanced Series .doc" %}
 
-### Guide rapide
+### _<mark style="background-color:yellow;">Guide rapide (anglais)</mark>_
 
 {% file src="../../.gitbook/assets/Quickly User Manual v25.pdf" %}
 

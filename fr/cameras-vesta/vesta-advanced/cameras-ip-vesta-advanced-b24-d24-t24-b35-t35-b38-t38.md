@@ -1,6 +1,6 @@
 # Caméras IP VESTA ADVANCED B24, D24, T24, B35, T35, B38, T38
 
-### _<mark style="background-color:yellow;">Gamme VESTA ADVANCED manuel complet</mark>_&#x20;
+### _<mark style="background-color:yellow;">Gamme VESTA ADVANCED manuel complet (anglais)</mark>_&#x20;
 
 {% file src="../../.gitbook/assets/VESTA Advanced Series .doc" %}
 
@@ -20,7 +20,7 @@
 **Reset du mot de passe:** Si l'utilisateur oublie le mo de passe, cliquez sur Reset Password pour obtenir une clé. Une fois cette clé envoyé à nos techniciens, une nouvelle clé de décodage sera générée pour l'utilisateur et le **mot de passe** sera forcé à sa valeur **par défaut** **“123456”.**
 {% endhint %}
 
-### _<mark style="background-color:yellow;">Guide rapide</mark>_
+### _<mark style="background-color:yellow;">Guide rapide (anglais)</mark>_
 
 {% file src="../../.gitbook/assets/Quickly User Manual v25.pdf" %}
 
