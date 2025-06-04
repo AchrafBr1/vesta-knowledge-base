@@ -178,7 +178,7 @@
 ## ❓ Trucs et astuces
 
 * [📻 MODÈLES](trucs-et-astuces/models_fr.md)
-* [CONSEILS SUR LES BUS VMAX](trucs-et-astuces/vmax-bus-tips_fr.md)
+* [CONSEILS BUS V-MAX](trucs-et-astuces/vmax-bus-tips_fr.md)
 
 ## 🧩 Intégrations
 
