@@ -1,100 +1,95 @@
 ---
-hidden: true
-icon: lightbulb-on
+icon: lightbulb-exclamation-on
 ---
 
 # Raytec avec VESTA
 
-## Manual for Integrating RAYTEC Lights with VESTA Panels
+## <mark style="color:green;">Intégration des projecteurs RAYTEC avec les centrales VESTA</mark>
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p><a href="https://bydemes.com/es/marcas/raytec">RAYTEC</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/marcas/raytec">RAYTEC</a></p></figcaption></figure>
 
-This manual explains how to integrate RAYTEC lights with VESTA security panels using HTTP GET commands. These commands can be configured in scenes and automatic rules of the VESTA panels via the **SmartHomeSec** platform. Below are detailed examples for turning off, turning on, and making a RAYTEC light blink.
+Ce guide explique comment intégrer des projecteurs RAYTEC avec les centrales VESTA en utilisant des commandes HTTP GET. Ces commandes peuvent être configurées dans des scénarios ou des règles sur les centrales VESTA via la plateforme **SmartHomeSec**. Ci-dessous, les exemples détaillées pour allumer, éteindre ou faire clignoter une projecteur RAYTEC.
 
-### **1. Initial Preparation**
+### _<mark style="background-color:yellow;">**1. Préparation**</mark>_
 
-Before starting the configuration, make sure you have the following information and items:
+Avant de démarrer la configuration, assurez-vous d'avoir les information et éléments suivants:
 
-* **RAYTEC Light IP Address**: The IP address of the device (e.g., `192.168.1.63`).
-* **Access Credentials**: Username (`admin`) and password (`Admin1234`) for the RAYTEC device.
-* **Access to VESTA Panel**: Access the VESTA security panel through the **SmartHomeSec** user interface.
+* **Adresse IP du projecteur IP RAYTEC**: Adresse IP du périphérique (ex: `192.168.1.63`).
+* **Identifiants**: Nom d'utilisateur (`admin`) et mot de passe (`Admin1234`) du périphérique RAYTEC.
+* **Accès à la centrale VESTA**: Accès à la centrale VESTA via la plateforme **SmartHomeSec**.
 
-### **2. HTTP Commands to Control the RAYTEC Light**
+### _<mark style="background-color:yellow;">**2. Commandes HTTP pour contrôler les projecteurs RAYTEC**</mark>_
 
-The commands will be sent via HTTP GET from the VESTA panel to control the RAYTEC lights. Below are examples of commands for different actions:
+Les commandes seront envoyées par HTTP GET depuis la centrale VESTA vers le projecteur RAYTEC. Ci-dessous, les commandes des différentes actions:
 
-*   **Turn off the light:**
-
-    ```url
-    urlCopiar códigohttp://admin:Admin1234@192.168.1.63/power.cgi?Power=off&LightType=WL
-    ```
-*   **Turn on the light for 5 seconds:**
+*   **Eteindre:**
 
     ```url
-    urlCopiar códigohttp://admin:Admin1234@192.168.1.63/power.cgi?LightType=WL&Power=on&Level=100&Time=5
+    http://admin:Admin1234@192.168.1.63/power.cgi?Power=off&LightType=WL
     ```
-*   **Make the light blink for 5 seconds:**
+*   **Allumer 5 secondes:**
 
     ```url
-    urlCopiar códigohttp://admin:Admin1234@192.168.1.63/deter.cgi?Deter=on&Level=20&DeterFreq=fast&DeterPat=sos&Time=5
+    http://admin:Admin1234@192.168.1.63/power.cgi?LightType=WL&Power=on&Level=100&Time=5
+    ```
+*   **Clignotement 5 secondes:**
+
+    ```url
+    http://admin:Admin1234@192.168.1.63/deter.cgi?Deter=on&Level=20&DeterFreq=fast&DeterPat=sos&Time=5
     ```
 
-### **3. Configuring Commands on the VESTA Security Panel**
+### _<mark style="background-color:yellow;">**3. Configuration des commandes dans la centrale VESTA**</mark>_
 
-To configure these commands on the VESTA security panel, follow these steps:
+Suivre les étapes suivantes pour configurer les commandes dans une centrale VESTA:
 
-#### **Step 1: Access the SmartHomeSec Platform**
+#### <mark style="color:orange;">**Etape 1:**</mark>**&#x20;Se rendre sur la plateforme SmartHomeSec Platform**
 
-1. Log in to your **SmartHomeSec** account from a web browser.
-2. Select your corresponding VESTA panel.
+1. Connectez-vous avec votre compte **SmartHomeSec** sur un navigateur.
+2. Choisir la centrale VESTA à configurer.
 
-#### **Step 2: Configure Commands in Scenes**
+#### <mark style="color:orange;">**Etape 2:**</mark>**&#x20;Configurer les commandes dans des scénarios**
 
-1. Go to the **Scenes** section.
-2. Create a new scene or edit an existing one.
-3. Select the option to add an **HTTP GET** action.
-4. Enter the desired HTTP command in the corresponding field:
-   * To turn off the light, copy the command provided in the **Turn off** section.
-   * To turn on the light for a specific duration, use the command provided in the **Turn on** section.
-   * To make the light blink, use the command from the **Blink** section.
-5. Assign a descriptive name to the scene, such as "Turn off RAYTEC Light", "Turn on RAYTEC Light 5s", or "Blink RAYTEC Light".
-6. Save the changes.
+1. Se rendre dans le menu **Scénarios**.
+2. Ajoutez un nouveau scénario ou éditez un scénario existant.
+3. Choisir l'action  **HTTP GET**.
+4. Saisir la commande HTTP désirée dans le champ correspondant:
+   * Pour éteindre le projecteur, copiez la commande **Eteindre**.
+   * Pour allumer le projecteur avec une temporisation, copiez la commande **Allumer**.
+   * Pour faire clignoter le projecteur avec une temporisation, copiez la commande **Clignotement**.
+5. Donnez une nom au scénarios comme "Eteindre projecteur RAYTEC", "Allumer projecteur RAYTEC 5s" ou "Clignotement projecteur RAYTEC".
+6. Sauver la configuration.
 
-#### **Step 3: Configure Commands in Automatic Rules**
+#### <mark style="color:orange;">**Etape 3:**</mark>**&#x20;Configurer les commande dans une règle**
 
-1. Go to the **Rules** section.
-2. Create a new rule or edit an existing one.
-3. Set the rule trigger (e.g., alarm activation, motion detection, etc.).
-4. In the actions, select **Execute HTTP GET Command**.
-5. Paste the corresponding HTTP command for the desired action.
-6. Save the rule with an appropriate name.
+1. Se rendre dans le menu **Règles**.
+2. Créez une nouvelle règle ou éditez une règle existante.
+3. Configurez le déclencheur de la règle (ex: alarme, détection de mouvement, etc).
+4. Dans les actions, choisir **HTTP GET.**
+5. Collez la commande qui correspond à l'action que vous souhaitez déclencher.
+6. Sauvez la règle avec un nom approprié.
 
-#### **4. Verification and Testing**
+### _<mark style="background-color:yellow;">**4. Vérification et tests**</mark>_
 
-After configuring the commands:
+Après avoir configuré les commandes:
 
-1. **Execute the Scenes**: From the SmartHomeSec interface, run the configured scenes to verify that the RAYTEC light responds correctly.
-2. **Trigger the Rules**: Test the automatic rules by generating the events that trigger them and observe if the RAYTEC light behaves as expected.
+1. **Exécutez le scénario**: Depuis SmartHomeSec, lancez le scénario et vérifier le fonctionnement du projecteur RAYTEC.
+2. **Déclenchez la règle**: Testez la règle en activant l'évènement déclencheur et vérifier le fonctionnement du projecteur RAYTEC.
 
-#### **5. Troubleshooting Common Issues**
+### _<mark style="background-color:yellow;">**5. Dépannage**</mark>_
 
-* **Authentication Error:** Ensure that the login credentials for the RAYTEC device (`admin:Admin1234`) are correct.
-* **Network Connectivity:** Verify that the IP address of the RAYTEC light is correct and that both devices (VESTA panel and RAYTEC light) are on the same local network.
-* **Commands Not Executed:** Ensure that the HTTP commands are correctly written and do not contain spaces or additional characters.
+* **Erreur d'identification:** Assurez-vous que les identifiants utilisés pour le projecteur RAYTEC sont corrects (`admin:Admin1234`).
+* **Connexion réseau:** Vérifiez que l'adresse IP du projecteur RAYTEC est correct et que les deux périphériques (centrale VESTA et projecteur RAYTEC) sont sur le même réseau local.
+* **Commandes non exécutées:** Assurez-vous que la syntaxe de la commande HTTP soit correcte sans ajout d'espace ou de caractères.
 
-#### **6. Security Considerations**
+### _<mark style="background-color:yellow;">**6. Sécurité**</mark>_
 
-* Change the default credentials of the RAYTEC light to prevent unauthorized access.
-* Ensure that the local network where the devices are located is protected with a strong password and adequate encryption.
+* Modifiez les identifiants par défaut du projecteur RAYTEC pour éviter les accès non autorisés.
+* Assurez-vous que le réseau local sur lequel les périphériques se trouvent est correctement protégé avec mot de passe et chiffrage adéquat.
 
-#### **7. Conclusion**
+### _<mark style="background-color:yellow;">**7. Conclusion**</mark>_
 
-Integrating RAYTEC lights with VESTA panels using HTTP GET commands is a straightforward process that allows for automated lighting control based on the user’s needs. By following these steps, you can effectively control RAYTEC lights from the VESTA security panel.
+L'intégration des projecteurs RAYTEC avec les centrales VESTA à l'aide des commandes HTTP GET est un processus simple qui permet une contrôle automatisé de l'éclairage en fonction du besoin utilisateur. En suivant ces étapes, vous pouvez contrôler efficacement les projecteurs RAYTEC depuis une centrale VESTA.
 
-
-
-8. **Video**&#x20;
-
-
+### _<mark style="background-color:yellow;">8. Vidéo</mark>_&#x20;
 
 {% embed url="https://www.youtube.com/watch?ab_channel=ByDemesEspa%C3%B1a&v=fk_DxcPl_qc" %}
