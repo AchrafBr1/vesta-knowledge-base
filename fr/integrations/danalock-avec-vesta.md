@@ -51,10 +51,9 @@ Si vous avez un cylindre à double débrayage et que vous souhaitez conserver vo
 
 {% embed url="https://www.youtube.com/watch?v=U3gK4cPas_g" %}
 
-### _<mark style="background-color:yellow;">**Connexion Z-WAVE:**</mark> <mark style="background-color:yellow;"></mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">Procédure d'ajout dans une centrale VESTA via Z-WAVE.</mark>_
+### _<mark style="background-color:yellow;">**Connexion Z-WAVE**</mark>_
 
-Once the installation is complete and the batteries are installed, we are going to proceed with the registration in VESTA.\
-After you have physically installed the SALTO lock and inserted the batteries, the next step is to register the lock with the VESTA panel. This registration process is necessary to link the lock to the VESTA system so that it can be managed and controlled through the panel.
+Une fois l'installation terminée et les batteries installées, Il faut enregistrer le verrou dans la centrale VESTA. Le processus d'enregistrement est nécessaire pour associer le verrou à la centrale VESTA et avoir la gestion depuis la centrale.
 
 {% hint style="success" %}
 This **exclude option is very important** to be able to leave the device without information and registration data, so that it can be correctly added to the VESTA coordinator.\
