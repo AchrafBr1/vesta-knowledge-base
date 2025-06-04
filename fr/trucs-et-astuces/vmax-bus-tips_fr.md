@@ -6,7 +6,7 @@ icon: list-tree
 
 ## <mark style="color:green;">**Conseils sur le câblage du bus V-MAX des centrales  VESTA :**</mark>
 
-### <mark style="background-color:yellow;">**RÈGLES GÉNÉRALES:**</mark>
+### _<mark style="background-color:yellow;">**RÈGLES GÉNÉRALES:**</mark>_
 
 * D’un appareil ou d’un départ de bus au périphérique suivant, la distance ne doit pas dépasser 300 mètres.
 * Prendre en compte le courant nécessaire au fonctionnement du système (utiliser le calculateur ou le tableau de consommation des périphériques).
@@ -15,15 +15,15 @@ icon: list-tree
 
 ![](<../.gitbook/assets/4 (70).jpeg>)
 
-### <mark style="background-color:yellow;">**CAS N°1 : UN SEUL DEPART DE BUS**</mark>
+### _<mark style="background-color:yellow;">**CAS N°1 : UN SEUL DEPART DE BUS**</mark>_
 
 ![](<../.gitbook/assets/5 (48).jpeg>)
 
-### <mark style="background-color:yellow;">**CAS N°2 : DEUX DEPARTS DE BUS (ETOILE)**</mark>
+### _<mark style="background-color:yellow;">**CAS N°2 : DEUX DEPARTS DE BUS (ETOILE)**</mark>_
 
 ![](<../.gitbook/assets/6 (53).jpeg>)
 
-### <mark style="background-color:yellow;">**CAS N°3 : ARBORESCENCE**</mark>
+### _<mark style="background-color:yellow;">**CAS N°3 : ARBORESCENCE**</mark>_
 
 #### **CAS N°3A: AVEC ISOLATEUR (Recommandé pour ce CAS)**
 
