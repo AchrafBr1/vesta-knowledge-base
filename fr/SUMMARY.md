@@ -182,5 +182,6 @@
 
 ## 🧩 Intégrations
 
+* [SIMALARM](integrations/simalarm.md)
 * [Intégration VTH Dahua avec centrale VESTA](integrations/integration-vth-dahua-avec-centrale-vesta.md)
 * [Intégration caméras IP Dahua avec centrale VESTA](integrations/integration-cameras-ip-dahua-avec-centrale-vesta.md)
