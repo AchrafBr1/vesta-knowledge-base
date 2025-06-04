@@ -186,3 +186,4 @@
 * [VTH Dahua avec VESTA](integrations/vth-dahua-avec-vesta.md)
 * [SIMALARM](integrations/simalarm.md)
 * [Danalock avec VESTA](integrations/danalock-avec-vesta.md)
+* [Raytec avec VESTA](integrations/raytec-avec-vesta.md)

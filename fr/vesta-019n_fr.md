@@ -16,7 +16,7 @@ Le détecteur d'ouverture de la série DC-23 est décliné en 2 modèles:\
 
 ### _<mark style="background-color:yellow;">**Identification**</mark>_
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="255"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="255"><figcaption></figcaption></figure>
 
 1. **Voyant LED/Bouton Test**\
    Appuyez sur le bouton Test pour transmettre le code d'apprentissage ou passer en mode test pendant 3 min.
@@ -155,7 +155,7 @@ NOTE:
 
 5. L'installation est maintenant terminée.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Déclaration FCC
 
