@@ -56,11 +56,11 @@ Si vous avez un cylindre à double débrayage et que vous souhaitez conserver vo
 Une fois l'installation terminée et les batteries installées, Il faut enregistrer le verrou dans la centrale VESTA. Le processus d'enregistrement est nécessaire pour associer le verrou à la centrale VESTA et avoir la gestion depuis la centrale.
 
 {% hint style="success" %}
-This **exclude option is very important** to be able to leave the device without information and registration data, so that it can be correctly added to the VESTA coordinator.\
-Before adding the lock to the VESTA system, it’s crucial to perform an “exclude” operation. Excluding the device ensures that any previous connection data or registration information stored on the lock is erased. This step essentially resets the lock, removing any old network data, so it’s ready to be correctly added (or "included") to the VESTA coordinator (the central Z-WAVE hub). If you skip this step, the lock might have leftover data that could interfere with the new registration process, leading to connection issues.
+L'option d'**exclusion est très importante** pour être en mesure de laisser le périphérique sans aucune information ni donnée d'association. De cette manière, il peut être ajouté correctement à une centrale VESTA.\
+Avant d'ajouter le verrou à une centrale VESTA, il est crucial de réaliser une opération "d'exclusion". Exclure le périphérique assure que toutes données d'une précédente connexion stockées dans le verrou seront effacées. Cette étape permet de faire une reset du verrou, supprimant les anciennes données réseau pour permettre un nouvel ajout (ou "inclusion") dans la centrale VESTA (Noeud Z-WVE de la centrale). Si vous ignorez cette étape, le verrou peut contenir d'anciennes données d'association qui peuvent interférer dans le processus d'ajour et provoquer des problème de connexion.
 {% endhint %}
 
-### **Exclude Z-WAVE DANALOCK**
+### _<mark style="background-color:yellow;">**Exclusion Z-WAVE**</mark>_
 
 #### Step 1: Access the panel configuration from the installer APP:
 
