@@ -1,6 +1,6 @@
 ---
 hidden: true
-icon: key
+icon: door-open
 ---
 
 # Danalock avec VESTA
