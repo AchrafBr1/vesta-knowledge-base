@@ -182,6 +182,7 @@
 
 ## 🧩 Intégrations
 
+* [Caméras IP Dahua avec VESTA](integrations/cameras-ip-dahua-avec-vesta.md)
+* [VTH Dahua avec VESTA](integrations/vth-dahua-avec-vesta.md)
 * [SIMALARM](integrations/simalarm.md)
-* [Intégration VTH Dahua avec centrale VESTA](integrations/integration-vth-dahua-avec-centrale-vesta.md)
-* [Intégration caméras IP Dahua avec centrale VESTA](integrations/integration-cameras-ip-dahua-avec-centrale-vesta.md)
+* [Danalock avec VESTA](integrations/danalock-avec-vesta.md)
