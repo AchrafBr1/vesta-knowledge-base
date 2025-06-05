@@ -93,7 +93,60 @@ This section details how to adjust the **siren duration** during an alarm and se
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Settings -> Panel</td><td></td></tr><tr><td><img src=".gitbook/assets/image (10) (2).png" alt="" data-size="original"></td><td>Settings-> Panel -> Panel</td><td></td></tr><tr><td><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Polling --> test time to ARC </td><td></td></tr></tbody></table>
 
+{% hint style="success" %}
+## 🔧 **Configuration Parameters \[Panel --> Panel]**
 
+**AC Failure Report**\
+Wait time to detect and report power outage (AC = Alternating Current).
+
+**AC Failure Suspension**\
+If enabled, the system enters eco mode when power is cut (Panel will report every thing but app will be offline). "Disable" = panel will keep 100% online during AC failure.
+
+**Interference Report**\
+Detects and reports signal jamming attempts or radio frequency (RF: F1 and SF1) interference.
+
+**ARC Polling**\
+Interval at which a heartbeat signal (ping) is sent to the Central Monitoring Station (ARC), use every 3 minutes (Ask you ARC)
+
+**Daily Auto Check-in**\
+Time when the panel sends an automatic daily check.&#x20;
+
+**GPRS/LTE Test Interval**\
+Frequency for testing GPRS or LTE mobile connection.&#x20;
+
+**ETHERNET Test Interval**\
+Same as above but for wired network (Ethernet).&#x20;
+
+**Disable Device Status Alerts**\
+If enabled, panel will not report device status change in UI (Open/close) Often used to save mobile data in SIM-only panels.
+
+**PD6662 Compliance**\
+European standard for intrusion alarm systems.&#x20;
+
+**PIRCAMS Resolution**\
+Quality of images captured by PIR cameras.&#x20;
+
+**Outdoor IR Camera in Grayscale**\
+Allows or prevents use of black and white IR cameras, useful for outdoor applications.&#x20;
+
+**Bypass Ethernet Failure**\
+If enabled, ignores wired network outages. Off = detects them.
+
+**Service Failure Report (Ethernet)**\
+Reports if the panel loses connection to its server.&#x20;
+
+**Power Supply Overcurrent Reset Time**\
+If an overload is detected (Only in hybrid system), the panel waits x minutes before restarting.
+
+**Wired Device Tolerance**\
+Tolerance margin for wired devices before generating an alarm.&#x20;
+
+**Mute Internal Siren**\
+Prevents the panel's siren from sounding during an alarm. Off = will sound.
+
+**DNS Update Period**\
+Frequency of domain updates if using domain name instead of IP. Disabled = no updates.
+{% endhint %}
 
 ### 4.3 Configure user codes
 
