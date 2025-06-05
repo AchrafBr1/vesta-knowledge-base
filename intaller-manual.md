@@ -137,6 +137,112 @@ SIA: **ip://**<mark style="color:blue;">**ACCT**</mark>@<mark style="color:orang
 CID: **ip://**<mark style="color:blue;">**ACCT**</mark>@<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PORT**</mark>/CID
 {% endhint %}
 
+{% hint style="info" %}
+
+
+## Extended examples: Reporting URL Configuration
+
+### Overview
+
+Reporting URLs are used by the installer to program report destinations for the security system.
+
+### Supported URL Formats
+
+#### 1. CID Protocol via TCP IP
+
+**Format:** `ip://(Account Number)@(Server IP):(Port)/CID`\
+**Example:** `ip://1234@54.183.182.247:8080/CID`
+
+#### 2. SIA DC-09 Protocol via IP
+
+**Format:** `ip://(Account Number)@(Server IP):(Port)/SIA2`\
+**Example:** `ip://1234@54.183.182.247:8080/SIA2`
+
+#### 3. SIA DC-09 Protocol via IP with AES Encryption
+
+**Format:** `ip://(Account Number)@(Server IP):(Port)/SIA/KEY/(128, 192, or 256-bit Key)`\
+**Example:** `ip://1234@54.183.182.247:8080/SIA/KEY/4A46321737F890F654D632103F86B4F3`
+
+#### 4. SIA DC-09 Protocol Using CID Event Code via TCP IP (wrapig event)
+
+**Format:** `ip://(Account Number)@(Server IP):(Port)/CID_SIA2`\
+**Example:** `ip://1234@54.183.182.247:8080/CID_SIA2`
+
+#### 5. SIA DC-09 Protocol Using CID Event Code via IP with HEX Encryption
+
+**Format:** `ip://(Account Number)@(Server IP):(Port)/CID_SIA/KEY/(HEX Key)`\
+**Example:** `ip://1234@54.183.182.247:8080/CID_SIA/KEY/4A46321737F890F654D632103F86B4F3`
+
+#### 6. CSV Protocol via IP
+
+**Format:** `ip://(Account Number)@(Server IP):(Port)/CSV`\
+**Example:** `ip://1234@54.183.182.247:8080/CSV`
+
+#### 7. CSV Protocol via IP with Authentication
+
+**Format:** `ip://(Account Number)@(Server IP):(Port)/CSV/Username/Password`\
+**Example:** `ip://1234@54.183.182.247:8080/CSV/abcd/1357`
+
+#### 8. Email
+
+**Format:** `mailto:user@example.com`\
+**Example:** `mailto:john@gmail.com`
+
+###
+
+### Level Configuration
+
+Select a reporting condition for each destination:
+
+* **All Events:** The system will report all events to this destination
+* **Alarm Events:** The system will only report alarm events to this destination
+* **Status Events:** The system will only report status events (non-alarm events) to this destination
+
+### Group Configuration
+
+Select a group for your report destination. The system follows these reporting principles:
+
+#### Priority Structure
+
+Groups are reported in priority order: Group 1 → Group 2 → Group 3, etc.
+
+#### Reporting Logic
+
+1. **Within a Group:** If reporting to the first destination in a group fails, the system moves to the next destination in that group
+2. **Group Success:** If any destination in a group receives the report successfully, the system considers that group successful and moves to the next group
+3. **Group Failure:** If all destinations in a group fail, the system retries according to the retry settings below
+4. **Cycle Completion:** After attempting all groups (Group 1 → Group 2 → ... → Group 5), if any Essential group failed to receive reports, the system restarts the reporting cycle
+
+#### Essential vs. Optional Groups
+
+**Essential Groups:**
+
+* The system will report to all groups marked as Essential
+* The system never stops trying until at least one destination in every Essential group successfully receives the report
+* Group 1 is always Essential and cannot be changed
+
+**Optional Groups:**
+
+* The system only reports to Optional groups when the previous group fails
+* Example: If Group 3 is set as Optional, the system will only report to Group 3 if reporting to Group 2 fails
+
+#### Retry Settings
+
+Choose from: 1, 3, 5, 10, or 99 retries
+
+If reporting to all destinations in a group fails, the system will retry reporting to that group according to the retry count specified here.
+
+### Important Notes
+
+⚠️ **VESTA SmartHomeSec app report:**
+
+* When the panel is registered with VESTA APP, URL1 will be automatically configured with Home Portal Server information
+* **Do not modify** this information after registration is complete, or reporting to the Home Portal Server may fail
+* If you need additional reporting destinations after registering with Home Portal Server, configure them in a **different group** than URL1 to ensure successful reporting
+{% endhint %}
+
+
+
 _**Photo report**_.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Settings -> Report</td><td></td></tr><tr><td><img src=".gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos.</td><td></td></tr><tr><td><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>In this section we configure the report URL of our CRA for sending photos. APPENDIX 3 for examples</td><td></td></tr></tbody></table>
