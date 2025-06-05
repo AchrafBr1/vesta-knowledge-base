@@ -139,7 +139,7 @@ CID: **ip://**<mark style="color:blue;">**ACCT**</mark>@<mark style="color:orang
 
 _**Photo report**_.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Settings -> Report</td><td></td></tr><tr><td><img src=".gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos.</td><td></td></tr><tr><td><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>In this section we configure the repote URL of our CRA for sending photos. APPENDIX 3 for examples</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Settings -> Report</td><td></td></tr><tr><td><img src=".gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos.</td><td></td></tr><tr><td><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>In this section we configure the report URL of our CRA for sending photos. APPENDIX 3 for examples</td><td></td></tr></tbody></table>
 
 {% hint style="success" %}
 Examples of **PHOTOS** reporting in different protocols:
