@@ -216,7 +216,7 @@ Reporting URLs are used by the installer to program report destinations for the 
 **Format:** `ip://(Account Number)@(Server IP):(Port)/SIA/KEY/(128, 192, or 256-bit Key)`\
 **Example:** `ip://1234@54.183.182.247:8080/SIA/KEY/4A46321737F890F654D632103F86B4F3`
 
-#### 4. SIA DC-09 Protocol Using CID Event Code via TCP IP (wrapig event)
+#### 4. SIA DC-09 Protocol Using CID Event Code via TCP IP (wraping event)
 
 **Format:** `ip://(Account Number)@(Server IP):(Port)/CID_SIA2`\
 **Example:** `ip://1234@54.183.182.247:8080/CID_SIA2`
