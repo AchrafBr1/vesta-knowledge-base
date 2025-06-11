@@ -27,7 +27,7 @@ layout:
 
 {% stepper %}
 {% step %}
-### Upgrade the IP cam
+### Upgrade the IP cam ([Clic here for the QUICK VIDEO](vesta-advanced-ip-camera-series.md#how-to-update-a-vesta-adv-camera-or-nvr-step-by-step))
 
 To update the camera, follow these steps:
 
@@ -70,6 +70,12 @@ It is important to ensure that the **panel is at version 34F or higher** and tha
 <figure><img src=".gitbook/assets/ADV-settings.gif" alt=""><figcaption></figcaption></figure>
 
 
+
+## Quick videos
+
+### How to update a VESTA ADV camera or NVR – Step by step
+
+{% embed url="https://www.youtube.com/watch?v=XrwbhkilqVs" %}
 
 ### How to set up continuous recording on MicroSD of IP CAM:
 
