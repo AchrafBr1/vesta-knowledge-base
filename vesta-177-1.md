@@ -1,6 +1,4 @@
-# VESTA-176
-
-**IR-35SL-2W**
+# VESTA-177
 
 ## CERTIFICATE
 
