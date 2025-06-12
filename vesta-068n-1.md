@@ -2,7 +2,7 @@
 description: Manual for VESTA BOGP-type panels (VESTA-068N and VESTA-067)
 ---
 
-# VESTA-067
+# VESTA-068N
 
 ## Introduction: Manual for Autonomous BOGP Type Panels
 
