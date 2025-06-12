@@ -118,8 +118,6 @@ The PIR has a tamper switch located on the back of the PIR main body. When the P
 * When mounted at 4 meter height, the PIR provides detection coverage of a 360° circle wth an approximately **8** meter diameter.
 * For optimal performance, rotate the PIR so that the intruder would move across its detection area from side to side.
 
-_\<NOTE>_
-
 {% hint style="warning" %}
 Note:
 
