@@ -1,7 +1,3 @@
----
-icon: star-of-life
----
-
 # VESTA-325
 
 **BL-3-FS**
