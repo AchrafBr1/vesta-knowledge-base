@@ -28,7 +28,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1).jpeg>)
 
 1. **Test Button / LED Indicator**
 
@@ -44,7 +44,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 
 
-    ![](<.gitbook/assets/1 (1).jpeg>)
+    ![](<.gitbook/assets/1 (1) (1).jpeg>)
 5. **Sensitivity Increaser Jumper Switch (JP4)**
    * When set as ON, the PIR’s detection sensitivity is high.
    * When set as OFF, the PIR’s detection sensitivity is in normal level. (Factory default)

@@ -14,7 +14,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (2).jpeg>)
+![](<.gitbook/assets/0 (2) (1).jpeg>)
 
 1. **Test Button / LED Indicator**
    * Press the test button once to enter test mode for 3 minutes.

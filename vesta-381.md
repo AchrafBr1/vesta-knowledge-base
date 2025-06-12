@@ -10,7 +10,7 @@ When learning into the Control Panel, DCSV-32 will be recognized as 3 devices: D
 
 **Parts Identification**
 
-![](.gitbook/assets/0.jpeg)
+![](<.gitbook/assets/0 (2).jpeg>)
 
 1. **LED Indicator / Test Button**
 

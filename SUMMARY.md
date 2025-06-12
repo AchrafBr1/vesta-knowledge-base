@@ -298,3 +298,4 @@
 * [SmartHomeSec WIZARD](smarthomesec-wizard.md)
 * [PANEL INSTALLER MANUAL](intaller-manual.md)
 * [INTEGRATION WITH DAHUA IP CAMERAS](integration-with-dahua-ip-cameras.md)
+* [VESTA-205](vesta-205-1.md)

@@ -54,7 +54,7 @@ The DC power jack and plug provide twist-lock feature that can prevent accidenta
 
 Step 1 Align the arc parts of the plug with the arc parts on top/bottom of the DC jack slot, and fit the plug into the slot.
 
-![](.gitbook/assets/1.jpeg)
+![](<.gitbook/assets/1 (2).jpeg>)
 
 Step 2 Push the plug into place, and make a quarter turn clockwise to lock the plug.
 

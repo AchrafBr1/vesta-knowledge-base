@@ -16,7 +16,7 @@ Remote configuration is supported for the PIR motion sensor camera. Besides adju
 
 ## _**Identifying the Parts**_
 
-![](<.gitbook/assets/1 (2).jpeg>)
+![](<.gitbook/assets/1 (2) (1).jpeg>)
 
 1. **Digital Proximity Detector**
 
