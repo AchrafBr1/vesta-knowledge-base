@@ -227,7 +227,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 4. Fit the PIR onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/12 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Mounting with the mounting bracket:**
 
@@ -238,7 +238,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 
 
 
-<figure><img src=".gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Surface mounting with the rotating bracket (optional item, sold separately):
 
@@ -263,4 +263,4 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 
 <figure><img src=".gitbook/assets/10 (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

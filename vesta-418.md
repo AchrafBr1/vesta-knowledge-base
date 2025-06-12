@@ -54,13 +54,13 @@ The DC power jack and plug provide twist-lock feature that can prevent accidenta
 
 Step 1 Align the arc parts of the plug with the arc parts on top/bottom of the DC jack slot, and fit the plug into the slot.
 
-![](<.gitbook/assets/1 (2).jpeg>)
+![](<.gitbook/assets/1 (3).jpeg>)
 
 Step 2 Push the plug into place, and make a quarter turn clockwise to lock the plug.
 
-<figure><img src=".gitbook/assets/4.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -110,9 +110,9 @@ After the repeater is learned into the Control Panel, proceed to program repeate
 
 Go to the **Repeater Setting** on Panel’s webpage.
 
-<figure><img src=".gitbook/assets/6.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/7.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Learning Device into the Repeater
 
@@ -155,7 +155,7 @@ Note:
 If a child node device is not yet learned into the Control Panel, “Unknown Type” and “Device Not Existed” will be displayed. Make sure to learn the device into the Control Panel for the Panel to recognize it.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/10.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Delete Device from the Repeater
 

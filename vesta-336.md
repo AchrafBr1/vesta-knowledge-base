@@ -223,7 +223,7 @@ Ensure the wall plugs are flush with the mounting surface.
 
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement.
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Maintenance & Cleaning**
 

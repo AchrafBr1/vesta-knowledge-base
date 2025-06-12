@@ -121,11 +121,11 @@ The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wris
 
 **Step 2.** Remove the transmitter.
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Push the transmitter into the wristband frame from the **BACK** side until you hear a click sound. All done!
 
-<figure><img src=".gitbook/assets/12 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Wearing the Emergency Pendant as Wrist Watch**_
 
@@ -135,4 +135,4 @@ The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wris
 
 **Step 2.** Push the protruding part on the inner wristband into right hole for your wrist size.
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

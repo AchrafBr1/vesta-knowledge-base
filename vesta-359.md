@@ -12,7 +12,7 @@ The Wired Door Contact design consists of a cover and base. The cover contains a
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (3).jpeg>)
+![](<.gitbook/assets/0 (3) (1).jpeg>)
 
 1. **LED indicator / Test button**
 
