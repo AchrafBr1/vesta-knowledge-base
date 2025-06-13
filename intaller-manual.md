@@ -330,7 +330,21 @@ Step 2: Program the email provided by central monitoring station in "Captured fi
 **IMPORTANT:** If you use IP cameras integrated with VESTA, you have to lower the camera resolution to 2MP or lower for proper operation.
 {% endhint %}
 
+## Automation features
 
+The panel has advanced automation functions that unlock a very high level of functionality designed to maximise the security of the system. These features allow, for example, the creation of rules where opening a door contact automatically captures an image or triggers a relay to open or close specific circuits. These capabilities not only improve system efficiency, but also provide a quick and appropriate response to security events.
+
+{% hint style="success" %}
+**Number of rules and scenes that can be created:**\
+
+
+* Rules: 100
+* Scenes: 50
+
+
+
+Find out more: [Scenes and automatic rules of the VESTA Alarm System](https://vestasecurity.eu/en/scenes-and-automatic-rules-of-the-vesta-alarm-system/)
+{% endhint %}
 
 ## COMPLETE INSTALATION MANUALS
 
