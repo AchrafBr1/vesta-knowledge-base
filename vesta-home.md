@@ -1,3 +1,0 @@
-# Vesta home
-
-R
