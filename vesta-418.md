@@ -58,9 +58,9 @@ Step 1 Align the arc parts of the plug with the arc parts on top/bottom of the D
 
 Step 2 Push the plug into place, and make a quarter turn clockwise to lock the plug.
 
-<figure><img src=".gitbook/assets/4 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -110,9 +110,9 @@ After the repeater is learned into the Control Panel, proceed to program repeate
 
 Go to the **Repeater Setting** on Panel’s webpage.
 
-<figure><img src=".gitbook/assets/6 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/7 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Learning Device into the Repeater
 
@@ -164,7 +164,7 @@ If a child node device is not yet learned into the Control Panel, “Unknown Typ
 
 ## RP Connection Map (Home Portal Server: Installer Web/App)
 
-Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](.gitbook/assets/11.jpeg) will be
+Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<.gitbook/assets/11 (1).jpeg>) will be
 
 displayed besides the Device List header.
 
@@ -189,7 +189,7 @@ If no devices are connected to any Repeater, only two columns (Panel, Repeater/D
 * **Edit Mode:** In Edit Mode, only Repeater icons are highlighted. Click on a Repeater  \
   icon to access its settings page.
 
-<figure><img src=".gitbook/assets/20.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/20 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 * **Repeater Setting Page**: The Repeater Setting page lists the devices that are connected to the repeater. You can add / delete devices by clicking ![](.gitbook/assets/24.jpeg) / ![](.gitbook/assets/23.jpeg)
 

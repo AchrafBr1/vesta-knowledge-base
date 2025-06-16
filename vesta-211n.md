@@ -176,7 +176,7 @@ The PIR camera supports remote setting of pet Immunity and sensitivity.
 
 Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity and set Sensitivity level to high, you can input 02.
 
-<figure><img src=".gitbook/assets/8 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) Press the function button once on the PIR Camera to send a signal to the Control Panel, new settings will be applied immediately. If the button is not pressed, new settings will be applied upon next signal transmission, e.g., transmission of the supervision signal or IR trigger signal.
 

@@ -24,7 +24,7 @@ VST-892-IL-BUS – Wired PIR motion sensor camera with Infrared LED
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1) (1) (1).jpeg>)
 
 **1. Flash LED/Infrared LED**
 
@@ -48,7 +48,7 @@ The digital proximity detector is used to detect any masking (blocking) attempt 
 5. **PIR Camera Lens**
 6. **BUS Terminal**
 
-![](<.gitbook/assets/1 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/1 (1) (1) (1) (1).jpeg>)
 
 Hardwire the four terminals (VCC, GND, A, B) to the BUS Terminal on the Control Panel. Please refer to _**PIR Camera Wiring**_ section for details.
 
@@ -148,7 +148,7 @@ Note:
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 * There are eight Breakaway Area Options on the back cover and the battery cover for the wires to exit by detaching any one of them.
 
-![](<.gitbook/assets/20 (1).jpeg>)
+![](<.gitbook/assets/20 (1) (1).jpeg>)
 
 * _**Learning**_
 

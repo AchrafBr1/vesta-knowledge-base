@@ -180,7 +180,7 @@ This Jumper is to select how many pulses it takes to activate Terminal 1 when it
 
 alarm signal.
 
-![](<.gitbook/assets/8 (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 5 Pulses in 10 seconds. _(**Factory Default**)_
+![](<.gitbook/assets/8 (1) (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 5 Pulses in 10 seconds. _(**Factory Default**)_
 
 **6. Roller Shutter Setting** － **6 Pulse /Disable(JP5)**
 
@@ -188,11 +188,11 @@ alarm signal.
 
 This Jumper is to select how many pulses it takes to activate Terminal 1 when it is set to Roller Shutter
 
-![](<.gitbook/assets/9 (1).png>)If the jumper is ON, when the Terminal 2 counts **6** Pulses **in 10 seconds**, the Door Contact will send
+![](<.gitbook/assets/9 (1) (1).png>)If the jumper is ON, when the Terminal 2 counts **6** Pulses **in 10 seconds**, the Door Contact will send
 
 alarm signal.
 
-![](.gitbook/assets/10.png)If the jumper is OFF, the Terminal 2 will not be triggered by 6 Pulses in 10 seconds. _(**Factory Default**)_
+![](<.gitbook/assets/10 (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 6 Pulses in 10 seconds. _(**Factory Default**)_
 
 **7. Roller Shutter Setting** － 7 **Pulse /Disable(JP6)**
 
@@ -204,7 +204,7 @@ This Jumper is to select how many pulses it takes to activate Terminal 1 when it
 
 alarm signal.
 
-![](<.gitbook/assets/12 (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 8 Pulses in 10 seconds. _(**Factory Default**)_
+![](<.gitbook/assets/12 (1) (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 8 Pulses in 10 seconds. _(**Factory Default**)_
 
 {% hint style="warning" %}
 Note:
@@ -238,7 +238,7 @@ The Extension terminal may be useful for the following situation.
 * Any dry contact device with N.C. (Normal Close) loop can be connected to the Extension Terminal making the Door Contact serve as an Universal Transmitter.
 * &#x20;Multiple dry contact device can be wired together with Door Contact, as show in diagram.
 
-![](<.gitbook/assets/13 (1).png>) ![](<.gitbook/assets/14 (1).png>)
+![](<.gitbook/assets/13 (1) (1).png>) ![](<.gitbook/assets/14 (1) (1).png>)
 
 ## **Roller Shutter**
 

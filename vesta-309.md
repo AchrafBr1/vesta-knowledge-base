@@ -209,7 +209,7 @@ The SDCO Detector will activate fire alarm when either of its smoke detection or
 2. The CO sensor features self-diagnosis function and will regularly check the health or status of the sensor every 12 hours.
 3. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with EN-50291 standard)
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with UL-2034 standard)
 
@@ -598,7 +598,7 @@ _**Table 3**_
 
 * Property ID (0x00-0xFE) --- LED on\_off times
 
-<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -618,7 +618,7 @@ _**Table 3**_
 
  Configuration Value: 0xXX
 
-<figure><img src=".gitbook/assets/13 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/10 (12).png" alt=""><figcaption></figcaption></figure>
 

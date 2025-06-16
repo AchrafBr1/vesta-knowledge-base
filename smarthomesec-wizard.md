@@ -207,7 +207,7 @@ Press **Skip**, the control panel will send all events to the end user's app
 
 Press **YES**, we will configure the control panel to send events to a Central Monitoring Station.
 
-<figure><img src=".gitbook/assets/8 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. We can apply a template already configured with the settings for the connection to the  Central Monitoring Station.
 
@@ -223,7 +223,7 @@ Press **YES**, we will configure the control panel to send events to a Central M
 
 
 
-<figure><img src=".gitbook/assets/9 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/9 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

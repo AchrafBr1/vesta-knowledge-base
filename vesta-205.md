@@ -12,7 +12,7 @@ The HD-9 Series including the following models:
 
 HD-9S / HD-9S-F1: This model is identified as Smoke Detector in the Control Panel device list. HD-9H / HD-9H-F1: This model is identified as Heat Detector in the Control Panel device list.
 
-![](<.gitbook/assets/0 (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1).jpeg>)
 
 ### 1. Red LED
 
@@ -103,4 +103,4 @@ Step 4  Use the mounting bracket as template, mark the two mounting holes, drill
 
 Step 5  Locate the single line mark on the detector and line it up with one of the hook of the bracket. Fit the Smoke Detector onto the hooks on the bracket, then rotate the detector counter-clockwise to lock into place. The installation is now complete.
 
-<figure><img src=".gitbook/assets/1 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>

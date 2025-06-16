@@ -124,7 +124,7 @@ _**Caution**_
 * Before connecting the PIR motion sensor to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/15 (1).jpeg>)
+![](<.gitbook/assets/15 (1) (1).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
@@ -198,7 +198,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
   * After the installation site is selected, press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check that the detection coverage is adequate.
   * When detection coverage is found to be satisfying, follow the steps described in _**Mounting Method**_ section below to mount the PIR.
 
-<figure><img src=".gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Mounting Method**_
 
@@ -216,7 +216,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 5. Screw the base onto the wall plugs.
 6. Screw the cover onto the base.
 
-<figure><img src=".gitbook/assets/10 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -227,7 +227,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 4. Fit the PIR onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/12 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Mounting with the mounting bracket:**
 
