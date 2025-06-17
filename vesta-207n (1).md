@@ -11,6 +11,18 @@ The Bell Box can also alert you to tamper violation, and low battery status.
 ## **Identifying the Parts**
 
 1. **Mounting Holes**
+2.  **AC Input Terminal Block**
+
+    Connect to a 9V 1A Adapter to power the Bellbox.
+3. **Power Switch**
+
+The switch includes 3 positions:
+
+BT4: The Bellbox is powered by the 4 Alkaline batteries configuration. &#x20;
+
+Off: The Bellbox is not powered by any battery.
+
+&#x20;BT2: This configuration is currently reserved
 
 ![](<.gitbook/assets/1 (85).jpeg>)
 
@@ -30,6 +42,35 @@ a. 4 x large wall plugs.
 b. 4 x 4 mm x 30 mm cross head fixing screws.
 
 c. 4 x 1.5V D alkaline cells (pre-inserted)
+
+## Power Supply
+
+\
+The Bellbox can be powered by a 9V, 1A power adapter or it can be battery-powered.\
+Switch the power switch to the appropriate terminal.\
+**Battery and AC Power:**\
+When Power Switch is set to BT4 position, the Bellbox will use AC power if AC\
+connection is available, and switch to battery power automatically if no AC power is\
+detected.\
+Step 1. Slide the Power Switch to BT4 position.\
+Step 2. Break through the back cover to drill the hole (shown on the picture to the right) for the AC adapter wire to extend through.\
+Step 3. Loosen the screws on the AC Input Terminal Block using a Philips screwdriver.\
+Step 4. Extend the wires of the AC adapter through the hole and connect them to the appropriate terminal.\
+Step 5. Tighten the screws on the AC Input Terminal Block using a Philips screwdriver. Make sure the wires are secured to the appropriate&#x20;terminal.\
+Step 6. Connect the power adapter to a power socket.\
+Step 7. Open the battery compartment and insert 4 alkaline D-cells, then close the battery compartment and tighten with screw.\
+**AC Power only:**\
+When Power Switch is set to OFF position, the Bellbox will only use AC power and will not switch to battery power if AC power is disconnected.\
+Step 1. Slide the Battery switch to the OFF position.\
+Step 2. Connect AC power according to instruction above.
+
+
+
+{% hint style="warning" %}
+Note:
+
+The Power switch position BT2 is currently reserved.
+{% endhint %}
 
 ## **Supervision**
 
