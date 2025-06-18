@@ -66,7 +66,7 @@ The device **includes** a SIM card from simalarm.eu the APN is: **internet.cslio
 * After setting the APN, please wait **5 minutes** for the device to successfully connect to the cloud.
 * Proceed to register the device as an installer in MedAlert through the **WEB** or the **APP** .
 
-<figure><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F4073699981-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnyRwTrjZZiTU2rxbXeIk%252Fuploads%252FNpmPo410FNF3Go3Vac2D%252Fimage.png%3Falt%3Dmedia%26token%3Dd003b23a-35ca-4d39-93c4-825a9064e81a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1e36a743&#x26;sv=2" alt=""><figcaption><p><a href="https://smarthomesec.bydemes.com/medalert/">https://smarthomesec.bydemes.com/medalert/</a></p></figcaption></figure>
+<figure><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F4073699981-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnyRwTrjZZiTU2rxbXeIk%252Fuploads%252FNpmPo410FNF3Go3Vac2D%252Fimage.png%3Falt%3Dmedia%26token%3Dd003b23a-35ca-4d39-93c4-825a9064e81a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1e36a743&#x26;sv=2" alt=""><figcaption><p><a href="https://portal.vestasecurity.eu/medalert/n/">https://portal.vestasecurity.eu/medalert/n/</a></p></figcaption></figure>
 
 
 
