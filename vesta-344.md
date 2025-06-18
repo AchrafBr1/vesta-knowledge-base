@@ -213,3 +213,40 @@ If there is no response from the Panel after the press of learn button, it means
 **Step 5.** Sliding down the WIEGAND module when hooked to the mounting bracket to tighten and secure the module.
 
 <figure><img src=".gitbook/assets/10 (91).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 🏠 How to Use Your Wiegand Card Reader for Arming/Disarming
+
+Once you've successfully created a user by clicking the **Load** button and setting up your credential (tag/card), here's how to control your security system:
+
+### 🔒 **To ARM Your System**
+
+* **Simply swipe your card/tag ONCE** through the WIEGAND Card Reader
+* You'll hear **one beep** 🔊 confirming the read
+* After 4 seconds, the system will automatically switch to **ARM mode**
+* Your security system is now **active and protecting** your property! ✅
+
+### 🔓 **To DISARM Your System**
+
+* **Swipe your card/tag TWICE** through the WIEGAND Card Reader **within 4 seconds**
+* You'll hear **two beeps** 🔊🔊 confirming both reads
+* The system will automatically switch to **DISARM mode**
+* Your security system is now **disarmed** and you can move freely! ✅
+
+### 💡 **Quick Tips:**
+
+* ⏰ **Timing matters** - For disarming, both swipes must happen within 4 seconds
+* 🎵 **Listen for beeps** - They confirm your card was read successfully
+* 🏃‍♂️ **Wait a moment** - After arming, give the system 4 seconds to activate
+* 🔋 **Keep your card handy** - Make sure it's working properly and not damaged
+
+### ⚠️ **Important Notes:**
+
+* Make sure your card/tag is properly learned into the system before use
+* If you don't hear beeps or the system doesn't respond, try swiping again
+* The system will only respond to cards that have been properly registered
+
+**That's it! Simple one swipe to arm 🔒, double swipe to disarm 🔓**
+
+Your Wiegand module will handle all the communication with your control panel automatically! 🚀
