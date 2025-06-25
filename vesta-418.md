@@ -231,6 +231,17 @@ The Tamper Switch is in normal operating position (Tamper Closed) when the Repea
 * Only link one layer of repeater(s). **Do Not** cascade repeaters to create a transmission relay.
 * Maintain a distance between repeaters and the Control Panel to prevent cross signaling.
 
+### **Repeater Usage**
+
+{% hint style="warning" %}
+* **Maximum recommended number of repeaters per panel:** **3 repeaters**.\
+  Exceeding this number may cause **RF signal saturation**, which can negatively impact system performance.\
+  However, **if due to significant distance it is absolutely necessary to add more than 3 repeaters directly to the panel**, and this need has been properly assessed, **additional repeaters may be added** at the installer’s discretion. The **recommended maximum remains 3**.
+* **Daisy-chaining repeaters:** It is not recommended to connect more than **2 repeaters in a chain**.\
+  **Whenever possible, repeaters should be connected directly to the panel**.\
+  If this is not feasible, a **maximum of 2 daisy-chained repeaters** is allowed.
+{% endhint %}
+
 ### Single Repeater
 
 In the example below when one repeater is used:
