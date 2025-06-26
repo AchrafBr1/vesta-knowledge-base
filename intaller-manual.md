@@ -178,7 +178,7 @@ _**Reporte Eventos**_
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Settings -> Report</td><td></td></tr><tr><td><img src=".gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos.</td><td></td></tr><tr><td><img src=".gitbook/assets/image (15) (2).png" alt="" data-size="original"></td><td>In this section we configure the report URL of our ARC, and very important the GROUP 2 or higher since group 1 is used for the APP. APPENDIX 2 for examples</td><td></td></tr></tbody></table>
 
-_APPENDIX 2_
+#### _APPENDIX 2_
 
 {% hint style="success" %}
 Examples of **EVENTS** reporting in different protocols:
@@ -190,10 +190,19 @@ SIA: **ip://**<mark style="color:blue;">**ACCT**</mark>@<mark style="color:orang
 CID: **ip://**<mark style="color:blue;">**ACCT**</mark>@<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PORT**</mark>/CID
 {% endhint %}
 
+In this section, you will find the **standard communication protocols** supported by VESTA panels for reporting events directly to the Alarm Receiving Center (ARC).\
+These protocols allow the panel to send All EVENTS except photos without the need for additional converters or tools.
+
+If your ARC uses **one of these standard protocols** (such as **MANITOU XML**, **SIA DC09**, or **Contact ID**), the panel can be configured to report directly using the appropriate format.
+
+{% hint style="warning" %}
+If your ARC **does not support any of the standard protocols**, please refer to the [**ALARMSPACE** ](intaller-manual.md#id-4.5.1-using-alarmspace-software-gateway-for-non-standard-arc-protocols)section below, which explains how to integrate non-standard systems using VESTA's translation software.
+{% endhint %}
+
 {% hint style="info" %}
-
-
 ## Extended examples: Reporting URL Configuration
+
+
 
 ### Overview
 
@@ -294,9 +303,21 @@ If reporting to all destinations in a group fails, the system will retry reporti
 * If you need additional reporting destinations after registering with Home Portal Server, configure them in a **different group** than URL1 to ensure successful reporting
 {% endhint %}
 
+### 4.5.1 Using ALARMSPACE Software Gateway for Non-Standard ARC Protocols
 
+In cases where the Alarm Receiving Center (ARC) does **not** support any of the standard reporting protocols listed above (e.g., MANITOU, XML, SIA DC09, CID, etc.), **VESTA provides a software gateway solution called ALARMSPACE**.
 
-_**Photo report**_.
+<figure><img src=".gitbook/assets/image (312).png" alt=""><figcaption><p>ALARMSPACE</p></figcaption></figure>
+
+**ALARMSPACE** acts as a translation layer between the VESTA panel and the ARC, converting VESTA events into the required format expected by the ARC’s monitoring system. This ensures full compatibility even when a proprietary or custom protocol is used by the ARC.
+
+The ALARMSPACE software can be **installed on any Windows-based PC or virtual machine** within the ARC infrastructure.
+
+{% hint style="success" %}
+For installation, please **contact your VESTA representative**. Full support is provided for setup, configuration, and operational testing.
+{% endhint %}
+
+### _**4.6 Photo report**_.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Settings -> Report</td><td></td></tr><tr><td><img src=".gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos.</td><td></td></tr><tr><td><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>In this section we configure the report URL of our CRA for sending photos. APPENDIX 3 for examples</td><td></td></tr></tbody></table>
 
@@ -304,11 +325,15 @@ _**Photo report**_.
 Examples of **PHOTOS** reporting in different protocols:
 
 :fire: **MANITOU**: <mark style="color:blue;">**ACCT**</mark>**@**<mark style="color:orange;">**IP**</mark>**:PORT**
+
+**SMTP: Using email adress for ARC**&#x20;
+
+**HTTP: Http post images in base64**
 {% endhint %}
 
 
 
-## Photo report for SENTINEL software
+### 4.6.1 Photo report for SENTINEL software
 
 {% hint style="info" %}
 Step 1: Program SMTP information in settings -> Report&#x20;
