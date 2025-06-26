@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # VESTA-062
 
 ## Dual technology outdoor sensor with low power consumption
