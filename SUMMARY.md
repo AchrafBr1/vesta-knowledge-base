@@ -198,7 +198,7 @@
 * [VESTA-349](vesta-349.md)
 * [VESTA-349N](vesta-349n.md)
 * [VESTA-350](vesta-350.md)
-* [VESTA 352](vesta-352.md)
+* [VESTA-352](vesta-352.md)
 * [VESTA 353](vesta-353.md)
 * [VESTA-354](vesta-354.md)
 * [VESTA-355](vesta-355.md)
