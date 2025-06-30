@@ -77,6 +77,18 @@ It is important to ensure that the **panel is at version 34F or higher** and tha
 
 {% embed url="https://www.youtube.com/watch?v=XrwbhkilqVs" %}
 
+### How to program IVS rules in VESTA ADV&#x20;
+
+**Intelligent Video Surveillance (IVS) Rules** are advanced video analysis algorithms used to enhance the functionality of your VESTA ADV camera or NVR. These rules allow the system to automatically detect and respond to specific events, improving security and reducing false alarms. Common IVS rules include:
+
+1. **Intrusion Detection:** Alerts when an object/human enters a predefined zone.
+2. **Tripwire:** Triggers when an object/human crosses a defined line.
+3. **Cross region:** Triggers when an object/human crosses or appears in a defined area.
+
+To program IVS rules in your VESTA ADV system follow this steps:&#x20;
+
+{% embed url="https://youtu.be/2tznoM9PdzM" %}
+
 ### How to set up continuous recording on MicroSD of IP CAM:
 
 **Enable Continuous Recording on MicroSD**
