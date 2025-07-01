@@ -14,7 +14,7 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Valve Cap**
 2. **LCD Display**

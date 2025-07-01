@@ -130,7 +130,7 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, and assign the user pin code to an Area.
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 2. After VESTA-012N is successfully learnt into the panel, press ![](<.gitbook/assets/18 (5).jpeg>) key on the keypad. Then, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
 
@@ -235,7 +235,7 @@ Note:
 Make sure Bluetooth is turned on for your smartphone setting.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step 2                                                                                                                                                  Step 3</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step 2                                                                                                                                                  Step 3</p></figcaption></figure>
 
 **Step 3.** Go to the All Devices page and select VESTA-012N. Tap “**Start Bluetooth Pairing**.”
 
@@ -284,7 +284,7 @@ In keypad **tamper open state**, put the keypad into the **BLE Pairing mode** by
 
 **Step 2.** Besides unpairing the keypad with your smartphone, you will also need to remove the Bluetooth Function of the keypad in your Smartphone APP.
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Then, delete the paired Keypad from your smartphone. Navigate the Smartphone’s **Settings** > **Bluetooth** > **My Devices.** Tap the paired Keypad and select **Forget This Device** to remove it from the device list.
 

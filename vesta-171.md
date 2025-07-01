@@ -14,7 +14,7 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Valve Cap**
 2. **LCD Display**

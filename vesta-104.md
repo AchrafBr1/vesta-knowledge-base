@@ -64,7 +64,7 @@ Insert 2 AA Alkaline batteries.
 
 Connect to home heating/cooling system.
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 

@@ -38,7 +38,7 @@ The jumper link is inserted, connecting the two pins. The jumper link is removed
 | ---------------------------------------------------- | ----------------------------------------------------- |
 | The jumper link is inserted, connecting the two pins | if the jumper link is removed or “parked” on one pin. |
 
-![](<.gitbook/assets/3 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/3 (1) (1) (1) (1).jpeg>)
 
 * Jumper ON: Normally Closed (N.C.) is set.
 * Jumper OFF: Normally Open (N.O.) is set **(Factory Default)**.
@@ -140,7 +140,7 @@ Please follow the steps below to learn the device into the Panel.
 
 * When learnt into the Control Panel, DCSV-32 will be recognized as 3 devices: Door Contact (internal magnetic switch and/or extension terminal), Shock Sensor (SVGS), and Tilt sensor. The 3 devices operate independently. The user can select the desired sensors for use and add them to the Panel.
 
-![](<.gitbook/assets/16 (1) (1) (1).png>)
+![](<.gitbook/assets/16 (1) (1) (1) (1).png>)
 
 **Step 5.** Click “**Add**” to include the devices into the Panel.
 
@@ -156,11 +156,11 @@ After the device is learnt into the Control Panel, the user can edit the device 
 
 **Step 2.** Go to the Control Panel webpage to edit the device.
 
-![](<.gitbook/assets/18 (1) (1).png>)
+![](<.gitbook/assets/18 (1) (1) (1).png>)
 
 **Step 3.** Select the material and sensitivity level from sensor setting. Click **OK** to confirm.
 
-![](<.gitbook/assets/19 (1).png>)
+![](<.gitbook/assets/19 (1) (1).png>)
 
 **Step 4.** Press the Test Button on DCSV-32 to receive Material & Sensitivity Level data from the Control Panel. The LED will first turn off, and then become brighter and then turn dark, indicating that programming command from the Control Panel has been successfully received.
 
@@ -170,7 +170,7 @@ After the device is learnt into the Control Panel, the user can edit the device 
 
 **Step 2.** Go to the Control Panel webpage. Select “**Device Management**,” and then click on “**Settings**” in the **SVGS** row.
 
-![](<.gitbook/assets/20 (1) (1).png>)
+![](<.gitbook/assets/20 (1) (1) (1).png>)
 
 **Step 3.** Input the Sensitivity configuration in the **Device Edit** section. Please refer to the table below for configuration details. For example, if you want to set the material and sensitivity level as concrete and low, please input 0800.
 

@@ -75,9 +75,9 @@ The rear tamper switch is compressed when the PIR Camera is properly installed o
 
 * The LED indicator can be enabled / disabled by setting the DIP VST-894 LED Indicator IR LED Indicator Switch1 position or remotely controlled from the panel. Please refer to the _**DIP Switch Settings**_ and _**Remote Settings**_ section for details.
 
-<figure><img src=".gitbook/assets/2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/3.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 * When disabled, the LED will not be activated except during warm-up and test mode.
 * When enabled, the LED will light up according to the detector's status. - **Warm-up:** the Red LED flashes for 60 seconds.
@@ -155,7 +155,7 @@ To adjust the PIR Camera Settings locally, you will need to remove the cover uni
 
 1\) Remove the camera face cover.
 
-<figure><img src=".gitbook/assets/5 (1).jpeg" alt=""><figcaption><p>Remove the camera face cover.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1).jpeg" alt=""><figcaption><p>Remove the camera face cover.</p></figcaption></figure>
 
 2\) Lift the camera module from the arc side.
 
@@ -178,15 +178,15 @@ Note:
 Do not adjust the camera module when it is lifted. Adjust the camera module only when it is in normal operation position.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/9 (1).png>)
+![](<.gitbook/assets/9 (1) (1).png>)
 
 #### PIR Detection length adjustment
 
 The PIR distance limit can be adjusted in 5 levels (2.5 to 12m).
 
-![](<.gitbook/assets/10 (1).png>)
+![](<.gitbook/assets/10 (1) (1).png>)
 
 #### Dip Switch Settings & PIR Sensitivity Setting
 

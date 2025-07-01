@@ -202,7 +202,7 @@
 * [VESTA-354](vesta-354.md)
 * [VESTA-355](vesta-355.md)
 * [VESTA-357](vesta-357.md)
-* [VESTA 357-720P](vesta-357-720p.md)
+* [VESTA-357-720P](vesta-357-720p.md)
 * [VESTA-358](vesta-358.md)
 * [VESTA-359](vesta-359.md)
 * [VESTA-360](vesta-360.md)

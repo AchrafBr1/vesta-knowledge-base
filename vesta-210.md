@@ -250,16 +250,16 @@ Step 6. PIR lens A / B should be installed vertically; PIR lens C is installed h
 
 **Lens A: Vertical Curtain (pet immune)**
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/5 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/6 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Users can slightly tilt the PIR Camera to reduce blind spot.
 * Lens B for vertical curtain detection does not have Pet immune function.
 
-<figure><img src=".gitbook/assets/7 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (75).png" alt="" width="375"><figcaption><p>Vertical Curtain Detection Range</p></figcaption></figure>
 

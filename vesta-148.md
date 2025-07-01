@@ -66,7 +66,7 @@ In Normal operation mode, the LED Indicator remains off except:
 
 #### **Jumper ON**
 
-<div align="left"><figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1).png" alt="" width="37"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1) (1).png" alt="" width="37"><figcaption></figcaption></figure></div>
 
 -When the jumper (JP2) is set as ON, the Supervision is disabled.
 

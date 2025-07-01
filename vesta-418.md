@@ -60,7 +60,7 @@ Step 2 Push the plug into place, and make a quarter turn clockwise to lock the p
 
 <figure><img src=".gitbook/assets/4 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 
 
