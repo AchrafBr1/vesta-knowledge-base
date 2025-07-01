@@ -128,7 +128,7 @@ In this tab, we can customize the customer's PIN code.
 
 Press **Yes**, and we will configure the name and code of the end user.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -142,7 +142,7 @@ Press **Skip**, we will go forward in the wizard
 
 Press **Yes**, the control panel will ask you which device you want to add
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the device type you want to add, e.g., Motion Detector. Press and hold the pairing button on the device until the LED flashes (refer to the device's manual for specific instructions).
 

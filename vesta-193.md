@@ -60,7 +60,7 @@ Attach the lanyard to the Mobile Lite unit by looping the lanyard strap through 
 
 Lock the release buckle by inserting the male part into the female part until you hear a click sound.
 
-<figure><img src=".gitbook/assets/4 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Put the lanyard around the neck of the user.
 

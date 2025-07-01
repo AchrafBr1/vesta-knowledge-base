@@ -12,7 +12,7 @@ The WEZ-12/24/36/48-BUS Expansion Module is designed to support expansion for th
 
 WEZ-12-BUS WEZ-24-BUS
 
-![](<.gitbook/assets/0 (1).jpeg>) ![](<.gitbook/assets/1 (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1).jpeg>) ![](<.gitbook/assets/1 (1) (1).jpeg>)
 
 WEZ-36-BUS WEZ-48-BUS
 

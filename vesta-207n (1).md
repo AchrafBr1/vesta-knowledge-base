@@ -104,7 +104,7 @@ Tamper feature can be disabled temporaily from the Control Panel using Siren Tam
 
 While arming / disarming the system, the BX-23 uses different methods to distinguish various statuses for the user, as listed in the table.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The Siren Audio indication will be affected by the Confirmation ON / OFF setting. When setting Confirmation to OFF, the confirmation sound will not be available. Refer to Control Panel Siren setting for Confirmation function.
 

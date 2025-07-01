@@ -104,11 +104,11 @@ If you want to disable one of the functions, remove its corresponding zone from 
 
 ### &#x20;_**Mounting Methods and Installation**_
 
-![](<.gitbook/assets/2 (1).png>)
+![](<.gitbook/assets/2 (1) (1).png>)
 
 It is recommended that the Door Contact should be placed on the door frame and the magnet on the door. If the door contact is placed on the door, and the door is opened too fast, the transmitted distance may be shorted. The magnet should not be more than 15mm from the Door Contact when the door is closed.
 
-![](<.gitbook/assets/3 (1).png>)
+![](<.gitbook/assets/3 (1) (1).png>)
 
 {% hint style="warning" %}
 Note:
@@ -160,7 +160,7 @@ Connect to a N.C. (Normal Close) external Tamper Switch.
 
 The Jumper switch determines whether Terminal 1 is set to N.C. input or Roller Shutter.
 
-![](.gitbook/assets/4.png)
+![](<.gitbook/assets/4 (1).png>)
 
 ![](.gitbook/assets/5.png)If the jumper is ON (the jumper link is inserted connecting the two pins), Terminal 1 is
 

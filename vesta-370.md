@@ -155,7 +155,7 @@ To adjust the PIR Camera Settings locally, you will need to remove the cover uni
 
 1\) Remove the camera face cover.
 
-<figure><img src=".gitbook/assets/5.jpeg" alt=""><figcaption><p>Remove the camera face cover.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1).jpeg" alt=""><figcaption><p>Remove the camera face cover.</p></figcaption></figure>
 
 2\) Lift the camera module from the arc side.
 
