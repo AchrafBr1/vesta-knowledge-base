@@ -18,7 +18,7 @@ For connection, use the cable and connector provided on the Optex detector.
 
 ## _**Identifying the Parts**_
 
-<div align="center" data-full-width="true"><figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="215"><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="215"><figcaption></figcaption></figure></div>
 
 1. **Learn/Test Button**
 2. **Battery (CR2)**
@@ -60,13 +60,13 @@ In Normal operation mode, the LED Indicator remains off except:
 
 #### **Jumper OFF (Factory default)**&#x20;
 
-<div align="left"><figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1).png" alt="" width="49"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1).png" alt="" width="49"><figcaption></figcaption></figure></div>
 
 \- When the jumper (JP2) is set as OFF, the Supervision is enabled.
 
 #### **Jumper ON**
 
-<div align="left"><figure><img src=".gitbook/assets/6 (1) (1) (1) (1).png" alt="" width="37"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1).png" alt="" width="37"><figcaption></figcaption></figure></div>
 
 -When the jumper (JP2) is set as ON, the Supervision is disabled.
 

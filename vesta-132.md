@@ -12,7 +12,7 @@ The WEZ-12/24/36/48-BUS Expansion Module is designed to support expansion for th
 
 WEZ-12-BUS WEZ-24-BUS
 
-![](<.gitbook/assets/0 (1) (1).jpeg>) ![](<.gitbook/assets/1 (1) (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1) (1).jpeg>) ![](<.gitbook/assets/1 (1) (1).jpeg>)
 
 WEZ-36-BUS WEZ-48-BUS
 
@@ -86,13 +86,13 @@ Note:
 
 ### **Single-End-of-Line Resistor Wiring**
 
-![3](.gitbook/assets/11.png) ![4](<.gitbook/assets/12 (1).png>)
+![3](.gitbook/assets/11.png) ![4](<.gitbook/assets/12 (1) (1).png>)
 
-![5](<.gitbook/assets/13 (1).png>) ![6](<.gitbook/assets/14 (1).png>)
+![5](<.gitbook/assets/13 (1) (1).png>) ![6](<.gitbook/assets/14 (1) (1).png>)
 
 ### **Double-End-of-Line Resistor Wiring**
 
-![7](.gitbook/assets/15.png) ![8](.gitbook/assets/16.png)
+![7](<.gitbook/assets/15 (1).png>) ![8](<.gitbook/assets/16 (1).png>)
 
 ### Triple-EOL Wiring
 

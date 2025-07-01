@@ -86,11 +86,11 @@
 
 <figure><img src=".gitbook/assets/12 (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/13 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3. Connect the wires and fix the wires as the pictures shown below.**
 
-<figure><img src=".gitbook/assets/14 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/14 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4. Use the wires to make a loose knot, and thread the wires’ end into the circles.**
 
@@ -116,11 +116,11 @@
 
 **Step 2: Use the wires to make a loose knot, and thread the wires’ end into the circles.**
 
-<figure><img src=".gitbook/assets/16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/16 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3. Thread the other pair of wires through the knot, and fix the wires onto BXS-RAM.**
 
-<figure><img src=".gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/17 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4. Turn the BXS-RAM around. Use the wires to make a loose knot and thread the wires’ end into the circles. Align a foam tape with the edge marked in the picture below and apply it in the middle to fill in the gap. Align the transmitter in the middle of the back cover as the picture shown below and attach the transmitter to the foam tape closely.**
 
@@ -130,9 +130,9 @@ Note:
 **A foam tape is included in the package to fill in the gap between the BXS-RAM and the transmitter board.**
 {% endhint %}
 
-<figure><img src=".gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/18 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/20 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5. The installation is complete.**
 
@@ -192,15 +192,15 @@ Note:
 
 **Step 4. Bend the wires that are not connected to the small board, and fix it onto the device.**
 
-<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5. Then, take the wires connected to the small board, and fix them onto the device. (For the fixing position, refer to the image below)**
 
-<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6. Fix the rest of the wires onto the device.**
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7. To install the transmitter, the lower side of the transmitter should be align the installation line and use the middle of the hole or the middle of the screw to align the transmitter in the middle. Please refer to the pictures below.**
 

@@ -198,7 +198,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
   * After the installation site is selected, press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check that the detection coverage is adequate.
   * When detection coverage is found to be satisfying, follow the steps described in _**Mounting Method**_ section below to mount the PIR.
 
-<figure><img src=".gitbook/assets/10 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Mounting Method**_
 
@@ -216,7 +216,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 5. Screw the base onto the wall plugs.
 6. Screw the cover onto the base.
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -227,7 +227,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 4. Fit the PIR onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/12 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Mounting with the mounting bracket:**
 

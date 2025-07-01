@@ -178,15 +178,15 @@ Note:
 Do not adjust the camera module when it is lifted. Adjust the camera module only when it is in normal operation position.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](.gitbook/assets/9.png)
+![](<.gitbook/assets/9 (1).png>)
 
 #### PIR Detection length adjustment
 
 The PIR distance limit can be adjusted in 5 levels (2.5 to 12m).
 
-![](.gitbook/assets/10.png)
+![](<.gitbook/assets/10 (1).png>)
 
 #### Dip Switch Settings & PIR Sensitivity Setting
 
@@ -199,7 +199,7 @@ Note:
 Please _**DO NOT**_ change the default setting of Dip Switch 2 (N.C.).
 {% endhint %}
 
-<figure><img src=".gitbook/assets/11.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### PIR Area Masking
 

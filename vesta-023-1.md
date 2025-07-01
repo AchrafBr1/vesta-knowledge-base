@@ -8,7 +8,7 @@ SD-29 Series is a wireless smoke detector with a built-in PIR motion sensor and 
 
 The Smoke Detector includes the following models:
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Parts Identification
 

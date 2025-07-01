@@ -164,7 +164,7 @@ If a child node device is not yet learned into the Control Panel, “Unknown Typ
 
 ## RP Connection Map (Home Portal Server: Installer Web/App)
 
-Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<.gitbook/assets/11 (1).jpeg>) will be
+Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<.gitbook/assets/11 (1) (1).jpeg>) will be
 
 displayed besides the Device List header.
 
