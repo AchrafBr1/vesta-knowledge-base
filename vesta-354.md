@@ -40,6 +40,10 @@ TSP-1-BUS can operate in three different modes: “”WIFI & BUS”, “WIFI”,
 
 Learning Process is only required for the first-time setup.
 
+{% hint style="warning" %}
+**Please make sure you update TSP-1 to latest fimrware version before start.**
+{% endhint %}
+
 **Step 1.** After TSP-1-BUS is wired to the Panel, select the language and then connection mode for the Keypad.
 
 <figure><img src=".gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
