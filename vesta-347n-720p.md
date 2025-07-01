@@ -1,6 +1,6 @@
 # VESTA-347N-720P
 
-**VST-892EX-HD**
+**VST-892EX-HD BUS**
 
 ## **Outdoor PIR Motion Sensor Camera**&#x20;
 
