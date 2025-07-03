@@ -105,7 +105,7 @@ Step 2. After the keypad is successfully learnt into the panel, press the OK key
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding label number will be loaded. Click Submit to save the user code setting.
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 4. The label has been added. You can use the label to arm/home arm/disarm the system.
 
@@ -122,7 +122,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.&#x20;
 
 Step 2. Manually delete the label number and click “Submit”.
 
-<figure><img src=".gitbook/assets/6 (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 3. The label has been cleared.
 

@@ -8,7 +8,7 @@ The Outdoor Bell Box is used to attract attention when alarm signal is received 
 
 The Bell Box can also alert you to tamper violation, and low battery status.
 
-<figure><img src=".gitbook/assets/0.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Identifying the Parts
 
@@ -162,7 +162,7 @@ Edit the device editing page to enter the Bellbox setting and information accord
 
 Proceed to installation after complete learning.
 
-<figure><img src=".gitbook/assets/8.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 1 Disable the tamper function on the Control Panel (please refer to the Control Panel instruction manual). The bellbox will sound a beep to indicate the tamper switch is now disabled.
 

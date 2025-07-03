@@ -102,7 +102,7 @@ Note:
 
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/13 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/13 (1) (1) (1) (1).jpeg>)
 
 ## **Learning**
 
@@ -147,7 +147,7 @@ If there is no response from the Panel after the press of learn button, it means
 
 ## **Installation**
 
-![](<.gitbook/assets/16 (1).jpeg>)
+![](<.gitbook/assets/16 (1) (1).jpeg>)
 
 Step 1. Find the location where the Bell box is to be mounted.
 

@@ -222,7 +222,7 @@
 * [VESTA-388](vesta-388.md)
 * [VESTA-393](vesta-393.md)
 * [VESTA-396](vesta-396.md)
-* [VESTA 397](vesta-397.md)
+* [VESTA-397](vesta-397.md)
 * [VESTA-399](vesta-399.md)
 * [VESTA 400](vesta-400.md)
 * [VESTA 402](vesta-402.md)

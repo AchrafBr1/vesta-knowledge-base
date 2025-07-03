@@ -1,6 +1,6 @@
 # VESTA-351
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>HE111X +VESTA-148</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (1).png" alt=""><figcaption><p>HE111X +VESTA-148</p></figcaption></figure>
 
 ### **1. General Description**
 

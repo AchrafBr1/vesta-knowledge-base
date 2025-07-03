@@ -90,7 +90,7 @@
 
 **Step 3. Connect the wires and fix the wires as the pictures shown below.**
 
-<figure><img src=".gitbook/assets/14 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/14 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4. Use the wires to make a loose knot, and thread the wires’ end into the circles.**
 
@@ -132,7 +132,7 @@ Note:
 
 <figure><img src=".gitbook/assets/18 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/20 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/20 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5. The installation is complete.**
 

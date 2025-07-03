@@ -12,7 +12,7 @@ The HD-9 Series including the following models:
 
 HD-9S / HD-9S-F1: This model is identified as Smoke Detector in the Control Panel device list. HD-9H / HD-9H-F1: This model is identified as Heat Detector in the Control Panel device list.
 
-![](<.gitbook/assets/0 (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1) (1) (1) (1) (1).jpeg>)
 
 ### 1. Red LED
 

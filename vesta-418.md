@@ -60,7 +60,7 @@ Step 2 Push the plug into place, and make a quarter turn clockwise to lock the p
 
 <figure><img src=".gitbook/assets/4 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -110,7 +110,7 @@ After the repeater is learned into the Control Panel, proceed to program repeate
 
 Go to the **Repeater Setting** on Panel’s webpage.
 
-<figure><img src=".gitbook/assets/6 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/7 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -155,7 +155,7 @@ Note:
 If a child node device is not yet learned into the Control Panel, “Unknown Type” and “Device Not Existed” will be displayed. Make sure to learn the device into the Control Panel for the Panel to recognize it.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/10 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Delete Device from the Repeater
 
@@ -164,11 +164,11 @@ If a child node device is not yet learned into the Control Panel, “Unknown Typ
 
 ## RP Connection Map (Home Portal Server: Installer Web/App)
 
-Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<.gitbook/assets/11 (1) (1).jpeg>) will be
+Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<.gitbook/assets/11 (1) (1) (1).jpeg>) will be
 
 displayed besides the Device List header.
 
-<figure><img src=".gitbook/assets/12.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 Clicking on the icon ![](<.gitbook/assets/image (277).png>) will pop up the RP Connection Map.
 

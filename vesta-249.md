@@ -41,7 +41,7 @@ The PCB Tamper Switch protects the device from being opened or being removed fro
 
 It is used to secure the top and bottom case of the Door Contact.
 
-![](<.gitbook/assets/1 (1) (1) (1).png>)
+![](<.gitbook/assets/1 (1) (1) (1) (1).png>)
 
 ### _**Accessories Included**_
 
@@ -104,11 +104,11 @@ If you want to disable one of the functions, remove its corresponding zone from 
 
 ### &#x20;_**Mounting Methods and Installation**_
 
-![](<.gitbook/assets/2 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/2 (1) (1) (1) (1) (1).png>)
 
 It is recommended that the Door Contact should be placed on the door frame and the magnet on the door. If the door contact is placed on the door, and the door is opened too fast, the transmitted distance may be shorted. The magnet should not be more than 15mm from the Door Contact when the door is closed.
 
-![](<.gitbook/assets/3 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/3 (1) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 Note:
@@ -160,7 +160,7 @@ Connect to a N.C. (Normal Close) external Tamper Switch.
 
 The Jumper switch determines whether Terminal 1 is set to N.C. input or Roller Shutter.
 
-![](<.gitbook/assets/4 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/4 (1) (1) (1) (1) (1).png>)
 
 ![](<.gitbook/assets/5 (1) (1).png>)If the jumper is ON (the jumper link is inserted connecting the two pins), Terminal 1 is
 
@@ -176,7 +176,7 @@ set to N.C. connection. _(**Factory Default**)_
 
 This Jumper is to select how many pulses it takes to activate Terminal 1 when it is set to Roller Shutter
 
-![](<.gitbook/assets/7 (1) (1) (1).png>)If the jumper is ON, when the Terminal 2 counts **5** Pulses **in 10 seconds**, the Door Contact will send
+![](<.gitbook/assets/7 (1) (1) (1) (1).png>)If the jumper is ON, when the Terminal 2 counts **5** Pulses **in 10 seconds**, the Door Contact will send
 
 alarm signal.
 
@@ -188,7 +188,7 @@ alarm signal.
 
 This Jumper is to select how many pulses it takes to activate Terminal 1 when it is set to Roller Shutter
 
-![](<.gitbook/assets/9 (1) (1) (1) (1) (1).png>)If the jumper is ON, when the Terminal 2 counts **6** Pulses **in 10 seconds**, the Door Contact will send
+![](<.gitbook/assets/9 (1) (1) (1) (1) (1) (1).png>)If the jumper is ON, when the Terminal 2 counts **6** Pulses **in 10 seconds**, the Door Contact will send
 
 alarm signal.
 
@@ -238,7 +238,7 @@ The Extension terminal may be useful for the following situation.
 * Any dry contact device with N.C. (Normal Close) loop can be connected to the Extension Terminal making the Door Contact serve as an Universal Transmitter.
 * &#x20;Multiple dry contact device can be wired together with Door Contact, as show in diagram.
 
-![](<.gitbook/assets/13 (1) (1) (1) (1) (1).png>) ![](<.gitbook/assets/14 (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/13 (1) (1) (1) (1) (1).png>) ![](<.gitbook/assets/14 (1) (1) (1) (1) (1) (1).png>)
 
 ## **Roller Shutter**
 
