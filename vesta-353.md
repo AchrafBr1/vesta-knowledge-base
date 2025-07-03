@@ -4,7 +4,7 @@ HE-131M + VESTA-148 (BROWN)
 
 ## Outdoor curtain digital detector with dual technology &#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 The detector has been designed to provide external perimeter protection, creating a vertical barrier with multiple beams, which detects the presence of an intruder before he breaks into the internal environments, with a maximum range of 9 m.
 

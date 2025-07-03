@@ -49,7 +49,7 @@ To make wire connection, push the wire into the terminal and hold the wire in pl
 * Humidity: Up to 85% non-condensing
 * Dimension: 71.1mm x 49mm x 26mm
 
-## <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Installation Environment**&#x20;
+## <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Installation Environment**&#x20;
 
 * The Relay Controller should be installed indoors in a dry location.
 * It is recommended to install the device in a fire resistant plastic gangbox.
