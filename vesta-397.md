@@ -224,7 +224,7 @@ When the PIR is powered on, its pet immunity function and sensitivity are determ
 
 <figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **For Glass Break Detector**
 

@@ -28,8 +28,6 @@ The panic alarm cannot be stopped after activation by pressing the disarm button
 
 **6. BATTERY COMPARTMENT -** The Remote Controller uses one **CR2032** 3V mAh Lithium battery as its power source. The low battery status will be sent to the Control Panel along with regular signal transmission, and the Control Panel will display the status accordingly.
 
-\<Note>
-
 {% hint style="warning" %}
 Note:
 

@@ -137,8 +137,6 @@ As the operation condition of the smoke detector may vary after being installed 
 * After the first installation, the Smoke Detector will perform auto-calibration after 4 hours. Afterwards, it will perform auto-calibration once every month. During the auto-calibration process, the Smoke Detector will not emit any sound. Each calibration sampling process takes 2 minutes, if the process fails, it will be retried for a maximum of 5 times. If the 5th retry fails, the LED will flash rapidly, and the Smoke Detector will send a calibration failure code to the Control Panel.
 * The LED flashing can be cancelled by removing and reloading the batteries or manually starting the calibration process. However, if the manual calibration fails again, the Smoke Detector will emit continuous beeps. In this case, you need to remove and reload the batteries to stop the beeping sound (please wait for 30 seconds after removing batteries before reloading them).
 
-\<NOTE>
-
 {% hint style="warning" %}
 Note:
 
