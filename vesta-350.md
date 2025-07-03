@@ -1,6 +1,6 @@
 # VESTA-350
 
-<figure><img src=".gitbook/assets/image (259).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/detectores/VESTA-350">VESTA-350</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 ### **1. General Description**
 
