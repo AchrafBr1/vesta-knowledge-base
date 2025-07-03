@@ -12,7 +12,7 @@ This wizard is coming soon
 
 
 
-<figure><img src=".gitbook/assets/0 (1) (1) (1) (1).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (1) (1) (1) (1) (1).png" alt="" width="280"><figcaption></figcaption></figure>
 
 Press **No**, we will end the Wizard and we can proceed to configure the control panel manually
 
@@ -77,7 +77,7 @@ Press **Yes**, we could add a new account or link the control panel to an existi
 
 
 
-<figure><img src=".gitbook/assets/2 (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On this screen, we could decide whether to create a new user account or connect the control panel to an existing customer account
 
@@ -128,7 +128,7 @@ In this tab, we can customize the customer's PIN code.
 
 Press **Yes**, and we will configure the name and code of the end user.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -175,7 +175,7 @@ In this tab, we will define the security settings relating the partition of the 
 \
 e.g. Entry time, exit time, ....
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -207,7 +207,7 @@ Press **Skip**, the control panel will send all events to the end user's app
 
 Press **YES**, we will configure the control panel to send events to a Central Monitoring Station.
 
-<figure><img src=".gitbook/assets/8 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. We can apply a template already configured with the settings for the connection to the  Central Monitoring Station.
 

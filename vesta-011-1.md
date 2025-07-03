@@ -154,7 +154,7 @@ Under Test mode, press ＊ key and then **9** key to enable Arm/ Home with PIN C
 
 **Enter Home Mode**: Enter any one of the Control Panel user codes and ![](<.gitbook/assets/17 (5).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/18 (3).jpeg>) LED will turn ON along with 3 beeps.
 
-**Return to Disarm Mode**: Enter any one of the Control Panel user code and ![](<.gitbook/assets/19 (2).jpeg>) key. If disarm is successful, the LED will turn ON along with 2 beeps.
+**Return to Disarm Mode**: Enter any one of the Control Panel user code and ![](<.gitbook/assets/19 (2) (1).jpeg>) key. If disarm is successful, the LED will turn ON along with 2 beeps.
 
 If there is **Alarm Memory,** the  LED and fault LED will turn ON along with 5 beeps.
 
@@ -166,7 +166,7 @@ In the Test mode, press ＊ key and then the **8** key to enable Arm/ Home witho
 
 **Enter Home Mode**: Press ![](<.gitbook/assets/17 (5).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/18 (3).jpeg>) LED will turn ON along with 3 beeps.
 
-**Return to Disarm Mode**: Enter any one of the Control Panel user code and ![](<.gitbook/assets/19 (2).jpeg>) key. If disarm is successful, the LED will turn ON along with 2 beeps.
+**Return to Disarm Mode**: Enter any one of the Control Panel user code and ![](<.gitbook/assets/19 (2) (1).jpeg>) key. If disarm is successful, the LED will turn ON along with 2 beeps.
 
 If there is **Alarm Memory,** the  LED and fault LED will turn ON along with 5 beeps.
 

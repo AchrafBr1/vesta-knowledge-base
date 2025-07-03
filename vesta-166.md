@@ -158,7 +158,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
     Example for Configuration Setting:
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 SWITCH\_MULTILEVEL\_SET: 0x00 (0%)
 

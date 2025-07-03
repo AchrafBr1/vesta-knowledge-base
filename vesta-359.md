@@ -83,7 +83,7 @@ The extension terminal may be useful for the following situations:
 * Any dry contact devices with an N.C. (Normal Closed) or N.O. (Normally Open) loop can be connected to the extension terminal making the Wired Door Contact serve as a Universal Transmitter.
 * Multiple dry contact devices can be wired together with the Wired Door Contact, as shown in the picture below.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Power Supply**_
 
@@ -116,7 +116,7 @@ _**Caution**_
 * Before connecting the Wired Door Contact to the system BUS, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/15 (2).jpeg>)
+![](<.gitbook/assets/15 (2) (1).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel.For optimal communication of the the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 

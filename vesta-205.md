@@ -103,4 +103,4 @@ Step 4  Use the mounting bracket as template, mark the two mounting holes, drill
 
 Step 5  Locate the single line mark on the detector and line it up with one of the hook of the bracket. Fit the Smoke Detector onto the hooks on the bracket, then rotate the detector counter-clockwise to lock into place. The installation is now complete.
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>

@@ -86,7 +86,7 @@
 
 <figure><img src=".gitbook/assets/12 (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3. Connect the wires and fix the wires as the pictures shown below.**
 
@@ -184,7 +184,7 @@ Note:
 
 **Step 2. Pull two set of cables to the lower left side. (Refer to the image below).**
 
-<figure><img src=".gitbook/assets/10 (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3. Fix the two set of wires onto WXI-RAM. (Refer to the image below)**
 
@@ -192,18 +192,18 @@ Note:
 
 **Step 4. Bend the wires that are not connected to the small board, and fix it onto the device.**
 
-<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5. Then, take the wires connected to the small board, and fix them onto the device. (For the fixing position, refer to the image below)**
 
-<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6. Fix the rest of the wires onto the device.**
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7. To install the transmitter, the lower side of the transmitter should be align the installation line and use the middle of the hole or the middle of the screw to align the transmitter in the middle. Please refer to the pictures below.**
 
-<figure><img src=".gitbook/assets/10 (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8. The installation is complete.**

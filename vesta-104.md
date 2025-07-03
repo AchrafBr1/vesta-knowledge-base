@@ -50,13 +50,13 @@ G. Temperature Reading / Setpoint
 
 **4. Wall Mounting Hole**
 
-<figure><img src=".gitbook/assets/2 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **5. Battery Compartment**
 
 Insert 2 AA Alkaline batteries.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **6. Relay Terminals (Remove Relay Cover to Access)**
 

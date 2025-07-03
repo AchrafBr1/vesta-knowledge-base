@@ -72,7 +72,7 @@ To use PC Programming Tool for programming Mobile Lite, follow the steps below:
 
 Loosen the Protective Cover Fixing Screws using a Philips screwdriver and remove the SIM Card and USB Protective Cover.
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.**
 

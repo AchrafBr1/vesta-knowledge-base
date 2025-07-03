@@ -85,7 +85,7 @@ While arming / disarming the system, different methods are used to distinguish v
 * Before connecting the Wired Indoor Siren to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/14 (2).jpeg>)
+![](<.gitbook/assets/14 (2) (1).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 

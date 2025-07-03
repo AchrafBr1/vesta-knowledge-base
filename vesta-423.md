@@ -43,7 +43,7 @@ The Flash LED or Infrared LED delivers sufficient light for image capture under 
 5. **Battery Compartment**
 6. **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
-<figure><img src=".gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 **Jumper On** The jumper link is inserted, connecting the two pins.
 
@@ -214,7 +214,7 @@ JP4 settings. Users can either adjust jumper settings or remotely change the pet
 * At a position where its field of view will not be obstructed e.g., by curtains, ornaments etc.
 * **Limitations**
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Be sure to always remain the RSSI signal strength steady at “4”.**
 

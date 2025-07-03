@@ -136,7 +136,7 @@ The PIR Camera will conduct a self-test periodically by transmitting a superviso
 * Before connecting the PIR camera to the system bus, please switch the Hybrid Panel’s power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication on the BUS network, enable the Terminal Resistor Jumpers only at both endpoints (the two farthest nodes) to prevent signal reflection and improve communication stability. Do NOT enable jumpers on any intermediate BUS devices --- only the two endpoints should have them enabled.
 
@@ -151,7 +151,7 @@ Note:
 * After the wires are connected and the terminal blocks are plugged to the base, re-place the device back to the base and push it downwards so that the BUS strips on the base will be well connected to the connection socket on the device for the BUS Terminal to function.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -169,7 +169,7 @@ To locate the PIR Camera in the BUS system:
 
 **Step 1** On Hybrid Panel’s webpage, click “Identify” after the IR Camera’s device entry.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2** If VST-897-BUS receives the signal from the Hybrid Panel, the webpage will display a success message and VST-897-BUS’s LED indicator will flash 10 times to indicate where it is to the user.
 
@@ -242,15 +242,15 @@ Please refer to the table below for configuration details. For example, if you w
 * At a position where its field of view will not be obstructed by, e.g., curtains, ornaments, etc.
 * **Limitations**
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When mounted with Mounting Bracket A at a height of 2.3 to 2.5 meters, the PIR Camera has a 9-meter detection range without the pet immunity function.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When mounted with the optional Mounting Bracket B at the same height, the detection range extends to up to 12 meters.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Mounting the PIR Camera**_
 
@@ -275,7 +275,7 @@ Once installed, the PIR Camera will be tilted at a ten-degree angle. The bracket
 2. Insert the provided wall plugs.
 3. Screw the mounting bracket onto the wall plugs.
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Undo the bottom fixing screw and detach the device cover from its base.
 5. Route the BUS wire through a Breakaway Area for Wiring and close the Battery Compartment Cover.
@@ -289,11 +289,11 @@ Ensure the PIR Camera is securely hooked onto the mounting bracket so that the t
 
 7. Secure the base to Mounting Bracket A with the stabilizing screw.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Attach the upper part of the device cover to the base, then snap the lower part into place.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Tighten the bottom fixing screw.
 
@@ -305,7 +305,7 @@ For corner mounting, use the four corner screw holes as a template.
 1. Insert the provided wall plugs.
 2. Screw the mounting bracket onto the wall plugs.
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Undo the bottom fixing screw and detach the device cover from its base.
 5. Route the BUS wire through a Breakaway Area for Wiring and close the Battery Compartment Cover.
@@ -319,10 +319,10 @@ Ensure the PIR Camera is securely hooked onto the mounting bracket so that the t
 
 7. Secure the base to Mounting Bracket B with the stabilizing screw.
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Attach the upper part of the device cover to the base, then snap the lower part into place.
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Tighten the bottom fixing screw.

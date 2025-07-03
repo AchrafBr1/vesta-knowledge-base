@@ -12,7 +12,7 @@ A  PCB tamper switch protects the enclosure from being opened or being removed f
 
 **1. RED LED indicator Test Button**
 
-![](<.gitbook/assets/0 (1) (1).png>)
+![](<.gitbook/assets/0 (1) (1) (1).png>)
 
 Test Button
 
@@ -104,11 +104,11 @@ If you want to disable one of the functions, remove its corresponding zone from 
 
 ### &#x20;_**Mounting Methods and Installation**_
 
-![](<.gitbook/assets/2 (1) (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1).png>)
 
 It is recommended that the Door Contact should be placed on the door frame and the magnet on the door. If the door contact is placed on the door, and the door is opened too fast, the transmitted distance may be shorted. The magnet should not be more than 15mm from the Door Contact when the door is closed.
 
-![](<.gitbook/assets/3 (1) (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 Note:
@@ -162,7 +162,7 @@ The Jumper switch determines whether Terminal 1 is set to N.C. input or Roller S
 
 ![](<.gitbook/assets/4 (1) (1) (1) (1) (1) (1).png>)
 
-![](<.gitbook/assets/5 (1) (1) (1).png>)If the jumper is ON (the jumper link is inserted connecting the two pins), Terminal 1 is
+![](<.gitbook/assets/5 (1) (1) (1) (1).png>)If the jumper is ON (the jumper link is inserted connecting the two pins), Terminal 1 is
 
 set to Roller Shutter connection
 
@@ -180,7 +180,7 @@ This Jumper is to select how many pulses it takes to activate Terminal 1 when it
 
 alarm signal.
 
-![](<.gitbook/assets/8 (1) (1) (1) (1) (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 5 Pulses in 10 seconds. _(**Factory Default**)_
+![](<.gitbook/assets/8 (1) (1) (1) (1) (1) (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 5 Pulses in 10 seconds. _(**Factory Default**)_
 
 **6. Roller Shutter Setting** － **6 Pulse /Disable(JP5)**
 
@@ -192,7 +192,7 @@ This Jumper is to select how many pulses it takes to activate Terminal 1 when it
 
 alarm signal.
 
-![](<.gitbook/assets/10 (1) (1) (1) (1) (1) (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 6 Pulses in 10 seconds. _(**Factory Default**)_
+![](<.gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 6 Pulses in 10 seconds. _(**Factory Default**)_
 
 **7. Roller Shutter Setting** － 7 **Pulse /Disable(JP6)**
 
@@ -204,7 +204,7 @@ This Jumper is to select how many pulses it takes to activate Terminal 1 when it
 
 alarm signal.
 
-![](<.gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 8 Pulses in 10 seconds. _(**Factory Default**)_
+![](<.gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1) (1).png>)If the jumper is OFF, the Terminal 2 will not be triggered by 8 Pulses in 10 seconds. _(**Factory Default**)_
 
 {% hint style="warning" %}
 Note:
@@ -238,7 +238,7 @@ The Extension terminal may be useful for the following situation.
 * Any dry contact device with N.C. (Normal Close) loop can be connected to the Extension Terminal making the Door Contact serve as an Universal Transmitter.
 * &#x20;Multiple dry contact device can be wired together with Door Contact, as show in diagram.
 
-![](<.gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1).png>) ![](<.gitbook/assets/14 (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1) (1).png>) ![](<.gitbook/assets/14 (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ## **Roller Shutter**
 

@@ -176,7 +176,7 @@ The PIR camera supports remote setting of pet Immunity and sensitivity.
 
 Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity and set Sensitivity level to high, you can input 02.
 
-<figure><img src=".gitbook/assets/8 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\) Press the function button once on the PIR Camera to send a signal to the Control Panel, new settings will be applied immediately. If the button is not pressed, new settings will be applied upon next signal transmission, e.g., transmission of the supervision signal or IR trigger signal.
 
@@ -192,7 +192,7 @@ Please refer to the table below for configuration details. For example, if you w
 * When a masking event is detected, and the masking condition lasts for 3 minutes, VST-892 will send a masking alarm signal to the Control Panel to notify user of the masking condition.
 * After masking/blocking is removed for 3 minutes, VST-892 will send restore signal to the Control Panel.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Installation**
 
@@ -217,7 +217,7 @@ Please refer to the table below for configuration details. For example, if you w
 
 <figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Mounting the PIR Camera
 
@@ -247,7 +247,7 @@ bracket when the PIR Camera is mounted with the mounting bracket.
 5. Screw the base onto the wall plugs.
 6. Re-place the cover onto the base and tighten the bottom fixing screw.
 
-<figure><img src=".gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Mounting with the mounting bracket:**
 
@@ -256,7 +256,7 @@ bracket when the PIR Camera is mounted with the mounting bracket.
 3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 4. Fit the PIR Camera onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;Corner mounting with the mounting bracket:
 

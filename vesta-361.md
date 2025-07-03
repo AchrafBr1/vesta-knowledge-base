@@ -147,7 +147,7 @@ If there is no response from the Panel after the press of learn button, it means
 
 ## **Installation**
 
-![](<.gitbook/assets/16 (1) (1).jpeg>)
+![](<.gitbook/assets/16 (1) (1) (1).jpeg>)
 
 Step 1. Find the location where the Bell box is to be mounted.
 

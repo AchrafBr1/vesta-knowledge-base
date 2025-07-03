@@ -136,7 +136,7 @@ Step 2. After VESTA-012N is successfully learnt into the panel, press ![](<.gitb
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 4. The tag has been added. You can use the tag to arm/home arm/disarm the system. When the Keypad is powered on by inserting batteries, the Orange LED will flash, and the white backlight will turn on. When the LED is off, wait 10 seconds for the keypad tag sensor to start functioning.
 
@@ -146,7 +146,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click Submit.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 3. The tag is cleared.
 
@@ -243,7 +243,7 @@ Make sure Bluetooth is turned on for your smartphone setting.
 
 When the detected Keypad is shown on the list, tap it to enter the Pairing PIN Code page. Enter the BLE Pairing PIN Code **(Default: 000000)** and tap the **Pair** button to proceed.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step 4                                                                                                                                                   Step 5</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step 4                                                                                                                                                   Step 5</p></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -261,7 +261,7 @@ Click OK, and you will be directed to the KPT device setting page, where you wil
 
 If the user wants to leave this page but the User PIN field is empty, the system will pop up an error message.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Please Note:

@@ -100,7 +100,7 @@ _**Caution**_
 * Before connecting the Wired Door Contact/Shock Sensor to the system’s BUS, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/18 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/18 (1) (1) (1) (1).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel.For optimal communication of the the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
@@ -135,7 +135,7 @@ Step 5. If the device is successfully learnt into the Panel, it will be displaye
 
 Step 1. Select the material and sensitivity level from the Control Panel webpage (Sensor Setting page).
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 2. When DCSV-29-BUS receives the programming command from the Panel, the LED will first turn off, and then turn brighter and turn dark. Material & Sensitivity level setting are now complete.
 
@@ -176,7 +176,7 @@ If there is no response from the Panel after the press of test button, it means 
 * The distance between the Door Contact and the magnet should be no more than 15 mm when the door is closed.
 * Mount the device as high as possible.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Mounting as a Shock Sensor:**
 

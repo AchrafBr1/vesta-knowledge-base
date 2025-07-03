@@ -176,7 +176,7 @@ The SDCO Detector allows the user to set up a location prompt for an area (e.g.,
 
 * When a CO, smoke, and/ or temperature alarm is triggered, the siren will be activated according to the time length below and followed by voice prompts to notify the user to evacuate.
 
-<figure><img src=".gitbook/assets/12 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Fire Verification**_
 
@@ -209,7 +209,7 @@ The SDCO Detector will activate fire alarm when either of its smoke detection or
 2. The CO sensor features self-diagnosis function and will regularly check the health or status of the sensor every 12 hours.
 3. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with EN-50291 standard)
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with UL-2034 standard)
 
@@ -328,7 +328,7 @@ It is recommended writing the “Replace by” date (10 years from installation 
 
 * The SDCO Detector can support detection coverage within a radius of 4 meters.
 
-<figure><img src=".gitbook/assets/10 (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Installation Recommendation**_
 
@@ -598,7 +598,7 @@ _**Table 3**_
 
 * Property ID (0x00-0xFE) --- LED on\_off times
 
-<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -618,7 +618,7 @@ _**Table 3**_
 
  Configuration Value: 0xXX
 
-<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/10 (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -632,7 +632,7 @@ _**Table 3**_
 
  Table 5 0x10 (Temporary Snooze)
 
-<figure><img src=".gitbook/assets/12 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Factory Reset**
 

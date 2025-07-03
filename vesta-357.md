@@ -16,7 +16,7 @@ Remote configuration is supported for the PIR motion sensor camera. Besides adju
 
 ## _**Identifying the Parts**_
 
-![](<.gitbook/assets/1 (2) (1).jpeg>)
+![](<.gitbook/assets/1 (2) (1) (1).jpeg>)
 
 1. **Digital Proximity Detector**
 
@@ -236,7 +236,7 @@ If there is no response from the Panel after the press of test button, it means 
   * The PIR Camera can be mounted on a flat surface with the fixing screws, wall plugs, and the mounting bracket provided.
   * The provided mounting bracket has knockouts, where the plastic is thinner and can be broken for mounting purpose.
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   To mount VST-892EX-BUS with the mounting bracket:
 
@@ -261,7 +261,7 @@ A rotating holder is provided as a user-friendly mounting option **(optional ite
 
 With the rotating holder, the PIR Camera can be rotated horizontally to provide the optimal coverage.
 
-<figure><img src=".gitbook/assets/10 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A special screwdriver with a reversible double-sided bit and three star socket screws are provided for fixing the rotating holder to the wall. Please use the provided screwdriver to tighten/loosen the star socket screws.
 

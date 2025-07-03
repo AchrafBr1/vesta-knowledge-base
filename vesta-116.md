@@ -75,7 +75,7 @@ If an AC power failure is detected, the Air Quality Sensor will send an AC failu
 * Users can also select RGB light color locally. Press and hold the Function Button for 2 seconds to enter RGB Light Color Change mode. Then each button press will lead to next color selection. The cycle of 0-8 can be repeated sequentially. Please refer to below table.
 * The Air Quality Sensor will automatically exit RGB Light Color Change mode after 6 seconds of inactivity. The RGB light will flash the currently set color to indicate the exit.
 
-<figure><img src=".gitbook/assets/11 (1).jpeg" alt=""><figcaption><p><strong>AQS LED Color Setting</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1).jpeg" alt=""><figcaption><p><strong>AQS LED Color Setting</strong></p></figcaption></figure>
 
 ### Adding Device (Inclusion)
 

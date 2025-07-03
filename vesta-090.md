@@ -4,7 +4,7 @@
 
 ## **Care Watch**
 
-<div align="left"><figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## _**Parts Identification**_
 
