@@ -121,7 +121,7 @@ The SDCO Detector will activate fire alarm when either of its smoke detection or
 
 * The alarm will be activated after CO concentration is detected according to the time length in the following table: (compliant with UL-2034 standard)
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Once the CO concentration level exceeds the threshold and persists for the time length as listed in the above table, the SDCO Detector will transmit the signal to the Control Panel and raise alarm with its built-in siren.
 

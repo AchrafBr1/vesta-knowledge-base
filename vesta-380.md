@@ -8,7 +8,7 @@ The Outdoor Bell Box is used to attract attention when alarm signal is received 
 
 The Bell Box can also alert you to tamper violation, and low battery status.
 
-<figure><img src=".gitbook/assets/0 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Identifying the Parts
 

@@ -8,7 +8,7 @@
 
 WSS-4E-2W is a Four Touch Button Scenario Switch designed to control a group of pre-programmed home automation devices by simply pressing the scenario touch buttons.
 
-![](<.gitbook/assets/0 (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1) (1) (1) (1).jpeg>)
 
 ### PARTS IDENTIFICATION
 

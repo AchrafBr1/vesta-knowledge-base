@@ -128,7 +128,7 @@ In this tab, we can customize the customer's PIN code.
 
 Press **Yes**, and we will configure the name and code of the end user.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -175,7 +175,7 @@ In this tab, we will define the security settings relating the partition of the 
 \
 e.g. Entry time, exit time, ....
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -185,7 +185,7 @@ e.g. Entry time, exit time, ....
 
 In this tab, we could customize the options of the control panel
 
-<figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -197,7 +197,7 @@ Press **Skip** will cause the panel to use the Ethernet connection
 
 Press **Yes**, we could enable SIM detection and set the APN if necessary
 
-<figure><img src=".gitbook/assets/7 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 8. Report Settings
 
@@ -207,7 +207,7 @@ Press **Skip**, the control panel will send all events to the end user's app
 
 Press **YES**, we will configure the control panel to send events to a Central Monitoring Station.
 
-<figure><img src=".gitbook/assets/8 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. We can apply a template already configured with the settings for the connection to the  Central Monitoring Station.
 
@@ -223,7 +223,7 @@ Press **YES**, we will configure the control panel to send events to a Central M
 
 
 
-<figure><img src=".gitbook/assets/9 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/9 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

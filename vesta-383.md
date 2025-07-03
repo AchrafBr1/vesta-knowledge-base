@@ -99,7 +99,7 @@ When adding a new label, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the label, and assign the user pin code to an Area.
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 2. After the keypad is successfully learnt into the panel, press the OK key and then apply a new label to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this label is new (not added to the system yet).
 

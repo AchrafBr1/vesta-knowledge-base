@@ -12,7 +12,7 @@ The PIR is designed to give a typical detection range of 12 meters when mounted 
 
 ### Parts Identification
 
-<figure><img src=".gitbook/assets/0 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### 1 Test Button / LED Indicator
 
@@ -220,7 +220,7 @@ When the PIR is powered on, its pet immunity function and sensitivity are determ
 
 3. Please refer to the table below for configuration details. For example, if you want to configure the following setting, _Pet Immunity **enabled**, **High** Sensitivity, Double Detection Time **5 seconds**, Sleep Timer **10 seconds**_, please input _**0311 (hex)**_.
 
-![](<.gitbook/assets/14 (1).png>)
+![](<.gitbook/assets/14 (1) (1).png>)
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
