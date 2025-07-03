@@ -4,17 +4,6 @@ description: >-
   designed for both indoor and outdoor use. They provide reliable video
   surveillance with easy installation.
 icon: camera-cctv
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # SETUP VESTA CAMERAS 291-292-293

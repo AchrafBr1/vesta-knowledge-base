@@ -1,16 +1,5 @@
 ---
 icon: video
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # VESTA ADVANCED IP CAMERA SERIES

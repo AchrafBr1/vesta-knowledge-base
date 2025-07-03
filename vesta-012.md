@@ -1,19 +1,5 @@
 ---
 coverY: 0
-layout:
-  cover:
-    visible: false
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # VESTA-012
