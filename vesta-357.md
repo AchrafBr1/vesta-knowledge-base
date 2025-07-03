@@ -236,7 +236,7 @@ If there is no response from the Panel after the press of test button, it means 
   * The PIR Camera can be mounted on a flat surface with the fixing screws, wall plugs, and the mounting bracket provided.
   * The provided mounting bracket has knockouts, where the plastic is thinner and can be broken for mounting purpose.
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   To mount VST-892EX-BUS with the mounting bracket:
 

@@ -83,7 +83,7 @@ Provide 12V DC@150mA to the connected HIKVISION Card Reader.
 * Before connecting the WIEGAND module to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/6 (1) (1) (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/6 (1) (1) (1) (1) (1) (1) (1) (1).jpeg>)
 
 | **Red**    | VDD  |
 | ---------- | ---- |

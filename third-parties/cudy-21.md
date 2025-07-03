@@ -28,9 +28,9 @@ CUDY FIRMAWARE&#x20;
 2. Access the router's IP: 192.168.10.1 (Get in the same range if connecting directly via PC) or cudy.net
 3. Enable WAN:
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
 
 ### Step 3: Update Firmware of CUDY router
 

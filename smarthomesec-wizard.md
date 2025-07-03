@@ -142,7 +142,7 @@ Press **Skip**, we will go forward in the wizard
 
 Press **Yes**, the control panel will ask you which device you want to add
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the device type you want to add, e.g., Motion Detector. Press and hold the pairing button on the device until the LED flashes (refer to the device's manual for specific instructions).
 
@@ -197,7 +197,7 @@ Press **Skip** will cause the panel to use the Ethernet connection
 
 Press **Yes**, we could enable SIM detection and set the APN if necessary
 
-<figure><img src=".gitbook/assets/7 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 8. Report Settings
 
@@ -223,7 +223,7 @@ Press **YES**, we will configure the control panel to send events to a Central M
 
 
 
-<figure><img src=".gitbook/assets/9 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/9 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

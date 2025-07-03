@@ -15,7 +15,7 @@ The Air Quality Sensor is compatible only with Z-Wave Gateway/Control Panel. Z-W
 
 ### Parts Identification
 
-<figure><img src=".gitbook/assets/0 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 1. **RGB Light**
 2. **LED Indicator (Green)**

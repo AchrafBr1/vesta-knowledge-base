@@ -25,7 +25,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws, o
 6. **Backlit Pound (**＃**) Key**
 7. **Backlit OK Key**
    * For confirming the keyed-in data or confirming the selection.
-8. **Backlit Restore (**![](<.gitbook/assets/3 (1) (1) (1).jpeg>)**) Key**
+8. **Backlit Restore (**![](<.gitbook/assets/3 (1) (1) (1) (1).jpeg>)**) Key**
    * This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
 9. **Backlit Arm/"UP ARROW" Key**
    * Use this key to move the cursor and scroll the display upwards - The key is also used for entering “Away Armed” mode.
@@ -105,7 +105,7 @@ Step 2. After the keypad is successfully learnt into the panel, press the OK key
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding label number will be loaded. Click Submit to save the user code setting.
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 4. The label has been added. You can use the label to arm/home arm/disarm the system.
 
@@ -122,7 +122,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.&#x20;
 
 Step 2. Manually delete the label number and click “Submit”.
 
-<figure><img src=".gitbook/assets/6 (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 3. The label has been cleared.
 

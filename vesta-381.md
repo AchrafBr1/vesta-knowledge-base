@@ -38,7 +38,7 @@ The jumper link is inserted, connecting the two pins. The jumper link is removed
 | ---------------------------------------------------- | ----------------------------------------------------- |
 | The jumper link is inserted, connecting the two pins | if the jumper link is removed or “parked” on one pin. |
 
-![](<.gitbook/assets/3 (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/3 (1) (1) (1) (1) (1).jpeg>)
 
 * Jumper ON: Normally Closed (N.C.) is set.
 * Jumper OFF: Normally Open (N.O.) is set **(Factory Default)**.
@@ -140,7 +140,7 @@ Please follow the steps below to learn the device into the Panel.
 
 * When learnt into the Control Panel, DCSV-32 will be recognized as 3 devices: Door Contact (internal magnetic switch and/or extension terminal), Shock Sensor (SVGS), and Tilt sensor. The 3 devices operate independently. The user can select the desired sensors for use and add them to the Panel.
 
-![](<.gitbook/assets/16 (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/16 (1) (1) (1) (1) (1) (1).png>)
 
 **Step 5.** Click “**Add**” to include the devices into the Panel.
 
@@ -156,11 +156,11 @@ After the device is learnt into the Control Panel, the user can edit the device 
 
 **Step 2.** Go to the Control Panel webpage to edit the device.
 
-![](<.gitbook/assets/18 (1) (1) (1).png>)
+![](<.gitbook/assets/18 (1) (1) (1) (1).png>)
 
 **Step 3.** Select the material and sensitivity level from sensor setting. Click **OK** to confirm.
 
-![](<.gitbook/assets/19 (1) (1) (1).png>)
+![](<.gitbook/assets/19 (1) (1) (1) (1).png>)
 
 **Step 4.** Press the Test Button on DCSV-32 to receive Material & Sensitivity Level data from the Control Panel. The LED will first turn off, and then become brighter and then turn dark, indicating that programming command from the Control Panel has been successfully received.
 
@@ -170,13 +170,13 @@ After the device is learnt into the Control Panel, the user can edit the device 
 
 **Step 2.** Go to the Control Panel webpage. Select “**Device Management**,” and then click on “**Settings**” in the **SVGS** row.
 
-![](<.gitbook/assets/20 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/20 (1) (1) (1) (1) (1).png>)
 
 **Step 3.** Input the Sensitivity configuration in the **Device Edit** section. Please refer to the table below for configuration details. For example, if you want to set the material and sensitivity level as concrete and low, please input 0800.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Click “**Submit**” to confirm. Press the Test Button on DCSV-32 to receive Material & Sensitivity Level data from the Control Panel. The LED will first turn off, and then become brighter and then turn dark, indicating that programming command from the Control Panel has been successfully received.
 
@@ -192,7 +192,7 @@ Once the device is learnt into the Control Panel, the user can edit the device c
 
 Please refer to the table below for configuration details. For example, to set the alarm trigger threshold to ≥5° and restore time to 2 seconds, please input 1100.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Press the Test Button of DCSV-32 to receive Tilt Sensor configuration from the Control Panel. The LED will first turn off, and then become brighter and turn dark, indicating that programming command from the Control Panel has been successfully received.
 
@@ -204,11 +204,11 @@ Please refer to the table below for configuration details. For example, to set t
 
 the **Tilt Sensor** row.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Input the Sensitivity configuration in the **Device Edit** section. For configuration details, please refer to the table mentioned in **Step 2** of the **HPGW/HSGW** Section in the Tilt Sensor Configuration. For example, to set the alarm trigger threshold to ≥5° and restore time to 2 seconds, please input 1100.
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Click “**Submit**” to confirm. Press the Test Button of DCSV-32 to receive Tilt Sensor configuration from the Control Panel. The LED will first turn off, and then become brighter and turn dark, indicating that programming command from the Control Panel has been successfully received.
 
@@ -227,22 +227,22 @@ the **Tilt Sensor** row.
 * The distance between Door Contact and the magnet should be no more than 15 mm when the door is closed.
 * Mount the device as high as possible.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Mounting as a Shock Sensor:**
 
 Refer to the table below for information about installation location and the thickness of different materials:
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Mounting as a Tilt Sensor:**
 
 * The tilt sensor detects vertical deviation relative to the initial position exceeding the programmed activation threshold (≥5°, ≥10°, ≥15°, ≥20°, ≥25°).
 * The tilt sensor can be installed on windows or skylights, and the device should be mounted either vertically or horizontally with respect to the ground (within ±5°).
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * _**Mounting Procedure**_
   1. Use the 2 mounting holes on the back cover as a template and drill holes into the surface to be mounted.
