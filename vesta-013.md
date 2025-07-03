@@ -145,8 +145,6 @@ Step 5. To replace the cover:
 * Mount the magnet on the more mobile object (such as door) using either the double-sided adhesive pad or the screws provided.
 * Align the magnet according to the rib mark on the Door Contact. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
 
-< Note >
-
 {% hint style="warning" %}
 Note:
 
