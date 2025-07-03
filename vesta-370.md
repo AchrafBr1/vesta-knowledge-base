@@ -180,13 +180,13 @@ Do not adjust the camera module when it is lifted. Adjust the camera module only
 
 <figure><img src=".gitbook/assets/8 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/9 (1) (1).png>)
+![](<.gitbook/assets/9 (1) (1) (1).png>)
 
 #### PIR Detection length adjustment
 
 The PIR distance limit can be adjusted in 5 levels (2.5 to 12m).
 
-![](<.gitbook/assets/10 (1) (1).png>)
+![](<.gitbook/assets/10 (1) (1) (1).png>)
 
 #### Dip Switch Settings & PIR Sensitivity Setting
 

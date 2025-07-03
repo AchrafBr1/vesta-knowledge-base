@@ -140,7 +140,7 @@ Please follow the steps below to learn the device into the Panel.
 
 * When learnt into the Control Panel, DCSV-32 will be recognized as 3 devices: Door Contact (internal magnetic switch and/or extension terminal), Shock Sensor (SVGS), and Tilt sensor. The 3 devices operate independently. The user can select the desired sensors for use and add them to the Panel.
 
-![](<.gitbook/assets/16 (1) (1) (1) (1).png>)
+![](<.gitbook/assets/16 (1) (1) (1) (1) (1).png>)
 
 **Step 5.** Click “**Add**” to include the devices into the Panel.
 

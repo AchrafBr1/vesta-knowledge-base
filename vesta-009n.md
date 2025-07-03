@@ -24,7 +24,7 @@ The PIR is designed to give a typical detection range of 12 meters when mounted 
 
 ## _**Identifying the parts.**_
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1. Test Button / LED indicator**
 
@@ -123,7 +123,7 @@ When changing batteries, after removing the old batteries, press the Tamper Swit
 
 **Corner mounting:**
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Break through the two knockouts on the triangular bracket.
 2. Using the two holes as a template, drill holes in the surface of the corner.

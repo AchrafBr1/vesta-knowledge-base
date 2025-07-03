@@ -231,4 +231,4 @@ The Shutter Control’s default Current Position is set to 99% (Full Open). It i
 
 **Supported Command Class**&#x20;
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

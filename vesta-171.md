@@ -14,7 +14,7 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Valve Cap**
 2. **LCD Display**
@@ -62,7 +62,7 @@ G. **Temperature Indicator.**
 
     The Radiator Valve is powered by two 1.5V AA alkaline batteries.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 

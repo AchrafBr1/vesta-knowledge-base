@@ -24,7 +24,7 @@ VST-892-IL-BUS – Wired PIR motion sensor camera with Infrared LED
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (1) (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/0 (1) (1) (1) (1) (1) (1) (1).jpeg>)
 
 **1. Flash LED/Infrared LED**
 

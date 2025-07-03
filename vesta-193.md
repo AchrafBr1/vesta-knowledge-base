@@ -12,7 +12,7 @@ icon: star-of-life
 
 ## **Identifying the Parts**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +60,7 @@ Attach the lanyard to the Mobile Lite unit by looping the lanyard strap through 
 
 Lock the release buckle by inserting the male part into the female part until you hear a click sound.
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Put the lanyard around the neck of the user.
 
@@ -72,7 +72,7 @@ To use PC Programming Tool for programming Mobile Lite, follow the steps below:
 
 Loosen the Protective Cover Fixing Screws using a Philips screwdriver and remove the SIM Card and USB Protective Cover.
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.**
 
@@ -92,7 +92,7 @@ _**WARNING**_
 _If programming cable is not provided, please contact your supplier. DO NOT attempt to connect Mobile Lite to computer with a regular Micro-USB cable._
 {% endhint %}
 
-<figure><img src=".gitbook/assets/6 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Software Installation**
 
@@ -107,4 +107,4 @@ Mobile Lite can be programmed via USB port connection of a computer using the PC
 
 _■ https://www.climax.com.tw/climax-download-mobile-lite-r3-qt.html_
 
-<figure><img src=".gitbook/assets/7 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -213,7 +213,7 @@
 * [VESTA-364N](vesta-364n.md)
 * [VESTA-370](vesta-370.md)
 * [VESTA-373](vesta-373.md)
-* [VESTA 380](vesta-380.md)
+* [VESTA-380](vesta-380.md)
 * [VESTA-381](vesta-381.md)
 * [VESTA 382](vesta-382.md)
 * [VESTA-383](vesta-383.md)
