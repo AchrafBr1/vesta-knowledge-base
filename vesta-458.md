@@ -39,6 +39,16 @@ Ideal for perimeter protection of sensitive areas, construction sites, or events
 * Increased energy harvesting by up to 30% over PWM controllers
 * Real-time monitoring via Bluetooth connection
 
+
+
+**DEM-957 battery (not included)**
+
+* ype: Lead-acid with regulator valve.
+* Voltage: 12V
+* Amperage: 45 Ah
+* Maintenance free with AGM technology
+* Withstands extreme temperatures and fast recharge
+
 ### **Pircam VESTA-370 detector (not included)**
 
 * Product developed in collaboration of Optex with Vesta
