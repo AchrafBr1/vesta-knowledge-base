@@ -4,7 +4,7 @@ description: OUTDOOR SOLAR POWER SUPPLY SYSTEM
 
 # VESTA-441
 
-<figure><img src=".gitbook/assets/image (252).png" alt="" width="368"><figcaption><p><a href="https://bydemes.com/en/products/cctv/accessories/standalone-power-supply-systems/VESTA-441">VESTA-441</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (252).png" alt="" width="368"><figcaption><p>VESTA-441</p></figcaption></figure>
 
 #### 1. Solar Power System Product List
 
