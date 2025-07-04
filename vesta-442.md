@@ -22,6 +22,7 @@ With efficient Mono solar panel and high-capacity LifePO4 battery, VESTA solar p
 
 * Solar panel x 1
 * Cylinder Bracket x 1
+  * The <mark style="color:green;">**battery is included**</mark> in the arm itself
 * Hoop x 2
 * Camera mounting plate x 1
 * Solar panel round tube support x 1
