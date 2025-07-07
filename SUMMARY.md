@@ -270,17 +270,25 @@
 * [🛡️ ALARMSPACE](third-parties/alarmspace.md)
 * [DANALOCK WITH VESTA (Z-WAVE)](third-parties/danalock-with-vesta-z-wave.md)
 * [RAYTEC INTEGRATION](third-parties/raytec-integration.md)
+* [INTEGRATION WITH DAHUA IP CAMERAS](third-parties/integration-with-dahua-ip-cameras.md)
 
 ## ❓ TIPS & HELP
 
 * [MODELS](tips-and-help/models.md)
-* [CAMERAS](tips-and-help/cameras.md)
+* [CID TABLE FOR RULES AND EVENT FILTER](tips-and-help/cid-table-for-rules-and-event-filter.md)
 * [VMAX BUS TIPS](tips-and-help/vmax-bus-tips.md)
+* [CAMERAS](tips-and-help/cameras.md)
+
+## Vesta Home IP Cameras
+
+* [SETUP VESTA CAMERAS 291-292-293](vesta-home-ip-cameras/setup-vesta-cameras-291-292-293.md)
+
+## Vesta Advanced Video
+
+* [VESTA ADVANCED IP CAMERA SERIES](vesta-advanced-video/vesta-advanced-ip-camera-series.md)
 
 ***
 
-* [SETUP VESTA CAMERAS 291-292-293](setup-vesta-cameras-291-292-293.md)
-* [VESTA ADVANCED IP CAMERA SERIES](vesta-advanced-ip-camera-series.md)
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-B24-L](ipc-b24-l.md)
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-B35-AS-PV](ipc-b35-as-pv.md)
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-B35-AS-PV-B](ipc-b35-as-pv-b.md)
@@ -293,11 +301,15 @@
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-T38-ZAS-PV](ipc-t38-zas-pv.md)
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-T38-ZAS-PV-B](ipc-t38-zas-pv-b.md)
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-T24-L](ipc-t24-l.md)
-* [CID TABLE FOR RULES AND EVENT FILTER](cid-table-for-rules-and-event-filter.md)
-* [🧑‍🔧 SmartHomeSec Installer Manual](installer-manual-smart-home-sec.md)
+
+## Installer guides
+
+* [PANEL INSTALLER MANUAL](installer-guides/panel-installer-manual.md)
+* [SmartHomeSec Installer Manual](installer-guides/smarthomesec-installer-manual.md)
+
+***
+
 * [SmartHomeSec WIZARD](smarthomesec-wizard.md)
-* [PANEL INSTALLER MANUAL](intaller-manual.md)
-* [INTEGRATION WITH DAHUA IP CAMERAS](integration-with-dahua-ip-cameras.md)
 * [VESTA home solar cameras](vesta-home-solar-cameras.md)
 
 ## Softwares and Tools

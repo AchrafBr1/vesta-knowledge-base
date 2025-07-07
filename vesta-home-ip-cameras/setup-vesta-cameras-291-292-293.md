@@ -10,7 +10,7 @@ icon: camera-cctv
 
 
 
-<figure><img src=".gitbook/assets/Immagine2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Immagine2.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@ We will show how to add the camera Vesta-292, but the steps to add the camera Ve
 
 ## Camera 292
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### STEP 1:  Plug the power cable&#x20;
 
@@ -28,7 +28,7 @@ We will show how to add the camera Vesta-292, but the steps to add the camera Ve
 
 Use the SmartHomeSec app to initialise the camera and **add** it to the system
 
-<figure><img src=".gitbook/assets/100 (1).png" alt=""><figcaption><p>STEP 1                                                                STEP 2                                                           STEP 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/100 (1).png" alt=""><figcaption><p>STEP 1                                                                STEP 2                                                           STEP 3</p></figcaption></figure>
 
 ### STEP 1: Login as User in the SmarthomeSec App
 
@@ -36,7 +36,7 @@ Use the SmartHomeSec app to initialise the camera and **add** it to the system
 
 ### STEP 3: Press + Icon to add a camera
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
 
 ### STEP 4: Press the VESTA/Imou icon
 
@@ -55,7 +55,7 @@ Vantages to add to the equipment:
 * PTZ control for the VESTA-292
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
 
 * Add to the cloud: The camera will be installed using the cloud. The user will see the live video only from the user's app account.
 
@@ -72,7 +72,7 @@ Vantages to add to the cloud:
 The camera and the panel must be on the same network, please check before proceeding&#x20;
 {% endhint %}
 
-<figure><img src=".gitbook/assets/102.png" alt=""><figcaption><p>STEP 7</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/102.png" alt=""><figcaption><p>STEP 7</p></figcaption></figure>
 
 {% hint style="info" %}
 In case of Ethernet communication, jump directly to STEP 12
@@ -84,19 +84,19 @@ In case of Ethernet communication, jump directly to STEP 12
 The mobile must be connected to the Wi-Fi network that you want to connect the camera
 {% endhint %}
 
-<figure><img src=".gitbook/assets/102.2.png" alt=""><figcaption><p>STEP 8                                                                STEP 9                                                                 STEP 10</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/102.2.png" alt=""><figcaption><p>STEP 8                                                                STEP 9                                                                 STEP 10</p></figcaption></figure>
 
 ### STEP 9: Connect your mobile to the camera network by pressing join
 
 ### STEP 10: Select the network and press Next
 
-<figure><img src=".gitbook/assets/103.png" alt=""><figcaption><p> STEP 11                                                                STEP 12                                                                    STEP 13</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/103.png" alt=""><figcaption><p> STEP 11                                                                STEP 12                                                                    STEP 13</p></figcaption></figure>
 
 ### STEP 11: Write the Wi-Fi password
 
 ### STEP 12: The app will show you the camera userID and password
 
-<figure><img src=".gitbook/assets/104.png" alt=""><figcaption><p>STEP 12                                                                                                                                                  </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/104.png" alt=""><figcaption><p>STEP 12                                                                                                                                                  </p></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -108,11 +108,11 @@ UserID: admin
 Password: (Safety code of the camera, label below)
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption><p>Password</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption><p>Password</p></figcaption></figure>
 
 SETUP COMPLETED
 
-<figure><img src=".gitbook/assets/21.jpg" alt="" width="185"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/21.jpg" alt="" width="185"><figcaption></figcaption></figure>
 
 
 
@@ -142,4 +142,4 @@ SETUP COMPLETED
 
 To reset the VESTA camera:  Press the button RESET located on the back and hold for 10 seconds (The camera will make a BEEP and the LED will turn red) NOTES: In the VESTA-292 model, the button is located under the optics
 
-<figure><img src=".gitbook/assets/Immagine1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Immagine1.png" alt="" width="375"><figcaption></figcaption></figure>

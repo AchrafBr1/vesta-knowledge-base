@@ -1,7 +1,3 @@
----
-icon: calendar-circle-exclamation
----
-
 # CID TABLE FOR RULES AND EVENT FILTER
 
 | Key                        | English Default String                     | Translation String                                          |

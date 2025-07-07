@@ -1,3 +1,7 @@
+---
+icon: puzzle-piece
+---
+
 # INTEGRATION WITH DAHUA IP CAMERAS
 
 Integration **DAHUA**:
