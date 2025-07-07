@@ -299,3 +299,8 @@
 * [PANEL INSTALLER MANUAL](intaller-manual.md)
 * [INTEGRATION WITH DAHUA IP CAMERAS](integration-with-dahua-ip-cameras.md)
 * [VESTA home solar cameras](vesta-home-solar-cameras.md)
+
+## Softwares and Tools
+
+* [Vesta Config Tool](softwares-and-tools/vesta-config-tool.md)
+* [VSS software](softwares-and-tools/vss-software.md)
