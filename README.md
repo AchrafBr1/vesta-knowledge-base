@@ -1,9 +1,10 @@
 ---
+icon: books
 cover: .gitbook/assets/Banner_VESTA_GitBook (1).jpg
 coverY: 0
 ---
 
-# 📘 Technical manuals and guides for the VESTA Alarm System
+# Technical manuals and guides for the VESTA Alarm System
 
 This portal is your primary resource for accessing technical documentation and user guides for the VESTA Alarm System. Here, you will find everything you need to install, configure, and operate your system effectively, with immediate access to the most relevant information for every situation.
 
@@ -12,6 +13,10 @@ This portal is your primary resource for accessing technical documentation and u
 {% hint style="warning" %}
 We would like to remind you that as of February 2025, our **new SmartHomeSec portal**: [portal.vestasecurity.eu](https://portal.vestasecurity.eu/Vesta/) is available, ensuring the continued provision of all VESTA services.
 {% endhint %}
+
+### Quick links
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-type="rating" data-max="5"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Vesta Alarm system</td><td>5</td><td><a href=".gitbook/assets/sistema-alarma-vesta[1].png">sistema-alarma-vesta[1].png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center">Vesta Advanced Video</td><td>5</td><td><a href=".gitbook/assets/adv (3).png">adv (3).png</a></td><td><a href="vesta-advanced-video/vesta-advanced-ip-camera-series.md">vesta-advanced-ip-camera-series.md</a></td></tr><tr><td align="center">Intergrations</td><td>5</td><td><a href=".gitbook/assets/integration (2).png">integration (2).png</a></td><td><a href="integration-guide-for-dahua-vth-monitors-with-vesta.md">integration-guide-for-dahua-vth-monitors-with-vesta.md</a></td></tr></tbody></table>
 
 ### The most flexible alarm system on the market
 

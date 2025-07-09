@@ -1,7 +1,6 @@
 # Table of contents
 
-* [📘 Technical manuals and guides for the VESTA Alarm System](README.md)
-* [📻 DEVICES](devices.md)
+* [Technical manuals and guides for the VESTA Alarm System](README.md)
 * [VESTA-005N](vesta-005n.md)
 * [VESTA-006](vesta-006.md)
 * [VESTA-007](vesta-007.md)
@@ -279,6 +278,16 @@
 * [VMAX BUS TIPS](tips-and-help/vmax-bus-tips.md)
 * [CAMERAS](tips-and-help/cameras.md)
 
+## Installer guides
+
+* [PANEL INSTALLER MANUAL](installer-guides/panel-installer-manual.md)
+* [SmartHomeSec Installer Manual](installer-guides/smarthomesec-installer-manual.md)
+
+***
+
+* [SmartHomeSec WIZARD](smarthomesec-wizard.md)
+* [VESTA home solar cameras](vesta-home-solar-cameras.md)
+
 ## Vesta Home IP Cameras
 
 * [SETUP VESTA CAMERAS 291-292-293](vesta-home-ip-cameras/setup-vesta-cameras-291-292-293.md)
@@ -302,17 +311,11 @@
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-T38-ZAS-PV-B](ipc-t38-zas-pv-b.md)
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-T24-L](ipc-t24-l.md)
 
-## Installer guides
-
-* [PANEL INSTALLER MANUAL](installer-guides/panel-installer-manual.md)
-* [SmartHomeSec Installer Manual](installer-guides/smarthomesec-installer-manual.md)
-
-***
-
-* [SmartHomeSec WIZARD](smarthomesec-wizard.md)
-* [VESTA home solar cameras](vesta-home-solar-cameras.md)
-
 ## Softwares and Tools
 
 * [Vesta Config Tool](softwares-and-tools/vesta-config-tool.md)
 * [VSS software](softwares-and-tools/vss-software.md)
+
+## ADV FIRMWARE UPDATES
+
+* [Firmware Updates – VESTA Advanced Video](adv-firmware-updates/firmware-updates-vesta-advanced-video.md)
