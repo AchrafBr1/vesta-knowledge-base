@@ -63,7 +63,7 @@ _When a low voltage battery is inserted, the Red LED will flash 3 times to indic
 
 ## _**Getting Started**_
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Step 1. Remove the battery cover by using a coin to turn it counter-clockwise.
 

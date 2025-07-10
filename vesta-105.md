@@ -114,7 +114,7 @@ Step 2. Push the flat-headed screwdriver upwards as (**Pic2**).
 
 Step 3. Turn to the other side and repeat Step 1 and Step 2.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                               (Pic 1)                                              (Pic 2)
 
@@ -126,7 +126,7 @@ Step 5. To replace the cover:
 * Also make sure the bottom hooks of the back cover is latched on the bottom of the front cover (back) as (**Pic 4**)
 * Fit the bottom hooks into the bottom latches of the front cover (back) then push it downwards as (1) in (**Pic 5**), then push forward (2) the entire back cover to close it until you hear a clip sound.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                             (Pic 3)                                                              (Pic 4)                                                    (Pic 5)
 
@@ -163,7 +163,7 @@ The Door Contact can be wall mounted using Velcro tape provided.
 
 
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Hooks, Loops
 
@@ -172,7 +172,7 @@ Hooks, Loops
 3. Remove the protective cover of the Hook side and attach to the back of the Door Contact. Press firmly for 30 seconds to ensure good contact. (**Pic 6.**)
 4. Remove the protective cover of the Loop side and apply to desired mounting location as in (**Pic 7.**) Press firmly for 30 seconds to ensure good contact.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                      (**Pic 6.**)                                                    (**Pic 7.**)
 
