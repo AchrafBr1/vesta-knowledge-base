@@ -86,6 +86,17 @@ The mobile must be connected to the Wi-Fi network that you want to connect the c
 
 <figure><img src="../.gitbook/assets/102.2.png" alt=""><figcaption><p>STEP 8                                                                STEP 9                                                                 STEP 10</p></figcaption></figure>
 
+{% hint style="info" %}
+**If you're connecting your camera via Wi-Fi but it doesn't proceed to the IP search step, don't worry. This can happen if your mobile device temporarily lost internet connection while switching networks and didn’t reconnect properly.**
+
+To continue:
+
+* Check if the camera's <mark style="color:green;">**GREEN LED**</mark> is **solid ON** (not blinking).
+* If it is, go back to the previous step and **select ETHERNET instead of Wi-Fi** — the setup should then work correctly.
+
+![](<../.gitbook/assets/image (351).png>)
+{% endhint %}
+
 ### STEP 9: Connect your mobile to the camera network by pressing join
 
 ### STEP 10: Select the network and press Next
