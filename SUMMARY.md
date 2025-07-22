@@ -230,7 +230,7 @@
 * [VESTA-411](vesta-411.md)
 * [VESTA-418](vesta-418.md)
 * [VESTA-419N](vesta-419n.md)
-* [VESTA-421](vesta-336-1.md)
+* [VESTA-421](vesta-421.md)
 * [VESTA-422](vesta-422.md)
 * [VESTA-423](vesta-423.md)
 * [VESTA-423 NOAM](vesta-423-noam.md)
