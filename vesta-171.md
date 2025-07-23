@@ -122,7 +122,7 @@ If Radiator Valve detects indoor temperature drops rapidly by opening the window
 
 ### _**Control Knob**_
 
-Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce temperature and anti-clockwise to increase the temperature. The adjustable temperature range is 5°C to 30°C. If you rotate the Control Knob lower than 5°C to On, after 1 minute, the Radiator Valve will open the valve completely, to preserve battery power, if you rotate the Control Knob lower than 5°C to Off, after 1 minute, the Radiator Valve will close the valve completely. To disable ON/Off status please rotate the control knob or press <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">button . The Boost Function is unavailable under Control Knob set to ON/Off status.
+Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce temperature and anti-clockwise to increase the temperature. The adjustable temperature range is 5°C to 30°C. If you rotate the Control Knob lower than 5°C to On, after 1 minute, the Radiator Valve will open the valve completely, to preserve battery power, if you rotate the Control Knob lower than 5°C to Off, after 1 minute, the Radiator Valve will close the valve completely. To disable ON/Off status please rotate the control knob or press <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">button . The Boost Function is unavailable under Control Knob set to ON/Off status.
 
 **ON:** When turned to ON, the valve is opened completely. This function is used to preserver battery life during summer, when heating is not required. Do not use this function in winter when heater is activated, otherwise the room temperature will rise uncontrolled.
 
@@ -130,7 +130,7 @@ Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce te
 
 ### _**Key Lock Function**_
 
-Press and hold both Auto/Manual button and <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display  <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both Auto/Manual button and <img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">button for 3 seconds likewise.
+Press and hold both Auto/Manual button and <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display  <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both Auto/Manual button and <img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">button for 3 seconds likewise.
 
 ### _**Remote Control**_
 

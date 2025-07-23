@@ -151,7 +151,7 @@ Note:
 * After the wires are connected and the terminal blocks are plugged to the base, re-place the device back to the base and push it downwards so that the BUS strips on the base will be well connected to the connection socket on the device for the BUS Terminal to function.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -169,7 +169,7 @@ To locate the PIR Camera in the BUS system:
 
 **Step 1** On Hybrid Panel’s webpage, click “Identify” after the IR Camera’s device entry.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2** If VST-897-BUS receives the signal from the Hybrid Panel, the webpage will display a success message and VST-897-BUS’s LED indicator will flash 10 times to indicate where it is to the user.
 

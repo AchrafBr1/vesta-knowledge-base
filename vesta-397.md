@@ -224,7 +224,7 @@ When the PIR is powered on, its pet immunity function and sensitivity are determ
 
 <figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **For Glass Break Detector**
 
@@ -264,7 +264,7 @@ Note:
 * Before connecting the PIR motion sensor to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication on the BUS network, enable the Terminal Resistor Jumpers only at both endpoints (the two farthest nodes) to prevent signal reflection and improve communication stability. Do NOT enable jumpers on any intermediate BUS devices --- only the two endpoints should have them enabled.
 

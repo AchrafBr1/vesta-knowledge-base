@@ -4,7 +4,94 @@ icon: puzzle-piece
 
 # INTEGRATION WITH DAHUA IP CAMERAS
 
-Integration **DAHUA**:
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+### 🎯 Introduction - Sync Real Snapshot with Alarm – Dahua Series 3 Cameras
+
+VESTA can now display **the exact snapshot** taken by Dahua Series 3 cameras at the **very moment an IVS event is triggered** — such as line crossing or intrusion detection.
+
+To make this work, a simple setup is required on the camera side. Once done, you’ll get **100% real-time visual confirmation** of the alarm cause, fully integrated into the VESTA ecosystem.
+
+This guide explains how to configure your Dahua camera so that:
+
+* 📷 It captures and stores real snapshots of IVS events.
+* 🔄 VESTA receives those images automatically with each alarm.
+
+Let’s get started. 👇
+{% endhint %}
+
+## Sync Real Snapshot with Alarm – Dahua Series 3 Cameras
+
+To make sure VESTA receives **the real snapshot of the event** exactly when an IVS alarm is triggered (line crossing, region intrusion, etc.), follow these simple steps:
+
+{% stepper %}
+{% step %}
+#### Step 1 – Update Camera Firmware
+
+Make sure the Dahua camera has the latest firmware.
+
+<a href="https://drive.google.com/file/d/1zkh94OKpVQYT1qfo-vdXhGA5WtnERrT5/view?usp=drive_link" class="button primary" data-icon="down-to-bracket">Download Firmware update</a>
+{% endstep %}
+
+{% step %}
+#### Step 2 – Insert a microSD Card
+
+Insert a **microSD card** into the camera. (_This is where the real image will be stored._)
+{% endstep %}
+
+{% step %}
+#### Step 3 – Enable Snapshots in IVS
+
+* Go to the **IVS settings** of the camera.
+* Edit each rule (Line Crossing, Intrusion, etc.).
+* Enable **“Snapshot Capture”** for each rule.
+
+This allows the camera to **save a real image** when an event is triggered.
+
+
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>First alarm image in VESTA</p></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+
+
+***
+
+### Compatible Models (Series 3)
+
+* DAHUA-4670 - DH-IPC-HFW3449T1P-AS-PV-0280B-S5-Black
+* DAHUA-4558 - DH-IPC-HDW3849HP-AS-PV-0280B-S5-B
+* DAHUA-4297N - DH-IPC-HDW3449HP-AS-PV-0280B-S5-B
+* DAHUA-4667 - DH-IPC-HFW3549T1P-AS-PV-0280B-S5
+* DAHUA-4547 - DH-IPC-HFW3849T1P-AS-PV-0280B-S5-B
+* DAHUA-4543 - DH-IPC-HDW3549HP-AS-PV-0280B-S5-BLACK
+* DAHUA-4454 - DH-IPC-HDW3549HP-AS-PV-0280B-S5
+* DAHUA-4436 - DH-IPC-HFW3849T1P-AS-PV-0280B-S5
+* DAHUA-4401 - DH-IPC-HFW3449T1P-AS-PV-0280B-S5
+* DAHUA-4400 - DH-IPC-HDW3849HP-AS-PV-0280B-S5
+* DAHUA-4399 - DH-IPC-HDW3449HP-AS-PV-0280B-S5
+* DAHUA-4602 - DH-IPC-HFW3449T1-ZAS-PV-27135-S5-B
+* DAHUA-4606 - DH-IPC-HDBW3849R1P-ZAS-PV-27135-S5
+* DAHUA-4588 - DH-IPC-HDBW3449R1P-ZAS-PV-27135-S5
+* DAHUA-4457 - DH-IPC-HFW3849T1P-ZAS-PV-27135-S5
+* DAHUA-4386 - DH-IPC-HDW3549HP-ZAS-PV-27135-S5
+* DAHUA-4766-FO - DH-IPC-HDBW3549R1P-ZAS-PV-27135-S5
+* DAHUA-4561 - DH-IPC-HDW3449HP-ZAS-PV-27135-S5-Black
+* DAHUA-4560 - DH-IPC-HDW3849HP-ZAS-PV-27135-S5-Black
+* DAHUA-4557 - DH-IPC-HFW3449T1P-ZAS-PV-27135-S5-BLACK
+* DAHUA-4455 - DH-IPC-HFW3449T1P-ZAS-PV-27135-S5
+* DAHUA-4453 - DH-IPC-HDW3449HP-ZAS-PV-27135-S5
+* DAHUA-4116N - DH-IPC-HDW3849HP-ZAS-PV-27135-S5
+
+> ℹ️ _More Series 2 models will be added mid-August._
+
+
+
+***
+
+## Integration **DAHUA**:
 
 _**If the camera has a disarm function**_
 
