@@ -49,13 +49,9 @@ Insert a **microSD card** into the camera. (_This is where the real image will b
 
 This allows the camera to **save a real image** when an event is triggered.
 
-
-
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>First alarm image in VESTA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (352).png" alt="Alarm Image in VESTA " width="375"><figcaption><p>Alarm first Image in VESTA system</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 ***
 
