@@ -65,3 +65,10 @@ These **HTTP** commands can go directly into VESTA rule actions. For example, we
 
 <figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rule example in VESTA</p></figcaption></figure>
 
+***
+
+
+
+## Download complete Manual guide
+
+{% file src=".gitbook/assets/VESTA IP Speaker User Manual.docx" %}
