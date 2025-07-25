@@ -295,7 +295,8 @@
 
 ## Vesta Advanced Video
 
-* [VESTA ADVANCED IP CAMERA SERIES](vesta-advanced-video/vesta-advanced-ip-camera-series.md)
+* [VESTA ADVANCED IP CAMERA SERIES (With SmartHomeSec)](vesta-advanced-video/vesta-advanced-ip-camera-series-with-smarthomesec.md)
+* [VESTA ADVANCED IP CAMERA SERIES (Stand Alone)](vesta-advanced-video/vesta-advanced-ip-camera-series-stand-alone.md)
 
 ***
 

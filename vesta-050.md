@@ -50,7 +50,7 @@ Plug in a DC 5V power adpator and rotate it 90 degrees clockwise to the lock pos
 
 <table><thead><tr><th width="120">DIP</th><th width="100">DIP</th><th width="265">Search (Sensitivity Level)</th></tr></thead><tbody><tr><td><strong>Switch1</strong> </td><td><strong>Switch2</strong></td><td> </td></tr><tr><td>OFF</td><td>OFF</td><td>Low</td></tr><tr><td>ON</td><td>OFF</td><td>Medium</td></tr><tr><td>OFF</td><td>ON</td><td>High</td></tr><tr><td><strong>DIP</strong></td><td><strong>DIP</strong></td><td><strong>Function</strong></td></tr><tr><td><strong>Switch3</strong></td><td><strong>Switch4</strong></td><td>Reserved</td></tr></tbody></table>
 
-<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Note:
