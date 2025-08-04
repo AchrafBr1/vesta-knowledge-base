@@ -1,7 +1,3 @@
----
-icon: list-tree
----
-
 # CONSEILS BUS V-MAX
 
 ## <mark style="color:green;">**Conseils sur le câblage du bus V-MAX des centrales  VESTA :**</mark>

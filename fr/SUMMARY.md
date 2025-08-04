@@ -1,10 +1,6 @@
 # Table of contents
 
 * [📘 Manuels et guides techniques du système d'alarme VESTA](README.md)
-* [🎦 Caméras Vesta](cameras-vesta/README.md)
-  * [VESTA-291/292/293](cameras-vesta/vesta-291-292-293.md)
-  * [Gamme Vesta Advanced (avec SmartHomeSec)](cameras-vesta/gamme-vesta-advanced-avec-smarthomesec/README.md)
-    * [Caméras IP VESTA ADVANCED B24, D24, T24, B35, T35, B38, T38](cameras-vesta/gamme-vesta-advanced-avec-smarthomesec/cameras-ip-vesta-advanced-b24-d24-t24-b35-t35-b38-t38.md)
 * [VESTA-005N](vesta-005n_fr.md)
 * [VESTA-006](vesta-006_fr.md)
 * [VESTA-007](vesta-007_fr.md)
@@ -175,11 +171,6 @@
 * [VESTA 387](vesta-387_fr.md)
 * [VESTA 393](vesta-393_fr.md)
 
-## ❓ Trucs et astuces
-
-* [📻 MODÈLES](trucs-et-astuces/models_fr.md)
-* [CONSEILS BUS V-MAX](trucs-et-astuces/vmax-bus-tips_fr.md)
-
 ## 🧩 Intégrations
 
 * [SIMALARM](integrations/simalarm.md)
@@ -187,3 +178,18 @@
 * [VTH Dahua avec VESTA](integrations/vth-dahua-avec-vesta.md)
 * [Danalock avec VESTA](integrations/danalock-avec-vesta.md)
 * [Raytec avec VESTA](integrations/raytec-avec-vesta.md)
+* [Vidéo VESTA ADVANCED](integrations/video-vesta-advanced.md)
+
+## ❓ Trucs et astuces
+
+* [MODÈLES](trucs-et-astuces/models_fr.md)
+* [CONSEILS BUS V-MAX](trucs-et-astuces/vmax-bus-tips_fr.md)
+
+## Caméras IP VESTA HOME
+
+* [Configuration VESTA-291/292/293](cameras-ip-vesta-home/configuration-vesta-291-292-293.md)
+
+## Vidéo VESTA ADVANCED
+
+* [Gamme Vesta Advanced (avec SmartHomeSec)](video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec/README.md)
+  * [Caméras IP VESTA ADVANCED B24, D24, T24, B35, T35, B38, T38](video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec/cameras-ip-vesta-advanced-b24-d24-t24-b35-t35-b38-t38.md)
