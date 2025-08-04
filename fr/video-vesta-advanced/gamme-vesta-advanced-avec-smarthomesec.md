@@ -4,7 +4,7 @@ icon: video
 
 # Gamme Vesta Advanced (avec SmartHomeSec)
 
-## Etes-vous prêt à découvrir la nouvelle gamme de caméras VESTA ADVANCED SERIES?
+## Etes-vous prêt à découvrir la nouvelle gamme de caméras VESTA ADVANCED?
 
 {% embed url="https://drive.google.com/file/d/1snvNV-L2JUDdsPN4qwz1_Xb32DzoiepE/view?usp=sharing" %}
 

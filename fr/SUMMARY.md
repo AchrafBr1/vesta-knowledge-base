@@ -191,6 +191,7 @@
 ## Vidéo VESTA ADVANCED
 
 * [Gamme Vesta Advanced (avec SmartHomeSec)](video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec.md)
+* [Gamme Vesta Advanced (Autonome)](video-vesta-advanced/gamme-vesta-advanced-autonome.md)
 * [Caméras IP VESTA ADVANCED B24, D24, T24, B35, T35, B38, T38](video-vesta-advanced/cameras-ip-vesta-advanced-b24-d24-t24-b35-t35-b38-t38.md)
 
 ## Outils et logiciels
