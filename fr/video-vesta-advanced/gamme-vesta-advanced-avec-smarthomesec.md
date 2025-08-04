@@ -60,11 +60,23 @@ Il est important de s'assurer que la **centrale utilise  la version** **34F ou p
 
 ## Vidéos rapides
 
-### Comment mettre à jour une caméra ou un NVR VESTA ADV - étape par étape
+### _<mark style="background-color:yellow;">- Comment mettre à jour une caméra ou un NVR VESTA ADV - Etape par étape</mark>_
 
 {% embed url="https://www.youtube.com/watch?v=Y9w5Lkq4Zjg" %}
 
-### _<mark style="background-color:yellow;">Comment configurer l'enregistrement continu sur la carte MicroSD de la caméra IP:</mark>_
+### _<mark style="background-color:yellow;">- Comment configurer les règles IVS sur les caméras VESTA ADV</mark>_&#x20;
+
+Les règles de **vidéosurveillance intelligente (IVS)** sont des algorithmes avancés d'analyse vidéo utilisés pour améliorer les fonctionnalités de votre caméra VESTA ADV ou de votre NVR. Ces règles permettent au système de détecter automatiquement certains événements et d'y réagir, ce qui améliore la sécurité et réduit les fausses alarmes. Les règles IVS courantes comprennent :
+
+1. **Détection d'intrusion :** alerte lorsqu'un objet/une personne pénètre dans une zone prédéfinie.
+2. **Tripwire :** se déclenche lorsqu'un objet/une personne franchit une ligne définie..
+3. **Cross region :** Se déclenche lorsqu'un objet/humain traverse ou apparaît dans une zone définie..
+
+Pour programmer les règles IVS dans votre système VESTA ADV, procédez comme suit:&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=jQ_gjPbs73A" %}
+
+### _<mark style="background-color:yellow;">- Comment configurer l'enregistrement continu sur la carte MicroSD de la caméra IP:</mark>_
 
 1. **Configuration du stockage:**
    * Se rendre dans le menu "**Storage**".
