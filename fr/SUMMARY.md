@@ -173,12 +173,11 @@
 
 ## 🧩 Intégrations
 
-* [SIMALARM](integrations/simalarm.md)
-* [Caméras IP Dahua avec VESTA](integrations/cameras-ip-dahua-avec-vesta.md)
 * [VTH Dahua avec VESTA](integrations/vth-dahua-avec-vesta.md)
+* [SIMALARM](integrations/simalarm.md)
 * [Danalock avec VESTA](integrations/danalock-avec-vesta.md)
 * [Raytec avec VESTA](integrations/raytec-avec-vesta.md)
-* [Vidéo VESTA ADVANCED](integrations/video-vesta-advanced.md)
+* [Caméras IP Dahua avec VESTA](integrations/cameras-ip-dahua-avec-vesta.md)
 
 ## ❓ Trucs et astuces
 

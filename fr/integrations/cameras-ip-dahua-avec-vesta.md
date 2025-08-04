@@ -1,8 +1,8 @@
 ---
-icon: circle-video
+icon: puzzle-piece
 ---
 
-# Intégration avec les caméras Dahua
+# Caméras IP Dahua avec VESTA
 
 Intégration **DAHUA**:
 
