@@ -183,7 +183,7 @@
 ## ❓ Trucs et astuces
 
 * [MODÈLES](trucs-et-astuces/models_fr.md)
-* [Liste évènements CID](trucs-et-astuces/liste-evenements-cid.md)
+* [Liste des évènements CID](trucs-et-astuces/liste-des-evenements-cid.md)
 * [CONSEILS BUS V-MAX](trucs-et-astuces/vmax-bus-tips_fr.md)
 
 ## Caméras IP VESTA HOME
