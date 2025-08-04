@@ -1,20 +1,6 @@
 ---
 cover: .gitbook/assets/Banner_VESTA_GitBook (1).jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 📘 Manuels et guides techniques du système d'alarme VESTA
@@ -26,6 +12,8 @@ Ce portail est votre ressource principale pour accéder à la documentation tech
 {% hint style="warning" %}
 Nous vous rappelons qu'à partir de février 2025, notre nouveau portail **SmartHomeSec**: [portal.vestasecurity.eu](https://portal.vestasecurity.eu/Vesta/) est disponible, assurant la continuité de tous les services VESTA.
 {% endhint %}
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-type="rating" data-max="5"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Système d'Alarme Vesta</td><td>5</td><td><a href=".gitbook/assets/Vesta lien rapide.png">Vesta lien rapide.png</a></td><td><a href="https://vesta-guide.gitbook.io/vesta-guide/france-1">https://vesta-guide.gitbook.io/vesta-guide/france-1</a></td></tr><tr><td align="center">Vidéo Vesta Advanced</td><td>5</td><td><a href=".gitbook/assets/ADV lien rapide.png">ADV lien rapide.png</a></td><td><a href="https://vesta-guide.gitbook.io/vesta-guide/france-1/cameras-vesta/vesta-advanced">https://vesta-guide.gitbook.io/vesta-guide/france-1/cameras-vesta/vesta-advanced</a></td></tr><tr><td align="center">Intégrations</td><td>5</td><td><a href=".gitbook/assets/Integration lien rapide.png">Integration lien rapide.png</a></td><td><a href="https://vesta-guide.gitbook.io/vesta-guide/france-1/integrations/simalarm">https://vesta-guide.gitbook.io/vesta-guide/france-1/integrations/simalarm</a></td></tr></tbody></table>
 
 ### Le système d'alarme le plus flexible du marché
 
