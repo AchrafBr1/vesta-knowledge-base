@@ -10,13 +10,13 @@ icon: video
 
 ### Qu'est-ce que cette intégration VESTA apporte?
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 ### _<mark style="background-color:yellow;">**Démarrage avec la centrale VESTA en 3 étapes**</mark>_
 
 {% stepper %}
 {% step %}
-### Mise à jour de la caméra IP ([vidéo rapide](./#videos-rapides))
+### Mise à jour de la caméra IP ([vidéo rapide](gamme-vesta-advanced-avec-smarthomesec.md#videos-rapides))
 
 Pour mettre à jour la caméra, suivre les étapes suivantes:
 
@@ -26,12 +26,12 @@ Pour mettre à jour la caméra, suivre les étapes suivantes:
     <table><thead><tr><th>Modèles</th><th width="114">Firmware</th></tr></thead><tbody><tr><td><ul><li>IPC-T38-ZAS-PV-B</li><li>IPC-T38-ZAS-PV</li><li>IPC-B38-ZAS-PV-B</li><li>IPC-B38-ZAS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/u9fVnKEjg">Download</a></td></tr><tr><td><ul><li>IPC-T35-AS-PV-B</li><li>IPC-T35-AS-PV</li><li>IPC-B35-AS-PV-B</li><li>IPC-B35-AS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/LJPMxKDbU">Download</a></td></tr><tr><td><ul><li>IPC-D24-ZAS-L-B</li><li>IPC-D24-ZAS-L</li></ul><ul><li>IPC-T24-L</li><li>IPC-B24-L</li></ul></td><td><a href="https://gofile.me/7yryF/HYczagZrp">Download</a></td></tr></tbody></table>
 
 
-2. [**Accéder à l'interface locale**](./#connexion-a-linterface-locale): Se connecter à l'interface web locale de la caméra (IP par défaut: _192.168.1.86_).
+2. [**Accéder à l'interface locale**](gamme-vesta-advanced-avec-smarthomesec.md#connexion-a-linterface-locale): Se connecter à l'interface web locale de la caméra (IP par défaut: _192.168.1.86_).
 3. **Se rendre dans la configuration**: Cliquez sur le menu "Setup".
 4. **Se rendre dans le menu Système**: Cliquez sur "System'.
 5. **Se rendre dans le menu Mise à jour**: Cliquez sur "Upgrade" et sélectionnez le fichier précédemment téléchargé pour démarrer le processus de mise à jour.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -56,7 +56,7 @@ Il est important de s'assurer que la **centrale utilise  la version** **34F ou p
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../.gitbook/assets/ADV-settings.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ADV-settings.gif" alt=""><figcaption></figcaption></figure>
 
 ## Vidéos rapides
 
@@ -71,7 +71,7 @@ Il est important de s'assurer que la **centrale utilise  la version** **34F ou p
    * Cliquez sur "Destination" et assurez-vous que "**Schedule**" soit activé.
    * Dans "**Schedule**" assurez-vous tout soit activé 24/7 ou sur les jours désirés.
 
-<figure><img src="../../.gitbook/assets/step-step-SD.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/step-step-SD.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Connexion à l'interface locale:**&#x20;
 
@@ -80,11 +80,11 @@ Il est important de s'assurer que la **centrale utilise  la version** **34F ou p
 
 **Etape 2:** Saisir l'identifiant et le mot de passe, **l'identifiant pas défaut est “admin”**.
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (44).png>)
 
 **Etape 3:** Lorsque vous vous connectez pour la première fois, la caméra affichera une demande de changement mot de passe. Veuillez saisir un mot de passe pour le compte administrateur et le conserver.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (45).png>)
 
 
 
@@ -93,11 +93,11 @@ Il est important de s'assurer que la **centrale utilise  la version** **34F ou p
 
 ### _<mark style="background-color:yellow;">Gamme VESTA ADVANCED manuel complet (anglais)</mark>_
 
-{% file src="../../.gitbook/assets/VESTA Advanced Series .doc" %}
+{% file src="../.gitbook/assets/VESTA Advanced Series .doc" %}
 
 ### _<mark style="background-color:yellow;">Guide rapide (anglais)</mark>_
 
-{% file src="../../.gitbook/assets/Quickly User Manual v25.pdf" %}
+{% file src="../.gitbook/assets/Quickly User Manual v25.pdf" %}
 
 {% hint style="warning" %}
 _**Plus d'informations prochainement disponibles.**_
