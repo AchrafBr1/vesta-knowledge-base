@@ -2,7 +2,7 @@
 icon: video
 ---
 
-# Vesta Advanced
+# Gamme Vesta Advanced (avec SmartHomeSec)
 
 ## Etes-vous prêt à découvrir la nouvelle gamme de caméras VESTA ADVANCED SERIES?
 
@@ -16,7 +16,7 @@ icon: video
 
 {% stepper %}
 {% step %}
-### Mise à jour de la caméra IP
+### Mise à jour de la caméra IP ([vidéo rapide](./#videos-rapides))
 
 Pour mettre à jour la caméra, suivre les étapes suivantes:
 
@@ -58,7 +58,11 @@ Il est important de s'assurer que la **centrale utilise  la version** **34F ou p
 
 <figure><img src="../../.gitbook/assets/ADV-settings.gif" alt=""><figcaption></figcaption></figure>
 
+## Vidéos rapides
 
+### Comment mettre à jour une caméra ou un NVR VESTA ADV - étape par étape
+
+{% embed url="https://www.youtube.com/watch?v=Y9w5Lkq4Zjg" %}
 
 ### _<mark style="background-color:yellow;">Comment configurer l'enregistrement continu sur la carte MicroSD de la caméra IP:</mark>_
 
