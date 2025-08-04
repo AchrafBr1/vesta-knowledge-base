@@ -198,3 +198,7 @@
 
 * [Vesta Config Tool](outils-et-logiciels/vesta-config-tool.md)
 * [VSS software](outils-et-logiciels/vss-software.md)
+
+## Mises à jour VESTA Advanced
+
+* [Firmwares - VESTA Advanced](mises-a-jour-vesta-advanced/firmwares-vesta-advanced.md)
