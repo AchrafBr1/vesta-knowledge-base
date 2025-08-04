@@ -30,3 +30,7 @@ icon: desktop
 ## Download VSS
 
 To download the VSS software for VESTA Advanced Video, please use the following link:
+
+<figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption></figcaption></figure>
+
+<p align="center"><a href="https://gofile.me/7yryF/49mqxKch8"><strong>Download VSS software for windows</strong></a></p>
