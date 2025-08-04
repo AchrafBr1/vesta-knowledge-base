@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: door-open
 ---
 
@@ -62,84 +61,82 @@ Avant d'ajouter le verrou à une centrale VESTA, il est crucial de réaliser une
 
 ### _<mark style="background-color:yellow;">**Exclusion Z-WAVE**</mark>_
 
-#### Step 1: Access the panel configuration from the installer APP:
+#### Etape 1: Accdez à la configuration de la centrale depuis l'app en mdoe installateur:
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Installer -> Settings</p></figcaption></figure>
 
-#### Step 2: Select "Devices" in the menu.
+#### Etape 2: Choisir "Périphériques" dans le menu.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
 
-#### Step 3: In the menu click "Exclude device".
+#### Etape 3: Choisir ensuite le mode "Exclusion".
 
 <figure><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F1580875003-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZJzpNocHhYVmD43GZobR%252Fuploads%252Fgit-blob-57cf8661f10d9a1a81f5c73c9d4b8a9cb1155299%252Fimage%2520%2823%29.png%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=ae3d2057&#x26;sv=1" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Select EXCLUDE</p></figcaption></figure>
 
-#### Step 4. Now click once on the lock button.
+#### Etape 4. Cliquez une fois sur le bouton du verrou.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>Press button 1 time for Inclusion/exclusion </p></figcaption></figure>
 
 
 
 {% hint style="warning" %}
-Once the lock button has been pressed only once, <mark style="color:green;">Danalock led is green blinking</mark>, and the panel is in exclusion mode, **wait for 1 minute**. In the SmartHomeSec APP a question "?" mark may appear in the exclusion box, this is normal. once it appears close the exclusion window.
+Lorsque le bouton aura été utilisé une fois, <mark style="color:green;">la led verte du verrou clignotera</mark>, avec la centrale en mode exclusion, **patientez pendant 1 minute**. Dans l'app SmartHomeSec, un "?" peut apparaitre dans la fenêtre d'exclusion, c'est normal. Une fois le "?" affiché, fermé la fennêtre d'exclusion.
 {% endhint %}
 
-
-
-### **Add Z-WAVE DANALOCK in VESTA**
+### _<mark style="background-color:yellow;">**Ajout du verrou en Z-WAVE sur VESTA**</mark>_
 
 {% hint style="danger" %}
-It is crucial to have made the [exclusion ](danalock-avec-vesta.md#exclude-z-wave-danalock)before
+Il est crucial d'avoir exécuté le mode exclusion avant.
 {% endhint %}
 
-**Step 1:** In device list of SmartHomeSec, choose Add device:&#x20;
+**Etape 1:** Dans la liste des périphériques, choisir "Ajouter périphériques":&#x20;
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-#### Step 2. Now click once on the lock button.
+**Etape 2:** Cliquez sur le bouton du verrou une fois.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption><p>Press button 1 time for Inclusion/exclusion </p></figcaption></figure>
 
 
 
 {% hint style="success" %}
-Once the lock button has been pressed only once, <mark style="color:green;">Danalock led is green blinking</mark>, and the panel is in adding mode, **wait for 1 minute**. In the SmartHomeSec APP you will see the doorlock, add It and you can control it from automations :tada:
+Lorsque le bouton aura été utilisé une fois, <mark style="color:green;">la led verte du verrou clignotera</mark>, avec la centrale en mode ajout, **patientez pendant 1 minute**. Dans l'app SmartHomeSec, lorsque le verrou s'affichera, vous pourrez l'ajouter et le contrôler depuis le menu Domotique :tada:
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-### **Calibration**
+### _<mark style="background-color:yellow;">**Etalonnage**</mark>_
 
-To calibrate your Danalock, follow these steps carefully:
+Pour étalonner le verrou, suivez les étapes suivantes avec attention:
 
-* **Set the Danalock to the Unlocked Position**: Turn the Danalock to the unlocked position. If necessary, lift the handle.
-* **Start Calibration**: Click the **button** on the **Danalock 3 times**. The lock will automatically calibrate and stop in the locked position.
+* **Mettre le verrou en position déverrouillée**: Tournez le verrou en position déverrouillée. Si nécessaire, lever la poignée.
+* **Etalonnage**: Cliquez sur le **bouton** du verrou **3 fois de suite**. Le verrou se calibrera automatiquement et s'arrêtera en position verrouillée.
 
 <figure><img src="../.gitbook/assets/image (12).png" alt="" width="375"><figcaption><p>Auto-Calibration</p></figcaption></figure>
 
-* **Adjust to the Unlocked Position**: Turn the Danalock to the position where it is just unlocked (not further). Click the button on the Danalock once.
-* **Adjust to the Locked Position**: Turn the Danalock to the position where it is just locked (not further). Click the button on the Danalock once.
+* **Ajustement de la position déverrouillée**: Tournez le verrou dans la position où il est juste déverrouillé (pas plus loin). Cliquez sur le bouton du verrou une fois.
+* **Ajustement de la position verrouillée:** Tournez le verrou dans la position où il est juste verrouillé (pas plus loin). Cliquez sur le bouton du verrou une foi.
 
 
 
 {% hint style="success" %}
-:tada: **Congratulations!** Your lock is installed and ready to control your door automatically.
+:tada: **Félicitations!** Votre verrou est installé et prêt à contrôler votre porte automatiquement.
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=sVfnPlKUDag" %}
 
 
 
-## Extra information
+## Informations supplémentaires
 
-### Danalock V3 click commands
+### Danalock V3 - commandes par clics
 
 <figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### &#x20;How to change battery?&#x20;
+### &#x20;Comment changer les batteries?&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=BSEDeONvS2k" %}
