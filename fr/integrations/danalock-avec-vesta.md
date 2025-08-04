@@ -11,15 +11,15 @@ Ce document vous guidera étape par étape dans le processus d'installation, d'a
 
 {% tabs %}
 {% tab title="SALTO-017" %}
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-017">SALTO-017</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-017">SALTO-017</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="SALTO-15" %}
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-015/especificaciones">SALTO-015</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-015/especificaciones">SALTO-015</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="SALTO-005" %}
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-005">UE Cylinder adapter; SALTO-005</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-005">UE Cylinder adapter; SALTO-005</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -41,7 +41,7 @@ Si votre centrale ne possède pas le Z-WAVE, vous pouvez installer le module [VE
 Si vous avez un cylindre à double débrayage et que vous souhaitez conserver vos clés, vous devrez utiliser l'adaptateur [SALTO-005](https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-005).&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://danalock.com/Download/262/key-turner-for-danalock-v3-4-manuals/id:LVadaoMcVWAAAAAAAAAE3g/Inst_Guide_KEY_TURNER_ADAPTER_DCSLAE_Euro%20Profile_For_DANALOCK_V3_225741?_gl=1*1a8j53d*_ga*MTg3NjUzNzk3My4xNzI0NDI3MDMz*_up*MQ..*_ga_DKYNTPZRT6*MTcyNDQyNzAzMi4xLjEuMTcyNDQyNzA5MS4wLjAuMA..">Manual Guide to install key adapter</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><a href="https://danalock.com/Download/262/key-turner-for-danalock-v3-4-manuals/id:LVadaoMcVWAAAAAAAAAE3g/Inst_Guide_KEY_TURNER_ADAPTER_DCSLAE_Euro%20Profile_For_DANALOCK_V3_225741?_gl=1*1a8j53d*_ga*MTg3NjUzNzk3My4xNzI0NDI3MDMz*_up*MQ..*_ga_DKYNTPZRT6*MTcyNDQyNzAzMi4xLjEuMTcyNDQyNzA5MS4wLjAuMA..">Manual Guide to install key adapter</a></p></figcaption></figure>
 
 
 
