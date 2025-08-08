@@ -291,6 +291,7 @@
 
 ## Vesta Home IP Cameras
 
+* [VESTA Home IP CAM](vesta-home-ip-cameras/vesta-home-ip-cam.md)
 * [SETUP VESTA CAMERAS 291-292-293](vesta-home-ip-cameras/setup-vesta-cameras-291-292-293.md)
 
 ## Vesta Advanced Video
