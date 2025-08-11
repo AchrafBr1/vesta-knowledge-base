@@ -16,11 +16,11 @@ La télécommande est utilisée pour armer le système en mode total ou partiel,
 
 Appuyez et maintenez chaque touche enfoncée pour activer ses fonctions décrites ci-dessous:
 
-1. **Bouton** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">\
+1. **Bouton** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">\
    Armement du système en mode Total.
-2. **Bouton** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">\
+2. **Bouton** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">\
    Maintenir ce bouton appuyé pendant 3 secondes pour déclenche une alarme panique (système armé ou désarmé). Si l'appui ne dure pas 3 secondes, la commande est ignorée.
-3. **Bouton** <img src=".gitbook/assets/image (2) (1) (1) (1).png" alt="" data-size="line">\
+3. **Bouton** <img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" data-size="line">\
    Armement du système en mode Partiel.
 4. **Bouton** <img src=".gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">\
    Désarmement du système. Lorsque l'alarme est active, appuyer sur ce bouton arrêtera l'alarme (à l'exception d'une alarme panique).

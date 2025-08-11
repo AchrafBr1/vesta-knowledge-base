@@ -6,7 +6,7 @@ description: >-
 icon: camera-cctv
 ---
 
-# VESTA-291/292/293
+# Configuration VESTA-291/292/293
 
 <figure><img src="../.gitbook/assets/Immagine2.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ Le modèle VESTA-292 sera utilisé tout au long de ce document mais, les étapes
 
 <mark style="color:orange;">**Etape 1:**</mark>  Branchez l'alimentation de la caméra.\
 \
-<mark style="color:orange;">**Etape 2:**</mark> Attendez que la LED de la caméra soit VERTE fixe pour une connexion en Ethernet (câble) ou VERTE clignotante pour une connexion en Wi-Fi.
+<mark style="color:orange;">**Etape 2:**</mark> Attendez que la LED de la caméra soit <mark style="color:green;">**VERTE**</mark> fixe pour une connexion en Ethernet (câble) ou <mark style="color:green;">**VERTE**</mark> clignotante pour une connexion en Wi-Fi.
 
 ### _<mark style="background-color:yellow;">Initialisation et ajout de la caméra avec SmartHomeSec</mark>_
 
@@ -84,6 +84,17 @@ Le téléphone doit être connecté au réseau Wi-Fi sur lequel vous voulez ajou
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/102.2.png" alt=""><figcaption><p>Etape 8                                                                Etape 9                                                                 Etape 10</p></figcaption></figure>
+
+{% hint style="info" %}
+**Si vous connectez votre camera via Wi-Fi mais que vous ne parvenez pas à passer à l'étape de recherche d'adresse IP, pas d'inquiétude. Cela peut se produire si le périphérique a temporairement perdu sa connexion Internet lors du changement de réseau et n'a pas réussi à se reconnecter correctement.**
+
+Pour continuer:
+
+* Vérifiez si la led de la caméra est <mark style="color:green;">**VERTE**</mark>**&#x20;**<mark style="color:$primary;">**fixe**</mark> (non clignotante).
+* Si c'est le cas, revenez à l'étape précédente et sélectionnez ETHERNET au lieu de Wi-Fi — la configuration devrait alors fonctionner correctement..
+
+![](<../.gitbook/assets/image (1).png>)
+{% endhint %}
 
 <mark style="color:orange;">**Etape 9:**</mark> Connectez votre téléphone à la caméra en cliquant sur "Rejoindre" (selon le modèle de téléphone cette étape est optionnelle).\
 \
