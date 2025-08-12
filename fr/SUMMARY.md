@@ -186,6 +186,10 @@
 * [Liste des évènements CID](trucs-et-astuces/liste-des-evenements-cid.md)
 * [CONSEILS BUS V-MAX](trucs-et-astuces/vmax-bus-tips_fr.md)
 
+## Assistant SmartHomeSec
+
+* [Guide d'utilisation de l'assistant de configuration](assistant-smarthomesec/guide-dutilisation-de-lassistant-de-configuration.md)
+
 ## Caméras IP VESTA HOME
 
 * [Configuration VESTA-291/292/293](cameras-ip-vesta-home/configuration-vesta-291-292-293.md)
