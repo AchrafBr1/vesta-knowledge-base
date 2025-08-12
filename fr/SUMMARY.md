@@ -184,7 +184,12 @@
 
 * [MODÈLES](trucs-et-astuces/models_fr.md)
 * [Liste des évènements CID](trucs-et-astuces/liste-des-evenements-cid.md)
-* [CONSEILS BUS V-MAX](trucs-et-astuces/vmax-bus-tips_fr.md)
+* [Conseils BUS V-MAX](trucs-et-astuces/vmax-bus-tips_fr.md)
+
+## Guides Installateur
+
+* [Manuel SmartHomeSec](guides-installateur/manuel-smarthomesec.md)
+* [Manuels des centrales](guides-installateur/manuels-des-centrales.md)
 
 ## Assistant SmartHomeSec
 
