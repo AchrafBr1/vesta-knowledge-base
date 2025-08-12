@@ -241,14 +241,14 @@
 * [VESTA-429N](vesta-429.md)
 * [VESTA-432](vesta-432.md)
 * [VESTA-433](vesta-433.md)
-* [VESTA 434](vesta-434.md)
+* [VESTA-434](vesta-434.md)
 * [VESTA-440](vesta-440.md)
 * [VESTA-441](vesta-441.md)
 * [VESTA-442](vesta-442.md)
 * [VESTA-443](vesta-443.md)
 * [VESTA-447](vesta-447.md)
 * [VESTA-448](vesta-448.md)
-* [VESTA 458](vesta-458.md)
+* [VESTA-458](vesta-458.md)
 
 ## 📄 CERTIFICATES
 
