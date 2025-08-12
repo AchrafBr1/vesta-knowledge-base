@@ -188,8 +188,8 @@
 
 ## Guides Installateur
 
-* [Manuel SmartHomeSec](guides-installateur/manuel-smarthomesec.md)
 * [Manuels des centrales](guides-installateur/manuels-des-centrales.md)
+* [Manuel SmartHomeSec](guides-installateur/manuel-smarthomesec.md)
 
 ## Assistant SmartHomeSec
 
