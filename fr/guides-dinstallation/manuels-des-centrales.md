@@ -12,9 +12,9 @@ Ce manuel est conçu pour les techniciens, les intégrateurs et les utilisateurs
 
 ## GUIDE RAPIDE
 
-### <mark style="background-color:yellow;">1. Enregistrement de la centrale et ajout d'un utilisateur</mark>
+## <mark style="background-color:yellow;">1. Enregistrement de la centrale et ajout d'un utilisateur</mark>
 
-#### _<mark style="background-color:green;">1.1 Enregistrementde la centrale en mode Installateur</mark>_
+### _<mark style="background-color:green;">1.1 Enregistrement de la centrale en mode Installateur</mark>_
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter comme un installateur sur l'app <a href="../../guia-de-usuario-smarthomesec.md">SmartHomeSec</a>.</td><td><img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  2:</strong> Cliquez sur le bouton +  (ajouter une centrale).</td><td><img src="../.gitbook/assets/image (10) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  3:</strong> Saisir l'adresse MAC de la centrale qui se trouve sur l'étiquette de la centrale.</td><td><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="original"></td></tr></tbody></table>
 
@@ -28,7 +28,7 @@ La centrale doit être démarrée et connectée à Internet. La centrale doit ê
 L'adresse MAC de la centrale se trouve sur une étiquette sur l'un des bords de la centrale. Le champ NOM, devrait contenir une information permettant d'identifier la centrale.
 {% endhint %}
 
-#### _<mark style="background-color:green;">1.2 Ajout d'un compte Utilisateur</mark>_
+### _<mark style="background-color:green;">1.2 Ajout d'un compte Utilisateur</mark>_
 
 Le compte utilisateur sert à contrôler le système et est destiné à l'utilisateur final. Depuis l'application SmartHomeSec, ce compte permet d'armer, de désarmer et d'effectuer toutes les opérations. Il existe deux types de comptes utilisateurs : Master et Slave.
 
@@ -42,11 +42,11 @@ Le premier compte enregistré sera forcément le compte Master. La principale di
 L'ajout d'un compte utilisateur est terminé! Pour plus d'informations sur l'utilisation du compte utilisateur, suivre les instructions du guide de l'utilisateur SmartHomeSec.
 {% endhint %}
 
-### _<mark style="background-color:yellow;">2. Ajout et configuration de périphériques</mark>_
+## _<mark style="background-color:yellow;">2. Ajout et configuration de périphériques</mark>_
 
 Pour ajouter et configurer un périphérique VESTA sans fils, veuillez suivre les étapes suivantes:
 
-#### _<mark style="background-color:green;">2.1 Ajouter une périphérique</mark>_
+### _<mark style="background-color:green;">2.1 Ajouter une périphérique</mark>_
 
 **Etape 1:** Se rendre dans le menu de configuration de la centrale en mode Installateur:
 
@@ -72,7 +72,7 @@ Important! Dans le cas des PIRCAMs et des claviers,  l'appui sur la/les touches 
 
 Une fois ajouté, le périphérique radio sera prêt à être utilisé et peut être configuré depuis le même menu. Un exemple de configuration est disponible dans le chapitre suivant.
 
-#### _<mark style="background-color:green;">2.2 Configuration d'une zone</mark>_
+### _<mark style="background-color:green;">2.2 Configuration d'une zone</mark>_
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (28) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (30) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (31) (1).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
 
@@ -82,15 +82,15 @@ Pour configurer correctement une zone, il est important d'être familiarisé ave
 Par exemple: Intrusion Intérieur est une zone instantanée et Temporisation d'Entrée est une zone temporisée. Ces attributs sont disponibles dans les modes de fonctionnement (Mode Total, Mode Partiel, Mode Arrêt).
 {% endhint %}
 
-### _<mark style="background-color:yellow;">3. Configuration de la centrale et transmission vers la télésurveillance</mark>_
+## _<mark style="background-color:yellow;">3. Configuration de la centrale et transmission vers la télésurveillance</mark>_
 
-#### _<mark style="background-color:green;">3.1 Paramètres de sécurité</mark>_
+### _<mark style="background-color:green;">3.1 Paramètres de sécurité</mark>_
 
 Cette section indique comment ajuster la **durée de la sirène** en cas d'alarme et permet la configuration des **temporisations d'entrée/de sortie**. Pour identifier plus facilement les options critiques, elle seront indiquées par une cadre <mark style="color:red;">**rouge**</mark>.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (1) (2).png" alt="" data-size="original"></td><td>Configuration > Centrale</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (3) (2).png" alt="" data-size="original"></td><td>Configuration > Centrale > Sécurité</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (4) (2).png" alt="" data-size="original"></td><td><ol><li><strong>Durée de la sirène</strong> en cas d'alarme.</li><li>Activer cette option permet de retarder l'envoi des alarme de 30 secondes (<strong>il est recommandé de le laisser sur OFF</strong>).</li><li>Ajustement des <strong>temporisations d'entrée/de sortie</strong></li></ol></td><td></td></tr></tbody></table>
 
-#### _<mark style="background-color:green;">3.2 Paramètres de la centrale</mark>_
+### _<mark style="background-color:green;">3.2 Paramètres de la centrale</mark>_
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (1) (2).png" alt="" data-size="original"></td><td>Configuration > Centrale</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (10) (2).png" alt="" data-size="original"></td><td>Configuration > Centrale > Centrale</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (7) (2).png" alt="" data-size="original"></td><td>Polling --> Test vert télésurveilleur</td><td></td></tr></tbody></table>
 
@@ -149,55 +149,55 @@ Si activé, la sirène de la centrale est inactive.
 Fréquence de mise à jour du domaine si un domaine est utilisé à la place d'une IP. Désactiver = pas de mise à jour.
 {% endhint %}
 
-### 4.3 Configure user codes
+### _<mark style="background-color:green;">3.3 Configuration des codes utilisateurs</mark>_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Inslogging -> Settings</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (8) (2).png" alt="" data-size="original"></td><td>Settings -> User PIN</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (9) (2).png" alt="" data-size="original"></td><td>Add the Name and code for each user, this code will allow the user to switch modes from the APP or keyboards see User Manual for more information.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Configuration</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (8) (2).png" alt="" data-size="original"></td><td>Configuration > Codes</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (9) (2).png" alt="" data-size="original"></td><td>Ajoutez un nom et un code à chaque utilisateur. Ce code le changement de mode depuis un clavier ou l'application (voir manuel pour plus d'informations). </td><td></td></tr></tbody></table>
 
-### 4.4 Updating the panel
+### _<mark style="background-color:green;">3.4 Mise à jour de la centrale</mark>_
 
-It is crucial to keep the control panel up to date to ensure optimal system performance and security. Updates may contain essential enhancements, bug fixes and security patches that protect against known vulnerabilities.
+Il est essentiel de maintenir la centrale à jour afin de garantir des performances et une sécurité optimales du système. Les mises à jour peuvent contenir des améliorations essentielles, des corrections de bugs et des correctifs de sécurité qui protègent contre les vulnérabilités connues.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (1) (2).png" alt="" data-size="original"></td><td>Ajustes -> Panel</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (11) (2).png" alt="" data-size="original"></td><td>Panel -> Actualización de FW</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (12) (2).png" alt="" data-size="original"></td><td>Select from the list the firmware with the highest version (Highest number and highest letter).</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (1) (2).png" alt="" data-size="original"></td><td>Configuration > Centrale</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (11) (2).png" alt="" data-size="original"></td><td>Centrale > Mise à jour FW</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (12) (2).png" alt="" data-size="original"></td><td>Choisir dans la liste la version la plus récente (le nombre le plus élevé, la lettre la plus élevée).</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
-NOTE: The panel by 2G or low coverage may take 8 minutes to update.
-
-If the panel communicates over 4G/LTE with good coverage the update may take 3-5 minutes
+NOTE:\
+En 2G avec une faible couverture réseau, la mise à jour peut prendre jusqu'à 8 minutes.\
+En 4G/LTE avec une bonne couverture réseau, la mise à jour peut prendre 3-5 minutes.
 {% endhint %}
 
 {% hint style="danger" %}
-Once the panel is in upgrade mode <mark style="color:red;">**Do NOT turn off**</mark> or disconnect under any circumstances. The panel will restart automatically.
+Une fois la centrale en mode mise à jour, <mark style="color:red;">**ne pas l'éteindre ou la déconnecter**</mark> quelques que soient les circonstances. La centrale redémarrera automatiquement.
 
-SWITCHING OFF THE PANEL DURING AN UPGRADE MAY RENDER IT COMPLETELY INOPERATIVE.
+ETEINDRE LA CENTRALE PENDANT LA MISE A JOUR PEUT LA RENDRE INOPERANTE.
 {% endhint %}
 
 
 
-### 4.5 Reporting configuration to ARC (Alarm Receiving Center)
+### _<mark style="background-color:green;">3.5 Configuration de la transmission vers la télésurveillance</mark>_
 
-#### _**Event Report**_
+#### _**Transmission d'évènement**_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Settings -> Report</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (15) (2).png" alt="" data-size="original"></td><td>In this section we configure the report URL of our ARC, and very important the GROUP 2 or higher since group 1 is used for the APP. APPENDIX 2 for examples</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Configuration > Transmissions</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Dans le menu transmission, nous avons la transmission des événements et des images PIRCAMS.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (15) (2).png" alt="" data-size="original"></td><td>Dans ce menu, nous configurons l'URL du télésurveilleur et surtout le GROUPE 2 ou supérieur, car le groupe 1 est utilisé pour l'APP. Voir ANNEXE pour plus d'exemples.</td><td></td></tr></tbody></table>
 
-#### _APPENDIX 2_
+#### _ANNEXE_
 
 {% hint style="success" %}
-Examples of **EVENTS** reporting in different protocols:
+Exemples de transmission d'**EVENEMENTS** dans différents protocoles:
 
-:fire: **MANITOU (most used in Spain): ip://**<mark style="color:blue;">**ACCT**</mark>**@**<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PORT**</mark>**/MAN**
+**MANITOU (le plus utilisé en Espagne): ip://**<mark style="color:blue;">**ACCT**</mark>**@**<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PORT**</mark>**/MAN**
 
 SIA: **ip://**<mark style="color:blue;">**ACCT**</mark>@<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PORT**</mark>/SIA2
 
 CID: **ip://**<mark style="color:blue;">**ACCT**</mark>@<mark style="color:orange;">**IP**</mark>**:**<mark style="color:purple;">**PORT**</mark>/CID
 {% endhint %}
 
-In this section, you will find the **standard communication protocols** supported by VESTA panels for reporting events directly to the Alarm Receiving Center (ARC).\
-These protocols allow the panel to send All EVENTS except photos without the need for additional converters or tools.
+Dans cette section, vous trouverez les protocoles de communication standard supportés par les centrales VESTA pour signaler directement les événements au télésurveilleur.\
+Ces protocoles permettent à la centrale d'envoyer tous les ÉVÉNEMENTS, à l'exception des photos, sans avoir besoin de convertisseurs ou d'outils supplémentaires.
 
-If your ARC uses **one of these standard protocols** (such as **MANITOU XML**, **SIA DC09**, or **Contact ID**), the panel can be configured to report directly using the appropriate format.
+Si votre télésurveilleur utilise **l'un de ces protocoles** standard (tels que **MANITOU XML**, **SIA DC09** ou **Contact ID**), la centrale peut être configurée pour envoyer directement les rapports dans le format approprié.
 
 {% hint style="warning" %}
-If your ARC **does not support any of the standard protocols**, please refer to the [**ALARMSPACE** ](manuels-des-centrales.md#id-4.5.1-using-alarmspace-software-gateway-for-non-standard-arc-protocols)section below, which explains how to integrate non-standard systems using VESTA's translation software.
+Si votre télésurveilleur **ne supporte aucun des protocoles standard**, veuillez vous rendre à la section [ALARMSPACE](manuels-des-centrales.md#id-3.1-parametres-de-securite) ci-dessous, qui explique comment intégrer des systèmes non standard à l'aide du logiciel de traduction VESTA.
 {% endhint %}
 
 {% hint style="info" %}
