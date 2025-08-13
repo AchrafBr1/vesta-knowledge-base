@@ -67,7 +67,7 @@ Pour ajouter et configurer un périphérique VESTA sans fils, veuillez suivre le
 <figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Bouton d'apprentissage des périphériques VESTA</p></figcaption></figure>
 
 {% hint style="danger" %}
-Important! Dans le cas des PIRCAMs et des claviers,  l'appui sur la/les touches doit être de 3 à 4 secondes. Pour les autres périphériques, un appui court suffit pour les ajouter.
+Important! Dans le cas des PIRCAMs et des claviers, l'appui sur la/les touches doit être de 3 à 4 secondes. Pour les autres périphériques, un appui court suffit pour les ajouter.
 {% endhint %}
 
 Une fois ajouté, le périphérique radio sera prêt à être utilisé et peut être configuré depuis le même menu. Un exemple de configuration est disponible dans le chapitre suivant.
@@ -276,32 +276,34 @@ Les groupes sont classées dans l'ordre de priorité suivant: Groupe 1 → Group
 
 
 
-#### Groupe Essentiel vs Optionel
+#### Groupe Essentiel vs Optionnel
 
 **Essentiel:**
 
-* The system will report to all groups marked as Essential
-* The system never stops trying until at least one destination in every Essential group successfully receives the report
-* Group 1 is always Essential and cannot be changed
+* Le système transmettra à tous les groupes configurés comme Essentiels.
+* Le système n'arrête jamais de transmettre jusqu'à ce qu'un groupe Essentiel ait acquitté correctement la transmission.
+* Le Groupe 1 est toujours en Essentiel et ne peut être modifié.
 
-**Optionel:**
+**Optionnel:**
 
-* The system only reports to Optional groups when the previous group fails
-* Example: If Group 3 is set as Optional, the system will only report to Group 3 if reporting to Group 2 fails
+* Le système transmet seulement aux groupes Optionnels en cas d'échec sur les groupes précédents.
+* Exemple: Si le Groupe 3 est en Optionnel, le système ne transmettra qu'au Groupe 3 si le Groupe 2 est en échec.
 
-#### Retry Settings
+#### Tentatives
 
-Choose from: 1, 3, 5, 10, or 99 retries
+Choisir entre 1, 3, 5, 10, ou 99 tentatives.
 
-If reporting to all destinations in a group fails, the system will retry reporting to that group according to the retry count specified here.
+Si la tentative de transmission vers tous les destinataires d'un groupe échoue, le système tentera de transmettre à nouveau à ce groupe selon le nombre de tentative configuré.
 
-### Important Notes
 
-⚠️ **VESTA SmartHomeSec app report:**
 
-* When the panel is registered with VESTA APP, URL1 will be automatically configured with Home Portal Server information
-* **Do not modify** this information after registration is complete, or reporting to the Home Portal Server may fail
-* If you need additional reporting destinations after registering with Home Portal Server, configure them in a **different group** than URL1 to ensure successful reporting
+### Notes Importantes
+
+⚠️ **Transmission vers l'app VESTA SmartHomeSec:**
+
+* Lorsque la centrale est enregistrée avec l'app VESTA, l'URL 1 sera automatiquement configurée avec les information du serveur.
+* **Ne modifiez pas** ces informations après l'enregistrement complet de la centrale ou la transmission vers le serveur peut échouer.
+* Si vous avez besoin d'autres destinataires après le serveur, configurez-les en utilisant un **groupe différent** de celui de l'URL 1 pour assurer le bon fonctionnement de la transmission.
 {% endhint %}
 
 ### 4.5.1 Using ALARMSPACE Software Gateway for Non-Standard ARC Protocols
