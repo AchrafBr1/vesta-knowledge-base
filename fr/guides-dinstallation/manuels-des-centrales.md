@@ -175,7 +175,7 @@ ETEINDRE LA CENTRALE PENDANT LA MISE A JOUR PEUT LA RENDRE INOPERANTE.
 
 ### _<mark style="background-color:green;">3.5 Configuration de la transmission vers la télésurveillance</mark>_
 
-#### _**Transmission d'évènement**_
+#### _**Transmission d'évènements**_
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Configuration > Transmissions</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Dans le menu transmission, nous avons la transmission des événements et des images PIRCAMS.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (15) (2).png" alt="" data-size="original"></td><td>Dans ce menu, nous configurons l'URL du télésurveilleur et surtout le GROUPE 2 ou supérieur, car le groupe 1 est utilisé pour l'APP. Voir ANNEXE pour plus d'exemples.</td><td></td></tr></tbody></table>
 
@@ -201,90 +201,90 @@ Si votre télésurveilleur **ne supporte aucun des protocoles standard**, veuill
 {% endhint %}
 
 {% hint style="info" %}
-## Extended examples: Reporting URL Configuration
+## Autres exemples: Configuration des URLs de transmission
 
+Les URLs de transmission sont utilisées par l'installateur pour programmer les destinataires des évènements du système d'alarme
 
+### Formats supportés
 
-### Overview
-
-Reporting URLs are used by the installer to program report destinations for the security system.
-
-### Supported URL Formats
-
-#### 1. CID Protocol via TCP IP
+#### 1. CID via IP
 
 **Format:** `ip://(Account Number)@(Server IP):(Port)/CID`\
-**Example:** `ip://1234@54.183.182.247:8080/CID`
+**Exemple:** `ip://1234@54.183.182.247:8080/CID`
 
-#### 2. SIA DC-09 Protocol via IP
+#### 2. SIA DC-09 via IP
 
 **Format:** `ip://(Account Number)@(Server IP):(Port)/SIA2`\
-**Example:** `ip://1234@54.183.182.247:8080/SIA2`
+**Exemple:** `ip://1234@54.183.182.247:8080/SIA2`
 
-#### 3. SIA DC-09 Protocol via IP with AES Encryption
+#### 3. SIA DC-09 via IP avec chiffrage AES
 
 **Format:** `ip://(Account Number)@(Server IP):(Port)/SIA/KEY/(128, 192, or 256-bit Key)`\
-**Example:** `ip://1234@54.183.182.247:8080/SIA/KEY/4A46321737F890F654D632103F86B4F3`
+**Exemple:** `ip://1234@54.183.182.247:8080/SIA/KEY/4A46321737F890F654D632103F86B4F3`
 
-#### 4. SIA DC-09 Protocol Using CID Event Code via TCP IP (wrapped events)
+#### 4. SIA DC-09 utilisant les codes évènement CID via TCP IP (encapsulation)
 
 **Format:** `ip://(Account Number)@(Server IP):(Port)/CID_SIA2`\
-**Example:** `ip://1234@54.183.182.247:8080/CID_SIA2`
+**Exemple:** `ip://1234@54.183.182.247:8080/CID_SIA2`
 
-#### 5. SIA DC-09 Protocol Using CID Event Code via IP with HEX Encryption
+#### 5. SIA DC-09 utilisant les codes évènement CID via IP avec chiffrage HEX
 
 **Format:** `ip://(Account Number)@(Server IP):(Port)/CID_SIA/KEY/(HEX Key)`\
-**Example:** `ip://1234@54.183.182.247:8080/CID_SIA/KEY/4A46321737F890F654D632103F86B4F3`
+**Exemple:** `ip://1234@54.183.182.247:8080/CID_SIA/KEY/4A46321737F890F654D632103F86B4F3`
 
-#### 6. CSV Protocol via IP
+#### 6. CSV via IP
 
 **Format:** `ip://(Account Number)@(Server IP):(Port)/CSV`\
-**Example:** `ip://1234@54.183.182.247:8080/CSV`
+**Exemple:** `ip://1234@54.183.182.247:8080/CSV`
 
-#### 7. CSV Protocol via IP with Authentication
+#### 7. CSV via IP avec authentification
 
 **Format:** `ip://(Account Number)@(Server IP):(Port)/CSV/Username/Password`\
-**Example:** `ip://1234@54.183.182.247:8080/CSV/abcd/1357`
+**Exemple:** `ip://1234@54.183.182.247:8080/CSV/abcd/1357`
 
 #### 8. Email
 
 **Format:** `mailto:user@example.com`\
-**Example:** `mailto:john@gmail.com`
+**Exemple:** `mailto:john@gmail.com`
 
-###
 
-### Level Configuration
 
-Select a reporting condition for each destination:
+### Filtres
 
-* **All Events:** The system will report all events to this destination
-* **Alarm Events:** The system will only report alarm events to this destination
-* **Status Events:** The system will only report status events (non-alarm events) to this destination
+Choisir le type de filtre à appliquer par destinataires:
 
-### Group Configuration
+* **Tous les évènements:** Le système transmettra tous les évènements.
+* **Evènements d'alarme:** Le système transmettra uniquement les évènements d'alarme.
+* **Evènements d'état:** Le système transmettra uniquement les évènements (hors alarme)
 
-Select a group for your report destination. The system follows these reporting principles:
 
-#### Priority Structure
 
-Groups are reported in priority order: Group 1 → Group 2 → Group 3, etc.
+### Configuration des groupes
 
-#### Reporting Logic
+Choisir un groupe de transmission pour votre destinataire. Le système suivra le principe de transmission suivant:
 
-1. **Within a Group:** If reporting to the first destination in a group fails, the system moves to the next destination in that group
-2. **Group Success:** If any destination in a group receives the report successfully, the system considers that group successful and moves to the next group
-3. **Group Failure:** If all destinations in a group fail, the system retries according to the retry settings below
-4. **Cycle Completion:** After attempting all groups (Group 1 → Group 2 → ... → Group 5), if any Essential group failed to receive reports, the system restarts the reporting cycle
+#### Structure des priorités
 
-#### Essential vs. Optional Groups
+Les groupes sont classées dans l'ordre de priorité suivant: Groupe 1 → Groupe 2 → Groupe 3, etc.
 
-**Essential Groups:**
+#### Logique de transmission
+
+1. **Dans un groupe:** Si la transmission vers le premier destinataire du groupe échoue, le système passera vers le prochain destinataire du même groupe.
+2. **Succès groupe:** Si l'un des destinataires d'un groupe reçoit avec succès la transmission alors, le système considère que la transmission pour ce groupe est un succès et passe au groupe suivant.
+3. **Echec groupe:** Si tous les destinataires sont en échec de transmission, le système effectue une nouvelle tentative conformément aux paramètres ci-dessous.
+4. **Achèvement du cycle:** Après avoir essayé tous les groupes (Groupe 1 → Groupe 2 → ... → Groupe 5), si un groupe essentiel est en échec de transmission, le système redémarre le cycle de transmission.
+
+
+
+#### Groupe Essentiel vs Optionel
+
+**Essentiel:**
 
 * The system will report to all groups marked as Essential
 * The system never stops trying until at least one destination in every Essential group successfully receives the report
 * Group 1 is always Essential and cannot be changed
 
-**Optional Groups:**
+**Optionel:**
 
 * The system only reports to Optional groups when the previous group fails
 * Example: If Group 3 is set as Optional, the system will only report to Group 3 if reporting to Group 2 fails
