@@ -5,85 +5,85 @@ icon: screwdriver
 
 # Manuels des centrales
 
-Welcome to the **VESTA Wireless and Hybrid Control Panels Knowledge Base**. Here, you'll find all the essential information for installing, configuring, and maintaining VESTA security control panels that operate via wireless communication and hybrid systems.
+Bienvenue dans **la base de connaissances pour les centrales VESTA sans fils et hybrides**. Ici, vous trouverez les informations essentielles pour l'installation, la configuration et la maintenance de vos centrales VESTA quelles soient sans fils ou hybrides.
 
-This manual is designed for technicians, integrators, and advanced users who need a detailed understanding of these control panels. It includes step-by-step guides, troubleshooting tips, device compatibility, and best practices to optimize system performance.
+Ce manuel est conçu pour les techniciens, les intégrateurs et les utilisateurs avancés qui ont besoin d'une compréhension détaillée de ces centrales. Il inclus des guides étape par étape, des conseils de dépannage, des informations de compatibilité et les meilleurs pratiques pour optimiser les performances du système.
 
+## GUIDE RAPIDE
 
+### <mark style="background-color:yellow;">1. Enregistrement de la centrale et ajout d'un utilisateur</mark>
 
-## QUICK GUIDE&#x20;
+#### _<mark style="background-color:green;">1.1 Enregistrementde la centrale en mode Installateur</mark>_
 
-## 1. Panel Registration as Installer and User
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter comme un installateur sur l'app <a href="../../guia-de-usuario-smarthomesec.md">SmartHomeSec</a>.</td><td><img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  2:</strong> Cliquez sur le bouton +  (ajouter une centrale).</td><td><img src="../.gitbook/assets/image (10) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  3:</strong> Saisir l'adresse MAC de la centrale qui se trouve sur l'étiquette de la centrale.</td><td><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="original"></td></tr></tbody></table>
 
-### 1.1 Installer Registration
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Log in as an installer in the <a href="../../guia-de-usuario-smarthomesec.md">SmartHomeSec</a> APP</td><td><img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 2:</strong> Select the + button</p><p>(Add panel)</p></td><td><img src="../.gitbook/assets/image (10) (1) (2).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 3:</strong> Enter the panel's MAC address found on a label of panel</td><td><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
-
-Once the panel is registered as an installer, it is ready ✨ for configuration.
+Une fois la centrale enregistrée en mode Installateur, elle est prête pour la configuration.
 
 {% hint style="danger" %}
-The panel must be on and connected to the internet. We have 15 minutes after powering it up to register the panel.
+La centrale doit être démarrée et connectée à Internet. La centrale doit être enregistrée dans les 15 minutes après son démarrage.
 {% endhint %}
 
 {% hint style="success" %}
-The MAC of the panel is always on one side of the panel physically. In the NAME field, we should place the subscriber or any identifier of the panel.
+L'adresse MAC de la centrale se trouve sur une étiquette sur l'un des bords de la centrale. Le champ NOM, devrait contenir une information permettant d'identifier la centrale.
 {% endhint %}
 
-### 2. User Account Registration
+#### _<mark style="background-color:green;">1.2 Ajout d'un compte Utilisateur</mark>_
 
-The user account is used to control the system and is intended for the end user. From the SmartHomeSec APP, this account allows arming, disarming, and performing any operation. There are two types of user accounts: Master and Slave.
+Le compte utilisateur sert à contrôler le système et est destiné à l'utilisateur final. Depuis l'application SmartHomeSec, ce compte permet d'armer, de désarmer et d'effectuer toutes les opérations. Il existe deux types de comptes utilisateurs : Master et Slave.
 
-The first account we register is the Master. The main difference between the Master and Slave accounts is that the Master allows creating new users, while the Slave cannot create new accounts.
+Le premier compte enregistré sera forcément le compte Master. La principale différence entre les comptes Master et Slave est que le compte Master permet de créer de nouveaux utilisateurs, tandis que le compte Slave ne le permet pas.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Access the panel as installers, the default code is [7982]</td><td><img src="../.gitbook/assets/Imagen de WhatsApp 2024-06-02 a las 15.19.19_5e1f9a7f.jpg" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 2:</strong> Select the Main system menu section<img src="../.gitbook/assets/image (14) (1) (1).png" alt=""></td><td></td><td></td></tr><tr><td><strong>Step 3:</strong> Select account list</td><td></td><td><img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Step 4:</strong> Select add</td><td></td><td><img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Step 5:</strong> If it's a new user: Select create an account</td><td><img src="../.gitbook/assets/image (18) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 6:</strong> Fill in the user data for APP access</p><p><img src="../.gitbook/assets/image (19) (1).png" alt="" data-size="original"></p></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter en mode Installateur (code par défaut - 7982).</td><td><img src="../.gitbook/assets/Imagen de WhatsApp 2024-06-02 a las 15.19.19_5e1f9a7f.jpg" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Etape 2:</strong> Cliquez sur le bouton Système.</p><p><br><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""></p></td><td></td><td></td></tr><tr><td><strong>Etape 3:</strong> Choisir Liste des comptes.</td><td></td><td><img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape 4:</strong> Cliquez sur le bouton  +.</td><td></td><td><img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape 5:</strong> S'il s'agit d'un nouvel utilisateur cliquez sur Créer un compte.</td><td><img src="../.gitbook/assets/image (18) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Etape 6:</strong> Remplir les informations pour créer le compte.</p><p><img src="../.gitbook/assets/image (19) (1).png" alt="" data-size="original"></p></td><td></td><td></td></tr></tbody></table>
+
+
 
 {% hint style="success" %}
-User registration completed! For information on how to operate with the user APP, follow the SmartHomeSec user guide.
+L'ajout d'un compte utilisateur est terminé! Pour plus d'informations sur l'utilisation du compte utilisateur, suivre les instructions du guide de l'utilisateur SmartHomeSec.
 {% endhint %}
 
-## 3. Add and Configure Devices
+### _<mark style="background-color:yellow;">2. Ajout et configuration de périphériques</mark>_
 
-To add and configure VESTA RF devices, follow these steps:
+Pour ajouter et configurer un périphérique VESTA sans fils, veuillez suivre les étapes suivantes:
 
-### 3.1 Add Devices
+#### _<mark style="background-color:green;">2.1 Ajouter une périphérique</mark>_
 
-Step 1: Access the panel configuration from the installer APP:
+**Etape 1:** Se rendre dans le menu de configuration de la centrale en mode Installateur:
 
 <figure><img src="../.gitbook/assets/image (20) (1).png" alt="" width="192"><figcaption><p>Installer -> Settings</p></figcaption></figure>
 
-Step 2: Select "Devices" in the menu.
+**Etape 2:** Choisir le menu "Périphériques".
 
 <figure><img src="../.gitbook/assets/image (21) (1).png" alt="" width="190"><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
 
-Step 3: In the menu click "Add device".
+**Etape 3:** Cliquez sur "Ajouter Périphérique".
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (23) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (24) (1).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
 
-Step 4: Select the device type you want to add, e.g., Motion Detector. Press and hold the pairing button on the device until the LED flashes (refer to the device's manual for specific instructions).
+**Etape 4:** Choisir le type de périphérique à ajouter, ex: Détecteur de mouvement. Restez appuyé sur le bouton d'apprentissage du périphérique jusqu'au clignotement de sa led (consulter le manuel du périphérique pour des instructions détaillées).
 
-Step 5: Follow the on-screen instructions to complete the pairing process. The panel will confirm the successful addition of the device.
+**Etape 5**: Suivre les instructions indiquées pour terminer le processus d'apprentissage. La centrale confirmera l'ajout avec succès du périphérique.
 
-<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Botón learn de los dispositivos VESTA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Bouton d'apprentissage des périphériques VESTA</p></figcaption></figure>
 
 {% hint style="danger" %}
-Important! In case of PIRCAMS and keyboards: The keystroke must be 3 or 4 seconds. While the rest of the devices with a short press is enough to add them.
+Important! Dans le cas des PIRCAMs et des claviers,  l'appui sur la/les touches doit être de 3 à 4 secondes. Pour les autres périphériques, un appui court suffit pour les ajouter.
 {% endhint %}
 
-Once added, the RF devices will be ready for use and can be managed from the same section, here is an example of sensor attribute configuration:
+Une fois ajouté, le périphérique radio sera prêt à être utilisé et peut être configuré depuis le même menu. Un exemple de configuration est disponible dans le chapitre suivant.
 
-### 3.2 Zone configuration
+#### _<mark style="background-color:green;">2.2 Configuration d'une zone</mark>_
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (28) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (30) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (31) (1).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
-To configure the zones correctly, it is important to be familiar with the available attributes and their impact on the behavior of the alarm system.
+Pour configurer correctement une zone, il est important d'être familiarisé avec les attributs disponibles et de leurs impacts sur le fonctionnement global du système.
 
-For example: Interior is an instant zone and Entry is a delayed zone; we can assign these attributes in the section Response on arming which means "When the system is armed."
+Par exemple: Intrusion Intérieur est une zone instantanée et Temporisation d'Entrée est une zone temporisée. Ces attributs sont disponibles dans les modes de fonctionnement (Mode Total, Mode Partiel, Désarmé).
 {% endhint %}
 
-## 4. Panel configuration and reporting to ARC (Alarm Receiving Central Station)
+### _<mark style="background-color:yellow;">3. Configuration de la centrale et transmission vers la télésurvaillance</mark>_
 
-### 4.1 Security configuration
+#### _<mark style="background-color:green;">3.1 Configuration de la centrale</mark>_
 
 This section details how to adjust the **siren duration** during an alarm and set the **input and output delays**. For ease of identification and adjustment, critical options are highlighted in \*\*color \*\*<mark style="color:red;">**red**</mark>.
 
