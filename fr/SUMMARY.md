@@ -186,14 +186,11 @@
 * [Liste des évènements CID](trucs-et-astuces/liste-des-evenements-cid.md)
 * [Conseils BUS V-MAX](trucs-et-astuces/vmax-bus-tips_fr.md)
 
-## Guides Installateur
+## Guides d'installation
 
-* [Manuels des centrales](guides-installateur/manuels-des-centrales.md)
-* [Manuel SmartHomeSec](guides-installateur/manuel-smarthomesec.md)
-
-## Assistant SmartHomeSec
-
-* [Guide d'utilisation de l'assistant de configuration](assistant-smarthomesec/guide-dutilisation-de-lassistant-de-configuration.md)
+* [Manuels des centrales](guides-dinstallation/manuels-des-centrales.md)
+* [Manuel SmartHomeSec](guides-dinstallation/manuel-smarthomesec.md)
+* [Guide d'utilisation de l'assistant de configuration](guides-dinstallation/guide-dutilisation-de-lassistant-de-configuration.md)
 
 ## Caméras IP VESTA HOME
 

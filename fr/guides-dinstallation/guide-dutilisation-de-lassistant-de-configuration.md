@@ -1,3 +1,7 @@
+---
+icon: wand-magic-sparkles
+---
+
 # Guide d'utilisation de l'assistant de configuration
 
 ## <mark style="color:$info;">Début de l'assistant</mark>

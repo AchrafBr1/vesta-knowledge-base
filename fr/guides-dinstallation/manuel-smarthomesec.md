@@ -1,5 +1,6 @@
 ---
 description: Manuel installateur des centrales HSGW et HYBRIDE
+hidden: true
 icon: mobile
 ---
 
