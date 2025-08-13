@@ -1,6 +1,5 @@
 ---
 description: Pour toutes les centrales Vesta (radio, hybride)
-hidden: true
 icon: screwdriver
 ---
 
@@ -306,7 +305,7 @@ Si la tentative de transmission vers tous les destinataires d'un groupe échoue,
 * Si vous avez besoin d'autres destinataires après le serveur, configurez les en utilisant un **groupe différent** de celui de l'URL 1 pour assurer le bon fonctionnement de la transmission.
 {% endhint %}
 
-#### 3.5.1 Utilisation du logiciel ALARMSPACE comme passerelle pour les protocoles  de communication non normalisés
+#### _3.5.1 Utilisation du logiciel ALARMSPACE comme passerelle pour les protocoles  de communication non normalisés_
 
 Dans le cas ou le télésurveilleur ne supporterait pas l'un des protocoles listés ci-contre (MANITOU, XML, SIA DC09, CID, etc.), **VESTA dispose d'une solution sous forme de passerelle avec le logiciel ALARMSPACE.**
 
@@ -334,7 +333,7 @@ Exemples de configuration avec différents protocoles:
 **HTTP: Envoi d'image Http en base64**
 {% endhint %}
 
-### 4.6.1 Transmission d'images pour le logiciel SENTINEL
+#### _3.6.1 Transmission d'images pour le logiciel SENTINEL_
 
 {% hint style="info" %}
 Etape 1: Programmez le SMTP dans Configuration > Transmission&#x20;
@@ -356,39 +355,31 @@ Etape 2: Programmez l'e-mail fourni par le télésurveilleur dans le menu "Trans
 
 ## _<mark style="background-color:yellow;">Domotique</mark>_
 
-The panel has advanced automation functions that unlock a very high level of functionality designed to maximise the security of the system. These features allow, for example, the creation of rules where opening a door contact automatically captures an image or triggers a relay to open or close specific circuits. These capabilities not only improve system efficiency, but also provide a quick and appropriate response to security events.
+La centrale dispose de fonctions de domotique avancées qui offrent un niveau très élevé de fonctionnalités conçues pour maximiser la sécurité du système. Ces fonctionnalités permettent, par exemple, de créer des règles selon lesquelles l'ouverture d'un détecteur d'ouverture déclenche automatiquement la capture d'une image ou l'activation d'un relais pour ouvrir ou fermer des circuits spécifiques. Ces capacités améliorent non seulement l'efficacité du système, mais permettent également d'apporter une réponse rapide et appropriée aux événements de sécurité.
 
 {% hint style="success" %}
-**Number of rules and scenes that can be created:**\
+**Nombre de règle et de scénarios qui peuvent être créés:**\
 
 
-* Rules: 100
-* Scenes: 50
+* Règles: 100
+* Scénarios: 50
 
 
 
-Find out more: [Scenes and automatic rules of the VESTA Alarm System](https://vestasecurity.eu/en/scenes-and-automatic-rules-of-the-vesta-alarm-system/)
+Plus d'informations: [Scénarios et règles du système d'alarme VESTA](https://vestasecurity.eu/en/scenes-and-automatic-rules-of-the-vesta-alarm-system/) (anglais)
 {% endhint %}
 
-## COMPLETE INSTALATION MANUALS
+## _<mark style="background-color:yellow;">Manuels Complets (Anglais)</mark>_
 
-
-
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Hybrid Grade 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt="" width="113"><figcaption><p>Hybrid Grade 3</p></figcaption></figure>
 
 {% file src="../.gitbook/assets/Hybrid Panel-1_Installation Guide.pdf" %}
 
-
-
-
-
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Hybrid Lite</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt="" width="113"><figcaption><p>Hybrid Lite</p></figcaption></figure>
 
 {% file src="../.gitbook/assets/Hybrid Panel Lite 2G 4G _Installation Guide.pdf" %}
 
-
-
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Radio panels</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt="" width="113"><figcaption><p>Radio</p></figcaption></figure>
 
 {% file src="../.gitbook/assets/HSGW-MAX8-DT18-SF1-DUAL 20220811.pdf" %}
 
