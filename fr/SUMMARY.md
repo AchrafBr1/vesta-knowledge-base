@@ -188,9 +188,9 @@
 
 ## Guides d'installation
 
-* [Manuels des centrales](guides-dinstallation/manuels-des-centrales.md)
-* [Manuel SmartHomeSec](guides-dinstallation/manuel-smarthomesec.md)
-* [Guide d'utilisation de l'assistant de configuration](guides-dinstallation/guide-dutilisation-de-lassistant-de-configuration.md)
+* [Guide des centrales](guides-dinstallation/guide-des-centrales.md)
+* [Guide SmartHomeSec](guides-dinstallation/guide-smarthomesec.md)
+* [Guide de l'assistant](guides-dinstallation/guide-de-lassistant.md)
 
 ## Caméras IP VESTA HOME
 
@@ -202,11 +202,11 @@
 * [Gamme Vesta Advanced (Autonome)](video-vesta-advanced/gamme-vesta-advanced-autonome.md)
 * [Caméras IP VESTA ADVANCED B24, D24, T24, B35, T35, B38, T38](video-vesta-advanced/cameras-ip-vesta-advanced-b24-d24-t24-b35-t35-b38-t38.md)
 
+## Mises à jour VESTA Advanced
+
+* [Firmwares - VESTA Advanced](mises-a-jour-vesta-advanced/firmwares-vesta-advanced.md)
+
 ## Outils et logiciels
 
 * [Vesta Config Tool](outils-et-logiciels/vesta-config-tool.md)
 * [VSS software](outils-et-logiciels/vss-software.md)
-
-## Mises à jour VESTA Advanced
-
-* [Firmwares - VESTA Advanced](mises-a-jour-vesta-advanced/firmwares-vesta-advanced.md)
