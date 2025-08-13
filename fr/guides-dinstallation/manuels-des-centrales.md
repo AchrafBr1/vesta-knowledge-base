@@ -177,9 +177,9 @@ ETEINDRE LA CENTRALE PENDANT LA MISE A JOUR PEUT LA RENDRE INOPERANTE.
 
 #### _**Transmission d'évènements**_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Configuration > Transmissions</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Dans le menu transmission, nous avons la transmission des événements et des images PIRCAMS.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (15) (2).png" alt="" data-size="original"></td><td>Dans ce menu, nous configurons l'URL du télésurveilleur et surtout le GROUPE 2 ou supérieur, car le groupe 1 est utilisé pour l'APP. Voir ANNEXE pour plus d'exemples.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Configuration > Transmissions</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Dans le menu transmission, nous avons la transmission des événements et des images PIRCAMS.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (15) (2).png" alt="" data-size="original"></td><td>Dans ce menu, nous configurons l'URL du télésurveilleur et surtout le GROUPE 2 ou supérieur, car le groupe 1 est utilisé pour l'APP. Voir ANNEXE 1 pour plus d'exemples.</td><td></td></tr></tbody></table>
 
-#### _ANNEXE_
+#### _ANNEXE 1_
 
 {% hint style="success" %}
 Exemples de transmission d'**EVENEMENTS** dans différents protocoles:
@@ -306,48 +306,44 @@ Si la tentative de transmission vers tous les destinataires d'un groupe échoue,
 * Si vous avez besoin d'autres destinataires après le serveur, configurez les en utilisant un **groupe différent** de celui de l'URL 1 pour assurer le bon fonctionnement de la transmission.
 {% endhint %}
 
-### 3.5.1 Utilisation du logiciel ALARMSPACE comme passerelle pour les protocoles  de communication non
+#### 3.5.1 Utilisation du logiciel ALARMSPACE comme passerelle pour les protocoles  de communication non normalisés
 
-In cases where the Alarm Receiving Center (ARC) does **not** support any of the standard reporting protocols listed above (e.g., MANITOU, XML, SIA DC09, CID, etc.), **VESTA provides a software gateway solution called ALARMSPACE**.
+Dans le cas ou le télésurveilleur ne supporterait pas l'un des protocoles listés ci-contre (MANITOU, XML, SIA DC09, CID, etc.), **VESTA dispose d'une solution sous forme de passerelle avec le logiciel ALARMSPACE.**
 
 <figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>ALARMSPACE</p></figcaption></figure>
 
-**ALARMSPACE** acts as a translation layer between the VESTA panel and the ARC, converting VESTA events into the required format expected by the ARC’s monitoring system. This ensures full compatibility even when a proprietary or custom protocol is used by the ARC.
+**ALARMSPACE** fonctionne comme un traducteur entre la centrale VESTA et le télésurveilleur, convertissant les évènements VESTA dans le format attendu par le télésurveilleur. Cela assure une compatibilité complète même en cas d'utilisation d'un protocole propriétaire ou personnalisé par le télésurveilleur.
 
-The ALARMSPACE software can be **installed on any Windows-based PC or virtual machine** within the ARC infrastructure.
+Le logiciel ALARMSPACE peut être installé sur n'importe quelle **base PC Windows** ou **machine virtuelle** dans l'infrastructure du télésurveilleur.
 
 {% hint style="success" %}
-For installation, please **contact your VESTA representative**. Full support is provided for setup, configuration, and operational testing.
+Pour l'installation, veuillez contacter votre représentant VESTA.
 {% endhint %}
 
-### _**4.6 Photo report**_.
+### _<mark style="background-color:green;">3.6 Transmission d'images</mark>_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Settings -> Report</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>In the report section we have report configuration for events and captured files for PIRCAMS photos.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="original"></td><td>In this section we configure the report URL of our CRA for sending photos. APPENDIX 3 for examples</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Configuration > Transmission</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Dans le menu transmission, nous avons la transmission des événements et des images PIRCAMS.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="original"></td><td>Dans cette section nous configurons l'URL d télésurveilleur pour l'envoi d'images destinataire.</td><td></td></tr></tbody></table>
 
 {% hint style="success" %}
-Examples of **PHOTOS** reporting in different protocols:
+Exemples de configuration avec différents protocoles:
 
 :fire: **MANITOU**: <mark style="color:blue;">**ACCT**</mark>**@**<mark style="color:orange;">**IP**</mark>**:PORT**
 
-**SMTP: Using email adress for ARC**&#x20;
+**SMTP: Utilisez l'adresse e-mail du télésurveilleur**
 
-**HTTP: Http post images in base64**
+**HTTP: Envoi d'image Http en base64**
 {% endhint %}
 
-
-
-### 4.6.1 Photo report for SENTINEL software
+### 4.6.1 Transmission d'images pour le logiciel SENTINEL
 
 {% hint style="info" %}
-Step 1: Program SMTP information in settings -> Report&#x20;
+Etape 1: Programmez le SMTP dans Configuration > Transmission&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Example</p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Exemple SMTP</p></figcaption></figure>
 
 {% hint style="info" %}
-Step 2: Program the email provided by central monitoring station in "Captured files"
+Etape 2: Programmez l'e-mail fourni par le télésurveilleur dans le menu "Transmission d'images"
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
@@ -355,10 +351,10 @@ Step 2: Program the email provided by central monitoring station in "Captured fi
 
 
 {% hint style="warning" %}
-**IMPORTANT:** If you use IP cameras integrated with VESTA, you have to lower the camera resolution to 2MP or lower for proper operation.
+**IMPORTANT:** Si vous utilisez des caméras intégrées avec VESTA, vous devrez réduire la résolution à 2MP ou moins pour un fonctionnement correct.
 {% endhint %}
 
-## Automation features
+## _<mark style="background-color:yellow;">Domotique</mark>_
 
 The panel has advanced automation functions that unlock a very high level of functionality designed to maximise the security of the system. These features allow, for example, the creation of rules where opening a door contact automatically captures an image or triggers a relay to open or close specific circuits. These capabilities not only improve system efficiency, but also provide a quick and appropriate response to security events.
 
