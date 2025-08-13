@@ -303,10 +303,10 @@ Si la tentative de transmission vers tous les destinataires d'un groupe échoue,
 
 * Lorsque la centrale est enregistrée avec l'app VESTA, l'URL 1 sera automatiquement configurée avec les information du serveur.
 * **Ne modifiez pas** ces informations après l'enregistrement complet de la centrale ou la transmission vers le serveur peut échouer.
-* Si vous avez besoin d'autres destinataires après le serveur, configurez-les en utilisant un **groupe différent** de celui de l'URL 1 pour assurer le bon fonctionnement de la transmission.
+* Si vous avez besoin d'autres destinataires après le serveur, configurez les en utilisant un **groupe différent** de celui de l'URL 1 pour assurer le bon fonctionnement de la transmission.
 {% endhint %}
 
-### 4.5.1 Using ALARMSPACE Software Gateway for Non-Standard ARC Protocols
+### 3.5.1 Utilisation du logiciel ALARMSPACE comme passerelle pour les protocoles  de communication non
 
 In cases where the Alarm Receiving Center (ARC) does **not** support any of the standard reporting protocols listed above (e.g., MANITOU, XML, SIA DC09, CID, etc.), **VESTA provides a software gateway solution called ALARMSPACE**.
 
