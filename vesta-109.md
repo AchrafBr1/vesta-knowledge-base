@@ -6,7 +6,7 @@ description: VDP-3
 
 ## Doorbell Wireless
 
-<figure><img src=".gitbook/assets/image (257).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/teclados-y-mandos/VESTA-109">VESTA-109</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (257).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/en/product/VESTA-109/">VESTA-109</a></p></figcaption></figure>
 
 
 
@@ -116,7 +116,7 @@ VDP into the wall.
 
 The Video Door Phone can be incorporated into existing VESTA panel security system as an accessory device. To use the VDP, a VESTA IP based security system alarm panel is required.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 It is necessary to enable all permissions and be connected to the same Wi-Fi network from the smartphone as the one the panel is connected to.
 {% endhint %}
 
@@ -143,7 +143,7 @@ Flashing LED indicates the Video Doorbell does not have a working Wi-Fi setting 
 
 ## Operation <a href="#toc51257989" id="toc51257989"></a>
 
-The Video Door Phone can be accessed by smartphone application SMART HOME SEC  and [VESTA-025](https://bydemes.com/es/productos/intrusion/alarma-vesta/teclados-y-mandos/VESTA-025) and [VESTA-354](https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-v-max-bus-para-hibrida/VESTA-354) Two-way voice communication function is available.
+The Video Door Phone can be accessed by smartphone application SMART HOME SEC  and [VESTA-025](https://vestasecurity.eu/en/product/VESTA-025/) and [VESTA-354](https://vestasecurity.eu/en/product/VESTA-354/) Two-way voice communication function is available.
 
 ### Smartphone Access <a href="#toc51257991" id="toc51257991"></a>
 
@@ -177,7 +177,7 @@ This is for you to select the door lock you wish to bind with the system. Please
 
 * **WiFi Setup**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 To configure the VDP on a different Wi-Fi network, a factory reset will be required.
 {% endhint %}
 
