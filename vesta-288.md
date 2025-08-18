@@ -204,7 +204,7 @@ Size: 2 Byte, Default Value: 5
 
 
 
-<table data-header-hidden><thead><tr><th width="174">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>not report to gateway when temperature varies</td></tr><tr><td>3 – 255</td><td>n *0.1 C</td></tr></tbody></table>
+<table><thead><tr><th width="174">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>not report to gateway when temperature varies</td></tr><tr><td>3 – 255</td><td>n *0.1 C</td></tr></tbody></table>
 
 #### Parameter 3: Variation of reported humidity
 
@@ -214,7 +214,7 @@ Size: 1 Byte, Default Value: 6
 
 
 
-<table data-header-hidden><thead><tr><th width="157">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>not report to gateway when humidity varies</td></tr><tr><td>1 – 99</td><td>Automatically report</td></tr></tbody></table>
+<table><thead><tr><th width="192">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>not report to gateway when humidity varies</td></tr><tr><td>1 – 99</td><td>Automatically report</td></tr></tbody></table>
 
 #### Parameter 4: IR-Command heating mode
 
@@ -224,7 +224,7 @@ Size: 1 Byte, Default Value: 1
 
 
 
-<table data-header-hidden><thead><tr><th width="190">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>disabled</td></tr><tr><td>1</td><td>enabled</td></tr></tbody></table>
+<table><thead><tr><th width="190">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>disabled</td></tr><tr><td>1</td><td>enabled</td></tr></tbody></table>
 
 #### Parameter 5: IR-Command cooling mode
 
@@ -232,11 +232,9 @@ _Whether to send IR command when the device is in the cooling mode_
 
 Size: 1 Byte, Default Value: 1
 
-SettingDescription
 
-| 0 | disabled |
-| - | -------- |
-| 1 | enabled  |
+
+<table><thead><tr><th width="190">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>disabled</td></tr><tr><td>1</td><td>enabled</td></tr></tbody></table>
 
 #### Parameter 6: Send repetition to Association group 2
 
@@ -244,12 +242,9 @@ _The number of times to verify and resend after sending a command to the device 
 
 Size: 1 Byte, Default Value: 3
 
-SettingDescription
 
-| 0     | not verify                                            |
-| ----- | ----------------------------------------------------- |
-| 1 – 9 | the number of times to resend if verification failure |
-| 10    | always verify till success                            |
+
+<table><thead><tr><th width="200">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>not verify</td></tr><tr><td>1 – 9</td><td>the number of times to resend if verification failure</td></tr><tr><td>10</td><td>always verify till success</td></tr></tbody></table>
 
 #### Parameter 7: Send repetition to Association group 3
 
@@ -257,11 +252,9 @@ _The number of times to verify and resend aller sending a command to the device 
 
 Size: 1 Byte, Default Value: 3
 
-SettingDescription
 
-| 0     | not verify                                            |
-| ----- | ----------------------------------------------------- |
-| 1 – 9 | the number of times to resend if verification failure |
+
+<table><thead><tr><th width="175">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>not verify</td></tr><tr><td>1 – 9</td><td>the number of times to resend if verification failure</td></tr></tbody></table>
 
 #### Parameter 10: Lock key
 
@@ -269,21 +262,17 @@ _OFF–key works; ON –keys of up and down not works (this function is invalid 
 
 Size: 1 Byte, Default Value: 0
 
-SettingDescription
 
-| 0 | OFF |
-| - | --- |
-| 1 | ON  |
+
+<table><thead><tr><th width="193">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>OFF</td></tr><tr><td>1</td><td>ON</td></tr></tbody></table>
 
 #### Parameter 11: Sound On/Off
 
 Size: 1 Byte, Default Value: 1
 
-SettingDescription
 
-| 0 | OFF |
-| - | --- |
-| 1 | ON  |
+
+<table><thead><tr><th width="179">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>OFF</td></tr><tr><td>1</td><td>ON</td></tr></tbody></table>
 
 #### Parameter 12: Temperature deadband setting
 
@@ -291,40 +280,33 @@ _The device will follow thermostat‘s internal control logic to control AC‘s 
 
 Size: 1 Byte, Default Value: 0
 
-SettingDescription
 
-| 0     | Local setting temperature is same as setting temperature of air conditioner. |
-| ----- | ---------------------------------------------------------------------------- |
-| 1 – 3 | Value of temperature deadband (n\*1°C),                                      |
+
+<table><thead><tr><th width="100">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>Local setting temperature is same as setting temperature of air conditioner.</td></tr><tr><td>1 – 3</td><td>Value of temperature deadband (n*1°C),</td></tr></tbody></table>
 
 #### Parameter 13: Temperature calibration
 
 Size: 1 Byte, Default Value: 0
 
-SettingDescription
 
-| -100 – 100 | Value of temperature calibration (n\*0,1 °C) |
-| ---------- | -------------------------------------------- |
+
+<table><thead><tr><th width="200">SettingDescription</th><th></th></tr></thead><tbody><tr><td>-100 – 100</td><td>Value of temperature calibration (n*0,1 °C)</td></tr></tbody></table>
 
 #### Parameter 14: Screen On
 
 Size: 1 Byte, Default Value: 1
 
-SettingDescription
 
-| 0      | always on                    |
-| ------ | ---------------------------- |
-| 1 – 60 | time of screen on in minutes |
+
+<table><thead><tr><th width="198">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>always on</td></tr><tr><td>1 – 60</td><td>time of screen on in minutes</td></tr></tbody></table>
 
 #### Parameter 15: LED Brightness
 
 Size: 1 Byte, Default Value: 8
 
-SettingDescription
 
-| 0     | OFF   |
-| ----- | ----- |
-| 1 – 8 | Level |
+
+<table><thead><tr><th width="186">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>OFF</td></tr><tr><td>1 – 8</td><td>Level</td></tr></tbody></table>
 
 #### Parameter 16: Controlled by association group
 
@@ -332,19 +314,17 @@ _Temperature deadband when the device is controlled by association group._
 
 Size: 1 Byte, Default Value: 10
 
-SettingDescription
 
-| 5 – 30 | Value of temperature deadband (n\* 0.1 C) |
-| ------ | ----------------------------------------- |
+
+<table><thead><tr><th width="186">SettingDescription</th><th></th></tr></thead><tbody><tr><td>5 – 30</td><td>Value of temperature deadband (n* 0.1 C)</td></tr></tbody></table>
 
 #### Parameter 255: Factory reset
 
 Size: 1 Byte, Default Value: 0
 
-SettingDescription
 
-| 85 | Factory restore |
-| -- | --------------- |
+
+<table><thead><tr><th width="188">SettingDescription</th><th></th></tr></thead><tbody><tr><td>85</td><td>Factory restore</td></tr></tbody></table>
 
 #### Technical Data
 
