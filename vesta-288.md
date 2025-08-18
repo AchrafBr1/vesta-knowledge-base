@@ -202,11 +202,9 @@ _Automatically report to gateway when variation of temperature greater than this
 
 Size: 2 Byte, Default Value: 5
 
-SettingDescription
 
-| 0       | not report to gateway when temperature varies |
-| ------- | --------------------------------------------- |
-| 3 – 255 | n \*0.1 C                                     |
+
+<table data-header-hidden><thead><tr><th width="174">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>not report to gateway when temperature varies</td></tr><tr><td>3 – 255</td><td>n *0.1 C</td></tr></tbody></table>
 
 #### Parameter 3: Variation of reported humidity
 
@@ -214,11 +212,9 @@ _Automatically report to gateway when variation of humidity greater than this va
 
 Size: 1 Byte, Default Value: 6
 
-SettingDescription
 
-| 0      | not report to gateway when humidity varies |
-| ------ | ------------------------------------------ |
-| 1 – 99 | Automatically report                       |
+
+<table data-header-hidden><thead><tr><th width="157">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>not report to gateway when humidity varies</td></tr><tr><td>1 – 99</td><td>Automatically report</td></tr></tbody></table>
 
 #### Parameter 4: IR-Command heating mode
 
@@ -226,11 +222,9 @@ _Whether to send IR command when the device is in the heating mode_
 
 Size: 1 Byte, Default Value: 1
 
-SettingDescription
 
-| 0 | disabled |
-| - | -------- |
-| 1 | enabled  |
+
+<table data-header-hidden><thead><tr><th width="190">SettingDescription</th><th></th></tr></thead><tbody><tr><td>0</td><td>disabled</td></tr><tr><td>1</td><td>enabled</td></tr></tbody></table>
 
 #### Parameter 5: IR-Command cooling mode
 
