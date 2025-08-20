@@ -80,6 +80,7 @@
 * [VESTA 153](vesta-153_fr.md)
 * [VESTA 154](vesta-154_fr.md)
 * [VESTA 155](vesta-155_fr.md)
+* [VESTA-156](vesta-156.md)
 * [VESTA 157](vesta-157_fr.md)
 * [VESTA 158](vesta-158_fr.md)
 * [VESTA 162](vesta-162_fr.md)
