@@ -125,7 +125,20 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 {% file src="../.gitbook/assets/Quickly User Manual v25.pdf" %}
 
-{% hint style="warning" %}
-_**More information will be added soon**_
-{% endhint %}
+***
+
+## **Camera Troubleshooting and Configuration Issues**
+
+### **CGI Activation Issues:**
+
+![](../.gitbook/assets/image.png)\
+\
+If the panel prompts you to enable CGI on the camera (And CGI already activated), this may be due to changes in user settings. This can happen if:
+
+* A client manually modified user settings on the camera (Changed admin rights).
+* The camera was added to a third-party recorder, which initialized it in a way that altered user data.
+
+**Solution:**\
+Reset the camera to factory settings. After the reset, the camera will function correctly.\
+&#xNAN;_(Note: This issue is typically related to modifications in the Users settings.)_
 
