@@ -81,7 +81,7 @@ This allows the camera to **save a real image** when an event is triggered.
 * DAHUA-4453 - DH-IPC-HDW3449HP-ZAS-PV-27135-S5
 * DAHUA-4116N - DH-IPC-HDW3849HP-ZAS-PV-27135-S5
 
-> ℹ️ _More Series 2 models will be added mid-August._
+> ℹ️ Firmware for series 2: [Download FIRMWARE](https://drive.google.com/drive/folders/1thS-QK6UmKX14amsHNiuCVVx--nTSaMI)
 
 
 
