@@ -36,7 +36,7 @@ Use the SmartHomeSec app to initialise the camera and **add** it to the system
 
 ### STEP 3: Press + Icon to add a camera
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
 
 ### STEP 4: Press the VESTA/Imou icon
 
@@ -55,7 +55,7 @@ Vantages to add to the equipment:
 * PTZ control for the VESTA-292
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
 
 * Add to the cloud: The camera will be installed using the cloud. The user will see the live video only from the user's app account.
 
@@ -125,7 +125,37 @@ SETUP COMPLETED
 
 <figure><img src="../.gitbook/assets/21.jpg" alt="" width="185"><figcaption></figcaption></figure>
 
+***
 
+### **How to Enable Camera Notifications When the System is Disarmed**
+
+The **VESTA HOME / ADV cameras** allow you to receive notifications even while the system is disarmed. This can be useful if you want to stay aware of movement in certain areas without arming the entire system.
+
+#### Steps to Configure:
+
+1. Go to the Settings --> Device -->  **Camera settings** in the app SmartHomeSec.
+   1.
+
+       <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+2. Locate the option **Chime as Attribute during Disarm**:&#x20;
+   1.
+
+       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+3. Enable this option on the camera.
+
+#### What Happens Next:
+
+* The system will stay in **alert mode** even when disarmed.
+* If the camera detects activity, you will receive a **push notification**:
+  * _Human Detected / Motion Detected_
+
+⚠️ **Important:** In this mode, the camera **will not capture images**. You will only get the push notification. You can then open the live stream manually if you want to check what’s happening.
+
+#### Coming Soon:
+
+The platform will soon support a new attribute: **Notifications with Image**. Once available, you will not only get the notification but also a snapshot from the camera directly in the alert.
+
+***
 
 ## TROUBLESHOOTING&#x20;
 

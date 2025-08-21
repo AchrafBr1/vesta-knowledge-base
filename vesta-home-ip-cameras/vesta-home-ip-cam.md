@@ -36,7 +36,7 @@ Use the SmartHomeSec app to initialise the camera and **add** it to the system
 
 ### STEP 3: Press + Icon to add a camera
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
 
 ### STEP 4: Press the VESTA/Imou icon
 
@@ -55,7 +55,7 @@ Vantages to add to the equipment:
 * PTZ control for the VESTA-292
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
 
 * Add to the cloud: The camera will be installed using the cloud. The user will see the live video only from the user's app account.
 
@@ -125,7 +125,39 @@ SETUP COMPLETED
 
 <figure><img src="../.gitbook/assets/21.jpg" alt="" width="185"><figcaption></figcaption></figure>
 
+***
 
+### **How to Enable Camera Notifications When the System is Disarmed**
+
+The **VESTA HOME / ADV cameras** allow you to receive notifications even while the system is disarmed. This can be useful if you want to stay aware of movement in certain areas without arming the entire system.
+
+#### Steps to Configure:
+
+1. Go to the Settings --> Device -->  **Camera settings** in the app SmartHomeSec.
+   1.
+
+       <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+2. Locate the option **Chime as Attribute during Disarm**:&#x20;
+   1.
+
+       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+3. Enable this option on the camera.
+
+#### What Happens Next:
+
+* The system will stay in **alert mode** even when disarmed.
+* If the camera detects activity, you will receive a **push notification**:
+  * _Human Detected / Motion Detected_
+
+⚠️ **Important:** In this mode, the camera **will not capture images**. You will only get the push notification. You can then open the live stream manually if you want to check what’s happening.
+
+#### Coming Soon:
+
+The platform will soon support a new attribute: **Notifications with Image**. Once available, you will not only get the notification but also a snapshot from the camera directly in the alert.
+
+
+
+***
 
 ## TROUBLESHOOTING&#x20;
 
@@ -134,6 +166,32 @@ SETUP COMPLETED
 1\.   Ensure that the VESTA central controller is connected to the same network as the camera.
 
 2\.   Restart the switch or router where the VESTA panel and Camera are connected.
+
+{% hint style="success" %}
+### **IP Detection Issue During Camera Setup**
+
+Sometimes, when you reach the **IP detection step**, the panel may not find any devices during the scan. If this happens, and you have already configured the camera via **Wi-Fi**, check the following:
+
+#### Scenario
+
+* You used **Wi-Fi setup** as the connection method.
+* The camera shows a **solid green LED**, meaning it is already connected to the Wi-Fi network.
+* However, when the panel scans for IP devices, nothing appears.
+
+#### Solution
+
+To avoid repeating the entire setup process, do the following:
+
+1. Go back to the step where you select the **connection method**.
+2. Scan the **QR code** again.
+3. Instead of selecting _Wi-Fi_, choose **Ethernet**.
+
+![](<../.gitbook/assets/image (2).png>)
+
+#### Why?
+
+Even though the camera is connected via Wi-Fi, selecting **Ethernet** in this step allows the panel to correctly detect the camera on the network without forcing you to reconfigure everything.
+{% endhint %}
 
 ***
 

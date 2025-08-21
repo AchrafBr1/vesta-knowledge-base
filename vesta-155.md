@@ -74,9 +74,9 @@ When learnt into the Control Panel, the DIO-52-B will be recognized as 2 separat
 
 The DI/DO module can operate according to different mode selected on the Control Panel webpage, or SmartHomeSec Server . Please select the mode in **DO Device Edit** page.
 
-| **Control Panel webpage**                                          | **SmartHomeSec**                                                                                                                      |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src=".gitbook/assets/1 (39).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                          | **SmartHomeSec**                                                                                                                          |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src=".gitbook/assets/1 (39).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
 
 *   **Appliance Control:**
 
@@ -134,9 +134,9 @@ After selecting the “Input Follower” mode on the DO device edit page, select
 
 Program the DO settings in **DO Device Edit** page on Panel webpage or _**SmartHomeSec**_ server.
 
-| **Control Panel webpage**                                           | **SmartHomeSec**                                                                                                                  |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| <img src=".gitbook/assets/11 (15).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                           | **SmartHomeSec**                                                                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src=".gitbook/assets/11 (15).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
 
 _Swith on via APP_:
 
@@ -164,9 +164,9 @@ _Operation Mode:_ Select the Operation Mode for DIO-52-B. Please refer to previo
 
 Program the DI settings in **DI Device Edit** page on Panel webpage or SmartHomeSec server.
 
-| **Control Panel webpage**                                           | **SmartHomeSec** **Server**                                                                                                                                           |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src=".gitbook/assets/13 (16).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                           | **SmartHomeSec** **Server**                                                                                                                                               |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src=".gitbook/assets/13 (16).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
 
 _Status for 0_: Enter the Status 0 description for the Input terminal.
 
