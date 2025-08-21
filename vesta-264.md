@@ -1,6 +1,6 @@
-# VESTA-249
+# VESTA-264
 
-**DC-15Z2-2W**
+**DC-15Z2-2W-BROWN**
 
 ## **Door Contact**
 

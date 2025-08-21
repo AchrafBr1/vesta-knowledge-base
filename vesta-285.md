@@ -37,7 +37,7 @@ MCO Home MH4936. Boiler thermostat with integrated Z-WAVE. Measurement of interi
 
 <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="52">Terminal</th><th width="212">Terminal Description</th></tr></thead><tbody><tr><td>C</td><td>AC 24 V power supply</td></tr><tr><td>RH</td><td></td></tr><tr><td>RC</td><td></td></tr><tr><td>WI</td><td>Is, stage heating</td></tr><tr><td>W2</td><td>200 stage heating or auxiliary heating</td></tr><tr><td>G</td><td>Fan</td></tr><tr><td>YI</td><td>Compressor stage I</td></tr><tr><td>Y2</td><td>Compressor stagc2</td></tr><tr><td>0/B</td><td>Changeover</td></tr><tr><td>K</td><td>Wire with 4-5T module</td></tr><tr><td>EF</td><td>Reserved terminal</td></tr></tbody></table>
+<table><thead><tr><th width="118">Terminal</th><th width="371">Terminal Description</th></tr></thead><tbody><tr><td>C</td><td>AC 24 V power supply</td></tr><tr><td>RH</td><td></td></tr><tr><td>RC</td><td></td></tr><tr><td>WI</td><td>Is, stage heating</td></tr><tr><td>W2</td><td>200 stage heating or auxiliary heating</td></tr><tr><td>G</td><td>Fan</td></tr><tr><td>YI</td><td>Compressor stage I</td></tr><tr><td>Y2</td><td>Compressor stagc2</td></tr><tr><td>0/B</td><td>Changeover</td></tr><tr><td>K</td><td>Wire with 4-5T module</td></tr><tr><td>EF</td><td>Reserved terminal</td></tr></tbody></table>
 
 Note: A wire saver acts as a splitter for applications that do not include a 24-volt C wire. If your heating/cooling system does not include a C wire,install the wire saver in or near the main unit (furnace, air handler) of your heating/cooling system.
 
