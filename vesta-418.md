@@ -1,6 +1,10 @@
+---
+description: RP-32
+---
+
 # VESTA-418
 
-**RP-32**
+
 
 ## **Repeater**&#x20;
 
@@ -102,6 +106,22 @@ If the Repeater fails to receive an acknowledge signal from the Control Panel wi
 Note:
 
 After the test button is pressed for 3 seconds, the Repeater enters learning mode with its yellow remain on for up to 60 seconds. The Repeater will leave learning mode upon successful learning, or reaches the 60 second timeout limit. Pressing the button for 3 seconds again will also leave learning mode immediately with 2 short beeps.
+{% endhint %}
+
+{% hint style="success" %}
+#### **Important Note: Adding a Repeater**
+
+When adding a repeater, please note that it needs to transmit a large amount of information using RF. Because of this, the process may take up to **5 minutes** before you can start adding devices to RP.
+
+If you want the process to be immediate, follow these steps:
+
+1. Add the repeater to the panel, once is done.
+2. On the panel, select **Add → Other**.
+3. Press the **Learn** button on the repeater again.
+   * This forces the repeater to immediately report all signals to the panel.
+4. Refresh the device list from **Devices**.
+
+After completing these steps, the repeater will be ready for use right away, without having to wait.
 {% endhint %}
 
 ## Repeater Setting (Local Webpage)
