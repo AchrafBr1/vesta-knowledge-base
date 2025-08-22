@@ -106,7 +106,7 @@ The Power Switch models with Router function allow other ZigBee devices to join 
 
 <figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### **Caution**<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
+#### **Caution**<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
 
 {% hint style="info" %}
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.

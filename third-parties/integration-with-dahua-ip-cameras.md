@@ -4,7 +4,7 @@ icon: puzzle-piece
 
 # INTEGRATION WITH DAHUA IP CAMERAS
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 ### 🎯 Introduction - Sync Real Snapshot with Alarm – Dahua Series 3 Cameras

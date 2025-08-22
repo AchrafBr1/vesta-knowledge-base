@@ -136,11 +136,11 @@ The **VESTA HOME / ADV cameras** allow you to receive notifications even while t
 1. Go to the Settings --> Device -->  **Camera settings** in the app SmartHomeSec.
    1.
 
-       <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 2. Locate the option **Chime as Attribute during Disarm**:&#x20;
    1.
 
-       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. Enable this option on the camera.
 
 #### What Happens Next:
@@ -151,11 +151,28 @@ The **VESTA HOME / ADV cameras** allow you to receive notifications even while t
 
 ⚠️ **Important:** In this mode, the camera **will not capture images**. You will only get the push notification. You can then open the live stream manually if you want to check what’s happening.
 
+
+
+{% hint style="success" %}
+**Note:**\
+By default, **VESTA Home cameras** use a filtering system where a person must remain in the scene for **30 seconds** before an event is reported to the panel.
+
+This behavior can be modified by adding the camera to the **SmartPSS software** and adjusting the motion detection "Anti-Dither" setting to **1 second**, allowing for almost immediate event reporting
+
+The Anti-Dither option determines how long a movement must last in the scene to be considered as such.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image.png" alt="The Anti-Dither option"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Additionally, between detections the camera has a **sleep time of 3 minutes**, meaning that continuous motion will only trigger one event every 3 minutes.
+{% endhint %}
+
+{% hint style="success" %}
 #### Coming Soon:
 
 The platform will soon support a new attribute: **Notifications with Image**. Once available, you will not only get the notification but also a snapshot from the camera directly in the alert.
-
-
+{% endhint %}
 
 ***
 
