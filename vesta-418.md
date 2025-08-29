@@ -182,6 +182,40 @@ If a child node device is not yet learned into the Control Panel, “Unknown Typ
 * **Delete All**: Click “**Delete All Child Nodes**”**.** All previously learned-in devices will be removed.
 * **Delete One At A Time**: Click the **Delete** button at the end of the device entry you wish to delete from the Device List. The device will then be deleted.
 
+## How to add a repeater to a repeater?
+
+Follow these simple steps from the panel’s local interface:
+
+1. **Open the panel in your web browser** (same as explained previously).
+2. **Go to the “Panel” tab**.
+   1.
+
+       <figure><img src=".gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+3. **In the repeater section, select “Edit”**.
+   1.
+
+       <figure><img src=".gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
+4. **Copy the RF ID of each repeater** you want to add.
+   1.
+
+       <figure><img src=".gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
+5. **Go to the settings of the main repeater** (the one that will include the others).
+6. **Add each repeater in order**:
+   * Enter the order number (1, 2, 3…).
+   * Paste the RF ID copied before.
+   * Click **“Add child node”**.
+   * The system will show **“Update successfully”**.
+     *
+
+         <figure><img src=".gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
+7. **Refresh the list**: the repeater won’t appear immediately, but by clicking **“Query child node”** it will display.
+
+{% hint style="success" %}
+It will also be possible to do this from SmartHomeSec from the end of September 25 release
+{% endhint %}
+
+
+
 ## RP Connection Map (Home Portal Server: Installer Web/App)
 
 Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<.gitbook/assets/11 (1) (1) (1) (1).jpeg>) will be
