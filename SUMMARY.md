@@ -162,6 +162,7 @@
 * [VESTA-240](vesta-240.md)
 * [VESTA-243](vesta-243.md)
 * [VESTA-245](vesta-245.md)
+* [VESTA-245N 720P](vesta-211n-720p-1.md)
 * [VESTA-248](vesta-248.md)
 * [VESTA-249](vesta-249.md)
 * [VESTA-259](vesta-259.md)
