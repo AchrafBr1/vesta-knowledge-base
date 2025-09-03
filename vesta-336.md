@@ -1,6 +1,6 @@
 # VESTA-336
 
-**SD-32**&#x20;
+**SD-32-HM-SC**
 
 ## **Smoke Detector Series**
 

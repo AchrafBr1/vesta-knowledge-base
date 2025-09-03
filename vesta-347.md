@@ -1,6 +1,6 @@
 # VESTA-347
 
-**VST-892EX**
+**VST-892EX-IL-F1**
 
 ## **Outdoor PIR Motion Sensor Camera**&#x20;
 

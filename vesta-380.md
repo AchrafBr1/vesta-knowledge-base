@@ -1,6 +1,6 @@
 # VESTA-380
 
-**BX-32**
+**BX-32-DS-F1**
 
 ## **Wireless Outdoor Bell Box**&#x20;
 

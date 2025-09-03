@@ -1,6 +1,6 @@
 # VESTA-309
 
-**SDCO-3-RhTHM-ZW-SC-AC-OTA)**
+**SDCO-3-RhTHM-ZW-SC-AC-OTA**
 
 ## **Smoke and Carbon Monoxide Detector**
 

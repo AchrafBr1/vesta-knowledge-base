@@ -1,6 +1,6 @@
 # VESTA-370
 
-&#x20;**VST-894**
+&#x20;**VST-894-IL**
 
 ## **Outdoor PIR Motion Sensor Camera**&#x20;
 

@@ -1,6 +1,6 @@
 # VESTA-381
 
-**DCSV-32**
+DCSV-32-F1-2W
 
 ## **Door Contact / Shock Sensor / Tilt Sensor**&#x20;
 

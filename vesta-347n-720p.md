@@ -1,8 +1,8 @@
 # VESTA-347N-720P
 
-**VST-892EX-HD BUS**
+**VST-892EX-HD-IL-SF1**
 
-## **Outdoor PIR Motion Sensor Camera**&#x20;
+**Outdoor PIR Motion Sensor Camera**&#x20;
 
 VST-892EX-HD is an outdoor passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 1280 x 720 pixels) to the Control Panel upon movement detection.
 

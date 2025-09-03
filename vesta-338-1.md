@@ -4,6 +4,8 @@ icon: star-of-life
 
 # VESTA-338
 
+Mobile Lite R-23
+
 ### Quick Start Mobile Lite VESTA-338 <a href="#puesta-en-marcha-rapida-mobile-lite-vesta-338" id="puesta-en-marcha-rapida-mobile-lite-vesta-338"></a>
 
 <figure><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F4073699981-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnyRwTrjZZiTU2rxbXeIk%252Fuploads%252F0aizl9tcUSUQSBefXlV3%252Fimage.png%3Falt%3Dmedia%26token%3D00f2bdfb-5c03-4493-ae71-082f3d44e6aa&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=216e4f70&#x26;sv=2" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-medica-vesta/sensores/VESTA-338">VESTA-338</a></p></figcaption></figure>

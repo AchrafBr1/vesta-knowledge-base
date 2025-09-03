@@ -1,6 +1,6 @@
 # VESTA-383
 
-**KPT-35N**
+KPT-35N-F1 (SL)
 
 ## **REMOTE KEYPAD with NFC Reader**&#x20;
 

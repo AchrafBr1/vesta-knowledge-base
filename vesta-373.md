@@ -1,6 +1,6 @@
 # VESTA-373
 
-**SR-35**
+**SR-35-F1**
 
 ## **Wireless Indoor Siren**
 
