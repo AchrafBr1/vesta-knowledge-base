@@ -1,6 +1,6 @@
 # VESTA-222
 
-**PSS-29-F1/ PSM-29-F1**
+**PSM-29-F1**
 
 ## **Power Switch Sereis**
 

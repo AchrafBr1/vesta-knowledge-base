@@ -1,6 +1,6 @@
 # VESTA-223
 
-**LMHT-3**&#x20;
+**LMHT-3-F1**
 
 ## **Ambient Light, Humidity and Temperature Sensor**
 

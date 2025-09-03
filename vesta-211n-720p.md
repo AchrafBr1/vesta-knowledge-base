@@ -1,4 +1,4 @@
-# VESTA-211N 720P
+# VESTA-211N-720P
 
 VST-892-HD-IL-SF1 ALK
 
@@ -8,7 +8,7 @@ VST-892-HD-IL-SF1 ALK
 
 ## **Introduction**
 
-VESTA-211N 720p is a passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 1280 x 720 pixels) to the Control Panel upon movement detection.
+VESTA-211N-720p is a passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 1280 x 720 pixels) to the Control Panel upon movement detection.
 
 The PIR Camera is designed to give a typical detection range of 12 meters when mounted at 2.3-2.5 meters above ground. When Pet Immunity function is enabled, the motion sensor camera will not detect pets up to 25kg when mounted at 2.3-2.5 meters above ground. VST-892-HD is also compatible with Climax’s Repeater RP-29/Router RMB-29, which can further extend the RF communication range into hard-to-reach areas.
 
