@@ -2,6 +2,12 @@
 
 **KPT-41N-SFV**
 
+{% hint style="success" %}
+Note:
+
+This Keypad has a bidirectional audio SFV protocol to use with the panel VESTA-447
+{% endhint %}
+
 ## **TWO-WAY VOICE REMOTE KEYPAD with NFC Tag**
 
 <figure><img src=".gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
