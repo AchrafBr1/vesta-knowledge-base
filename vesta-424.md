@@ -10,9 +10,11 @@ This Keypad has a bidirectional audio SFV protocol to use with the panel VESTA-4
 
 ## **TWO-WAY VOICE REMOTE KEYPAD with NFC Tag**
 
-<figure><img src=".gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/VESTA-424.jpg" alt=""><figcaption></figcaption></figure>
 
 ## _**Identifying the Parts**_
+
+<figure><img src=".gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
 
 1. **Siren**
 2. **Speaker**
