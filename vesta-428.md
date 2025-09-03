@@ -50,7 +50,7 @@ VESTA wired detectors represent the best choice for residential and industrial i
 
 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 NOTE: do not cover, partially or completely, the field of vision of the detector NOTE: the pet immune function is not certified IMQ
 {% endhint %}
 

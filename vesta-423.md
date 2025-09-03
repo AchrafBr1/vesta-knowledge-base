@@ -1,6 +1,6 @@
 # VESTA-423
 
-VST-897-IL
+VST-897-IL-SF1-2W
 
 ## PIR Motion Sensor Camera
 

@@ -1,5 +1,5 @@
 ---
-description: RP-32
+description: RP-32-SF1
 ---
 
 # VESTA-418

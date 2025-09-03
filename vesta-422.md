@@ -1,6 +1,6 @@
 # VESTA-422
 
-&#x20;VST-897-BUS Series
+&#x20;VST-897-IL-BUS
 
 ## Wired PIR Motion Sensor Camera
 
