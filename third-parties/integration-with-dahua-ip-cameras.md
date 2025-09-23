@@ -31,7 +31,7 @@ To make sure VESTA receives **the real snapshot of the event** exactly when an I
 
 Make sure the Dahua camera has the latest firmware.
 
-<a href="https://drive.google.com/file/d/1zkh94OKpVQYT1qfo-vdXhGA5WtnERrT5/view?usp=drive_link" class="button primary" data-icon="down-to-bracket">Download Firmware update</a>
+<a href="https://drive.google.com/file/d/1_E4gALQLkPwMRePfONcUMF9Gx5o7KanM/view?usp=drive_link" class="button primary" data-icon="down-to-bracket">Download Firmware update</a>
 {% endstep %}
 
 {% step %}
