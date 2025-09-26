@@ -205,7 +205,7 @@ Please _**DO NOT**_ change the default setting of Dip Switch 2 (N.C.).
 
 The PIR Camera is provided with a masking seal to ignore specific areas that either are not required to be secured or may cause false or nuisance alarms, such as a swaying tree in full foliage.  To mask out a specific area:
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

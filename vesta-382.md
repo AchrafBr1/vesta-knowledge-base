@@ -132,7 +132,7 @@ Use FlexGuard FG-701 Glassbreak Simulator to create glass break sound.
 1. Set the switches on FG-701 to “FLEX” and “TEST” mode. Press the red start button.
 2. Put FG-701 at the desired testing location on the glass point the speaker at IRAGS-35. Close the window covering if it is present.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Strike the glass with a cushioned tool to create a glass striking sound. When FG-701 detects the glass striking sound, it will emit a glass break sound.
 

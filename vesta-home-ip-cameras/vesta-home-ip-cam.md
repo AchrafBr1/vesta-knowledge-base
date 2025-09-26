@@ -8,9 +8,7 @@ icon: camera-cctv
 
 # VESTA Home IP CAM
 
-
-
-<figure><img src="../.gitbook/assets/Immagine2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
 
 
 

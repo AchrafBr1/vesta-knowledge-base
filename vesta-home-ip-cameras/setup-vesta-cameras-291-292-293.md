@@ -3,6 +3,7 @@ description: >-
   The Vesta 291, 292, and 293 series are a range of wireless security cameras
   designed for both indoor and outdoor use. They provide reliable video
   surveillance with easy installation.
+hidden: true
 icon: camera-cctv
 ---
 
