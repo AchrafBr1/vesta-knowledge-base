@@ -224,7 +224,7 @@ When the PIR is powered on, its pet immunity function and sensitivity are determ
 
 <figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **For Glass Break Detector**
 
@@ -264,7 +264,7 @@ Note:
 * Before connecting the PIR motion sensor to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication on the BUS network, enable the Terminal Resistor Jumpers only at both endpoints (the two farthest nodes) to prevent signal reflection and improve communication stability. Do NOT enable jumpers on any intermediate BUS devices --- only the two endpoints should have them enabled.
 
@@ -345,7 +345,7 @@ The PIR & Glass Break Detector can be factory reset to the default pet Immunity 
 * After the installation site is selected, press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check that the detection coverage is adequate.
 * When detection coverage is found to be satisfying, follow the steps described in _**Mounting Method**_ section below to mount the detector.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Mounting Method
 
@@ -353,13 +353,13 @@ The PIR & Glass Break Detector can be factory reset to the default pet Immunity 
 * The base has knockouts where the plastic is thinner and can be broken for mounting purpose (FIG. 1).
 * Five hook holes on the device are for hooking the device to the base (FIG. 2) during installation.
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Surface Mounting:**
 
 1. Loosen the bottom fixing screw and detach the device and the base by sliding the device upwards and pulling the device and the base apart.
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Break through the two surface fixing knockouts from the inside of the base; use the holes as a template and drill holes into the surface to be mounted.
 3. (Optional) Insert the wall plugs if the device is to be fixed onto plaster or bricks.
