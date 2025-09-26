@@ -45,7 +45,7 @@ If necessary, it is possible to reduce the sensitivity of the microwave using th
 4. Close the sensor by hooking the lower part and screwing the upper screw.
 5. During the first two minutes, the sensor self-calibrates the anti-blinding if   &#x20;this is active
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:

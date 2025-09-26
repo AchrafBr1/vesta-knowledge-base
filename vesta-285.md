@@ -4,7 +4,7 @@ MH4936
 
 ## Boiler thermostat with integrated Z-Wave
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -41,15 +41,15 @@ MCO Home MH4936. Boiler thermostat with integrated Z-WAVE. Measurement of interi
 
 Note: A wire saver acts as a splitter for applications that do not include a 24-volt C wire. If your heating/cooling system does not include a C wire,install the wire saver in or near the main unit (furnace, air handler) of your heating/cooling system.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Controlling Type**
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Display
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Functions & Settings
 

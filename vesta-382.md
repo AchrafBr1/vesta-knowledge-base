@@ -207,7 +207,7 @@ When the PIR is powered on, its pet immunity function and sensitivity are determ
 1. On the Panel’s local webpage, go to the Device Edit page by clicking “Edit” of the IR entry.
 2. Press the Test Button once and then the Sensor Setting section will be shown. Enter the value for the desired settings and click OK to confirm.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity, set Sensitivity level to “normal” and Sleep Mode to “optimized”, you can input 06.
 
@@ -234,7 +234,7 @@ Functions for the Glass Break Detector can only be set on the Control Panel’s 
 1. Click “Edit” of the Glass entry on the Control Panel’s webpage.
 2. Press the Test Button once and then the Sensor Setting section will be shown.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Fill in the configuration value according to the table below and click OK to confirm.
 
@@ -258,9 +258,9 @@ Note:
 * After the detector is learnt-in, put the Control Panel into “**Walk Test**” mode; hold the detector in the desired location, and press the Test button to confirm that this location is within the signal range of the Control Panel (refer to Control Panel manual to complete the Walk Test).
 * When you are satisfied that the detector works well in the chosen location, you can proceed with mounting.
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Installation
 
@@ -292,7 +292,7 @@ Please make sure the PIR Camera is properly hooked onto the mounting bracket, so
 
 #### **Surface Mounting**
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Corner Mounting**
 

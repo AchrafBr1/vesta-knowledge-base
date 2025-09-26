@@ -36,7 +36,7 @@ Use the SmartHomeSec app to initialise the camera and **add** it to the system
 
 ### STEP 3: Press + Icon to add a camera
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
 
 ### STEP 4: Press the VESTA/Imou icon
 
@@ -55,7 +55,7 @@ Vantages to add to the equipment:
 * PTZ control for the VESTA-292
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
 
 * Add to the cloud: The camera will be installed using the cloud. The user will see the live video only from the user's app account.
 
@@ -136,11 +136,11 @@ The **VESTA HOME / ADV cameras** allow you to receive notifications even while t
 1. Go to the Settings --> Device -->  **Camera settings** in the app SmartHomeSec.
    1.
 
-       <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 2. Locate the option **Chime as Attribute during Disarm**:&#x20;
    1.
 
-       <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 3. Enable this option on the camera.
 
 #### What Happens Next:

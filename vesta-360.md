@@ -176,7 +176,7 @@ If there is no response from the Panel after the press of test button, it means 
 * The distance between the Door Contact and the magnet should be no more than 15 mm when the door is closed.
 * Mount the device as high as possible.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Mounting as a Shock Sensor:**
 
