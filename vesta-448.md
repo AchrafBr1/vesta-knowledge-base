@@ -12,7 +12,7 @@ The wired keypad can be mounted on either a flat surface or a wall with screws, 
 
 <figure><img src=".gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -97,14 +97,14 @@ When KPT-35N-BUS is hardwired to Control Panel, 13.5V (typical) power supply can
 * Loosen KPT-35N-BUS’s “B” terminal and the Control Panel’s “485B” terminal. Connect the “B” terminal to the “485B” terminal and tighten both terminal screws.
 * Power on the Control Panel and wait for the “KPT-35N-BUS” to be shown on the wired keypad’s LCD screen.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The keypad terminal can be hardwired to the Control Panel. Up to four KPT-35N-BUS can be connected in series. The maximum wire cable length depends on the wire gauge and the total power consumption of all wired devices, for example: a maximum of 3000ft with 22-AWG cable for one KPT-35N-BUS; a maximum of 1500ft with 22-AWG cable for 2 KPT-35N-BUSs; or a maximum of 1000ft with 22-AWG cable for 3 KPT-35N-BUS.
 * In the picture below, KPT-35N-BUS-**A** and KPT-35N-BUS-**B** are wired correctly in series, as the total wire distance of the two keypads from the Control Panel is within 1500ft. For KPT-35N-BUS-**C** in the picture below, it is **NOT** wired correctly, as it is farther than 1000ft from the Control Panel.
 * For optimal communication on the BUS network, enable the Terminal Resistor Jumpers only at both endpoints (the two farthest nodes) to prevent signal reflection and improve communication stability. Do not enable jumpers on any intermediate BUS devices—only the two endpoints should have them enabled.
 * In the example below, the Control Panel and the KPT-35N-BUS-**B** are the two farthest endpoints. Please enable the J53 Jumper Switch on the Control Panel and the terminal resistor jumper on the KPT-35N-BUS-**B**.
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Learning
 
@@ -114,19 +114,19 @@ Please follow the steps below to learn the keypad into the Hybrid Panel.
 
 **Step 2.** On the keypad’s LCD, choose a located area and a free zone to add to the Panel.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Enter the User PIN Code of the located are&#x61;**.**
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Enter Installer Code. (Factory Default: **7982**)
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** The keypad is added to the located area and the zone you chose.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### User PIN Code Management
 
@@ -136,7 +136,7 @@ A user PIN code must be unique, even across areas. Therefore, when a PIN code is
 
 For example, if you assign <mark style="color:red;">**1234**</mark> to both Area 1 and Area 2 on **PIN Code (NEW)** page, the system will update the PIN to <mark style="color:blue;">**01**</mark><mark style="color:red;">**1234**</mark> for Area 1 and <mark style="color:blue;">**02**</mark><mark style="color:red;">**1234**</mark> for Area 2 on the **PIN Code** page.
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 A PIN Code assigned to <mark style="color:blue;">multiple areas</mark> must be limited to <mark style="color:blue;">4 digits</mark> in **PIN Code (NEW)** page, as the system will automatically add the area number as the first two digits in **PIN (Code)** page.
 
@@ -219,7 +219,7 @@ There are 2 ways to change mode of multiple areas with a shared user code.
 
 <div align="left"><figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
 
-3. Use <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">  and  ![](<.gitbook/assets/image (18).png>)  keys to scroll the display.&#x20;
+3. Use <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">  and  ![](<.gitbook/assets/image (18).png>)  keys to scroll the display.&#x20;
 
 Use the “＊” key to select the area(s) and then press the **OK** key to confirm your selection.
 
