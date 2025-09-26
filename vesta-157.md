@@ -4,6 +4,8 @@
 
 ## **Temperature Sensor**&#x20;
 
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
 TS-29 is a wireless temperature sensor. It transmits temperature condition to the Control Panel every 30 minutes.
 
 ### _**Part Idenfication**_

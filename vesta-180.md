@@ -2,7 +2,9 @@
 
 **SCS-1-ZBS**&#x20;
 
-## **Shutter Control Switch**
+## **Shutter Control Switch (Zigbee)**
+
+<figure><img src=".gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

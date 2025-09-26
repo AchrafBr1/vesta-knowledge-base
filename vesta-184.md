@@ -2,7 +2,9 @@
 
 **RS-23ZBS**&#x20;
 
-## **Room Sensor** V:R3
+## **Room Sensor** V:R3 (Zigbee)
+
+<figure><img src=".gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

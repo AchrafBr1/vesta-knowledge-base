@@ -4,6 +4,8 @@
 
 ## **Z-Wave Relay Controller**&#x20;
 
+<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 PRL1-ZW-AC is a Z-Wave Relay Controller that can be connected to wired devices and set to either Normal Open (N.O.) or Normal Close (N.C.) status. After joining Z-Wave network, the Relay Controller can be controlled via Z-Wave network to activate connected devices. Z-Wave is a wireless communication protocol that uses a low-power RF radio.
@@ -49,13 +51,13 @@ To make wire connection, push the wire into the terminal and hold the wire in pl
 * Humidity: Up to 85% non-condensing
 * Dimension: 71.1mm x 49mm x 26mm
 
-## <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Installation Environment**&#x20;
+## <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Installation Environment**&#x20;
 
 * The Relay Controller should be installed indoors in a dry location.
 * It is recommended to install the device in a fire resistant plastic gangbox.
 * Do not install the device in a metal gangbox for optimization of RF range.
 
-## <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Caution** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
+## <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Caution** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * To prevent electrical shock and/or equipment damage, disconnect electrical power at the main fuse or circuit breaker before installation and maintenance.

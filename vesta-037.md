@@ -4,7 +4,7 @@
 
 ## **Acoustic Glass Break Detector**&#x20;
 
-<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Glass Break Detector detects the high frequency sound emitted by glass breakage and transmits signal to notify the alarm system control panel when it is triggered.
 

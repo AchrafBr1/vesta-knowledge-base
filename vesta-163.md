@@ -4,6 +4,8 @@
 
 ## **Z-Wave Power Relay Switch**
 
+<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 The Power Relay Switch is capable of receiving wireless signals from the coordinator in the Z-Wave network to toggle On/Off of appliances that are attached to it.

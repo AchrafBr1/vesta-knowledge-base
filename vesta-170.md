@@ -2,7 +2,9 @@
 
 **PRLM-CH3-AC-ZW**&#x20;
 
-## **Z-Wave Relay Switch**
+## Relay Controllers / 3-Channel Z-Wave Relay Switch.
+
+<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

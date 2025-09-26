@@ -4,7 +4,7 @@ PB-15
 
 ## Panic Button&#x20;
 
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Panic Button is used to activate (or deactivate) a panic alarm.
 

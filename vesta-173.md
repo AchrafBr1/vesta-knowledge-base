@@ -2,7 +2,9 @@
 
 **RSB-1ZBS**
 
-## **RGBW Smart Bulb**
+## **RGBW Smart Bulb (Zigbee)**
+
+<figure><img src=".gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

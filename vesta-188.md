@@ -2,7 +2,9 @@
 
 **UPIC-5ZBS**&#x20;
 
-## **Infrared Universal Remote Control**
+## **Infrared Universal Remote Control (Zigbee)**
+
+<figure><img src=".gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

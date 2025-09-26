@@ -4,6 +4,8 @@
 
 ## **Door Contact**&#x20;
 
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
 The Door Contact is used to detect the opening and closing of doors and windows. Typically the Door Contact is fixed to the&#x20;door frame and the actuating magnet is fixed to the door. When the door opens, the magnet is moved away from the Door&#x20;Contact and an internal magnetic switch will be activated causing the Door Contact to transmit an alarm.\
 A PCB tamper switch protects the enclosure from being opened or being removed from the mounting surface and also alert&#x20;you to signal communication problems and low battery situations.\
 The Door Contact features extension terminal which can be used to connect to a N.C. (Normal Close) device or roller&#x20;shutter to provide greater flexibility.

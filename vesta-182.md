@@ -2,7 +2,9 @@
 
 **PRLM-CH3-AC-ZBS(R)**
 
-## **ZigBee Relay Switch**
+## Relay Controllers / ZigBee 3-Channel Relay Switch
+
+<figure><img src=".gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 

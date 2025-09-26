@@ -4,6 +4,8 @@ RC-29
 
 ## Remote Controller&#x20;
 
+<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
 ### _**Identifying the parts**_

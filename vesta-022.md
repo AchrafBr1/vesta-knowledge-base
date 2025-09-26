@@ -4,7 +4,7 @@ SD-8-EL / SD-8-EL-F1&#x20;
 
 ## Smoke Detector
 
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

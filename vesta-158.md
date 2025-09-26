@@ -2,7 +2,9 @@
 
 **TAS-9/TAS-9E**
 
-## **Temperature Sensor**
+## TEMPERATURE SENSOR WITH EXTERNAL PROBE VESTA
+
+<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 TAS-9E is temperature wireless sensor device. It transmits temperature condition to the Control Panel every 30-50 minutes and alarm signal when temperature exceeds or drops below normal operation range set by Dip Switch.
 

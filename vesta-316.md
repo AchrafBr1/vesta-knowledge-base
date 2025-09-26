@@ -6,6 +6,10 @@ icon: star-of-life
 
 Mobile Lite-R29
 
+## VESTA Portable Personal Emergency System
+
+<figure><img src=".gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+
 ## **1.Package Content**
 
 ![](<.gitbook/assets/1 (84).png>)

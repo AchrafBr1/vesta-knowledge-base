@@ -4,7 +4,7 @@ SMH-Combo
 
 ## KNX Integration Module
 
-<figure><img src=".gitbook/assets/image (37) (1).png" alt=""><figcaption><p>VESTA-419N</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (37) (1) (1).png" alt=""><figcaption><p>VESTA-419N</p></figcaption></figure>
 
 ## Manual & datasheet
 

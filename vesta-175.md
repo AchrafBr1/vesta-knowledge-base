@@ -2,7 +2,9 @@
 
 **PRS5-ZBS(R)/PRM5-ZBS(R)**
 
-## **Power Relay Switch Series**
+## **Power Relay Switch Series (Zigbee)**
+
+<figure><img src=".gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

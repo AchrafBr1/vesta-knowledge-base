@@ -2,7 +2,9 @@
 
 **LMHT-1ZBS**&#x20;
 
-## **Ambient Light, Humidity and Temperature Sensor**
+## **Ambient Light, Humidity and Temperature Sensor (ZIgbee)**
+
+<figure><img src=".gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

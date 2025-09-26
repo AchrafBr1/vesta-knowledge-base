@@ -4,6 +4,8 @@
 
 ## **Remote Controller**
 
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
 ![](<.gitbook/assets/1 (57).jpeg>)

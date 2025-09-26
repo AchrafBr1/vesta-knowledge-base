@@ -2,6 +2,8 @@
 
 ## **Air Quality Sensor (AQS-2-ZW)**
 
+<figure><img src=".gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
+
 The Air Quality Sensor AQS-2 is a Z-Wave™ indoor air quality sensor that aims to detect and monitor CO2 concentration. The Air Quality Sensor is compatible only with Z-Wave Gateway/Control Panel. Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be routed to their destination via intermediary “listening” Z-Wave products.
 
 ## **Parts Identification**

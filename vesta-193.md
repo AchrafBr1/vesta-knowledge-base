@@ -4,6 +4,12 @@ icon: star-of-life
 
 # VESTA-193
 
+MOBILE LITE- R3-QT
+
+## VESTA Portable Personal Emergency System
+
+<figure><img src=".gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+
 ## Mobile Lite R3-QT Quick Start Guide
 
 ## **Package Content**

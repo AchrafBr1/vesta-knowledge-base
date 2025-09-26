@@ -4,6 +4,8 @@
 
 ## **REMOTE KEYPAD with NFC Tag**
 
+<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
 ### _**Identifying the Parts**_
 
 ![](<.gitbook/assets/1 (58).jpeg>)
@@ -21,7 +23,7 @@
    1. Enter Keypad PIN Code + <img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">Key to enter Test Mode.
 8. **Backlit Pound (＃) Key**
 9. **Backlit (OK) Key**
-10. &#x20;**Backlit Restore (** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">) **Key**
+10. &#x20;**Backlit Restore (** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">) **Key**
     1. Press this key in stand-by mode to inquire the system mode.
 11. **Away Arm Key**
 12. **Backlit NFC Sensor Zone**

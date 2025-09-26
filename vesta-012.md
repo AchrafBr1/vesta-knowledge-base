@@ -8,7 +8,7 @@ KPT-39N-F1
 
 ## REMOTE KEYPAD WIRELESS
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## QUICK GUIDE
 

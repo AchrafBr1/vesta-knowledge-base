@@ -4,6 +4,8 @@
 
 ## **Shutter Control**
 
+<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
 ### **Introduction**
 
 SCM-8ZW is a Z-Wave Shutter Control. The user can control the SCM via Z-Wave network at a remote distance or manually by linking a switch to the SCM.

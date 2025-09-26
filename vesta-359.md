@@ -83,7 +83,7 @@ The extension terminal may be useful for the following situations:
 * Any dry contact devices with an N.C. (Normal Closed) or N.O. (Normally Open) loop can be connected to the extension terminal making the Wired Door Contact serve as a Universal Transmitter.
 * Multiple dry contact devices can be wired together with the Wired Door Contact, as shown in the picture below.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Power Supply**_
 

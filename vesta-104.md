@@ -4,6 +4,8 @@
 
 ## **Thermostat**
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 **Introduction**
 
 TMST-15ZW is a battery powered thermostat. It is designed to be incorporated into household heating and cooling system for home environment control. The Thermostat can be operated manually using the LCD screen and buttons, or accessed remotely via Z-Wave coordinator. It features cooling and heating modes with temperature set point and automatic schedule for you to control your home environment easily.

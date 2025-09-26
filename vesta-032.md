@@ -4,7 +4,7 @@ SDCO-1-F1 Series
 
 ## Smoke and Carbon Monoxide Detector
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

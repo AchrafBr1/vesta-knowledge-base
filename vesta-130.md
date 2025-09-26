@@ -2,6 +2,10 @@
 
 **WEZ-12/24/36/48-BUS Expansion Module**
 
+## 12-zone module Expansion for Vesta hybrid control panels
+
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction
 
 This installation guide shall be used in conjunction with the Hybrid Panel’s user’s manual, to which the WEZ model is connected to.

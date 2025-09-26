@@ -2,7 +2,9 @@
 
 **TMST-15-ZBS**&#x20;
 
-## **Thermostat**
+## Zigbee Smart Thermostat
+
+<figure><img src=".gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

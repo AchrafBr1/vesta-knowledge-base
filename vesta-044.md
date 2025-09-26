@@ -4,7 +4,7 @@ UPIC-5ZW&#x20;
 
 ## Infrared Universal Remote Control
 
-<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Introduction**
 

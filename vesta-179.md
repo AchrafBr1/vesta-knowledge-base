@@ -2,7 +2,9 @@
 
 **SCM-5ZBS**
 
-## **Shutter Control**&#x20;
+## **Shutter Control  (Zigbee)**
+
+<figure><img src=".gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 

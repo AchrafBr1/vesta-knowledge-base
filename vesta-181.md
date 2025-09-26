@@ -4,6 +4,8 @@
 
 ## **ZigBee Relay Toggle Switch**&#x20;
 
+<figure><img src=".gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 PRL-1ZBS is a ZigBee Relay Toggle Switch. The Relay Toggle Switch can be connected to wired device and set to either Normal Open (N.O.) or Normal Close (N.C.) status. After joining ZigBee network, the Relay Toggle Switch can be controlled via ZigBee network to activate connected devices.

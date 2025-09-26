@@ -4,7 +4,7 @@
 
 ## &#x20;**Recessed Door Contact**
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Recessed Door Contact is a small Door Contact that is installed within the door frame and door and concealed for protection. The Door Contact monitors door opening/closing. When the door opens, the magnet moves away from the Door Contact, causing the Door Contact to transmit a door open signal to the Control Panel. When the door closes and the Door Contact detects the magnet again, it will transmit a door close signal.
 

@@ -4,6 +4,8 @@
 
 ## **Shutter Control Switch**
 
+<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 SCS-1-ZW is a Z-Wave Three-Button Shutter Control Switch designed to control a group of pre-programmed home automation devices by simply pressing the scenario buttons under the same Z-Wave network.

@@ -2,7 +2,9 @@
 
 **PSS-29ZBS(R) / PSM-29ZBS(R)**&#x20;
 
-## **Power Switch Series**
+## ZigBee Power Meter / Plug Switch
+
+<figure><img src=".gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

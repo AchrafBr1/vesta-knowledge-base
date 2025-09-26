@@ -2,15 +2,15 @@
 
 ## CERTIFICATE
 
-
-
 {% hint style="success" %}
 [GRADE 2: EN50131](certificates/vesta-177-vesta-176.md)
 {% endhint %}
 
-## MANUAL GUIDE
-
 ## **PIR Motion Sensor IR-35-2W / VESTA-177 Series**
+
+<figure><img src=".gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+
+## MANUAL GUIDE
 
 ## **Introduction**
 
