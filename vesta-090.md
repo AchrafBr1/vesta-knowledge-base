@@ -4,9 +4,11 @@
 
 ## **Care Watch**
 
-<div align="left"><figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src=".gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Parts Identification**_
+
+<div align="left"><figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### _**Watch Crown**_
 

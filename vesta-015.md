@@ -4,6 +4,8 @@
 
 ## **Dome PIR Motion Sensor**
 
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 The Dome PIR Motion Sensor is designed to be mounted on the ceiling to provide a 360 ∘detection coverage without blind spots to pick up movements within an assigned area and signal the Control Panel to activate the alarm if an intruder crosses its path of detection.
 
 The PIR consists of a two-part design made up of a PIR main body and a back cover for wall mounting. The main body contains all the electronics and optics, and the base provides a means of installation.

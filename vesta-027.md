@@ -4,6 +4,8 @@
 
 ## **Hardwire to Wireless Converter**&#x20;
 
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
 HWC-1B is a wired-to-wireless converter that converts existing wired sensors of security alarm systems to wireless technology. HWC-1B can be installed at a preferable location where it can send reports to the Control Panel easily without any more concern about traditional wired scenarios. To achieve this, the existing wired sensors are connected to the input zones of the HWC-1B, so there is no need to replace wired devices with individual transmitters.
 
 The easy-to-use Converter consists of 9 input zones, and each can be connected to existing security sensors by wiring, e.g. PIR sensor, door contact, smoke detector, water sensor, fire sensor, CO sensor, gas detector, heat detector, and glass break detector, etc. This saves on installation costs and provides homes and businesses with increased convenience and efficient functionality for users.

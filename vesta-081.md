@@ -4,6 +4,8 @@
 
 ## **Voice Reach Talking Pendant**&#x20;
 
+<figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+
 WTRVS-15-FS is a small and lightweight Voice Reach Talking Pendant with a built-in fall sensor. The pendant allows immediate post-alarm voice follow up after an emergency call or fall detection. With a simple press of the button or after a fall detection, it can open two-way voice communication channel between the user and the Central Monitoring Station.
 
 The Voice Reach Talking Pendant provides high-clarity two-way communication via Digital Enhanced Cordless Telecommunications (DECT) protocol. The device also has power saving feature for the panel by adopting RF technology to transmit periodic supervisory signals and low battery signal and to the Panel.
@@ -87,7 +89,7 @@ Step 4. Refer to Control Panel manual to complete learning process.
 
 
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. When a fall occurs, it is best if the fall sensor can touch the ground.
 

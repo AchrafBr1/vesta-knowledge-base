@@ -4,6 +4,8 @@ WLS-23
 
 ## Water Leak Sensor&#x20;
 
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction
 
 WLS-23 is a Water Leak Sensor. It is capable of sending wireless signals to the Control Panel upon water detection. The Water Sensor can be placed on the ground, or mounted on the wall using the extension cable to detect water leakage or flood condition. The Water Sensing Cable and built-in water sensing probes can detect water leakage or flood condition. It can be placed on the ground, or mounted on the wall and further extended by connecting to another water sensing cable to improve detection range.

@@ -4,6 +4,8 @@ IR-16SL-F1
 
 ## **PIR Motion Sensor**
 
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 Our Digitalized Adaptive Signal Processor algorithm enables this PIR to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its path of detection.
 
 The PIR consists of a two-part design made up of a cover and a base. The cover contains all the electronics and optics and the base provides a means of fixing. The base has knockouts to allow mounting on either a flat surface or in a corner situation with a triangular bracket for corner mounting.

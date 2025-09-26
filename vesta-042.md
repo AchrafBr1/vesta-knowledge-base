@@ -4,6 +4,8 @@ PSM-29ZW / PSS-29ZW
 
 ## Power Switch Series
 
+<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 The Power Switch series includes the following models:

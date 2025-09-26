@@ -4,6 +4,8 @@
 
 ## &#x20;**Voice Extender**
 
+<figure><img src=".gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+
 VRCP-DECT is a Voice Extender that enables users to summon emergency help with voice recognition command or a single button press. VRCP-DECT has built-in voice recognition and can activate an emergency call to CMS by preset vocal commands or keywords. It is suitable for senior and medical care, multi-storied homes, and larger premises.
 
 ## _**Identifying the parts:**_

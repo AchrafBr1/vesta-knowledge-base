@@ -2,7 +2,9 @@
 
 **RS-23**
 
-## **Room Sensor**&#x20;
+## VESTA temperature and humidity sensor
+
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ### Introduction
 

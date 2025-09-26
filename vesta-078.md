@@ -4,6 +4,8 @@
 
 ## **Emergency Pendant/Wrist Transmitter**
 
+<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
 _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 
 <figure><img src=".gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>

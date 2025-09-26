@@ -4,6 +4,8 @@ IRC-29
 
 ## Curtain PIR Motion Sensor&#x20;
 
+<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+
 The PIR detects infrared signature to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its’ path of detection.
 
 The PIR consists of a two-part design made up of a cover and a base. The PIR contains all the electronics and optics and the base provides a means of fixing. The base has knockouts to allow mounting on a flat surface or on the ceiling.

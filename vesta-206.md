@@ -4,7 +4,7 @@ PRL-3ZW-AC&#x20;
 
 ## &#x20;**Z-Wave Relay Toggle Switch**&#x20;
 
-<figure><img src=".gitbook/assets/image (58).png" alt="" width="375"><figcaption><p>VESTA-206</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (58) (1).png" alt="" width="375"><figcaption><p>VESTA-206</p></figcaption></figure>
 
 ## **Introduction**
 

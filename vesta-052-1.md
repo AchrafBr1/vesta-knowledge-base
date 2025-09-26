@@ -4,6 +4,8 @@
 
 ## **PIR Occupancy/Vacancy Sensor**
 
+<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
 **Introduction**
 
 POVS-1-ZW is a Z-Wave Passive Infrared Motion Sensors. It is capable of sending wireless signals to the coordinator in the Z-Wave network upon movement detection. Z-Wave is a wireless communication protocol that uses a low-power RF radio. The Z-Wave Passive Infrared Motion Sensors allows access to the “S2 Unauthenticated” class and supports Z-Wave SmartStart inclusion as well as classic inclusion.
@@ -165,7 +167,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 * The PIR’s movement detection function is directional. It is more sensitive to movement from side, and less sensitive to vertical movement from top to bottom. Use the location of the bottom magnet as a reference to determine the horizontal and vertical direction of the PIR.
 * The PIR base has 2 mounting holes used for installation on surface with fixing screws and plugs provided. The base also has magnet within. One side of the base has an opening to mark the front side of the base. The main body should be placed on the base with the lens facing the front opening to ensure PIR’s detection coverage is not obstructed by the base.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Use the 2 mounting holes on PIR base as template, drill holes in the surface.
 2. Insert the wall plugs if fixing it into plaster or brick.

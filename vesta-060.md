@@ -4,6 +4,8 @@ DCSV-23
 
 ## Door Contact / Shock Vibration Sensor&#x20;
 
+<figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
 DCSV-23 is a Door Contact / Shock Sensor is capable of sending a door open signal to the Control Panel upon detection of door/window opening or shock/vibration detection.
 
 The Door Contact / Shock Vibration Sensor design consists of a cover and base. The cover contains all electronics and the base provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening and/or removal.
@@ -12,7 +14,7 @@ The Door Contact / Shock Vibration Sensor design consists of a cover and base. T
 
 ![DCSV-23ZBS](<.gitbook/assets/0 (22).jpeg>) &#x20;
 
-<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 1. **LED Indicator / Test Button**
 

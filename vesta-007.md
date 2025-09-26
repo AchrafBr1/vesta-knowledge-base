@@ -4,6 +4,8 @@ VST-862-IL-F1
 
 ## PIR Motion Sensor Camera
 
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction
 
 VST-862 is a passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 640 x 480 pixels) to the Control Panel upon movement detection.

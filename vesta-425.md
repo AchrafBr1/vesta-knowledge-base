@@ -4,4 +4,4 @@
 
 ## QALLMAX 160-zone radio touch panel
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>

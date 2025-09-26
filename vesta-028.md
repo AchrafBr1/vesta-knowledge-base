@@ -4,6 +4,8 @@ DIO-52-B
 
 ## DI/DO Module&#x20;
 
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction
 
 DIO-52-B is a DI/DO module that integrates wired devices into wireless networks to create automated responses and enhances security and convenience.&#x20;

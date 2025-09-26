@@ -4,6 +4,8 @@ SD-8-EL / SD-8-EL-F1&#x20;
 
 ## Smoke Detector
 
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction
 
 The SD-8-EL / SD-8-EL-F1 Smoke Detector is designed to be mounted on the ceiling or on top of stairwells where smoke would concentrate to raise the alarm in a timely manner and protect your home from fire hazards.

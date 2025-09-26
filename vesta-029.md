@@ -4,6 +4,8 @@
 
 ## **Emergency Pendant / Wrist Transmitter**
 
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
 Easy & Exchangeable Belt / Neck Cord styles
 
 Long battery life

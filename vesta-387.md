@@ -12,7 +12,7 @@ The PWB-1-BUS is an auxiliary power supply module that can be connected in the d
 
 
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
 
 1. BUS Connection Terminals to the **Hybrid Pane**l (4 wire: <mark style="color:red;">**V**</mark>, G, A, B) It is also important to connect the positive of the VESTA control panel to the VESTA-364N.
 2. BUS Connection Terminals to powered BUS device (4 wire: V, G, A, B)
@@ -129,7 +129,7 @@ Please refer to the BUS device connection examples (VST-892-BUS & DC-23-BUS) bel
 It is very **important** in the **VESTA-364N power supply to connect** the <mark style="color:red;">**positive**</mark> input to the **hybrid control panel**, this will allow greater control over the power supply.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
 
 {% hint style="warning" %}
 **DEPRECATED**&#x20;

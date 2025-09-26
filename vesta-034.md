@@ -4,6 +4,8 @@
 
 ## **Garage Tilt Sensor**&#x20;
 
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
 The Garage Tilt Sensor monitors bi-direction tilting of overhead garage door. The Garage Tilt Sensor is fixed to the monitored device frame. When the door is open and the detected surface is tilted less than or equals to 35°(+-10) degrees, or when the door is closed and the detected surface is tilted more than or equals to 55°(+-10) degrees, the Garage Tilt Sensor will transmit alarm signal to the Control Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
 
 The Garage Tilt Sensor design consists of a cover and base. The cover contains all electronics and the base provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening and/or removal.

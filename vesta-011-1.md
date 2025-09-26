@@ -4,9 +4,11 @@
 
 ## **REMOTE KEYPAD** WIRELESS
 
-<figure><img src=".gitbook/assets/0 (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Parts Identification**_
+
+<figure><img src=".gitbook/assets/0 (35).png" alt=""><figcaption></figcaption></figure>
 
 1. Arm Key
 2. Home Key

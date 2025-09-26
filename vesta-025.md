@@ -4,6 +4,8 @@ TSP-3&#x20;
 
 ## Touchscreen Keypad&#x20;
 
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction <a href="#toc61269503" id="toc61269503"></a>
 
 The Touchscreen Keypad provides easy-to-use, on-premises security system control for enhanced flexibility and convenience.

@@ -2,7 +2,9 @@
 
 **JLPD**
 
-## **Jewelry Necklace Pendant**
+## **Jewellery Necklace Pendant**
+
+<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 Elegant and compact, the Jewelry Necklace Pendant is designed to be worn by seniors as they move on the premises. When an emergency arises, the user can summon help with one simple button press.
 

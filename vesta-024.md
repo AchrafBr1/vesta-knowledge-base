@@ -4,6 +4,8 @@
 
 ## **Outdoor PIR Motion Sensor Camera**
 
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
 VST-862EX is an outdoor passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 640 x 480 pixels) to the Control Panel upon movement detection.
 
 Featuring night illumination capability, with UV resistant housing, and waterproof to IP45 standard, VST-862EX is ideal for backyards, lawns, gates, outdoor corridors and hallways.

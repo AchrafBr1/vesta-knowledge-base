@@ -4,6 +4,8 @@
 
 ## **Wandering Prevention Door Contact**
 
+<figure><img src=".gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+
 WADC-1 is a door contact that combines PIR sensors to monitor openings of the door and detect the movements around it. Designed especially for those who are suffering from dementia and prone to wander, WADC-1 will transmit signals to the control panel to notify the caregiver when the user opens the door, moving from inside of the room to the outside.
 
 WADC-1 has two adjustable sensitivity levels that further offer convenience for usages. <mark style="background-color:yellow;">When mounted at a height of 2.1\~2.3 meters above the ground, the PIR sensors each has the coverage pattern of 3 x 1 meters at ground level.</mark>
@@ -28,13 +30,13 @@ Press the Test button to transmit learning code or enter test mode for 3 minutes
 
 **Jumper On**
 
-<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is inserted connecting the two pins
 
 **Jumper Off**
 
-<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or **“parked”** on one pin.
 
@@ -47,13 +49,13 @@ The jumper link is removed or **“parked”** on one pin.
 
 **Jumper On**
 
-<div align="left"><figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is inserted connecting the two pins
 
 **Jumper Off**
 
-<div align="left"><figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or **“parked”** on one pin.
 
@@ -64,13 +66,13 @@ The jumper link is removed or **“parked”** on one pin.
 
 **Jumper On**
 
-<div align="left"><figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-<div align="left"><figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -79,7 +81,7 @@ The jumper link is removed or “**parked**” on one pin.
 
 **7.Door Open Direction Jumper Switch (JP5)**
 
-<div align="left"><figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Jumper On**
 
@@ -87,7 +89,7 @@ The jumper link is inserted, connecting the two pins.
 
 **Jumper Off**
 
-<div align="left"><figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The jumper link is removed or “**parked**” on one pin.
 
@@ -172,11 +174,11 @@ In Normal operation mode, the LED Indicators will flash in the following situati
 * The magnet should be installed on the door on the opposite side of the internal magnet switch location of door contact.&#x20;
 * The WADC-1 has 2 rib-marks on one side (refer to figure), marking the internal magnet switch location. The magnet must align with the rib-mark side of the WADC-1 as shown in figure below.
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="background-color:green;">If the door where the magnet is installed is designed to be opened outward, please set</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**JP5 to OFF**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">(</mark><mark style="background-color:green;">**Ensure JP4 is set to ON for the setting to be effective**</mark><mark style="background-color:green;">). The distance between the WADC-1 and the magnet should be no more than 5</mark> <mark style="background-color:green;">mm when the door is closed.</mark>
 
-<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="background-color:green;">If the door where the magnet is installed is designed to be opened inward, please set JP5 to ON (Ensure JP4 is set to ON for the setting to be effective). The distance between the WADC-1 and the magnet should be no more than 5 mm when the door is closed.</mark>
 

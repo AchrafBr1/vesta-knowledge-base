@@ -4,6 +4,8 @@ KP-15-(NT)/ KP-15-(NT)-F1
 
 ## Remote Keypad WIRELESS
 
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 The Remote Keypad includes the following models:
 
 * KP-15 / KP-15-F1: Remote Keypad with Tamper Switch

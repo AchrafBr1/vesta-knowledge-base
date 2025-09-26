@@ -4,6 +4,8 @@
 
 ## **BLUETOOTH REMOTE KEYPAD**
 
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 KPT-39N-BLE is a Remote Keypad with Bluetooth and NFC reader. It is designed to have quick access control of the System Control Panel via User PIN Code, NFC label, or by approaching the keypad with the paired smartphone to disarm the system. The Keypad can send wireless signals to and receive wireless signals from the Control Panel.
 
 The Remote Keypad can be mounted on a flat surface or wall with screws. It also has a tamper protection switch, which will be activated upon any unauthorized attempt to open the lid or to detachthe  keypad from the mounting surface.

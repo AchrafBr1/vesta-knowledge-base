@@ -4,6 +4,8 @@ SVGS-5
 
 ## &#x20;Shock, Vibration & Glass Break Sensor
 
+<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
 SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wireless signals to the Control Panel upon detection of window glass break or shock/vibration.
 
 ## Parts Identification

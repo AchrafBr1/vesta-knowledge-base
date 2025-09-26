@@ -4,6 +4,8 @@
 
 ## **Slim Door Contact**
 
+<figure><img src=".gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+
 The Slim Door Contact monitors the opening/closing of specified devices (e.g., doors or windows). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch and causing the Door Contact to transmit an alarm signal to the Control Panel. The Door Contact also has the capability of communicating signal problems along with low battery situations.
 
 ## **Identifying the parts**

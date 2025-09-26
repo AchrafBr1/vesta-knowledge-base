@@ -2,7 +2,9 @@
 
 **TG-15N F1**
 
-## **Tag Reader**&#x20;
+## **Tag Reader indoor/outdoor**
+
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Identifying the parts:**_
 

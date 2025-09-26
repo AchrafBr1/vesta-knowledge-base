@@ -4,6 +4,8 @@
 
 ## **Shutter Control**
 
+<figure><img src=".gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+
 **Introduction**
 
 SCM-8 is a Roller Shutter Control that provides convenient operation, remotely roll up, down, or stop of motorized roller shutters.

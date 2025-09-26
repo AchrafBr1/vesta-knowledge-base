@@ -4,6 +4,8 @@ UPIC-5ZW&#x20;
 
 ## Infrared Universal Remote Control
 
+<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
 * **Introduction**
 
 UPIC5-ZW is a Z-Wave Infrared Remote Control. It is designed to operate your home appliances by transmitting IR signal. The IR Remote Control is capable of learning IR signal transmitted from the appliance’s remote control. After learning the signal, you can remotely control the IR Remote Control via Z-Wave network to send signal to appliance without using the remote control manually.

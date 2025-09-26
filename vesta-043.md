@@ -4,6 +4,8 @@ WSS-4E-ZW&#x20;
 
 ## Smart Scenario Switch
 
+<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
 * **Introduction**
 
 WSS-4E-ZW is a Z-Wave Four-Button Scenario Switch designed to control a group of pre-programmed home automation devices by simply pressing the scenario buttons under the same Z-Wave network.

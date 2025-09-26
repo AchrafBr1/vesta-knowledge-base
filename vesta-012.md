@@ -8,6 +8,8 @@ KPT-39N-F1
 
 ## REMOTE KEYPAD WIRELESS
 
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 ## QUICK GUIDE
 
 <figure><img src=".gitbook/assets/VESTA-012N[1].jpg" alt="" width="225"><figcaption><p>VESTA-012 - KPT-39N-F1</p></figcaption></figure>

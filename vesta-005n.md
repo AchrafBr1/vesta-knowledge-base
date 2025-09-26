@@ -4,6 +4,8 @@
 
 ## **AC Powered Indoor Siren**
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 SRV-23B is an AC-powered indoor siren and doorbell chime with battery backup. With built-in speaker, SRV-23B is able to emit door bell chimes, entry/exit beeps, sound an alarm to attract attention, and play voice prompt messages to notify users of current system status.
