@@ -136,11 +136,11 @@ The **VESTA HOME / ADV cameras** allow you to receive notifications even while t
 1. Go to the Settings --> Device -->  **Camera settings** in the app SmartHomeSec.
    1.
 
-       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. Locate the option **Chime as Attribute during Disarm**:&#x20;
    1.
 
-       <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 3. Enable this option on the camera.
 
 #### What Happens Next:

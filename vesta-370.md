@@ -327,11 +327,11 @@ Please make sure the PIR Camera is properly hooked to the mounting bracket, so t
 
 **Corner mounting**
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. **(Optional Step)** On the top of the PIR Camera, fit the stabilizing screw to the socket provided and screw them into the mounting bracket. Fasten the two bottom stabilizing screws at the bottom of the mounting bracket into the bottom of VST-894 to firmly secure the device to the bracket.
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation Recommendations
 

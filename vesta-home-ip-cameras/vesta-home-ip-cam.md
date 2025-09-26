@@ -136,11 +136,11 @@ The **VESTA HOME / ADV cameras** allow you to receive notifications even while t
 1. Go to the Settings --> Device -->  **Camera settings** in the app SmartHomeSec.
    1.
 
-       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. Locate the option **Chime as Attribute during Disarm**:&#x20;
    1.
 
-       <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 3. Enable this option on the camera.
 
 #### What Happens Next:
@@ -162,7 +162,7 @@ This behavior can be modified by adding the camera to the **SmartPSS software** 
 The Anti-Dither option determines how long a movement must last in the scene to be considered as such.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt="The Anti-Dither option"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (369).png" alt="The Anti-Dither option"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Additionally, between detections the camera has a **sleep time of 3 minutes**, meaning that continuous motion will only trigger one event every 3 minutes.
@@ -203,7 +203,7 @@ To avoid repeating the entire setup process, do the following:
 2. Scan the **QR code** again.
 3. Instead of selecting _Wi-Fi_, choose **Ethernet**.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (3).png>)
 
 #### Why?
 

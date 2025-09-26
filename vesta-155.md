@@ -86,7 +86,7 @@ The DI/DO module can operate according to different mode selected on the Control
 
     When the “Appliance Control” mode is selected, you can remotely turn on/off the connected device from the Control Panel webpage or _**SmartHomeSe**_&#x63; server, but the output follow input setting in DO will be deactivated. You can program Home Automation rules, Scenes on Panel webpageor _**SmartHomeSe**_&#x63; Server to integrate the device connected to DIO-52-B with other devices in the Control Panel.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Example of DI/DO practice for Appliance Control:
 

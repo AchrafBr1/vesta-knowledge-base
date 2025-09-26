@@ -250,7 +250,7 @@ Please refer to the table below for configuration details. For example, if you w
 
 * When mounted with the optional Mounting Bracket B at the same height, the detection range extends to up to 12 meters.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Mounting the PIR Camera**_
 
@@ -275,7 +275,7 @@ Once installed, the PIR Camera will be tilted at a ten-degree angle. The bracket
 2. Insert the provided wall plugs.
 3. Screw the mounting bracket onto the wall plugs.
 
-<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Undo the bottom fixing screw and detach the device cover from its base.
 5. Route the BUS wire through a Breakaway Area for Wiring and close the Battery Compartment Cover.

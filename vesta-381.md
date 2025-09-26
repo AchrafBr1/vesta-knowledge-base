@@ -174,7 +174,7 @@ After the device is learnt into the Control Panel, the user can edit the device 
 
 **Step 3.** Input the Sensitivity configuration in the **Device Edit** section. Please refer to the table below for configuration details. For example, if you want to set the material and sensitivity level as concrete and low, please input 0800.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -227,13 +227,13 @@ the **Tilt Sensor** row.
 * The distance between Door Contact and the magnet should be no more than 15 mm when the door is closed.
 * Mount the device as high as possible.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Mounting as a Shock Sensor:**
 
 Refer to the table below for information about installation location and the thickness of different materials:
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

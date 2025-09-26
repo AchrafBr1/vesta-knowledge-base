@@ -190,7 +190,7 @@ Follow these simple steps from the panel’s local interface:
 2. **Go to the “Panel” tab**.
    1.
 
-       <figure><img src=".gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (369) (1).png" alt=""><figcaption></figcaption></figure>
 3. **In the repeater section, select “Edit”**.
    1.
 

@@ -172,13 +172,13 @@ Hooks, Loops
 3. Remove the protective cover of the Hook side and attach to the back of the Door Contact. Press firmly for 30 seconds to ensure good contact. (**Pic 6.**)
 4. Remove the protective cover of the Loop side and apply to desired mounting location as in (**Pic 7.**) Press firmly for 30 seconds to ensure good contact.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                      (**Pic 6.**)                                                    (**Pic 7.**)
 
 5. Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                          (**Pic 8.**)                         (**Pic 9.**)                                                        &#x20;
 

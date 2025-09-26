@@ -114,11 +114,11 @@ Please follow the steps below to learn the keypad into the Hybrid Panel.
 
 **Step 2.** On the keypad’s LCD, choose a located area and a free zone to add to the Panel.
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Enter the User PIN Code of the located are&#x61;**.**
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Enter Installer Code. (Factory Default: **7982**)
 

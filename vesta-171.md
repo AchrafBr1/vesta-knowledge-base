@@ -130,7 +130,7 @@ Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce te
 
 ### _**Key Lock Function**_
 
-Press and hold both Auto/Manual button and <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display  <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both Auto/Manual button and <img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">button for 3 seconds likewise.
+Press and hold both Auto/Manual button and <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display  <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both Auto/Manual button and <img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">button for 3 seconds likewise.
 
 ### _**Remote Control**_
 
@@ -152,7 +152,7 @@ After the Radiator Valve joins a Z-Wave network, you can control the Radiator Va
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
-* Remove the Radiator Valve back cover and insert 2 AA Alkaline batteries to power up the Radiator Valve, LCD will display **InS** and <img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon will flash to indicate Radiator Valve’s motor is working.
+* Remove the Radiator Valve back cover and insert 2 AA Alkaline batteries to power up the Radiator Valve, LCD will display **InS** and <img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon will flash to indicate Radiator Valve’s motor is working.
 * Put Z-Wave control panel into **Inclusion mode** (please refer to the Z-Wave control panel manual).
 * Within 1.5 seconds, press the Boost Button 3 times
 * Refer to operation manual of the Z-Wave gateway or control panel to complete the adding process.

@@ -63,7 +63,7 @@ These **HTTP** commands can go directly into VESTA rule actions. For example, we
   * _<mark style="color:red;">userfile1</mark>_: This is the first mp3 file we uploaded on the horn
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rule example in VESTA</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Rule example in VESTA</p></figcaption></figure>
 
 ***
 

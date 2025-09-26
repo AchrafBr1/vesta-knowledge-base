@@ -131,7 +131,7 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 ### **CGI Activation Issues:**
 
-![](<../.gitbook/assets/image (4).png>)\
+![](<../.gitbook/assets/image (4) (4).png>)\
 \
 If the panel prompts you to enable CGI on the camera (And CGI already activated), this may be due to changes in user settings. This can happen if:
 
