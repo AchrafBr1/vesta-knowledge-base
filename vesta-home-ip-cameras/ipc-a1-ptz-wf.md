@@ -1,3 +1,7 @@
+---
+icon: video
+---
+
 # IPC-A1-PTZ-WF
 
 ## VESTA 3MP WiFi IP Camera with Pan/Tilt for Indoors

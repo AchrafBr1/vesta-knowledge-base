@@ -1,3 +1,7 @@
+---
+icon: video
+---
+
 # VESTA-462
 
 ## WiFi IP 3MP camera with solar panel and rechargeable battery

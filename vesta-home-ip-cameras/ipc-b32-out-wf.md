@@ -1,3 +1,7 @@
+---
+icon: video
+---
+
 # IPC-B32-OUT-WF
 
 ## VESTA 3MP outdoor WiFi IP camera

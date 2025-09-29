@@ -1,3 +1,7 @@
+---
+icon: router
+---
+
 # TPLINK-144
 
 ## WiFi 50Mbps Wireless N Nano USB Adapter for VESTA-243 panels

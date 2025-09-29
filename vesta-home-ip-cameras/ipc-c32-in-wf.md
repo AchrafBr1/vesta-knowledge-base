@@ -1,3 +1,7 @@
+---
+icon: video
+---
+
 # IPC-C32-IN-WF
 
 ## VESTA 3MP WiFi IP camera for indoor use

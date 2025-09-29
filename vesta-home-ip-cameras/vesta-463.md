@@ -1,3 +1,7 @@
+---
+icon: video
+---
+
 # VESTA-463
 
 ## 3MP WiFi IP Dome with PAN/TILT and Solar Panel

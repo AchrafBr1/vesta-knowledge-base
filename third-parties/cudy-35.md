@@ -1,3 +1,7 @@
+---
+icon: router
+---
+
 # CUDY-35
 
 ## WiFi AC650 Dongle for VESTA panels
