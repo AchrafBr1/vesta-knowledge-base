@@ -23,7 +23,7 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 **A.** ![](<.gitbook/assets/2 (62).jpeg>) **ON** when device is already learned into Zig-Bee network.
 
-**B.** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Low Battery Indicator.**
+**B.** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Low Battery Indicator.**
 
 **C**. &#x20;
 
@@ -37,9 +37,9 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 **D. Auto / Manual Mode.**
 
-**E.** <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Boost function.**
+**E.** <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Boost function.**
 
-**F.** <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **Open Window**.
+**F.** <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **Open Window**.
 
 **G. Temperature Indicator.**
 
@@ -119,11 +119,11 @@ To program Setpoint Offset:
 
 ### _**Open Window**_
 
-If Radiator Valve detects indoor temperature drops rapidly by opening the window, the Radiator Valve will activate Open Window function by partly closing the valve to reduce temperature setting for 15 minutes. The LCD will display <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> symbol, the device will check the temperature every minute. After 15 minutes, the Radiator Valve will return to the set temperature with valve opening again, Open Window Function closes.
+If Radiator Valve detects indoor temperature drops rapidly by opening the window, the Radiator Valve will activate Open Window function by partly closing the valve to reduce temperature setting for 15 minutes. The LCD will display <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> symbol, the device will check the temperature every minute. After 15 minutes, the Radiator Valve will return to the set temperature with valve opening again, Open Window Function closes.
 
 ### _**Control Knob**_
 
-Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce temperature and anti-clockwise to increase the temperature. The adjustable temperature range is 5°C to 30°C. If you rotate the Control Knob over 30°C to ON, after 1 minute, the Radiator Valve will open the valve completely, to preserve battery power. If you rotate the Control Knob lower than 5°C to OFF, after 1 minute, the Radiator Valve will close the valve completely. To disable ON/Off status please rotate the control knob or press button <img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">.
+Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce temperature and anti-clockwise to increase the temperature. The adjustable temperature range is 5°C to 30°C. If you rotate the Control Knob over 30°C to ON, after 1 minute, the Radiator Valve will open the valve completely, to preserve battery power. If you rotate the Control Knob lower than 5°C to OFF, after 1 minute, the Radiator Valve will close the valve completely. To disable ON/Off status please rotate the control knob or press button <img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">.
 
 **ON:** When turned to ON, the valve is opened completely. This function is used to preserver battery life during summer, when heating is not required. Do not use this function in winter when heater is activated, otherwise the room temperature will rise uncontrolled.
 
@@ -131,7 +131,7 @@ Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce te
 
 ### _**Key Lock Function**_
 
-Press and hold both the Auto/Manual button and the <img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display the <img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both the Auto/Manual button and <img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds likewise.
+Press and hold both the Auto/Manual button and the <img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display the <img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both the Auto/Manual button and <img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds likewise.
 
 ### _**Remote Control**_
 
@@ -169,17 +169,17 @@ As a ZigBee device, the Radiator Valve needs to join a ZigBee network for user t
 1. Remove the Radiator Valve back cover and insert 2 AA Alkaline batteries to power up the Radiator Valve, LCD will display **InS** and  icon will flash to indicate Radiator Valve’s motor is working.
 2. Press and hold the Boost button for 10 seconds, LCD will flash **888** to indicate release button to join ZigBee network. Please make sure the permit-join feature on the router or coordinator of your ZigBee network is enabled.
 3. Wait for several seconds for the Radiator Valve to join ZigBee network. Please check the security system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
-4. When the motor stops working and <img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon changes to steady on, attach the Valve cap to the pipe.
+4. When the motor stops working and <img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon changes to steady on, attach the Valve cap to the pipe.
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="404"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="404"><figcaption></figcaption></figure>
 
 5. Rotating the Valve cap clockwise to tighten the Radiator Valve.
 
-<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-6. Press the Auto/Manual button, LCD displays **AdA** and valve motor starts working again, the ![](<.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)  icon will flash. The device motor is measuring the distance to adjust the current temperature.
+6. Press the Auto/Manual button, LCD displays **AdA** and valve motor starts working again, the ![](<.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)  icon will flash. The device motor is measuring the distance to adjust the current temperature.
 7. When the valve motor stops, the system will enter Manual mode with LCD displaying the default set temperature 18.0°C, the installation is now complete.
-8. After joining ZigBee network and completing installation, the ZigBee connection <img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon  will appear on LCD display.
+8. After joining ZigBee network and completing installation, the ZigBee connection <img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon  will appear on LCD display.
 9. After joining the ZigBee network, if the Radiator Valve loses connection to current ZigBee network, the ZigBee connection icon will disappear after 10 minutes. Please check the ZigBee network condition and Radiator Valve signal range to correct the situation.
 
 ### _**Removing Device from ZigBee Network (Factory Reset)**_
@@ -195,7 +195,7 @@ To remove the Radiator Valve from current ZigBee network, the device must be put
 
 ### _**Thermostat Cluster ID**_
 
-<figure><img src=".gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Basic Cluster Information**_
 

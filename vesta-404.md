@@ -2,6 +2,8 @@
 
 **Climax HSGW Gen2 Installation Guide**
 
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 Content
 
 1\. Getting to Know Your HSGW Gen2: 3

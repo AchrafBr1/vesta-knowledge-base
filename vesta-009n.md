@@ -4,7 +4,7 @@ IR-16SL-F1
 
 ## **PIR Motion Sensor**
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Our Digitalized Adaptive Signal Processor algorithm enables this PIR to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its path of detection.
 

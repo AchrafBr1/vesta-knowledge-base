@@ -2,7 +2,9 @@
 
 **SD-32-BUS**
 
-## **Wired Smoke Detector**
+## **BUS Wired Smoke Detector**
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 

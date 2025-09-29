@@ -1,6 +1,8 @@
 # VESTA-429N
 
-## VESTA wired detectors
+## VESTA Dual Technology wired detectors with EOL resistors G3
+
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 #### PLUG & PLAY WITH VESTA
 

@@ -8,7 +8,7 @@ icon: star-of-life
 
 ## **Emergency Pendant/Wrist Transmitter**
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 

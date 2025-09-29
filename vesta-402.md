@@ -4,6 +4,8 @@
 
 ## &#x20;**Garage Door Tilt Sensor**
 
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction
 
 **Important note**: This device **does not have stand-alone operation**, a VESTA-220 (GDC-3) garage door controller is required to work properly with a VESTA control panel.

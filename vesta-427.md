@@ -1,6 +1,8 @@
 # VESTA-427
 
-## VESTA wired detectors
+## VESTA wired detectors with EOL resistor&#x20;
+
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 #### PLUG & PLAY WITH VESTA
 

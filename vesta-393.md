@@ -2,7 +2,9 @@
 
 **TG-15N-BUS**
 
-## **Wired Tag Reader**
+## **BUS Wired Tag Reader**
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 _**Introduction**_
 

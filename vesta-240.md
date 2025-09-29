@@ -4,7 +4,7 @@ ZW-DONGLE
 
 ## **Z-Wave Dongle**
 
-<figure><img src=".gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Z-Wave Dongle designed to be used with Climax gateways to provide extra Z-wave device compatibility. It enables the Control Panel to learn in and interact with various Z-wave devices on the market.
 

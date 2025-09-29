@@ -4,6 +4,8 @@
 
 ## **Smoke Detector Series**
 
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 SD-32 Series is a wireless smoke detector designed to protect you against potential fire hazards. The Smoke detector uses multi criteria sensor technology for detecting between fast burning flames and slow smoldering fires, while at the same time includes intelligent technology to differentiate between cooking smoke and actual life-threatening house-fire emergencies, virtually eliminating nuisance alarms.
 
 In addition to the capability of smoke detection, the models with heat detection are capable of reporting temperature to users. The models built-in the PIR motion sensor are capable of detecting movements. The SC model can be interconnected with other smoke detectors in the alarm system and will raise alarm when any smoke detector in the system is triggered.
