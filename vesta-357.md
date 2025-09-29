@@ -2,7 +2,9 @@
 
 **VST-892EX-BUS**
 
-## **Wired Outdoor PIR Motion Sensor Camera**&#x20;
+## **BUS Wired Outdoor PIR Motion Sensor Camera**&#x20;
+
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 VST-892EX-BUS is a wired outdoor passive infrared (PIR) motion sensor camera. It is capable of sending wired signals and captured images (picture quality of up to 640 x 480 pixels) over BUS to the Control Panel upon movement detection.
 

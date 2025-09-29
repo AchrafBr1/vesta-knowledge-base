@@ -2,7 +2,9 @@
 
 &#x20;TSP-1-BUS
 
-Tastiera Tocuh screen BUS
+## Tastiera Tocuh screen BUS
+
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ## **1. Identifying the Parts**
 

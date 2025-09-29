@@ -23,7 +23,7 @@ description: Trubleshouting & tips
 4. Make sure to **enable the connectivity permissions** in the SmartHomeSEC APP check _\[Trouble sheet 1]_.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>[Trouble sheet 1]</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>[Trouble sheet 1]</p></figcaption></figure>
 
 
 

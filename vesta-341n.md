@@ -1,12 +1,14 @@
 # VESTA-341N
 
-STCB-1-LTE-E F1
+STCB-1-LTE-E F1 868
 
-## SMS COMMAND TABLE
+## Voice emergency call point
 
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
+### SMS COMMAND TABLE
 
-## QUICK GUIDE
+### QUICK GUIDE
 
 {% stepper %}
 {% step %}

@@ -6,7 +6,7 @@ description: PDEIR32000
 
 ## PIR Bracket for Outdoor detectors VESTA-347N-720P, VESTA-357N-720P
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Outdoor swivel bracket
 * Compatible with VST-862EX outdoor PIR motion sensor camera

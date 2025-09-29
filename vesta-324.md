@@ -8,6 +8,8 @@ icon: star-of-life
 
 ## **Emergency Pendant/Wrist Transmitter**
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 
 WTRSC-1 is an emergency pendant/wrist transmitter. It is designed to be worn by seniors as they move on the premises, with WTRSC-1, seniors are able to summon help with one simple press.

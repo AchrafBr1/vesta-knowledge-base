@@ -4,6 +4,8 @@
 
 ## **Wired PIR Motion Sensor**&#x20;
 
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 **Introduction**
 
 The PIR detects infrared signature to pick up movements within an assigned area and signals the Control Panel over BUS to activate the alarm if an intruder crosses its’ path of detection.

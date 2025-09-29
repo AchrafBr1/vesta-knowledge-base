@@ -4,7 +4,7 @@
 
 ## VESTA dual technology radio detector
 
-<figure><img src=".gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 IRM-23 Series Motion Sensor is equipped with both PIR and Microwave motion detection technology. The combination of dual detection methods greatly improves the Motion Sensor’s detection accuracy and reduces false alarm rate, by using the PIR as initial detection, and microwave as confirmation before actually transmitting the activation signal.
 

@@ -4,7 +4,7 @@
 
 ## 24-zone module expansion for Vesta hybrid control panels
 
-<figure><img src=".gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

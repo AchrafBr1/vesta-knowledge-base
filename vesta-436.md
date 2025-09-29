@@ -23,4 +23,4 @@
 * Dimensions: 147 (W) x 130 (H) x 272 mm
 * Weight: 6.6 kg
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

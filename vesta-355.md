@@ -2,7 +2,9 @@
 
 **VST-892-BUS**
 
-## **Wired PIR Motion Sensor Camera**
+## **BUS Wired PIR Motion Sensor Camera**
+
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 

@@ -4,6 +4,8 @@
 
 ## **PIR Plus Glass Break Detector**
 
+<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
 ### Introduction
 
 IRAGS-35 integrates two sensors, the PIR motion sensor & glass break detector, into a single device, featuring the detections of movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its’ path of detection as well as breakage of glass windows.
@@ -123,7 +125,7 @@ The sleep mode setting is remotely configurable. When sleep mode is set to Norma
 
 The glass break detector should be tested to ensure it is able to detect glass breakage successfully.
 
-<figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Testing Tool
 
@@ -132,7 +134,7 @@ Use FlexGuard FG-701 Glassbreak Simulator to create glass break sound.
 1. Set the switches on FG-701 to “FLEX” and “TEST” mode. Press the red start button.
 2. Put FG-701 at the desired testing location on the glass point the speaker at IRAGS-35. Close the window covering if it is present.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Strike the glass with a cushioned tool to create a glass striking sound. When FG-701 detects the glass striking sound, it will emit a glass break sound.
 
@@ -207,7 +209,7 @@ When the PIR is powered on, its pet immunity function and sensitivity are determ
 1. On the Panel’s local webpage, go to the Device Edit page by clicking “Edit” of the IR entry.
 2. Press the Test Button once and then the Sensor Setting section will be shown. Enter the value for the desired settings and click OK to confirm.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity, set Sensitivity level to “normal” and Sleep Mode to “optimized”, you can input 06.
 
@@ -234,7 +236,7 @@ Functions for the Glass Break Detector can only be set on the Control Panel’s 
 1. Click “Edit” of the Glass entry on the Control Panel’s webpage.
 2. Press the Test Button once and then the Sensor Setting section will be shown.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Fill in the configuration value according to the table below and click OK to confirm.
 
@@ -258,9 +260,9 @@ Note:
 * After the detector is learnt-in, put the Control Panel into “**Walk Test**” mode; hold the detector in the desired location, and press the Test button to confirm that this location is within the signal range of the Control Panel (refer to Control Panel manual to complete the Walk Test).
 * When you are satisfied that the detector works well in the chosen location, you can proceed with mounting.
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Installation
 
@@ -292,11 +294,11 @@ Please make sure the PIR Camera is properly hooked onto the mounting bracket, so
 
 #### **Surface Mounting**
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Corner Mounting**
 
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **(Optional) Stabilizing Screw for the Mounting Bracket**
 
@@ -306,11 +308,11 @@ To use the stabilizing screw, you will need to detach the PIR Camera’s front c
 
 **Surface Mounting**
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Corner Mounting**
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Surface Mounting without the mounting bracket**
   * The PIR Camera can also be mounted on a flat surface with the fixing screws and wall plugs without the mounting bracket.
@@ -324,7 +326,7 @@ To use the stabilizing screw, you will need to detach the PIR Camera’s front c
     6. Fit the upper part of the cover to the base, and then close the lower part.
     7. Tighten the bottom fixing screw to firmly attach the front cover to the base.
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Installation Recommendations**_
 
@@ -337,6 +339,6 @@ To use the stabilizing screw, you will need to detach the PIR Camera’s front c
   * As far from the windows or doors as possible to avoid external sound interference.
 * **Limitations**
 
-<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

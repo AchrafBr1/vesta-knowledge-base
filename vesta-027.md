@@ -4,7 +4,7 @@
 
 ## **Hardwire to Wireless Converter**&#x20;
 
-<figure><img src=".gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 HWC-1B is a wired-to-wireless converter that converts existing wired sensors of security alarm systems to wireless technology. HWC-1B can be installed at a preferable location where it can send reports to the Control Panel easily without any more concern about traditional wired scenarios. To achieve this, the existing wired sensors are connected to the input zones of the HWC-1B, so there is no need to replace wired devices with individual transmitters.
 

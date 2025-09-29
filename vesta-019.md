@@ -4,7 +4,7 @@ DC-23 / DC-23-R3
 
 ## Door Contact&#x20;
 
-<figure><img src=".gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Door Contact monitors the opening/closing of specified devices (e.g. door or window). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch and causing the Door Contact to transmit an alarm signal to the Central Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
 

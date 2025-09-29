@@ -4,6 +4,8 @@
 
 ## **BUS Isolated Range Extender**&#x20;
 
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
 **Introduction**
 
 The ISL-1-BUS is an isolated range extender. It can extend the communication range and amplify the signal of wired security system over long distances, while protecting the connected devices against short circuit downstream. The isolator has galvanically separated the input and output terminals. In case when there is a short circuit at the output, all the devices connected to the input of ISL-1-BUS will continue to operate without interruption. The ISL-1-BUS can also boost the voltage up to 13.5V for BUS devices connected to output.

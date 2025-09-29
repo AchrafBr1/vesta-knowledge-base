@@ -4,7 +4,7 @@ KPT-35-COMBO
 
 ## REMOTE KEYPAD
 
-<figure><img src=".gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 KPT-35-COMBO is a hardwired Remote Keypad designed to have quick access control of the System Control Panel via PIN Code or RFID tags. The keypad can send wired and wireless signals to and receive signals from the Control Panel within 500ft (152m) in wire distance. The LCD screen will display any information the system control panel sends back.
 

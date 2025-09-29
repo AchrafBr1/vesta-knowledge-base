@@ -2,7 +2,9 @@
 
 **DC-23-BUS**
 
-## **Wired Door Contact**
+## **BUS Wired Door Contact**
+
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 DC-23-BUS is a Wired Door Contact that monitors the opening/closing of specified devices (e.g., door or window). The Wired Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Wired Door Contact, activating an internal magnetic switch causing the Wired Door Contact to transmit alarm signals over BUS to the Control Panel.
 
@@ -83,7 +85,7 @@ The extension terminal may be useful for the following situations:
 * Any dry contact devices with an N.C. (Normal Closed) or N.O. (Normally Open) loop can be connected to the extension terminal making the Wired Door Contact serve as a Universal Transmitter.
 * Multiple dry contact devices can be wired together with the Wired Door Contact, as shown in the picture below.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Power Supply**_
 

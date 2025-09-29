@@ -4,7 +4,7 @@ VST-897-IL-SF1-2W (lithium)
 
 ## PIR Motion Sensor Camera
 
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Introduction
 
@@ -216,7 +216,7 @@ JP4 settings. Users can either adjust jumper settings or remotely change the pet
 * At a position where its field of view will not be obstructed e.g., by curtains, ornaments etc.
 * **Limitations**
 
-<figure><img src=".gitbook/assets/image (15) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Be sure to always remain the RSSI signal strength steady at “4”.**
 

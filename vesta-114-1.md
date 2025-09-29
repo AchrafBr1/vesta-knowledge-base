@@ -4,7 +4,7 @@
 
 ## **WIRED/WIRELESS COMBO KEYPAD**
 
-<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 KP-35-COMBO is a hardwired and wireless keypad designed to have quick access control of the system control panel. The keypad can send wired and wireless signals to and receive signals from the Control Panel within wire distance, depending on the wire gauge and the total power consumption of all wired devices. The LCD screen will display information the system control panel sends back.
 
@@ -110,7 +110,7 @@ Use only the specified batteries with the device. When replacing batteries, alwa
 
 For example, for KP-35-COMBO-**B** in the picture below, it is the farthest device on the BUS line, and Hybrid Panel is the first device on the BUS line. Ensure to set the KP-35-COMBO-**B**'s terminal resistor jumper switch and Hybrid Panel's J53 Jumper Switch to ON to serve as terminating resistors.
 
-<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### _**Tamper Protection**_
 

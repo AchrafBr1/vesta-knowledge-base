@@ -4,7 +4,7 @@ SD-29-HME-SC-F1
 
 ## Smoke Detector Series
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 SD-29 Series is a wireless smoke detector with a built-in PIR motion sensor and heat detection capability. Designed to protect your family against potential fire hazards, the Smoke detector is also capable of detecting movements and reporting temperature to users. The Smoke Detector can be interconnected with other Smoke Detectors in the alarm system and will raise an alarm when any Smoke Detector in the system is triggered **(SD-29-HME-SC only)**.
 

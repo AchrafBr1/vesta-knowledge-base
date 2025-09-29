@@ -4,7 +4,7 @@
 
 ## **Temperature Sensor**
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 TSO-9EL is wireless temperature sensor with attached temperature probe. It automatically transmits temperature condition to the Control Panel every half hour (30 minutes).
 

@@ -4,6 +4,8 @@ KPT-35N-F1 (SL)
 
 ## **REMOTE KEYPAD with NFC Reader**&#x20;
 
+<figure><img src=".gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+
 KPT-35N is a Remote Keypad with NFC reader. It is designed to have quick access control of the System Control Panel via PIN Code or NFC label. The Keypad can send wireless signals to and receive wireless signals from the Control Panel. The LCD screen will display any information the system control panel sends back.
 
 The Remote Keypad can either be mounted on a flat surface or wall with screws, or placed on the desktop with the enclosed bracket. It also has a tamper protection switch which will be activated upon any unauthorized attempt to open the back cover.

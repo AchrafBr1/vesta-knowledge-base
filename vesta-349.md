@@ -2,6 +2,10 @@
 
 VCP-LTE-SV Quick Start Guide
 
+## Voice Emergency Call Point
+
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 ## **1. Package Content**
 
 ![Voice Call Point                                         A power supply (DC 9V 1A SPS adaptor)                                         A Wall Mounting Bracket](<.gitbook/assets/1 (91).png>)

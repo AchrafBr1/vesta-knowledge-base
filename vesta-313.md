@@ -2,7 +2,7 @@
 
 **LMHT-3ZW**
 
-## &#x20;**Ambient Light, Humidity and Temperature Sensor**
+## &#x20;**Ambient Light, Humidity and Temperature Sensor (Z-Wave)**
 
 <figure><img src=".gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
