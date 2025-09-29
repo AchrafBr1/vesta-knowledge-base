@@ -1,8 +1,10 @@
 # VESTA-270
 
-VST-892
+VST-892-IL (lithium)
 
 ## PIR Motion Sensor Camera
+
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

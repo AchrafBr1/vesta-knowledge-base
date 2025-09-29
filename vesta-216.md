@@ -4,6 +4,8 @@
 
 ## **Status Display**
 
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 SSL-1 is a Status Display designed to display the current status of the system.

@@ -4,7 +4,7 @@ DC-23 / DC-23-R3
 
 ## Door Contact <a href="#door-contact" id="door-contact"></a>
 
-<figure><img src=".gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -12,7 +12,7 @@ DC-23 / DC-23-R3
 
 
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Jumper config</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Jumper config</p></figcaption></figure>
 
 {% hint style="success" %}
 **6 (JP3): Door Contact or External Input Mode**

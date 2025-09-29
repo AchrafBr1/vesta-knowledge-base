@@ -4,6 +4,8 @@
 
 ## **Mini-PIR-ZW Series**
 
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 The Mini-PIR-ZW Series is a Z-Wave Passive Infrared Motion Sensor that is capable of sending wireless signals to the coordinator in the Z-Wave network upon movement detection. The PIR has optional built-in temperature/ambient light sensor which provides temperature/lux reading that will be transmitted via Z-Wave network in regular interval (Mini-PIR-LT-ZW model only).

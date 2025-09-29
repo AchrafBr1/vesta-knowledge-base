@@ -4,6 +4,8 @@
 
 ## &#x20;**Ambient Light, Humidity and Temperature Sensor**
 
+<figure><img src=".gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
+
 **Introduction**
 
 LMHT-3ZW is a Z-Wave Ambient Light, Humidity and Temperature Sensor. It monitors your home environment and transmits measured Illuminance (lux), humidity and temperature to the coordinator in the Z-Wave network.

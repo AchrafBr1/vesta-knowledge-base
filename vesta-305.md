@@ -4,6 +4,8 @@
 
 ## &#x20;**Series Programmable Output Expansion Module**
 
+<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 The WEPC-1 Series Programmable Output Expansion Module is designed to provide programmable output for the Hybrid Panel. Connected to the Hybrid Panel via BUS connection, it includes 4 programmable relay outputs, which can be used in conjunction with compatible panels. The WEPC-1 Series is equipped with its own enclosure case, which has tamper protection and LED status indicators.

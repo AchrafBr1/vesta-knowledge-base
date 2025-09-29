@@ -4,6 +4,8 @@
 
 ## **Clamp Meter**&#x20;
 
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 CL-Meter-ZW is a Z-Wave Clamp Meter aim to monitor and report the total amount of electricity uses in your facility by connecting the clamp onto the power cable.
 
 The Energy Meter is a Z-Wave enabled device and is fully compatible with any Z-Wave enabled network.

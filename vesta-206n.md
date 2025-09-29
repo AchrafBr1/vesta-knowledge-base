@@ -4,6 +4,8 @@
 
 ## **Relay Controller**
 
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction
 
 PRL-3-AC is a Relay Controller that can be connected to wired device and set to Normal Open (N.O.) status. After learned into the Control Panel, the Relay Controller can be controlled via the Panel webpage to remotely open and close the connected device.

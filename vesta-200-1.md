@@ -4,6 +4,8 @@
 
 ## **Door Contact**&#x20;
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 The Door Contact monitors the opening/closing of specified devices (e.g. door or window). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch causing the Door Contact to transmit alarm signal to the Central Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
 
 The Door Contact design consists of a cover and base. The cover contains all electronics and the base provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening and/or removal.

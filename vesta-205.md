@@ -4,6 +4,8 @@
 
 ## **Heat Detector**&#x20;
 
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 HD-9 series are a heat detector with both rate-of-rise and fixed temperature sensors insides. It provides capacities of monitoring the rate of any rise in temperature and detecting a household temperature that may lead to a fire disaster. It is idea for applications for the environment affected by heat, such as kitchen.
 
 The Heat Detector is designed to detect two temperature conditions. It signals an alarm if temperature increases by 8.3 °C per minute. The alarm is also activated if the temperature exceeds the threshold temperature of 57.3°C. The intelligent design allows appropriate action to be taken and eliminates fire hazards.

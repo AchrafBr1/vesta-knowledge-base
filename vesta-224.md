@@ -4,6 +4,8 @@
 
 ## &#x20;**Series Expansion Module**
 
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 This installation guide shall be used in conjunction with the Hybrid Panel’s user’s manual, to which the WEZC-8 Series model is connected to.

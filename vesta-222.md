@@ -2,7 +2,11 @@
 
 **PSM-29-F1**
 
-## **Power Switch Sereis**
+## **Power Switch Series**
+
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## **Introduction**
 

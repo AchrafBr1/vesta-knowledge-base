@@ -1,8 +1,10 @@
 # VESTA-245
 
-* VST-892
+VST-892-ALK
 
 ## PIR Motion Sensor Camera
+
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

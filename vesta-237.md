@@ -4,6 +4,8 @@
 
 ## **REMOTE KEYPAD  F1**
 
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 The Remote Keypad includes following models:
 
 KP-23B-EL / KP-23B-EL-F1: Remote Keypad with Tamper Switch

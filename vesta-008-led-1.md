@@ -4,7 +4,7 @@ VST-862-P5-LE ALK-F1
 
 ## White Flash Pircam&#x20;
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

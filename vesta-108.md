@@ -4,7 +4,7 @@ SR-32 / SR-32-F1
 
 ## Wireless Indoor Siren
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Indoor Siren is used to attract attention when alarm signal is received from Control Panel by activating its siren. The Siren can also alert you to tamper violation, and low battery status.
 
@@ -224,7 +224,7 @@ The tamper switch protrudes through the back of the unit. When the siren is pull
 
 Step 10. Replace the Top cover and tighten the bottom screw using a Phillips screwdriver, as shown below.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                                           Figure 2
 

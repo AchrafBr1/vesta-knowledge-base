@@ -4,7 +4,7 @@ TSP-3&#x20;
 
 ## Touchscreen Keypad&#x20;
 
-<figure><img src=".gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction <a href="#toc61269503" id="toc61269503"></a>
 

@@ -4,6 +4,8 @@
 
 ## **Ambient Light, Humidity and Temperature Sensor**
 
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 LMHT-3 is an Ambient Light, Humidity and Temperature Sensor. It monitors your home environment and transmits measured Illuminance (lux), humidity and temperature to the Control Panel.

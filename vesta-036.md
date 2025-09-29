@@ -4,7 +4,7 @@
 
 ## **Outdoor Pet-Immune PIR Motion Sensor**&#x20;
 
-<figure><img src=".gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The EIR-32, a battery operated outdoor PIR detector, allows economical and effortless outdoor installation while providing exceptional detection capabilities.
 
@@ -140,7 +140,7 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 | Switch8                               | ON                                                  | Pet Immune Enable (default)    |
 | Switch8                               | OFF                                                 | Pet Immune Disable             |
 
-<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 Note:

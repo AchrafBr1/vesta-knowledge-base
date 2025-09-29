@@ -1,8 +1,10 @@
-# VESTA-270N 720P
+# VESTA-270N-720P
 
-**VST-892 IL SF1**
+**VST-892 IL SF1 (lithium)**
 
 ## **PIR Motion Sensor Camera**
+
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

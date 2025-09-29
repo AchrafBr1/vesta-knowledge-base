@@ -1,5 +1,7 @@
 # VESTA-423 NOAM
 
-VST-897L-LE-SF1-2W-868
+VST-897L-LE-SF1-2W-868 (lithium)
 
-Note: the same sensor Vesta-423 without Anti-masking functionlity, Refere to Vesta-423 instructions
+<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
+Note: the same sensor Vesta-423 without Anti-masking functionality, Refer to Vesta-423 instructions

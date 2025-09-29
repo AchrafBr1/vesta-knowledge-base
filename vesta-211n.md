@@ -4,6 +4,8 @@
 
 ## **PIR Motion Sensor Camera**
 
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 ## **Introduction**
 
 VST-892 is a passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 640 x 480 pixels) to the Control Panel upon movement detection.

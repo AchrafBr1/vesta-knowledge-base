@@ -4,7 +4,7 @@
 
 ## **Tag Reader indoor/outdoor**
 
-<figure><img src=".gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Identifying the parts:**_
 

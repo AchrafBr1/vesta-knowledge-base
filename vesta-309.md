@@ -4,6 +4,8 @@
 
 ## **Smoke and Carbon Monoxide Detector**
 
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
 SDCO-3-RhTHM-ZW-SC-AC-OTA is a Z-Wave Smoke and Carbon Monoxide Detector with built-in PIR Sensor, temperature, humidity, and heat detection, as well as voice prompts and allows access to the “S2 Unauthenticated” class and supports both of Z-Wave SmartStart Inclusion and classic Inclusion. It is capable of sending wireless signals to the Z-Wave gateway/control panel upon detection of smoke particles or Carbon Monoxide. The device is also serially connected with other sensors in the Z-Wave gateway to serve as an extra siren. When any other sensor in the Z-Wave network is activated and sends an alarm signal, the Smoke Detector will also raise alarm with its built-in buzzer as a siren to help sound warning (for serial connection models).
 
 The SDCO-3 is designed to be mounted on ceiling or top of stairwells when smoke would concentrate to raise alarm timely and protect your home from fire hazards.

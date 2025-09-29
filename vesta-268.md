@@ -1,8 +1,14 @@
-# VESTA-268
+---
+hidden: true
+---
+
+# VESTA-268  To check
 
 **TSO-9EL**
 
 ## **Temperature Sensor**&#x20;
+
+
 
 TSO-9EL is wireless temperature sensor with attached temperature probe. It automatically transmits temperature condition to the Control Panel every half hour (30 minutes).
 

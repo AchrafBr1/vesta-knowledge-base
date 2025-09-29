@@ -16,7 +16,7 @@ LED
 
 CONFIGURATION
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="126" align="center">DIP SWITCH</th><th width="64"></th><th></th></tr></thead><tbody><tr><td align="center">SWITCH POSITION</td><td> </td><td>FUNCTION</td></tr><tr><td align="center">1</td><td>OFF</td><td>Minimum infrared sensitivity</td></tr><tr><td align="center">2</td><td>OFF</td><td> </td></tr><tr><td align="center">1</td><td>ON</td><td>Medium infrared sensitivity </td></tr><tr><td align="center">2</td><td>OFF</td><td> </td></tr><tr><td align="center">1</td><td>OFF</td><td>Medium/high infrared sensitivity</td></tr><tr><td align="center">2</td><td>ON</td><td> </td></tr><tr><td align="center">1</td><td>ON</td><td>High infrared sensitivity</td></tr><tr><td align="center">2</td><td>ON</td><td> </td></tr><tr><td align="center">3</td><td>OFF</td><td>Normal microwave sensitivity</td></tr><tr><td align="center"> </td><td>ON</td><td> High microwave sensitivity</td></tr><tr><td align="center">4</td><td>OFF</td><td>Anti-blinding OFF</td></tr><tr><td align="center"> </td><td>ON</td><td>Anti-blinding ON</td></tr><tr><td align="center">5</td><td>OFF</td><td>Battery saver off</td></tr><tr><td align="center"> </td><td>ON</td><td>Battery saver active </td></tr><tr><td align="center">6</td><td>OFF</td><td>Low anti-blinding sensitivity </td></tr><tr><td align="center"> </td><td>ON</td><td>High anti-blinding sensitivity </td></tr><tr><td align="center">7</td><td>OFF</td><td>LED OFF</td></tr><tr><td align="center"> </td><td>ON</td><td>LED ON</td></tr></tbody></table>
 
@@ -43,7 +43,7 @@ If necessary, it is possible to reduce the sensitivity of the microwave using th
 4. Close the sensor by hooking the lower part and screwing the upper screw.
 5. During the first two minutes, the sensor self-calibrates the anti-blinding if   &#x20;this is active
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:

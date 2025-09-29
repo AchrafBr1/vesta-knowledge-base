@@ -2,7 +2,9 @@
 
 **DC-15Z2-2W-BROWN**
 
-## **Door Contact**
+## **Door Contact** with 2 extension terminals
+
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 The Door Contact is used to detect the opening and closing of doors and windows. Typically the Door Contact is fixed to the door frame and the actuating magnet is fixed to the door. When the door opens, the magnet is moved away from the Door Contact and an internal magnetic switch will be activated causing the Door Contact to transmit an alarm.
 
