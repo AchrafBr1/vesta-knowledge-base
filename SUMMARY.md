@@ -10,7 +10,7 @@
 * [VESTA-009](vesta-009.md)
 * [VESTA-009N](vesta-009n.md)
 * [VESTA-010](vesta-010.md)
-* [VESTA-011](vesta-011-1.md)
+* [VESTA-011](vesta-011.md)
 * [VESTA-012](vesta-012.md)
 * [VESTA-012N](vesta-012n.md)
 * [VESTA-012N-NOTAG](vesta-012n-notag.md)
