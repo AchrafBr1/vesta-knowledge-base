@@ -1,4 +1,6 @@
-# VESTA-177
+# VESTA-176
+
+**IR-35SL-2W**
 
 ## CERTIFICATE
 
@@ -8,7 +10,7 @@
 
 ## **PIR Motion Sensor IR-35-2W / VESTA-177 Series**
 
-<figure><img src=".gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
 
 ## MANUAL GUIDE
 
