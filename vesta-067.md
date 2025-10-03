@@ -2,7 +2,7 @@
 description: Manual for VESTA BOGP-type panels (VESTA-068N and VESTA-067)
 ---
 
-# VESTA-068N
+# VESTA-067
 
 ## Introduction: Manual for Autonomous BOGP Type Panels
 
@@ -35,13 +35,13 @@ The panel with an external battery is 100% connected to the cloud. It will use B
 
 {% tabs %}
 {% tab title="8 months duration" %}
-[VESTA-436](https://vestasecurity.eu/it/product/VESTA-436/)
+[VESTA-436](https://bydemes.com/en/products/intrusion/vesta-alarm/battery/VESTA-436)
 
 <figure><img src="https://bydemes.com/ByDemesFiles/images/VESTA-436_B.jpg" alt="" width="375"><figcaption><p>External Battery 7.5V /400Ah/3000W</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="14 months duration" %}
-[VESTA-435](https://vestasecurity.eu/it/product/VESTA-435/)
+[VESTA-435](https://bydemes.com/en/products/intrusion/vesta-alarm/battery/VESTA-435)
 
 <figure><img src="https://bydemes.com/ByDemesFiles/images/450px/VESTA-435.jpg" alt=""><figcaption><p>External Battery 12V/500Ah, 6000W</p></figcaption></figure>
 {% endtab %}
