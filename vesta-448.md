@@ -14,7 +14,7 @@ The wired keypad can be mounted on either a flat surface or a wall with screws, 
 
 <figure><img src=".gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -221,7 +221,7 @@ There are 2 ways to change mode of multiple areas with a shared user code.
 
 <div align="left"><figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-3. Use <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">  and  ![](<.gitbook/assets/image (18) (1) (1) (1) (1).png>)  keys to scroll the display.&#x20;
+3. Use <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">  and  ![](<.gitbook/assets/image (18) (1) (1) (1) (1).png>)  keys to scroll the display.&#x20;
 
 Use the “＊” key to select the area(s) and then press the **OK** key to confirm your selection.
 
