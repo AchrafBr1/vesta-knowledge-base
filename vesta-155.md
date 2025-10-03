@@ -166,9 +166,9 @@ _Operation Mode:_ Select the Operation Mode for DIO-52-B. Please refer to previo
 
 Program the DI settings in **DI Device Edit** page on Panel webpage or SmartHomeSec server.
 
-| **Control Panel webpage**                                           | **SmartHomeSec** **Server**                                                                                                                                                                                           |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src=".gitbook/assets/13 (16).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                           | **SmartHomeSec** **Server**                                                                                                                                                                                               |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src=".gitbook/assets/13 (16).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
 
 _Status for 0_: Enter the Status 0 description for the Input terminal.
 
