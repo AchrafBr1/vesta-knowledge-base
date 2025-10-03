@@ -4,7 +4,7 @@ OPDC-1-F1
 
 ## Optical Door Contact
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Optical Door Contact, integrating infrared sensor, monitors the opening/closing of specified devices (e.g. door or window). By using infrared detection technology, the OPDC can detect if the door or window is open or closed, without the need of an additional magnet. The OPDC will transmit alarm signals when it detects a change, and keep your home protected.
 

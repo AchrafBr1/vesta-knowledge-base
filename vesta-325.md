@@ -8,7 +8,7 @@ icon: star-of-life
 
 ## **Bluetooth Emergency Pendant**&#x20;
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 BL-3 is a Bluetooth emergency pendant. It can be used to summon help in case of an emergency with one button press. When its button is pressed, BL-3 utilizes the Bluetooth connection with the smartphone app to immediately report an alarm and user’s location. It also functions to count the steps when this function is enabled.
 

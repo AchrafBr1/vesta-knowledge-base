@@ -85,7 +85,7 @@
 * [VESTA-112N-SF1](vesta-112n-sf1.md)
 * [VESTA-113N](vesta-113n.md)
 * [VESTA-113N-SF1](vesta-113n-sf1.md)
-* [VESTA-114](vesta-114-1.md)
+* [VESTA-114](vesta-114.md)
 * [VESTA-116](vesta-116.md)
 * [VESTA-119N](vesta-119n.md)
 * [VESTA-125](vesta-125.md)
@@ -279,6 +279,7 @@
 * [VESTA-460](vesta-460.md)
 * [VESTA-470](vesta-470.md)
 * [VESTA-458](vesta-458.md)
+* [VESTA-459](vesta-459.md)
 * [VESTA-464](vesta-464.md)
 * [VESTA-468](vesta-468.md)
 
