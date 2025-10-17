@@ -138,18 +138,21 @@ Go to the **Repeater Setting** on Panel’s webpage.
 
 ## Learning Device into the Repeater
 
-Make sure the devices are already learned into the Control Panel before learning them into the Repeater.
+Make sure the devices/repeaters are already learned into the Control Panel before learning them into the Repeater.
 
 Step 1 On the Repeater setting page, click “**Enter Learn Mode**.” The repeater will emit 1 long beep and enter device learning mode. The Repeater’s Yellow LED will start to flash slowly (1 flash every 2 seconds).
 
-Step 2 Refer to the device manuals for instructions on how to send a learn code to the Repeater. **For PIR Camera, please press the test button once to send a learn code to the Repeater.**
+Step 2 Refer to the device manuals for instructions on how to send a learn code to the Repeater. **For a Repeater or PIR Camera, please press the test button once to send a learn code to the Repeater.**
 
 If the Repeater receives a learn code from a new device, it will emit 1 long beep and the Blue LED will light up for 1 second to indicate successful learning.
 
 If the Repeater receives a learn code from a device already learnt into the Repeater, it will emit 2 beeps and the Blue LED will light up for 1 second.
 
-* **A maximum of 60 devices can be learnt into the Repeater, and up to 8 PIR cameras are supported. If the user attempts to learn in a 61**<sup>**st**</sup>**&#x20;device, the Repeater will emit 4 beeps.**
+* **A maximum of 60 devices (including repeaters) can be learnt into the Repeater, and up to 8 PIR cameras are supported. If the user attempts to learn in a 61**<sup>**st**</sup>**&#x20;device, the Repeater will emit 4 beeps.**
 * **SFV voice extenders are Not supported by the Repeater.**
+* Please do not cross-learn the Repeaters, e.g. Learning Repeater A into Repeater  \
+  B and learning Repeater B into Repeater A.
+* All repeaters will have to be learnt into the Control Panel.
 
 Step 3 Click “**Exit Learn Mode**.” The repeater will emit 1 long beep and exit device learning mode. The yellow LED will turn off.
 
@@ -169,7 +172,7 @@ Alternatively, the repeater will automatically exit Walk Test mode after 5 minut
 
 ### Query Child Node
 
-After the devices are learned into the Repeater, click “**Query Child Node.**” The learned in devices will be displayed one by one in the Child Node list.
+After the devices/repeaters are learned into the Repeater, click “**Query Child Node.**” The learned in devices/repeaters will be displayed one by one in the Child Node list.
 
 {% hint style="warning" %}
 Note:
@@ -179,28 +182,31 @@ If a child node device is not yet learned into the Control Panel, “Unknown Typ
 
 <figure><img src=".gitbook/assets/10 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-### Delete Device from the Repeater
+### Delete Device/Repeaters from the Repeater
 
-* **Delete All**: Click “**Delete All Child Nodes**”**.** All previously learned-in devices will be removed.
-* **Delete One At A Time**: Click the **Delete** button at the end of the device entry you wish to delete from the Device List. The device will then be deleted.
+* **Delete All**: Click “**Delete All Child Nodes**”**.** All previously learned-in devices/repeaters will be removed.
+* **Delete One At A Time**: Click the **Delete** button at the end of the device/repeater entry you wish to delete from the Device List. The device/repeater will then be deleted.
 
 ## How to add a repeater to a repeater?
 
 Follow these simple steps from the panel’s local interface:
 
 1. **Open the panel in your web browser** (same as explained previously).
-2. **Go to the “Panel” tab**.
-   1.
+2.  **Go to the “Panel” tab**.
 
-       <figure><img src=".gitbook/assets/image (369) (1).png" alt=""><figcaption></figcaption></figure>
-3. **In the repeater section, select “Edit”**.
-   1.
 
-       <figure><img src=".gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
-4. **Copy the RF ID of each repeater** you want to add.
-   1.
 
-       <figure><img src=".gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (369) (1).png" alt=""><figcaption></figcaption></figure>
+3.  **In the repeater section, select “Edit”**.
+
+
+
+    <figure><img src=".gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
+4.  **Copy the RF ID of each repeater** you want to add.
+
+
+
+    <figure><img src=".gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 5. **Go to the settings of the main repeater** (the one that will include the others).
 6. **Add each repeater in order**:
    * Enter the order number (1, 2, 3…).
@@ -249,7 +255,7 @@ If no devices are connected to any Repeater, only two columns (Panel, Repeater/D
 
 * **Repeater Setting Page**: The Repeater Setting page lists the devices that are connected to the repeater. You can add / delete devices by clicking ![](.gitbook/assets/24.jpeg) / ![](.gitbook/assets/23.jpeg)
 
-![](.gitbook/assets/21.jpeg)
+<figure><img src=".gitbook/assets/21.jpeg" alt=""><figcaption></figcaption></figure>
 
 **Add Device**:
 
@@ -284,7 +290,9 @@ The Tamper Switch is in normal operating position (Tamper Closed) when the Repea
 * All Devices and Repeaters must be learnt into the Control Panel for the panel to recognize them. Each device must be learnt into the Repeater that receives and relays its signal.
 * If a device is within an acceptable range for Control Panel to receive its signal, it is strongly recommended to learn the device into the Control Panel directly instead of into the Repeater.
 * When employing multiple repeaters, please learn each device into the closest repeater in its operation area. Avoid learning a device into multiple repeaters.
-* Only link one layer of repeater(s). **Do Not** cascade repeaters to create a transmission relay.
+* It is recommended to link only a single layer of repeaters.
+* If deployment requires linking repeaters to form a transmission relay, use no more than two  \
+  layers. Only the MDC-5, IR-35, and SD-32 models are compatible with this setup."
 * Maintain a distance between repeaters and the Control Panel to prevent cross signaling.
 
 ### **Repeater Usage**
@@ -330,6 +338,18 @@ In Example 2, where the Device 5 is located between the RF coverage areas of two
 * Device 5 should also be learned into the Control Panel.
 
 <figure><img src=".gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+
+When linking repeaters to form a transmission replay, please use no more than two layers of\
+repeaters. Only the MDC-5, IR-35, and SD-32 models are compatible with this configuration.
+
+\
+In the Example 3 below (Device to B to A to Control Panel), Repeater A, Repeater B, and the\
+Device must all be learned into the Control Panel.
+
+Learn the Device into its closest repeater (Repeater B), and learn Repeater B into Repeater A. (Do\
+not learn Repeater A into Repeater B.)
+
+<figure><img src=".gitbook/assets/image (410).png" alt=""><figcaption><p>Exemple 3</p></figcaption></figure>
 
 ## How to mount the Repeater
 
