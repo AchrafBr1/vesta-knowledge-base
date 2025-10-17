@@ -284,6 +284,7 @@
 * [VESTA-470](vesta-470.md)
 * [VESTA-458](vesta-458.md)
 * [VESTA-459](vesta-459.md)
+* [VESTA-459](vesta-459-1.md)
 * [VESTA-464](vesta-464.md)
 * [VESTA-468](vesta-468.md)
 

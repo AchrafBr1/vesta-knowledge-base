@@ -14,7 +14,7 @@ The wired keypad can be mounted on either a flat surface or a wall with screws, 
 
 <figure><img src=".gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -99,7 +99,7 @@ When KPT-35N-BUS is hardwired to Control Panel, 13.5V (typical) power supply can
 * Loosen KPT-35N-BUS’s “B” terminal and the Control Panel’s “485B” terminal. Connect the “B” terminal to the “485B” terminal and tighten both terminal screws.
 * Power on the Control Panel and wait for the “KPT-35N-BUS” to be shown on the wired keypad’s LCD screen.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The keypad terminal can be hardwired to the Control Panel. Up to four KPT-35N-BUS can be connected in series. The maximum wire cable length depends on the wire gauge and the total power consumption of all wired devices, for example: a maximum of 3000ft with 22-AWG cable for one KPT-35N-BUS; a maximum of 1500ft with 22-AWG cable for 2 KPT-35N-BUSs; or a maximum of 1000ft with 22-AWG cable for 3 KPT-35N-BUS.
 * In the picture below, KPT-35N-BUS-**A** and KPT-35N-BUS-**B** are wired correctly in series, as the total wire distance of the two keypads from the Control Panel is within 1500ft. For KPT-35N-BUS-**C** in the picture below, it is **NOT** wired correctly, as it is farther than 1000ft from the Control Panel.
@@ -221,7 +221,7 @@ There are 2 ways to change mode of multiple areas with a shared user code.
 
 <div align="left"><figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-3. Use <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">  and  ![](<.gitbook/assets/image (18) (1) (1) (1) (1).png>)  keys to scroll the display.&#x20;
+3. Use <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">  and  ![](<.gitbook/assets/image (18) (1) (1) (1) (1).png>)  keys to scroll the display.&#x20;
 
 Use the “＊” key to select the area(s) and then press the **OK** key to confirm your selection.
 

@@ -4,7 +4,7 @@ DDL-C3-F1-868
 
 ## VESTA control module for Yale Doorman lock
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 
