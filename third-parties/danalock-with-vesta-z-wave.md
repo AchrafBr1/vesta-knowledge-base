@@ -28,10 +28,10 @@ SALTO locks provide an advanced and secure access control solution, and by integ
 
 ### **Prerequisites**
 
-* Ensure that the VESTA panel has Z-WAVE check the [bydemes WEB ](https://www.bydemes.com)for the specifications of your control panel:&#x20;
+* Ensure that the VESTA panel has Z-WAVE check the [Vesta WEB](https://vestasecurity.eu/es/) for the specifications of your control panel:&#x20;
 
 {% hint style="warning" %}
-If your control panel do not have Z-WAVE you can install a [VESTA-240 ](https://bydemes.com/es/productos/intrusion/alarma-vesta/modulos-y-expansores/VESTA-240)module.
+If your control panel do not have Z-WAVE you can install a [VESTA-240 ](../vesta-240.md)module.
 {% endhint %}
 
 * Check that your cylinder is double clutch: This means that if you insert the key from the outside, you can still open and close it from the inside.
