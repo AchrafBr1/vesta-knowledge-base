@@ -757,21 +757,7 @@ Tap the respective icon for different function setting (from left to right).
 
 **5.2.1.2. Device Learning**
 
-**Step 1**
-
-T
-
-ap
-
-**+**
-
-icon
-
-t
-
-o
-
-enter learning mode.
+**Step 1** Tap **+** icon to enter learning mode.
 
 ![](<.gitbook/assets/Unknown image (115)>) ![](<.gitbook/assets/Unknown image (116)>)
 
@@ -785,24 +771,25 @@ enter learning mode.
 
 ![](<.gitbook/assets/Unknown image (118)>)
 
-**Step 5**Adding device is complete. Tap **OK** to close the dialog box.
+**Step 5** Adding device is complete. Tap **OK** to close the dialog box.
 
 ![](<.gitbook/assets/Unknown image (119)>)
 
-**5.2.1.3. Device Exclusion: (For removing Z-Wave device only) Step 1** Tap **–** icon to enter removing Z-Wave device mode. \*\*\*\*
+**5.2.1.3. Device Exclusion: (For removing Z-Wave device only)**&#x20;
+
+**Step 1** Tap **–** icon to enter removing Z-Wave device mode.
 
 ![](<.gitbook/assets/Unknown image (120)>)
 
-| **Step 2** | Refer to the Z-Wave device manual to transmit signal. When the panel receives exclusion signal, the webpage will display device info. |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Step 3** | Tap OK to remove the Z-Wave device.                                                                                                   |
-| **Step 4** | Tap icon to refresh device list info. The Z-wave device is removed from the device list.![](<.gitbook/assets/Unknown image (201)>)    |
+**Step 2**  Refer to the Z-Wave device manual to transmit signal. When the panel receives exclusion signal, the webpage will display device info.
+
+**Step 3** Tap OK to remove the Z-Wave device.
+
+**Step 4** Tap icon to refresh device list info. The Z-wave device is removed from the device list. ![](<.gitbook/assets/image (447).png>)
 
 **5.2.1.4. Walk Test**
 
-**Step 1** Tap icon to enter Walk Test mode.
-
-![](<.gitbook/assets/Unknown image (202)>)
+**Step 1** Tap icon  ![](<.gitbook/assets/image (448).png>) to enter Walk Test mode.
 
 ![](<.gitbook/assets/Unknown image (203)>)
 
@@ -812,23 +799,13 @@ enter learning mode.
 
 **5.2.1.5. Refresh Device List**
 
-Tap ![](<.gitbook/assets/Unknown image (205)>) icon to refresh device list info.
+Tap <img src=".gitbook/assets/Unknown image (205)" alt="" data-size="line"> icon to refresh device list info.
 
 **5.2.1.6. Delete Device**
 
-**Step 1**
+**Step 1** To remove learnt in devices, tap ![](<.gitbook/assets/image (411).png>) icon to access delete device menu.
 
-To remove learnt in devices,
-
-tap
-
-icon to access delete device menu.
-
-***
-
-***
-
-![](<.gitbook/assets/Unknown image (206)>) ![](<.gitbook/assets/Unknown image (207)>)
+![](<.gitbook/assets/Unknown image (207)>)
 
 **Step 2** Check the box at end of device column and tap **OK** to remove the selected devices from the system.
 
