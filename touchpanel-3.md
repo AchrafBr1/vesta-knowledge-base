@@ -813,44 +813,33 @@ Tap <img src=".gitbook/assets/Unknown image (205)" alt="" data-size="line"> icon
 
 **5.2.1.7. Edit Device**
 
-Tap
+Tap the icon ![](<.gitbook/assets/image (436).png>) at end of each device info column to enter Edit Device Page.
 
-the
-
-icon at end of each device info column to enter Edit Device Page.
-
-![](<.gitbook/assets/Unknown image (209)>) ![](<.gitbook/assets/Unknown image (210)>)
+![](<.gitbook/assets/Unknown image (210)>)
 
 The following is an example of VST-892’s settings and remote configuration.
 
-![](<.gitbook/assets/Unknown image (211)>)\*\*\*\*
-
-***
-
-**Setting**
-
-***
-
-***
+<figure><img src=".gitbook/assets/Unknown image (211)" alt=""><figcaption></figcaption></figure>
 
 ![](<.gitbook/assets/Unknown image (212)>)
+
+**Setting**
 
 * **Area:** Assign an area for the device.
 * **Zone:** Assign a zone in the selected area.
 * **Name:** Enter a name for the device.
-* \*\*Permanently Bypass:\*\*This function allows user to permanently deactivate (bypass) the selected device.
+* **Permanently Bypass:** This function allows user to permanently deactivate (bypass) the selected device.
   * If bypassed, the Control Panel will not respond at all when the sensor is triggered.
   * If bypassed, the system can be armed directly regardless the device’s fault situation. However, its fault will still be monitored, logged, and displayed on the webpage.
-* \*\*24 HR:\*\*This function enables the device to activate selected alarm event whenever it is triggered regardless of system mode. System mode response will be disabled if 24HR attribute is enabled.
+* **24 HR**: This function enables the device to activate selected alarm event whenever it is triggered regardless of system mode. System mode response will be disabled if 24HR attribute is enabled.
 * **Disarm Response / Full Arm Response / Home Arm Response:The System Mode Response setting determines system behavior under particular mode when the sensor is triggered.**
   * **No Response**: When a sensor set to “No Response” is triggered, the Control Panel will not respond.
   * **Start Entry Delay 1/ Start Entry Delay 2**
     * When the Control Panel is in the Full Arm mode, if a sensor with **Start Entry Delay 1/2** attribute is triggered, the Entry Delay 1/2 timer starts counting down. If a valid PIN code is not entered during the entry delay timer to disarm the system, the Control Panel will report a burglar perimeter alarm (**CID code:131**) immediately after entry delay timer 1/2 expires.
     * When the Control Panel is in the Home Arm mode, if a sensor with **Start Entry Delay 1/2** attribute is triggered, the Entry Delay 1/2 timer starts counting down. If a valid PIN code is not entered during the entry delay period to disarm the system, the Control Panel will report a burglar interior alarm (**CID code: 132**) immediately after entry delay timer 1/2 expires.
-
- **Chime**
-
-* When a sensor set to Chime is triggered, the Control Panel will sound a Door Chime (Ding-Dong Sound).  **Burglar Follow**
+* **Chime**
+* When a sensor set to Chime is triggered, the Control Panel will sound a Door Chime (Ding-Dong Sound).&#x20;
+* **Burglar Follow**
 * When the system is in Disarm / Full Arm / Home Arm mode, if a sensor set to **Burglar Follow** is triggered, the Control Panel will report a burglar alarm immediately.
 * When a Start Entry sensor is triggered and the system is under Entry Delay Timer countdown, if a sensor set to **Burglar Follow** is triggered, the Control Panel will wait until the Entry Delay Timer expires before activating a burglar alarm. If the system is disarmed before the timer expires, the Control Panel will not activate the alarm.  **Burglar Instant**
 * When the system is under Full arm or Home Arm / Disarm / Entry Time mode, if a sensor set to\*\* Burglar Instant\*\* is triggered, the Control Panel will report a burglar alarm immediately.
@@ -866,27 +855,26 @@ The following is an example of VST-892’s settings and remote configuration.
 
 The Home Automation Attributes allows a device to control Home Automation function.  _**Trigger Response**_
 
-*
-  * When the device is triggered, the Control Panel will activated the selected Home Automation Scene number. Please see _**4.3.1. Scene**_ webpage for details.  _**Restore Response**_
-  * When the device transmits a restore signal after activation, the Control Panel will activate the selected Home Automation Scene number.
+* When the device is triggered, the Control Panel will activated the selected Home Automation Scene number. Please see _**4.3.1. Scene**_ webpage for details.  _**Restore Response**_
+* When the device transmits a restore signal after activation, the Control Panel will activate the selected Home Automation Scene number.
 
 **Other Attributes:**
 
 * _**Permanent Bypass**_
   * When checked, the Panel will completely ignore all signals received from this device. A bypassed device will be unable to trigger any response, including alarm or fault from the Control Panel. All other attribute settings will be also be ignored.
 * _**Exit (No Response)**_
-
- If checked, the Panel will ignore the trigger signal from this sensor during Exit Time countdown. If deselected, the Panel will activated burglar alarm and report immediately when the sensor is triggered during Exit Delay Timer.
-
+* &#x20;If checked, the Panel will ignore the trigger signal from this sensor during Exit Time countdown. If deselected, the Panel will activated burglar alarm and report immediately when the sensor is triggered during Exit Delay Timer.
 * _**24HR**_
   * A sensor set to 24HR attribute will ignore Disarm, Full Arm, Home Arm and Exit response setting. The Panel will activate the selected alarm when this sensor is triggered regardless of system mode under any time.
   * \*\*Panel AI Recognition:\*\*This function is avaible only when the Panel AI Recognition function is enabled in Panel Settings.
     * Enable this option to allow the Panel to utilize AI algorithms for processing alarm images received from this PIR Camera. The AI detection results, along with the alarm images, will be transmitted to the CMS, enabling it to prioritize the new alarm queue based on this AI detection.
     * Disable this option to prevent the Panel from using AI algorithms to process alarm images received from this specific PIR Camera.
 
-![](<.gitbook/assets/Unknown image (213)>) ![](<.gitbook/assets/Unknown image (214)>)
+{% hint style="warning" %}
+Note:&#x20;
 
-* Some devices have their own unique functions and will have its own attribute setting which is not listed in this section. Please refer to the device manual for its setting detail.
+Some devices have their own unique functions and will have its own attribute setting which is not listed in this section. Please refer to the device manual for its setting detail.
+{% endhint %}
 
 **Remote Configuration**
 
