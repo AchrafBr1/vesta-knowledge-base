@@ -513,53 +513,25 @@ The device page lists all available devices which can be displayed according to 
 
 Select device category from the dropdown menu on the top right corner to determine the devices to be displayed.
 
-![](<.gitbook/assets/Unknown image (69)>) ![](<.gitbook/assets/Unknown image (189)>)
+![](<.gitbook/assets/Unknown image (69)>)
 
-* \*\*Categories:\*\*All, Fault, DC Open, Sensors, Automation Device, Keypad, Door Sensor, Siren.
+<table data-header-hidden><thead><tr><th width="80"></th><th width="64"></th><th width="82"></th><th width="79"></th><th width="64"></th><th width="67"></th><th width="52"></th><th width="119"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Device Status</strong></td><td>Fault</td><td>Low Battery</td><td>Bypass</td><td>RSSI </td><td>Level</td><td></td><td>Entry Delay Time</td><td>Wired Device</td><td></td></tr><tr><td><strong>Icon</strong></td><td><img src=".gitbook/assets/Unknown image (70)" alt=""></td><td><img src=".gitbook/assets/Unknown image (71)" alt=""></td><td><img src=".gitbook/assets/Unknown image (72)" alt=""></td><td><img src=".gitbook/assets/Unknown image (73)" alt=""> 1-3</td><td><img src=".gitbook/assets/Unknown image (74)" alt=""> 4-6</td><td><img src=".gitbook/assets/Unknown image (75)" alt=""> 7-9</td><td><div><figure><img src=".gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure></div></td><td><div><figure><img src=".gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure></div></td><td><div><figure><img src=".gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure></div></td></tr></tbody></table>
+
+* Categories: All, Fault, DC Open, Sensors, Automation Device, Keypad, Door Sensor, Siren.
 * The device list displays device information:
   * Device Status will be displayed in each device column.
-
-| **Device Status** | Fault                                     | Low Battery                               | Bypass                                    | RSSI Level                                    | Entry Delay Time                              | Wired Device                                  |
-| ----------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
-| **Icon**          | ![](<.gitbook/assets/Unknown image (70)>) | ![](<.gitbook/assets/Unknown image (71)>) | ![](<.gitbook/assets/Unknown image (72)>) | ![](<.gitbook/assets/Unknown image (73)>) 1-3 | ![](<.gitbook/assets/Unknown image (74)>) 4-6 | ![](<.gitbook/assets/Unknown image (75)>) 7-9 |
-
-*
   * Current on/off conditions will be shown for switch devices.
-  * Locked/Unlocked statuses will be shown for locks.
-  * Current wattage and accumulated power consumption will be displayed for power switches with meters.
+  * Current wattage and accumulated power consumption will be displayed for power    \
+    switches with meters.
   * Current power output level will be displayed for dimmers.
   * Temperature and humidity will be displayed for temperature and humidity sensors.
 * Use the device column to control each device or check detailed information.
-  * For Camera type security devices, e.g., PIR Camera, you can tap the camera icon ![](<.gitbook/assets/Unknown image (76)>) at the end of device column to manual control the camera to take a picture. The requested image will be displayed in the event page.
-  * For Switches or Locks, tap the ON/OFF or LOCK/UNLOCK icon ![](<.gitbook/assets/Unknown image (77)>) to toggle its status.
+  * For Camera type security devices, e.g., PIR Camera, you can tap the camera icon <img src=".gitbook/assets/Unknown image (76)" alt="" data-size="line"> at the end of device column to manual control the camera to take a picture. The requested image will be displayed in the event page.
+  * For Switches or Locks, tap the ON/OFF or LOCK/UNLOCK icon <img src=".gitbook/assets/Unknown image (77)" alt="" data-size="line"> to toggle its status.
   * For Dimmers, either tap the ON/OFF icon to toggle or tap the bar to adjust the output percentage.
-*
+  * For the devices with more detailed data or control options, tap the icon ![](<.gitbook/assets/image (436).png>)  to enter the device’s own page.&#x20;
 
-For
-
-the
-
-devices with more detailed
-
-data or
-
-control options,
-
-tap
-
-the
-
-icon
-
-t
-
-o enter the
-
-d
-
-evice’s own page.
-
-![](<.gitbook/assets/Unknown image (78)>) ![](<.gitbook/assets/Unknown image (79)>) ![](<.gitbook/assets/Unknown image (80)>) ![](<.gitbook/assets/Unknown image (189)>)
+![](<.gitbook/assets/Unknown image (79)>) ![](<.gitbook/assets/Unknown image (80)>)
 
 **4.3.5. Rule**
 
@@ -581,9 +553,7 @@ Input the “Master Code (default: 1111)” to enter the Rule setting page.
 
 **Step 2** You can enter up to 31 characters as your Rule Name.
 
-**Step 3** To set up a Rule, choosing a Trigger Type from the drop-down menu is indispensable. Up to 25 trigger types are available. The options available are dependent upon learnt
-
-device(s) in the Control Panel and 1 trigger type can be associated with each rule.
+**Step 3** To set up a Rule, choosing a Trigger Type from the drop-down menu is indispensable. Up to 25 trigger types are available. The options available are dependent upon learnt device(s) in the Control Panel and 1 trigger type can be associated with each rule.
 
 ![](<.gitbook/assets/Unknown image (83)>)
 
@@ -624,7 +594,7 @@ device(s) in the Control Panel and 1 trigger type can be associated with each ru
 
 an alarm is ON. For example, an emergency light will be turned on when there is an alarm and a door contact is open at the same time.
 
-**Step 5**You can create a new Condition type by tapping the ![](<.gitbook/assets/Unknown image (84)>) icon; and remove an existing Condition type by tapping the ![](<.gitbook/assets/Unknown image (85)>) icon.
+**Step 5** You can create a new Condition type by tapping the ![](<.gitbook/assets/Unknown image (84)>) icon; and remove an existing Condition type by tapping the ![](<.gitbook/assets/Unknown image (85)>) icon.
 
 **Step 6** Choose a desired Action Type from the drop-down menu. You can also apply a pre-programmed Scene under Rule function.
 
@@ -644,25 +614,17 @@ Up to 11 options of action types are available. The options available are depend
 
 **Step 7** You can create a new Action type by tapping the **+** icon.
 
-To remove an existing Action type, simply tap the ![](<.gitbook/assets/Unknown image (85)>) icon.
+To remove an existing Action type, simply tap the <img src=".gitbook/assets/Unknown image (85)" alt="" data-size="line"> icon.
 
 **Step 8** Tap “Save” to confirm scene setting. The Rule page will be updated with the new Scene.
 
 **Step 9** You can tap the **+** icon on top right of the List menu to create a new list. To remove an
 
-existing Rule, simply
+existing Rule, simply tap the icon. ![](<.gitbook/assets/image (412).png>)
 
-tap
+![](<.gitbook/assets/Unknown image (82)>)
 
-the
-
-icon.
-
-***
-
-![](<.gitbook/assets/Unknown image (85)>) ![](<.gitbook/assets/Unknown image (82)>)
-
-* Enable/Disable Rule: Toggle on/off the ![](<.gitbook/assets/Unknown image (77)>) icon to enable/disable the rule.
+* Enable/Disable Rule: Toggle on/off the <img src=".gitbook/assets/Unknown image (77)" alt="" data-size="line"> icon to enable/disable the rule.
 * Edit Rule: To edit an existing rule, tap the ![](<.gitbook/assets/Unknown image (86)>) icon to view rule content.
 
 **4.4. Cam**
@@ -673,56 +635,30 @@ TouchPanel-3 is compatible with Climax Video Door Phone and IP Camera. Up to 6 I
 
 Ensure your Control Panel, VDP, and TouchPanel-3 are in the same Local Area Network (LAN). Moreover, both the VDP and TouchPanel-3 should be added into the same Control Panel, or the devices will not be identified.
 
-
+<figure><img src=".gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
 
-Privacy mode: The icon
+* Privacy mode: The icon <img src=".gitbook/assets/image (442).png" alt="" data-size="line">  indicates that the IP Cam is now in privacy mode.
+* No connection: The icon <img src=".gitbook/assets/image (443).png" alt="" data-size="line">  indicates that the connection is lost between TouchPanel3 and the device.
 
-indicates that the IP Cam is now in privacy mode.
-
-
-
-No connection: The icon
-
-indicates that the connection is lost between
-
-TouchPanel
-
-*
-
-3
-
-and the device.
-
-![](<.gitbook/assets/Unknown image (87)>) ![](<.gitbook/assets/Unknown image (88)>) ![](<.gitbook/assets/Unknown image (89)>) ![](<.gitbook/assets/Unknown image (90)>)
+![](<.gitbook/assets/Unknown image (87)>)
 
 **4.4.1. Add New VDP / IP CAM**
 
-**Step 1**
+**Step 1** Tap the Add icon ![](<.gitbook/assets/image (444).png>) to add a new VDP.
 
-***
+![](<.gitbook/assets/Unknown image (92)>)
 
-Tap the
-
-Add
-
-icon
-
-to add a new VDP.
-
-![](<.gitbook/assets/Unknown image (91)>) ![](<.gitbook/assets/Unknown image (92)>) ![](<.gitbook/assets/Unknown image (90)>)
-
-**Step 2**Select the wireless device for WiFi setup. Follow the onscreen instructions to proceed.
+**Step 2** Select the wireless device for WiFi setup. Follow the onscreen instructions to proceed.
 
 **4.4.2. Monitoring Mode**
 
 TouchPanel-3 provides a full screen 3-minute real-time live streaming video. Tap the device you want to check and have a full view on the screen.
 
-* Listen-in / Talk: When access the monitoring view, tap the button once to turn on the speaker to listen-in. Tap the button once again to turn on the microphone to talk.
-
 ![](<.gitbook/assets/Unknown image (93)>) ![](<.gitbook/assets/Unknown image (94)>)
 
-* Unlock the door: Tap the button ![](<.gitbook/assets/Unknown image (95)>) to unlock the door.
-* Tap the button ![](<.gitbook/assets/Unknown image (96)>) to go back to the Cam list.
+* Listen-in / Talk: When access the monitoring view, tap the button once to turn on the speaker to listen-in. Tap the button once again to turn on the microphone to talk.
+* Unlock the door: Tap the button <img src=".gitbook/assets/Unknown image (95)" alt="" data-size="line"> to unlock the door.
+* Tap the button <img src=".gitbook/assets/Unknown image (96)" alt="" data-size="line"> to go back to the Cam list.
 * There will be a reminder before the duration is going to end. Tap “Continue” to continue the monitoring view.
 
 ![](<.gitbook/assets/Unknown image (97)>)
@@ -731,39 +667,27 @@ TouchPanel-3 provides a full screen 3-minute real-time live streaming video. Tap
 
 When there is an incoming call from VDP, you can answer it by controlling the buttons on the screen:
 
-Listen
-
-*
-
-in / Talk: Tap the button
-
-once to pick up the call. The speaker will be turned
-
 ![](<.gitbook/assets/Unknown image (98)>) ![](<.gitbook/assets/Unknown image (94)>)
 
+* Listen-in / Talk: Tap the button once to pick up the call. The speaker will be turned
 * on for you to listen-in. Tap the button once again to turn on the microphone to talk.
-* Unlock the door: Tap the button ![](<.gitbook/assets/Unknown image (95)>) to unlock the door.
-* Hang up: Tap the button ![](<.gitbook/assets/Unknown image (99)>) to terminate the communication.
+* Unlock the door: Tap the button <img src=".gitbook/assets/Unknown image (95)" alt="" data-size="line"> to unlock the door.
+* Hang up: Tap the button <img src=".gitbook/assets/Unknown image (99)" alt="" data-size="line"> to terminate the communication.
 * The default duration of the communication is 3 minutes. If the communication needs to be continued, access the VDP on the Cam list to enter the monitoring view.
 
 ***
 
 **4.4.4. Cam Settings**
 
-To change settings of the IP Cam,
+To change settings of the IP Cam, tap the button  ![](<.gitbook/assets/image (445).png>) on each device.
 
-tap
-
-the button
-
-on each device.
-
-![](<.gitbook/assets/Unknown image (100)>) ![](<.gitbook/assets/Unknown image (101)>) ![](<.gitbook/assets/Unknown image (90)>)
+![](<.gitbook/assets/Unknown image (101)>)
 
 * **Device Name**: Name or rename your device for easy identification. Enter a desired name and tap Submit.
 * **Speaker Volume**: Tap the slider to adjust the volume to a desired level.
 * **Door lock binding**: Assign the VDP to the relevant door lock.
-* **Wi-Fi setup**: Change the Wi-Fi setting of the device.  **Delete**: Delete the item.
+* **Wi-Fi setup**: Change the Wi-Fi setting of the device.&#x20;
+* &#x20;**Delete**: Delete the item.
 
 ![](<.gitbook/assets/Unknown image (102)>)
 
@@ -771,49 +695,31 @@ on each device.
 
 The Event page records all alarm/status events, pictures and video transmitted by the Control
 
-Panel. You can view the image or video by tapping the icon ![](<.gitbook/assets/Unknown image (103)>). If AI recognizes a person /
+Panel. You can view the image or video by tapping the icon <img src=".gitbook/assets/Unknown image (103)" alt="" data-size="line">.  If AI recognizes a person /
 
-persons
+persons in the image, an AI icon ![](<.gitbook/assets/image (446).png>) will be displayed alongside it.
 
-in the image, an AI icon
-
-will be displayed alongside it.
-
-![](<.gitbook/assets/Unknown image (104)>) ![](<.gitbook/assets/Unknown image (105)>) ![](<.gitbook/assets/Unknown image (106)>)
+![](<.gitbook/assets/Unknown image (105)>)
 
 ![](<.gitbook/assets/Unknown image (107)>)
 
-***
-
 ### 5. Settings
 
-Tap the gear icon ![](<.gitbook/assets/Unknown image (170)>) at the top-right corner of the screen to open the **Settings** menu. This menu provides quick access to basic features and settings that don't require an Installer or Master code.
+Tap the gear icon <img src=".gitbook/assets/Unknown image (170)" alt="" data-size="line"> at the top-right corner of the screen to open the **Settings** menu. This menu provides quick access to basic features and settings that don't require an Installer or Master code.
 
 However, the **Equipment Management** section within the Settings menu contains advanced options for the Panel and is protected by the Panel's Installer code.
 
-The **Hotspot Sharing**and\*\* Bluetooth Disarm\*\*functions require a Master user or Installer to enable it.
+The **Hotspot Sharing** and **Bluetooth Disarm** functions require a Master user or Installer to enable it.
+
+{% hint style="warning" %}
+Note:
 
 Certain settings, including Face Detection, Equipment Management, Bluetooth Disarm, Tablet Settings, and About, can only be accessed when the Control Panel is **disarmed**.
+{% endhint %}
 
 ![](<.gitbook/assets/Unknown image (155)>) ![](<.gitbook/assets/Unknown image (108)>) ![](<.gitbook/assets/Unknown image (109)>)
 
-| **Setting**                    | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Brightness**                 | Change the brightness of the screen by dragging the slider.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Volume**                     | Change the volume of the user interface by dragging the slider.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Face Detection**             | Tap the toggle to enable or disable this function. When it is enabled, your face needs to be detected to disarm the system. Please refer to _**5.1.**_**\*\*\*\***_**Face Detection**_&#x73;ection for details.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Display Home\*\*\*\*Screen** | Enable this function to display home screen when screen has been idle for 1 minute/3 minutes, or select Never to disable this function.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Screen Saver**               | Enable this function after the screen has been idle for 1 minute / 5 minutes, or select Never to disable this function. The Panel screen will display the images stored in the SD card.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Screen Timeout**             | Enable this function to turn off the screen after the specified idle period ( 15 secs / 30 secs / 1 min / 2 mins / 5 mins / 10 mins / 30 mins) Select "Never" to keep the screen always on.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Device Bypass**              | <p>This function allows user to bypass sensors when the system is disarmed. The system panel will not respond at all when a bypassed sensor is triggered. The system can be armed directly if a device is bypassed, regardless of any device faults. However, the faults will still be monitored, logged, and displayed on the webpage.</p><ul><li>Permanently bypass will bypass selected device(s) until they are deselected. It requires** Installer Code** to access, and is allowed for Installer/Master user only.</li><li>One-time bypass provides temporary bypass function of any device until the system turns to disarm mode. It requires <strong>User PIN</strong></li></ul><p><strong>Code</strong> to access, and is allowed for Installer/Master/Slave user.</p> |
-| **Equipment Management**       | The Equipment Management provides advanced settings for the Panel. It is protected by the Panel's installer code. Please refer to _**5.2.**_**\*\*\*\***_**Equipment Management**_&#x73;ection for details.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Hotspot Sharing**            | TouchPanel-3 can function as a hotspot, sharing its internet connection with nearby devices by configuring the SSID and password. Please refer to _**5.3. Hotspot Sharing**_&#x73;ection for details.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Bluetooth Disarm**           | The Bluetooth Disarming feature allows the users to disarm the system via Bluetooth simply by approaching the panel with their smartphones. Please refer to _**5.4. Bluetooth Disarm**_&#x73;ection for Bluetooth Setup instructions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Region Format**              | Select date and time format for the user interface.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Language**                   | Change the Panel’s language                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Setting**                    | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Sync Logo**                  | This function allows the Panel to sync customized dealer logo with Vesta Server. Enter installer code to proceed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **About**                      | The information about App version / Panel version, ROM version, TSP Mac, and Panel Mac will be displayed in this page. Please refer to _**5.5 About**_&#x73;ection for details.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+<table data-header-hidden><thead><tr><th width="152"></th><th></th></tr></thead><tbody><tr><td><strong>Setting</strong></td><td><strong>Description</strong></td></tr><tr><td><strong>Brightness</strong></td><td>Change the brightness of the screen by dragging the slider.</td></tr><tr><td><strong>Volume</strong></td><td>Change the volume of the user interface by dragging the slider.</td></tr><tr><td><strong>Face Detection</strong></td><td>Tap the toggle to enable or disable this function. When it is enabled, your face needs to be detected to disarm the system. Please refer to <em><strong>5.1.</strong></em><strong>****</strong><em><strong>Face Detection</strong></em>section for details.</td></tr><tr><td><strong>Display Home Screen</strong></td><td>Enable this function to display home screen when screen has been idle for 1 minute/3 minutes, or select Never to disable this function.</td></tr><tr><td><strong>Screen Saver</strong></td><td>Enable this function after the screen has been idle for 1 minute / 5 minutes, or select Never to disable this function. The Panel screen will display the images stored in the SD card.</td></tr><tr><td><strong>Screen Timeout</strong></td><td>Enable this function to turn off the screen after the specified idle period ( 15 secs / 30 secs / 1 min / 2 mins / 5 mins / 10 mins / 30 mins) Select "Never" to keep the screen always on.</td></tr><tr><td><strong>Device Bypass</strong></td><td><p>This function allows user to bypass sensors when the system is disarmed. The system panel will not respond at all when a bypassed sensor is triggered. The system can be armed directly if a device is bypassed, regardless of any device faults. However, the faults will still be monitored, logged, and displayed on the webpage.</p><ul><li>Permanently bypass will bypass selected device(s) until they are deselected. It requires** Installer Code** to access, and is allowed for Installer/Master user only.</li><li>One-time bypass provides temporary bypass function of any device until the system turns to disarm mode. It requires <strong>User PIN</strong></li></ul><p><strong>Code</strong> to access, and is allowed for Installer/Master/Slave user.</p></td></tr><tr><td><strong>Equipment Management</strong></td><td>The Equipment Management provides advanced settings for the Panel. It is protected by the Panel's installer code. Please refer to <em><strong>5.2.</strong></em><strong>****</strong><em><strong>Equipment Management</strong></em>section for details.</td></tr><tr><td><strong>Hotspot Sharing</strong></td><td>TouchPanel-3 can function as a hotspot, sharing its internet connection with nearby devices by configuring the SSID and password. Please refer to <em><strong>5.3. Hotspot Sharing</strong></em>section for details.</td></tr><tr><td><strong>Bluetooth Disarm</strong></td><td>The Bluetooth Disarming feature allows the users to disarm the system via Bluetooth simply by approaching the panel with their smartphones. Please refer to <em><strong>5.4. Bluetooth Disarm</strong></em>section for Bluetooth Setup instructions.</td></tr><tr><td><strong>Region Format</strong></td><td>Select date and time format for the user interface.</td></tr><tr><td><strong>Language</strong></td><td>Change the Panel’s language</td></tr><tr><td><strong>Setting</strong></td><td><strong>Description</strong></td></tr><tr><td><strong>Sync Logo</strong></td><td>This function allows the Panel to sync customized dealer logo with Vesta Server. Enter installer code to proceed.</td></tr><tr><td><strong>About</strong></td><td>The information about App version / Panel version, ROM version, TSP Mac, and Panel Mac will be displayed in this page. Please refer to <em><strong>5.5 About</strong></em>section for details.</td></tr></tbody></table>
 
 #### 5.1. Face Detection
 
@@ -821,7 +727,7 @@ When the Face Detection feature is turned on, the system must detect a face to d
 
 * When **Disarm** is tapped, the following dialog box will be displayed, requesting the user to position his/her face in the camera frame to activate pin entering for disarming.
 
-![](<.gitbook/assets/Unknown image (183)>)\*\*\*\*
+<figure><img src=".gitbook/assets/Unknown image (183)" alt=""><figcaption></figcaption></figure>
 
 * The Panel will auto capture a photo when a face is detected and display the captured image for 3 seconds.
 * After 3 seconds, the panel will display PIN code page with disarm icon. Enter the use PIN code to disarm the system.
@@ -845,7 +751,7 @@ Tap the respective icon for different function setting (from left to right).
 
 **5.2.1.1. Device Search**
 
- ![](<.gitbook/assets/Unknown image (113)>) Users can directly search for the device they are seeking without scrolling through the entire list of devices.
+* &#x20;<img src=".gitbook/assets/Unknown image (113)" alt="" data-size="line"> Users can directly search for the device they are seeking without scrolling through the entire list of devices.
 
 ![](<.gitbook/assets/Unknown image (114)>)
 
