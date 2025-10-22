@@ -4,7 +4,7 @@ VST-862-IL-F1
 
 ## PIR Motion Sensor Camera
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

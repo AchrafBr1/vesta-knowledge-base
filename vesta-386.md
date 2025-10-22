@@ -2,7 +2,7 @@
 
 ## Universal box for control panels
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Universal box for control panels
 * Incorporates transformer

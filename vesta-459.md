@@ -2,7 +2,7 @@
 
 ## VESTA control module for Yale Doorman lock
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 
@@ -29,7 +29,7 @@ Moreover, it offers the convenience of arming and disarming the alarm system by 
 
 ### _**Parts Identification**_
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Installation and Learning**_
 
@@ -41,11 +41,11 @@ Please follow the steps below to install the DDL-C3 module into the Yale doorman
 
 This step can be skipped if you already know your master code
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 #### **Insert DDL-C3 module & Pair with Panel**
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Put your Control Panel into learning mode.
 2. Open your door and enter **#Master Code#**, e.g. if your code is 123456, enter\*\*\*\*#123456#.
@@ -73,7 +73,7 @@ The user can manage user codes & key tags for all integrated Yale Doorman Locks 
 
 Enter the **Installer Code** (default: **7982**) to access full programming fucntions. Go to **Equipment Settings** > **Doorman Code**
 
-![](<.gitbook/assets/Unknown image (10)>)
+![](<.gitbook/assets/Unknown image (10) (1)>)
 
 #### _**User Code**_
 
@@ -82,7 +82,7 @@ Enter the **Installer Code** (default: **7982**) to access full programming fucn
 * If there are L3 and V2N door locks integrated in the system, the user interface will display 30 rows for user code settings, with the first 10 rows applicable to V2N, and all 30 rows applicable to L3.
 * **The default User Code 1 is 000000. For security reasons, please change the default User Code 1 immediately after the door lock is learned into the system.**
 
-![](<.gitbook/assets/Unknown image (11)>)
+![](<.gitbook/assets/Unknown image (11) (1)>)
 
 
 
@@ -92,7 +92,7 @@ Enter the **Installer Code** (default: **7982**) to access full programming fucn
 
 After editing, click “Submit.” A verification email will be sent to the registered user. Please enter the verification code to complete authentication.
 
-![](<.gitbook/assets/Unknown image (12)>)
+![](<.gitbook/assets/Unknown image (12) (1)>)
 
 #### _**Key Tag**_
 
@@ -102,7 +102,7 @@ After editing, click “Submit.” A verification email will be sent to the regi
 * The Yale Doorman V2N Lock supports a maximum of **10 key tags**, while the Yale Doorman L3 Lock supports up to **30 key tags**.
 * If there are L3 and V2N door locks integrated in the system, the user interface will display 30 rows for Tag settings, with the first 10 rows applicable to V2N, and all 30 rows applicable to L3.
 
-![](<.gitbook/assets/Unknown image (13)>)
+![](<.gitbook/assets/Unknown image (13) (1)>)
 
 * **Tag Number:** Hold the Key Tag on the lock reader, wait for the sound signal. Click the **Load**
 
@@ -123,7 +123,7 @@ After editing, click “Submit.” A verification email will be sent to the regi
 
 * Go to the **Device Settings** page, click the Door Lock device row and select “**Settings**.”
 
-![](<.gitbook/assets/Unknown image (14)>)
+![](<.gitbook/assets/Unknown image (14) (1)>)
 
 * **Area:** Select the area which the Door Lock belongs to\*\*.\*\*
 * **Zone:** Select the Door Lock zone number.
@@ -136,7 +136,7 @@ After editing, click “Submit.” A verification email will be sent to the regi
 
 
 
-![](<.gitbook/assets/Unknown image (15)>)
+![](<.gitbook/assets/Unknown image (15) (1)>)
 
 * **Volume:** Select volume level of the door lock: **Off, Low, and Hgh**.
 * **Language:** Select language of the door lock: **English, Danish, Norwegian, and Swedish**.
@@ -193,12 +193,12 @@ Go to the **Main Page - Device** page, the door and lock status will be displaye
 * Door (Open / Closed)
 * Lock (Unlocked / Locked / Locked in Secure Mode)
 
-![](<.gitbook/assets/Unknown image (17)>)
+![](<.gitbook/assets/Unknown image (17) (1)>)
 
 **Toggle Lock and Unlock the door**
 
 1. Toggle from Lock to Unlock  and then enter User Code. Door is unlocked.
-2. Toggle from Unlock ![](<.gitbook/assets/Unknown image (18)>) to Lock ![](<.gitbook/assets/Unknown image (19)>). Door is locked.
+2. Toggle from Unlock ![](<.gitbook/assets/Unknown image (18) (1)>) to Lock ![](<.gitbook/assets/Unknown image (19) (1)>). Door is locked.
 
 {% hint style="success" %}
 **(In secure mode)** When the door is locked in secure mode, but blocking user codes is disabled, the lock can still be opened by remote toggling with user code. (For V2N and L3)
@@ -214,5 +214,5 @@ In secure locking mode, auto lock is disabled. Please refer to the Local Operati
 
 The system will report local Door Lock operations using user credentials (User Code, Tags), including actions like locking/unlocking the door, arming/disarming the system, and fault events like Access Attempts Exceeded, Hook Bolt Change, Failed to Lock, Bad Floating ID, and Deadbolt Jammed. It will also report remote additions or deletions of door lock users (User Code, Tag). Please check the event page for details.
 
-![](<.gitbook/assets/Unknown image (20)>)
+![](<.gitbook/assets/Unknown image (20) (1)>)
 

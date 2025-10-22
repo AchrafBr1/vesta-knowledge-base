@@ -4,7 +4,7 @@
 
 ## WIEGAND 26 CONTROLLER
 
-<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 WGT-1-COMBO is a WIEGAND module that can be connected to HIKVISION Card Reader to covert WIEGAND 26 \[W26] Protocol into RF wireless signals or BUS wired signals. When WIEGAND Card Reader reads a tag for arming/disarming request, WGT-1-COMBO will transmit ARM/Disarm signal with the tag number to the Control Panel.
 

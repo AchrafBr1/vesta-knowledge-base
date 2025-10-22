@@ -6,7 +6,7 @@ IR-35/892 Barcket
 
 PIR Bracket for VESTA-358, VESTA-176, VESTA-177, VESTA-355, VESTA-357, VESTA-210, VESTA-211, VESTA- 270, VESTA-347
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 

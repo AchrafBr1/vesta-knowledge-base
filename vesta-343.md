@@ -2,7 +2,7 @@
 
 ## LoRa dongle
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * ACSIP ST50H LoRa Module
 * On-board antenna and external connector with antenna
