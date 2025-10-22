@@ -882,30 +882,22 @@ Some devices have their own unique functions and will have its own attribute set
 
 ![](<.gitbook/assets/Unknown image (215)>)
 
- Select to turn on / off the Pet immunity feature and set the sensitivity level (High/Low) from the dropdown menus for VST-892 PIR Cameras, then tap **Submit** to save the settings.
+* Select to turn on / off the Pet immunity feature and set the sensitivity level (High/Low) from the dropdown menus for VST-892 PIR Cameras, then tap **Submit** to save the settings.
 
 ***
 
 **5.2.2. Panel Settings**
 
-**5.2.2.1**
-
-**.**
-
-***
-
-**Security**
-
-***
-
 ![](<.gitbook/assets/Unknown image (216)>)
+
+**5.2.2.1. Security**
 
 ![](<.gitbook/assets/Unknown image (217)>)
 
 **All Mode**
 
 * **Area**: Select the operation area to apply the setting.
-* **Final Door**:\*\*\*\*If set to On, when the system is Away Armed and under exit timer countdown, if an opened Door Contact set to Entry attribute is closed, the system will automatically arm the system even if the exit delay timer has not expired yet.
+* **Final Door**:If set to On, when the system is Away Armed and under exit timer countdown, if an opened Door Contact set to Entry attribute is closed, the system will automatically arm the system even if the exit delay timer has not expired yet.
 * **Arm Fault Type**: Select how the system should respond when it is being armed under fault condition.
   * Confirm: The Panel will first display a “Mode Change Fault” message and emit 2 beeps. If you still want to arm the system, you will need to bypass the faults on the fault list first or repeat the arming action within 30 seconds to Force Arm the system.
   * Direct Confirm: The system will force arm directly without displaying fault messages and report an event.
@@ -927,10 +919,9 @@ Some devices have their own unique functions and will have its own attribute set
 
 To use Fire Verification, the following sensor and panel setting must be adjusted:
 
-*
-  * At least 1 Smoke Detector must be set to 24 HR – Fire with Verification attribute.
-  * The Fire Verification Timer option under Panel Setting webpage must be enabled.
-  * When a Smoke Detector set to Fire Verification attribute is triggered, the Panel begins to sound the alarm, count down Fire Verification Timer, and report a Near Alarm event (CID 118).
+* At least 1 Smoke Detector must be set to 24 HR – Fire with Verification attribute.
+* The Fire Verification Timer option under Panel Setting webpage must be enabled.
+* When a Smoke Detector set to Fire Verification attribute is triggered, the Panel begins to sound the alarm, count down Fire Verification Timer, and report a Near Alarm event (CID 118).
 * **Door Chime**: this function is available only when the attribute of Door Contact **(DC)** and/or PIR detector **(IR)is set as Door Chime**.
 
 The Control Panel sounds a Door Chime (Ding-Dong Sound) while the DC and/or IR is activated in Disarm / Full / Home / Entry mode.
@@ -947,15 +938,13 @@ The Control Panel sounds a Door Chime (Ding-Dong Sound) while the DC and/or IR i
 
 If the Control Panel is disarmed before the Entry Delay Timer expires, the panel returns to Disarm mode and no alarm is activated. If the Control Panel is not disarmed before the Entry Delay Timer expires, the alarm will be activated and the panel will send report.
 
-* \*\*Entry Delay Time 2:\*\*Set Entry Delay Timer 2 for full arm mode. When a sensor set to Entry Delay 2 is triggered under Full Arm mode, the Control Panel will begin Entry Delay countdown according to duration set in this option.
+* **Entry Delay Time 2:** Set Entry Delay Timer 2 for full arm mode. When a sensor set to Entry Delay 2 is triggered under Full Arm mode, the Control Panel will begin Entry Delay countdown according to duration set in this option.
 
 If the Control Panel is disarmed before the Entry Delay Timer expires, the Panel returns to Disarm mode and doesn’t activate an alarm. If the Control Panel is not disarmed before the timer expires, it will activate an alarm and send a report.
 
 * **Exit Delay Time**: Set the Exit Delay Timer when entering Full Arm mode. When the user changes system mode to Full Arm, the Panel will begin Exit Delay countdown and enter Full Arm mode when the timer expires. The user must leave the areas protected by sensors before the timer expires, otherwise the sensor will trigger an alarm.
-* **Entry Delay Sound**:\*\*\*\*Select whether the Control Panel sounds countdown beeps during the entry delay time in the full arm mode and set the beep volume.
+* **Entry Delay Sound**: Select whether the Control Panel sounds countdown beeps during the entry delay time in the full arm mode and set the beep volume.
 * **Exit Delay Sound**: Select whether the Control Panel sounds countdown beeps during the exit delay timer in the full arm mode and set the beep volume.
-
-***
 
 ![](<.gitbook/assets/Unknown image (219)>)
 
@@ -965,12 +954,12 @@ If the Control Panel is disarmed before the Entry Delay Timer expires, the Panel
 
 If the Control Panel is disarmed before the Entry Delay Timer expires, the Panel returns to Disarm mode does not activate an alarm. If the Control Panel is not disarmed before the Entry Delay Timer expires, it will activate an alarm and send a report.
 
-* \*\*Entry Delay Time 2:\*\*Set Entry Delay Timer 2 for Home Arm mode. When a sensor set to Entry Delay 2 is triggered under Home Arm mode, the Control Panel will begin Entry Delay Timer countdown according to duration set in this option.
+* **Entry Delay Time 2:** Set Entry Delay Timer 2 for Home Arm mode. When a sensor set to Entry Delay 2 is triggered under Home Arm mode, the Control Panel will begin Entry Delay Timer countdown according to duration set in this option.
 
 If the Control Panel is disarmed before the Entry Delay Timer expires, the Panel returns to Disarm mode and does not activate an alarm. If the Control Panel is not disarmed before the Entry Delay Timer expires, it will activate an alarm and send a report.
 
 * **Exit Delay Time**: Set the Exit Delay Timer when entering Home Arm mode. When the user changes system mode to Home Arm, the Panel will begin Exit Delay Countdown and enter Home Arm mode when the timer expires. The user must leave the areas protected by sensors before the timer expires, otherwise the sensor will trigger an alarm.\*\*\*\*
-* **Entry Delay Sound**:\*\*\*\*Select whether the Control Panel sounds countdown beeps during the entry delay time in the home arm mode and set the beep volume.
+* **Entry Delay Sound**: Select whether the Control Panel sounds countdown beeps during the entry delay time in the home arm mode and set the beep volume.
 * **Exit Delay Sound**: Select whether the Control Panel sounds countdown beeps during the exit delay timer in the home arm mode and set the beep volume.
 
 **5.2.2.2. Panel**
@@ -980,30 +969,14 @@ If the Control Panel is disarmed before the Entry Delay Timer expires, the Panel
 **Panel Settings**
 
 * **AC Fail Report**: When an AC power failure is detected, your Control Panel will report to the Central Monitoring Station according to the duration set under AC Fail Report. If 5 minutes is set, the event will be automatically reported to the CMS after 5 minutes. Your Control Panel will then be powered by the backup battery until the fault is cleared.
-* **Jamming Report**: Jamming period is specified as background RSSI level detected exceeds the threshold for a duration. The jamming period detected will be accumulated.
-
-3 options, Disable, 1 minute, and 2 minutes, are provided. If 1 minute is set, once the total jamming period exceeds 30 seconds within 1 minute, a “Jamming” message will be reported to the Central Monitoring Station. If 2 minutes is set, once the total jamming period exceeds 60 seconds within 2 minutes, a “Jamming” message will be reported. If Diable is set, the Panel will not send a jamming report when detecting a jamming fault.
-
+* **Jamming Report**: Jamming period is specified as background RSSI level detected exceeds the threshold for a duration. The jamming period detected will be accumulated. 3 options, Disable, 1 minute, and 2 minutes, are provided. If 1 minute is set, once the total jamming period exceeds 30 seconds within 1 minute, a “Jamming” message will be reported to the Central Monitoring Station. If 2 minutes is set, once the total jamming period exceeds 60 seconds within 2 minutes, a “Jamming” message will be reported. If Diable is set, the Panel will not send a jamming report when detecting a jamming fault.
 * **Auto Check-in Interval**:**Select whether the Control Panel needs to send check-in reporting to the Central Station automatically and to select the interval between check-in reports. Options available are Disable, 1 hour**,\*\* 2 hours\*\*,\*\* 3 hours… up to 4 Weeks\*\*.
-* **Auto Check-in Offset Period**:\*\*\*\*Set the time delay before the first **Auto Check-In** report is made. After power is supplied or re-supplied to the Control Panel, a test report will be sent to the Central Monitoring Station (CMS) based on the Offset Period. This is used to test whether the CMS can receive the report from the Panel successfully.
-
-After this test report is sent, the Control Panel will then send reports at regular interval based on the setting of the Auto Check-in Report.
-
-For example, if **Offset** **Period** is set to 2 Hours, and **Auto Check-in Report** is set to 12 hours, the Control Panel will transmit an event code 602 to the CMS after 2 hours, and then report event 602 periodically at a regular interval of 12 hours.
-
+* **Auto Check-in Offset Period**:\*\*\*\*Set the time delay before the first **Auto Check-In** report is made. After power is supplied or re-supplied to the Control Panel, a test report will be sent to the Central Monitoring Station (CMS) based on the Offset Period. This is used to test whether the CMS can receive the report from the Panel successfully. After this test report is sent, the Control Panel will then send reports at regular interval based on the setting of the Auto Check-in Report. For example, if **Offset** **Period** is set to 2 Hours, and **Auto Check-in Report** is set to 12 hours, the Control Panel will transmit an event code 602 to the CMS after 2 hours, and then report event 602 periodically at a regular interval of 12 hours.
 * **IR Camera Resolution of Alarm Images**:\*\*\*\*Select the resolution and number of pictures taken by PIR Camera when the camera detects a movement in armed mode.
-* **Outdoor IR Camera in Greysclae**:\*\*\*\*Select whether pictures from Outdoor PIR Camera should be taken in greyscale instead of color pictures.
-
-Options available are: **Disable**(Color Picture) and **Enable** (Greyscale picture)
-
+* **Outdoor IR Camera in Greysclae**:\*\*\*\*Select whether pictures from Outdoor PIR Camera should be taken in greyscale instead of color pictures. Options available are: **Disable**(Color Picture) and **Enable** (Greyscale picture)
 * **Bypass Ethernet Fault**:\*\*\*\*Select whether to enable or disable Bypass Ethernet function. When **ON** is selected, the Control Panel will bypass connection fault when Ethernet cable is unplugged.
 * **Panel AI Recognition:**
-* Enable this function to activate the Panel's AI feature for processing alarm images to detect humans. After enabling this function in the Panel settings, the AI recognition feature must still be enabled individually for each PIR Camera. This allows the Panel to process images specifically from cameras with this feature activated.
-
-When the AI recognizes a person in the image, an AI icon will be displayed alongside the image on the Event page."
-
-Alarm images, along with the AI detection results, are transmitted to the CMS, enabling the CMS to prioritize the new alarm queue based on this AI detection.
-
+* Enable this function to activate the Panel's AI feature for processing alarm images to detect humans. After enabling this function in the Panel settings, the AI recognition feature must still be enabled individually for each PIR Camera. This allows the Panel to process images specifically from cameras with this feature activated. When the AI recognizes a person in the image, an AI icon will be displayed alongside the image on the Event page." Alarm images, along with the AI detection results, are transmitted to the CMS, enabling the CMS to prioritize the new alarm queue based on this AI detection.
 * Disable this option to turn off the Panel's AI feature completely.
 
 **Program RF Siren**
@@ -1011,9 +984,13 @@ Alarm images, along with the AI detection results, are transmitted to the CMS, e
 * \*\*Siren Tamper On:\*\*You can enable all RF Sirens tamper protection with this function. Select to turn on the sirens tamper function.
 * \*\*Siren Tamper Off:\*\*You can disable all RF Sirens tamper protection with this function. Select to turn off the sirens tamper function.
 
-![](<.gitbook/assets/Unknown image (221)>) ![](<.gitbook/assets/Unknown image (222)>)
+{% hint style="info" %}
+Note:
 
- When turned off, siren tamper will be enabled again automatically after one hour if not turned on manually during the one-hour period. **Panel Info**
+When turned off, siren tamper will be enabled again automatically after one hour if not turned on manually during the one-hour period.
+{% endhint %}
+
+**Panel Info**
 
 * The Control Panel’s information, including firmware version, mac address, RF version, Z-wave version, and GSM version, will be displayed.
 
@@ -1023,25 +1000,13 @@ Alarm images, along with the AI detection results, are transmitted to the CMS, e
 
 The Master Code, Installer Code, Duress Code, Guard Code, and Temporary Code add the flexibility of different security levels for operation in **Code Settings** menu.
 
-***
-
-Key in your
-
-preferred
-
-4
-
-*
-
-6
-
-digit codes.
-
 ![](<.gitbook/assets/Unknown image (224)>)
+
+Key in your preferred 4-6 digit codes.
 
 * **Master Code**
 
-The default Master codes are 1111 and 2222 for all areas. **For security reasons, please change both default master codes.**
+The default Master codes are 1111 and 2222 for all areas. <mark style="color:red;">For security reasons, please change both default master codes.</mark>
 
 * **Installer Code**
 
@@ -1052,9 +1017,9 @@ The Installer Code is used for advanced Programming. The default Installer code 
 * **Temporary Code:Temporary Code is also used to arm/disarm the system, but it is for a temporary user. The temporary Code is ONLY valid for one-access per arming and disarming. Afterwards, the Temporary Code will be automatically erased and needs to be reset for a new Temporary user.**
 * **Latch Option:** This is to program the Latch Key Reporting feature for Temporary Code.
 
-![](<.gitbook/assets/Unknown image (225)>)Latch  **Latch Report ON** = Whenever the Temporary Code is used to change system mode, the panel will report the event.
+![](<.gitbook/assets/Unknown image (225)>)Latch -> **Latch Report ON** = Whenever the Temporary Code is used to change system mode, the panel will report the event.
 
-![](<.gitbook/assets/Unknown image (226)>)Latch \*\* Latch Report OFF\*\* = Whenever the Temporary Code is used to change system mode, the panel will not report the event.
+![](<.gitbook/assets/Unknown image (226)>)Latch -> **Latch Report OFF** = Whenever the Temporary Code is used to change system mode, the panel will not report the event.
 
 **Delete**
 
@@ -1072,17 +1037,7 @@ After completing all settings, tap **Submit**to save the changes.
 
 Tap **Submit** to save the settings.
 
-**5.2.2.5**
-
-**.**
-
-***
-
-**Factory Reset**
-
-***
-
-***
+**5.2.2.5. Factory Reset**
 
 ![](<.gitbook/assets/Unknown image (228)>)
 
@@ -1103,19 +1058,17 @@ Tap **Submit** to save the settings (submission is not allowed if the fields are
 
 The User PIN Codes are used to control system mode. Each consists of 4-6 digits (numeric number 0\~9).
 
-User PIN code #1 for each Area is always activated factory default. **For security reasons, please remember to change default PIN codes.**
+User PIN code #1 for each Area is always activated factory default. <mark style="color:red;">For security reasons, please remember to change default PIN codes.</mark>
 
-User PIN #1 in Area 1 User PIN #1 in Area 2
+User PIN #1 in Area 1                        User PIN #1 in Area 2
 
-\*\*\*\*Password: **1234**Password: **4321**
+Password: **1234**                           Password: **4321**
 
 Tag Number will be displayed if the Panel has learned in any device (e.g. keypad, tag reader) that supports remote Tag configuration.
 
-**Area**
-
-***
-
 ![](<.gitbook/assets/Unknown image (230)>)
+
+**Area**
 
 **Area**: Select the area for setting User PIN Code.
 
@@ -1125,23 +1078,17 @@ Tag Number will be displayed if the Panel has learned in any device (e.g. keypad
 * **PIN Code**: Enter the 4-6 digit code in the field.\*\*\*\*
 * **Latch:**
 
-\*\*\*\*![](<.gitbook/assets/Unknown image (225)>)Latch  **Latch Report ON** = Whenever the User PIN Code is used to change system mode, the panel will report the event.
+![](<.gitbook/assets/Unknown image (225)>)Latch -> **Latch Report ON** = Whenever the User PIN Code is used to change system mode, the panel will report the event.
 
-![](<.gitbook/assets/Unknown image (226)>)Latch \*\* Latch Report OFF\*\* = When the User PIN Code is used to change system mode, the panel will not report the event.
+![](<.gitbook/assets/Unknown image (226)>)Latch ->  **Latch Report OFF**= When the User PIN Code is used to change system mode, the panel will not report the event.
 
 * **Tag Numer**: When the keypad / tag reader reads a new tag, pressing the **Load button** will load the tag number.
 
 **Clear**
 
-To clear PIN Code information, tap ![](<.gitbook/assets/Unknown image (231)>) on the upper right to access the clear menu. Select PIN code(s) to be removed, and tap Clear.
+To clear PIN Code information, tap <img src=".gitbook/assets/Unknown image (231)" alt="" data-size="line"> on the upper right to access the clear menu. Select PIN code(s) to be removed, and tap Clear.
 
-**User#1**
-
-in each area cannot be deleted
-
-.
-
-***
+**User#1** in each area cannot be deleted.
 
 ![](<.gitbook/assets/Unknown image (232)>)
 
@@ -1169,27 +1116,9 @@ The system can be connected through Ethernet, WiFi, or 4G/LTE. When all the thre
 
 WiFi connection provides backup to Ethernet to extend system flexibility.
 
-***
-
-**5.2.**
-
-**5**
-
-**.1**
-
-**.**
-
-***
-
-**GSM**
-
-***
-
-***
-
 ![](<.gitbook/assets/Unknown image (235)>)
 
-***
+**5.2.5.1. GSM**
 
 ![](<.gitbook/assets/Unknown image (236)>)
 
@@ -1205,27 +1134,11 @@ WiFi connection provides backup to Ethernet to extend system flexibility.
 
 **Two-way**
 
- \*\*Speaker Volume:\*\*Adjust the speaker volume during two-way communication.
+Speaker Volume: Adjust the speaker volume during two-way communication.
 
 Tap “Submit” to confirm the settings.
 
-**5.2.**
-
-**5**
-
-**.2**
-
-**.**
-
-***
-
-**GPRS**
-
-***
-
-***
-
-***
+**5.2.5.2. GPRS**
 
 ![](<.gitbook/assets/Unknown image (237)>)
 
@@ -1235,37 +1148,21 @@ Tap “Submit” to confirm the settings.
 * **Username:** It is the Log-in name to input before accessing the [GPRS](http://en.wikipedia.org/wiki/GPRS)feature. Please inquire your service provider.\*\*\*\*
 * **Password:It is the User Password to input before accessing the** [**GPRS**](http://en.wikipedia.org/wiki/GPRS)**feature. Please inquire your service provider.**
 
-***
-
 **5.2.5.3. Wireless**
-
-***
 
 ![](<.gitbook/assets/Unknown image (238)>)
 
 **Wireless**
 
- Select the WiFi SSID of the router for the Control Panel to connec to. Enter the WiFi network password if required, and tap “OK”.
+Select the WiFi SSID of the router for the Control Panel to connec to. Enter the WiFi network password if required, and tap “OK”.
 
- Adding WiFi connection is NOT allowed when the Panel is connected through Ethernet.
+Adding WiFi connection is NOT allowed when the Panel is connected through Ethernet.
 
 **5.2.6. Report**
 
-**5.2.**
-
-**6**
-
-**.1**
-
-**.**
-
-***
-
-**Report**
-
-***
-
 ![](<.gitbook/assets/Unknown image (239)>)
+
+**5.2.6.1. Report**
 
 This page allows installers to configure report-related settings for reporting purposes.
 
@@ -1277,7 +1174,9 @@ This page allows installers to configure report-related settings for reporting p
 
 **Step 3** Select **Groupt number** to determine reporting sequence, and report condition. gram the report destination.
 
-Tap “Submit” at bottom of page to confirm setting. **Report Format**
+Tap “Submit” at bottom of page to confirm setting.&#x20;
+
+**Report Format**
 
 Tap the info icon ![](<.gitbook/assets/Unknown image (241)>) to display the Report format.
 
@@ -1343,7 +1242,7 @@ Example: mailto:john@gmail.com
 
 **Group**
 
- \*\*Reporting Sequence:\*\*Select a group for your report destination The system will make report according to the following principle:
+**Reporting Sequence:** Select a group for your report destination The system will make report according to the following principle:
 
 * Group with higher priority will be reported first: Ex: Group 1  Group 2  Group 3….
 * If reporting to the first destination in a group fails, the system will move on to the next report destination in the group.
@@ -1351,12 +1250,12 @@ Example: mailto:john@gmail.com
 * If reporting to all destinations in a group fails, the system will retry report to group according to retry times set below. If reporting is still unsuccessful after retries, the system will move on to report the the next group according to Essential/Optional setting below.
 * After completing a round of reporting (From Group 1  Group 2 ….. Group5), If there is any group set as Essential which has not received report successfully, the system will restart the reporting cycle to retry reporting until every group set as Essential is reported successfully.
 
- **Essential/Optional:**
+**Essential/Optional:**
 
 * Essential: the system will report to all groups set as **Essential**. The system will never give up trying to report to any group set as Essential until at least one of the destinations in every Essential group successfully receives the report. Group 1 is always set as **Essential** and cannot be changed.
 * Optional: The system will only report to group set as **Optional**when reporting to its previous group fails. For example: if Group 3 is set is optional, the Control Panel will only report to Group 3 if reporting to Group 2 fails.
 
- **Retry:** If reporting to all destinations in a group fails, the system will retry reporting to the group according to the retries times set here.
+**Retry:** If reporting to all destinations in a group fails, the system will retry reporting to the group according to the retries times set here.
 
 **Level**
 
@@ -1368,31 +1267,19 @@ Alarm events: The system will only report alarm event to this destination.
 
 Status events: The system will only report status event(non-alarm events) to this destination.
 
- \*\*Test Button:\*\*There is a "Test" button on the right of each report destination row. When tapped, the system will send a manual test report. A green check indicates that the report was sent successfully, and a red cross indicates the report failed.
-
-**5.2.**
-
-**6**
-
-**.2**
-
-**.**
-
-***
-
-**Media Upload**
-
-***
+**Test Button:** There is a "Test" button on the right of each report destination row. When tapped, the system will send a manual test report. A green check indicates that the report was sent successfully, and a red cross indicates the report failed.
 
 ![](<.gitbook/assets/Unknown image (243)>)
+
+**5.2.6.2. Media Upload**
 
 The system can deliver captured images and video clips captured by PIR Cameras and PIR Video Camera to cell phone, e-mail, or ftp.
 
 ![](<.gitbook/assets/Unknown image (244)>)
 
-**Step 1**Tap **+** icon to add an upload destination. A dialogbox will pop up for you to program the upload destination.
+**Step 1** Tap **+** icon to add an upload destination. A dialogbox will pop up for you to program the upload destination.
 
-**Step 2**Select the **Upload Method**, and tap **Next** to input up information.
+**Step 2** Select the **Upload Method**, and tap **Next** to input up information.
 
 Tap **Submit** to save the settings.
 
@@ -1400,14 +1287,14 @@ Tap **Submit** to save the settings.
 
 Tap the info icon to display the upload method.
 
-***
-
 ![](<.gitbook/assets/Unknown image (245)>)
 
 * **FTP:**[ ftp://user.password@server/path](ftp://user.password@server/path)
 * **HTTP:** http://ip:port/path
 * **Email**: mailto:user@server (transmitting an alarm image over Ethernet)
-* **Manitou**: manitou://user@server:port **5.2.6.3. SMS**
+* **Manitou**: manitou://user@server:port&#x20;
+
+**5.2.6.3. SMS**
 
 This is used for setting SMS reporting.
 
@@ -1415,7 +1302,7 @@ This is used for setting SMS reporting.
 
 **Step 1** Tap **+** to add an SMS report destination. A dialogbox will appear, allowing you to program the report destination.
 
-**Step 2**Select the\*\* SMS Report Format\*\*, and tap **Next** to input up information.
+**Step 2** Select the\*\* SMS Report Format\*\*, and tap **Next** to input up information.
 
 Tap **Submit** to save the settings.
 
@@ -1472,9 +1359,9 @@ The panel will enter a waiting period for call back after initial alarm report h
 VOIP SIP Settings
 
 * **Callback Timer:** The panel will enter a waiting period for call back after initial alarm report has ended.
-* \*\*Username:\*\*Enter your username in the VOIP server  \*\*Password:\*\*Enter the password.
+* Username: Enter your username in the VOIP server   Password: Enter the password.
 * **Server Info:** Enter Domain, Port, Proxy Server, STUN Server info. Make sure to check **Enable STUN.**
-* \*\*SIP:\*\*Enter the SIP number of call recipient for the Panel to dial to.
+* SIP: Enter the SIP number of call recipient for the Panel to dial to.
 
 Tap **Submit** to confirm.
 
@@ -1484,14 +1371,16 @@ Program the mail server related settings. The email account you set here would b
 
 ![](<.gitbook/assets/Unknown image (6)>)
 
-**Step 1** Enter the following settings:\*\*\*\*
+**Step 1** Enter the following settings:
 
-* \*\*Server:\*\*Set the mail server (max. 60 digits/alphabets).
+* **Server:** Set the mail server (max. 60 digits/alphabets).
 * **Port**: Set the port number (max. 5 digits/alphabets).
-* \*\*Username:\*\*Set the mail account name (max. 30 digits/alphabets).
-* \*\*Password:\*\*Set the password corresponding to the mail account name (max. 30 digits/alphabets).
-* \*\*From:\*\*Set the email address according to your mail server and account name. If your mail server supports other email address, you can enter the email address here. (max. 30 digits/alphabets).
-* **Using TLS/SSL encrypted channels (Secure SMTP):If your mail server uses TLS or SSL encryption method for secure transfer, please tap the box to enable the setting Step 2 Tap Submit to confirm the settings.**
+* **Username:** Set the mail account name (max. 30 digits/alphabets).
+* **Password:** Set the password corresponding to the mail account name (max. 30 digits/alphabets).
+* **From:** Set the email address according to your mail server and account name. If your mail server supports other email address, you can enter the email address here. (max. 30 digits/alphabets).
+* **Using TLS/SSL encrypted channels (Secure SMTP):**&#x49;f your mail server uses TLS or SSL encryption method for secure transfer, please tap the box to enable the setting
+
+&#x20;**Step 2** Tap **Submit** to confirm the settings.
 
 **5.2.7. Wired Device**
 
@@ -1499,51 +1388,20 @@ Program the mail server related settings. The email account you set here would b
 
 There are two on-board wired zones on TouchPanel-3.
 
- One wired control output (open collector)
-
-
-
-One
-
-wired input (non
-
-*
-
-powered)
+* One wired control output (open collector)
+* One wired input (non powered)
 
 ![](<.gitbook/assets/Unknown image (8)>)
 
 **Device 1 (Wired Output)**
 
-**Type**: Select to activate the power switch from the Type dropdown menu. The default setting is
+**Type**: Select to activate the power switch from the Type dropdown menu. The default setting is “Disabled”
 
-“Disabled”
+**Edit** ![](<.gitbook/assets/image (449).png>) Tap to assign the output power switch to a zone and area.
 
-**Edit**
+<figure><img src=".gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
 
-**:**
-
-***
-
-Tap to a
-
-ssign the output power switch to a zone
-
-and area.
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-![](<.gitbook/assets/Unknown image (9)>) ![](<.gitbook/assets/Unknown image (10)>) ![](<.gitbook/assets/Unknown image (11)>)
+![](<.gitbook/assets/Unknown image (10)>) ![](<.gitbook/assets/Unknown image (11)>)
 
 **Device 2 (Wired Input)**
 
