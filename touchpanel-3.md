@@ -4,7 +4,7 @@ TouchPanel 3
 
 ## Qallmax - Touch-Screen Intrusion panel&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Introduction
 
@@ -226,11 +226,11 @@ The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users 
 
 7. Remove the liner from the tape on the back of the paper card, stick the card to the wall to prevent slipping, then fasten the two bottom fixing screws of the Panel.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Fold the two flaps of the paper card outward, route the power cable through the AUX-PS opening, and connect power cable through the AUX-PS opening, and connect and secure the two cable wires to the AUX-PS terminals.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>8                                                                                                            9</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>8                                                                                                            9</p></figcaption></figure>
 
 9. **Firmly press AUX - PS against** TouchPanel-3, then use the two holes on AUX-PS as a template to mark and drill two screw holes into the wall.&#x20;
 
@@ -286,11 +286,11 @@ Tap the widget that you want to check. When there is a fault or supervision fail
 
 The Security page displays current system mode for quick control access.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](<.gitbook/assets/Unknown image (162)>)
 
-<table data-header-hidden><thead><tr><th width="162"></th><th width="164" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Section</strong></td><td align="center"><strong>Icon</strong></td><td><strong>Description</strong></td></tr><tr><td><p><strong>1. Internet</strong></p><p><strong>Indicator</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (163)" alt=""></td><td>When the Ethernet is connected</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (164)" alt="" data-size="original"></td><td>When WiFi is connected <img src=".gitbook/assets/Unknown image (165)" alt="" data-size="line"> (Strong – Weak)</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (166)" alt="" data-size="original"><br></td><td>When cellular network is connected <img src=".gitbook/assets/image (4).png" alt=""> (Strong - Weak)</td></tr><tr><td></td><td align="center"><br><img src=".gitbook/assets/image (7).png" alt=""></td><td>Internet is disconnected</td></tr><tr><td></td><td align="center"><strong>Note</strong></td><td>The panel supports Ethernet, Wi-Fi, and LTE. If all are available, it will prioritize in this order: Ethernet > Wi-Fi > LTE.</td></tr><tr><td><strong>2. Ongoing call</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (162)" alt=""></td><td>During 2-way communication, the call icon will be displayed.****</td></tr><tr><td><strong>3. Power</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (168)" alt=""></td><td>When powered by AC, a plug icon will be displayed.</td></tr><tr><td></td><td align="center"><div><figure><img src=".gitbook/assets/image (6).png" alt="" width="42"><figcaption></figcaption></figure></div></td><td>When powered by the backup battery, the battery percentage will be displayed.</td></tr><tr><td><strong>4. Setting</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (170)" alt=""></td><td>Tap the gear icon to access the Settings menu. Please refer to later section <em><strong>5. Settings</strong></em>.</td></tr><tr><td><strong>5. Date, Time, and Weather</strong></td><td align="center">---</td><td>Display current date and time.</td></tr><tr><td><strong>6. Area</strong></td><td align="center">---</td><td>Tap the area to select the Area to be displayed.</td></tr><tr><td><p><strong>7. System</strong></p><p><strong>Mode</strong></p></td><td align="center"></td><td>Disarm,             Away Arm,            Home Arm<img src=".gitbook/assets/Unknown image (171)" alt=""><img src=".gitbook/assets/Unknown image (172)" alt=""><img src=".gitbook/assets/Unknown image (173)" alt=""></td></tr><tr><td><strong>8. SOS Button</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (174)" alt=""></td><td>Press and hold the SOS button for 3 seconds to activate an Emergency alarm.</td></tr><tr><td><strong>9. Panel Status</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (175)" alt=""></td><td>When Fault event exists within the panel, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>10. Door</strong></p><p><strong>Contact</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (176)" alt=""></td><td>The total number of Door Contacts in the alarm system will be displayed. When Fault event exists within the Door Contacts, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>11. Device</strong></p><p><strong>Status</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (177)" alt=""></td><td>The total number of non-Door Contact sensors in the alarm system will be displayed. When Fault event exists within the devices, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="162"></th><th width="164" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Section</strong></td><td align="center"><strong>Icon</strong></td><td><strong>Description</strong></td></tr><tr><td><p><strong>1. Internet</strong></p><p><strong>Indicator</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (163)" alt=""></td><td>When the Ethernet is connected</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (164)" alt="" data-size="original"></td><td>When WiFi is connected <img src=".gitbook/assets/Unknown image (165)" alt="" data-size="line"> (Strong – Weak)</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (166)" alt="" data-size="original"><br></td><td>When cellular network is connected <img src=".gitbook/assets/image (4) (1).png" alt=""> (Strong - Weak)</td></tr><tr><td></td><td align="center"><br><img src=".gitbook/assets/image (7).png" alt=""></td><td>Internet is disconnected</td></tr><tr><td></td><td align="center"><strong>Note</strong></td><td>The panel supports Ethernet, Wi-Fi, and LTE. If all are available, it will prioritize in this order: Ethernet > Wi-Fi > LTE.</td></tr><tr><td><strong>2. Ongoing call</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (162)" alt=""></td><td>During 2-way communication, the call icon will be displayed.****</td></tr><tr><td><strong>3. Power</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (168)" alt=""></td><td>When powered by AC, a plug icon will be displayed.</td></tr><tr><td></td><td align="center"><div><figure><img src=".gitbook/assets/image (6) (1).png" alt="" width="42"><figcaption></figcaption></figure></div></td><td>When powered by the backup battery, the battery percentage will be displayed.</td></tr><tr><td><strong>4. Setting</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (170)" alt=""></td><td>Tap the gear icon to access the Settings menu. Please refer to later section <em><strong>5. Settings</strong></em>.</td></tr><tr><td><strong>5. Date, Time, and Weather</strong></td><td align="center">---</td><td>Display current date and time.</td></tr><tr><td><strong>6. Area</strong></td><td align="center">---</td><td>Tap the area to select the Area to be displayed.</td></tr><tr><td><p><strong>7. System</strong></p><p><strong>Mode</strong></p></td><td align="center"></td><td>Disarm,             Away Arm,            Home Arm<img src=".gitbook/assets/Unknown image (171)" alt=""><img src=".gitbook/assets/Unknown image (172)" alt=""><img src=".gitbook/assets/Unknown image (173)" alt=""></td></tr><tr><td><strong>8. SOS Button</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (174)" alt=""></td><td>Press and hold the SOS button for 3 seconds to activate an Emergency alarm.</td></tr><tr><td><strong>9. Panel Status</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (175)" alt=""></td><td>When Fault event exists within the panel, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>10. Door</strong></p><p><strong>Contact</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (176)" alt=""></td><td>The total number of Door Contacts in the alarm system will be displayed. When Fault event exists within the Door Contacts, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>11. Device</strong></p><p><strong>Status</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (177)" alt=""></td><td>The total number of non-Door Contact sensors in the alarm system will be displayed. When Fault event exists within the devices, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr></tbody></table>
 
 **4.2.1. Change System Mode**
 
@@ -1401,47 +1401,37 @@ There are two on-board wired zones on TouchPanel-3.
 
 <figure><img src=".gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/Unknown image (10)>) ![](<.gitbook/assets/Unknown image (11)>)
-
 **Device 2 (Wired Input)**
 
-\*\*Type:\*\*Select the type of the wired sensor for each hardwired zone from the dropdown menu.
+**Type**: Select the type of the wired sensor for each hardwired zone from the dropdown menu.
 
-\*\*Loop:\*\*Select the number of loop (1 or 2) corresponding to the wiring for each device from the dropdown menu.
+**Loop**: Select the number of loop (1 or 2) corresponding to the wiring for each device from the dropdown menu.
 
-Tap
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-the info icon
+Tap the info icon   ![](<.gitbook/assets/image (1).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
 
-t
+![](<.gitbook/assets/Unknown image (13)>)
 
-o display wiring diagrams of Loop 1 & 2 for your reference.
-
-![](<.gitbook/assets/Unknown image (12)>) ![](<.gitbook/assets/Unknown image (241)>) ![](<.gitbook/assets/Unknown image (13)>)
-
-**Edit**![](<.gitbook/assets/Unknown image (14)>)\*\*:\*\*Tap to assign the wired input device to a zone and area.
+**Edit**<img src=".gitbook/assets/Unknown image (14)" alt="" data-size="line"> :Tap to assign the wired input device to a zone and area.
 
 After completing all settings, tap **Submit** to save the changes.
-
-***
 
 #### 5.3. Hotspot Sharing
 
 TouchPanel-3 can function as a hotspot, sharing internet connection for nearby devices by setting the SSID and Password.
 
-This function is available whether the Panel is connected through Ethernet, WiFi, or GPRS. Only master user or installer can turn on this function and program its settings.\*\*\*\*
+This function is available whether the Panel is connected through Ethernet, WiFi, or GPRS. Only master user or installer can turn on this function and program its settings.
 
 Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to access hotspot setting.
 
-
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Toggle ON/OFF the Hotspot Sharing function.
 
-![](<.gitbook/assets/Unknown image (15)>) ![](<.gitbook/assets/Unknown image (81)>)
-
 ![](<.gitbook/assets/Unknown image (16)>)
 
- Enter the SSID and Password, and tap Submit. (Both SSID and Password can be edited no matter what toggle status is. Toggle status won't be changed after SSID or Password is edited.)
+* Enter the SSID and Password, and tap Submit. (Both SSID and Password can be edited no matter what toggle status is. Toggle status won't be changed after SSID or Password is edited.)
 
 ![](<.gitbook/assets/Unknown image (17)>)
 
@@ -1461,31 +1451,29 @@ Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to ente
 
 **Pairing your smartphone with TouchPanel-3**
 
-**Step 1.On your smartphone, tap on Settings** >> **Bluetooth**, and toggle the switch to turn on Bluetooth. Stay on this page.
+**Step 1. On your smartphone, tap on Settings** >> **Bluetooth**, and toggle the switch to turn on Bluetooth. Stay on this page.
 
 ![](<.gitbook/assets/Unknown image (19)>) ![](<.gitbook/assets/Unknown image (20)>)
 
-\*\*Step 2.\*\*On TouchPanel-3, navigate to the Bluetooth Disarming settings page and tap to enter Bluetooth pairing mode.
+**Step 2.** On TouchPanel-3, navigate to the Bluetooth Disarming settings page and tap <img src=".gitbook/assets/image (3).png" alt="" data-size="line"> to enter Bluetooth pairing mode.
 
-![](<.gitbook/assets/Unknown image (21)>)
-
-A Bluetooth icon will appear, indicating that Bluetooth is active.
+A Bluetooth icon ![](<.gitbook/assets/image (4).png>) will appear, indicating that Bluetooth is active.
 
 ![](<.gitbook/assets/Unknown image (22)>) ![](<.gitbook/assets/Unknown image (23)>) ![](<.gitbook/assets/Unknown image (24)>)
 
-\*\*Step 3.\*\*The scanned mobile device will be displayed. Select the device by tapping the radio button and then tap **Submit**.
+**Step 3.** The scanned mobile device will be displayed. Select the device by tapping the radio button and then tap **Submit**.
 
 ![](<.gitbook/assets/Unknown image (25)>)
 
-\*\*Step 4.\*\*The Bluetooth pairing request with a pairing code will appear on both devices. Confirm and tap **Pair** on both devices to complete the pairing.
+**Step 4.** The Bluetooth pairing request with a pairing code will appear on both devices. Confirm and tap **Pair** on both devices to complete the pairing.
 
 ![](<.gitbook/assets/Unknown image (26)>) ![](<.gitbook/assets/Unknown image (27)>)
 
-\*\*Step 5.\*\*When pairing is successful, tap OK to proceed to **Set User PIN** page. Input the corresponding User PIN for applicable area(s), then tap Submit.
+**Step 5.** When pairing is successful, tap OK to proceed to **Set User PIN** page. Input the corresponding User PIN for applicable area(s), then tap Submit.
 
 ![](<.gitbook/assets/Unknown image (28)>) ![](<.gitbook/assets/Unknown image (29)>)
 
-\*\*Step 6.\*\*Bluetooth pairing is complete. You can go back to **Bluetooth Disarming** setting page to verify that your smartphone is listed as a paired device.
+**Step 6.** Bluetooth pairing is complete. You can go back to **Bluetooth Disarming** setting page to verify that your smartphone is listed as a paired device.
 
 ![](<.gitbook/assets/Unknown image (30)>)
 
@@ -1501,7 +1489,7 @@ It is normal for TouchPanel-3 to show as "Not Connected" on your smartphone, as 
 
 To disarm the system via a paired smartphone:
 
- When the system is away armed, approach TouchPanel-3 with the paired smartphone. Once TouchPanel-3 detects the paired smartphone within the BLE range, the system will automatically disarm.
+* When the system is away armed, approach TouchPanel-3 with the paired smartphone. Once TouchPanel-3 detects the paired smartphone within the BLE range, the system will automatically disarm.
 
 _**Note:**_
 
@@ -1514,47 +1502,15 @@ Go to **Bluetooth Disarming** setting page to access a list of paired devices. T
 
 ![](<.gitbook/assets/Unknown image (33)>) ![](<.gitbook/assets/Unknown image (34)>)
 
-***
-
 **Unpair your smartphone from TouchPanel-3**
 
-**Step 1.**
+**Step 1.** Go to **Bluetooth Disarming** setting page to access a list of paired devices. Tap the Delete icon <img src=".gitbook/assets/image (412).png" alt="" data-size="line"> at the device row. A confirm message“ Are you sure to remove this item” will pop up. Tap **Yes** to confirm.
 
-***
+![](<.gitbook/assets/Unknown image (37)>)
 
-Go to
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-**Bluetooth Disarming**
-
-setting page to access a list of paired devices.
-
-Tap
-
-the
-
-Delete icon at the device row
-
-. A confirm message
-
-“
-
-Are you sure to remove this
-
-item
-
-”
-
-will pop up.
-
-Tap
-
-**Yes**
-
-to confirm.
-
-![](<.gitbook/assets/Unknown image (35)>) ![](<.gitbook/assets/Unknown image (36)>) ![](<.gitbook/assets/Unknown image (37)>)
-
-\*\*Step 2.\*\*Then, delete TouchPanel-3 from your smartphone. Navigate the Smartphone’s **Settings > Bluetooth > My Devices**. Tap the paired TouchPanel-3 and select **Forget This Device** to remove it from the device list.
+**Step 2.** Then, delete TouchPanel-3 from your smartphone. Navigate the Smartphone’s **Settings > Bluetooth > My Devices**. Tap the paired TouchPanel-3 and select **Forget This Device** to remove it from the device list.
 
 #### 5.5. About
 
@@ -1562,11 +1518,11 @@ The App version, Panel version, ROM version, TSP Mac, and Panel Mac information 
 
 ![](<.gitbook/assets/Unknown image (38)>)
 
-When you tap "About," the system will automatically check for updates. If a new version is available, tap\*\* Install\*\* to download and apply the update. Ensure TouchPanel-3 is connected to the internet before Installing.
+When you tap "About," the system will automatically check for updates. If a new version is available, tap  **Install** to download and apply the update. Ensure TouchPanel-3 is connected to the internet before Installing.
 
 ![](<.gitbook/assets/Unknown image (39)>)
 
-If the Panel is updated to the latest version, a **GREEN** check mark will appear next to the App version. If an update is available, a **RED** exclamation mark will be displayed.
+If the Panel is updated to the latest version, a <mark style="color:green;">**GREEN**</mark> check mark will appear next to the App version. If an update is available, a <mark style="color:red;">**RED**</mark> exclamation mark will be displayed.
 
 ![](<.gitbook/assets/Unknown image (40)>) ![](<.gitbook/assets/Unknown image (41)>)
 
@@ -1574,16 +1530,7 @@ If the Panel is updated to the latest version, a **GREEN** check mark will appea
 
 TouchPanel-3 will play voice prompts according to different conditions. Below are two quick reference charts of all the voice prompts of TouchPanel-3 and the conditions under which they are played.
 
-| **No.** | **Condition**                                                                                                                                        | **Voice Prompt**                                                               |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 1       | Plays when the user taps the mode switch to change modes, prompting the system to display the PIN entry page as a status reminder                    | Please enter your PIN.                                                         |
-| 2       | Plays when Disarm is tapped, triggering a dialog box that asks the user to position their face in the camera frame to enable PIN entry for disarming | Position your face in the camera frame to activate pin entering for disarming. |
-| 3       | Plays when an incorrect PIN is entered, causing the system to display a Wrong PIN Code dialog box                                                    | Wrong PIN Code                                                                 |
-| 4       | Plays when the system changes to Away mode                                                                                                           | The mode has been changed to Away.                                             |
-| 5       | Plays when the system changes to Home mode                                                                                                           | The mode has been changed to Home.                                             |
-| 6       | Plays when the system changes to Disarm mode                                                                                                         | The mode has been changed to Disarm.                                           |
-| 7       | Plays when the system starts to countdown the entry delay                                                                                            | Entry delay started. \[beep...]                                                |
-| 8       | Plays when the system starts to countdown the exit delay                                                                                             | Exit delay started, please leave the place. \[beep...]                         |
+<table data-header-hidden><thead><tr><th width="55"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>No.</strong></td><td><strong>Condition</strong></td><td><strong>Voice Prompt</strong></td></tr><tr><td>1</td><td>Plays when the user taps the mode switch to change modes, prompting the system to display the PIN entry page as a status reminder</td><td>Please enter your PIN.</td></tr><tr><td>2</td><td>Plays when Disarm is tapped, triggering a dialog box that asks the user to position their face in the camera frame to enable PIN entry for disarming</td><td>Position your face in the camera frame to activate pin entering for disarming.</td></tr><tr><td>3</td><td>Plays when an incorrect PIN is entered, causing the system to display a Wrong PIN Code dialog box</td><td>Wrong PIN Code</td></tr><tr><td>4</td><td>Plays when the system changes to Away mode</td><td>The mode has been changed to Away.</td></tr><tr><td>5</td><td>Plays when the system changes to Home mode</td><td>The mode has been changed to Home.</td></tr><tr><td>6</td><td>Plays when the system changes to Disarm mode</td><td>The mode has been changed to Disarm.</td></tr><tr><td>7</td><td>Plays when the system starts to countdown the entry delay</td><td>Entry delay started. [beep...]</td></tr><tr><td>8</td><td>Plays when the system starts to countdown the exit delay</td><td>Exit delay started, please leave the place. [beep...]</td></tr></tbody></table>
 
 | **No.**            | **Condition**                                    | **Voice Prompt**      |
 | ------------------ | ------------------------------------------------ | --------------------- |

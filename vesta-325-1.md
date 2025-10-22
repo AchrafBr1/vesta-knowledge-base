@@ -4,7 +4,7 @@
 
 ## **Bluetooth Emergency Pendant**
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 BL-3-FS is a Bluetooth emergency pendant. It can be used to summon help in case of an emergency with one button press or fall detection. When its button is pressed, BL-3-FS utilizes the Bluetooth connection with the smartphone app to immediately report an alarm and user’s location. It also functions count the steps when this function is enabled.
 

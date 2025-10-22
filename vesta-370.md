@@ -24,7 +24,7 @@ VST-894-IL – PIR motion sensor camera with Infrared LED
 
 ## Identifying the Parts
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1 PIR Camera Lens&#x20;
 
@@ -207,9 +207,9 @@ Please _**DO NOT**_ change the default setting of Dip Switch 2 (N.C.).
 
 The PIR Camera is provided with a masking seal to ignore specific areas that either are not required to be secured or may cause false or nuisance alarms, such as a swaying tree in full foliage.  To mask out a specific area:
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Test Mode
 
@@ -310,7 +310,7 @@ For the device using a Repeater, press and hold the Test button for 3 seconds on
 * The PIR Camera is designed to be mounted either on a flat surface or in a corner with the fixing screws and wall plugs provided.
 * The mounting bracket has knockouts, where the plastic is thinner and can be broken for mounting purpose. Three knockouts are for surface fixing and four knockouts are for corner fixing as shown in the picture.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. For surface fixing, use the mounting bracket as a template to drill 3 holes into the wall to be mounted. For corner fixing, drill 4 holes into the wall.
 2. Push in the wall plugs if the PIR Camera is to be mounted onto plaster or bricks.
@@ -325,15 +325,15 @@ Please make sure the PIR Camera is properly hooked to the mounting bracket, so t
 
 **Surface Mounting**
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Corner mounting**
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. **(Optional Step)** On the top of the PIR Camera, fit the stabilizing screw to the socket provided and screw them into the mounting bracket. Fasten the two bottom stabilizing screws at the bottom of the mounting bracket into the bottom of VST-894 to firmly secure the device to the bracket.
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation Recommendations
 
