@@ -213,9 +213,6 @@ The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users 
 ![](<.gitbook/assets/Unknown image (143)>) ![](<.gitbook/assets/Unknown image (144)>)
 
 4. Connect the RJ45 connector to the Ethernet Port and the USB-C connector to Cover, then reattach the front cover to the USB-C Port on the PCB. the back plate.
-5.
-
-
 
 ![](<.gitbook/assets/Unknown image (145)>)
 
@@ -297,15 +294,9 @@ The Security page displays current system mode for quick control access.
 
 **4.2.1. Change System Mode**
 
-* Select the area you wish to control, then tap the mode icon to change mode.
+* Select the area you wish to control, then tap the mode icon to change mode.&#x20;
 
-![](<.gitbook/assets/Unknown image (178)>)
-
-Away Arm
-
-Disarm
-
-Home Arm
+![ Home arm                                 Disarm                                Away Arm](<.gitbook/assets/Unknown image (178)>)
 
 You will be required to enter one of the Control Panel User PIN Code to confirm the action.
 
@@ -331,7 +322,7 @@ When the Face Detection feature is turned on, the system must detect a face to d
 
 * When **Disarm** is tapped, the following dialog box will be displayed, requesting the user to position his/her face in the camera frame to activate pin entering for disarming.
 
-![](<.gitbook/assets/Unknown image (183)>)\*\*\*\*
+<figure><img src=".gitbook/assets/Unknown image (183)" alt=""><figcaption></figcaption></figure>
 
 * The Panel will auto capture a photo when a face is detected and display the captured image for 3 seconds.
 * After 3 seconds, the panel will display PIN code page with disarm icon. Enter the user PIN code to disarm the system.
@@ -360,25 +351,13 @@ After disarming the system, you can view these events again through the list. Ta
 
 The Automation page provides access to home automation functions in the Control Panel. The Automation page includes Scene, Room, Group, Device, and Rule.
 
-**4.3.1**
-
-**.**
-
-***
-
-**Scene**
-
-***
-
 ![](<.gitbook/assets/Unknown image (187)>)
+
+**4.3.1. Scene**
 
 The Scene subpage allows you to set a group of actions which the Control Panel may perform with its Home Automation devices. The user can program the Scene to manually activate a set of devices, or automatically activate them by pre-programmed Rule. \*\*\*\*
 
-***
-
-***
-
-![](<.gitbook/assets/Unknown image (188)>) ![](<.gitbook/assets/Unknown image (189)>)
+![](<.gitbook/assets/Unknown image (188)>)
 
 * Create a New Scene.
 
@@ -388,68 +367,45 @@ The Scene subpage allows you to set a group of actions which the Control Panel m
 
 **Step 3** Choose a desired Action Type from the drop-down menu. The options available are dependent upon learnt device(s) in the Control Panel and up to 5 actions can be associated with each scene.
 
-*
-  * Device Action: To toggle on/off, switch on/on for/on until/off, open, or close a device in specified zone.
-  * Group Control: The Group function allows the user to control the same type of devices.
-  * Change Mode: The system will change to the disarm/full arm/home arm mode as specified.
-  * SD LED Control: To switch on / off the Smoke detector LED.
-  * IP Cam Request Media: The IP Camera in specified zone will record a video.
-  * IP Cam Request Media (All): All IP Cameras in the system will record a video.
-  * Request Image: The PIR Camera in specified zone will take a picture.
-  * Request Image (All): All PIR Cameras in the system will take a picture.
-  * Request Image (No flash): The PIR Camera in specified zone will take a picture without activating its LED flash.
-  * Request Image (All, No flash): All PIR Cameras in the system will take a picture without activating its LED flash.
-  * Change Internal Memory Status: To change Internal Memory Status (True / False).
+* Device Action: To toggle on/off, switch on/on for/on until/off, open, or close a device in specified zone.
+* Group Control: The Group function allows the user to control the same type of devices.
+* Change Mode: The system will change to the disarm/full arm/home arm mode as specified.
+* SD LED Control: To switch on / off the Smoke detector LED.
+* IP Cam Request Media: The IP Camera in specified zone will record a video.
+* IP Cam Request Media (All): All IP Cameras in the system will record a video.
+* Request Image: The PIR Camera in specified zone will take a picture.
+* Request Image (All): All PIR Cameras in the system will take a picture.
+* Request Image (No flash): The PIR Camera in specified zone will take a picture without activating its LED flash.
+* Request Image (All, No flash): All PIR Cameras in the system will take a picture without activating its LED flash.
+* Change Internal Memory Status: To change Internal Memory Status (True / False).
 
 **Step 4** You can create a new Action type by tapping the **+** icon. To remove an existing Action
 
-type, simply
+type, simply tap the icon. ![](<.gitbook/assets/image (411).png>)
 
-tap
-
-the
-
-icon.
-
-***
-
-![](<.gitbook/assets/Unknown image (190)>) ![](<.gitbook/assets/Unknown image (191)>)
+![](<.gitbook/assets/Unknown image (191)>)
 
 **Step 5** Tap **Save** to confirm scene setting. The Scene page will be updated with the new Scene.
 
 * Delete a Scene
 
-To remove an existing Scene, simply
+To remove an existing Scene, simply tap the icon. <img src=".gitbook/assets/image (412).png" alt="" data-size="line">
 
-tap
+<figure><img src=".gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
 
-the
+* Apply Scene
 
-icon.
-
-![](<.gitbook/assets/Unknown image (192)>) ![](<.gitbook/assets/Unknown image (193)>) ![](<.gitbook/assets/Unknown image (189)>)
-
-
-
-Apply Scene
-
-You can
-
-tap
-
-the
-
-icon after the scene name to manually execute a scene’s action. You may
+You can tap the icon ![](<.gitbook/assets/image (414).png>) after the scene name to manually execute a scene’s action. You may
 
 apply 1 Scene at most each time.
 
-![](<.gitbook/assets/Unknown image (194)>) ![](<.gitbook/assets/Unknown image (195)>) ![](<.gitbook/assets/Unknown image (189)>)
+<figure><img src=".gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
 
 * Edit Scene
 
 To edit an existing scene, tap the ![](<.gitbook/assets/Unknown image (196)>) icon to view scene content.
 
-![](<.gitbook/assets/Unknown image (197)>) ![](<.gitbook/assets/Unknown image (189)>)
+<figure><img src=".gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
 
 **4.3.2. Room**
 
@@ -463,7 +419,7 @@ You can create more rooms by tapping the **+** icon at top right.
 * Enter the Room name in Name field for identification.
 * You can assign Home Automation Devices to each room to monitor and control them.
 
-![](<.gitbook/assets/Unknown image (199)>) ![](<.gitbook/assets/Unknown image (200)>)
+<figure><img src=".gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
 
 **4.3.3. Group**
 
@@ -471,49 +427,21 @@ The Group function allows the user to control the same type of devices. The user
 
 ![](<.gitbook/assets/Unknown image (42)>)
 
-***
+* **Switch**
 
-**Switch**
+Tap ![](<.gitbook/assets/image (418).png>) to turn on/off Switch of each Group. To add/delete a group, tap ![](<.gitbook/assets/image (419).png>). To view details, add/remove a device or rename a group, tap ![](<.gitbook/assets/image (420).png>)
 
-***
+<figure><img src=".gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
 
-Ta
+<figure><img src=".gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure>
 
-p
+* **Dimmer**
 
-to turn on/off Switch of each Group. To
+Tap ![](<.gitbook/assets/image (423).png>) to control Dimmer of each group. To view details, control a group, add/remove a
 
-add/delete a group, tap
+device, or rename a group, tap ![](<.gitbook/assets/image (424).png>)
 
-. To view
-
-details, add/remove a device or rename a group, tap
-
-.
-
-![](<.gitbook/assets/Unknown image (43)>) ![](<.gitbook/assets/Unknown image (44)>) ![](<.gitbook/assets/Unknown image (45)>) ![](<.gitbook/assets/Unknown image (46)>) ![](<.gitbook/assets/Unknown image (47)>) ![](<.gitbook/assets/Unknown image (48)>)
-
-***
-
-**Dimmer**
-
-***
-
-Ta
-
-p
-
-to control Dimmer of each group.
-
-To view details, control a group, add/remove a
-
-device,
-
-or rename a group, tap
-
-.
-
-![](<.gitbook/assets/Unknown image (47)>) ![](<.gitbook/assets/Unknown image (49)>) ![](<.gitbook/assets/Unknown image (50)>) ![](<.gitbook/assets/Unknown image (48)>)
+<figure><img src=".gitbook/assets/image (425).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can change the brightness of the devices by adjusting the bar.
 
@@ -521,33 +449,11 @@ In the Group Control page, the user can change the brightness of the devices by 
 
 ![](<.gitbook/assets/Unknown image (52)>)
 
-
+* **HUE Bulb**
 
-**HUE Bulb**
+Tap ![](<.gitbook/assets/image (426).png>)  to control Hue of bulbs in each group. To view details, control a group, add/remove a device, or rename a group, tap ![](<.gitbook/assets/image (427).png>)
 
-***
-
-***
-
-Ta
-
-p
-
-to control Hue of bulbs in each group.
-
-To
-
-view details, control a group, add/remove a
-
-device
-
-,
-
-or rename a group, tap
-
-.
-
-![](<.gitbook/assets/Unknown image (53)>) ![](<.gitbook/assets/Unknown image (54)>) ![](<.gitbook/assets/Unknown image (47)>) ![](<.gitbook/assets/Unknown image (48)>)
+<figure><img src=".gitbook/assets/image (428).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can control Hue by adjusting the bar or tap Color, Whites, or Preset to change the color of devices in a preset group.
 
@@ -559,107 +465,47 @@ In the Group Control page, the user can control Hue by adjusting the bar or tap 
 
 **Color**: Tap the color directly to set the group with your desired color.
 
-**Whites**: Tap the color directly to set the group with your desired color temperature. **Preset**: Tap the color directly to set the group with the preset certain color.
+**Whites**: Tap the color directly to set the group with your desired color temperature.&#x20;
 
-
+**Preset**: Tap the color directly to set the group with the preset certain color.
 
-**Shutter**
+* **Shutter**
 
-***
+Tap ![](<.gitbook/assets/image (429).png>) to control Shutter of each group. To view details, control a group, add/remove a device or rename a group, tap ![](<.gitbook/assets/image (430).png>)
 
-Ta
-
-p
-
-to control Shutter of each group.
-
-To view details, control a group, add/remove
-
-a device or rename a group, tap
-
-.
-
-![](<.gitbook/assets/Unknown image (57)>) ![](<.gitbook/assets/Unknown image (58)>) ![](<.gitbook/assets/Unknown image (47)>) ![](<.gitbook/assets/Unknown image (48)>)
+<figure><img src=".gitbook/assets/image (431).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can control the shutters at a desired level by adjusting the bar.
 
-![](<.gitbook/assets/Unknown image (59)>)\*\*\*\*
+<figure><img src=".gitbook/assets/Unknown image (59)" alt=""><figcaption></figcaption></figure>
 
-***
+<figure><img src=".gitbook/assets/Unknown image (60)" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/Unknown image (60)>)\*\*\*\*
+* **Radiator**
 
-***
+Tap ![](<.gitbook/assets/image (432).png>) to turn on/off Radiator of each group. To view details, control a group, add/remove a device or rename a group, tap ![](<.gitbook/assets/image (433).png>)
 
-***
-
-
-
-**Radiator**
-
-***
-
-Ta
-
-p
-
-to turn on/off Radiator of each group.
-
-To view details, control a group, add/remove a
-
-device or rename a group, tap
-
-.
-
-![](<.gitbook/assets/Unknown image (61)>) ![](<.gitbook/assets/Unknown image (62)>) ![](<.gitbook/assets/Unknown image (47)>) ![](<.gitbook/assets/Unknown image (48)>)
-
-***
+<figure><img src=".gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can control the radiator by adjusting the bar. The mode set points are displayed on the bar. Toggle the bar to increase or decrease the mode set points.
 
-![](<.gitbook/assets/Unknown image (63)>)\*\*\*\*
+<figure><img src=".gitbook/assets/Unknown image (63)" alt=""><figcaption></figcaption></figure>
 
-***
+<figure><img src=".gitbook/assets/Unknown image (64)" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/Unknown image (64)>)\*\*\*\*
+* **Thermostat**
 
-***
+Tap ![](<.gitbook/assets/image (435).png>)  to turn on/off Thermostat of each group. To view details, control a group, add/remove
 
-***
+a device or rename a group, tap ![](<.gitbook/assets/image (436).png>)
 
-***
-
-
-
-**Thermostat**
-
-***
-
-Ta
-
-p
-
-to turn on/off Thermostat of each group.
-
-To view details, control a group, add/remove
-
-a device or rename a group, tap
-
-.
-
-![](<.gitbook/assets/Unknown image (65)>) ![](<.gitbook/assets/Unknown image (66)>) ![](<.gitbook/assets/Unknown image (47)>) ![](<.gitbook/assets/Unknown image (189)>)
+<figure><img src=".gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can check the list of devices and toggle 2 bars to increase or decrease the mode set points. Tap Auto, Cool, Heat, or Away button to change the modes.
 
 ![](<.gitbook/assets/Unknown image (67)>)
 
-***
-
-***
-
 ![](<.gitbook/assets/Unknown image (68)>)
-
-***
 
 **4.3.4. Device**
 
