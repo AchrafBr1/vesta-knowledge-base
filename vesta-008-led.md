@@ -4,7 +4,7 @@ VST-862-IL-F1-ALK
 
 ## White Flash Pircam&#x20;
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

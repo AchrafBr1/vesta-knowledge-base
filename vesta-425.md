@@ -1,4 +1,4 @@
-# TouchPanel 3
+# VESTA-425
 
 TouchPanel 3
 
@@ -226,11 +226,11 @@ The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users 
 
 7. Remove the liner from the tape on the back of the paper card, stick the card to the wall to prevent slipping, then fasten the two bottom fixing screws of the Panel.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Fold the two flaps of the paper card outward, route the power cable through the AUX-PS opening, and connect power cable through the AUX-PS opening, and connect and secure the two cable wires to the AUX-PS terminals.
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>8                                                                                                            9</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>8                                                                                                            9</p></figcaption></figure>
 
 9. **Firmly press AUX - PS against** TouchPanel-3, then use the two holes on AUX-PS as a template to mark and drill two screw holes into the wall.&#x20;
 
@@ -286,11 +286,11 @@ Tap the widget that you want to check. When there is a fault or supervision fail
 
 The Security page displays current system mode for quick control access.
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](<.gitbook/assets/Unknown image (162)>)
 
-<table data-header-hidden><thead><tr><th width="162"></th><th width="164" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Section</strong></td><td align="center"><strong>Icon</strong></td><td><strong>Description</strong></td></tr><tr><td><p><strong>1. Internet</strong></p><p><strong>Indicator</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (163)" alt=""></td><td>When the Ethernet is connected</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (164)" alt="" data-size="original"></td><td>When WiFi is connected <img src=".gitbook/assets/Unknown image (165)" alt="" data-size="line"> (Strong – Weak)</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (166)" alt="" data-size="original"><br></td><td>When cellular network is connected <img src=".gitbook/assets/image (4) (1).png" alt=""> (Strong - Weak)</td></tr><tr><td></td><td align="center"><br><img src=".gitbook/assets/image (7).png" alt=""></td><td>Internet is disconnected</td></tr><tr><td></td><td align="center"><strong>Note</strong></td><td>The panel supports Ethernet, Wi-Fi, and LTE. If all are available, it will prioritize in this order: Ethernet > Wi-Fi > LTE.</td></tr><tr><td><strong>2. Ongoing call</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (162)" alt=""></td><td>During 2-way communication, the call icon will be displayed.****</td></tr><tr><td><strong>3. Power</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (168)" alt=""></td><td>When powered by AC, a plug icon will be displayed.</td></tr><tr><td></td><td align="center"><div><figure><img src=".gitbook/assets/image (6) (1).png" alt="" width="42"><figcaption></figcaption></figure></div></td><td>When powered by the backup battery, the battery percentage will be displayed.</td></tr><tr><td><strong>4. Setting</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (170)" alt=""></td><td>Tap the gear icon to access the Settings menu. Please refer to later section <em><strong>5. Settings</strong></em>.</td></tr><tr><td><strong>5. Date, Time, and Weather</strong></td><td align="center">---</td><td>Display current date and time.</td></tr><tr><td><strong>6. Area</strong></td><td align="center">---</td><td>Tap the area to select the Area to be displayed.</td></tr><tr><td><p><strong>7. System</strong></p><p><strong>Mode</strong></p></td><td align="center"></td><td>Disarm,             Away Arm,            Home Arm<img src=".gitbook/assets/Unknown image (171)" alt=""><img src=".gitbook/assets/Unknown image (172)" alt=""><img src=".gitbook/assets/Unknown image (173)" alt=""></td></tr><tr><td><strong>8. SOS Button</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (174)" alt=""></td><td>Press and hold the SOS button for 3 seconds to activate an Emergency alarm.</td></tr><tr><td><strong>9. Panel Status</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (175)" alt=""></td><td>When Fault event exists within the panel, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>10. Door</strong></p><p><strong>Contact</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (176)" alt=""></td><td>The total number of Door Contacts in the alarm system will be displayed. When Fault event exists within the Door Contacts, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>11. Device</strong></p><p><strong>Status</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (177)" alt=""></td><td>The total number of non-Door Contact sensors in the alarm system will be displayed. When Fault event exists within the devices, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="162"></th><th width="164" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Section</strong></td><td align="center"><strong>Icon</strong></td><td><strong>Description</strong></td></tr><tr><td><p><strong>1. Internet</strong></p><p><strong>Indicator</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (163)" alt=""></td><td>When the Ethernet is connected</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (164)" alt="" data-size="original"></td><td>When WiFi is connected <img src=".gitbook/assets/Unknown image (165)" alt="" data-size="line"> (Strong – Weak)</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (166)" alt="" data-size="original"><br></td><td>When cellular network is connected <img src=".gitbook/assets/image (4) (1) (1).png" alt=""> (Strong - Weak)</td></tr><tr><td></td><td align="center"><br><img src=".gitbook/assets/image (7).png" alt=""></td><td>Internet is disconnected</td></tr><tr><td></td><td align="center"><strong>Note</strong></td><td>The panel supports Ethernet, Wi-Fi, and LTE. If all are available, it will prioritize in this order: Ethernet > Wi-Fi > LTE.</td></tr><tr><td><strong>2. Ongoing call</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (162)" alt=""></td><td>During 2-way communication, the call icon will be displayed.****</td></tr><tr><td><strong>3. Power</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (168)" alt=""></td><td>When powered by AC, a plug icon will be displayed.</td></tr><tr><td></td><td align="center"><div><figure><img src=".gitbook/assets/image (6) (1).png" alt="" width="42"><figcaption></figcaption></figure></div></td><td>When powered by the backup battery, the battery percentage will be displayed.</td></tr><tr><td><strong>4. Setting</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (170)" alt=""></td><td>Tap the gear icon to access the Settings menu. Please refer to later section <em><strong>5. Settings</strong></em>.</td></tr><tr><td><strong>5. Date, Time, and Weather</strong></td><td align="center">---</td><td>Display current date and time.</td></tr><tr><td><strong>6. Area</strong></td><td align="center">---</td><td>Tap the area to select the Area to be displayed.</td></tr><tr><td><p><strong>7. System</strong></p><p><strong>Mode</strong></p></td><td align="center"></td><td>Disarm,             Away Arm,            Home Arm<img src=".gitbook/assets/Unknown image (171)" alt=""><img src=".gitbook/assets/Unknown image (172)" alt=""><img src=".gitbook/assets/Unknown image (173)" alt=""></td></tr><tr><td><strong>8. SOS Button</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (174)" alt=""></td><td>Press and hold the SOS button for 3 seconds to activate an Emergency alarm.</td></tr><tr><td><strong>9. Panel Status</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (175)" alt=""></td><td>When Fault event exists within the panel, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>10. Door</strong></p><p><strong>Contact</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (176)" alt=""></td><td>The total number of Door Contacts in the alarm system will be displayed. When Fault event exists within the Door Contacts, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>11. Device</strong></p><p><strong>Status</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (177)" alt=""></td><td>The total number of non-Door Contact sensors in the alarm system will be displayed. When Fault event exists within the devices, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr></tbody></table>
 
 **4.2.1. Change System Mode**
 
@@ -1298,7 +1298,7 @@ Tap the info icon to display the upload method.
 
 This is used for setting SMS reporting.
 
-![](<.gitbook/assets/Unknown image>)
+![](<.gitbook/assets/Unknown image (13)>)
 
 **Step 1** Tap **+** to add an SMS report destination. A dialogbox will appear, allowing you to program the report destination.
 
@@ -1310,7 +1310,7 @@ Tap **Submit** to save the settings.
 
 Tap the info icon ![](<.gitbook/assets/Unknown image (241)>) to display the SMS report format.
 
-![](<.gitbook/assets/Unknown image (1)>)
+![](<.gitbook/assets/Unknown image (1) (1)>)
 
 * SMS in CID
 
@@ -1336,7 +1336,7 @@ TouchPanel-3 with microphone and speaker is able to make voice call during alarm
 
 **The panel will make voice report after the first successful alarm reporting. At least one report destination must be programmed to use voice reporting function.**
 
-![](<.gitbook/assets/Unknown image (2)>)
+![](<.gitbook/assets/Unknown image (2) (1)>)
 
 TouchPanel-3 supports two types of Voice Report: GSM and VOIP. Program and select the type you would like to use for reporting.
 
@@ -1350,11 +1350,11 @@ The panel will make voice report to this telephone number after the first alarm 
 
 The panel will enter a waiting period for call back after initial alarm report has ended.
 
-![](<.gitbook/assets/Unknown image (3)>)
+![](<.gitbook/assets/Unknown image (3) (1)>)
 
 **VOIP**
 
-![](<.gitbook/assets/Unknown image (4)>) ![](<.gitbook/assets/Unknown image (5)>)
+![](<.gitbook/assets/Unknown image (4) (1)>) ![](<.gitbook/assets/Unknown image (5) (1)>)
 
 VOIP SIP Settings
 
@@ -1369,7 +1369,7 @@ Tap **Submit** to confirm.
 
 Program the mail server related settings. The email account you set here would be used to send report for events or picture and video clip captured by PIR Camera and PIR Video Camera.
 
-![](<.gitbook/assets/Unknown image (6)>)
+![](<.gitbook/assets/Unknown image (6) (1)>)
 
 **Step 1** Enter the following settings:
 
@@ -1384,14 +1384,14 @@ Program the mail server related settings. The email account you set here would b
 
 **5.2.7. Wired Device**
 
-![](<.gitbook/assets/Unknown image (7)>)
+![](<.gitbook/assets/Unknown image (7) (1)>)
 
 There are two on-board wired zones on TouchPanel-3.
 
 * One wired control output (open collector)
 * One wired input (non powered)
 
-![](<.gitbook/assets/Unknown image (8)>)
+![](<.gitbook/assets/Unknown image (8) (1)>)
 
 **Device 1 (Wired Output)**
 
@@ -1407,11 +1407,11 @@ There are two on-board wired zones on TouchPanel-3.
 
 **Loop**: Select the number of loop (1 or 2) corresponding to the wiring for each device from the dropdown menu.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Tap the info icon   ![](<.gitbook/assets/image (1).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
+Tap the info icon   ![](<.gitbook/assets/image (1) (1).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
 
-![](<.gitbook/assets/Unknown image (13)>)
+![](<.gitbook/assets/Unknown image (13) (1)>)
 
 **Edit**<img src=".gitbook/assets/Unknown image (14)" alt="" data-size="line"> :Tap to assign the wired input device to a zone and area.
 
@@ -1425,7 +1425,7 @@ This function is available whether the Panel is connected through Ethernet, WiFi
 
 Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to access hotspot setting.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Toggle ON/OFF the Hotspot Sharing function.
 
@@ -1455,9 +1455,9 @@ Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to ente
 
 ![](<.gitbook/assets/Unknown image (19)>) ![](<.gitbook/assets/Unknown image (20)>)
 
-**Step 2.** On TouchPanel-3, navigate to the Bluetooth Disarming settings page and tap <img src=".gitbook/assets/image (3).png" alt="" data-size="line"> to enter Bluetooth pairing mode.
+**Step 2.** On TouchPanel-3, navigate to the Bluetooth Disarming settings page and tap <img src=".gitbook/assets/image (3) (1).png" alt="" data-size="line"> to enter Bluetooth pairing mode.
 
-A Bluetooth icon ![](<.gitbook/assets/image (4).png>) will appear, indicating that Bluetooth is active.
+A Bluetooth icon ![](<.gitbook/assets/image (4) (1).png>) will appear, indicating that Bluetooth is active.
 
 ![](<.gitbook/assets/Unknown image (22)>) ![](<.gitbook/assets/Unknown image (23)>) ![](<.gitbook/assets/Unknown image (24)>)
 
@@ -1508,7 +1508,7 @@ Go to **Bluetooth Disarming** setting page to access a list of paired devices. T
 
 ![](<.gitbook/assets/Unknown image (37)>)
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.** Then, delete TouchPanel-3 from your smartphone. Navigate the Smartphone’s **Settings > Bluetooth > My Devices**. Tap the paired TouchPanel-3 and select **Forget This Device** to remove it from the device list.
 

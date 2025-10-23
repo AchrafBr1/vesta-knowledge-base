@@ -6,7 +6,7 @@ icon: router
 
 ## Upgrading the CUDY-21 Router for VESTA Integration
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Integrating your CUDY-21 router with VESTA enhances your Internet connectivity and offers advanced networking features. Follow the steps below to upgrade your CUDY-21 router and prepare it for integration with VESTA.
 
