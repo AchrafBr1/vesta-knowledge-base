@@ -23,7 +23,7 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 **A.** ![](<.gitbook/assets/2 (62).jpeg>) **ON** when device is already learned into Zig-Bee network.
 
-**B.** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Low Battery Indicator.**
+**B.** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Low Battery Indicator.**
 
 **C**. &#x20;
 
@@ -37,9 +37,9 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 **D. Auto / Manual Mode.**
 
-**E.** <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Boost function.**
+**E.** <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Boost function.**
 
-**F.** <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **Open Window**.
+**F.** <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **Open Window**.
 
 **G. Temperature Indicator.**
 
@@ -119,7 +119,7 @@ To program Setpoint Offset:
 
 ### _**Open Window**_
 
-If Radiator Valve detects indoor temperature drops rapidly by opening the window, the Radiator Valve will activate Open Window function by partly closing the valve to reduce temperature setting for 15 minutes. The LCD will display <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> symbol, the device will check the temperature every minute. After 15 minutes, the Radiator Valve will return to the set temperature with valve opening again, Open Window Function closes.
+If Radiator Valve detects indoor temperature drops rapidly by opening the window, the Radiator Valve will activate Open Window function by partly closing the valve to reduce temperature setting for 15 minutes. The LCD will display <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> symbol, the device will check the temperature every minute. After 15 minutes, the Radiator Valve will return to the set temperature with valve opening again, Open Window Function closes.
 
 ### _**Control Knob**_
 

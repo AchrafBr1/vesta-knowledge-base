@@ -4,7 +4,7 @@
 
 ## **Outdoor Door Contact**&#x20;
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 DC-32-EX is an outdoor door contact used to detect the opening and closure of outdoor gates, entries, exits and more. The Door Contact can also be placed on metal materials, while its powerful magnet can tolerate a wide gap to reduce false alarm.
 
