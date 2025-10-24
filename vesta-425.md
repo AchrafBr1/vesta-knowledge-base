@@ -6,7 +6,7 @@ TouchPanel 3
 
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-### 1. Introduction
+## 1. Introduction
 
 TouchPanel-3 uses modern, intuitive user interface on a 7” full-color, high-resolution display, providing users quick access to security and smart home functions, as well as a quick on-screen control of all areas.
 
@@ -38,9 +38,9 @@ The user can also select the screen timeout period in Settings. If "Never" is se
 
 TSP-Cam: The panel features a built-in Camera, extra Cameras may be included into the system to extend the coverage.
 
-### 2. System Overview
+## 2. System Overview
 
-#### 2.1. Parts Identification
+### 2.1. Parts Identification
 
 
 
@@ -54,13 +54,13 @@ TSP-Cam: The panel features a built-in Camera, extra Cameras may be included int
 
 <table data-header-hidden><thead><tr><th width="162"></th><th></th></tr></thead><tbody><tr><td><strong>Power Button</strong></td><td><ul><li>If for some reason you need to power down or force restart the system, press the power button for <strong>2 seconds</strong> and then release to access the selection menu.</li><li>Pressing and holding the button for** 10 seconds** will force the system to shut down immediately.</li></ul></td></tr><tr><td><strong>Recovery Button</strong></td><td>- <mark style="color:red;">Reserved for Manufacturer Use Only</mark> – Do not press unless instructed by authorized personnel****</td></tr></tbody></table>
 
-#### 2.2. LED Indicators
+### 2.2. LED Indicators
 
 The LED indicators are used show various system statuses.
 
 <table data-header-hidden><thead><tr><th width="182"></th><th width="131"></th><th></th></tr></thead><tbody><tr><td><strong>LED</strong></td><td><strong>Behavior</strong></td><td><strong>System Status</strong></td></tr><tr><td><strong>White LED</strong></td><td>On</td><td>Panel Rebooting</td></tr><tr><td><strong>Green LED</strong></td><td>On</td><td>AC Power Connected</td></tr><tr><td><strong>Red LED</strong></td><td>On</td><td>AC Power Loss</td></tr><tr><td><strong>Orange LED</strong></td><td>On</td><td>System Fault</td></tr></tbody></table>
 
-#### 2.3. Power Supply
+### 2.3. Power Supply
 
 **Power Adapter**
 
@@ -91,9 +91,9 @@ For **AUX-PS-DC**, connect the positive and negative output wires from a regulat
 
 * Refer to section **3.4. Auxiliary Power Supply Accessory**for installation instructions for AUX-PS and TouchPanel-3. The same installation process also applies to AUX-PS-DC.
 
-### 3. Installation
+## 3. Installation
 
-#### 3.1. System Deployment
+### 3.1. System Deployment
 
 The Control Panel is designed to be wall mounted, follow guidelines below when planning installation location:
 
@@ -103,7 +103,7 @@ The Control Panel is designed to be wall mounted, follow guidelines below when p
 * The Control Panel should be protected by sensors so that no intruder can reach the Control Panel without first activating a sensor.
 * When using routers to extend wireless communication coverage, remember to use only Routers with backup batteries for security sensors. If you use a Router without backup battery for security sensors, the Router will be powered down in case of AC failure, and your security sensors will lose connection with the Panel.
 
-#### 3.2. Hardware Installation
+### 3.2. Hardware Installation
 
 **Detachment**
 
@@ -161,7 +161,7 @@ It is recommended to install the Panel at approximately chest height where the t
 
 ***
 
-#### 3.3. Battery Replacement
+### 3.3. Battery Replacement
 
 **Battery Removal**
 
@@ -181,7 +181,7 @@ It is recommended to install the Panel at approximately chest height where the t
 
 <figure><img src=".gitbook/assets/Unknown image (137)" alt=""><figcaption></figcaption></figure>
 
-#### 3.4. Auxiliary Power Supply Accessory (Optional)
+### 3.4. Auxiliary Power Supply Accessory (Optional)
 
 The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users must first remove the original speaker cloth from TouchPanel-3, then mount both AUX-PS and the Cover onto the Panel.
 
@@ -250,13 +250,13 @@ _Tear and remove it carefully when taking it off a painted wall._
 
 <figure><img src=".gitbook/assets/Unknown image (154)" alt="" width="375"><figcaption></figcaption></figure>
 
-### 4. Operation
+## 4. Operation
 
 On the user interface of TouchPanel-3, users can change the system mode, control automation devices, edit and bypass devices, and access videos or captured images. The five main pages,
 
 Home, Security, Automation, Cam and Events can be selected from the bottom of the screen
 
-#### 4.1. Home
+### 4.1. Home
 
 By default, the screen automatically switches between day and night modes at 6 a.m. and 6 p.m."
 
@@ -282,7 +282,7 @@ Tap the widget that you want to check. When there is a fault or supervision fail
 
 ![](<.gitbook/assets/Unknown image (160)>)
 
-**4.2. Security**
+### **4.2. Security**
 
 The Security page displays current system mode for quick control access.
 
@@ -292,7 +292,7 @@ The Security page displays current system mode for quick control access.
 
 <table data-header-hidden><thead><tr><th width="162"></th><th width="164" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Section</strong></td><td align="center"><strong>Icon</strong></td><td><strong>Description</strong></td></tr><tr><td><p><strong>1. Internet</strong></p><p><strong>Indicator</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (163)" alt=""></td><td>When the Ethernet is connected</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (164)" alt="" data-size="original"></td><td>When WiFi is connected <img src=".gitbook/assets/Unknown image (165)" alt="" data-size="line"> (Strong – Weak)</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (166)" alt="" data-size="original"><br></td><td>When cellular network is connected <img src=".gitbook/assets/image (4) (1) (1).png" alt=""> (Strong - Weak)</td></tr><tr><td></td><td align="center"><br><img src=".gitbook/assets/image (7).png" alt=""></td><td>Internet is disconnected</td></tr><tr><td></td><td align="center"><strong>Note</strong></td><td>The panel supports Ethernet, Wi-Fi, and LTE. If all are available, it will prioritize in this order: Ethernet > Wi-Fi > LTE.</td></tr><tr><td><strong>2. Ongoing call</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (162)" alt=""></td><td>During 2-way communication, the call icon will be displayed.****</td></tr><tr><td><strong>3. Power</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (168)" alt=""></td><td>When powered by AC, a plug icon will be displayed.</td></tr><tr><td></td><td align="center"><div><figure><img src=".gitbook/assets/image (6) (1).png" alt="" width="42"><figcaption></figcaption></figure></div></td><td>When powered by the backup battery, the battery percentage will be displayed.</td></tr><tr><td><strong>4. Setting</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (170)" alt=""></td><td>Tap the gear icon to access the Settings menu. Please refer to later section <em><strong>5. Settings</strong></em>.</td></tr><tr><td><strong>5. Date, Time, and Weather</strong></td><td align="center">---</td><td>Display current date and time.</td></tr><tr><td><strong>6. Area</strong></td><td align="center">---</td><td>Tap the area to select the Area to be displayed.</td></tr><tr><td><p><strong>7. System</strong></p><p><strong>Mode</strong></p></td><td align="center"></td><td>Disarm,             Away Arm,            Home Arm<img src=".gitbook/assets/Unknown image (171)" alt=""><img src=".gitbook/assets/Unknown image (172)" alt=""><img src=".gitbook/assets/Unknown image (173)" alt=""></td></tr><tr><td><strong>8. SOS Button</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (174)" alt=""></td><td>Press and hold the SOS button for 3 seconds to activate an Emergency alarm.</td></tr><tr><td><strong>9. Panel Status</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (175)" alt=""></td><td>When Fault event exists within the panel, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>10. Door</strong></p><p><strong>Contact</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (176)" alt=""></td><td>The total number of Door Contacts in the alarm system will be displayed. When Fault event exists within the Door Contacts, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>11. Device</strong></p><p><strong>Status</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (177)" alt=""></td><td>The total number of non-Door Contact sensors in the alarm system will be displayed. When Fault event exists within the devices, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr></tbody></table>
 
-**4.2.1. Change System Mode**
+#### **4.2.1. Change System Mode**
 
 * Select the area you wish to control, then tap the mode icon to change mode.&#x20;
 
@@ -331,7 +331,7 @@ When the Face Detection feature is turned on, the system must detect a face to d
 
 * Whether disarming is completed or aborted, the captured face will be reported and displayed in the event log.
 
-**4.2.2. Alarm Dashboard**
+#### **4.2.2. Alarm Dashboard**
 
 When there is an alarm, the Alarm dashboard will be displayed:
 
@@ -347,13 +347,13 @@ After disarming the system, you can view these events again through the list. Ta
 
 ![](<.gitbook/assets/Unknown image (186)>)
 
-**4.3. Automation**
+### **4.3. Automation**
 
 The Automation page provides access to home automation functions in the Control Panel. The Automation page includes Scene, Room, Group, Device, and Rule.
 
 ![](<.gitbook/assets/Unknown image (187)>)
 
-**4.3.1. Scene**
+#### **4.3.1. Scene**
 
 The Scene subpage allows you to set a group of actions which the Control Panel may perform with its Home Automation devices. The user can program the Scene to manually activate a set of devices, or automatically activate them by pre-programmed Rule. \*\*\*\*
 
@@ -407,7 +407,7 @@ To edit an existing scene, tap the ![](<.gitbook/assets/Unknown image (196)>) ic
 
 <figure><img src=".gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
 
-**4.3.2. Room**
+#### **4.3.2. Room**
 
 The Room subpage allows you to associate several sensors to create one Room. This feature provides a hassle-free way if you wish to turn a light on in the living room. You will not end up turning on a light in the kitchen by mistake. Each device can only be assigned to one Room.
 
@@ -421,7 +421,7 @@ You can create more rooms by tapping the **+** icon at top right.
 
 <figure><img src=".gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
 
-**4.3.3. Group**
+#### **4.3.3. Group**
 
 The Group function allows the user to control the same type of devices. The user can control over 6 types of devices, including Switch, Dimmer, Hue, Shutter, Radiator, and Thermostat. Up to 10 subgroups can be created under each type.
 
@@ -507,7 +507,7 @@ In the Group Control page, the user can check the list of devices and toggle 2 b
 
 ![](<.gitbook/assets/Unknown image (68)>)
 
-**4.3.4. Device**
+#### **4.3.4. Device**
 
 The device page lists all available devices which can be displayed according to different categories.
 
@@ -533,7 +533,7 @@ Select device category from the dropdown menu on the top right corner to determi
 
 ![](<.gitbook/assets/Unknown image (79)>) ![](<.gitbook/assets/Unknown image (80)>)
 
-**4.3.5. Rule**
+#### **4.3.5. Rule**
 
 The Rule page allows you to set up rules to automate actions based on specific triggers, such as turning on heating when the temperature drops below a certain degree.
 
@@ -627,7 +627,7 @@ existing Rule, simply tap the icon. ![](<.gitbook/assets/image (412).png>)
 * Enable/Disable Rule: Toggle on/off the <img src=".gitbook/assets/Unknown image (77)" alt="" data-size="line"> icon to enable/disable the rule.
 * Edit Rule: To edit an existing rule, tap the ![](<.gitbook/assets/Unknown image (86)>) icon to view rule content.
 
-**4.4. Cam**
+### **4.4. Cam**
 
 The page provides access to VDP and IP Camera live streaming video.
 
@@ -642,7 +642,7 @@ Ensure your Control Panel, VDP, and TouchPanel-3 are in the same Local Area Netw
 
 ![](<.gitbook/assets/Unknown image (87)>)
 
-**4.4.1. Add New VDP / IP CAM**
+#### **4.4.1. Add New VDP / IP CAM**
 
 **Step 1** Tap the Add icon ![](<.gitbook/assets/image (444).png>) to add a new VDP.
 
@@ -650,7 +650,7 @@ Ensure your Control Panel, VDP, and TouchPanel-3 are in the same Local Area Netw
 
 **Step 2** Select the wireless device for WiFi setup. Follow the onscreen instructions to proceed.
 
-**4.4.2. Monitoring Mode**
+#### **4.4.2. Monitoring Mode**
 
 TouchPanel-3 provides a full screen 3-minute real-time live streaming video. Tap the device you want to check and have a full view on the screen.
 
@@ -663,7 +663,7 @@ TouchPanel-3 provides a full screen 3-minute real-time live streaming video. Tap
 
 ![](<.gitbook/assets/Unknown image (97)>)
 
-**4.4.3. VDP Communication**
+#### **4.4.3. VDP Communication**
 
 When there is an incoming call from VDP, you can answer it by controlling the buttons on the screen:
 
@@ -677,7 +677,7 @@ When there is an incoming call from VDP, you can answer it by controlling the bu
 
 ***
 
-**4.4.4. Cam Settings**
+#### **4.4.4. Cam Settings**
 
 To change settings of the IP Cam, tap the button  ![](<.gitbook/assets/image (445).png>) on each device.
 
@@ -691,7 +691,7 @@ To change settings of the IP Cam, tap the button  ![](<.gitbook/assets/image (44
 
 ![](<.gitbook/assets/Unknown image (102)>)
 
-**4.5. Events**
+### **4.5. Events**
 
 The Event page records all alarm/status events, pictures and video transmitted by the Control
 
@@ -703,7 +703,7 @@ persons in the image, an AI icon ![](<.gitbook/assets/image (446).png>) will be 
 
 ![](<.gitbook/assets/Unknown image (107)>)
 
-### 5. Settings
+## 5. Settings
 
 Tap the gear icon <img src=".gitbook/assets/Unknown image (170)" alt="" data-size="line"> at the top-right corner of the screen to open the **Settings** menu. This menu provides quick access to basic features and settings that don't require an Installer or Master code.
 
@@ -721,7 +721,7 @@ Certain settings, including Face Detection, Equipment Management, Bluetooth Disa
 
 <table data-header-hidden><thead><tr><th width="152"></th><th></th></tr></thead><tbody><tr><td><strong>Setting</strong></td><td><strong>Description</strong></td></tr><tr><td><strong>Brightness</strong></td><td>Change the brightness of the screen by dragging the slider.</td></tr><tr><td><strong>Volume</strong></td><td>Change the volume of the user interface by dragging the slider.</td></tr><tr><td><strong>Face Detection</strong></td><td>Tap the toggle to enable or disable this function. When it is enabled, your face needs to be detected to disarm the system. Please refer to <em><strong>5.1.</strong></em><strong>****</strong><em><strong>Face Detection</strong></em>section for details.</td></tr><tr><td><strong>Display Home Screen</strong></td><td>Enable this function to display home screen when screen has been idle for 1 minute/3 minutes, or select Never to disable this function.</td></tr><tr><td><strong>Screen Saver</strong></td><td>Enable this function after the screen has been idle for 1 minute / 5 minutes, or select Never to disable this function. The Panel screen will display the images stored in the SD card.</td></tr><tr><td><strong>Screen Timeout</strong></td><td>Enable this function to turn off the screen after the specified idle period ( 15 secs / 30 secs / 1 min / 2 mins / 5 mins / 10 mins / 30 mins) Select "Never" to keep the screen always on.</td></tr><tr><td><strong>Device Bypass</strong></td><td><p>This function allows user to bypass sensors when the system is disarmed. The system panel will not respond at all when a bypassed sensor is triggered. The system can be armed directly if a device is bypassed, regardless of any device faults. However, the faults will still be monitored, logged, and displayed on the webpage.</p><ul><li>Permanently bypass will bypass selected device(s) until they are deselected. It requires** Installer Code** to access, and is allowed for Installer/Master user only.</li><li>One-time bypass provides temporary bypass function of any device until the system turns to disarm mode. It requires <strong>User PIN</strong></li></ul><p><strong>Code</strong> to access, and is allowed for Installer/Master/Slave user.</p></td></tr><tr><td><strong>Equipment Management</strong></td><td>The Equipment Management provides advanced settings for the Panel. It is protected by the Panel's installer code. Please refer to <em><strong>5.2.</strong></em><strong>****</strong><em><strong>Equipment Management</strong></em>section for details.</td></tr><tr><td><strong>Hotspot Sharing</strong></td><td>TouchPanel-3 can function as a hotspot, sharing its internet connection with nearby devices by configuring the SSID and password. Please refer to <em><strong>5.3. Hotspot Sharing</strong></em>section for details.</td></tr><tr><td><strong>Bluetooth Disarm</strong></td><td>The Bluetooth Disarming feature allows the users to disarm the system via Bluetooth simply by approaching the panel with their smartphones. Please refer to <em><strong>5.4. Bluetooth Disarm</strong></em>section for Bluetooth Setup instructions.</td></tr><tr><td><strong>Region Format</strong></td><td>Select date and time format for the user interface.</td></tr><tr><td><strong>Language</strong></td><td>Change the Panel’s language</td></tr><tr><td><strong>Setting</strong></td><td><strong>Description</strong></td></tr><tr><td><strong>Sync Logo</strong></td><td>This function allows the Panel to sync customized dealer logo with Vesta Server. Enter installer code to proceed.</td></tr><tr><td><strong>About</strong></td><td>The information about App version / Panel version, ROM version, TSP Mac, and Panel Mac will be displayed in this page. Please refer to <em><strong>5.5 About</strong></em>section for details.</td></tr></tbody></table>
 
-#### 5.1. Face Detection
+### 5.1. Face Detection
 
 When the Face Detection feature is turned on, the system must detect a face to disarm the system, adding an extra layer of protection.\*\*\*\*
 
@@ -733,7 +733,7 @@ When the Face Detection feature is turned on, the system must detect a face to d
 * After 3 seconds, the panel will display PIN code page with disarm icon. Enter the use PIN code to disarm the system.
 * Whether disarming is completed or aborted, the captured face will be reported and displayed in the event log.
 
-#### 5.2. Equipment Management
+### 5.2. Equipment Management
 
 The Equipment Management under the setting page provides advanced setting for the Panel.\*\*\*\*
 
@@ -741,7 +741,7 @@ Enter the default **Installer Code** **7982** to access full setting functions.
 
 ![](<.gitbook/assets/Unknown image (110)>) ![](<.gitbook/assets/Unknown image (111)>)
 
-**5.2.1. Device**
+#### **5.2.1. Device**
 
 The Device setting subpage includes the following functions:
 
@@ -749,13 +749,13 @@ Tap the respective icon for different function setting (from left to right).
 
 ![](<.gitbook/assets/Unknown image (112)>)
 
-**5.2.1.1. Device Search**
+#### **5.2.1.1. Device Search**
 
 * &#x20;<img src=".gitbook/assets/Unknown image (113)" alt="" data-size="line"> Users can directly search for the device they are seeking without scrolling through the entire list of devices.
 
 ![](<.gitbook/assets/Unknown image (114)>)
 
-**5.2.1.2. Device Learning**
+#### **5.2.1.2. Device Learning**
 
 **Step 1** Tap **+** icon to enter learning mode.
 
@@ -775,7 +775,7 @@ Tap the respective icon for different function setting (from left to right).
 
 ![](<.gitbook/assets/Unknown image (119)>)
 
-**5.2.1.3. Device Exclusion: (For removing Z-Wave device only)**&#x20;
+#### **5.2.1.3. Device Exclusion: (For removing Z-Wave device only)**&#x20;
 
 **Step 1** Tap **–** icon to enter removing Z-Wave device mode.
 
@@ -787,7 +787,7 @@ Tap the respective icon for different function setting (from left to right).
 
 **Step 4** Tap icon to refresh device list info. The Z-wave device is removed from the device list. ![](<.gitbook/assets/image (447).png>)
 
-**5.2.1.4. Walk Test**
+#### **5.2.1.4. Walk Test**
 
 **Step 1** Tap icon  ![](<.gitbook/assets/image (448).png>) to enter Walk Test mode.
 
@@ -797,7 +797,7 @@ Tap the respective icon for different function setting (from left to right).
 
 ![](<.gitbook/assets/Unknown image (204)>)
 
-**5.2.1.5. Refresh Device List**
+#### **5.2.1.5. Refresh Device List**
 
 Tap <img src=".gitbook/assets/Unknown image (205)" alt="" data-size="line"> icon to refresh device list info.
 
@@ -811,7 +811,7 @@ Tap <img src=".gitbook/assets/Unknown image (205)" alt="" data-size="line"> icon
 
 ![](<.gitbook/assets/Unknown image (208)>)
 
-**5.2.1.7. Edit Device**
+#### **5.2.1.7. Edit Device**
 
 Tap the icon ![](<.gitbook/assets/image (436).png>) at end of each device info column to enter Edit Device Page.
 
@@ -886,11 +886,11 @@ Some devices have their own unique functions and will have its own attribute set
 
 ***
 
-**5.2.2. Panel Settings**
+#### **5.2.2. Panel Settings**
 
 ![](<.gitbook/assets/Unknown image (216)>)
 
-**5.2.2.1. Security**
+#### **5.2.2.1. Security**
 
 ![](<.gitbook/assets/Unknown image (217)>)
 
@@ -962,7 +962,7 @@ If the Control Panel is disarmed before the Entry Delay Timer expires, the Panel
 * **Entry Delay Sound**: Select whether the Control Panel sounds countdown beeps during the entry delay time in the home arm mode and set the beep volume.
 * **Exit Delay Sound**: Select whether the Control Panel sounds countdown beeps during the exit delay timer in the home arm mode and set the beep volume.
 
-**5.2.2.2. Panel**
+#### **5.2.2.2. Panel**
 
 ![](<.gitbook/assets/Unknown image (220)>)
 
@@ -996,7 +996,7 @@ When turned off, siren tamper will be enabled again automatically after one hour
 
 ![](<.gitbook/assets/Unknown image (223)>)
 
-**5.2.2.3. Code**
+#### **5.2.2.3. Code**
 
 The Master Code, Installer Code, Duress Code, Guard Code, and Temporary Code add the flexibility of different security levels for operation in **Code Settings** menu.
 
@@ -1027,7 +1027,7 @@ Except Master Code and Installer Code which can’t be disabled in any way, Temp
 
 After completing all settings, tap **Submit**to save the changes.
 
-**5.2.2.4. Date and Time**
+#### **5.2.2.4. Date and Time**
 
 ![](<.gitbook/assets/Unknown image (227)>)
 
@@ -1037,7 +1037,7 @@ After completing all settings, tap **Submit**to save the changes.
 
 Tap **Submit** to save the settings.
 
-**5.2.2.5. Factory Reset**
+#### **5.2.2.5. Factory Reset**
 
 ![](<.gitbook/assets/Unknown image (228)>)
 
@@ -1046,7 +1046,7 @@ Tap **Submit** to save the settings.
 
 Tap **Submit** to save the settings.
 
-**5.2.2.6. Area Name**
+#### **5.2.2.6. Area Name**
 
 Users can rename the area. All related label will be updated to the renamed area name.
 
@@ -1054,7 +1054,7 @@ Tap **Submit** to save the settings (submission is not allowed if the fields are
 
 ![](<.gitbook/assets/Unknown image (229)>)
 
-**5.2.3. User PIN**
+#### **5.2.3. User PIN**
 
 The User PIN Codes are used to control system mode. Each consists of 4-6 digits (numeric number 0\~9).
 
@@ -1096,7 +1096,7 @@ To clear PIN Code information, tap <img src=".gitbook/assets/Unknown image (231)
 
 After completing all settings, tap **Submit** to save the changes.
 
-**5.2.4. Cross-area User PIN**
+#### **5.2.4. Cross-area User PIN**
 
 The Cross-area User PIN page is used to program multi-area system mode control function.
 
@@ -1110,7 +1110,7 @@ When enabled, you will see the option to change mode for both areas in the syste
 
 Enter the username and PIN code, then select Area 1 and/or Area 2 to determine whether this PIN code can be used to control mode for both areas simultaneously.
 
-**5.2.5. Network**
+#### **5.2.5. Network**
 
 The system can be connected through Ethernet, WiFi, or 4G/LTE. When all the three connection methods are available, the Panel prioritizes its connections in the following order: Ethernet > WiFi > 4G/LTE.
 
@@ -1118,7 +1118,7 @@ WiFi connection provides backup to Ethernet to extend system flexibility.
 
 ![](<.gitbook/assets/Unknown image (235)>)
 
-**5.2.5.1. GSM**
+#### **5.2.5.1. GSM**
 
 ![](<.gitbook/assets/Unknown image (236)>)
 
@@ -1138,7 +1138,7 @@ Speaker Volume: Adjust the speaker volume during two-way communication.
 
 Tap “Submit” to confirm the settings.
 
-**5.2.5.2. GPRS**
+#### **5.2.5.2. GPRS**
 
 ![](<.gitbook/assets/Unknown image (237)>)
 
@@ -1148,7 +1148,7 @@ Tap “Submit” to confirm the settings.
 * **Username:** It is the Log-in name to input before accessing the [GPRS](http://en.wikipedia.org/wiki/GPRS)feature. Please inquire your service provider.\*\*\*\*
 * **Password:It is the User Password to input before accessing the** [**GPRS**](http://en.wikipedia.org/wiki/GPRS)**feature. Please inquire your service provider.**
 
-**5.2.5.3. Wireless**
+#### **5.2.5.3. Wireless**
 
 ![](<.gitbook/assets/Unknown image (238)>)
 
@@ -1158,11 +1158,11 @@ Select the WiFi SSID of the router for the Control Panel to connec to. Enter the
 
 Adding WiFi connection is NOT allowed when the Panel is connected through Ethernet.
 
-**5.2.6. Report**
+#### **5.2.6. Report**
 
 ![](<.gitbook/assets/Unknown image (239)>)
 
-**5.2.6.1. Report**
+#### **5.2.6.1. Report**
 
 This page allows installers to configure report-related settings for reporting purposes.
 
@@ -1271,7 +1271,7 @@ Status events: The system will only report status event(non-alarm events) to thi
 
 ![](<.gitbook/assets/Unknown image (243)>)
 
-**5.2.6.2. Media Upload**
+#### **5.2.6.2. Media Upload**
 
 The system can deliver captured images and video clips captured by PIR Cameras and PIR Video Camera to cell phone, e-mail, or ftp.
 
@@ -1294,7 +1294,7 @@ Tap the info icon to display the upload method.
 * **Email**: mailto:user@server (transmitting an alarm image over Ethernet)
 * **Manitou**: manitou://user@server:port&#x20;
 
-**5.2.6.3. SMS**
+#### **5.2.6.3. SMS**
 
 This is used for setting SMS reporting.
 
@@ -1330,7 +1330,7 @@ Alarm events: The system will only report alarm event to this destination.
 
 Status events: The system will only report status event (non-alarm events) to this destination.
 
-**5.2.6.4. Voice**
+#### **5.2.6.4. Voice**
 
 TouchPanel-3 with microphone and speaker is able to make voice call during alarm reporting and establish two-way voice communication with call recipient. Each two-way voice session lasts 3 minutes at most.
 
@@ -1365,7 +1365,7 @@ VOIP SIP Settings
 
 Tap **Submit** to confirm.
 
-**5.2.6.5. SMTP**
+#### **5.2.6.5. SMTP**
 
 Program the mail server related settings. The email account you set here would be used to send report for events or picture and video clip captured by PIR Camera and PIR Video Camera.
 
@@ -1382,7 +1382,7 @@ Program the mail server related settings. The email account you set here would b
 
 &#x20;**Step 2** Tap **Submit** to confirm the settings.
 
-**5.2.7. Wired Device**
+#### **5.2.7. Wired Device**
 
 ![](<.gitbook/assets/Unknown image (7) (1)>)
 
@@ -1417,7 +1417,7 @@ Tap the info icon   ![](<.gitbook/assets/image (1) (1).png>)to display wiring di
 
 After completing all settings, tap **Submit** to save the changes.
 
-#### 5.3. Hotspot Sharing
+### 5.3. Hotspot Sharing
 
 TouchPanel-3 can function as a hotspot, sharing internet connection for nearby devices by setting the SSID and Password.
 
@@ -1437,11 +1437,11 @@ Toggle ON/OFF the Hotspot Sharing function.
 
 ***
 
-#### 5.4. Bluetooth Disarm
+### 5.4. Bluetooth Disarm
 
 The Bluetooth Disarming feature allows users to disarm the system via Bluetooth by simply approaching TouchPanel-3 with their smartphones.
 
-Up to **5**smartphones can be paired with TouchPanel-3 for disarming the system.
+Up to **5 smartphones** can be paired with TouchPanel-3 for disarming the system.
 
 Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to enter Bluetooth Disarming setting.
 
@@ -1512,7 +1512,7 @@ Go to **Bluetooth Disarming** setting page to access a list of paired devices. T
 
 **Step 2.** Then, delete TouchPanel-3 from your smartphone. Navigate the Smartphone’s **Settings > Bluetooth > My Devices**. Tap the paired TouchPanel-3 and select **Forget This Device** to remove it from the device list.
 
-#### 5.5. About
+### 5.5. About
 
 The App version, Panel version, ROM version, TSP Mac, and Panel Mac information will be displayed on this page.
 
@@ -1526,7 +1526,7 @@ If the Panel is updated to the latest version, a <mark style="color:green;">**GR
 
 ![](<.gitbook/assets/Unknown image (40)>) ![](<.gitbook/assets/Unknown image (41)>)
 
-### 6. Voice Prompts
+## 6. Voice Prompts
 
 TouchPanel-3 will play voice prompts according to different conditions. Below are two quick reference charts of all the voice prompts of TouchPanel-3 and the conditions under which they are played.
 
