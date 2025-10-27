@@ -182,7 +182,7 @@
 * [VESTA-259](vesta-259.md)
 * [VESTA-260](vesta-260.md)
 * [VESTA-264](vesta-264.md)
-* [VESTA-268  To check](vesta-268.md)
+* [VESTA-268](vesta-268.md)
 * [VESTA-269](vesta-269.md)
 * [VESTA-270](vesta-245-1.md)
 * [VESTA-270N-720P](vesta-270n-720p.md)

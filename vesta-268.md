@@ -1,114 +1,205 @@
----
-hidden: true
----
+# VESTA-268
 
-# VESTA-268  To check
+EMD-1ZW
 
-**TSO-9EL**
+<figure><img src=".gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
 
-## **Temperature Sensor**&#x20;
+## Specification:
 
+* Communication protocol: 500 series Z-Wave Plus module
+* Frequency: 868.40 MHz
+* Accuracy: ±5%.
+* Power supply: 2 x 1.5V AA alkaline batteries
+* Battery life: 2 years
+* Operating Temperature: -10°C \~ +45°C
+* Operating Humidity: Up to 85% (non-condensing)
+* Dimensions: 46 (W) x 90 (H) x 30 mm
 
+## Introduction
 
-TSO-9EL is wireless temperature sensor with attached temperature probe. It automatically transmits temperature condition to the Control Panel every half hour (30 minutes).
+The Energy Meter is a Z-Wave Electricity Power reader designed to be used with a digital watt hour meter supporting LED pulse output port. The E-meter reads the LED pulse from the watt hour meter and transmits the data to a Z-Wave network coordinator.
 
-## _**Identifying the parts**_
+The Energy Meter is a Z-Wave enabled device and is fully compatible with any Z-Wave enabled network.
 
-Remove the cover by loosening the bottom fixing screw, the inside of the Temperature Sensor will be revealed as shown.
+Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be routed to their destination via intermediary “listening” Z-Wave products.
 
-**1. External Temperature Probe Terminal**
+***
 
-Connect the External Temperature Probe to this Terminal
+### Parts Identification
 
-![](<.gitbook/assets/0 (108).jpeg>)
+<figure><img src=".gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
 
+#### 1. LED indicator
 
+The LED indicator lights up in the following conditions:
 
-**2. Test Button**
+* Flashes once: The Energy Meter is transmitting a signal.
+* Flashes twice: The Energy Meter is successfully added into a Z-Wave network.
 
-Press the button to transmit a test signal.
+#### 2. Mounting Holes
 
-**3. Internal LED**
+#### 3. Battery compartment Cover
 
-Flashes – when the Test or Learn Button is pressed. Continuous Flashes every 4 seconds – Battery exhaustion
+Remove the cover to insert 2 Alkaline AA 1.5V batteries to power up the Energy Meter.
 
-**4. Learn Button**
+#### 4. LED Sensor Jack
 
-Press the button to transmit a learn/test signal for learning the Temperature Sensor.
+Plug the Sensor into this jack to receive LED signal from the watt hour meter.
 
-&#x20;**5.  Battery Compartment**
+#### 5. Function Button
 
-6. **External Temperature Probe**
+* Press the button 3 times within 1.5 seconds to send a learn code.
+* Press and hold the button for 10 seconds to factory reset.
 
-Connect the Probe to External Temperature Probe Terminal
+#### 6. LED Sensor
 
-## _**Battery**_
+Attach the LED sensor to the watt hour meter, and plug into the LED sensor Jack on the E-Meter to read data from the watt hour meter.
 
-The Temperature Sensor uses one **CR123 - 3V Lithium battery**. Please always replace battery with the correct size and voltage.
+***
 
-When the Temperature Sensor is low battery, a low battery signal will be sent to the Control Panel along with regular signal transmissions for the Control Panel to display the status accordingly.
+## Features
 
-When the battery is depleted, the LED flashes every 4 seconds and the Temperature Sensor will stop all function.
+### Battery and Low Battery Detection
 
-### **Battery Change**
+The Energy Meter uses 2 Alkaline 1.5V batteries as its power source. It features Low Battery Detection: when the battery voltage is low, the Energy Meter will transmit a Low Battery signal to notify the Z-Wave network coordinator.
 
-1. Remove the Cover by loosening the bottom fixing screw.
-2. &#x20;Remove the Old Battery.
-3. Press the Tamper Switch or the Learn/Status Button a few times.
-4. Fit a new battery into the battery compartment. Please orient the battery according to the correct polarity.
-5. Replace the Cover.
+The Energy Meter reports its battery percentage to the Control Panel at 100%, 75%, 50%, and 25%. If the battery voltage is low (25%), a Low Battery signal will be sent to the Control Panel.
 
-## _**Getting Started**_
+When changing battery, after removing the old batteries, press the function button a couple times to fully discharge before inserting new batteries.
 
-**Step 1** Remove the fixing screw and cover assembly
+### Adding Device (Inclusion)
 
-**Step 2** Connect the External Temperature Probe to the terminal
+This product can be included and operated in any Z-Wave network with other Z-Wave certified devices. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability.
 
-**Step 3** Insert the battery into the battery holder taking care to connect the polarity correctly. **Step 4** Put the Control Panel into learning mode. Please refer to your Control Panel user manual.
+{% stepper %}
+{% step %}
+### Prepare
 
-**Step 5** Press Learn Button to send learn code to Control Panel.
+* Insert batteries to power on the E-meter.
+* Put the Z-Wave control panel into Inclusion mode (please refer to the Z-Wave control panel manual).
+{% endstep %}
 
-**Step 6** Refer to the user manual of the Control Panel to complete the learn-in process.
+{% step %}
+### Include
 
-## _**Walk Test (Range Test)**_
+* Within 1.5 seconds, press the Function Button 3 times.
+* Refer to operation manual of the Z-Wave Gateway or Control Panel to complete the adding process.
+{% endstep %}
 
-**Step 1** Refer to Control Panel manual to enter Walk Test mode
+{% step %}
+### Troubleshooting
 
-**Step 2** Press the Learn Button or Test button to transmit a test code for range test
+If the device has already been included into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (**see Removing Device**).
+{% endstep %}
+{% endstepper %}
 
-**Step 3** If the signal is received by Control panel, it will display the information accordingly. Refer to you Control Panel to complete Walk Test procedure
+### Removing Device (Exclusion)
 
-## _**Mounting Methods**_
+The device must be removed from an existing Z-Wave network before being added into another.
 
-There are two ways to mount the Temperature Sensor, by either Self-adhesive installation or Screw mounting.
+**Exclusion Mode**
 
-### **Self adhesive mounting**
+* Put the Z-Wave Gateway or Control Panel into Exclusion mode (please refer to the Z-Wave or control panel manual).
+* Within 1.5 seconds, press the Function Button 3 times — the device will be removed from the Z-Wave network.
 
-1. Clean the surface with a suitable degreaser.
-2. Remove the protective covering from one side of the double-sided adhesive pad and firmly apply to the back of the device.
-3. Next remove the other cover and firmly press the item onto the desired location.
+**Factory Reset**
 
-{% hint style="warning" %}
-Note:
+Factory resetting the device will restore it to factory default settings (i.e., not included into any Z-Wave network). Only use this if the Z-Wave Gateway or Control Panel is lost or otherwise inoperable.
 
-Do not use the adhesive pad method of installation on a surface with peeling or cracked paint, or on a rough surface.
-{% endhint %}
+* Press and hold the Function Button of the device for 10 seconds to factory reset.
 
-### **Screw mounting**
+***
 
-The Base has two knockouts, where the plastic is thinner, for mounting purpose. To mount the Temperature Sensor
+## Operation
 
-1. Remove the cover
-2. Break through the knockouts on the base
-3. Using the holes as a template, drill holes in the surface&#x20;
-4. Insert the wall plugs if fixing into plaster or brick
-5. Screw the base into the wall plugs VI. Screw the cover back on to its base
+### Installation
 
-## _**Operation**_
+**Watt Hour Meter connection**
 
-* The temperature detection range of the Temperature Sensor is about -30℃ \~ 100℃
+A washer with double-side adhesive tape is provided to connect the LED sensor to the watt hour meter.
 
-( -22°F \~ 212°F) ±2℃.
+1. Locate the LED pulse output port on the watt hour meter, remove the double-side adhesive tape cover on the washer and apply the washer around the LED port.
 
-* The Temperature Sensor will transmit a temperature signal periodically at intervals of 30 minutes which also serves as supervision signal. If the Control Panel fails to receive the signal transmitted from a certain temperature sensor for a programmed period, it will determine the temperature sensor is out of order and report the condition.
-* You can also press the Learn or Test Button to manually transmit temperature signal.
+<figure><img src=".gitbook/assets/image (463).png" alt=""><figcaption></figcaption></figure>
+
+2. The LED sensor head has a built-in magnet. Apply the LED sensor head to the washer to attach the sensor to   &#x20;LED port for reading LED pulse from watt hour meter.
+
+<figure><img src=".gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
+
+#### Wall Mounting
+
+The Energy Meter has two mounting holes on the back for wall mounting.
+
+{% stepper %}
+{% step %}
+Mark the mounting location on the wall according to the mounting hole position.
+{% endstep %}
+
+{% step %}
+Install two screws at the mounting location.
+{% endstep %}
+
+{% step %}
+Hook the Energy Meter onto the screws.
+{% endstep %}
+{% endstepper %}
+
+***
+
+### Energy Consumption Monitor
+
+* The Energy Meter reads LED pulse from the watt hour meter to monitor energy consumption.
+* The Energy Meter will transmit current wattage every 5 minutes to the Z-Wave Gateway/Control Panel.
+* The Energy Meter transmits power data to the coordinator whenever accumulated power usage increases by 1 kW·hr.
+
+To clear the Energy Meter of its accumulated power consumption data:
+
+{% stepper %}
+{% step %}
+Remove the batteries to power down.
+{% endstep %}
+
+{% step %}
+Press and hold the function button and reinsert batteries while still holding the button.
+{% endstep %}
+
+{% step %}
+Keep holding the button and release after 3 seconds. The accumulated power consumption data will be cleared.
+{% endstep %}
+{% endstepper %}
+
+***
+
+### Z-Wave Information
+
+**Device Type:** Whole Home Meter - Simple
+
+**Role Type:** Listening Sleeping Slave (LSS)
+
+**Maximum number of devices that can be added to the group:** 3
+
+#### Command Class Support / Control
+
+**Mandatory CC Support:**
+
+* Association CC, v2
+* Association Group Information CC
+* Battery CC
+* Device Reset Locally CC
+* Manufacturer Specific CC, v2
+* Meter CC, V2
+* Version CC, v2
+* Z-Wave Plus Info CC, v2
+* Power Level CC
+* Firmware Update CC, v2
+* CRC16 Encap CC
+
+#### Z-Wave Groups (Association Command Class Version 2)
+
+Group 1 — “LifeLine”:
+
+* Battery CC (COMMAND\_CLASS\_BASIC)
+* Device Reset Locally CC
+* Meter CC
+
+***
