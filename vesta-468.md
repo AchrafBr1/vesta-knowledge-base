@@ -2,9 +2,32 @@
 
 #### SD-32-H-SC-F1-2W-868
 
-## Smoke Detector Series with Interconnection
+## Smoke & Heat Detector with Interconnection
 
 <figure><img src=".gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
+
+## Specification:
+
+* VESTA radio smoke and heat detector SD-32 series
+* Fixed-point heat detection is activated when ambient temperature reaches 54-65°C (54-65°C)
+* Compliance with UL 217 8th Edition and EN14604 standards
+* Dual LED technology distinguishes real smoke from cooking fumes and steam
+* Detection of polyurethane foam in rapid fire or slow combustion
+* Prevention of false alarms due to dust accumulation by patented technology
+* Interlock function: all detectors sound when one is activated
+* Built-in 85 dB audible siren at 3 m (10 ft)
+* Random supervision signal for integrity check
+* Monthly self-calibration and self-diagnostic function
+* Tamper to prevent unauthorized tampering
+* 3V, 2 lithium CR123 batteries
+* Optional lithium battery can be added
+* Battery life of 3 years (extendable to 5 years by installing additional lithium battery)
+* Operating temperature -10 °C to 45 °C (-4 °F to 113 °F)
+* Relative humidity up to 85% non-condensing
+* Dimensions: 105 × 105 × 41 mm
+* Removable cover design for easy cleaning
+
+***
 
 SD-32 Series is a wireless smoke detector designed to protect you against potential fire hazards. The Smoke detector uses multi-criteria sensor technology to distinguish between fast-burning flames and slow-smoldering fires, while at the same time it incorporates intelligent technology to differentiate between cooking smoke and actual life-threatening house-fire emergencies, virtually eliminating nuisance alarms.
 
