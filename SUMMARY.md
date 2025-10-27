@@ -366,3 +366,7 @@
 ## ADV FIRMWARE UPDATES
 
 * [Firmware Updates – VESTA Advanced Video](adv-firmware-updates/firmware-updates-vesta-advanced-video.md)
+
+***
+
+* [SD-32-SC-F1-2W-868](sd-32-sc-f1-2w-868.md)

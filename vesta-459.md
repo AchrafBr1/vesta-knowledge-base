@@ -73,7 +73,7 @@ The user can manage user codes & key tags for all integrated Yale Doorman Locks 
 
 Enter the **Installer Code** (default: **7982**) to access full programming fucntions. Go to **Equipment Settings** > **Doorman Code**
 
-![](<.gitbook/assets/Unknown image (10) (1) (1)>)
+![](<.gitbook/assets/Unknown image (10) (1) (1) (1)>)
 
 #### _**User Code**_
 
@@ -82,7 +82,7 @@ Enter the **Installer Code** (default: **7982**) to access full programming fucn
 * If there are L3 and V2N door locks integrated in the system, the user interface will display 30 rows for user code settings, with the first 10 rows applicable to V2N, and all 30 rows applicable to L3.
 * **The default User Code 1 is 000000. For security reasons, please change the default User Code 1 immediately after the door lock is learned into the system.**
 
-![](<.gitbook/assets/Unknown image (11) (1) (1)>)
+![](<.gitbook/assets/Unknown image (11) (1) (1) (1)>)
 
 
 
