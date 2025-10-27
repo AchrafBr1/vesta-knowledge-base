@@ -49,7 +49,7 @@ The SD-32-H-R2 series includes the following models:
 * Flashes every 1 second: Smoke Detector under Alarm Silence Mode.
 * Flashes every 2 seconds: Smoke Detector under warm-up and calibration process.
 * Flashes every 4 seconds with Orange LED: battery exhausted.
-* Flashes briefly: When Learn Button is pressed / Signal Transmission / Signal Reception\*\*(For SC models).
+* Flashes briefly: When Learn Button is pressed / Signal Transmission / Signal Reception (For SC models).
 
 **Orange LED**
 
@@ -96,13 +96,13 @@ You can press the test button to silent the beep for 7 days. This action can onl
 
 ### Getting Started
 
-**Step 1** Insert CR123 3V Lithium batteries to power on the Smoke Detector. Orient the batteries according to the polarity indicated in the battery compartment before insertion.\*\*\*\*
+**Step 1** Insert CR123 3V Lithium batteries to power on the Smoke Detector. Orient the batteries according to the polarity indicated in the battery compartment before insertion.
 
 **Step 2** The Smoke Detector will emit 2 short beeps and begin **warming up for 1 minute**. The Red LED will flash every 2 seconds.
 
 **Step 3** When the warm-up is complete, the Smoke Detector will emit a beep to indicate it has entered calibration mode. The **calibration** mode lasts for 1 minute. The Red LED will continue to flash every two seconds during calibration. If calibration fails, the smoke detector will retry calibration and calibration mode will last a maximum of 9 minutes. If calibration cannot be completed in 9 minutes, the Smoke Detector will emit continuous beep. Remove the battery and restart from Step 1.
 
-**Step 4** When calibration is completed, the Smoke Detector will emit 2 short beeps and turn off LED, returning to normal mode.\*\*\*\*
+**Step 4** When calibration is completed, the Smoke Detector will emit 2 short beeps and turn off LED, returning to normal mode.
 
 **Step 5** Put Control Panel into learning mode. Refer to Control Panel manual for details.
 
@@ -110,7 +110,7 @@ You can press the test button to silent the beep for 7 days. This action can onl
 
 (For SC model) Press the Learn/Test Button for 3 seconds to transmit learn code.&#x20;
 
-**Step 7** Refer to Control Panel manual to complete learning process. For SC model, the Smoke Detector will emit a 2-tone beep to indicate successful learning.\*\*\*\*
+**Step 7** Refer to Control Panel manual to complete learning process. For SC model, the Smoke Detector will emit a 2-tone beep to indicate successful learning.
 
 ### Edit Device Operation Area
 
