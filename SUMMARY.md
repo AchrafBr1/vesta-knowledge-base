@@ -369,4 +369,4 @@
 
 ***
 
-* [SD-32-SC-F1-2W-868](sd-32-sc-f1-2w-868.md)
+* [VESTA-xx3 SD-32-SC-F1-2W-868](vesta-xx3-sd-32-sc-f1-2w-868.md)
