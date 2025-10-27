@@ -15,7 +15,7 @@ detection.
 
 **\_\_**
 
-<figure><img src=".gitbook/assets/Unknown image" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (246)" alt=""><figcaption></figcaption></figure>
 
 1. **Flash LED / Infrared LED**
 
@@ -136,7 +136,7 @@ After changing Dip Switch settings, re-power on the PIR Camera to activate the c
 * The PIR Camera features low battery voltage detection. When low battery is detected, a low battery signal will be sent to the Control Panel along with regular signal transmissions for the Panel to display the status accordingly.
 * **To change the batteries:**
 
-<figure><img src=".gitbook/assets/Unknown image (2)" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (2) (2)" alt="" width="188"><figcaption></figcaption></figure>
 
 **Step 1** Detach the PIR Camera from mounting bracket.
 
@@ -187,7 +187,7 @@ Note:
 
 <img src=".gitbook/assets/image (3) (1).png" alt="" data-size="line"> If the connection fails, the Green LED will turn off.
 
-![](<.gitbook/assets/Unknown image (3)>)
+![](<.gitbook/assets/Unknown image (3) (2)>)
 
 * When you are satisfied that the PIR Camera works in the chosen location, you can proceed to installation.
 
@@ -215,15 +215,15 @@ Please make sure the PIR Camera is properly hooked onto the mounting bracket, so
 
 #### Surface Mounting
 
-![](<.gitbook/assets/Unknown image (4)>)
+![](<.gitbook/assets/Unknown image (4) (2)>)
 
 #### Corner Mounting
 
-![](<.gitbook/assets/Unknown image (5)>)
+![](<.gitbook/assets/Unknown image (5) (2)>)
 
 4. Apply the Stabilizing Screw to the top of the PIR Camera. The Stabilizing Screw has a foolproof mechanism for correct installation.
 
-![](<.gitbook/assets/Unknown image (6)>)
+![](<.gitbook/assets/Unknown image (6) (2)>)
 
 ## Installation Recommendations
 
@@ -235,9 +235,9 @@ Please make sure the PIR Camera is properly hooked onto the mounting bracket, so
 * On a surface or in a corner where animals are inaccessible.
 * The PIR Camera has a detection range of 10 meters when mounted at the height of 2.3 meters above the ground.
 
-![VST-897 EX Detection Range](<.gitbook/assets/Unknown image (7)>)
+![VST-897 EX Detection Range](<.gitbook/assets/Unknown image (7) (2)>)
 
-![Pet Weight/Height: 20 kg](<.gitbook/assets/Unknown image (8)>)
+![Pet Weight/Height: 20 kg](<.gitbook/assets/Unknown image (8) (2)>)
 
 
 
@@ -249,21 +249,21 @@ Please make sure the PIR Camera is properly hooked onto the mounting bracket, so
 * Never attempt to disassemble or modify the unit.
 * Please install the PIR Camera straight up. Do not tilt it.
 
-![](<.gitbook/assets/Unknown image (9)>)
+![](<.gitbook/assets/Unknown image (9) (2)>)
 
 * Do not install the motion sensor camera where objects moved by wind such as trees and laundry, which may block the motion sensor camera’s field of view.
 
-![](<.gitbook/assets/Unknown image (10)>)
+![](<.gitbook/assets/Unknown image (10) (2)>)
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-![](<.gitbook/assets/Unknown image (11)>)
+![](<.gitbook/assets/Unknown image (11) (2)>)
 
 * Avoid aiming at the path of outdoor unit’s intake or exhaust airflow.
 
 \_\_
 
-<figure><img src=".gitbook/assets/Unknown image (12)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (12) (2)" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 IMPORTANT NOTE:

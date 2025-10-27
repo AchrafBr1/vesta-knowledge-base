@@ -1298,7 +1298,7 @@ Tap the info icon to display the upload method.
 
 This is used for setting SMS reporting.
 
-![](<.gitbook/assets/Unknown image (13)>)
+![](<.gitbook/assets/Unknown image (13) (1)>)
 
 **Step 1** Tap **+** to add an SMS report destination. A dialogbox will appear, allowing you to program the report destination.
 
@@ -1411,9 +1411,9 @@ There are two on-board wired zones on TouchPanel-3.
 
 Tap the info icon   ![](<.gitbook/assets/image (1) (1) (1).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
 
-![](<.gitbook/assets/Unknown image (13) (1)>)
+![](<.gitbook/assets/Unknown image (13) (1) (1)>)
 
-**Edit**<img src=".gitbook/assets/Unknown image (14)" alt="" data-size="line"> :Tap to assign the wired input device to a zone and area.
+**Edit**<img src=".gitbook/assets/Unknown image (14) (1)" alt="" data-size="line"> :Tap to assign the wired input device to a zone and area.
 
 After completing all settings, tap **Submit** to save the changes.
 
@@ -1429,7 +1429,7 @@ Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to acce
 
 Toggle ON/OFF the Hotspot Sharing function.
 
-![](<.gitbook/assets/Unknown image (16)>)
+![](<.gitbook/assets/Unknown image (16) (1)>)
 
 * Enter the SSID and Password, and tap Submit. (Both SSID and Password can be edited no matter what toggle status is. Toggle status won't be changed after SSID or Password is edited.)
 
