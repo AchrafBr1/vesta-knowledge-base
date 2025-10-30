@@ -1,7 +1,3 @@
----
-icon: router
----
-
 # VESTA-421
 
 **SD-32-ALK-F1**
