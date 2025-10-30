@@ -1409,7 +1409,7 @@ There are two on-board wired zones on TouchPanel-3.
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Tap the info icon   ![](<.gitbook/assets/image (1) (1) (1).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
+Tap the info icon   ![](<.gitbook/assets/image (1) (1) (1) (2).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
 
 ![](<.gitbook/assets/Unknown image (13) (1) (1)>)
 

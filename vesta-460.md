@@ -108,7 +108,7 @@ When the PIR Camera powers on, it will warm up for 60 seconds. During the 60-sec
 
 The table below outlines the function of each Dip switch. Each switch has two positions: **ON** (upper position) and **OFF** (lower position).
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Note:
