@@ -20,15 +20,16 @@ icon: video
 
 To update the camera, follow these steps:
 
-1.  **Download the Firmware**: Ensure you download the firmware that matches your camera model from the following list according to your model:<br>
+1. **Download the Firmware**: Ensure you download the firmware that matches your camera model from the following list according to your model.
 
-    <table><thead><tr><th>Models</th><th width="114">Firmware</th></tr></thead><tbody><tr><td><ul><li>IPC-T38-ZAS-PV-B</li><li>IPC-T38-ZAS-PV</li><li>IPC-B38-ZAS-PV-B</li><li>IPC-B38-ZAS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/u9fVnKEjg">Download</a></td></tr><tr><td><ul><li>IPC-T35-AS-PV-B</li><li>IPC-T35-AS-PV</li><li>IPC-B35-AS-PV-B</li><li>IPC-B35-AS-PV</li></ul></td><td><a href="https://gofile.me/7yryF/LJPMxKDbU">Download</a></td></tr><tr><td><ul><li>IPC-D24-ZAS-L-B</li><li>IPC-D24-ZAS-L</li><li>IPC-T24-L</li><li>IPC-B24-L</li></ul></td><td><a href="https://gofile.me/7yryF/HYczagZrp">Download</a></td></tr></tbody></table>
+&#x20;                                                               &#x20;
 
+<p align="center"> <a href="../adv-firmware-updates/firmware-updates-vesta-advanced-video.md"><strong>DOWNLOAD</strong></a> <br></p>
 
-2. [**Access Local Interface**](vesta-advanced-ip-camera-series-with-smarthomesec.md#quick-login-to-local-portal): Navigate to the camera's local interface (Default IP: _192.168.1.86_).
-3. **Navigate to Setup**: Go to 'Setup' in the menu.
-4. **Select System**: Choose 'System' from the options.
-5. **Choose Upgrade**: Proceed to 'Upgrade' to begin the firmware update process.
+1. [**Access Local Interface**](vesta-advanced-ip-camera-series-with-smarthomesec.md#quick-login-to-local-portal): Navigate to the camera's local interface (Default IP: _192.168.1.86_).
+2. **Navigate to Setup**: Go to 'Setup' in the menu.
+3. **Select System**: Choose 'System' from the options.
+4. **Choose Upgrade**: Proceed to 'Upgrade' to begin the firmware update process.
 
 <figure><img src="../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
