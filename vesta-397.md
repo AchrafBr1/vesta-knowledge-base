@@ -374,8 +374,7 @@ The PIR & Glass Break Detector can be factory reset to the default pet Immunity 
 
 5. Push downwards the device and fasten the bottom fixingscrew to firmly secure the device to the base.
 
-\
-
+<br>
 
 <figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -44,6 +44,6 @@ icon: video
 
 How To Install
 
-{% content-ref url="vesta-home-ip-cam.md" %}
-[vesta-home-ip-cam.md](vesta-home-ip-cam.md)
+{% content-ref url="setup-vesta-home-ip-cam.md" %}
+[setup-vesta-home-ip-cam.md](setup-vesta-home-ip-cam.md)
 {% endcontent-ref %}

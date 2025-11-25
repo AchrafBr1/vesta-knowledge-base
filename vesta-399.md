@@ -103,4 +103,4 @@ Note:
 &#x20;When re-installing the BUS terminal, make sure to install the blocks in the same way and direction as the picture below to avoid potential hazards.
 {% endhint %}
 
-\
+<br>

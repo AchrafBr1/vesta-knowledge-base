@@ -336,7 +336,7 @@
 * [IPC-B32-OUT-WF](vesta-home-ip-cameras/ipc-b32-out-wf.md)
 * [VESTA-462](vesta-home-ip-cameras/vesta-462.md)
 * [VESTA-463](vesta-home-ip-cameras/vesta-463.md)
-* [VESTA Home IP CAM](vesta-home-ip-cameras/vesta-home-ip-cam.md)
+* [SETUP VESTA Home IP CAM](vesta-home-ip-cameras/setup-vesta-home-ip-cam.md)
 * [SETUP VESTA CAMERAS 291-292-293](vesta-home-ip-cameras/setup-vesta-cameras-291-292-293.md)
 
 ## Vesta Advanced Video

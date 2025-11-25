@@ -1,8 +1,7 @@
 # VESTA-063
 
-Dual technology curtain outdoor sensor\
-
-
+Dual technology curtain outdoor sensor<br>
+----
 
 <figure><img src=".gitbook/assets/vesta-063 F.jpg" alt="" width="167"><figcaption></figcaption></figure>
 
