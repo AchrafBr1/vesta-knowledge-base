@@ -2,7 +2,7 @@
 
 ## 13.56MHz Vesta NFC TAG
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 NFC Vesta TAG for Access Control. 13.56Mhz frequency. <2 cm reading range (depends on device). Made of epoxy and ABS material. Compatible with VESTA-012N and VESTA-012N-NOTAG
 

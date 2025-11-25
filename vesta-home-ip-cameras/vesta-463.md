@@ -44,6 +44,6 @@ icon: video
 
 How To Install
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/PGdoBG99QvxP8fScQjDY" %}
+[Broken link](/broken/pages/PGdoBG99QvxP8fScQjDY)
 {% endcontent-ref %}
