@@ -4,7 +4,7 @@
 
 ## **Heat Detector**&#x20;
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 HD-9 series are a heat detector with both rate-of-rise and fixed temperature sensors insides. It provides capacities of monitoring the rate of any rise in temperature and detecting a household temperature that may lead to a fire disaster. It is idea for applications for the environment affected by heat, such as kitchen.
 

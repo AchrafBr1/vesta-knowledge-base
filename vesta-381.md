@@ -178,7 +178,7 @@ After the device is learnt into the Control Panel, the user can edit the device 
 
 <figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Click “**Submit**” to confirm. Press the Test Button on DCSV-32 to receive Material & Sensitivity Level data from the Control Panel. The LED will first turn off, and then become brighter and then turn dark, indicating that programming command from the Control Panel has been successfully received.
 
@@ -194,7 +194,7 @@ Once the device is learnt into the Control Panel, the user can edit the device c
 
 Please refer to the table below for configuration details. For example, to set the alarm trigger threshold to ≥5° and restore time to 2 seconds, please input 1100.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Press the Test Button of DCSV-32 to receive Tilt Sensor configuration from the Control Panel. The LED will first turn off, and then become brighter and turn dark, indicating that programming command from the Control Panel has been successfully received.
 
@@ -235,16 +235,16 @@ the **Tilt Sensor** row.
 
 Refer to the table below for information about installation location and the thickness of different materials:
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Mounting as a Tilt Sensor:**
 
 * The tilt sensor detects vertical deviation relative to the initial position exceeding the programmed activation threshold (≥5°, ≥10°, ≥15°, ≥20°, ≥25°).
 * The tilt sensor can be installed on windows or skylights, and the device should be mounted either vertically or horizontally with respect to the ground (within ±5°).
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * _**Mounting Procedure**_
   1. Use the 2 mounting holes on the back cover as a template and drill holes into the surface to be mounted.

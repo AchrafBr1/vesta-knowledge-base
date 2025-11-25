@@ -4,7 +4,7 @@
 
 ## **REMOTE KEYPAD**![](<.gitbook/assets/1 (139).png>)
 
-<figure><img src=".gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Remote Keypad includes following models:
 

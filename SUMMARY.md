@@ -394,6 +394,9 @@
 * [SAM-4705](cameras-accessories/sam-4705.md)
 * [VS-1280ZJ-DM18-B](cameras-accessories/vs-1280zj-dm18-b.md)
 * [SAM-4712](cameras-accessories/sam-4712.md)
+* [VFB203W](cameras-accessories/vfb203w.md)
+* [VFA137](cameras-accessories/vfa137.md)
+* [VFA130-E](cameras-accessories/vfa130-e.md)
 
 ## Softwares and Tools
 

@@ -4,7 +4,7 @@
 
 ## **BUS WIRED KEYPAD**
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 KPT-35N-BUS is a hardwired keypad with an NFC key fob designed to have quick access control of the system control panel via PIN Code or NFC tags. The keypad can send wired signals to and receive signals from the Control Panel within wire distance, depending on the wire gauge and the total power consumption of all wired devices. The LCD screen will display information the system control panel sends back.
 
@@ -14,7 +14,7 @@ The wired keypad can be mounted on either a flat surface or a wall with screws, 
 
 <figure><img src=".gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -120,15 +120,15 @@ Please follow the steps below to learn the keypad into the Hybrid Panel.
 
 **Step 3.** Enter the User PIN Code of the located are&#x61;**.**
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Enter Installer Code. (Factory Default: **7982**)
 
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** The keypad is added to the located area and the zone you chose.
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### User PIN Code Management
 
@@ -138,13 +138,13 @@ A user PIN code must be unique, even across areas. Therefore, when a PIN code is
 
 For example, if you assign <mark style="color:red;">**1234**</mark> to both Area 1 and Area 2 on **PIN Code (NEW)** page, the system will update the PIN to <mark style="color:blue;">**01**</mark><mark style="color:red;">**1234**</mark> for Area 1 and <mark style="color:blue;">**02**</mark><mark style="color:red;">**1234**</mark> for Area 2 on the **PIN Code** page.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A PIN Code assigned to <mark style="color:blue;">multiple areas</mark> must be limited to <mark style="color:blue;">4 digits</mark> in **PIN Code (NEW)** page, as the system will automatically add the area number as the first two digits in **PIN (Code)** page.
 
 On the other hand, a PIN Code for a <mark style="color:blue;">single area</mark> can be <mark style="color:blue;">set up to 6 digits.</mark>
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Add Tag/Clear Tag Procedures
 
@@ -174,7 +174,7 @@ Step 1. Go to the **PIN Code** page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click **Submit**.
 
-<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 3. The tag is cleared.
 
@@ -185,7 +185,7 @@ Step 3. The tag is cleared.
 * A question mark “**?**” will be displayed if the area status cannot be identified.
 * Example:
 
-<div align="left"><figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### System Mode Change
 
@@ -195,7 +195,7 @@ The user can change the system mode for a single area using a unique PIN code fo
 
 1. Press the “＊” key, and then enter the specific area PIN code (4-6 digits) or apply an NFC tag.
 
-<div align="left"><figure><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2. Press the **Arm/Home Arm/OK** key to enter **Away Armed/Home Armed/System Disarmed** mode for the area.
 
@@ -207,7 +207,7 @@ There are 2 ways to change mode of multiple areas with a shared user code.
 
 1. Input **00** followed by a 4 digit User Code that is shared among multiple areas. (The shared user code does not include the area number).
 
-<div align="left"><figure><img src=".gitbook/assets/image (14) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (14) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2. Press the **Arm/Home Arm/OK** key to enter **Away Armed/Home Armed/System Disarmed** mode for all the areas that the user code applies to.
 
@@ -221,7 +221,7 @@ There are 2 ways to change mode of multiple areas with a shared user code.
 
 <div align="left"><figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-3. Use <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">  and  ![](<.gitbook/assets/image (18) (1) (1) (1) (1).png>)  keys to scroll the display.&#x20;
+3. Use <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">  and  ![](<.gitbook/assets/image (18) (1) (1) (1) (1).png>)  keys to scroll the display.&#x20;
 
 Use the “＊” key to select the area(s) and then press the **OK** key to confirm your selection.
 

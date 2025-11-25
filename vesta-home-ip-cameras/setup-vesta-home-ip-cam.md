@@ -6,7 +6,7 @@ description: >-
 icon: camera-cctv
 ---
 
-# VESTA Home IP CAM
+# SETUP VESTA Home IP CAM
 
 <figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
 
@@ -117,7 +117,7 @@ UserID: admin
 Password: (Safety code of the camera, label below)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Password</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Password</p></figcaption></figure>
 
 SETUP COMPLETED
 

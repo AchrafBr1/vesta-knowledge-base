@@ -74,7 +74,7 @@ The Carbon Monoxide Detector is supervised by sending a periodic supervision sig
 
 The Carbon Monoxide Detector will perform self-diagnostics every 12 hours. The user can also press and hold the test button for 10 seconds to perform self-diagnostics. If any fault is detected, the Carbon Monoxide Detector will transmit signal to the Control Panel, and the Yellow LED will flash twice along with two beeps every minute. The following three conditions of Carbon Monoxide Sensor can be detected via self-diagnostics.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Learning
 
