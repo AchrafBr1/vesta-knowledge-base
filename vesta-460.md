@@ -2,14 +2,14 @@
 
 VST 897EX IL Series
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The VST-897EX Series is an advanced outdoor passive infrared (PIR) motion sensor camera, designed to enhance security&#x20;with high-definition image transmission (up to 1280 x 720 pixels) upon motion detection. Equipped with Sub-GHz Wi-Fi and an&#x20;SF1 backup module, the **HALOW model** ensures rapid processing for faster visual alarm verification.\
 Built to withstand outdoor conditions, the VST-897EX features night illumination, UV-resistant housing, and IPX5 waterproofing,&#x20;making it suitable for areas like backyards, gates, and outdoor corridors. The **HDR model** adds white balance with HDR support&#x20;for clearer images in high-contrast lighting conditions.\
 With a typical detection range of **10 meters** when mounted at **2.3 meters** above the ground, it offers pet immunity for pets up to&#x20;20 kilograms.&#x20;The camera incorporates anti-masking detectors an advanced anti-masking feature, capable of detecting attempts to obscure&#x20;the lens using objects or coatings within 20 cm. Infrared technology further enhances anti-masking through over-the-lens\
 detection.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Identifying the Parts
 
@@ -108,7 +108,7 @@ When the PIR Camera powers on, it will warm up for 60 seconds. During the 60-sec
 
 The table below outlines the function of each Dip switch. Each switch has two positions: **ON** (upper position) and **OFF** (lower position).
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Note:
@@ -183,9 +183,9 @@ Note:
 
 * When the Control Panel is put to Walk Test mode, pressing the Test Button also initiate a Wi-Fi Walk Test. The PIR Camera’s Green LED will light up as it begins searching for a HaLow-supported Control Panel.
 
-<img src=".gitbook/assets/image (2) (1).png" alt="" data-size="line"> If a connection is established, the Green LED will flash rapidly during data transmission via Wi-Fi, and the message “HALOW OK” will appear on the Panel’s webpage upon completing data transmission.
+<img src=".gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> If a connection is established, the Green LED will flash rapidly during data transmission via Wi-Fi, and the message “HALOW OK” will appear on the Panel’s webpage upon completing data transmission.
 
-<img src=".gitbook/assets/image (3) (1).png" alt="" data-size="line"> If the connection fails, the Green LED will turn off.
+<img src=".gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> If the connection fails, the Green LED will turn off.
 
 ![](<.gitbook/assets/Unknown image (3) (2)>)
 

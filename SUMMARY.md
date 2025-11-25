@@ -383,6 +383,11 @@
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-T38-ZAS-PV-B](ipc-t38-zas-pv-b.md)
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-T24-L](ipc-t24-l.md)
 
+## CAMERAS ACCESSORIES
+
+* [VS-1280ZJ-XS](cameras-accessories/vs-1280zj-xs.md)
+* [VFA150](cameras-accessories/vfa150.md)
+
 ## Softwares and Tools
 
 * [Vesta Config Tool](softwares-and-tools/vesta-config-tool.md)
