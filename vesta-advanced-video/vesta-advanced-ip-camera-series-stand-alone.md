@@ -14,7 +14,7 @@ To set up your ADVANCED VIDEO cameras or NVRs in **stand-alone CCTV mode**, foll
 
 ### **Step 1: Download the VESTA ADVANCED App**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The system is managed through the **VESTA ADVANCED** mobile app, available for both Android and iOS devices.
 

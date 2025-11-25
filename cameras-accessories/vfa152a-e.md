@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## VESTA anti-corrosion pole mounting bracket
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Specifications
 

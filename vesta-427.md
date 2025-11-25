@@ -2,7 +2,7 @@
 
 ## VESTA wired detectors with EOL resistor&#x20;
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### PLUG & PLAY WITH VESTA
 

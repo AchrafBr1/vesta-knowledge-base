@@ -2,7 +2,7 @@
 
 ## VESTA Dula Technology wired detectors with EOL resistors
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### PLUG & PLAY WITH VESTA
 

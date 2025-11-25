@@ -23,7 +23,7 @@ The Radiator Valve serves as an end device in the ZigBee network. It can be incl
 
 **A.** ![](<.gitbook/assets/2 (62).jpeg>) **ON** when device is already learned into Zig-Bee network.
 
-**B.** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Low Battery Indicator.**
+**B.** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Low Battery Indicator.**
 
 **C**. &#x20;
 
@@ -131,7 +131,7 @@ Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce te
 
 ### _**Key Lock Function**_
 
-Press and hold both the Auto/Manual button and the <img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display the <img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both the Auto/Manual button and <img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds likewise.
+Press and hold both the Auto/Manual button and the <img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display the <img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both the Auto/Manual button and <img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds likewise.
 
 ### _**Remote Control**_
 
@@ -169,9 +169,9 @@ As a ZigBee device, the Radiator Valve needs to join a ZigBee network for user t
 1. Remove the Radiator Valve back cover and insert 2 AA Alkaline batteries to power up the Radiator Valve, LCD will display **InS** and  icon will flash to indicate Radiator Valve’s motor is working.
 2. Press and hold the Boost button for 10 seconds, LCD will flash **888** to indicate release button to join ZigBee network. Please make sure the permit-join feature on the router or coordinator of your ZigBee network is enabled.
 3. Wait for several seconds for the Radiator Valve to join ZigBee network. Please check the security system control panel or CIE (Control and Indicating Equipment) to confirm if joining and registration is successful.
-4. When the motor stops working and <img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon changes to steady on, attach the Valve cap to the pipe.
+4. When the motor stops working and <img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon changes to steady on, attach the Valve cap to the pipe.
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="404"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="404"><figcaption></figcaption></figure>
 
 5. Rotating the Valve cap clockwise to tighten the Radiator Valve.
 

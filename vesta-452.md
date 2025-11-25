@@ -58,7 +58,7 @@ The Carbon Monoxide Detector is supervised by sending a periodic supervision sig
 
 * The alarm will be activated after CO concentration is detected according to time length in following table:
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Once the alarm is activated, the Carbon Monoxide Detector will transmit alarm signal and activates its buzzer to raise alarm. The Red LED will begin to flash rapidly.
 * After alarm activation, the Carbon Monoxide Detector will continue to sound alarm and resend alarm signal every 10 minutes until the CO concentration drops below 30 ppm. When the concentration drops below 30 ppm, the carbon Monoxide Detector will stop sounding alarm and transmit a restore signal.
@@ -74,7 +74,7 @@ The Carbon Monoxide Detector is supervised by sending a periodic supervision sig
 
 The Carbon Monoxide Detector will perform self-diagnostics every 12 hours. The user can also press and hold the test button for 10 seconds to perform self-diagnostics. If any fault is detected, the Carbon Monoxide Detector will transmit signal to the Control Panel, and the Yellow LED will flash twice along with two beeps every minute. The following three conditions of Carbon Monoxide Sensor can be detected via self-diagnostics.
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Learning
 
