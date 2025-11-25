@@ -1,5 +1,5 @@
 ---
-icon: square-xmark
+icon: circle-xmark
 ---
 
 # VS-1280ZJ-XS

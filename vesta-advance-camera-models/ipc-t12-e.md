@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: video
 ---
 
@@ -22,10 +21,10 @@ icon: video
 
 {% tabs %}
 {% tab title="VS-0301G1" %}
-<figure><img src="../.gitbook/assets/image (470).png" alt="" width="188"><figcaption><p>VS-0301G1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (470).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vs-0301g1.md">VS-0301G1</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
-<figure><img src="../.gitbook/assets/image (471).png" alt="" width="188"><figcaption><p>VFA-152A-E</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (471).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa152a-e.md">VFA-152A-E</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

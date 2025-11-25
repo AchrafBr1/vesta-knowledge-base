@@ -108,7 +108,7 @@ When the PIR Camera powers on, it will warm up for 60 seconds. During the 60-sec
 
 The table below outlines the function of each Dip switch. Each switch has two positions: **ON** (upper position) and **OFF** (lower position).
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Note:
@@ -183,7 +183,7 @@ Note:
 
 * When the Control Panel is put to Walk Test mode, pressing the Test Button also initiate a Wi-Fi Walk Test. The PIR Camera’s Green LED will light up as it begins searching for a HaLow-supported Control Panel.
 
-<img src=".gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> If a connection is established, the Green LED will flash rapidly during data transmission via Wi-Fi, and the message “HALOW OK” will appear on the Panel’s webpage upon completing data transmission.
+<img src=".gitbook/assets/image (2) (1) (1) (2).png" alt="" data-size="line"> If a connection is established, the Green LED will flash rapidly during data transmission via Wi-Fi, and the message “HALOW OK” will appear on the Panel’s webpage upon completing data transmission.
 
 <img src=".gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> If the connection fails, the Green LED will turn off.
 

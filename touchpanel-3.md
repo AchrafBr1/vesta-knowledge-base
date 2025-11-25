@@ -1409,7 +1409,7 @@ There are two on-board wired zones on TouchPanel-3.
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Tap the info icon   ![](<.gitbook/assets/image (1) (1) (1) (2) (1) (1).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
+Tap the info icon   ![](<.gitbook/assets/image (1) (1) (1) (2) (1) (1) (1).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
 
 ![](<.gitbook/assets/Unknown image (13) (1) (1)>)
 
@@ -1425,7 +1425,7 @@ This function is available whether the Panel is connected through Ethernet, WiFi
 
 Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to access hotspot setting.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Toggle ON/OFF the Hotspot Sharing function.
 
