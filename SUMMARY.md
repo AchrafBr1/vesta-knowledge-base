@@ -389,6 +389,7 @@
 * [VFA150](cameras-accessories/vfa150.md)
 * [VFA152A-E](cameras-accessories/vfa152a-e.md)
 * [VS-0301G1](cameras-accessories/vs-0301g1.md)
+* [VS-1280ZJ-XS-BLACK](cameras-accessories/vs-1280zj-xs-black.md)
 
 ## Softwares and Tools
 
