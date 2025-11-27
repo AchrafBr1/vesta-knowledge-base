@@ -4,7 +4,7 @@ HSGW-MAX8-BYD-2GW-SF1 868-DT18 HSGW
 
 ## Panel 640-zone IP + 2G home security system via radio  (Z-Wave, Zigbee and WiFi optional)
 
-<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 

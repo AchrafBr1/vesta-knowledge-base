@@ -4,7 +4,7 @@
 
 ## **Wireless Outdoor Bell Box**&#x20;
 
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Outdoor Bell Box is used to attract attention when alarm signal is received from Control Panel, by activating its siren and strobe light.
 

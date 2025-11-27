@@ -4,7 +4,7 @@
 
 ## **BUS Auxiliary Power Supply Module**
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Simple guide:**&#x20;
 

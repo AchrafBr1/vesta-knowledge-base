@@ -4,7 +4,7 @@
 
 ## **Clamp Meter**&#x20;
 
-<figure><img src=".gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 CL-Meter-ZW is a Z-Wave Clamp Meter aim to monitor and report the total amount of electricity uses in your facility by connecting the clamp onto the power cable.
 

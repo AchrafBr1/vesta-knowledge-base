@@ -6,9 +6,9 @@ icon: video
 
 ## 4MP Smart Dual Light Active Deterrence Lite AI vandal resistant IP dome for outdoor use
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-D24-ZAS-L/">IPC-D24-ZAS-L</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-D24-ZAS-L/">IPC-D24-ZAS-L</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-smarthomesec.md#quick-guide)
 
@@ -21,7 +21,7 @@ icon: video
 
 {% tabs %}
 {% tab title="VFA137" %}
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137.md">VFA137</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137.md">VFA137</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
@@ -29,10 +29,10 @@ icon: video
 {% endtab %}
 
 {% tab title="VFB203W" %}
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA130-E" %}
-<figure><img src="../.gitbook/assets/image (11).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa130-e.md">VFA130-E</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa130-e.md">VFA130-E</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

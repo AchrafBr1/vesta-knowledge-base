@@ -4,7 +4,7 @@ ZBW-DONGLE
 
 ## Z-Wave and Zigbee dongle
 
-<figure><img src=".gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The ZBW Dongle has built in both ZigBee and Z-Wave modules to provide the Control Panel with extra ZigBee and Z-Wave compatibility. It enables the Control Panel to learn in and control ZigBee and Z-Wave devices.
 

@@ -4,7 +4,7 @@
 
 ## **Z-Wave Relay Controller**&#x20;
 
-<figure><img src=".gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (22) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 

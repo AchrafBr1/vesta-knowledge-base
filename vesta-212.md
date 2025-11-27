@@ -16,7 +16,7 @@
 
 #### &#x20;VESTA-270N-720P
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Swivel bracket VESTA\
 For detectors VESTA-096 (VST-862P-IL-ALK), VESTA-007 (VST-862-IL-F1), VESTA-008 (VST-862-IL-F1-ALK), VESTA-211 (VST- 892-IL ALK)\

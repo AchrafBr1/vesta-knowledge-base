@@ -4,7 +4,7 @@ KPT-32N-LE-F1
 
 ## REMOTE KEYPAD with NFC Tag
 
-<figure><img src=".gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Identifying the Parts**_
 

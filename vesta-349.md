@@ -4,7 +4,7 @@ VCP-LTE-SV Quick Start Guide
 
 ## Voice Emergency Call Point
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **1. Package Content**
 

@@ -4,7 +4,7 @@
 
 ## **Wireless Indoor Siren**
 
-<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 SR-35 is a wireless Indoor Siren that is used for system alarm indication. When an alarm signal is received from the Control Panel, the Siren will activate to attract attention. The Siren can also work with the Control Panel to emit entry and exit delay sounds, and also alert you to tamper violation and low battery status.
 

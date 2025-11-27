@@ -4,7 +4,7 @@
 
 ## **BUS Wired Door Contact / Shock Sensor**&#x20;
 
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 DCSV-29-BUS is a Wired Door Contact / Shock Sensor that is capable of sending wired signals over BUS to the Control Panel upon detection of door/window opening or window glass break & shock detection.
 
@@ -137,7 +137,7 @@ Step 5. If the device is successfully learnt into the Panel, it will be displaye
 
 Step 1. Select the material and sensitivity level from the Control Panel webpage (Sensor Setting page).
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 2. When DCSV-29-BUS receives the programming command from the Panel, the LED will first turn off, and then turn brighter and turn dark. Material & Sensitivity level setting are now complete.
 
@@ -178,7 +178,7 @@ If there is no response from the Panel after the press of test button, it means 
 * The distance between the Door Contact and the magnet should be no more than 15 mm when the door is closed.
 * Mount the device as high as possible.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Mounting as a Shock Sensor:**
 

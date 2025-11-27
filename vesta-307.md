@@ -4,7 +4,7 @@
 
 ## **BLUETOOTH REMOTE KEYPAD with NFC Tag**
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 KPT-32N-BLE is a Remote Keypad with Bluetooth feature and NFC reader. It is designed to have quick access control of the System Control Panel via PIN Code, NFC label, or by approaching the keypad with the paired smartphone to disarm the system. The Keypad can send wireless signals to and receive wireless signals from the Control Panel.
 

@@ -4,7 +4,7 @@
 
 ## **BUS Wired Indoor Siren**
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 SR-35-BUS is a hardwired Indoor Siren that is used for system alarm indication. When an alarm signal is received from the Control Panel, the Wired Indoor Siren will activate to attract attention. The device can also work with the Control Panel to emit entry and exit delay sounds, and also alert you to tamper violation.
 

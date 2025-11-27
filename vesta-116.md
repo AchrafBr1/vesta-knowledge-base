@@ -4,7 +4,7 @@
 
 ## **Air Quality Sensor**&#x20;
 
-<figure><img src=".gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The AQS-1/ AQS-3 is a Z-Wave™ indoor air quality sensor that aims to detect and monitor surrounding particulate matter (PM2.5), temperature, humidity, illuminance (lux) levels, and carbon dioxide (optional) within your premises. The level of the air quality is indicated by different LED colors.
 

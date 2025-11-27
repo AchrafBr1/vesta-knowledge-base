@@ -4,7 +4,7 @@
 
 ## **BUS Wired Outdoor Bell Box**
 
-<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 BX-32-BUS is a hardwired Bell Box used for system alarm indication outside a building. When an alarm signal is received from Control Panel, the Bell Box will activate its siren and strobe light to attract attention.
 

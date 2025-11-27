@@ -4,7 +4,7 @@
 
 ## **DIN-Rail Power Switch Meter**
 
-<figure><img src=".gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Power Switch is capable of receiving wireless signals from the coordinator in the Z-Wave network to toggle On/Off of appliances that are attached to it. The Power Switch also features keeping tracks of energy consumption with built-in power meter and transmit the data to the Z-Wave network regularly.
 

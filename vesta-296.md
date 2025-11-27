@@ -4,7 +4,7 @@
 
 ## **DIN-Rail Shutter Control**
 
-<figure><img src=".gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
