@@ -6,7 +6,7 @@ icon: video
 
 ## 4MP Smart Dual Light Active Deterrence Lite AI vandal resistant IP dome for outdoor use
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-D24-ZAS-L/">IPC-D24-ZAS-L</a></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,7 +29,7 @@ icon: video
 {% endtab %}
 
 {% tab title="VFB203W" %}
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA130-E" %}

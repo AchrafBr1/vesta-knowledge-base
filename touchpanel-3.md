@@ -226,11 +226,11 @@ The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users 
 
 7. Remove the liner from the tape on the back of the paper card, stick the card to the wall to prevent slipping, then fasten the two bottom fixing screws of the Panel.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Fold the two flaps of the paper card outward, route the power cable through the AUX-PS opening, and connect power cable through the AUX-PS opening, and connect and secure the two cable wires to the AUX-PS terminals.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>8                                                                                                            9</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>8                                                                                                            9</p></figcaption></figure>
 
 9. **Firmly press AUX - PS against** TouchPanel-3, then use the two holes on AUX-PS as a template to mark and drill two screw holes into the wall.&#x20;
 
@@ -286,7 +286,7 @@ Tap the widget that you want to check. When there is a fault or supervision fail
 
 The Security page displays current system mode for quick control access.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](<.gitbook/assets/Unknown image (162)>)
 
