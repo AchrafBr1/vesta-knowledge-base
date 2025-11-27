@@ -1,6 +1,5 @@
 ---
-hidden: true
-icon: video
+icon: question
 ---
 
 # IPC-B34-ZAS-PV
