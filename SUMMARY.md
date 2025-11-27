@@ -392,18 +392,24 @@
 
 ***
 
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-B24-L](ipc-b24-l.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-B35-AS-PV](ipc-b35-as-pv.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-B35-AS-PV-B](ipc-b35-as-pv-b.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-T35-AS-PV](ipc-t35-as-pv.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-T35-AS-PV-B](ipc-t35-as-pv-b.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-D24-ZAS-L](ipc-d24-zas-l.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-D24-ZAS-L-B](ipc-d24-zas-l-b.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-B38-ZAS-PV](ipc-b38-zas-p.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-B38-ZAS-PV-B](ipc-b38-zas-pv-b.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-T38-ZAS-PV](ipc-t38-zas-pv.md)
-* [VESTA ADVANCED IP CAMERA SERIES - IPC-T38-ZAS-PV-B](ipc-t38-zas-pv-b.md)
 * [VESTA ADVANCED IP CAMERA SERIES - IPC-T24-L](ipc-t24-l.md)
+
+## NVR VESTA ADVANCED
+
+* [NVR2106M](nvr-vesta-advanced/nvr2106m.md)
+* [NVR2110M](nvr-vesta-advanced/nvr2110m.md)
+* [NVR2116M](nvr-vesta-advanced/nvr2116m.md)
+* [NVR2106M-4P](nvr-vesta-advanced/nvr2106m-4p.md)
+* [NVR2110M-8P](nvr-vesta-advanced/nvr2110m-8p.md)
+* [NVR2116M-8P](nvr-vesta-advanced/nvr2116m-8p.md)
+* [NVR6216-PRO](nvr-vesta-advanced/nvr6216-pro.md)
+* [NVR6232-PRO](nvr-vesta-advanced/nvr6232-pro.md)
+* [NVR6232S-16P-PRO](nvr-vesta-advanced/nvr6232s-16p-pro.md)
+* [NVR6232S-IO-PRO](nvr-vesta-advanced/nvr6232s-io-pro.md)
+* [NVR7216-IO-PRO](nvr-vesta-advanced/nvr7216-io-pro.md)
+* [NVR7232-IO-PRO](nvr-vesta-advanced/nvr7232-io-pro.md)
+* [NVR7232-16P-IO-PRO](nvr-vesta-advanced/nvr7232-16p-io-pro.md)
+* [NVR7232-16P-IO-PRO](nvr-vesta-advanced/nvr7232-16p-io-pro-1.md)
 
 ## CAMERAS ACCESSORIES
 
