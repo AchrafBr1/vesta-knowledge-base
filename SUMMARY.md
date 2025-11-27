@@ -344,51 +344,51 @@
 * [VESTA ADVANCED IP CAMERA SERIES (With SmartHomeSec)](vesta-advanced-video/vesta-advanced-ip-camera-series-with-smarthomesec.md)
 * [VESTA ADVANCED IP CAMERA SERIES (Stand Alone)](vesta-advanced-video/vesta-advanced-ip-camera-series-stand-alone.md)
 
-## VESTA ADVANCED CAMERA MODELS
+## VESTA ADVANCED CAMERAS
 
-* [IPC-B12-E](vesta-advanced-camera-models/ipc-b12-e.md)
-* [IPC-T12-E](vesta-advanced-camera-models/ipc-t12-e.md)
-* [IPC-B14-E](vesta-advanced-camera-models/ipc-b14-e.md)
-* [IPC-T14-E](vesta-advanced-camera-models/ipc-t14-e.md)
-* [IPC-D14-E](vesta-advanced-camera-models/ipc-d14-e.md)
-* [IPC-B24-L-B](vesta-advanced-camera-models/ipc-b24-l-b.md)
-* [IPC-T24-L](vesta-advanced-camera-models/ipc-t24-l.md)
-* [IPC-T24-L-B](vesta-advanced-camera-models/ipc-t24-l-b.md)
-* [IPC-D24-L](vesta-advanced-camera-models/ipc-d24-l.md)
-* [IPC-B28-L](vesta-advanced-camera-models/ipc-b28-l.md)
-* [IPC-T28-L](vesta-advanced-camera-models/ipc-t28-l.md)
-* [IPC-D24-ZAS-L](vesta-advanced-camera-models/ipc-d24-zas-l.md)
-* [IPC-D24-ZAS-L-B](vesta-advanced-camera-models/ipc-d24-zas-l-b.md)
-* [IPC-B26-L-MC](vesta-advanced-camera-models/page.md)
-* [IPC-T26-L-MC](vesta-advanced-camera-models/page-1.md)
-* [IPC-B34-AS-PV](vesta-advanced-camera-models/page-2.md)
-* [IPC-B34-AS-PV-B](vesta-advanced-camera-models/page-4.md)
-* [IPC-B34-ZAS-PV](vesta-advanced-camera-models/page-3.md)
-* [IPC-T34-AS-PV](vesta-advanced-camera-models/page-6.md)
-* [IPC-T34-AS-PV-B](vesta-advanced-camera-models/page-8.md)
-* [IPC-T34-ZAS-PV](vesta-advanced-camera-models/page-5.md)
-* [IPC-B36-AS-PV](vesta-advanced-camera-models/page-7.md)
-* [IPC-T36-AS-PV](vesta-advanced-camera-models/ipc-t36-as-pv.md)
-* [IPC-B38L-ZAS-PV](vesta-advanced-camera-models/ipc-b38l-zas-pv.md)
-* [IPC-B38L-ZAS-PV-B](vesta-advanced-camera-models/ipc-b38l-zas-pv-b.md)
-* [IPC-T38L-ZAS-PV](vesta-advanced-camera-models/ipc-t38l-zas-pv.md)
-* [IPC-T38L-ZAS-PV-B](vesta-advanced-camera-models/ipc-t38l-zas-pv-b.md)
-* [IPC-D34L-ZAS-MC](vesta-advanced-camera-models/ipc-d34l-zas-mc.md)
-* [IPC-B34-L-MC-PV](vesta-advanced-camera-models/ipc-b34-l-mc-pv.md)
-* [IPC-B34-ZAS-MC-PV](vesta-advanced-camera-models/ipc-b34-zas-mc-pv.md)
-* [IPC-T34-L-MC-PV](vesta-advanced-camera-models/ipc-t34-l-mc-pv.md)
-* [IPC-T34-ZAS-MC-PV](vesta-advanced-camera-models/ipc-t34-zas-mc-pv.md)
-* [IPC-B35-AS-PV](vesta-advanced-camera-models/ipc-b35-as-pv.md)
-* [IPC-B35-AS-PV-B](vesta-advanced-camera-models/ipc-b35-as-pv-b.md)
-* [IPC-T35-AS-PV](vesta-advanced-camera-models/ipc-t35-as-pv.md)
-* [IPC-T35-AS-PV-B](vesta-advanced-camera-models/ipc-t35-as-pv-b.md)
-* [IPC-D36-AS-L](vesta-advanced-camera-models/ipc-d36-as-l.md)
-* [IPC-B38-L-MC-PV](vesta-advanced-camera-models/ipc-b38-l-mc-pv.md)
-* [IPC-T38-L-MC-PV](vesta-advanced-camera-models/ipc-t38-l-mc-pv.md)
-* [IPC-D38-AS-L](vesta-advanced-camera-models/ipc-d38-as-l.md)
-* [IPC-B38-A180-PV](vesta-advanced-camera-models/ipc-b38-a180-pv.md)
-* [IPC-T38-A180-PV](vesta-advanced-camera-models/ipc-t38-a180-pv.md)
-* [SD4Z25-AS-PV](vesta-advanced-camera-models/sd4z25-as-pv.md)
+* [IPC-B12-E](vesta-advanced-cameras/ipc-b12-e.md)
+* [IPC-T12-E](vesta-advanced-cameras/ipc-t12-e.md)
+* [IPC-B14-E](vesta-advanced-cameras/ipc-b14-e.md)
+* [IPC-T14-E](vesta-advanced-cameras/ipc-t14-e.md)
+* [IPC-D14-E](vesta-advanced-cameras/ipc-d14-e.md)
+* [IPC-B24-L-B](vesta-advanced-cameras/ipc-b24-l-b.md)
+* [IPC-T24-L](vesta-advanced-cameras/ipc-t24-l.md)
+* [IPC-T24-L-B](vesta-advanced-cameras/ipc-t24-l-b.md)
+* [IPC-D24-L](vesta-advanced-cameras/ipc-d24-l.md)
+* [IPC-B28-L](vesta-advanced-cameras/ipc-b28-l.md)
+* [IPC-T28-L](vesta-advanced-cameras/ipc-t28-l.md)
+* [IPC-D24-ZAS-L](vesta-advanced-cameras/ipc-d24-zas-l.md)
+* [IPC-D24-ZAS-L-B](vesta-advanced-cameras/ipc-d24-zas-l-b.md)
+* [IPC-B26-L-MC](vesta-advanced-cameras/ipc-b26-l-mc.md)
+* [IPC-T26-L-MC](vesta-advanced-cameras/ipc-t26-l-mc.md)
+* [IPC-B34-AS-PV](vesta-advanced-cameras/ipc-b34-as-pv.md)
+* [IPC-B34-AS-PV-B](vesta-advanced-cameras/ipc-b34-as-pv-b.md)
+* [IPC-B34-ZAS-PV](vesta-advanced-cameras/ipc-b34-zas-pv.md)
+* [IPC-T34-AS-PV](vesta-advanced-cameras/ipc-t34-as-pv.md)
+* [IPC-T34-AS-PV-B](vesta-advanced-cameras/ipc-t34-as-pv-b.md)
+* [IPC-T34-ZAS-PV](vesta-advanced-cameras/ipc-t34-zas-pv.md)
+* [IPC-B36-AS-PV](vesta-advanced-cameras/ipc-b36-as-pv.md)
+* [IPC-T36-AS-PV](vesta-advanced-cameras/ipc-t36-as-pv.md)
+* [IPC-B38L-ZAS-PV](vesta-advanced-cameras/ipc-b38l-zas-pv.md)
+* [IPC-B38L-ZAS-PV-B](vesta-advanced-cameras/ipc-b38l-zas-pv-b.md)
+* [IPC-T38L-ZAS-PV](vesta-advanced-cameras/ipc-t38l-zas-pv.md)
+* [IPC-T38L-ZAS-PV-B](vesta-advanced-cameras/ipc-t38l-zas-pv-b.md)
+* [IPC-D34L-ZAS-MC](vesta-advanced-cameras/ipc-d34l-zas-mc.md)
+* [IPC-B34-L-MC-PV](vesta-advanced-cameras/ipc-b34-l-mc-pv.md)
+* [IPC-B34-ZAS-MC-PV](vesta-advanced-cameras/ipc-b34-zas-mc-pv.md)
+* [IPC-T34-L-MC-PV](vesta-advanced-cameras/ipc-t34-l-mc-pv.md)
+* [IPC-T34-ZAS-MC-PV](vesta-advanced-cameras/ipc-t34-zas-mc-pv.md)
+* [IPC-B35-AS-PV](vesta-advanced-cameras/ipc-b35-as-pv.md)
+* [IPC-B35-AS-PV-B](vesta-advanced-cameras/ipc-b35-as-pv-b.md)
+* [IPC-T35-AS-PV](vesta-advanced-cameras/ipc-t35-as-pv.md)
+* [IPC-T35-AS-PV-B](vesta-advanced-cameras/ipc-t35-as-pv-b.md)
+* [IPC-D36-AS-L](vesta-advanced-cameras/ipc-d36-as-l.md)
+* [IPC-B38-L-MC-PV](vesta-advanced-cameras/ipc-b38-l-mc-pv.md)
+* [IPC-T38-L-MC-PV](vesta-advanced-cameras/ipc-t38-l-mc-pv.md)
+* [IPC-D38-AS-L](vesta-advanced-cameras/ipc-d38-as-l.md)
+* [IPC-B38-A180-PV](vesta-advanced-cameras/ipc-b38-a180-pv.md)
+* [IPC-T38-A180-PV](vesta-advanced-cameras/ipc-t38-a180-pv.md)
+* [SD4Z25-AS-PV](vesta-advanced-cameras/sd4z25-as-pv.md)
 
 ***
 
@@ -410,6 +410,15 @@
 * [NVR7232-IO-PRO](nvr-vesta-advanced/nvr7232-io-pro.md)
 * [NVR7232-16P-IO-PRO](nvr-vesta-advanced/nvr7232-16p-io-pro.md)
 * [NVR7232-16P-IO-PRO](nvr-vesta-advanced/nvr7232-16p-io-pro-1.md)
+
+## ADV FIRMWARE UPDATES
+
+* [Firmware Updates – VESTA Advanced Video](adv-firmware-updates/firmware-updates-vesta-advanced-video.md)
+
+## Softwares and Tools
+
+* [Vesta Config Tool](softwares-and-tools/vesta-config-tool.md)
+* [VSS software](softwares-and-tools/vss-software.md)
 
 ## CAMERAS ACCESSORIES
 
@@ -436,15 +445,6 @@
 * [VS-1280ZJ-S](cameras-accessories/vs-1280zj-s.md)
 * [VS-1280ZJ-XS](cameras-accessories/vs-1280zj-xs.md)
 * [VS-1280ZJ-XS-BLACK](cameras-accessories/vs-1280zj-xs-black.md)
-
-## Softwares and Tools
-
-* [Vesta Config Tool](softwares-and-tools/vesta-config-tool.md)
-* [VSS software](softwares-and-tools/vss-software.md)
-
-## ADV FIRMWARE UPDATES
-
-* [Firmware Updates – VESTA Advanced Video](adv-firmware-updates/firmware-updates-vesta-advanced-video.md)
 
 ***
 
