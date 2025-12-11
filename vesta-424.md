@@ -60,7 +60,7 @@ Note:
 **Red LED (Away Arm Key)**
 
 * **Red LED on:** the system is in **Test & Programming Mode**.
-* **Red LED on for 5 seconds:** to show the system is in the **Away Arm Mode** by pressing  key.
+* **Red LED on for 5 seconds:** to show the system is in the **Away Arm Mode** by pressing \* key.
 * **Red LED flashes, and Backlight on**: the system is in the **Away Arm Mode.**
 * **Red LED flashes without beep:** request for **Force arm**.
 * **Red LED flash with 4 beeps**: failure due to the following reasons:
@@ -70,7 +70,7 @@ Note:
 **Orange LED (Home Arm Key)**
 
 * **Orange LED:** Orange flashes and backlight on in the **Home Mode**.
-* **Orange LED on for 5 seconds:** to show the system is in the **Home Mode** by pressing  key.
+* **Orange LED on for 5 seconds:** to show the system is in the **Home Mode** by pressing \* key.
 * **Orange LED flashes for 5 seconds:** low battery in Normal Operation Mode, and Tamper open.
 * **Orange LED flashes without beep:** request for **Force arm**.
 * **Orange LED flashes with 4 beeps:** failure due to the following reasons:
