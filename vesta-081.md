@@ -6,7 +6,7 @@ icon: star-of-life
 
 **WTRVS-15-FS**
 
-## **Voice Reach Talking Pendant**&#x20;
+## **Voice Reach Talking Pendant and fall detector**
 
 <figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
