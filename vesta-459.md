@@ -73,7 +73,7 @@ The user can manage user codes & key tags for all integrated Yale Doorman Locks 
 
 Enter the **Installer Code** (default: **7982**) to access full programming fucntions. Go to **Equipment Settings** > **Doorman Code**
 
-![](<.gitbook/assets/Unknown image (10) (1) (1) (1)>)
+![](<.gitbook/assets/Unknown image (10) (1) (1) (1) (1)>)
 
 #### _**User Code**_
 
@@ -82,7 +82,7 @@ Enter the **Installer Code** (default: **7982**) to access full programming fucn
 * If there are L3 and V2N door locks integrated in the system, the user interface will display 30 rows for user code settings, with the first 10 rows applicable to V2N, and all 30 rows applicable to L3.
 * **The default User Code 1 is 000000. For security reasons, please change the default User Code 1 immediately after the door lock is learned into the system.**
 
-![](<.gitbook/assets/Unknown image (11) (1) (1) (1)>)
+![](<.gitbook/assets/Unknown image (11) (1) (1) (1) (1)>)
 
 
 
@@ -92,7 +92,7 @@ Enter the **Installer Code** (default: **7982**) to access full programming fucn
 
 After editing, click “Submit.” A verification email will be sent to the registered user. Please enter the verification code to complete authentication.
 
-![](<.gitbook/assets/Unknown image (12) (1) (1)>)
+![](<.gitbook/assets/Unknown image (12) (1) (1) (1)>)
 
 #### _**Key Tag**_
 
@@ -102,7 +102,7 @@ After editing, click “Submit.” A verification email will be sent to the regi
 * The Yale Doorman V2N Lock supports a maximum of **10 key tags**, while the Yale Doorman L3 Lock supports up to **30 key tags**.
 * If there are L3 and V2N door locks integrated in the system, the user interface will display 30 rows for Tag settings, with the first 10 rows applicable to V2N, and all 30 rows applicable to L3.
 
-![](<.gitbook/assets/Unknown image (13) (1) (1) (1)>)
+![](<.gitbook/assets/Unknown image (13) (1) (1) (1) (1)>)
 
 * **Tag Number:** Hold the Key Tag on the lock reader, wait for the sound signal. Click the **Load**
 
@@ -123,7 +123,7 @@ After editing, click “Submit.” A verification email will be sent to the regi
 
 * Go to the **Device Settings** page, click the Door Lock device row and select “**Settings**.”
 
-![](<.gitbook/assets/Unknown image (14) (1) (1)>)
+![](<.gitbook/assets/Unknown image (14) (1) (1) (1)>)
 
 * **Area:** Select the area which the Door Lock belongs to\*\*.\*\*
 * **Zone:** Select the Door Lock zone number.
@@ -136,7 +136,7 @@ After editing, click “Submit.” A verification email will be sent to the regi
 
 
 
-![](<.gitbook/assets/Unknown image (15) (1) (1)>)
+![](<.gitbook/assets/Unknown image (15) (1) (1) (1)>)
 
 * **Volume:** Select volume level of the door lock: **Off, Low, and Hgh**.
 * **Language:** Select language of the door lock: **English, Danish, Norwegian, and Swedish**.

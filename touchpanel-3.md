@@ -1298,7 +1298,7 @@ Tap the info icon to display the upload method.
 
 This is used for setting SMS reporting.
 
-![](<.gitbook/assets/Unknown image (13) (1)>)
+![](<.gitbook/assets/Unknown image (13) (1) (1)>)
 
 **Step 1** Tap **+** to add an SMS report destination. A dialogbox will appear, allowing you to program the report destination.
 
@@ -1310,7 +1310,7 @@ Tap **Submit** to save the settings.
 
 Tap the info icon ![](<.gitbook/assets/Unknown image (241)>) to display the SMS report format.
 
-![](<.gitbook/assets/Unknown image (1) (1) (1)>)
+![](<.gitbook/assets/Unknown image (1) (1) (1) (1)>)
 
 * SMS in CID
 
@@ -1336,7 +1336,7 @@ TouchPanel-3 with microphone and speaker is able to make voice call during alarm
 
 **The panel will make voice report after the first successful alarm reporting. At least one report destination must be programmed to use voice reporting function.**
 
-![](<.gitbook/assets/Unknown image (2) (1) (1)>)
+![](<.gitbook/assets/Unknown image (2) (1) (1) (1)>)
 
 TouchPanel-3 supports two types of Voice Report: GSM and VOIP. Program and select the type you would like to use for reporting.
 
@@ -1350,11 +1350,11 @@ The panel will make voice report to this telephone number after the first alarm 
 
 The panel will enter a waiting period for call back after initial alarm report has ended.
 
-![](<.gitbook/assets/Unknown image (3) (1) (1)>)
+![](<.gitbook/assets/Unknown image (3) (1) (1) (1)>)
 
 **VOIP**
 
-![](<.gitbook/assets/Unknown image (4) (1) (1)>) ![](<.gitbook/assets/Unknown image (5) (1) (1)>)
+![](<.gitbook/assets/Unknown image (4) (1) (1) (1)>) ![](<.gitbook/assets/Unknown image (5) (1) (1) (1)>)
 
 VOIP SIP Settings
 
@@ -1369,7 +1369,7 @@ Tap **Submit** to confirm.
 
 Program the mail server related settings. The email account you set here would be used to send report for events or picture and video clip captured by PIR Camera and PIR Video Camera.
 
-![](<.gitbook/assets/Unknown image (6) (1) (1)>)
+![](<.gitbook/assets/Unknown image (6) (1) (1) (1)>)
 
 **Step 1** Enter the following settings:
 
@@ -1384,14 +1384,14 @@ Program the mail server related settings. The email account you set here would b
 
 #### **5.2.7. Wired Device**
 
-![](<.gitbook/assets/Unknown image (7) (1) (1)>)
+![](<.gitbook/assets/Unknown image (7) (1) (1) (1)>)
 
 There are two on-board wired zones on TouchPanel-3.
 
 * One wired control output (open collector)
 * One wired input (non powered)
 
-![](<.gitbook/assets/Unknown image (8) (1) (1)>)
+![](<.gitbook/assets/Unknown image (8) (1) (1) (1)>)
 
 **Device 1 (Wired Output)**
 
@@ -1411,9 +1411,9 @@ There are two on-board wired zones on TouchPanel-3.
 
 Tap the info icon   ![](<.gitbook/assets/image (1) (1) (1) (2) (1) (1) (1).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
 
-![](<.gitbook/assets/Unknown image (13) (1) (1)>)
+![](<.gitbook/assets/Unknown image (13) (1) (1) (1)>)
 
-**Edit**<img src=".gitbook/assets/Unknown image (14) (1)" alt="" data-size="line"> :Tap to assign the wired input device to a zone and area.
+**Edit**<img src=".gitbook/assets/Unknown image (14) (1) (1)" alt="" data-size="line"> :Tap to assign the wired input device to a zone and area.
 
 After completing all settings, tap **Submit** to save the changes.
 
@@ -1429,7 +1429,7 @@ Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to acce
 
 Toggle ON/OFF the Hotspot Sharing function.
 
-![](<.gitbook/assets/Unknown image (16) (1)>)
+![](<.gitbook/assets/Unknown image (16) (1) (1)>)
 
 * Enter the SSID and Password, and tap Submit. (Both SSID and Password can be edited no matter what toggle status is. Toggle status won't be changed after SSID or Password is edited.)
 
