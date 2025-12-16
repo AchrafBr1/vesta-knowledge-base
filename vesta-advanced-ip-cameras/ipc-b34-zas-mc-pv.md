@@ -6,9 +6,9 @@ icon: video
 
 ## 4MP Smart Dual Light Active Deterrence Magic Color Outdoor IP camera
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-B34-ZAS-MC-PV/">IPC-B34-ZAS-MC-PV</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-B34-ZAS-MC-PV/">IPC-B34-ZAS-MC-PV</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-smarthomesec.md#quick-guide)
 

@@ -6,7 +6,7 @@ icon: video
 
 ## 4MP Smart Dual Light Active Deterrence Magic Color Outdoor IP Dome
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-T34-L-MC-PV/">IPC-T34-L-MC-PV</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-T34-L-MC-PV/">IPC-T34-L-MC-PV</a></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,7 +29,7 @@ icon: video
 {% endtab %}
 
 {% tab title="VFB203W" %}
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA130-E" %}
