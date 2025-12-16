@@ -287,7 +287,6 @@
 * [VESTA-460](vesta-460.md)
 * [VESTA-464](vesta-464.md)
 * [VESTA-468](vesta-468.md)
-* [VESTA-468-R2](vesta-468-r2.md)
 * [VESTA-470](vesta-470.md)
 * [VESTA-472](vesta-xx3-sd-32-sc-f1-2w-868.md)
 * [VESTA-472-R2](vesta-472-r2.md)

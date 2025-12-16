@@ -1,33 +1,10 @@
 # VESTA-468
 
-#### SD-32-H-SC-F1-2W-868
+SD-32-HM-SC-F1-2W
 
-## Smoke & Heat Detector with Interconnection
+## Smoke & Heat Detector with Interconnection and Intrusion Siren
 
-<figure><img src=".gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
-
-## Specification:
-
-* VESTA radio smoke and heat detector SD-32 series
-* Fixed-point heat detection is activated when ambient temperature reaches 54-65°C (54-65°C)
-* Compliance with UL 217 8th Edition and EN14604 standards
-* Dual LED technology distinguishes real smoke from cooking fumes and steam
-* Detection of polyurethane foam in rapid fire or slow combustion
-* Prevention of false alarms due to dust accumulation by patented technology
-* Interlock function: all detectors sound when one is activated
-* Built-in 85 dB audible siren at 3 m (10 ft)
-* Random supervision signal for integrity check
-* Monthly self-calibration and self-diagnostic function
-* Tamper to prevent unauthorized tampering
-* 3V, 2 lithium CR123 batteries
-* Optional lithium battery can be added
-* Battery life of 3 years (extendable to 5 years by installing additional lithium battery)
-* Operating temperature -10 °C to 45 °C (-4 °F to 113 °F)
-* Relative humidity up to 85% non-condensing
-* Dimensions: 105 × 105 × 41 mm
-* Removable cover design for easy cleaning
-
-***
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 SD-32 Series is a wireless smoke detector designed to protect you against potential fire hazards. The Smoke detector uses multi-criteria sensor technology to distinguish between fast-burning flames and slow-smoldering fires, while at the same time it incorporates intelligent technology to differentiate between cooking smoke and actual life-threatening house-fire emergencies, virtually eliminating nuisance alarms.
 
@@ -35,43 +12,43 @@ In addition to its smoke detection capabilities, the Smoke Detector supports hea
 
 The SD-32-H-R2 series includes the following models:
 
-<table data-header-hidden><thead><tr><th width="174"></th><th width="100"></th><th width="109"></th><th width="109"></th><th width="153"></th><th></th></tr></thead><tbody><tr><td><strong>Model Name</strong></td><td><strong>Smoke Detection</strong></td><td><strong>Heat Detection</strong></td><td><strong>PIR Motion Sensor</strong></td><td><strong>Interconnection</strong></td><td><strong>Emergency Light</strong></td></tr><tr><td><strong>SD-32-H-R2</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>SD-32-H-SC-R2</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>SD-32-HM-R2</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>SD-32-HM-SC-R2</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>SD-32-HE-SC-R2</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>SD-32-HME-SC-R2</strong></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Parts Identification**_
 
-![](<.gitbook/assets/Unknown image (3) (1) (1) (1)>)
+![](<.gitbook/assets/Unknown image (3)>)
 
-1. &#x20;**LED Indicator / Test Button / Emergency Light**
+### **1. LED Indicator / Test Button / Emergency Light**
 
-**Red LED**
+#### Red LED
 
 * Quick flash: Alarming.
 * Flashes every 1 second: Smoke Detector under Alarm Silence Mode.
 * Flashes every 2 seconds: Smoke Detector under warm-up and calibration process.
 * Flashes every 4 seconds with Orange LED: battery exhausted.
-* Flashes briefly: When Learn Button is pressed / Signal Transmission / Signal Reception (For SC models).
+* Flashes briefly: When Learn Button is pressed / Signal Transmission / Signal Reception(**For SC models**).
 
-**Orange LED**
+#### **Orange LED**
 
 * Flash every second: Calibration failed.
 * Flashes every 4 seconds with RED LED: battery exhausted.
-* Flashes every 5 seconds: Detecting smoke failed or device malfunctioning.  Flashes every 45 seconds: Low battery condition
+* Flashes every 5 seconds: Detecting smoke failed or device malfunctioning.&#x20;
+* Flashes every 45 seconds: Low battery condition
 
-**Learn/Test Button**
+#### Learn/Test Button
 
 * Press the button once to:
   * Send a test signal.
   * Check smoke detection chamber.
   * Silence alarm when the Smoke Detector is alarming.
-  * Transmit a learn code. (For non-SC models)
-* Press and hold the button for 3 seconds to send all learn code(s). **(For SC models)**&#x20;
-* Press and hold the button for 10 seconds to enter calibration process.
+  * Transmit a learn code.\*\* (For non-SC models)\*\*
+* Press and hold the button for 3 seconds to send all learn code(s). **(For SC models)**  Press and hold the button for 10 seconds to enter calibration process.&#x20;
 
-&#x20;**White LED (Emergency Light)**
+#### **White LED (Emergency Light)**
 
 * The emergency light will turn on to alert users that the system is alarming. **(SD-32-HE-SC/-HME-SC only)**&#x20;
 
-2. &#x20;**IR Lens (SD-32-HM/-HM-SC/-HME-SC only)**
+2. **IR Lens (SD-32-HM/-HM-SC/-HME-SC only)**
 3. **Buzzer**
 4. **Battery Compartment**
 5. **Hooks**
@@ -100,7 +77,11 @@ You can press the test button to silent the beep for 7 days. This action can onl
 
 **Step 2** The Smoke Detector will emit 2 short beeps and begin **warming up for 1 minute**. The Red LED will flash every 2 seconds.
 
-**Step 3** When the warm-up is complete, the Smoke Detector will emit a beep to indicate it has entered calibration mode. The **calibration** mode lasts for 1 minute. The Red LED will continue to flash every two seconds during calibration. If calibration fails, the smoke detector will retry calibration and calibration mode will last a maximum of 9 minutes. If calibration cannot be completed in 9 minutes, the Smoke Detector will emit continuous beep. Remove the battery and restart from Step 1.
+**Step 3** When the warm-up is complete, the Smoke Detector will emit a beep to indicate it has entered calibration mode. The **calibration** mode lasts for **1 minute**. The Red LED will continue to flash every two seconds during calibration.
+
+If calibration fails, the smoke detector will retry calibration and calibration mode will last a maximum of 9 minutes.
+
+If calibration cannot be completed in 9 minutes, the Smoke Detector will emit continuous beep. Remove the battery and restart from Step 1.&#x20;
 
 **Step 4** When calibration is completed, the Smoke Detector will emit 2 short beeps and turn off LED, returning to normal mode.
 
@@ -108,7 +89,7 @@ You can press the test button to silent the beep for 7 days. This action can onl
 
 **Step 6 (For non-SC model)** Press the Learn/Test Button once to transmit learning code.
 
-(For SC model) Press the Learn/Test Button for 3 seconds to transmit learn code.&#x20;
+&#x20;            (**For SC model**)Press the Learn/Test Button for 3 seconds to transmit learn code.
 
 **Step 7** Refer to Control Panel manual to complete learning process. For SC model, the Smoke Detector will emit a 2-tone beep to indicate successful learning.
 
@@ -151,19 +132,19 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
 
 ### Tamper Protection
 
- The Smoke Detector is protected by a tamper switch which is compressed when the Smoke Detector is installed on the mounting bracket. When the Smoke Detector is no longer attached to the mounting bracket, the tamper switch will be activated and a tamper open signal will be transmitted to the Control Panel
+The Smoke Detector is protected by a tamper switch which is compressed when the Smoke Detector is installed on the mounting bracket. When the Smoke Detector is no longer attached to the mounting bracket, the tamper switch will be activated and a tamper open signal will be transmitted to the Control Panel
 
 ### Alarm Activation
 
 The Smoke Detector will activate the fire alarm when smoke is detected. The models with heat detection will also activate the alarm when high heat is detected. When the alarm is activated, the Detector will transmit an alarm signal and sound its buzzer.
 
-#### **Smoke Detection**
+#### Smoke Detection
 
 * The Smoke Detector checks smoke concentration every 8 seconds
 * The alarm is activated whenever the smoke concentration exceeds the detection threshold, and will continue until the smoke concentration drops below alarm threshold.
 * The Red LED will flash quickly during alarm.
 
-#### **Heat Detection**
+#### Heat Detection
 
 * The Smoke Detector’s built-in heat sensors enable its to raise alarm when high heat is detected. An alarm will be triggered when the temperature reaches 54∘\~ 65∘C.
 * The Red LED will flash every second during alarm.
@@ -179,32 +160,32 @@ The Smoke Detector will activate the fire alarm when smoke is detected. The mode
 
 The Smoke Detector can be programmed to sound **Burglar Alarm**, **Panic Alarm** and **CO Alarm** when triggered by the system, the alarm may be activated by other sensors in the system, or by Home Automation rules.
 
-#### **Burglar / Panic Alarm**
+#### Burglar / Panic Alarm
 
 * The Smoke Detector will apply the Control Panel’s alarm duration setting as default when it is learned in.
 * The alarm duration can be configured via the Smoke Detector device settings on Home Portal Server.
 
-![](<.gitbook/assets/Unknown image (4) (1) (1) (1)>) ![](<.gitbook/assets/Unknown image (5) (1) (1) (1)>)
+![](<.gitbook/assets/Unknown image (4)>) ![](<.gitbook/assets/Unknown image (5)>)
 
-#### **Home Automation Setting**
+#### Home Automation Setting
 
-* Users can configure a Home Automation Rule to have the Smoke Detector(s) in the selected area(s) sound Burglar or CO Alarm when triggered. **\_\_**
-* Set the trigger type to Burglar/CO Alarm for the selected area, and then set the Action Type to Burglar/CO Alarm for the same or other selected area(s). When the rule is triggered, all the smoke detectors in the specified area(s)\_ will sound alarm.\_
+* Users can configure a Home Automation Rule to have the Smoke Detector(s) in the selected area(s) sound Burglar or CO Alarm when triggered.&#x20;
+* Set the trigger type to Burglar/CO Alarm for the selected area, and then set the Action Type to Burglar/CO Alarm for the same or other selected area(s). When the rule is triggered, all the smoke detectors in the specified area(s)\_ will sound alarm.
 
-![](<.gitbook/assets/Unknown image (7) (1) (1) (1)>)
+![](<.gitbook/assets/Unknown image (7)>)
 
-### _**Emergency Light**_**&#x20;(SD-32-HE-SC/-HME-SC only)\_\_**
+### _**Emergency Light**_**&#x20;(SD-32-HE-SC/-HME-SC only)**
 
 * The Smoke Detector has a built-in emergency light that can provide visual alerts in case of emergency. When the Smoke Detector is activated, the emergency light will turn on to indicate the system is alarming.
 
-### _**Interconnection**_**(SC models only)\_\_**
+### _**Interconnection**_**(SC models only)**
 
 * The Smoke Detector is interconnected with other Smoke Detectors in the alarm system. When one Smoke Detector triggers an alarm, the Control Panel will notify all interconnected Smoke Detectors to also raise their alarms, even if they have not detected smoke.
 * To stop the alarm:
   * Wait for the smoke concentration to drop below the alarm threshold, or
   * Press the Test Button on the triggered Smoke Detector. This will also stop all interconnected Smoke Detectors.
 
-![](<.gitbook/assets/Unknown image (8) (1) (1) (1)>) _Pressing the Test Button on any other smoke detector will only stop the alarm of that specific unit; it will not silence the alarms across the entire system._
+![](<.gitbook/assets/Unknown image (8)>) _Pressing the Test Button on any other smoke detector will only stop the alarm of that specific unit; it will not silence the alarms across the entire system._
 
 * **(For Security System only)** Disarming the system will stop alarms activated by the Control Panel on all interconnected Smoke Detectors. However, the originally triggered Smoke Detector will continue alarming until the smoke concentration falls below the threshold or its Test Button is pressed to silence its alarm.
 
@@ -221,7 +202,9 @@ The Smoke Detector can be programmed to sound **Burglar Alarm**, **Panic Alarm**
 * After the first installation, the Smoke Detector will perform auto-calibration after 12 hours. Subsequently, it will perform auto-calibration once every 15 days. During the auto-calibration process, the Smoke Detector will not emit any sounds, and the red LED will flash once every 2 seconds for about 50 seconds.
 * If the auto-calibration fails, the orange LED will flash every second and the Smoke Detector will send a calibration failure code to the Control Panel. To recalibrate the Smoke Detector, remove and reload the batteries, or manually restart the calibration process.
 
-_**\[NOTE]**&#x57;hen the Smoke Detector’s auto-calibration fails, the smoke alarm function will still work normally using the threshold value taken from the last successful calibration._
+{% hint style="warning" %}
+Note: _When the Smoke Detector’s auto-calibration fails, the smoke alarm function will still work normally using the threshold value taken from the last successful calibration._
+{% endhint %}
 
 ### Recalibration
 
@@ -239,7 +222,8 @@ Regular maintenance and cleaning will help keep your Smoke Detector in good work
 * Test the Smoke Detector weekly to verify that the alarm sounds and LED indicators are working properly.
 * Clean the Smoke Detector at least once every 6 months.
   * Gently vacuum off the dirt/dust/foreign particles accumulated in the smoke detection chamber and slots.
-  * Clean the casing by swiping it thoroughly with a damp cloth and dry it. Do not get water inside the device.  Never use cleaning agents, detergents or solvents on the device.
+  * Clean the casing by swiping it thoroughly with a damp cloth and dry it. Do not get water inside the device. &#x20;
+  * Never use cleaning agents, detergents or solvents on the device.
 * Avoid spraying air freshener, hair spray, or other aerosols near the Smoke Detector.
 * Do not paint nor modify the detector under any circumstances.
 
@@ -251,13 +235,13 @@ It is recommended to write the “Replace by” date (10 years from installation
 
 ## Installation
 
-<figure><img src=".gitbook/assets/Unknown image (9) (1) (1) (1)" alt=""><figcaption></figcaption></figure>
-
 ### Smoke Detection Installation Guidelines
 
- It is recommended that the installation site be in the center area of the ceiling.
+<figure><img src=".gitbook/assets/Unknown image (9)" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">LOCATIONS TO AVOID:</mark>
+It is recommended that the installation site be in the center area of the ceiling.
+
+**LOCATIONS TO AVOID:**
 
 * The Kitchen – Smoke from cooking might cause an unwanted alarm.
 * Near a ventilating fan, florescent lamp or air-conditioning equipment – air drafts from them may affect the device sensitivity.
@@ -290,25 +274,27 @@ Please follow the steps below to mount the Smoke Detector:
 
 **Step 2 – Inserting Wall Plugs:** Insert wall plugs. Ensure the wall plugs are flush with the mounting surface.
 
-Step 3 **– Aligning Mounting Bracket:** Precisely align the four mounting holes on the mounting bracket with those on the mounting sheet and screw the mounting bracket onto the wall plugs. For easier alignment, first locate the two mounting holes farther from the inner circle edge on both the mounting sheet and the mounting bracket. Align these holes first, and the remaining ones should naturally follow.
+**Step 3 – Aligning Mounting Bracket:** Precisely align the four mounting holes on the mounting bracket with those on the mounting sheet and screw the mounting bracket onto the wall plugs.
 
-<figure><img src=".gitbook/assets/Unknown image (10) (1) (1) (1)" alt=""><figcaption></figcaption></figure>
+For easier alignment, first locate the two mounting holes farther from the inner circle edge on both the mounting sheet and the mounting bracket. Align these holes first, and the remaining ones should naturally follow.
 
-<figure><img src=".gitbook/assets/Unknown image (11) (1) (1) (1)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (10)" alt="" width="375"><figcaption></figcaption></figure>
 
-**Step 4** – **Mounting Detector:** The Heat Detector has 4 hooks on its back cover. Fit the Heat Detector and fit it onto the four notches on the mounting bracket using the hooks (FIG. 1).
+<figure><img src=".gitbook/assets/Unknown image (11)" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Unknown image (13) (1) (1)" alt=""><figcaption></figcaption></figure>
+Step 4 – Mounting Detector: The Heat Detector has 4 hooks on its back cover. Fit the Heat Detector and fit it onto the four notches on the mounting bracket using the hooks (FIG. 1).
 
-<figure><img src=".gitbook/assets/Unknown image (12) (1) (1)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (13)" alt=""><figcaption></figcaption></figure>
 
-**Step 5:** Rotate the Smoke Detector clockwise to lock it in place (FIG. 2).
+<figure><img src=".gitbook/assets/Unknown image (12)" alt=""><figcaption></figcaption></figure>
 
-**Step 6:** Installation is now complete (FIG. 3). You can remove the mounting sheet.
+Step 5: Rotate the Smoke Detector clockwise to lock it in place (FIG. 2).
 
-<figure><img src=".gitbook/assets/Unknown image (14) (1) (1)" alt=""><figcaption></figcaption></figure>
+Step 6: Installation is now complete (FIG. 3). You can remove the mounting sheet.
+
+<figure><img src=".gitbook/assets/Unknown image (14)" alt=""><figcaption></figcaption></figure>
 
 * For models with built-in IR detection **(SD-32-HM/-HM-SC/-HME-SC)**, the IR detector has more coverage toward the side the IR lens is located than the other side. Refer to diagram below for detection coverage when mounted at a height of 3 meters. The detection coverage varies based on the mounting height.
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement (the right diagram below).
 
-![](<.gitbook/assets/Unknown image (15) (1) (1)>) ![](<.gitbook/assets/Unknown image (16) (1) (1)>)
+![](<.gitbook/assets/Unknown image (15)>) ![](<.gitbook/assets/Unknown image (16)>)

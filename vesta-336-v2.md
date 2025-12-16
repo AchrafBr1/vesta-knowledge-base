@@ -4,7 +4,7 @@ SD-32-HM-SC-F1-2W
 
 ## SD-32-H-R2 Smoke Detector Series
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 SD-32 Series is a wireless smoke detector designed to protect you against potential fire hazards. The Smoke detector uses multi-criteria sensor technology to distinguish between fast-burning flames and slow-smoldering fires, while at the same time it incorporates intelligent technology to differentiate between cooking smoke and actual life-threatening house-fire emergencies, virtually eliminating nuisance alarms.
 
@@ -12,7 +12,7 @@ In addition to its smoke detection capabilities, the Smoke Detector supports hea
 
 The SD-32-H-R2 series includes the following models:
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Parts Identification**_
 
