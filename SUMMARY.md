@@ -207,6 +207,7 @@
 * [VESTA-325](vesta-325.md)
 * [VESTA-335](vesta-335.md)
 * [VESTA-336](vesta-336.md)
+* [VESTA-336 V2](vesta-336-v2.md)
 * [VESTA-337](vesta-337.md)
 * [VESTA-338](vesta-338.md)
 * [VESTA-340](vesta-340.md)
@@ -286,8 +287,10 @@
 * [VESTA-460](vesta-460.md)
 * [VESTA-464](vesta-464.md)
 * [VESTA-468](vesta-468.md)
+* [VESTA-468-R2](vesta-468-r2.md)
 * [VESTA-470](vesta-470.md)
 * [VESTA-472](vesta-xx3-sd-32-sc-f1-2w-868.md)
+* [VESTA-472-R2](vesta-472-r2.md)
 
 ## 📄 CERTIFICATES
 
@@ -446,7 +449,3 @@
 * [VS-1280ZJ-S](cameras-accessories/vs-1280zj-s.md)
 * [VS-1280ZJ-XS](cameras-accessories/vs-1280zj-xs.md)
 * [VS-1280ZJ-XS-BLACK](cameras-accessories/vs-1280zj-xs-black.md)
-
-***
-
-* [VESTA-336 V2](vesta-336-v2.md)
