@@ -281,12 +281,13 @@
 * [VESTA-450](vesta-450.md)
 * [VESTA-452](vesta-452.md)
 * [VESTA-453](vesta-453.md)
-* [VESTA-460](vesta-460.md)
-* [VESTA-470](vesta-470.md)
 * [VESTA-458](vesta-458.md)
 * [VESTA-459](vesta-459.md)
+* [VESTA-460](vesta-460.md)
 * [VESTA-464](vesta-464.md)
 * [VESTA-468](vesta-468.md)
+* [VESTA-470](vesta-470.md)
+* [VESTA-472](vesta-472.md)
 
 ## 📄 CERTIFICATES
 
@@ -445,7 +446,3 @@
 * [VS-1280ZJ-S](cameras-accessories/vs-1280zj-s.md)
 * [VS-1280ZJ-XS](cameras-accessories/vs-1280zj-xs.md)
 * [VS-1280ZJ-XS-BLACK](cameras-accessories/vs-1280zj-xs-black.md)
-
-***
-
-* [VESTA-xx3 SD-32-SC-F1-2W-868](vesta-xx3-sd-32-sc-f1-2w-868.md)

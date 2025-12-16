@@ -1,14 +1,10 @@
----
-hidden: true
----
-
-# VESTA-xx3 SD-32-SC-F1-2W-868
+# VESTA-472
 
 SD-32-SC-F1-2W-868
 
-<figure><img src=".gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
-
 ## SD-32 Smoke Detector with interconnection
+
+<figure><img src=".gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
 
 SD-32 Series is a wireless smoke detector designed to protect you against potential fire hazards. The Smoke detector uses multi-criteria sensor technology to distinguish between fast-burning flames and slow-smoldering fires, while at the same time it incorporates intelligent technology to differentiate between cooking smoke and actual life-threatening house-fire emergencies, virtually eliminating nuisance alarms.
 
