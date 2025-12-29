@@ -1,10 +1,10 @@
-# VESTA-023
+# 🇫🇷 VESTA-023
 
 SD-29
 
-## <mark style="color:green;">Détecteur de fumée avec détecteur PIR intégré</mark>
+## Détecteur de fumée avec détecteur PIR intégré
 
-### _<mark style="background-color:yellow;">Introduction</mark>_
+### **Introduction**
 
 La série SD-29 correspond à un détecteur de fumée sans fil avec détecteur de mouvement PIR intégré et capacité de détection de chaleur. Conçu pour protéger votre famille contre les risques potentiels d'incendie, le détecteur de fumée est également capable de détecter les mouvements et de signaler la température aux utilisateurs. Le détecteur de fumée peut être interconnecté avec d'autres détecteurs de fumée du système d'alarme et déclenchera une alarme lorsqu'un détecteur de fumée du système est déclenché **(SD-29-HME-SC uniquement)**.
 
@@ -12,7 +12,7 @@ Les différentes déclinaisons sont les suivantes :
 
 <table data-full-width="false"><thead><tr><th>Modèle</th><th align="center">Détection de chaleur</th><th align="center" valign="middle">Détecteur PIR</th><th align="center">Voyant d'Urgence</th><th align="center">Interconnexion</th></tr></thead><tbody><tr><td>SD-29-H</td><td align="center">OUI</td><td align="center" valign="middle"></td><td align="center"></td><td align="center"></td></tr><tr><td>SD-29-HM</td><td align="center">OUI</td><td align="center" valign="middle">OUI</td><td align="center"></td><td align="center"></td></tr><tr><td>SD-29-HME</td><td align="center">OUI</td><td align="center" valign="middle">OUI</td><td align="center">OUI</td><td align="center"></td></tr><tr><td>SD-29-HME-SC</td><td align="center">OUI</td><td align="center" valign="middle">OUI</td><td align="center">OUI</td><td align="center">OUI</td></tr></tbody></table>
 
-### _<mark style="background-color:yellow;">Identification</mark>_
+### **Identification**
 
 ![](<.gitbook/assets/0 (8) (1).png>) ![](<.gitbook/assets/1 (12).png>)
 
@@ -55,9 +55,9 @@ Les différentes déclinaisons sont les suivantes :
    Les crochets du support peuvent s'accrocher à ce trou de fixation.
 9. **Gabarit de perçage**
 
-### _<mark style="background-color:yellow;">Caractéristiques</mark>_
+### **Caractéristiques**
 
-### _<mark style="background-color:yellow;">**Batterie**</mark>_
+### **Batterie**
 
 \- Trois piles au lithium CR123 3V sont utilisées pour alimenter le détecteur de fumée.\
 \- Le détecteur de fumée est doté d'un mécanisme infaillible qui interdit la fermeture du couvercle sans installer au préalable la pile. Appuyez sur la languette et insérez trois nouvelles piles dans le compartiment.\
@@ -69,12 +69,12 @@ NOTE:\
 Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur le bouton Test pour la décharger complètement avant d'insérer une nouvelle batterie.
 {% endhint %}
 
-### _<mark style="background-color:yellow;">**Démarrage**</mark>_
+### **Démarrage**
 
-<mark style="color:orange;">**Étape 1.**</mark> Mettez la centrale en mode apprentissage. Reportez-vous au manuel de la centrale pour plus de détails.\
-<mark style="color:orange;">**Étape 2.**</mark> Insérez trois piles lithium CR123 3V pour alimenter le détecteur de fumée. Orientez la batterie selon la polarité du compartiment à batterie avant l'insertion.\
-<mark style="color:orange;">**Étape 3.**</mark> Le détecteur de fumée émettra 2 bips courts et débutera sa procédure de démarrage pendant 1 minute. La LED rouge clignote toutes les 2 secondes.\
-<mark style="color:orange;">**Étape 4.**</mark> Pendant cette période d'une minute, faire l'apprentissage du détecteur de fumée.
+**Étape 1.** Mettez la centrale en mode apprentissage. Reportez-vous au manuel de la centrale pour plus de détails.\
+**Étape 2.** Insérez trois piles lithium CR123 3V pour alimenter le détecteur de fumée. Orientez la batterie selon la polarité du compartiment à batterie avant l'insertion.\
+**Étape 3.** Le détecteur de fumée émettra 2 bips courts et débutera sa procédure de démarrage pendant 1 minute. La LED rouge clignote toutes les 2 secondes.\
+**Étape 4.** Pendant cette période d'une minute, faire l'apprentissage du détecteur de fumée.
 
 **Pour le modèle SC (SD-29-HME-SC)**
 
@@ -86,32 +86,32 @@ Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuye
 1. Appuyez une fois sur le bouton Apprentissage/Test pour transmettre le code d'apprentissage.\
    Si la centrale reçoit le signal, le détecteur de fumée émettra un bip à 2 tons. Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage.
 
-<mark style="color:orange;">**Étape 5.**</mark> Une fois la procédure de démarrage terminée, le détecteur de fumée émet un bip pour indiquer qu'il est entré en mode étalonnage. Le mode d'étalonnage dure 1\~9 minutes. La LED rouge continuera à clignoter toutes les deux secondes pendant l'étalonnage. L'apprentissage du détecteur de fumée est interdit pendant cette période.\
-<mark style="color:orange;">**Étape 6.**</mark> Une fois l'étalonnage terminé, le détecteur de fumée émettra 2 bips courts et éteindra la LED pour revenir en mode normal. Si le détecteur de fumée n'a pas été précédemment enregistré dans la centrale, appuyez sur le bouton Apprentissage/Test pour terminer l'apprentissage.
+**Étape 5.** Une fois la procédure de démarrage terminée, le détecteur de fumée émet un bip pour indiquer qu'il est entré en mode étalonnage. Le mode d'étalonnage dure 1\~9 minutes. La LED rouge continuera à clignoter toutes les deux secondes pendant l'étalonnage. L'apprentissage du détecteur de fumée est interdit pendant cette période.\
+**Étape 6.** Une fois l'étalonnage terminé, le détecteur de fumée émettra 2 bips courts et éteindra la LED pour revenir en mode normal. Si le détecteur de fumée n'a pas été précédemment enregistré dans la centrale, appuyez sur le bouton Apprentissage/Test pour terminer l'apprentissage.
 
-### _<mark style="background-color:yellow;">Test du détecteur de fumée</mark>_
+### **Test du détecteur de fumée**
 
 En appuyant sur le bouton Test du détecteur de fumée, vous pouvez tester si le détecteur de fumée fonctionne normalement.
 
 * Si le détecteur de fumée fonctionne normalement, la LED rouge sera allumée pendant 2 secondes suivie d'un bip à 2 tons.
 * Si le buzzer émet 3 bips 2 tons, la «**Chambre optique**» du détecteur de fumée est sale ou en panne.
 
-### _<mark style="background-color:yellow;">**Mode test pour la fonction IR**</mark>_
+### **Mode test pour la fonction IR**
 
 * Le détecteur de fumée peut être mis en mode Test en appuyant sur le bouton Test. Chaque fois que le bouton de test est utilisé, le détecteur de fumée transmet un signal de test à la centrale pour tester la portée radio et entre en mode test pendant 3 minutes. Il quittera automatiquement le mode test après 3 minutes pour revenir en mode normal. En mode Test, la minuterie de mise en veille est désactivée et l'indicateur LED clignote à chaque fois qu'un mouvement est détecté.
 
-### _<mark style="background-color:yellow;">Surveillance</mark>_
+### **Surveillance**
 
 * Le détecteur de fumée transmettra un signal de supervision pour signaler régulièrement son état en fonction des paramètres de l'utilisateur. L'intervalle par défaut est de 30\~50 minutes. L'utilisateur peut également appuyer une fois sur le bouton Test pour transmettre manuellement un signal de supervision.
 
-### _<mark style="background-color:yellow;">**Détection de température**</mark>_
+### **Détection de température**
 
 (SD-29-H/SD-29-HM/SD-29-HME uniquement)
 
 * Le capteur de température mesure la température toutes les 10 secondes et transmet la température à la centrale toutes les 30\~33 minutes.
 * Les utilisateurs peuvent également appuyer une fois sur le bouton Test pour transmettre manuellement la température actuelle.
 
-### _<mark style="background-color:yellow;">Activation de l'alarme</mark>_
+### **Activation de l'alarme**
 
 Le détecteur de fumée activera l'alarme incendie lorsque sa fonction de détection de fumée ou de détection de chaleur élevée est déclenchée. Lorsqu'une alarme est activée, le détecteur de fumée transmet un signal d'alarme et déclenche sa sirène intégrée.
 
@@ -136,13 +136,13 @@ Le détecteur de fumée activera l'alarme incendie lorsque sa fonction de détec
 
 * Le détecteur de fumée transmettra un signal à la centrale si un mouvement est détecté dans la plage de détection IR. La sirène ne sonnera pas et la LED ne clignotera pas. Veuillez vous référer à la configuration de votre centrale pour plus de détails.
 
-### _<mark style="background-color:yellow;">Voyant d'Urgence</mark>_
+### **Voyant d'Urgence**
 
 (SD-29-HME uniquement)
 
 * Le détecteur de fumée dispose d'un éclairage de secours intégré qui peut fournir des alertes visuelles en cas d'urgence. Lorsque le détecteur de fumée est activé, le voyant d'urgence commencera à clignoter lentement pour indiquer que le système est en alarme.
 
-### _<mark style="background-color:yellow;">Interconnexion</mark>_
+### **Interconnexion**
 
 (SD-29-HME-SC uniquement)
 
@@ -150,7 +150,7 @@ Le détecteur de fumée activera l'alarme incendie lorsque sa fonction de détec
 * Vous ne pouvez pas appuyer sur le bouton de fonction pour désactiver l'alarme activée par d'autres détecteurs de fumée.
 * L'alarme ne sera restaurée qu'après un délai de 3 minutes ou jusqu'à ce que l'autre détecteur de fumée qui déclenche l'alarme transmette un signal de rétablissement.
 
-### _<mark style="background-color:yellow;">Mode silencieux</mark>_
+### **Mode silencieux**
 
 * Lorsque le détecteur de fumée déclenche une alarme, appuyer sur le bouton Test mettra le détecteur de fumée en mode Silence pour faire taire l'alarme pendant 9 minutes. Le buzzer ne cessera de retentir qu'après que l'alarme ait été activée pendant au moins 1 minute. Si le bouton est enfoncé avant que la durée de l'alarme n'atteigne 1 minute, le détecteur de fumée attendra que la durée de l'alarme atteigne 1 minute avant de désactiver l'alarme.
 * Pendant la période de silence de 9 minutes, la LED rouge clignote une fois par seconde. Le détecteur de fumée continuera à surveiller la concentration de fumée pendant la période de silence:
@@ -158,7 +158,7 @@ Le détecteur de fumée activera l'alarme incendie lorsque sa fonction de détec
 * Si la concentration de fumée dépasse toujours le seuil d'alarme, le détecteur de fumée recommencera à émettre une alarme.
 * Si la concentration de fumée continue d'augmenter pendant la période de silence et dépasse un deuxième seuil d'alarme, le détecteur de fumée recommencera à émettre une alarme. Une alarme déclenchée par le dépassement du deuxième seuil d'alarme ne peut pas être désactivée en appuyant sur le bouton de test.
 
-### _<mark style="background-color:yellow;">Réétalonnage</mark>_
+### **Réétalonnage**
 
 Comme les conditions de fonctionnement du détecteur de fumée peuvent varier après un certain temps d'installation, vous souhaiterez peut-être recalibrer le détecteur de fumée pour prendre une nouvelle valeur du seuil de détection de fumée et garantir des performances optimales du détecteur de fumée. Pour cela:
 
@@ -167,11 +167,11 @@ Comme les conditions de fonctionnement du détecteur de fumée peuvent varier ap
 * Une fois l'étalonnage terminé, le détecteur de fumée émettra un bip à deux tons. La LED rouge cessera de clignoter pour indiquer qu'elle est revenue en mode normal.
 * Si l'étalonnage échoue, le détecteur de fumée émettra un bip continu et la LED orange clignotera toutes les secondes. Veuillez retirer la batterie, appuyez deux fois sur le bouton Test pour une décharge complète, puis réinsérez les batteries pour redémarrer le détecteur de fumée.
 
-### _<mark style="background-color:yellow;">Installation</mark>_
+### **Installation**
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="220"><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">Directive d'installation</mark>_
+### **Directive d'installation**
 
 * Il est recommandé que le site d'installation se situe au centre du plafond.
 * Ne placez pas le détecteur dans les endroits suivants :\
@@ -180,7 +180,7 @@ Comme les conditions de fonctionnement du détecteur de fumée peuvent varier ap
   \- Près des poutres du plafond ou au-dessus d'une armoire – l'air stagnant dans ces zones peut affecter la sensibilité du détecteur.\
   \- Au plus haut d'une structure en "A" au plafond.
 
-### _<mark style="background-color:yellow;">Recommandation d'installation</mark>_
+### **Recommandation d'installation**
 
 * **Il est recommandé d'installer le détecteur de fumée aux endroits suivants:**\
   **-** Dans une zone au plafond avec une couverture de détection non obstruée par des appareils électroménagers et des meubles.\
@@ -194,16 +194,16 @@ Comme les conditions de fonctionnement du détecteur de fumée peuvent varier ap
 * Appuyez sur le bouton Test pour accéder au mode Test. Parcourez la zone protégée en notant quand la LED s'allume et vérifiez que la couverture de détection est adéquate.
 * Lorsque la couverture de détection s'avère satisfaisante, l'installation est désormais terminée.
 
-### _<mark style="background-color:yellow;">Montage du détecteur de fumée</mark>_
+### **Montage du détecteur de fumée**
 
-<mark style="color:orange;">**Étape 1.**</mark> Placez le détecteur de fumée à l'emplacement souhaité et utilisez la fonction de test de portée pour vous assurer que la transmission vers la centrale fonctionne à l'emplacement prévu.\
-<mark style="color:orange;">**Étape 2.**</mark> Utilisez le gabarit inclus dans l'emballage. La taille de l’image est égale à la taille réelle du détecteur de fumée et le design perforé permet de le retirer facilement après installation.\
-<mark style="color:orange;">**Étape 3.**</mark> Positionnez le gabarit contre le plafond et utilisez les quatre trous comme gabarit pour percer les trous et insérer des chevilles si nécessaire. Assurez-vous que les chevilles murales affleurent la surface de montage.\
-<mark style="color:orange;">**Étape 4.**</mark> Placez le support de fixation sur le gabarit et vissez-le au mur. Le support dans les deux sens. Les utilisateurs peuvent faire pivoter le support dans le sens des aiguilles d'une montre ou dans le sens inverse pour verrouiller le crochet.\
-<mark style="color:orange;">**Étape 5.**</mark> Le détecteur de fumée comporte trois encoches sur sa face arrière pour une fixation simplifiée.\
-<mark style="color:orange;">**Étape 6.**</mark> Tenez le détecteur de fumée avec beaucoup de précaution et alignez les trois encoches avec les crochets du support de fixation.\
-<mark style="color:orange;">**Étape 7.**</mark> Tournez dans le sens des aiguilles d'une montre pour verrouiller le crochet.\
-<mark style="color:orange;">**Étape 8.**</mark> L'installation est maintenant terminée. Vous pouvez maintenant déchirer le gabarit.
+**Étape 1.** Placez le détecteur de fumée à l'emplacement souhaité et utilisez la fonction de test de portée pour vous assurer que la transmission vers la centrale fonctionne à l'emplacement prévu.\
+**Étape 2.** Utilisez le gabarit inclus dans l'emballage. La taille de l’image est égale à la taille réelle du détecteur de fumée et le design perforé permet de le retirer facilement après installation.\
+**Étape 3.** Positionnez le gabarit contre le plafond et utilisez les quatre trous comme gabarit pour percer les trous et insérer des chevilles si nécessaire. Assurez-vous que les chevilles murales affleurent la surface de montage.\
+**Étape 4.** Placez le support de fixation sur le gabarit et vissez le au mur. Le support dans les deux sens. Les utilisateurs peuvent faire pivoter le support dans le sens des aiguilles d'une montre ou dans le sens inverse pour verrouiller le crochet.\
+**Étape 5.** Le détecteur de fumée comporte trois encoches sur sa face arrière pour une fixation simplifiée.\
+**Étape 6.** Tenez le détecteur de fumée avec beaucoup de précaution et alignez les trois encoches avec les crochets du support de fixation.\
+**Étape 7.** Tournez dans le sens des aiguilles d'une montre pour verrouiller le crochet.\
+**Étape 8.** L'installation est maintenant terminée. Vous pouvez maintenant déchirer le gabarit.
 
 * Le détecteur de fumée est conçu pour être monté au plafond. La hauteur de montage idéale pour le détecteur de fumée est comprise entre 2,7 mètres et 3 mètres. Un montage à plus de 3 mètres peut affecter les performances de détection **(SD-29-HM/SD-29-HME uniquement)**.
 * Le détecteur offre une couverture de 5m diamètre sur 360°. Veuillez vous référer aux figures ci-dessous pour les détails d'installation.

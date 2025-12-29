@@ -1,16 +1,16 @@
-# VESTA-018
+# 🇫🇷 VESTA-018
 
 **RC-15-F1**
 
-## <mark style="color:green;">**Télécommande**</mark>
+## **Télécommande**
 
-### _<mark style="background-color:yellow;">**Introduction**</mark>_
+### **Introduction**
 
 La télécommande est utilisée pour armer le système en mode total ou partiel, désarmer le système et envoyer une alarme panique.
 
 
 
-### _<mark style="background-color:yellow;">**Identification**</mark>_
+### **Identification**
 
 ![](<.gitbook/assets/1 (19).jpeg>)
 
@@ -39,7 +39,7 @@ NOTE:
 
 
 
-### _<mark style="background-color:yellow;">**Démarrage**</mark>_
+### **Démarrage**
 
 ![](<.gitbook/assets/5 (25).png>)
 
@@ -47,6 +47,6 @@ NOTE:
 * Insérez la batterie avec le pôle négatif de la batterie vers le bas.
 * Remettez le couvercle.
 * Fixez le couvercle en utilisant une pièce de monnaie pour tourner dans le sens des aiguilles d'une montre
-* Mettez la centrale  en mode apparentissage.
+* Mettez la centrale  en mode apprentissage.
 * Appuyez sur n’importe quel bouton de la télécommande.
 * Veuillez vous référer au manuel d'utilisation de la centrale pour terminer le processus d'apprentissage.

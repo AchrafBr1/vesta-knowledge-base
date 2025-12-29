@@ -1,10 +1,10 @@
-# VESTA-019N
+# 🇫🇷 VESTA-019N
 
 **DC-23 / DC-23-R3**
 
-## <mark style="color:green;">Détecteur d'ouverture avec extension filaire</mark>
+## Détecteur d'ouverture avec extension filaire
 
-### _<mark style="background-color:yellow;">**Introduction**</mark>_
+### **Introduction**
 
 Le détecteur d'ouverture surveille l'ouverture/fermeture d'éléments spécifiques (par exemple porte ou fenêtre). L'électronique est fixée au cadre de l'élément à surveiller tandis que l'aimant est fixé sur la partie mobile. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du détecteur d'ouverture, activant un interrupteur magnétique interne provoquant la transmission par le détecteur d'un signal d'alarme vers la centrale. L'appareil a également la capacité de communiquer les problèmes de transmission ainsi que les situations de batterie faible.
 
@@ -14,7 +14,7 @@ Le détecteur d'ouverture de la série DC-23 est décliné en 2 modèles:\
 \- DC-23: Le couvercle du détecteur d'ouverture est fixé par une vis.\
 \- DC-23-R3: Le couvercle du détecteur d'ouverture est fixé par clips
 
-### _<mark style="background-color:yellow;">**Identification**</mark>_
+### **Identification**
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="255"><figcaption></figcaption></figure>
 
@@ -43,9 +43,9 @@ Le détecteur d'ouverture de la série DC-23 est décliné en 2 modèles:\
 
 ![](<.gitbook/assets/7 (16).jpeg>)
 
-### _<mark style="background-color:yellow;">**Caractéristiques**</mark>_
+### **Caractéristiques**
 
-#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
+#### **- Voyant LED**
 
 En mode normal, le voyant LED ne s'allumera pas sauf dans les situations suivantes:
 
@@ -54,7 +54,7 @@ En mode normal, le voyant LED ne s'allumera pas sauf dans les situations suivant
 * Lorsque le détecteur est en mode Test, la LED s'allume à chaque fois qu'il est déclenché.
 * Lorsque la batterie est épuisée, le contact de porte arrêtera toute fonction, la LED clignotera toutes les 4 secondes
 
-#### _<mark style="background-color:green;">**- Borne d'extension**</mark>_
+#### **- Borne d'extension**
 
 Le détecteur d'ouverture dispose d'un bornier d'extension pour plus de flexibilité. L'appareil connecté doit former NO (normalement ouverte) ou NF (normalement fermée) sur le bornier selon la position du cavalier JP2. L'appareil est déclenché, lorsque la boucle change d'état.\
 Le bornier d'extension et l'ILS peuvent fonctionner ensemble pour déclencher le détecteur d'ouverture lorsque l'un d'eux est activé. Vous pouvez également choisir de désactiver l'ILS via le réglage du cavalier JP3.
@@ -87,23 +87,23 @@ Le bornier d'extension peut être utile dans la situation suivante.
 
 * La bornier d'extension et l'ILS peuvent fonctionner ensemble pour déclencher le détecteur d'ouverture lorsque l'un d'eux est activé. Vous pouvez également choisir de désactiver l'ILS via le réglage du cavalier JP3. Si le bornier d'extension et l'ILS sont utilisés et que l'un d'entre eux est déclenché, le détecteur d'ouverture transmettra l'information à la centrale d'alarme. Le signal de fermeture (rétablissement) du détecteur d'ouverture sera envoyé uniquement lorsque les 2 contacts seront fermés.
 
-#### _<mark style="background-color:green;">**Batterie**</mark>_
+#### **Batterie**
 
-* Le détecteur d'ouverture est alimenté par une pile lithium CR123 3V. Veuillez noter de **TOUJOURS** remplacer la batterie par un modèle de taille et tension équivalentess.
+* Le détecteur d'ouverture est alimenté par une pile lithium CR123 3V. Veuillez noter de **TOUJOURS** remplacer la batterie par un modèle de taille et tension équivalentes.
 * Le détecteur d'ouverture peut détecter une batterie faible. Lorsque la tension de la batterie est faible, un signal batterie faible sera envoyé à la centrale. La LED s'allumera lorsque le détecteur d'ouverture est activé en cas de batterie faible. Lorsque la batterie est épuisée, le détecteur d'ouverture arrêtera toute fonction, la LED clignotera toutes les 4 secondes.
 * Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur l'autoprotection pour une décharge complète avant d'insérer une nouvelle batterie.
 
-#### _<mark style="background-color:green;">**Autoprotection**</mark>_
+#### **Autoprotection**
 
 * Le détecteur d'ouverture est protégé par une autoprotection qui est comprimée contre la surface de fixation. Chaque fois que le couvercle du détecteur d'ouverture est ouvert ou lorsqu'il est retiré de son emplacement, l'autoprotection sera activée et le détecteur enverra un signal d'autoprotection à la centrale pour informer l'utilisateur.
 
-#### _<mark style="background-color:green;">**Supervision**</mark>_
+#### **Supervision**
 
 * La supervision pour le modèle 868WF est contrôlée par le réglage du cavalier JP2. Pour le modèle non-868WF, la fonction de supervision est toujours activée.
 * Lorsqu'elle est activée, le détecteur d'ouverture transmettra automatiquement des signaux de supervision périodiquement vers la centrale à des intervalles aléatoires de 30 à 50 minutes.
 * Si la centrale n'a pas reçu le signal du détecteur d'ouverture pendant une période prédéfinie, elle indiquera que ce périphérique rencontre un problème de perte de signal.
 
-#### _<mark style="background-color:green;">**Mode test**</mark>_
+#### **Mode test**
 
 * En mode normal, appuyez sur le bouton Test pour transmettre un signal de test et un code d'apprentissage à la centrale. Le détecteur d'ouverture entrera également en mode test pendant 3 minutes.
 * En mode test, la LED s'allumera chaque fois que le détecteur sera activé.
@@ -111,7 +111,7 @@ Le bornier d'extension peut être utile dans la situation suivante.
 
 
 
-### _<mark style="background-color:yellow;">**Démarrage**</mark>_
+### **Démarrage**
 
 * Ouvrez le détecteur d'ouverture et insérez la batterie.
 * Mettez la centrale en mode apprentissage (veuillez vous référer au manuel d'utilisation de la centrale).
@@ -122,7 +122,7 @@ Le bornier d'extension peut être utile dans la situation suivante.
 
 
 
-### _<mark style="background-color:yellow;">**Installation**</mark>_
+### **Installation**
 
 *   **Directives d'installation**
 
@@ -133,7 +133,7 @@ Le bornier d'extension peut être utile dans la situation suivante.
 
 
 
-#### _<mark style="background-color:green;">**Montage du détecteur d'ouverture**</mark>_
+#### **Montage du détecteur d'ouverture**
 
 1. Trouvez un emplacement approprié à proximité de votre porte/fenêtre pour installer le détecteur d'ouverture.
 2. Le détecteur d'ouverture comporte 2 repères sur un côté (voir image), marquant l'emplacement de l'ILS. Le détecteur d'ouverture doit être installé soit verticalement, soit inversé pour garantir que le côté marqué par les repères soit face à l'aimant.

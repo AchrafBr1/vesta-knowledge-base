@@ -1,10 +1,10 @@
-# VESTA-013
+# 🇫🇷 VESTA-013
 
 MDC-3
 
-## <mark style="color:green;">Mini Détecteur d'ouverture</mark>
+## Mini Détecteur d'ouverture
 
-### <mark style="color:red;">GUIDE RAPIDE</mark>
+### GUIDE RAPIDE
 
 <figure><img src=".gitbook/assets/VESTA-013[1].jpg" alt="" width="225"><figcaption><p>VESTA-013 - MDC-3-F1</p></figcaption></figure>
 
@@ -15,7 +15,7 @@ MDC-3
 
 
 
-### _<mark style="background-color:yellow;">Introduction</mark>_
+### Introduction
 
 Le mini détecteur d'ouverture surveille l'ouverture/fermeture d'éléments spécifiques (par exemple porte ou fenêtre). L'électronique est fixée au cadre de l'élément à surveiller tandis que l'aimant est fixé sur la partie mobile. Lorsque la porte ou la fenêtre s'ouvre, l'aimant s'éloigne du détecteur d'ouverture, activant un interrupteur magnétique interne provoquant la transmission par le détecteur d'un signal d'alarme vers la centrale. L'appareil a également la capacité de communiquer les problèmes de transmission ainsi que les situations de batterie faible.
 
@@ -23,7 +23,7 @@ Le détecteur d'ouverture se compose d'un couvercle et d'une base. L'ensemble co
 
 
 
-### _<mark style="background-color:yellow;">**Identification**</mark>_
+### **Identification**
 
 ![](<.gitbook/assets/0 (7) (1).png>)
 
@@ -40,7 +40,7 @@ Le détecteur d'ouverture se compose d'un couvercle et d'une base. L'ensemble co
 9. **Aimant**
 10. **Entretoise magnétique**
 
-#### _<mark style="background-color:green;">**- Accessoires inclus**</mark>_
+#### **- Accessoires inclus**
 
 1. 1 aimant
 2. 1 entretoise magnétique adhésive double face
@@ -52,9 +52,9 @@ Le détecteur d'ouverture se compose d'un couvercle et d'une base. L'ensemble co
 
 
 
-### <mark style="background-color:yellow;">**Caractéristiques**</mark>
+### **Caractéristiques**
 
-#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
+#### **- Voyant LED**
 
 En mode de fonctionnement normal, le voyant LED reste éteint sauf dans les situations suivantes.
 
@@ -62,21 +62,21 @@ En mode de fonctionnement normal, le voyant LED reste éteint sauf dans les situ
 * Chaque fois que le détecteur d'ouverture est activé dans des conditions de sabotage ou de batterie faible.
 * Chaque fois que le détecteur d'ouverture est activé et transmet le signal en mode test.
 
-#### _<mark style="background-color:green;">**- Supervision**</mark>_
+#### **- Supervision**
 
 * Le détecteur d'ouverture transmettra automatiquement des signaux de supervision périodiquement vers la centrale à des intervalles aléatoires de 30 à 50 minutes en mode de fonctionnement normal.
 * Si la centrale n'a pas reçu le signal du détecteur d'ouverture pendant une période prédéfinie, elle indiquera que ce périphérique rencontre un problème de perte de signal.
 
-#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
+#### **- Autoprotection**
 
 * Elle est conçue pour protéger contre l’ouverture non autorisée du couvercle. Lorsque l'autoprotection est déclenchée, le détecteur d'ouverture émettra un signal vers la centrale pour rapport, la LED s'allumera également..
 
-#### _<mark style="background-color:green;">**- Batterie**</mark>_
+#### **- Batterie**
 
 Le MDC-3 en utilise une **Pile lithium 3V CR2450** comme source d'énergie.\
 Il est également capable de détecter une batterie faible. Lorsque la batterie est faible, un signal de batterie faible sera envoyé à la centrale. La LED s'allumera lorsque le détecteur d'ouverture est activé en cas de batterie faible.
 
-#### _<mark style="background-color:green;">**- Changement de batterie**</mark>_
+#### **- Changement de batterie**
 
 <figure><img src=".gitbook/assets/image (25).png" alt="" width="349"><figcaption></figcaption></figure>
 
@@ -91,34 +91,34 @@ NOTE:
 * Assurez-vous de placer la batterie depuis l'angle supérieur du boîtier
 {% endhint %}
 
-#### _<mark style="background-color:green;">**- Mode test**</mark>_
+#### **- Mode test**
 
-Le détecteur d'ouverture peut être mis en mode test pendant 3 minutes en appuyant une fois sur le bouton de test situé à lo'arrière du boîtier. Pendant le mode Test, le voyant LED s'allumera lors du déclenchement. À chaque pression sur le bouton de test, le détecteur d'ouverture optique transmettra un signal de test à la centrale pour un test de portée radio et réinitialise la durée du mode test à 3 minutes. Il quittera automatiquement le mode test après 3 minutes et reviendra au mode de fonctionnement normal.
+Le détecteur d'ouverture peut être mis en mode test pendant 3 minutes en appuyant une fois sur le bouton de test situé à l'arrière du boîtier. Pendant le mode Test, le voyant LED s'allumera lors du déclenchement. À chaque pression sur le bouton de test, le détecteur d'ouverture optique transmettra un signal de test à la centrale pour un test de portée radio et réinitialise la durée du mode test à 3 minutes. Il quittera automatiquement le mode test après 3 minutes et reviendra au mode de fonctionnement normal.
 
 
 
-### _<mark style="background-color:yellow;">**Démarrage**</mark>_
+### **Démarrage**
 
-<mark style="color:orange;">**Étape 1 :**</mark> Retirez l'opercule isolant la batterie situé à l'arrière du détecteur d'ouverture.\
-<mark style="color:orange;">**Étape 2 :**</mark> Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale pour plus de détails.\
-<mark style="color:orange;">**Étape 3 :**</mark> Appuyez sur le bouton d'apprentissage/test du détecteur d'ouverture pour envoyer un signal à la centrale.\
-<mark style="color:orange;">**Étape 4 :**</mark> Si la centrale reçoit le signal avec succès, elle doit répondre (par exemple en émettant des bips). Reportez-vous au manuel de votre centrale pour terminer le processus d'apprentissage.\
-<mark style="color:orange;">**Étape 5 :**</mark> Une fois le détecteur d'ouverture appris, placez la centrale en **test de fonctionnement**, maintenez le détecteur d'ouverture à l'emplacement souhaité et appuyez sur le bouton Test pour confirmer si cet emplacement est à portée de signal de la centrale.\
-<mark style="color:orange;">**Étape 6 :**</mark> Lorsque vous êtes satisfait du fonctionnement à l'emplacement choisi, passez à **remplacement de la batterie**.
+**Étape 1 :** Retirez l'opercule isolant la batterie situé à l'arrière du détecteur d'ouverture.\
+**Étape 2 :** Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale pour plus de détails.\
+**Étape 3 :** Appuyez sur le bouton d'apprentissage/test du détecteur d'ouverture pour envoyer un signal à la centrale.\
+**Étape 4 :** Si la centrale reçoit le signal avec succès, elle doit répondre (par exemple en émettant des bips). Reportez-vous au manuel de votre centrale pour terminer le processus d'apprentissage.\
+**Étape 5 :** Une fois le détecteur d'ouverture appris, placez la centrale en **test de fonctionnement**, maintenez le détecteur d'ouverture à l'emplacement souhaité et appuyez sur le bouton Test pour confirmer si cet emplacement est à portée de signal de la centrale.\
+**Étape 6 :** Lorsque vous êtes satisfait du fonctionnement à l'emplacement choisi, passez à **remplacement de la batterie**.
 
-### _<mark style="background-color:yellow;">**Remplacement de la batterie**</mark>_
+### **Remplacement de la batterie**
 
 Pour ouvrir le couvercle du contact de porte :\
-<mark style="color:orange;">**Étape 1.**</mark> Utilisez un tournevis à tête plate pour l'insérer dans l'encoche sur le côté du détecteur d'ouverture (**Photo1**).\
-<mark style="color:orange;">**Étape 2.**</mark> Poussez le tournevis à tête plate vers le haut comme indiqué sur  **Photo2**.\
-<mark style="color:orange;">**Étape 3.**</mark> Réalisez la même manipulation de l'autre côté.
+**Étape 1.** Utilisez un tournevis à tête plate pour l'insérer dans l'encoche sur le côté du détecteur d'ouverture (**Photo1**).\
+**Étape 2.** Poussez le tournevis à tête plate vers le haut comme indiqué sur  **Photo2**.\
+**Étape 3.** Réalisez la même manipulation de l'autre côté.
 
 | <img src=".gitbook/assets/2 (9).png" alt="" data-size="original"> | <img src=".gitbook/assets/3 (10).jpeg" alt="" data-size="original"> |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
 | (Photo 1)                                                         | (Photo 2)                                                           |
 
-<mark style="color:orange;">**Étape 4.**</mark> Une fois le couvercle ouvert, vous pouvez procéder au changement de la batterie.\
-<mark style="color:orange;">**Étape 5.**</mark> Pour replacer le couvercle :\
+**Étape 4.** Une fois le couvercle ouvert, vous pouvez procéder au changement de la batterie.\
+**Étape 5.** Pour replacer le couvercle :\
 \- Assurez-vous que l'ergot de l'autoprotection soit dans le bon sens (**Photo3**).\
 -Assurez-vous également que les crochets de fixations du couvercle correspondent aux emplacements de fixation de la base (**Photo4**).\
 -Insérez le couvercle dans la base et pousser vers le bas (1) puis vers l'avant (2) jusqu'à entendre un clip (**Photo 5**).
@@ -129,7 +129,7 @@ Pour ouvrir le couvercle du contact de porte :\
 
 
 
-### _<mark style="background-color:yellow;">**Méthodes d'installation**</mark>_
+### **Méthodes d'installation**
 
 * Installez le détecteur d'ouverture en utilisant l'une des méthodes ci-dessous: **Bande Velcro** ou **Visser.**
 * Installez l'aimant sur la partie mobile (comme une porte) à l'aide de la bande adhésive ou de vis.
@@ -140,7 +140,7 @@ NOTE:\
 La distance entre l'aimant et le détecteur d'ouverture ne doit pas dépasser **15mm**.
 {% endhint %}
 
-#### <mark style="background-color:green;">**Méthodes d'installations du détecteur d'ouverture**</mark>
+#### **Méthodes d'installations du détecteur d'ouverture**
 
 * **Montage vissé**
 
@@ -176,9 +176,9 @@ Le détecteur d'ouverture peut être fixé à l'aide de la bande Velcro fournie.
 
 ![C:\Users\C1011\Desktop\未命名-3.jpg](<.gitbook/assets/10 (1).jpeg>)
 
-#### <mark style="background-color:green;">**Méthodes d'installations de l'aimant**</mark>
+#### **Méthodes d'installations de l'aimant**
 
-* **Montage visssé**
+* **Montage vissé**
 
 La base du boîtier de l'aimant comporte deux trous de fixation.\
 Pour installer l'aimant :\

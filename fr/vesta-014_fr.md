@@ -1,16 +1,16 @@
-# VESTA-014
+# 🇫🇷 VESTA-014
 
 RC-16-F1
 
-## <mark style="color:green;">Télécommande</mark>&#x20;
+## Télécommande&#x20;
 
-### _<mark style="background-color:yellow;">Introduction</mark>_
+### **Introduction**
 
 La télécommande est utilisée pour armer le système en mode total ou partiel, désarmer le système et envoyer une alarme panique.
 
 
 
-### _<mark style="background-color:yellow;">**Identification**</mark>_
+### _Identification_
 
 <figure><img src=".gitbook/assets/image (31).png" alt="" width="318"><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ NOTE:
 
 
 
-### _<mark style="background-color:yellow;">**Démarrage**</mark>_
+### **Démarrage**
 
 * Retirez le couvercle de la batterie.
 * Insérez la batterie avec le pôle négatif de la batterie vers le bas.

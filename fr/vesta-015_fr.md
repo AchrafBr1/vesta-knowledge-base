@@ -1,10 +1,10 @@
-# VESTA-015
+# 🇫🇷 VESTA-015
 
 **IRD-23 / IRD-23SL**
 
-## <mark style="color:green;">**Détecteur PIR dôme**</mark>
+## **Détecteur PIR dôme**
 
-### _<mark style="background-color:yellow;">**Introduction**</mark>_
+### **Introduction**
 
 Le détecteur PIR dôme est conçu pour être monté au plafond et fournir une couverture de détection à 360° sans angles morts pour capter les mouvements dans une zone donnée et signaler à la centrale d'activer l'alarme si un intrus croise la zone de détection.\
 Le détecteur PIR se compose de deux parties: la partie principale qui est le détecteur PIR et d'une base de fixation. La partie principale contient toute l’électronique et l’optique et la base fournit un moyen d’installation.\
@@ -16,7 +16,7 @@ Le détecteur PIR dôme est décliné en 2 modèles :\
 
 
 
-### _<mark style="background-color:yellow;">**Identification.**</mark>_
+### **Identification**
 
 ![Partie principale](<.gitbook/assets/2 (17).jpeg>)
 
@@ -38,7 +38,7 @@ Le détecteur PIR dôme est décliné en 2 modèles :\
 7. **Crochets**
 8. **Emplacements de fixation (intérieur)**
 
-#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
+#### **- Voyant LED**
 
 En mode normal, le voyant LED ne s'allumera pas sauf dans les situations suivantes:
 
@@ -47,23 +47,23 @@ En mode normal, le voyant LED ne s'allumera pas sauf dans les situations suivant
 * Lorsque la condition d'autoprotection persiste, chaque fois qu'il transmet la détectetion d'un mouvement, la LED s'allumera.
 * Lorsque le PIR est en mode Test, la LED s'allume à chaque fois qu'un mouvement est détecté.
 
-#### _<mark style="background-color:green;">**- Mise en veille**</mark>_
+#### **- Mise en veille**
 
 Le détecteur PIR a une "**mise en veille**" d'environs 1 minute pour économiser de l'énergie. Après avoir transmis un mouvement détecté, le détecteur PIR ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera la temporisation de mise en veille de 1 minute. Un mouvement continu devant le PIR n'épuisera donc pas la batterie.
 
-#### _<mark style="background-color:green;">**- Supervision**</mark>_
+#### **- Supervision**
 
 Le PIR transmet un signal de supervision toutes les 30 à 50 minutes. Si la centrale ne parvient pas à recevoir les signaux de supervision pendant une durée définie, un message de défaut sera généré.
 
-#### _<mark style="background-color:green;">**- Augmentation de la sensibilité**</mark>_
+#### **- Augmentation de la sensibilité**
 
 Vous pouvez utiliser la fonction d’augmentation de sensibilité pour augmenter la sensibilité de détection du détecteur PIR. Pour augmenter la sensibilité de détection, connectez le cavalier (JP3) ou le mettre en position ON. Pour maintenir une sensibilité normale, déconnectez le cavalier (JP3) ou le mettre en position OFF (par défaut).
 
-#### _<mark style="background-color:green;">**- Mode d'essai**</mark>_
+#### **- Mode d'essai**
 
 Le détecteur PIR peut être mis en mode Test/voyant LED en appuyant sur le bouton test. En mode Test, il désactivera la mise en veille et permettra au voyant LED de clignoter à chaque fois qu'un mouvement est détecté. Chaque fois que vous appuyez sur le bouton de test, le détecteur PIR transmettra un signal de test à la centrale pour un test de portée radio et entrera en mode test pendant 3 minutes. Le mode test expirera après 3 minutes.
 
-#### _<mark style="background-color:green;">**- Batterie**</mark>_
+#### **- Batterie**
 
 Le PIR utilise différentes batteries selon le modèle PIR :\
 \- IRD-23 : 2 piles alcalines AA 1,5V\
@@ -77,13 +77,13 @@ NOTE:
 * Lors du changement des piles, après avoir retiré les anciennes piles, appuyez deux fois sur l'autoprotection pour décharger complètement avant d'insérer de nouvelles piles.
 {% endhint %}
 
-#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
+#### **- Autoprotection**
 
 Le PIR dispose d'une autoprotection située sur la partie principale du PIR. Lorsque le PIR est correctement installé sur sa base, l'autoprotection est compressée. Lorsque le PIR est ouvert, l'autoprotection sera activée et déclenchera l'envoi d'un signal d'autoprotection à la centrale.
 
 
 
-### _<mark style="background-color:yellow;">**Démarrage**</mark>_
+### **Démarrage**
 
 * Insérez la batterie.
 * Le voyant LED clignote pendant 30 secondes (le détecteur PIR démarre). Pendant la période de démarrage, le détecteur PIR ne sera pas actif. Une fois la période de démarrage terminée, le voyant LED s'éteindra et le PIR sera prêt à fonctionner.
@@ -95,7 +95,7 @@ Le PIR dispose d'une autoprotection située sur la partie principale du PIR. Lor
 
 
 
-### _<mark style="background-color:yellow;">**Type d'installation**</mark>_
+### **Type d'installation**
 
 * Le PIR est conçu pour être installé au plafond.
 * Lorsqu'il est installé à 2,7 mètres de haut, le PIR offre une couverture 360° d'environs **6m** de diamètre.
@@ -132,7 +132,7 @@ Limites:
 
 
 
-#### _<mark style="background-color:green;">**Méthode de montage**</mark>_
+#### _**Méthode de montage**_
 
 * Le PIR est conçu pour être monté au plafond
 * La base dispose de 4 découpes où le plastique est plus fin pour la fixation au plafond.
