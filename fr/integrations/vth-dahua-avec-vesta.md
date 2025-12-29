@@ -6,13 +6,13 @@ description: >-
 icon: tv
 ---
 
-# Intégration VTH Dahua avec centrale VESTA
+# VTH Dahua avec VESTA
 
 <figure><img src="../.gitbook/assets/dahua_res.webp" alt="" width="188"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption><p>VTH</p></figcaption></figure>
 
-### _<mark style="background-color:yellow;">Fonctionnalités de l'intégration</mark>_
+### **Fonctionnalités de l'intégration**
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>VTH5321GW-W; VTH5321GB-W; VTH5341G-W</p></figcaption></figure>
 
@@ -22,7 +22,7 @@ icon: tv
 * Utiliser les scénarios&#x20;
 * Visualiser le journal d'évènements
 
-### _<mark style="background-color:yellow;">Avant de commencer</mark>_
+### **Avant de commencer**
 
 Avant de commencer la configuration, vous devez mettre à jour le VTH pour ajouter cette intégration au moniteur:
 
@@ -38,7 +38,7 @@ Customer\_VTH53X1\_MultiLang\_SIP\_V4.400.00BY000.0.T.20250327.zip\
 
 
 
-### _<mark style="background-color:yellow;">**Ajouter la centrale VESTA au VTH**</mark>_&#x20;
+### **Ajouter la centrale VESTA au VTH**&#x20;
 
 Suivez les étapes suivantes pour ajouter votre centrale VESTA au VTH:
 
@@ -72,7 +72,7 @@ Si l'interface web de la centrale n'est pas disponible, pensez à la redémarrer
 
 5. **Sauver:** Après la saisie des informations, sauver les réglages dans le VTH.
 
-### _<mark style="background-color:yellow;">Dépannage:</mark>_
+### **Dépannage:**
 
 * **Connexion impossible:**
   * Assurez-vous que le VTH et la centrale VESTA soient sur le même réseau local.
