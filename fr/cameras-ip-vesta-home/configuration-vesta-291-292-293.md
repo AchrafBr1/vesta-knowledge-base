@@ -93,7 +93,7 @@ Pour continuer:
 * Vérifiez si la led de la caméra est <mark style="color:green;">**VERTE**</mark>**&#x20;**<mark style="color:$primary;">**fixe**</mark> (non clignotante).
 * Si c'est le cas, revenez à l'étape précédente et sélectionnez ETHERNET au lieu de Wi-Fi — la configuration devrait alors fonctionner correctement..
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 {% endhint %}
 
 <mark style="color:orange;">**Etape 9:**</mark> Connectez votre téléphone à la caméra en cliquant sur "Rejoindre" (selon le modèle de téléphone cette étape est optionnelle).\
@@ -262,8 +262,7 @@ Pour faire une reset de la caméra, veuillez maintenir enfoncé le bouton RESET 
 
 {% hint style="info" %}
 &#x20;NOTES:\
-Pour le modèle VESTA-292, le bouton est situé sous l'objectif.\
-
+Pour le modèle VESTA-292, le bouton est situé sous l'objectif.<br>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (41).png" alt="" width="375"><figcaption><p>Reset VESTA-292</p></figcaption></figure>

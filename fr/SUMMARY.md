@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📘 Manuels et guides techniques du système d'alarme VESTA](README.md)
+* [vesta-002](vesta-002.md)
 * [🇫🇷 VESTA-005N](vesta-005n_fr.md)
 * [🇫🇷 VESTA-006](vesta-006_fr.md)
 * [🇫🇷 VESTA-007](vesta-007_fr.md)

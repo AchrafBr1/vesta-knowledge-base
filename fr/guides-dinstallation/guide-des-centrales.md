@@ -358,8 +358,7 @@ Etape 2: Programmez l'e-mail fourni par le télésurveilleur dans le menu "Trans
 La centrale dispose de fonctions de domotique avancées qui offrent un niveau très élevé de fonctionnalités conçues pour maximiser la sécurité du système. Ces fonctionnalités permettent, par exemple, de créer des règles selon lesquelles l'ouverture d'un détecteur d'ouverture déclenche automatiquement la capture d'une image ou l'activation d'un relais pour ouvrir ou fermer des circuits spécifiques. Ces capacités améliorent non seulement l'efficacité du système, mais permettent également d'apporter une réponse rapide et appropriée aux événements de sécurité.
 
 {% hint style="success" %}
-**Nombre de règle et de scénarios qui peuvent être créés:**\
-
+**Nombre de règle et de scénarios qui peuvent être créés:**<br>
 
 * Règles: 100
 * Scénarios: 50

@@ -21,7 +21,7 @@ IRP-29SL / IRP-29SL-F1 – Détecteur PIR, immunité animaux avec batterie au li
 
 
 
-### _<mark style="background-color:yellow;">**Identification**</mark>_ 
+### _<mark style="background-color:yellow;">**Identification**</mark>_<br>
 
 <figure><img src=".gitbook/assets/0 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -136,8 +136,7 @@ _**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coi
     4\. Vissez le support triangulaire dans les chevilles murales avec les deux pions de fixation en haut face à vous.\
     5\. Fixez le détecteur PIR sur les crochets du support triangulaire.\
     \
-    \
-
+    <br>
 
     <figure><img src=".gitbook/assets/4 (5) (1).png" alt="" width="97"><figcaption></figcaption></figure>
 * **Installation avec adhésif**\
@@ -153,8 +152,7 @@ _**-**_ Le PIR est conçu pour être monté sur une surface plane ou dans un coi
   Le support articulé peut être monté au mur à l'aide des vis fournies.\
   1\. Vissez le support articulé au mur.\
   2\. Insérez les 3 crochets du support articulé dans les 3 trous de la base.\
-  3\. Faites pivoter le support pour obtenir la plage de détection souhaitez et serrez la vis de fixation.\
-
+  3\. Faites pivoter le support pour obtenir la plage de détection souhaitez et serrez la vis de fixation.<br>
 
 <figure><img src=".gitbook/assets/5 (4) (1).png" alt=""><figcaption></figcaption></figure>
 
