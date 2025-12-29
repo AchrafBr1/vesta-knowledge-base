@@ -4,7 +4,7 @@ icon: door-open
 
 # Danalock avec VESTA
 
-### _<mark style="background-color:yellow;">Introduction</mark>_
+### **Introduction**
 
 Ce document vous guidera étape par étape dans le processus d'installation, d'ajout et d'étalonnage des verrous **SALTO** modèles **SALTO-015** et **SALTO-17** avec une centrale **VESTA** en utilisant la technologie **Z-WAVE**.
 
@@ -24,9 +24,9 @@ Ce document vous guidera étape par étape dans le processus d'installation, d'a
 
 Les verrous SALTO fournissent une solution de contrôle d'accès avancée et sécurisée et l'intégration avec les centrales VESTA vous permet de gérer et de contrôler l'accès en temps réel. Ce manuel est conçu pour simplifié le processus d'installation, vous assurant de prendre rapidement avantage des bénéfices apportés par cette intégration.
 
-### _<mark style="background-color:yellow;">Directives</mark>_
+### **Directives**
 
-#### <mark style="background-color:green;">**Prérequis**</mark>
+#### **Prérequis**
 
 * Assurez-vous que votre centrale VESTA dispose du Z-WAVE. Veuillez vous rendre sur le site [bydemes WEB](https://www.bydemes.com) pour vérifier les caractéristiques de votre centrale:&#x20;
 
@@ -44,13 +44,13 @@ Si vous avez un cylindre à double débrayage et que vous souhaitez conserver vo
 
 
 
-### _<mark style="background-color:yellow;">**Installation**</mark>_
+### **Installation**
 
-#### <mark style="background-color:green;">**Montage du verrou**</mark>
+#### Montage du verrou
 
 {% embed url="https://www.youtube.com/watch?v=U3gK4cPas_g" %}
 
-### _<mark style="background-color:yellow;">**Connexion Z-WAVE**</mark>_
+### **Connexion Z-WAVE**
 
 Une fois l'installation terminée et les batteries installées, Il faut enregistrer le verrou dans la centrale VESTA. Le processus d'enregistrement est nécessaire pour associer le verrou à la centrale VESTA et avoir la gestion depuis la centrale.
 
@@ -59,9 +59,9 @@ L'option d'**exclusion est très importante** pour être en mesure de laisser le
 Avant d'ajouter le verrou à une centrale VESTA, il est crucial de réaliser une opération "d'exclusion". Exclure le périphérique assure que toutes données d'une précédente connexion stockées dans le verrou seront effacées. Cette étape permet de faire une reset du verrou, supprimant les anciennes données réseau pour permettre un nouvel ajout (ou "inclusion") dans la centrale VESTA (Noeud Z-WVE de la centrale). Si vous ignorez cette étape, le verrou peut contenir d'anciennes données d'association qui peuvent interférer dans le processus d'ajour et provoquer des problème de connexion.
 {% endhint %}
 
-### _<mark style="background-color:yellow;">**Exclusion Z-WAVE**</mark>_
+### **Exclusion Z-WAVE**
 
-#### Etape 1: Accdez à la configuration de la centrale depuis l'app en mdoe installateur:
+#### Etape 1: Accédez à la configuration de la centrale depuis l'app en mdoe installateur:
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Installer -> Settings</p></figcaption></figure>
 
@@ -82,10 +82,10 @@ Avant d'ajouter le verrou à une centrale VESTA, il est crucial de réaliser une
 
 
 {% hint style="warning" %}
-Lorsque le bouton aura été utilisé une fois, <mark style="color:green;">la led verte du verrou clignotera</mark>, avec la centrale en mode exclusion, **patientez pendant 1 minute**. Dans l'app SmartHomeSec, un "?" peut apparaitre dans la fenêtre d'exclusion, c'est normal. Une fois le "?" affiché, fermé la fennêtre d'exclusion.
+Lorsque le bouton aura été utilisé une fois, <mark style="color:green;">la led verte du verrou clignotera</mark>, avec la centrale en mode exclusion, **patientez pendant 1 minute**. Dans l'app SmartHomeSec, un "?" peut apparaitre dans la fenêtre d'exclusion, c'est normal. Une fois le "?" affiché, fermé la fenêtre d'exclusion.
 {% endhint %}
 
-### _<mark style="background-color:yellow;">**Ajout du verrou en Z-WAVE sur VESTA**</mark>_
+### **Ajout du verrou en Z-WAVE sur VESTA**
 
 {% hint style="danger" %}
 Il est crucial d'avoir exécuté le mode exclusion avant.
@@ -109,7 +109,7 @@ Lorsque le bouton aura été utilisé une fois, <mark style="color:green;">la le
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">**Etalonnage**</mark>_
+### **Etalonnage**
 
 Pour étalonner le verrou, suivez les étapes suivantes avec attention:
 

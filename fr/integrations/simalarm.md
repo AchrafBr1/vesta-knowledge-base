@@ -7,7 +7,7 @@ icon: sim-card
 
 # SIMALARM
 
-### _<mark style="background-color:yellow;">Informations sur SIMALARM</mark>_
+### **Informations sur SIMALARM**
 
 Pour les cartes de références CSL-SIM, -ESTANDAR, -MICRO, -NANO:\
 APN pour une activation avant le 16 novembre 2022: gemenit2.m2m\
@@ -26,7 +26,7 @@ Abonnements compatibles : [SIMALARM](https://www.simalarm.eu/fr/simcards/simalar
 APN : simalarm.tele2.com\
 Abonnements compatibles : [SIMALARM-2](https://www.simalarm.eu/fr/simcards/simalarm-2/)
 
-### _<mark style="background-color:yellow;">COMMENT MODIFIER L'ABONNEMENT</mark>_?
+### **COMMENT MODIFIER L'ABONNEMENT?**
 
 <figure><img src="../.gitbook/assets/CHANGE PLAN RATE.gif" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ Abonnements compatibles : [SIMALARM-2](https://www.simalarm.eu/fr/simcards/simal
 Cette option est importante en cas de **mise à jour de l'abonnement vers une référence plus élevée.**
 {% endhint %}
 
-### _<mark style="background-color:yellow;">COMMENT MODIFIER OU METTRE A JOUR LA METHODE DE PAIEMENT?</mark>_
+### **COMMENT MODIFIER OU METTRE A JOUR LA METHODE DE PAIEMENT?**
 
 <figure><img src="../.gitbook/assets/CHANGE PAYMENT INFORMATION.gif" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ Cette option est importante en cas de **mise à jour de l'abonnement vers une r�
 Cette option est intéressante pour mettre à jour la plateforme en cas d'**expiration de la carte de crédit** ou de **changement de compte bancaire**.
 {% endhint %}
 
-### _<mark style="background-color:yellow;">COMMENT REGLER UNE COMMANDE?</mark>_
+### **COMMENT REGLER UNE COMMANDE?**
 
 <figure><img src="../.gitbook/assets/HOW TO PAY OPEN ORDER.gif" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ Cette option est intéressante pour mettre à jour la plateforme en cas d'**expi
 Il est important de régler une commande en court afin d'éviter une **désactivation de la carte SIM**.
 {% endhint %}
 
-### _<mark style="background-color:yellow;">COMMENT ANNULER UNE ABONNEMENT?</mark>_
+### **COMMENT ANNULER UNE ABONNEMENT?**
 
 <figure><img src="../.gitbook/assets/CANCELAR SUSCRIPCIÓN.gif" alt=""><figcaption></figcaption></figure>
 

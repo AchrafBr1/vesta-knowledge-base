@@ -11,9 +11,9 @@ Ce manuel est conçu pour les techniciens, les intégrateurs et les utilisateurs
 
 ## GUIDE RAPIDE
 
-## <mark style="background-color:yellow;">1. Enregistrement de la centrale et ajout d'un utilisateur</mark>
+## 1. Enregistrement de la centrale et ajout d'un utilisateur
 
-### _<mark style="background-color:green;">1.1 Enregistrement de la centrale en mode Installateur</mark>_
+### 1.1 Enregistrement de la centrale en mode Installateur
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter comme un installateur sur l'app <a href="../../guia-de-usuario-smarthomesec.md">SmartHomeSec</a>.</td><td><img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  2:</strong> Cliquez sur le bouton +  (ajouter une centrale).</td><td><img src="../.gitbook/assets/image (10) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  3:</strong> Saisir l'adresse MAC de la centrale qui se trouve sur l'étiquette de la centrale.</td><td><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="original"></td></tr></tbody></table>
 
@@ -27,7 +27,7 @@ La centrale doit être démarrée et connectée à Internet. La centrale doit ê
 L'adresse MAC de la centrale se trouve sur une étiquette sur l'un des bords de la centrale. Le champ NOM, devrait contenir une information permettant d'identifier la centrale.
 {% endhint %}
 
-### _<mark style="background-color:green;">1.2 Ajout d'un compte Utilisateur</mark>_
+### 1.2 Ajout d'un compte Utilisateur
 
 Le compte utilisateur sert à contrôler le système et est destiné à l'utilisateur final. Depuis l'application SmartHomeSec, ce compte permet d'armer, de désarmer et d'effectuer toutes les opérations. Il existe deux types de comptes utilisateurs : Master et Slave.
 
@@ -41,11 +41,11 @@ Le premier compte enregistré sera forcément le compte Master. La principale di
 L'ajout d'un compte utilisateur est terminé! Pour plus d'informations sur l'utilisation du compte utilisateur, suivre les instructions du guide de l'utilisateur SmartHomeSec.
 {% endhint %}
 
-## _<mark style="background-color:yellow;">2. Ajout et configuration de périphériques</mark>_
+## 2. Ajout et configuration de périphériques
 
 Pour ajouter et configurer un périphérique VESTA sans fils, veuillez suivre les étapes suivantes:
 
-### _<mark style="background-color:green;">2.1 Ajouter une périphérique</mark>_
+### 2.1 Ajouter une périphérique
 
 **Etape 1:** Se rendre dans le menu de configuration de la centrale en mode Installateur:
 
@@ -71,7 +71,7 @@ Important! Dans le cas des PIRCAMs et des claviers, l'appui sur la/les touches d
 
 Une fois ajouté, le périphérique radio sera prêt à être utilisé et peut être configuré depuis le même menu. Un exemple de configuration est disponible dans le chapitre suivant.
 
-### _<mark style="background-color:green;">2.2 Configuration d'une zone</mark>_
+### 2.2 Configuration d'une zone
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (28) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (30) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (31) (1).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
 
@@ -81,15 +81,15 @@ Pour configurer correctement une zone, il est important d'être familiarisé ave
 Par exemple: Intrusion Intérieur est une zone instantanée et Temporisation d'Entrée est une zone temporisée. Ces attributs sont disponibles dans les modes de fonctionnement (Mode Total, Mode Partiel, Mode Arrêt).
 {% endhint %}
 
-## _<mark style="background-color:yellow;">3. Configuration de la centrale et transmission vers la télésurveillance</mark>_
+## 3. Configuration de la centrale et transmission vers la télésurveillance
 
-### _<mark style="background-color:green;">3.1 Paramètres de sécurité</mark>_
+### 3.1 Paramètres de sécurité
 
 Cette section indique comment ajuster la **durée de la sirène** en cas d'alarme et permet la configuration des **temporisations d'entrée/de sortie**. Pour identifier plus facilement les options critiques, elle seront indiquées par une cadre <mark style="color:red;">**rouge**</mark>.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (1) (2).png" alt="" data-size="original"></td><td>Configuration > Centrale</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (3) (2).png" alt="" data-size="original"></td><td>Configuration > Centrale > Sécurité</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (4) (2).png" alt="" data-size="original"></td><td><ol><li><strong>Durée de la sirène</strong> en cas d'alarme.</li><li>Activer cette option permet de retarder l'envoi des alarme de 30 secondes (<strong>il est recommandé de le laisser sur OFF</strong>).</li><li>Ajustement des <strong>temporisations d'entrée/de sortie</strong></li></ol></td><td></td></tr></tbody></table>
 
-### _<mark style="background-color:green;">3.2 Paramètres de la centrale</mark>_
+### 3.2 Paramètres de la centrale
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (1) (2).png" alt="" data-size="original"></td><td>Configuration > Centrale</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (10) (2).png" alt="" data-size="original"></td><td>Configuration > Centrale > Centrale</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (7) (2).png" alt="" data-size="original"></td><td>Polling --> Test vert télésurveilleur</td><td></td></tr></tbody></table>
 
@@ -148,11 +148,11 @@ Si activé, la sirène de la centrale est inactive.
 Fréquence de mise à jour du domaine si un domaine est utilisé à la place d'une IP. Désactiver = pas de mise à jour.
 {% endhint %}
 
-### _<mark style="background-color:green;">3.3 Configuration des codes utilisateurs</mark>_
+### 3.3 Configuration des codes utilisateurs
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Configuration</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (8) (2).png" alt="" data-size="original"></td><td>Configuration > Codes</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (9) (2).png" alt="" data-size="original"></td><td>Ajoutez un nom et un code à chaque utilisateur. Ce code le changement de mode depuis un clavier ou l'application (voir manuel pour plus d'informations). </td><td></td></tr></tbody></table>
 
-### _<mark style="background-color:green;">3.4 Mise à jour de la centrale</mark>_
+### 3.4 Mise à jour de la centrale
 
 Il est essentiel de maintenir la centrale à jour afin de garantir des performances et une sécurité optimales du système. Les mises à jour peuvent contenir des améliorations essentielles, des corrections de bugs et des correctifs de sécurité qui protègent contre les vulnérabilités connues.
 
@@ -172,13 +172,13 @@ ETEINDRE LA CENTRALE PENDANT LA MISE A JOUR PEUT LA RENDRE INOPERANTE.
 
 
 
-### _<mark style="background-color:green;">3.5 Configuration de la transmission vers la télésurveillance</mark>_
+### 3.5 Configuration de la transmission vers la télésurveillance
 
 #### _**Transmission d'évènements**_
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Configuration > Transmissions</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Dans le menu transmission, nous avons la transmission des événements et des images PIRCAMS.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (15) (2).png" alt="" data-size="original"></td><td>Dans ce menu, nous configurons l'URL du télésurveilleur et surtout le GROUPE 2 ou supérieur, car le groupe 1 est utilisé pour l'APP. Voir ANNEXE 1 pour plus d'exemples.</td><td></td></tr></tbody></table>
 
-#### _ANNEXE 1_
+#### ANNEXE 1
 
 {% hint style="success" %}
 Exemples de transmission d'**EVENEMENTS** dans différents protocoles:
@@ -305,7 +305,7 @@ Si la tentative de transmission vers tous les destinataires d'un groupe échoue,
 * Si vous avez besoin d'autres destinataires après le serveur, configurez les en utilisant un **groupe différent** de celui de l'URL 1 pour assurer le bon fonctionnement de la transmission.
 {% endhint %}
 
-#### _3.5.1 Utilisation du logiciel ALARMSPACE comme passerelle pour les protocoles  de communication non normalisés_
+#### 3.5.1 Utilisation du logiciel ALARMSPACE comme passerelle pour les protocoles  de communication non normalisés
 
 Dans le cas ou le télésurveilleur ne supporterait pas l'un des protocoles listés ci-contre (MANITOU, XML, SIA DC09, CID, etc.), **VESTA dispose d'une solution sous forme de passerelle avec le logiciel ALARMSPACE.**
 
@@ -319,7 +319,7 @@ Le logiciel ALARMSPACE peut être installé sur n'importe quelle **base PC Windo
 Pour l'installation, veuillez contacter votre représentant VESTA.
 {% endhint %}
 
-### _<mark style="background-color:green;">3.6 Transmission d'images</mark>_
+### 3.6 Transmission d'images
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Configuration > Transmission</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Dans le menu transmission, nous avons la transmission des événements et des images PIRCAMS.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="original"></td><td>Dans cette section nous configurons l'URL d télésurveilleur pour l'envoi d'images destinataire.</td><td></td></tr></tbody></table>
 
@@ -353,7 +353,7 @@ Etape 2: Programmez l'e-mail fourni par le télésurveilleur dans le menu "Trans
 **IMPORTANT:** Si vous utilisez des caméras intégrées avec VESTA, vous devrez réduire la résolution à 2MP ou moins pour un fonctionnement correct.
 {% endhint %}
 
-## _<mark style="background-color:yellow;">Domotique</mark>_
+## Domotique
 
 La centrale dispose de fonctions de domotique avancées qui offrent un niveau très élevé de fonctionnalités conçues pour maximiser la sécurité du système. Ces fonctionnalités permettent, par exemple, de créer des règles selon lesquelles l'ouverture d'un détecteur d'ouverture déclenche automatiquement la capture d'une image ou l'activation d'un relais pour ouvrir ou fermer des circuits spécifiques. Ces capacités améliorent non seulement l'efficacité du système, mais permettent également d'apporter une réponse rapide et appropriée aux événements de sécurité.
 
@@ -368,7 +368,7 @@ La centrale dispose de fonctions de domotique avancées qui offrent un niveau tr
 Plus d'informations: [Scénarios et règles du système d'alarme VESTA](https://vestasecurity.eu/en/scenes-and-automatic-rules-of-the-vesta-alarm-system/) (anglais)
 {% endhint %}
 
-## _<mark style="background-color:yellow;">Manuels Complets (Anglais)</mark>_
+## Manuels Complets (Anglais)
 
 <figure><img src="../.gitbook/assets/image (51).png" alt="" width="113"><figcaption><p>Hybrid Grade 3</p></figcaption></figure>
 
