@@ -177,8 +177,9 @@
 ## 🧩 Intégrations
 
 * [VTH Dahua avec VESTA](integrations/vth-dahua-avec-vesta.md)
-* [CUDY-21](integrations/cudy-21.md)
+* [CUDY-21](integrations/cudy-avec-vesta.md)
 * [CUDY-35](integrations/cudy-35.md)
+* [TPLINK-144](integrations/tplink-144.md)
 * [SIMALARM](integrations/simalarm.md)
 * [Danalock avec VESTA](integrations/danalock-avec-vesta.md)
 * [Raytec avec VESTA](integrations/raytec-avec-vesta.md)
