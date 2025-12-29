@@ -1,8 +1,8 @@
-# VESTA-010
+# 🇫🇷 VESTA-010
 
 **KP-15-(NT)/ KP-15-(NT)-F1**
 
-### <mark style="color:green;">**Clavier sans fils**</mark>
+### **Clavier sans fils**
 
 
 
@@ -13,7 +13,7 @@ Ce clavier est décliné en deux modèles :
 
 
 
-### _<mark style="background-color:yellow;">**Identification**</mark>_
+### **Identification**
 
 <figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="292"><figcaption></figcaption></figure>
 
@@ -56,7 +56,7 @@ Ce clavier est décliné en deux modèles :
 
 
 
-### _<mark style="background-color:yellow;">**Voyant LED**</mark>_
+### **Voyant LED**
 
 * **LED Verte-Activité:**
   * LED Verte-Activité allumée : le système est en **Mode de fonctionnement normal**.
@@ -78,20 +78,20 @@ NOTE:
 * 4 bips continus retentiront pour indiquer à l'utilisateur que la saisie est incorrecte et l'utilisateur est invité à répéter le processus.
 {% endhint %}
 
-#### _<mark style="background-color:green;">**- Alimentation**</mark>_
+#### **- Alimentation**
 
 * Le clavier utilise une pile au lithium CR2450 3V 540mAH.
 * Le clavier peut également détecter l'état de la batterie. La détection de batterie basse fonctionne lorsque le clavier dispose d'une réserve d'énergie suffisante pour fonctionner généralement pendant 4 mois avant d'être complètement épuisé.
 * Lorsque la batterie du clavier est faible, la LED Orange-Défaut clignote pendant le fonctionnement et un signal de batterie faible sera transmis avec les transmissions de signaux régulières.
 * Avant expédition, la batterie est préinstallée en usine.
 
-#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
+#### **- Autoprotection**
 
 * Le clavier est protégé contre toute tentative d'ouverture du couvercle ou d'arrachement de sa surface d'installation.
 * La détection d'autoprotection est désactivée en mode test.
 * Lorsque l'autoprotection est déclenchée,  un évènement d'autoprotection du clavier sera envoyé à la centrale et la LED Orange-Défaut s'allumera. De plus, pendant l'utilisation du clavier, la LED Orange-Défaut restera allumée pour indiquer le déclenchement de l'autoprotection.
 
-#### _<mark style="background-color:green;">**- Fonction d'économie d'énergie**</mark>_
+#### **- Fonction d'économie d'énergie**
 
 * Lorsque le clavier n'est pas utilisé, aucune énergie n'est consommée. Lorsqu'une touche est utilisée, le clavier s'active pendant 5 secondes.
 * Après 5 secondes d'inactivité, le clavier s'éteint à nouveau et revient en mode veille.
@@ -99,7 +99,7 @@ NOTE:
 
 
 
-### _<mark style="background-color:yellow;">**Mode Test**</mark>_
+### **Mode Test**
 
 * Le clavier peut être mis en mode Test en saisissant le code PIN (par défaut :**0000**) suivi de **\***. La LED verte-Activité clignotera et le clavier émettra un long bip.
 * Pour sortir du mode Test, appuyez sur <img src=".gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> **deux fois**, le clavier émettra un long bip et la LED verte-Activité s'allumera, puis le clavier reviendra en mode de fonctionnement normal.
@@ -135,10 +135,10 @@ NOTE:
 
 
 
-### _<mark style="background-color:yellow;">**Procédures d'apprentissage**</mark>_
+### **Procédures d'apprentissage**
 
-<mark style="color:orange;">**Étape 1.**</mark> Mettez l a centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
-<mark style="color:orange;">**Étape 2.**</mark> Ajout du clavier dans la centrale :
+**Étape 1.** Mettez l a centrale en **Mode d'apprentissage**. Veuillez vous référer au manuel de la centrale.\
+**Étape 2.** Ajout du clavier dans la centrale :
 
 * **Apprentissage en mode test :**
   1. Mettez le clavier en mode Test en saisissant le code (par défaut :**0000**), puis appuyez sur la touche ＊. La LED Verte-Activité s'allumera avec un long bip.
@@ -150,9 +150,9 @@ NOTE:
      **NOTE:** Si le clavier n'a émis aucun bip, cela signifie qu'il n'a pas envoyé le code d'apprentissage à la centrale, veuillez appuyer sur les touches **#** et **＊** simultanément en mode de fonctionnement normal pour envoyer le code d'apprentissage.
   2. Reportez-vous au manuel de la centrale pour terminer le processus d'apprentissage.
 
-<mark style="color:orange;">**Étape 3.**</mark> Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **＊** et **1** en Mode Test ou appuyez sur les touches  **#** et **＊** simultanément en mode normal.\
-<mark style="color:orange;">**Étape 4.**</mark> Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**).\
-<mark style="color:orange;">**Étape 5.**</mark> Réglage du code:&#x20;
+**Étape 3.** Une fois le clavier enregistrée, mettre la centrale en mode **Test de fonctionnement**. Maintenez le clavier à l'emplacement souhaité et envoyez le code d'apprentissage à la centrale pour confirmer que cet emplacement se trouve dans la plage de signal de la centrale. Pour envoyer le code d'apprentissage, soit appuyez sur les touches **＊** et **1** en Mode Test ou appuyez sur les touches  **#** et **＊** simultanément en mode normal.\
+**Étape 4.** Lorsque vous êtes satisfait du fonctionnement du clavier à à l'emplacement choisi, vous pouvez procéder au montage du clavier en suivant les étapes décrites ci-dessous (voir **Montage du clavier**).\
+**Étape 5.** Réglage du code:&#x20;
 
 1. Appuyez sur **＊** et **6**, le clavier émet un bip long.
 2. Saisir **0000** (code par défaut)
@@ -162,7 +162,7 @@ NOTE:
 
 Étape 6. Appuyez sur <img src=".gitbook/assets/image (7) (1) (1).png" alt="" data-size="line"> **deux fois** pour quitter le mode Test et l’installation est terminée.
 
-#### _<mark style="background-color:green;">**- Installation du clavier**</mark>_
+#### **- Installation du clavier**
 
 Pour monter le clavier
 
@@ -174,7 +174,7 @@ Pour monter le clavier
 
 
 
-### _<mark style="background-color:yellow;">**Contrôle du système d'alarme**</mark>_
+### **Contrôle du système d'alarme**
 
 Après avoir terminé l'apprentissage du clavier dans la centrale, l'utilisateur peut changer le mode de fonctionnement du système à l'aide du clavier.\
 Il existe deux manières d'armer le système.
@@ -200,7 +200,7 @@ En mode Test, appuyez sur les touches **＊** et **8** pour activer la fonction 
 * **Armement Partiel:** appuyez sur la touche <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
 * **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7) (1) (1).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
 
-_<mark style="background-color:green;">**- Remplacement de la batterie**</mark>_
+**- Remplacement de la batterie**
 
 1. Mettez la centrale en mode programmation.
 2. Démontez le clavier en retirant d'abord les sections amobibles, puis les vis de montage.
@@ -212,7 +212,7 @@ _<mark style="background-color:green;">**- Remplacement de la batterie**</mark>_
 
 
 
-### _<mark style="background-color:yellow;">**Réinitialisation**</mark>_
+### **Réinitialisation**
 
 {% hint style="info" %}
 _Annexe:_
