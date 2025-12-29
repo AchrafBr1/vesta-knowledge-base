@@ -1,6 +1,6 @@
 # 🇫🇷 VESTA-002N-2W-N
 
-## Kit VESTA 4G
+Kit VESTA 4G
 
 <figure><img src=".gitbook/assets/image.png" alt="" width="225"><figcaption></figcaption></figure>
 
