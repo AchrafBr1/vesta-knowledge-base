@@ -1,10 +1,10 @@
-# VESTA-008-LED
+# 🇫🇷 VESTA-008-LED
 
 **VST-862**
 
-## <mark style="color:green;">**PIRCAM intérieur (alcalines)**</mark>
+## **PIRCAM intérieur (alcalines)**
 
-### _<mark style="background-color:yellow;">**Introduction**</mark>_
+### **Introduction**
 
 VST-862 est détecteur de mouvement infrarouge passif (PIR) avec caméra. Il est capable d'envoyer des signaux RF et des images (qualité d'image jusqu'à 640 x 480 pixels) à la centrale suite à la détection d'un mouvement.\
 Le PIRCAM est conçu pour offrir une portée de détection de 12 mètres lorsqu'il est installé à 2 mètres de haut. Pour les modèles avec immunité animaux,  la portée de l'immunité est de 7 mètres pour 27kg, vos animaux domestiques ne déclencheront pas de fausses alarmes dans les limites énoncées. Pour les modèles compatibles avec le répéteur RP-29/routeur RMB-29 de Climax (**Modèles P5 uniquement**), la portée de communication RF peut être encore étendue pour les zones difficiles à atteindre.\
@@ -23,7 +23,7 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 | VST-862P-IL-(P5)  |                     | OUI        | OUI                  | Modèle P5 uniquement       |
 |                   |                     |            |                      |                            |
 
-### _<mark style="background-color:yellow;">**Identification**</mark>_
+### **Identification**
 
 ![](<.gitbook/assets/0 (21).jpeg>)
 
@@ -51,9 +51,9 @@ Le PIRCAM est composé de deux éléments, le couvercle et la base. Le couvercle
 
 
 
-### _<mark style="background-color:yellow;">**Caractéristiques**</mark>_
+### **Caractéristiques**
 
-#### _<mark style="background-color:green;">**- Voyant LED**</mark>_
+#### **- Voyant LED**
 
 En fonctionnement normal, la LED bleue ne s'allumera pas sauf dans les situations suivantes :\
 \- Lorsque le PIRCAM est en état de batterie faible, chaque fois qu'il transmet un mouvement détecté, la LED bleue clignote pendant 2 secondes.\
@@ -63,7 +63,7 @@ En fonctionnement normal, la LED bleue ne s'allumera pas sauf dans les situation
 \- Lorsque le PIRCAM est en période de démarrage de 30 secondes, la LED bleue clignote lentement.\
 \- Lorsque le PIRCAM transmet des images capturées dans des conditions de défaut (batterie faible, autoprotection), la LED bleue clignote en continu.
 
-#### _<mark style="background-color:green;">**- Capture d'image**</mark>_
+#### **- Capture d'image**
 
 Lorsque le système d'alarme est armé, le PIRCAM capturera 1, 3 ou 6 images d'alarme en résolutions 640 x 480 ou 320 x 240 (programmable depuis la centrale) lors de la détection de mouvement. Vous pouvez également demander manuellement au PIRCAM de prendre une photo via la centrale. Les images capturées seront transférées vers la centrale pour que les utilisateurs puissent les consulter.
 
@@ -72,29 +72,29 @@ Note:\
 Si votre PIRCAM est installé dans un endroit où le champ de vision de la caméra est un environnement complexe avec une lumière intense ou beaucoup de couleurs, les images capturées seront lourdes, ce qui pourrait entraîner une perte lorsque les images sont transmises à la centrale.
 {% endhint %}
 
-#### _<mark style="background-color:green;">**- Période de démarrage**</mark>_
+#### **- Période de démarrage**
 
 Lorsque la centrale est armée ou lorsque le PIRCAM est mis en mode test, un période de démarrage de 30 secondes démarre. Pendant cette période, le PIRCAM ne sera pas actif. La LED bleue clignotera lentement pendant la période de démarrage uniquement lorsque le PIRCAM entre en mode test.
 
-#### _<mark style="background-color:green;">**- Mise en veille**</mark>_
+#### **- Mise en veille**
 
 Quand **JP2** est réglé sur Off, le PIRCAM a une "**mise en veille**" d'environs 1 minute pour économiser de l'énergie. Après avoir transmis un mouvement détecté, le PIRCAM ne retransmettra pas pendant 1 minute. Tout mouvement détecté pendant cette période réinitialisera la temporisation de mise en veille de 1 minute. Un mouvement continu devant le PIRCAM n'épuisera donc pas la batterie.
 
-#### _<mark style="background-color:green;">**- Batteries et détection batterie faible**</mark>_
+#### **- Batteries et détection batterie faible**
 
 Le PIRCAM utilise ses deux **piles alcalines AA de 1,5 V** en série comme source d'énergie. Retirez le couvercle du compartiment des piles et insérez les piles pour activer le PIRCAM.\
 Le PIRCAM dispose d'une fonction de détection de batterie faible. Lorsque la tension de la batterie est faible, le PIRCAM transmet le signal de batterie faible à la centrale. Si un mouvement est détecté dans des conditions de batterie faible, la LED bleue clignote pendant 2 secondes.\
 Lors du changement de batterie, après avoir retiré l'ancienne batterie, appuyez deux fois sur l'autoprotection ou sur le bouton de fonction pour la décharger complètement avant d'insérer de nouvelles piles.
 
-#### _<mark style="background-color:green;">**- Autoprotection**</mark>_
+#### **- Autoprotection**
 
 Le PIRCAM est protégé par une autoprotection qui est compressée lorsque le périphérique est correctement installée. Lorsque le PIRCAM est retiré de la surface montée ou que son couvercle est ouvert, l'autoprotection sera activée et le PIRCAM enverra un signal d'autoprotection à la centrale pour informer l'utilisateur. Si un mouvement est détecté lorsque l'autoprotection est déclenchée, la LED bleue clignote pendant 2 secondes.
 
-#### _<mark style="background-color:green;">**- Supervision**</mark>_
+#### **- Supervision**
 
 Le PIRCAM effectuera périodiquement un auto-test en transmettant un signal de supervision toutes les 90 à 110 minutes.
 
-#### _<mark style="background-color:green;">- Mode test</mark>_
+#### - Mode test
 
 _**-**_ Le mode test permet de vérifier la plage de détection du PIRCAM (et non la couverture de prise de vue).\
 \- Appuyez une fois sur le bouton  de fonction pour passer en mode Test pendant 3 minutes, la LED bleue clignotera pendant 1 seconde.\
@@ -103,7 +103,7 @@ _**-**_ Le mode test permet de vérifier la plage de détection du PIRCAM (et no
 
 
 
-### _<mark style="background-color:yellow;">**Apprentissage**</mark>_
+### **Apprentissage**
 
 _**-**_ Allumez le PIRCAM en retirant l'opercule de la batterie situé sur le couvercle du compartiment de la batterie.\
 \- Mettez la centrale en mode apprentissage, reportez-vous au manuel de la centrale pour plus de détails.\
@@ -117,12 +117,12 @@ NOTE:
 * Lors de l'apprentissage du PIRCAM dans un répéteur/routeur, veuillez appuyer une fois sur le bouton de fonction (au lieu de le maintenir enfoncé pendant 3 secondes) pour envoyer un code d'apprentissage (Modèles P5 uniquement).
 {% endhint %}
 
-#### _<mark style="background-color:green;">**Test de fonctionnement**</mark>_
+#### **Test de fonctionnement**
 
 _**-**_ Une fois le PIRCAM enregistré, mettre la centrale en "**mode test**", maintenez le PIRCAM à l'emplacement souhaité et appuyez sur le bouton de fonction pour confirmer que cet emplacement est à portée de signal de la centrale, reportez-vous au manuel de la centrale pour effectuer le test de fonctionnement.\
 \- Lorsque vous êtes convaincu que le PIRCAM fonctionne à l'emplacement choisi, vous pouvez procéder au montage.
 
-#### _<mark style="background-color:green;">**Modification de la Partition**</mark>_
+#### **Modification de la Partition**
 
 Suivez les instructions ci-dessous pour modifier la partitions d'un PIRCAM dans la centrale d'alarme.\
 1\. Utilisez le menu de configuration depuis la centrale pour modifier la partition du PIRCAM.\
@@ -130,9 +130,9 @@ Suivez les instructions ci-dessous pour modifier la partitions d'un PIRCAM dans 
 
 
 
-### _<mark style="background-color:yellow;">**Installation**</mark>_
+### **Installation**
 
-#### _<mark style="background-color:green;">**- Guide d'installation**</mark>_
+#### **- Guide d'installation**
 
 _**-**_ Le PIRCAM est conçu pour être monté sur une surface plane ou dans un angle avec les vis de fixation et les chevilles fournies.\
 \- La base comporte des découpes, là où le plastique est plus fin, à des fins de montage. Deux découpes sont destinées à la fixation en surface et un support de montage triangulaire est utilisé pour la fixation en angle.\
@@ -168,7 +168,7 @@ _**-**_ Le PIRCAM est conçu pour être monté sur une surface plane ou dans un 
 
 **Assurez-vous de toujours maintenir la force du signal RSSI stable à « 4 ».**
 
-#### _<mark style="background-color:green;">**- Montage du PIRCAM**</mark>_
+#### **- Montage du PIRCAM**
 
 \- Le PIR est conçu pour être monté sur une surface plane ou dans un angle avec les vis de fixation et les chevilles fournies.\
 \- Pour le montage en angle, un support triangulaire est fourni pour ajouter une autoprotection arrière. Le support comprend également deux emplacements de fixation.\
