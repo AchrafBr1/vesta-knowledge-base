@@ -2,7 +2,7 @@
 icon: puzzle-piece
 ---
 
-# Caméras IP Dahua avec VESTA
+# Caméras IP Dahua avec VESTA (FR)
 
 <figure><img src="../.gitbook/assets/dhlogo.png" alt="" width="375"><figcaption></figcaption></figure>
 

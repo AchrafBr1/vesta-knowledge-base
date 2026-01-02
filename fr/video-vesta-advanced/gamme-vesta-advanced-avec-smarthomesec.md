@@ -16,14 +16,14 @@ icon: video
 
 {% stepper %}
 {% step %}
-### Mise à jour de la caméra IP ([vidéo rapide](gamme-vesta-advanced-avec-smarthomesec-fr.md#videos-rapides))
+### Mise à jour de la caméra IP ([vidéo rapide](gamme-vesta-advanced-avec-smarthomesec.md#videos-rapides))
 
 Pour mettre à jour la caméra, suivre les étapes suivantes:
 
 1.  **Téléchargement du firmware**: Assurez-vous d'avoir téléchargé le firmware qui correspond à votre modèle de caméra depuis la liste ci-dessous:<br>
 
     [**Téléchargement**](/broken/pages/mAPTavYKheZkaX25IPPQ)<br>
-2. [**Accéder à l'interface locale**](gamme-vesta-advanced-avec-smarthomesec-fr.md#connexion-a-linterface-locale): Se connecter à l'interface web locale de la caméra (IP par défaut: _192.168.1.86_).
+2. [**Accéder à l'interface locale**](gamme-vesta-advanced-avec-smarthomesec.md#connexion-a-linterface-locale): Se connecter à l'interface web locale de la caméra (IP par défaut: _192.168.1.86_).
 3. **Se rendre dans la configuration**: Cliquez sur le menu "Setup".
 4. **Se rendre dans le menu Système**: Cliquez sur "System'.
 5. **Se rendre dans le menu Mise à jour**: Cliquez sur "Upgrade" et sélectionnez le fichier précédemment téléchargé pour démarrer le processus de mise à jour.

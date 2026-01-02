@@ -2,7 +2,7 @@
 icon: lightbulb-exclamation-on
 ---
 
-# Raytec avec VESTA
+# Raytec avec VESTA (FR)
 
 ## Intégration des projecteurs RAYTEC avec les centrales VESTA
 

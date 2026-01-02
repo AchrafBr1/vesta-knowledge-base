@@ -176,20 +176,20 @@
 
 ## 🧩 Intégrations
 
-* [VTH Dahua avec VESTA (FR)](integrations/vth-dahua-avec-vesta-fr.md)
-* [CUDY-21 (FR)](integrations/cudy-21-fr.md)
-* [CUDY-35 (FR)](integrations/cudy-35-fr.md)
-* [TPLINK-144 (FR)](integrations/tplink-144-fr.md)
-* [SIMALARM (FR)](integrations/simalarm-fr.md)
+* [VTH Dahua avec VESTA (FR)](integrations/vth-dahua-avec-vesta.md)
+* [CUDY-21 (FR)](integrations/cudy-avec-vesta.md)
+* [CUDY-35 (FR)](integrations/cudy-35.md)
+* [TPLINK-144 (FR)](integrations/tplink-144.md)
+* [SIMALARM (FR)](integrations/simalarm.md)
 * [🛡️ ALARMSPACE](integrations/alarmspace.md)
-* [Danalock avec VESTA (FR)](integrations/danalock-avec-vesta-fr.md)
-* [Raytec avec VESTA (FR)](integrations/raytec-avec-vesta-fr.md)
-* [Caméras IP Dahua avec VESTA (FR)](integrations/cameras-ip-dahua-avec-vesta-fr.md)
+* [Danalock avec VESTA (FR)](integrations/danalock-avec-vesta.md)
+* [Raytec avec VESTA (FR)](integrations/raytec-avec-vesta.md)
+* [Caméras IP Dahua avec VESTA (FR)](integrations/cameras-ip-dahua-avec-vesta.md)
 
 ## ❓ Trucs et astuces
 
 * [MODÈLES](trucs-et-astuces/models_fr.md)
-* [Liste des évènements CID (FR)](trucs-et-astuces/liste-des-evenements-cid-fr.md)
+* [Liste des évènements CID (FR)](trucs-et-astuces/liste-des-evenements-cid.md)
 * [Conseils BUS V-MAX (FR)](trucs-et-astuces/vmax-bus-tips_fr.md)
 
 ## Guides d'installation
@@ -204,8 +204,8 @@
 
 ## Vidéo VESTA ADVANCED
 
-* [Gamme Vesta Advanced (avec SmartHomeSec) (FR)](video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec-fr.md)
-* [Gamme Vesta Advanced (Autonome)](video-vesta-advanced/gamme-vesta-advanced-autonome.md)
+* [Gamme Vesta Advanced (avec SmartHomeSec) (FR)](video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec.md)
+* [Gamme Vesta Advanced (Autonome) (FR)](video-vesta-advanced/gamme-vesta-advanced-autonome-fr.md)
 * [Caméras IP VESTA ADVANCED B24, D24, T24, B35, T35, B38, T38](video-vesta-advanced/cameras-ip-vesta-advanced-b24-d24-t24-b35-t35-b38-t38.md)
 
 ## Mises à jour VESTA Advanced

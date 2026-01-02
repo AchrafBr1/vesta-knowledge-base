@@ -6,7 +6,7 @@ description: >-
 icon: tv
 ---
 
-# VTH Dahua avec VESTA
+# VTH Dahua avec VESTA (FR)
 
 <figure><img src="../.gitbook/assets/dahua_res.webp" alt="" width="188"><figcaption></figcaption></figure>
 

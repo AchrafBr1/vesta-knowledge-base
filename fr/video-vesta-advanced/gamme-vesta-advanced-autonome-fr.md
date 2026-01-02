@@ -2,13 +2,13 @@
 icon: video
 ---
 
-# Gamme Vesta Advanced (Autonome)
+# Gamme Vesta Advanced (Autonome) (FR)
 
 ## Etes-vous prêt à découvrir la nouvelle gamme de caméras VESTA ADVANCED?
 
 {% embed url="https://drive.google.com/file/d/1snvNV-L2JUDdsPN4qwz1_Xb32DzoiepE/view?usp=sharing" %}
 
-### _<mark style="background-color:yellow;">Comment intégrer les caméras VESTA ADVANCED ou NVRs  en mode autonome</mark>_ <a href="#how-to-integrate-advanced-video-cameras-or-nvrs-in-stand-alone-cctv-mode" id="how-to-integrate-advanced-video-cameras-or-nvrs-in-stand-alone-cctv-mode"></a>
+### Comment intégrer les caméras VESTA ADVANCED ou NVRs  en mode autonome <a href="#how-to-integrate-advanced-video-cameras-or-nvrs-in-stand-alone-cctv-mode" id="how-to-integrate-advanced-video-cameras-or-nvrs-in-stand-alone-cctv-mode"></a>
 
 Pour configurer vos caméras VESTA ADVANCED ou vos NVRs en mode autonome, suivez ces étapes simples:
 
@@ -35,11 +35,11 @@ C'est tout ! Une fois l'enregistrement effectué, vous pourrez visualiser et gé
 
 ## Vidéos rapides
 
-### _<mark style="background-color:yellow;">- Comment mettre à jour une caméra ou un NVR VESTA ADV - Etape par étape</mark>_
+### - Comment mettre à jour une caméra ou un NVR VESTA ADV - Etape par étape
 
 {% embed url="https://www.youtube.com/watch?v=Y9w5Lkq4Zjg" %}
 
-### _<mark style="background-color:yellow;">- Comment configurer les règles IVS sur les caméras VESTA ADV</mark>_&#x20;
+### - Comment configurer les règles IVS sur les caméras VESTA ADV&#x20;
 
 Les règles de **vidéosurveillance intelligente (IVS)** sont des algorithmes avancés d'analyse vidéo utilisés pour améliorer les fonctionnalités de votre caméra VESTA ADV ou de votre NVR. Ces règles permettent au système de détecter automatiquement certains événements et d'y réagir, ce qui améliore la sécurité et réduit les fausses alarmes. Les règles IVS courantes comprennent :
 
@@ -51,7 +51,7 @@ Pour programmer les règles IVS dans votre système VESTA ADV, procédez comme s
 
 {% embed url="https://www.youtube.com/watch?v=jQ_gjPbs73A" %}
 
-### _<mark style="background-color:yellow;">- Comment configurer l'enregistrement continu sur la carte MicroSD de la caméra IP:</mark>_
+### - Comment configurer l'enregistrement continu sur la carte MicroSD de la caméra IP:
 
 1. **Configuration du stockage:**
    * Se rendre dans le menu "**Storage**".
@@ -60,7 +60,7 @@ Pour programmer les règles IVS dans votre système VESTA ADV, procédez comme s
 
 <figure><img src="../.gitbook/assets/step-step-SD.gif" alt=""><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">**Connexion à l'interface locale:**</mark>_&#x20;
+### Connexion à l'interface locale:&#x20;
 
 {% hint style="success" %}
 **Etape 1:** Ouvrir un navigateur, saisir l'adresse IP de la caméra dans la barre d'adresse (par défaut **192.168.1.86**) puis valider.

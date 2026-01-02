@@ -5,7 +5,7 @@ description: >-
 icon: sim-card
 ---
 
-# SIMALARM
+# SIMALARM (FR)
 
 ### **Informations sur SIMALARM**
 

@@ -2,7 +2,7 @@
 icon: router
 ---
 
-# CUDY-21
+# CUDY-21 (FR)
 
 ## Mise à jour du routeur CUDY-21 pour l'intégration VESTA
 

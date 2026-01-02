@@ -2,7 +2,7 @@
 icon: door-open
 ---
 
-# Danalock avec VESTA
+# Danalock avec VESTA (FR)
 
 ### **Introduction**
 

@@ -2,7 +2,7 @@
 icon: router
 ---
 
-# CUDY-35
+# CUDY-35 (FR)
 
 ## Dongle WiFi AC650 pour centrales VESTA
 

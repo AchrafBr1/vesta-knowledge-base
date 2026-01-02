@@ -2,7 +2,7 @@
 icon: router
 ---
 
-# TPLINK-144
+# TPLINK-144 (FR)
 
 ## Adaptateur USB WiFi 150Mbps Wireless N Nano pour centrales VESTA-243
 
