@@ -29,7 +29,7 @@ VSS permet l'intégration de plusieurs caméras et améliore les opérations de 
 
 ### Performance Local Optimisée
 
-Gestion en temps réel du réseau, du processeur et de la mémoire pour assurer une utilisation fiale et fluide.
+Gestion en temps réel du réseau, du processeur et de la mémoire pour assurer une utilisation fiable et fluide.
 
 ### Manuel
 
@@ -41,6 +41,6 @@ Pour télécharger le logiciel VSS pour VESTA Advanced, veuillez utiliser le lie
 
 <figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption></figcaption></figure>
 
-<p align="center"><a href="https://gofile.me/7yryF/49mqxKch8"><strong>Télécharger VSS pour windows</strong></a></p>
+<p align="center"><a href="https://vestasecurity-my.sharepoint.com/personal/vesta_vestasecurity_eu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvesta%5Fvestasecurity%5Feu%2FDocuments%2FVestaSecurity%2FSoftware%2FVSS&#x26;ga=1"><strong>Télécharger VSS pour windows</strong></a></p>
 
 <p align="center">Mise à jour VSS du 05/11/2025 </p>
