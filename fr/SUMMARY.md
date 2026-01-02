@@ -211,6 +211,10 @@
 ## CAMERAS IP VESTA ADVANCED
 
 * [IPC-B12-E (FR)](cameras-ip-vesta-advanced/ipc-b12-e-fr.md)
+* [IPC-T12-E (FR)](cameras-ip-vesta-advanced/ipc-t12-e-fr.md)
+* [IPC-B14-E (FR)](cameras-ip-vesta-advanced/ipc-b14-e-fr.md)
+* [IPC-T14-E (FR)](cameras-ip-vesta-advanced/ipc-t14-e-fr.md)
+* [IPC-D14-E (FR)](cameras-ip-vesta-advanced/ipc-d14-e-fr.md)
 
 ## Mises à jour VESTA Advanced
 

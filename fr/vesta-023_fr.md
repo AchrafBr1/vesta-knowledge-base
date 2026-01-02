@@ -169,7 +169,7 @@ Comme les conditions de fonctionnement du détecteur de fumée peuvent varier ap
 
 ### **Installation**
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="220"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="220"><figcaption></figcaption></figure>
 
 ### **Directive d'installation**
 
