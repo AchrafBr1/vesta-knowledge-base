@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## Boîte de jonction
 
-<figure><img src="../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Caractéristiques
 

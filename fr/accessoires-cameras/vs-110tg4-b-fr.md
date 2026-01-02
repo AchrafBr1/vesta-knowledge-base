@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## Boîte de jonction extérieure VESTA
 
-<figure><img src="../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Caractéristiques
 

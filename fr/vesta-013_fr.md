@@ -78,7 +78,7 @@ Il est également capable de détecter une batterie faible. Lorsque la batterie 
 
 #### **- Changement de batterie**
 
-<figure><img src=".gitbook/assets/image (25).png" alt="" width="349"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25) (1).png" alt="" width="349"><figcaption></figcaption></figure>
 
 Vous devez ouvrir le couvercle pour insérer/retirer la batterie\
 (Prière de se référer à la rubrique **Installation** pour retirer correctement le couvercle)\

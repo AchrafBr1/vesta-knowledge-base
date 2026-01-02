@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## Support mural VESTA
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Caractéristiques
 

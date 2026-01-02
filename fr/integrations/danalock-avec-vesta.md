@@ -10,15 +10,15 @@ Ce document vous guidera étape par étape dans le processus d'installation, d'a
 
 {% tabs %}
 {% tab title="SALTO-017" %}
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-017">SALTO-017</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-017">SALTO-017</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="SALTO-15" %}
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-015/especificaciones">SALTO-015</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-015/especificaciones">SALTO-015</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="SALTO-005" %}
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-005">UE Cylinder adapter; SALTO-005</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-005">UE Cylinder adapter; SALTO-005</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -40,7 +40,7 @@ Si votre centrale ne possède pas le Z-WAVE, vous pouvez installer le module [VE
 Si vous avez un cylindre à double débrayage et que vous souhaitez conserver vos clés, vous devrez utiliser l'adaptateur [SALTO-005](https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-005).&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://danalock.com/Download/262/key-turner-for-danalock-v3-4-manuals/id:LVadaoMcVWAAAAAAAAAE3g/Inst_Guide_KEY_TURNER_ADAPTER_DCSLAE_Euro%20Profile_For_DANALOCK_V3_225741?_gl=1*1a8j53d*_ga*MTg3NjUzNzk3My4xNzI0NDI3MDMz*_up*MQ..*_ga_DKYNTPZRT6*MTcyNDQyNzAzMi4xLjEuMTcyNDQyNzA5MS4wLjAuMA..">Manual Guide to install key adapter</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://danalock.com/Download/262/key-turner-for-danalock-v3-4-manuals/id:LVadaoMcVWAAAAAAAAAE3g/Inst_Guide_KEY_TURNER_ADAPTER_DCSLAE_Euro%20Profile_For_DANALOCK_V3_225741?_gl=1*1a8j53d*_ga*MTg3NjUzNzk3My4xNzI0NDI3MDMz*_up*MQ..*_ga_DKYNTPZRT6*MTcyNDQyNzAzMi4xLjEuMTcyNDQyNzA5MS4wLjAuMA..">Manual Guide to install key adapter</a></p></figcaption></figure>
 
 
 
@@ -63,21 +63,21 @@ Avant d'ajouter le verrou à une centrale VESTA, il est crucial de réaliser une
 
 #### Etape 1: Accédez à la configuration de la centrale depuis l'app en mdoe installateur:
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Installer -> Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Installer -> Settings</p></figcaption></figure>
 
 #### Etape 2: Choisir "Périphériques" dans le menu.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
 
 #### Etape 3: Choisir ensuite le mode "Exclusion".
 
 <figure><img src="https://vesta-guide.gitbook.io/~gitbook/image?url=https%3A%2F%2F1580875003-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZJzpNocHhYVmD43GZobR%252Fuploads%252Fgit-blob-57cf8661f10d9a1a81f5c73c9d4b8a9cb1155299%252Fimage%2520%2823%29.png%3Falt%3Dmedia&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=ae3d2057&#x26;sv=1" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Select EXCLUDE</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Select EXCLUDE</p></figcaption></figure>
 
 #### Etape 4. Cliquez une fois sur le bouton du verrou.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt="" width="375"><figcaption><p>Press button 1 time for Inclusion/exclusion </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="375"><figcaption><p>Press button 1 time for Inclusion/exclusion </p></figcaption></figure>
 
 
 
@@ -93,13 +93,13 @@ Il est crucial d'avoir exécuté le mode exclusion avant.
 
 **Etape 1:** Dans la liste des périphériques, choisir "Ajouter périphériques":&#x20;
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Etape 2:** Cliquez sur le bouton du verrou une fois.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt="" width="375"><figcaption><p>Press button 1 time for Inclusion/exclusion </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="375"><figcaption><p>Press button 1 time for Inclusion/exclusion </p></figcaption></figure>
 
 
 
@@ -107,7 +107,7 @@ Il est crucial d'avoir exécuté le mode exclusion avant.
 Lorsque le bouton aura été utilisé une fois, <mark style="color:green;">la led verte du verrou clignotera</mark>, avec la centrale en mode ajout, **patientez pendant 1 minute**. Dans l'app SmartHomeSec, lorsque le verrou s'affichera, vous pourrez l'ajouter et le contrôler depuis le menu Domotique :tada:
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Etalonnage**
 
@@ -116,7 +116,7 @@ Pour étalonner le verrou, suivez les étapes suivantes avec attention:
 * **Mettre le verrou en position déverrouillée**: Tournez le verrou en position déverrouillée. Si nécessaire, lever la poignée.
 * **Etalonnage**: Cliquez sur le **bouton** du verrou **3 fois de suite**. Le verrou se calibrera automatiquement et s'arrêtera en position verrouillée.
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption><p>Auto-Calibration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt="" width="375"><figcaption><p>Auto-Calibration</p></figcaption></figure>
 
 * **Ajustement de la position déverrouillée**: Tournez le verrou dans la position où il est juste déverrouillé (pas plus loin). Cliquez sur le bouton du verrou une fois.
 * **Ajustement de la position verrouillée:** Tournez le verrou dans la position où il est juste verrouillé (pas plus loin). Cliquez sur le bouton du verrou une foi.
@@ -135,7 +135,7 @@ Pour étalonner le verrou, suivez les étapes suivantes avec attention:
 
 ### Danalock V3 - commandes par clics
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### &#x20;Comment changer les batteries?&#x20;
 

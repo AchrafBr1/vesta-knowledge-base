@@ -169,7 +169,7 @@ _**-**_ Le PIRCAM est conçu pour être monté sur une surface plane ou dans un 
   4\. Vissez le support triangulaire dans les chevilles murales avec les deux pions de fixation en haut face à vous.\
   5\. Fixez le PIRCAM sur les crochets du support triangulaire.
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt="" width="156"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="156"><figcaption></figcaption></figure>
 
 * **Montage en applique :**\
   1\. Ouvrez le couvercle en desserrant la vis à l'aide d'un tournevis Philips.\

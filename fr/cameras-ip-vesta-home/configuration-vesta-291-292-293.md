@@ -93,7 +93,7 @@ Pour continuer:
 * Vérifiez si la led de la caméra est <mark style="color:green;">**VERTE**</mark>**&#x20;**<mark style="color:$primary;">**fixe**</mark> (non clignotante).
 * Si c'est le cas, revenez à l'étape précédente et sélectionnez ETHERNET au lieu de Wi-Fi — la configuration devrait alors fonctionner correctement..
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
 {% endhint %}
 
 <mark style="color:orange;">**Etape 9:**</mark> Connectez votre téléphone à la caméra en cliquant sur "Rejoindre" (selon le modèle de téléphone cette étape est optionnelle).\
@@ -142,7 +142,7 @@ CONFIGURATION TERMINEE
 
 3\.   Assurez-vous d'avoir donné à l'application la permission de se connecter aux réseaux Wi-Fi et, si elle demande les autorisations acceptées les.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Autorisation Wi-Fi</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Autorisation Wi-Fi</p></figcaption></figure>
 
 ***
 
