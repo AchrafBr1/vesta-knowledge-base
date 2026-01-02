@@ -15,7 +15,7 @@ Ce clavier est décliné en deux modèles :
 
 ### **Identification**
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="292"><figcaption></figcaption></figure>
 
 **1. LED Verte-Activité**
 
@@ -190,14 +190,14 @@ Le désarmement du système nécessite toujours la saisie du code utilisateur.
 En mode Test, appuyez sur les touches **＊** et **9** pour activer la fonction Armement avec code (**par défaut**).
 
 * **Armement Total:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (11) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état s'allumera accompagnée d'un bip long.
-* **Armement Partiel:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
+* **Armement Partiel:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
 * **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
 
 **Armement Total/Partiel sans code utilisateur**\
 En mode Test, appuyez sur les touches **＊** et **8** pour activer la fonction Armement sans code.
 
 * **Armement Total:** appuyez sur la touche <img src=".gitbook/assets/image (11) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état s'allumera accompagnée d'un bip long.
-* **Armement Partiel:** appuyez sur la touche <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
+* **Armement Partiel:** appuyez sur la touche <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">. Si aucun défaut n'est détecté et que l'armement est réalisé, la LED rouge d'état clignotera 4 fois accompagnée de 3 bips long
 * **Désarmement:** Saisir un code utilisateur et appuyer sur la touche <img src=".gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line">. Si le désarmement est réalisé, la LED d'état s'allumera accompagnée de 2 bips.
 
 **- Remplacement de la batterie**
