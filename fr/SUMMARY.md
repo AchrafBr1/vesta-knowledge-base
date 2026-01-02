@@ -219,10 +219,10 @@
 
 ## ACCESSOIRES CAMERAS
 
-* [PF180 (FR)](accessoires-cameras/pf180-fr.md)
+* [PF180 (FR)](accessoires-cameras/pf180.md)
 * [PFB180-B (FR)](accessoires-cameras/pfb180-b-fr.md)
-* [SAM-4705](accessoires-cameras/sam-4705.md)
-* [SAM-4712](accessoires-cameras/sam-4712.md)
+* [SAM-4705 (FR)](accessoires-cameras/sam-4705-fr.md)
+* [SAM-4712 (FR)](accessoires-cameras/sam-4712-fr.md)
 * [SAM-4963](accessoires-cameras/sam-4963.md)
 * [VFA130-E](accessoires-cameras/vfa130-e.md)
 * [VFA130-E-B](accessoires-cameras/vfa130-e-b.md)

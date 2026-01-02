@@ -2,16 +2,17 @@
 icon: circle-xmark
 ---
 
-# SAM-4705
+# SAM-4705 (FR)
 
-## Wall mount bracket
+## Support mural
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Specifications
+### Caractéristiques
 
-* Wall mount bracket
-* Aluminum
-* 1 kg load
+* Support mural
+* Aluminium
+* Charge: 1 kg
+* Couleur: blanc
 * Dimensions: 160 x 122 x 76
-* Weight: 500 g
+* Poids: 500 g
