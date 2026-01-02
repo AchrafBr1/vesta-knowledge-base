@@ -210,7 +210,7 @@
 
 ## Mises à jour VESTA Advanced
 
-* [Firmwares - VESTA Advanced](mises-a-jour-vesta-advanced/firmwares-vesta-advanced.md)
+* [Firmwares - VESTA Advanced (FR)](mises-a-jour-vesta-advanced/firmwares-vesta-advanced-fr.md)
 
 ## Outils et logiciels
 
