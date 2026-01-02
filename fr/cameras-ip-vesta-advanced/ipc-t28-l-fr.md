@@ -21,14 +21,14 @@ icon: video
 
 {% tabs %}
 {% tab title="VS-1280ZJ-DM18" %}
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vs-1280zj-dm18-fr.md">VS-1280ZJ_DM18</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vs-1280zj-dm18-fr.md">VS-1280ZJ_DM18</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="SAM-4705" %}
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/sam-4705-fr.md">SAM-4705</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/sam-4705-fr.md">SAM-4705</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

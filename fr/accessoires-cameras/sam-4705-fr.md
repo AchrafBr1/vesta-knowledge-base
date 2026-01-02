@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## Support mural
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Caractéristiques
 

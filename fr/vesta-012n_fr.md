@@ -162,7 +162,7 @@ Le clavier est capable de transmettre les informations des badges à la centrale
 
 **Sortir du mode test :**
 
-* Appuyez sur la touche <img src=".gitbook/assets/image (12) (1) (1) (1).png" alt="" data-size="line"> **deux fois** pour quitter le mode test. Autrement, le clavier sortira automatiquement du mode programmation après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un bip long.
+* Appuyez sur la touche <img src=".gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" data-size="line"> **deux fois** pour quitter le mode test. Autrement, le clavier sortira automatiquement du mode programmation après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un bip long.
 
 
 

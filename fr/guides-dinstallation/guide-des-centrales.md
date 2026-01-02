@@ -15,7 +15,7 @@ Ce manuel est conçu pour les techniciens, les intégrateurs et les utilisateurs
 
 ### 1.1 Enregistrement de la centrale en mode Installateur
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter comme un installateur sur l'app <a href="../../guia-de-usuario-smarthomesec.md">SmartHomeSec</a>.</td><td><img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  2:</strong> Cliquez sur le bouton +  (ajouter une centrale).</td><td><img src="../.gitbook/assets/image (10) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  3:</strong> Saisir l'adresse MAC de la centrale qui se trouve sur l'étiquette de la centrale.</td><td><img src="../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt="" data-size="original"></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter comme un installateur sur l'app <a href="../../guia-de-usuario-smarthomesec.md">SmartHomeSec</a>.</td><td><img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  2:</strong> Cliquez sur le bouton +  (ajouter une centrale).</td><td><img src="../.gitbook/assets/image (10) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  3:</strong> Saisir l'adresse MAC de la centrale qui se trouve sur l'étiquette de la centrale.</td><td><img src="../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td></tr></tbody></table>
 
 Une fois la centrale enregistrée en mode Installateur, elle est prête pour la configuration.
 

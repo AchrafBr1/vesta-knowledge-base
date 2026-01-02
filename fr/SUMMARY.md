@@ -224,7 +224,10 @@
 * [IPC-D24-ZAS-L (FR)](cameras-ip-vesta-advanced/ipc-d24-zas-l-fr.md)
 * [IPC-D24-ZAS-L-B (FR)](cameras-ip-vesta-advanced/ipc-d24-zas-l-b-fr.md)
 * [IPC-B26-L-MC (FR)](cameras-ip-vesta-advanced/ipc-b26-l-mc-fr.md)
-* [IPC-T26-L-MC](cameras-ip-vesta-advanced/ipc-t26-l-mc.md)
+* [IPC-T26-L-MC (FR)](cameras-ip-vesta-advanced/ipc-t26-l-mc-fr.md)
+* [IPC-B34-AS-PV (FR)](cameras-ip-vesta-advanced/ipc-b34-as-pv-fr.md)
+* [IPC-B34-AS-PV-B (FR)](cameras-ip-vesta-advanced/ipc-b34-as-pv-b-fr.md)
+* [IPC-B34-ZAS-PV (FR)](cameras-ip-vesta-advanced/ipc-b34-zas-pv-fr.md)
 
 ## Mises à jour VESTA Advanced
 

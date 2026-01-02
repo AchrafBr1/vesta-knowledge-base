@@ -25,11 +25,11 @@ icon: video
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFB203W" %}
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfb203w-fr.md">VFB203W</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfb203w-fr.md">VFB203W</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA130-E" %}
