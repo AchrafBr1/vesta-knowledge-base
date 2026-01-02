@@ -1,0 +1,21 @@
+---
+icon: circle-xmark
+---
+
+# PF180 (FR)
+
+## Boîte de jonction pour caméras dôme ou tubes
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+### Caractéristiques
+
+* Fabriqué en aluminium haute résistance
+* Compatible avec les caméras dômes ou tubes
+* Conception compacte pour une installation murale
+* Couleur : blanc
+* Température de fonctionnement : -40 °C à +60 °C.
+* Humidité relative : <90 % HR
+* Dimensions: 130 × 130 × 56.8 mm
+* Poids net : 0,34 kg
+* Charge maximale supportée : 3,0 kg

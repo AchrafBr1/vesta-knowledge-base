@@ -1,6 +1,10 @@
+---
+icon: circle-xmark
+---
+
 # VS-1280ZJ-XS-BLACK
 
-### VS-1280ZJ-XS-BLACK
+## Aluminium junction box
 
 <figure><img src="../.gitbook/assets/image (22).png" alt="" width="375"><figcaption></figcaption></figure>
 

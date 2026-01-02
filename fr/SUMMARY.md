@@ -219,8 +219,8 @@
 
 ## ACCESSOIRES CAMERAS
 
-* [PF180](accessoires-cameras/pf180.md)
-* [PFB180-B](accessoires-cameras/pfb180-b.md)
+* [PF180 (FR)](accessoires-cameras/pf180-fr.md)
+* [PFB180-B (FR)](accessoires-cameras/pfb180-b-fr.md)
 * [SAM-4705](accessoires-cameras/sam-4705.md)
 * [SAM-4712](accessoires-cameras/sam-4712.md)
 * [SAM-4963](accessoires-cameras/sam-4963.md)
