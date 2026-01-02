@@ -1,9 +1,8 @@
 ---
 hidden: true
-icon: circle-chevron-right
 ---
 
-# VESTA 024
+# VESTA-024 (FR)
 
 **VST-862EX**
 

@@ -1,4 +1,4 @@
-# 🇫🇷 VESTA-012N-NOTAG
+# VESTA-012N-NOTAG (FR)
 
 **KPT-39N-BLE sans badges**
 

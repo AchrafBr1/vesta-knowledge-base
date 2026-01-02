@@ -1,4 +1,4 @@
-# 🇫🇷 VESTA-022
+# VESTA-022 (FR)
 
 SD-8-EL / SD-8-EL-F1
 

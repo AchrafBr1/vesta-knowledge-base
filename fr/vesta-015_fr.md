@@ -1,4 +1,4 @@
-# 🇫🇷 VESTA-015
+# VESTA-015 (FR)
 
 **IRD-23 / IRD-23SL**
 

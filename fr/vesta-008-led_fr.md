@@ -1,4 +1,4 @@
-# 🇫🇷 VESTA-008-LED
+# VESTA-008-LED (FR)
 
 **VST-862**
 

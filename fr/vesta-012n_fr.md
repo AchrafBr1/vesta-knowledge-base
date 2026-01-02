@@ -1,4 +1,4 @@
-# 🇫🇷 VESTA-012N
+# VESTA-012N (FR)
 
 **KPT39N-BLE**
 
