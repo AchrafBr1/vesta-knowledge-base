@@ -215,4 +215,4 @@
 ## Outils et logiciels
 
 * [Vesta Config Tool](outils-et-logiciels/vesta-config-tool.md)
-* [VSS software](outils-et-logiciels/vss-software.md)
+* [VSS software (FR)](outils-et-logiciels/vss-software-fr.md)
