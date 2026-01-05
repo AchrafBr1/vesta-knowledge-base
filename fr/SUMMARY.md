@@ -255,7 +255,12 @@
 
 ## NVR VESTA ADVANCED
 
-* [NVR2106M](nvr-vesta-advanced/nvr2106m.md)
+* [NVR2106M (FR)](nvr-vesta-advanced/nvr2106m-fr.md)
+* [NVR2106M-4P (FR)](nvr-vesta-advanced/nvr2106m-4p-fr.md)
+* [NVR2110M (FR)](nvr-vesta-advanced/nvr2110m-fr.md)
+* [NVR2110M-8P (FR)](nvr-vesta-advanced/nvr2110m-8p-fr.md)
+* [NVR2116M (FR)](nvr-vesta-advanced/nvr2116m-fr.md)
+* [NVR2116M-8P (FR)](nvr-vesta-advanced/nvr2116m-8p-fr.md)
 
 ## Mises à jour VESTA Advanced
 

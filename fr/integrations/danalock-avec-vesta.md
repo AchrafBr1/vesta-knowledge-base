@@ -14,7 +14,7 @@ Ce document vous guidera étape par étape dans le processus d'installation, d'a
 {% endtab %}
 
 {% tab title="SALTO-15" %}
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-015/especificaciones">SALTO-015</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/SALTO-015/especificaciones">SALTO-015</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="SALTO-005" %}

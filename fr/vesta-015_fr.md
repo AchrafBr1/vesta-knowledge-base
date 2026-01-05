@@ -28,7 +28,7 @@ Le détecteur PIR dôme est décliné en 2 modèles :\
 3. **Cavalier d'augmentation de sensibilité (JP3)**\
    Le cavalier est inséré pour relier les deux broches.\
    \- Cavalier On : le niveau de sensibilité du PIR est réglé sur Haut. <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">\
-   \- Cavalier Off : le niveau de sensibilité du PIR est réglé sur Normal (**par défaut**). <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
+   \- Cavalier Off : le niveau de sensibilité du PIR est réglé sur Normal (**par défaut**). <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
 4. **Autoprotection**\
    L'autoprotection protège le détecteur PIR en cas d'ouverture/d'arrachement.
 5. **Batterie**\

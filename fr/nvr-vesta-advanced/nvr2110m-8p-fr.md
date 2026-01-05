@@ -1,0 +1,56 @@
+---
+icon: video-plus
+---
+
+# NVR2110M-8P (FR)
+
+## NVR Entry Serie - 10 canaux avec 8 ports PoE
+
+<figure><img src="../.gitbook/assets/image (68).png" alt="" width="375"><figcaption><p>NVR2110M-8P</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+
+### Caractéristiques
+
+* 10 canaux IP
+* Compression vidéo: H.265 et H.264
+* Sorties vidéo simultanée HDMI (4K) et VGA (1080P)
+* Multi-vision: 1, 4,  9, 16
+* 1 entrée / 1 sortie audio RCA
+* Audio bidirectionnelle
+* Compression audio: G.711a
+* Résolution d'enregistrement jusqu'à 8MP (3840x2160)
+* Bande passante: 138 Mbps in, 138 Mbps out
+* Capacité de décodage:
+  * 1 canal en 8MP (30 fps)
+  * 4 canaux en 1080P (30 fps)
+* Support du décodage adaptatif
+* Modes d'enregistrement manuel, planning (continu, détection vidéo, alarme, intelligence)
+* Liaison d'alarme: Enregistrement, Capture, Buzzer, Journal, Preset, Email
+* Support de la capture d'image au format JPEG
+* IA depuis les caméras:
+  * Protection périmétrique (zone, ligne)
+  * Détection de visage
+  * Comptage de personne
+  * Détection de mouvement intelligente
+* IA depuis l'enregistreur:
+  * Indisponible
+* Recherche IA par classification de cible (personne, véhicule motorisé ou non)
+* Lecture synchronisées jusqu'à 10 canaux
+* Capacité interner  de 1 disque dur SATA jusqu'à 14To (vendu séparément)
+* 8 ports PoE (802.3af) (10/100Mbps)
+* Port réseau RJ45 Fast Ethernet (10/100Mbps)
+* Protocoles réseau: HTTP, TCP/IP, IPv4, UPnP, SNMP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, DDNS, FTP, P2P, Auto register
+* Supporte Onvif et SDK
+* Compatible avec IE8 ou version ultérieure
+* Compatible avec périphériques Android et iOS
+* Ports de communication: 2 ports USB 2.0
+* Alimentation: 12V DC, 2A
+* Consommation: 7 W (disque dur exclus)
+* Température de fonctionnement -10°C \~ +55°C
+* Humidité relative 10%\~90% (sans condensation)
+* Boîtier métal
+* Dimensions: 255 (L) x 42 (H) x 222 mm (Mini 1U)
+* Poids: 900 g
+* Installation type bureau
+* Certifié CE/FCC

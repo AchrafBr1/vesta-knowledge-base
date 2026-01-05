@@ -2,25 +2,25 @@
 icon: video-plus
 ---
 
-# NVR2106M
+# NVR2116M-8P (FR)
 
-## NVR Entry Serie - 6 canaux
+## NVR Entry Serie - 16 canaux avec 8 ports PoE
 
-<figure><img src="../.gitbook/assets/image (68).png" alt="" width="375"><figcaption><p>NVR2106M</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68).png" alt="" width="375"><figcaption><p>NVR2116M-8P</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Caractéristiques
 
-* 6 canaux IP
+* 16 canaux IP
 * Compression vidéo: H.265 et H.264
 * Sorties vidéo simultanée HDMI (4K) et VGA (1080P)
-* Multi-vision: 1, 4
+* Multi-vision: 1, 4,  9, 16
 * 1 entrée / 1 sortie audio RCA
 * Audio bidirectionnelle
 * Compression audio: G.711a
 * Résolution d'enregistrement jusqu'à 8MP (3840x2160)
-* Bande passante: 88 Mbps in, 88 Mbps out
+* Bande passante: 138 Mbps in, 138 Mbps out
 * Capacité de décodage:
   * 1 canal en 8MP (30 fps)
   * 4 canaux en 1080P (30 fps)
@@ -36,8 +36,9 @@ icon: video-plus
 * IA depuis l'enregistreur:
   * Indisponible
 * Recherche IA par classification de cible (personne, véhicule motorisé ou non)
-* Lecture synchronisées jusqu'à 6 canaux
+* Lecture synchronisées jusqu'à 16 canaux
 * Capacité interner  de 1 disque dur SATA jusqu'à 14To (vendu séparément)
+* 8 ports PoE (802.3af) (10/100Mbps)
 * Port réseau RJ45 Fast Ethernet (10/100Mbps)
 * Protocoles réseau: HTTP, TCP/IP, IPv4, UPnP, SNMP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, DDNS, FTP, P2P, Auto register
 * Supporte Onvif et SDK
@@ -45,7 +46,7 @@ icon: video-plus
 * Compatible avec périphériques Android et iOS
 * Ports de communication: 2 ports USB 2.0
 * Alimentation: 12V DC, 2A
-* Consomation: 7 W (disque dur exclus)
+* Consommation: 7 W (disque dur exclus)
 * Température de fonctionnement -10°C \~ +55°C
 * Humidité relative 10%\~90% (sans condensation)
 * Boîtier métal

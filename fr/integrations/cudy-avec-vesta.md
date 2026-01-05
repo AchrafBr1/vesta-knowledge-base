@@ -30,7 +30,7 @@ CUDY FIRMWARE&#x20;
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration avancée 1/2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration avancée 2/2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration avancée 2/2</p></figcaption></figure>
 
 ### **Etape 2: Mettre à jour le routeur CUDY**
 
