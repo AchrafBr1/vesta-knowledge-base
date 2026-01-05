@@ -237,7 +237,22 @@
 * [IPC-B38L-ZAS-PV-B (FR)](cameras-ip-vesta-advanced/ipc-b38l-zas-pv-b-fr.md)
 * [IPC-T38L-ZAS-PV (FR)](cameras-ip-vesta-advanced/ipc-t38l-zas-pv-fr.md)
 * [IPC-T38L-ZAS-PV-B (FR)](cameras-ip-vesta-advanced/ipc-t38l-zas-pv-b-fr.md)
-* [IPC-D34L-ZAS-MC](cameras-ip-vesta-advanced/ipc-d34l-zas-mc.md)
+* [IPC-D34L-ZAS-MC (FR)](cameras-ip-vesta-advanced/ipc-d34l-zas-mc-fr.md)
+* [IPC-B34-L-MC-PV (FR)](cameras-ip-vesta-advanced/ipc-b34-l-mc-pv-fr.md)
+* [IPC-B34-ZAS-MC-PV (FR)](cameras-ip-vesta-advanced/ipc-b34-zas-mc-pv-fr.md)
+* [IPC-T34-L-MC-PV (FR)](cameras-ip-vesta-advanced/ipc-t34-l-mc-pv-fr.md)
+* [IPC-T34-ZAS-MC-PV (FR)](cameras-ip-vesta-advanced/ipc-t34-zas-mc-pv-fr.md)
+* [IPC-B35-AS-PV (FR)](cameras-ip-vesta-advanced/ipc-b35-as-pv-fr.md)
+* [IPC-B35-AS-PV-B (FR)](cameras-ip-vesta-advanced/ipc-b35-as-pv-b-fr.md)
+* [IPC-T35-AS-PV (FR)](cameras-ip-vesta-advanced/ipc-t35-as-pv-fr.md)
+* [IPC-T35-AS-PV-B (FR)](cameras-ip-vesta-advanced/ipc-t35-as-pv-b-fr.md)
+* [IPC-D36-AS-L (FR)](cameras-ip-vesta-advanced/ipc-d36-as-l-fr.md)
+* [IPC-B38-L-MC-PV (FR)](cameras-ip-vesta-advanced/ipc-b38-l-mc-pv-fr.md)
+* [IPC-T38-L-MC-PV (FR)](cameras-ip-vesta-advanced/ipc-t38-l-mc-pv-fr.md)
+* [IPC-D38-AS-L (FR)](cameras-ip-vesta-advanced/ipc-d38-as-l-fr.md)
+* [IPC-B38-A180-PV (FR)](cameras-ip-vesta-advanced/ipc-b38-a180-pv-fr.md)
+* [IPC-T38-A180-PV (FR)](cameras-ip-vesta-advanced/ipc-t38-a180-pv-fr.md)
+* [SD4Z25-AS-PV (FR)](cameras-ip-vesta-advanced/sd4z25-as-pv-fr.md)
 
 ## Mises à jour VESTA Advanced
 

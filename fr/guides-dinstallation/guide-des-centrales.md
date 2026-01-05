@@ -15,7 +15,7 @@ Ce manuel est conçu pour les techniciens, les intégrateurs et les utilisateurs
 
 ### 1.1 Enregistrement de la centrale en mode Installateur
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter comme un installateur sur l'app <a href="../../guia-de-usuario-smarthomesec.md">SmartHomeSec</a>.</td><td><img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  2:</strong> Cliquez sur le bouton +  (ajouter une centrale).</td><td><img src="../.gitbook/assets/image (10) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  3:</strong> Saisir l'adresse MAC de la centrale qui se trouve sur l'étiquette de la centrale.</td><td><img src="../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter comme un installateur sur l'app <a href="../../guia-de-usuario-smarthomesec.md">SmartHomeSec</a>.</td><td><img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  2:</strong> Cliquez sur le bouton +  (ajouter une centrale).</td><td><img src="../.gitbook/assets/image (10) (1) (2).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape  3:</strong> Saisir l'adresse MAC de la centrale qui se trouve sur l'étiquette de la centrale.</td><td><img src="../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td></tr></tbody></table>
 
 Une fois la centrale enregistrée en mode Installateur, elle est prête pour la configuration.
 
@@ -33,7 +33,7 @@ Le compte utilisateur sert à contrôler le système et est destiné à l'utilis
 
 Le premier compte enregistré sera forcément le compte Master. La principale différence entre les comptes Master et Slave est que le compte Master permet de créer de nouveaux utilisateurs, tandis que le compte Slave ne le permet pas.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter en mode Installateur (code par défaut - 7982).</td><td><img src="../.gitbook/assets/Imagen de WhatsApp 2024-06-02 a las 15.19.19_5e1f9a7f.jpg" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Etape 2:</strong> Cliquez sur le bouton Système.</p><p><br><img src="../.gitbook/assets/image (14) (1) (1) (1) (1) (1).png" alt=""></p></td><td></td><td></td></tr><tr><td><strong>Etape 3:</strong> Choisir Liste des comptes.</td><td></td><td><img src="../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape 4:</strong> Cliquez sur le bouton  +.</td><td></td><td><img src="../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape 5:</strong> S'il s'agit d'un nouvel utilisateur cliquez sur Créer un compte.</td><td><img src="../.gitbook/assets/image (18) (1) (1) (1) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Etape 6:</strong> Remplir les informations pour créer le compte.</p><p><img src="../.gitbook/assets/image (19) (1) (1) (1).png" alt="" data-size="original"></p></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Etape 1:</strong> Se connecter en mode Installateur (code par défaut - 7982).</td><td><img src="../.gitbook/assets/Imagen de WhatsApp 2024-06-02 a las 15.19.19_5e1f9a7f.jpg" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Etape 2:</strong> Cliquez sur le bouton Système.</p><p><br><img src="../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1).png" alt=""></p></td><td></td><td></td></tr><tr><td><strong>Etape 3:</strong> Choisir Liste des comptes.</td><td></td><td><img src="../.gitbook/assets/image (15) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape 4:</strong> Cliquez sur le bouton  +.</td><td></td><td><img src="../.gitbook/assets/image (17) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td></tr><tr><td><strong>Etape 5:</strong> S'il s'agit d'un nouvel utilisateur cliquez sur Créer un compte.</td><td><img src="../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Etape 6:</strong> Remplir les informations pour créer le compte.</p><p><img src="../.gitbook/assets/image (19) (1) (1) (1) (1).png" alt="" data-size="original"></p></td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -49,15 +49,15 @@ Pour ajouter et configurer un périphérique VESTA sans fils, veuillez suivre le
 
 **Etape 1:** Se rendre dans le menu de configuration de la centrale en mode Installateur:
 
-<figure><img src="../.gitbook/assets/image (20) (1) (1) (1).png" alt="" width="192"><figcaption><p>Installer -> Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1) (1) (1) (1).png" alt="" width="192"><figcaption><p>Installer -> Settings</p></figcaption></figure>
 
 **Etape 2:** Choisir le menu "Périphériques".
 
-<figure><img src="../.gitbook/assets/image (21) (1) (1) (1).png" alt="" width="190"><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1) (1) (1) (1).png" alt="" width="190"><figcaption><p>Installer -> Settings -> Devices</p></figcaption></figure>
 
 **Etape 3:** Cliquez sur "Ajouter Périphérique".
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (23) (1) (1) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (24) (1) (1).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (23) (1) (1) (1) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src="../.gitbook/assets/image (24) (1) (1) (1).png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
 
 **Etape 4:** Choisir le type de périphérique à ajouter, ex: Détecteur de mouvement. Restez appuyé sur le bouton d'apprentissage du périphérique jusqu'au clignotement de sa led (consulter le manuel du périphérique pour des instructions détaillées).
 
@@ -150,7 +150,7 @@ Fréquence de mise à jour du domaine si un domaine est utilisé à la place d'u
 
 ### 3.3 Configuration des codes utilisateurs
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1) (1) (1).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Configuration</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (8) (2).png" alt="" data-size="original"></td><td>Configuration > Codes</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (9) (2).png" alt="" data-size="original"></td><td>Ajoutez un nom et un code à chaque utilisateur. Ce code le changement de mode depuis un clavier ou l'application (voir manuel pour plus d'informations). </td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1) (1) (1) (1).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Configuration</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (8) (2).png" alt="" data-size="original"></td><td>Configuration > Codes</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (9) (2).png" alt="" data-size="original"></td><td>Ajoutez un nom et un code à chaque utilisateur. Ce code le changement de mode depuis un clavier ou l'application (voir manuel pour plus d'informations). </td><td></td></tr></tbody></table>
 
 ### 3.4 Mise à jour de la centrale
 
@@ -321,7 +321,7 @@ Pour l'installation, veuillez contacter votre représentant VESTA.
 
 ### 3.6 Transmission d'images
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Configuration > Transmission</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Dans le menu transmission, nous avons la transmission des événements et des images PIRCAMS.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (16) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Dans cette section nous configurons l'URL d télésurveilleur pour l'envoi d'images destinataire.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="original"></td><td>Configuration > Transmission</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (14) (2).png" alt="" data-size="original"></td><td>Dans le menu transmission, nous avons la transmission des événements et des images PIRCAMS.</td><td></td></tr><tr><td><img src="../.gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td>Dans cette section nous configurons l'URL d télésurveilleur pour l'envoi d'images destinataire.</td><td></td></tr></tbody></table>
 
 {% hint style="success" %}
 Exemples de configuration avec différents protocoles:

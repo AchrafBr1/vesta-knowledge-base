@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## Boîte de jonction pour caméras dômes ou tubes
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Caractéristiques
 
