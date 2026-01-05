@@ -162,7 +162,7 @@ Le clavier est capable de transmettre les informations des badges à la centrale
 
 **Sortir du mode test :**
 
-* Appuyez sur la touche <img src=".gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" data-size="line"> **deux fois** pour quitter le mode test. Autrement, le clavier sortira automatiquement du mode programmation après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un bip long.
+* Appuyez sur la touche <img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **deux fois** pour quitter le mode test. Autrement, le clavier sortira automatiquement du mode programmation après 5 minutes d'inactivité et reviendra en mode veille. Toutes les LED s'éteindront et le clavier émettra un bip long.
 
 
 
@@ -208,12 +208,12 @@ Veuillez accéder à l'APP Store ou à Google Play et rechercher **SmartHomeSec*
   **Étape 1.** Le clavier doit avoir son **autoprotection déclenchée**, placez le clavier en **Mode BLE** en appuyant simultanément les touches ＊ et  **0** appuyées pendant **2 secondes**. Lorsque vous entrez en mode BLE, le clavier émet un bip long et les LED verte et orange s'allument pendant l'utilisation du mode BLE.\
   **Étape 2.** Sur votre smartphone, ouvrez l'application **SmartHomeSec**, saisissez l'ID utilisateur et le mot de passe associé, puis appuyez sur Connecter pour vous connecter à votre compte.\
   &#xNAN;_&#x4E;ote:_ Assurez-vous que le Bluetooth soit activé dans les paramètres de votre smartphone.\
-  <img src=".gitbook/assets/image (13) (1) (1) (1).png" alt="" data-size="original">\
+  <img src=".gitbook/assets/image (13) (1) (1) (1) (1).png" alt="" data-size="original">\
   **Étape 3.** Accédez à la liste des périphériques, sélectionnez le clavier. Cliquez sur "**Démarrer association Bluetooth**.\
-  ![](<.gitbook/assets/image (14) (1) (1) (1).png>)![](<.gitbook/assets/image (15) (1) (1).png>)\
-  **Étape 4.** L'application commencera automatiquement à analyser le clavier qui est en mode BLE. Si la recherche ne démarre pas automatiquement, appuyez sur le bouton <img src=".gitbook/assets/image (16) (1) (1).png" alt="" data-size="line"> pour rechercher le clavier.\
+  ![](<.gitbook/assets/image (14) (1) (1) (1) (1).png>)![](<.gitbook/assets/image (15) (1) (1) (1).png>)\
+  **Étape 4.** L'application commencera automatiquement à analyser le clavier qui est en mode BLE. Si la recherche ne démarre pas automatiquement, appuyez sur le bouton <img src=".gitbook/assets/image (16) (1) (1) (1).png" alt="" data-size="line"> pour rechercher le clavier.\
   Lorsque le clavier détecté apparaît dans la liste, appuyez dessus pour accéder à la page Code PIN de couplage. Entrez le code PIN de couplage BLE **(Par défaut : 000000)** et appuyez le bouton **Couplage** pour continuer.\
-  ![](<.gitbook/assets/image (17) (1) (1).png>)![](<.gitbook/assets/image (18) (1) (1).png>)![](<.gitbook/assets/image (19) (1) (1).png>)\
+  ![](<.gitbook/assets/image (17) (1) (1) (1).png>)![](<.gitbook/assets/image (18) (1) (1) (1).png>)![](<.gitbook/assets/image (19) (1) (1).png>)\
   &#xNAN;_&#x4E;ote:_ Pour modifier le code PIN de couplage, entrez le code PIN à 6 chiffres suivi de **＊** sur le clavier en mode BLE. Si le paramétrage du code PIN est confirmé, le clavier émet 1 bip long. Si le réglage du code PIN n'est pas confirmé, le clavier émet 4 bips.\
   **Étape 5.** Lorsque la boîte de dialogue Couplage réussi s'affiche sur l'application, le couplage est réussi.\
   Cliquez sur OK et vous serez dirigé vers le menu de configuration du clavier où vous devrez définir votre code utilisateur.\

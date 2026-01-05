@@ -6,9 +6,9 @@ icon: video
 
 ## Dôme IP Extérieur Lite IA 4MP Anti-vandalisme Double Eclairage Intelligent Dissuasion Active
 
-<figure><img src="../.gitbook/assets/image (17).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-D24-ZAS-L/">IPC-D24-ZAS-L</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-D24-ZAS-L/">IPC-D24-ZAS-L</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [MANUEL DES CAMERAS](../video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec.md)
 
@@ -25,11 +25,11 @@ icon: video
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFB203W" %}
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfb203w-fr.md">VFB203W</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfb203w-fr.md">VFB203W</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA130-E" %}

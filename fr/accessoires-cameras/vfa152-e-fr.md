@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## Support poteau anti-corrosion VESTA
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Caractéristiques
 
