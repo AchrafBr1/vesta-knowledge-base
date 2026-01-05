@@ -206,7 +206,6 @@
 
 * [Gamme Vesta Advanced (avec SmartHomeSec) (FR)](video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec.md)
 * [Gamme Vesta Advanced (Autonome) (FR)](video-vesta-advanced/gamme-vesta-advanced-autonome.md)
-* [Caméras IP VESTA ADVANCED B24, D24, T24, B35, T35, B38, T38](video-vesta-advanced/cameras-ip-vesta-advanced-b24-d24-t24-b35-t35-b38-t38.md)
 
 ## CAMERAS IP VESTA ADVANCED
 
@@ -253,6 +252,8 @@
 * [IPC-B38-A180-PV (FR)](cameras-ip-vesta-advanced/ipc-b38-a180-pv-fr.md)
 * [IPC-T38-A180-PV (FR)](cameras-ip-vesta-advanced/ipc-t38-a180-pv-fr.md)
 * [SD4Z25-AS-PV (FR)](cameras-ip-vesta-advanced/sd4z25-as-pv-fr.md)
+* [NVR VESTA ADVANCED](cameras-ip-vesta-advanced/nvr-vesta-advanced/README.md)
+  * [NVR2106M](cameras-ip-vesta-advanced/nvr-vesta-advanced/nvr2106m.md)
 
 ## Mises à jour VESTA Advanced
 
