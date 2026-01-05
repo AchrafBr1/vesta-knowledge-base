@@ -39,7 +39,7 @@ icon: video-plus
   * Détection de mouvement intelligente jusqu'à 2 canaux
 * Recherche IA par classification de cible (personne, véhicule motorisé ou non)
 * Lecture synchronisées jusqu'à 16 canaux
-* Capacité interne  de 2 disques durs SATA jusqu'à 14To (vendu séparément)
+* Capacité interne de 2 disques durs SATA jusqu'à 14To (vendu séparément)
 * Port réseau RJ45 Gigabit Ethernet (10/100/1000Mbps)
 * Protocoles réseau: HTTP, TCP/IP, IPv4, UPnP, SNMP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, DDNS, FTP, P2P, Auto register
 * Supporte Onvif et SDK
@@ -52,6 +52,6 @@ icon: video-plus
 * Humidité relative 10%\~90% (sans condensation)
 * Boîtier métal
 * Dimensions: 360 (L) x 48 (H) x 311.5 mm ( 1U)
-* Poids: 3kg g
+* Poids: 3kg
 * Installation type bureau
 * Certifié CE/FCC

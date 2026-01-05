@@ -41,7 +41,7 @@ icon: video-plus
 * Recherche IA par classification de cible (personne, véhicule motorisé ou non)
 * Lecture synchronisées jusqu'à 16 canaux
 * 16 entrées d'alarme / 8 sorties d'alarme
-* Capacité interne  de 2 disques durs SATA jusqu'à 16To (vendu séparément)
+* Capacité interne de 2 disques durs SATA jusqu'à 16To (vendu séparément)
 * Port eSATA
 * 2 ports réseau RJ45 Gigabit Ethernet (10/100/1000Mbps)
 * Protocoles réseau: HTTP, TCP/IP, IPv4, UPnP, SNMP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, DDNS, FTP, P2P, Auto register
@@ -55,6 +55,6 @@ icon: video-plus
 * Humidité relative 10%\~90% (sans condensation)
 * Boîtier métal
 * Dimensions: 360 (L) x 48 (H) x 311.5 mm ( 1U)
-* Poids: 3kg g
+* Poids: 3kg
 * Installation type bureau
 * Certifié CE/FCC

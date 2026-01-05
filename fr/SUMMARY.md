@@ -268,7 +268,7 @@
 * [NVR7216-IO-PRO (FR)](nvr-vesta-advanced/nvr7216-io-pro-fr.md)
 * [NVR7232-IO-PRO (FR)](nvr-vesta-advanced/nvr7232-io-pro-fr.md)
 * [NVR7232-16P-IO-PRO (FR)](nvr-vesta-advanced/nvr7232-16p-io-pro-fr.md)
-* [NVR7464-IO-ULTRA](nvr-vesta-advanced/nvr7464-io-ultra.md)
+* [NVR7464-IO-ULTRA (FR)](nvr-vesta-advanced/nvr7464-io-ultra-fr.md)
 
 ## Mises à jour VESTA Advanced
 
