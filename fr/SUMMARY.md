@@ -252,8 +252,10 @@
 * [IPC-B38-A180-PV (FR)](cameras-ip-vesta-advanced/ipc-b38-a180-pv-fr.md)
 * [IPC-T38-A180-PV (FR)](cameras-ip-vesta-advanced/ipc-t38-a180-pv-fr.md)
 * [SD4Z25-AS-PV (FR)](cameras-ip-vesta-advanced/sd4z25-as-pv-fr.md)
-* [NVR VESTA ADVANCED](cameras-ip-vesta-advanced/nvr-vesta-advanced/README.md)
-  * [NVR2106M](cameras-ip-vesta-advanced/nvr-vesta-advanced/nvr2106m.md)
+
+## NVR VESTA ADVANCED
+
+* [NVR2106M](nvr-vesta-advanced/nvr2106m.md)
 
 ## Mises à jour VESTA Advanced
 
