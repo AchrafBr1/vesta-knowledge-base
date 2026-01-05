@@ -6,9 +6,9 @@ icon: video
 
 ## Dôme IP Lite IA 4MP Double Eclairage Intelligent Dissuasion Active
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-T34-AS-PV-B/">IPC-T34-AS-PV-B</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-T34-AS-PV-B/">IPC-T34-AS-PV-B</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [MANUEL DES CAMERAS](../video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec.md)
 
@@ -25,7 +25,7 @@ icon: video
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFB203W-B" %}

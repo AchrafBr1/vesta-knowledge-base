@@ -14,8 +14,8 @@ icon: video-plus
 
 * 10 canaux IP
 * Compression vidéo: H.265 et H.264
-* Sorties vidéo simultanée HDMI (4K) et VGA (1080P)
-* Multi-vision: 1, 4,  9, 16
+* Sorties vidéo simultanées HDMI (4K) et VGA (1080P)
+* Multi-vision: 1, 4, 9, 16
 * 1 entrée / 1 sortie audio RCA
 * Audio bidirectionnelle
 * Compression audio: G.711a
@@ -37,7 +37,7 @@ icon: video-plus
   * Indisponible
 * Recherche IA par classification de cible (personne, véhicule motorisé ou non)
 * Lecture synchronisées jusqu'à 10 canaux
-* Capacité interner  de 1 disque dur SATA jusqu'à 14To (vendu séparément)
+* Capacité interne  de 1 disque dur SATA jusqu'à 14To (vendu séparément)
 * 8 ports PoE (802.3af) (10/100Mbps)
 * Port réseau RJ45 Fast Ethernet (10/100Mbps)
 * Protocoles réseau: HTTP, TCP/IP, IPv4, UPnP, SNMP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, DDNS, FTP, P2P, Auto register

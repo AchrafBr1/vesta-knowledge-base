@@ -28,10 +28,10 @@ CUDY FIRMWARE&#x20;
 2. Accédez à l'adresse IP du routeur: 192.168.10.1 (utilisez le même segment réseau avec une connexion directe à un PC) ou cudy.net
 3. Activez l'option WAN dans le menu Configuration Avancée>Communicateur LAN/WAN:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration avancée 1/2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration avancée 1/2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration avancée 2/2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuration avancée 2/2</p></figcaption></figure>
 
 ### **Etape 2: Mettre à jour le routeur CUDY**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Mise à jour</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Mise à jour</p></figcaption></figure>

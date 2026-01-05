@@ -261,6 +261,14 @@
 * [NVR2110M-8P (FR)](nvr-vesta-advanced/nvr2110m-8p-fr.md)
 * [NVR2116M (FR)](nvr-vesta-advanced/nvr2116m-fr.md)
 * [NVR2116M-8P (FR)](nvr-vesta-advanced/nvr2116m-8p-fr.md)
+* [NVR6216-PRO (FR)](nvr-vesta-advanced/nvr6216-pro-fr.md)
+* [NVR6232-PRO (FR)](nvr-vesta-advanced/nvr6232-pro-fr.md)
+* [NVR6232S-16P-PRO (FR)](nvr-vesta-advanced/nvr6232s-16p-pro-fr.md)
+* [NVR6232S-IO-PRO (FR)](nvr-vesta-advanced/nvr6232s-io-pro-fr.md)
+* [NVR7216-IO-PRO (FR)](nvr-vesta-advanced/nvr7216-io-pro-fr.md)
+* [NVR7232-IO-PRO (FR)](nvr-vesta-advanced/nvr7232-io-pro-fr.md)
+* [NVR7232-16P-IO-PRO (FR)](nvr-vesta-advanced/nvr7232-16p-io-pro-fr.md)
+* [NVR7464-IO-ULTRA](nvr-vesta-advanced/nvr7464-io-ultra.md)
 
 ## Mises à jour VESTA Advanced
 

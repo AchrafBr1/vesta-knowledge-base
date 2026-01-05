@@ -25,7 +25,7 @@ icon: video
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../accessoires-cameras/vfa152-e-fr.md">VFA-152A-E</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFB203W-B" %}
