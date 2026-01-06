@@ -8,7 +8,7 @@ icon: video
 
 <figure><img src="../.gitbook/assets/image (27).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-B14-E/">IPC-B14-E</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [MANUEL DES CAMERAS](../video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec.md)
 

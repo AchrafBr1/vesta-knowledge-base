@@ -6,7 +6,7 @@ icon: video-plus
 
 ## NVR Pro AI Plus - 32 canaux
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>NVR6232S-IO-PRO</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>NVR6232S-IO-PRO</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

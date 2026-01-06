@@ -6,7 +6,7 @@ description: >-
 icon: camera-cctv
 ---
 
-# Configuration des caméras IP VESTA Home
+# Configuration des caméras IP VESTA Home (FR)
 
 <figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
@@ -94,7 +94,7 @@ Pour continuer:
 * Vérifiez si la led de la caméra est <mark style="color:green;">**VERTE FIXE**</mark> (non clignotante).
 * Si c'est le cas, revenez à l'étape précédente et sélectionnez ETHERNET au lieu de Wi-Fi — la configuration devrait alors fonctionner correctement.
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 {% endhint %}
 
 **Etape 9:** Connectez votre téléphone à la caméra en cliquant sur "Rejoindre" (selon le modèle de téléphone cette étape est optionnelle).\
