@@ -1,52 +1,52 @@
 ---
 description: >-
-  La série VESTA-291/292 et 293 est une gamme de caméras sans fils pour usage
-  intérieur et extérieur. Elles permettent une vidéo surveillance avec une
-  installation simplifiée.
-hidden: true
+  La gamme VESTA Home comprend des caméras de sécurité sans fil conçues pour une
+  utilisation intérieure comme extérieure. Elles offrent une vidéosurveillance
+  fiable et une installation facile.
 icon: camera-cctv
 ---
 
-# Configuration VESTA-291/292/293
+# Configuration des caméras IP VESTA Home
 
-<figure><img src="../.gitbook/assets/Immagine2.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Le modèle VESTA-292 sera utilisé tout au long de ce document mais, les étapes sont identiques pour les modèles VESTA-291 et VESTA-293.
 {% endhint %}
 
+## VESTA-292
+
 <figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">Préparation</mark>_
+### Préparation
 
-<mark style="color:orange;">**Etape 1:**</mark>  Branchez l'alimentation de la caméra.\
+**Etape 1:**  Branchez l'alimentation de la caméra.\
 \
-<mark style="color:orange;">**Etape 2:**</mark> Attendez que la LED de la caméra soit <mark style="color:green;">**VERTE**</mark> fixe pour une connexion en Ethernet (câble) ou <mark style="color:green;">**VERTE**</mark> clignotante pour une connexion en Wi-Fi.
+**Etape 2:** Attendez que la LED de la caméra soit <mark style="color:green;">**VERTE**</mark> fixe pour une connexion en Ethernet (câble) ou <mark style="color:green;">**VERTE**</mark> clignotante pour une connexion en Wi-Fi.
 
-### _<mark style="background-color:yellow;">Initialisation et ajout de la caméra avec SmartHomeSec</mark>_
+### Initialisation et ajout de la caméra avec SmartHomeSec
 
-Utilisez l'application SmartHomeSec avec le compte utilisateur maître pour initialiser et ajouter la caméra au système.
+Utilisez l'application SmartHomeSec avec le **compte utilisateur maître** pour initialiser et ajouter la caméra au système.
 
-<figure><img src="../.gitbook/assets/100.png" alt=""><figcaption><p>Etape 1                                                                Etape 2                                                           Etape 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/100.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:orange;">**Etape 1:**</mark> Avec l'app SmartHomeSec, se connecter en mode utilisateur avec le compte utilisateur maître.\
+**Etape 1:** Avec l'app SmartHomeSec, se connecter en mode utilisateur avec le compte utilisateur maître.\
 \
-<mark style="color:orange;">**Etape 2:**</mark> Cliquez sur l'icône représentant une caméra.\
+**Etape 2:** Cliquez sur l'icône représentant une caméra.\
 \
-<mark style="color:orange;">**Etape 3:**</mark> Cliquez sur le bouton "+" pour ajouter une caméra.
+**Etape 3:** Cliquez sur le bouton "+" pour ajouter une caméra.
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Etape 4                                                                                                             Etape 5 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:orange;">**Etape 4:**</mark> Cliquez sur l'icône VESTA/Imou.\
+**Etape 4:** Cliquez sur l'icône VESTA/Imou.\
 \
-<mark style="color:orange;">**Etape 5:**</mark> Scannez le QR code de la caméra et cliquez sur "Suivant".\
+**Etape 5:** Scannez le QR code de la caméra et cliquez sur "Suivant".\
 \
-<mark style="color:orange;">**Etape 6:**</mark> Choisir comment la caméra doit être ajoutée au système.
+**Etape 6:** Choisir comment la caméra doit être ajoutée au système.
 
-*
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Etape 6</p></figcaption></figure>
-* &#x20;Ajouter à l'équipement: La caméra et la centrale doivent utiliser le même réseau local. De cette manière, la caméra sera totalement prise en charge par la centrale et l'application.&#x20;
+* &#x20;**Ajouter à l'équipement:** La caméra et la centrale doivent utiliser le même réseau local. De cette manière, la caméra sera totalement prise en charge par la centrale et l'application.&#x20;
 
 {% hint style="success" %}
 Avantages du mode "Ajouter à l'équipement":
@@ -57,57 +57,57 @@ Avantages du mode "Ajouter à l'équipement":
 * Contrôle des fonctions Pan/Tilt pour le modèle VESTA-292
 {% endhint %}
 
-* Ajouter au cloud: La caméra sera ajoutée en utilisant le cloud. L'utilisateur ne verra que le live de la caméra depuis l'application.
+* **Ajouter au cloud:** La caméra sera ajoutée en utilisant le cloud. L'utilisateur ne verra que le live de la caméra depuis l'application.
 
 {% hint style="success" %}
 Avantages du mode "Ajouter au cloud":
 
-* La caméra peut être installée un réseau différent (ou un autre site).
+* La caméra peut être installée sur un réseau différent (ou un autre site).
 * Les utilisateurs avec une centrale connectée uniquement en 4G peuvent avoir des caméras connectées à leurs comptes.
 {% endhint %}
 
-<mark style="color:orange;">**Etape 7:**</mark> Choisir le mode de communication avec la caméra (Ethernet ou Wi-Fi)
+**Etape 7:** Choisir le mode de communication de la caméra (Ethernet ou Wi-Fi)
 
 {% hint style="warning" %}
 La caméra et la centrale doivent être sur le même réseau, veillez à vérifier avant de continuer.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/102.png" alt=""><figcaption><p>Etape 7</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/102.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 En cas d'utilisation du mode de communication Ethernet, veuillez directement consulter l'étape 12.
 {% endhint %}
 
-<mark style="color:orange;">**Etape 8:**</mark> Connexion Wi-Fi
+**Etape 8:** Connexion Wi-Fi
 
 {% hint style="warning" %}
 Le téléphone doit être connecté au réseau Wi-Fi sur lequel vous voulez ajouter la caméra (2.4GHz uniquement).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/102.2.png" alt=""><figcaption><p>Etape 8                                                                Etape 9                                                                 Etape 10</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/102.2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Si vous connectez votre camera via Wi-Fi mais que vous ne parvenez pas à passer à l'étape de recherche d'adresse IP, pas d'inquiétude. Cela peut se produire si le périphérique a temporairement perdu sa connexion Internet lors du changement de réseau et n'a pas réussi à se reconnecter correctement.**
+Si vous connectez votre camera via Wi-Fi mais que vous ne parvenez pas à passer à l'étape de recherche d'adresse IP, pas d'inquiétude. Cela peut se produire si le périphérique a temporairement perdu sa connexion Internet lors du changement de réseau et n'a pas réussi à se reconnecter correctement.
 
 Pour continuer:
 
-* Vérifiez si la led de la caméra est <mark style="color:green;">**VERTE**</mark>**&#x20;**<mark style="color:$primary;">**fixe**</mark> (non clignotante).
-* Si c'est le cas, revenez à l'étape précédente et sélectionnez ETHERNET au lieu de Wi-Fi — la configuration devrait alors fonctionner correctement..
+* Vérifiez si la led de la caméra est <mark style="color:green;">**VERTE FIXE**</mark> (non clignotante).
+* Si c'est le cas, revenez à l'étape précédente et sélectionnez ETHERNET au lieu de Wi-Fi — la configuration devrait alors fonctionner correctement.
 
 ![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 {% endhint %}
 
-<mark style="color:orange;">**Etape 9:**</mark> Connectez votre téléphone à la caméra en cliquant sur "Rejoindre" (selon le modèle de téléphone cette étape est optionnelle).\
+**Etape 9:** Connectez votre téléphone à la caméra en cliquant sur "Rejoindre" (selon le modèle de téléphone cette étape est optionnelle).\
 \
-<mark style="color:orange;">**Etape 10:**</mark> Choisir le réseau et cliquez sur "Suivant".
+**Etape 10:** Choisir le réseau et cliquez sur "Suivant".
 
-<figure><img src="../.gitbook/assets/103.png" alt=""><figcaption><p> Etape 11                                                                Etape 12                                                                    Etape 13</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/103.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:orange;">**Etape 11:**</mark> Saisir le clé de sécurité du réseau Wi-Fi sélectionné.\
+**Etape 11:** Saisir le clé de sécurité du réseau Wi-Fi sélectionné.\
 \
-<mark style="color:orange;">**Etape 12:**</mark> L'application affichera  l'identifiant utilisateur et le mot de passe de la caméra.
+**Etape 12:** L'application affichera  l'identifiant utilisateur et le mot de passe de la caméra.
 
-<figure><img src="../.gitbook/assets/104.png" alt=""><figcaption><p>                                                                                                                    Etape 12                                                                                                                                                  </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/104.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 NOTE:
@@ -123,9 +123,51 @@ CONFIGURATION TERMINEE
 
 <figure><img src="../.gitbook/assets/21.jpg" alt="" width="185"><figcaption></figcaption></figure>
 
+***
 
+### Comment activer les notification de la caméras pendant le désarmement
 
-### _<mark style="background-color:yellow;">Dépannage</mark>_
+Les caméras VESTA HOME / ADV vous permettent de recevoir des notifications même lorsque le système est désarmé. Cela peut être utile si vous souhaitez rester informé des mouvements dans certaines zones sans armer l'ensemble du système.
+
+#### Etapes de configuration:
+
+1.  Se rendre dans le menu Configuration Equipement > Configuration Périphérique > **Configuration de la caméra** dans l'app SmartHomeSec<br>
+
+    <figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+2.  Repérez l'option **Carillon** comme attribut en **mode désarmement**:<br>
+
+    <figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+3. Validez pour activer cette option sur la caméra.
+
+#### Que se passe-t-il ensuite?
+
+* Le système restera en **mode alerte** même s'il est désarmé.
+* Si la caméra détecte de l'activité, vous recevrez une **notification push**:
+  * _Détection humain/ Détection de mouvement_
+
+⚠️ **Important:** dans ce mode, la caméra **ne capturera aucune image**. Vous n'aurez que la notification push. Vous pouvez alors afficher le flux vidéo manuellement si vous souhaitez vérifier ce qu'il s'est passé.
+
+{% hint style="success" %}
+**Note :**\
+Par défaut, les **caméras VESTA Home** utilisent un système de filtrage selon lequel une personne doit rester dans la scène pendant **30 secondes** avant qu'un événement ne soit signalé par la centrale.\
+Ceci peut être modifié en ajoutant la caméra au logiciel **SmartPSS** et en réglant le paramètre « Anti-Dither » de la détection de mouvement sur **1 seconde**, ce qui permet un signalement quasi immédiat des événements.\
+L'option Anti-Dither détermine la durée de l'évènement dans la scène pour qu'il soit pris en compte.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+De plus, il y a une temporisation entre deux évènements vidéo de **3 minutes**. Cela signifie que si un mouvement continu est détecté, vous serez informé une fois toutes les 3 minutes.&#x20;
+{% endhint %}
+
+{% hint style="success" %}
+**Prochainement:**\
+La plateforme supportera un nouvel attribut: **Notification avec image**. Une fois disponible, vous recevrez la notification et une image directement de dans l'alerte
+{% endhint %}
+
+***
+
+### Dépannage
 
 **Je ne retrouve pas l'adresse IP de la caméra durant les étapes de configuration:**
 
@@ -133,17 +175,41 @@ CONFIGURATION TERMINEE
 
 2\.   Redémarrez le switch ou le routeur sur lequel les équipements sont connectés.
 
+{% hint style="success" %}
+Problème de détection IP lors de la configuration de la caméra:
+
+Parfois, lorsque vous arrivez à l'étape de détection IP, il se peut que la centrale ne détecte aucun périphérique pendant l'analyse. Si cela se produit et que vous avez déjà configuré la caméra via Wi-Fi, vérifiez les points suivants :
+
+**Scenario:**
+
+* Vous avez utilisé la configuration Wi-Fi comme méthode de connexion.
+* La caméra affiche un voyant vert fixe, ce qui signifie qu'elle est déjà connectée au réseau Wi-Fi.
+* Cependant, lorsque la centrale recherche des périphériques IP, rien n'apparaît.
+
+**Solution:**
+
+Pour éviter de répéter tout le processus de configuration, procédez comme suit :
+
+* Revenez à l'étape où vous sélectionnez le mode de connexion.
+* Scannez à nouveau le QR code.
+* Au lieu de sélectionner Wi-Fi, choisissez Ethernet.
+
+![](<../.gitbook/assets/image (82).png>)
+
+**Pourquoi?**
+
+Même si la caméra est connectée via Wi-Fi, sélectionner Ethernet à cette étape permet au panneau de détecter correctement la caméra sur le réseau sans vous obliger à tout reconfigurer.
+{% endhint %}
+
 ***
 
 **Je ne parviens pas a terminée la configuration en Wi-Fi:**
 
 1\.   Vérifiez que la centrale VESTA soit bien équipée du dernier firmware.
 
-2\.   Assurez-vous d'avoir la fonction de localisation d'activée pour l'application SmartHomeSec APP.
+2\.   Assurez-vous d'avoir la fonction de localisation activée pour l'application SmartHomeSec APP.
 
 3\.   Assurez-vous d'avoir donné à l'application la permission de se connecter aux réseaux Wi-Fi et, si elle demande les autorisations acceptées les.
-
-<figure><img src="../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption><p>Autorisation Wi-Fi</p></figcaption></figure>
 
 ***
 
@@ -260,10 +326,5 @@ CONFIGURATION TERMINEE
 Faire une reset de la caméra.
 
 Pour faire une reset de la caméra, veuillez maintenir enfoncé le bouton RESET pendant 10 secondes (la caméra émettra un bip et la led deviendra rouge)
-
-{% hint style="info" %}
-&#x20;NOTES:\
-Pour le modèle VESTA-292, le bouton est situé sous l'objectif.<br>
-{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (41).png" alt="" width="375"><figcaption><p>Reset VESTA-292</p></figcaption></figure>

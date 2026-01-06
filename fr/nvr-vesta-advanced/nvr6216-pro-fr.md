@@ -6,9 +6,9 @@ icon: video-plus
 
 ## NVR PRO AI-L Serie - 16 canaux
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>NVR6216-PRO</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>NVR6216-PRO</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Caractéristiques
 

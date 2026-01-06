@@ -200,7 +200,9 @@
 
 ## Caméras IP VESTA HOME
 
+* [Configuration des caméras IP VESTA Home](cameras-ip-vesta-home/configuration-des-cameras-ip-vesta-home.md)
 * [Configuration VESTA-291/292/293](cameras-ip-vesta-home/configuration-vesta-291-292-293.md)
+* [IPC-C32-IN-WF](cameras-ip-vesta-home/ipc-c32-in-wf.md)
 
 ## Vidéo VESTA ADVANCED
 

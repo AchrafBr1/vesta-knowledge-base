@@ -6,7 +6,7 @@ icon: video-plus
 
 ## NVR Ultra AI Serie - 64 canaux
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>NVR7464-IO-PRO</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>NVR7464-IO-PRO</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 

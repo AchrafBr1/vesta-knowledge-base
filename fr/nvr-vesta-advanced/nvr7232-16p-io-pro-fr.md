@@ -6,7 +6,7 @@ icon: video-plus
 
 ## 32-channel Ultra AI Series IP NVR with 16 PoE
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>NVR7232-16P-IO-PRO</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>NVR7232-16P-IO-PRO</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 

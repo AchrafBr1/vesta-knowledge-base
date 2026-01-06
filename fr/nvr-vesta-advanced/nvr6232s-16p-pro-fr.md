@@ -6,7 +6,7 @@ icon: video-plus
 
 ## NVR PRO AI-L Serie - 32 canaux avec 16 ports PoE
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>NVR6232S-16P-PRO</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>NVR6232S-16P-PRO</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 

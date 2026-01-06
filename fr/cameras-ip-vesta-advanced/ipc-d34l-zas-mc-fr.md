@@ -6,9 +6,9 @@ icon: video
 
 ## Dôme IP Extérieur Anti-vandalisme 4MP Double Eclairage Intelligent Dissuasion Active Magic Color
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-D34L-ZAS-MC/">IPC-D34L-ZAS-MC</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-D34L-ZAS-MC/">IPC-D34L-ZAS-MC</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [MANUEL DES CAMERAS](../video-vesta-advanced/gamme-vesta-advanced-avec-smarthomesec.md)
 
