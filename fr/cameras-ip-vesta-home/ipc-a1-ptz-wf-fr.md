@@ -6,7 +6,7 @@ icon: video
 
 ## Caméra IP WiFi VESTA 3MP avec PAN/TILT - usage intérieur
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Caractéristiques
 

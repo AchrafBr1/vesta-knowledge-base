@@ -6,7 +6,7 @@ icon: video-plus
 
 ## NVR Ultra AI Serie - 32 canaux
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>NVR7232-IO-PRO</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>NVR7232-IO-PRO</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 

@@ -204,7 +204,8 @@
 * [IPC-C32-IN-WF (FR)](cameras-ip-vesta-home/ipc-c32-in-wf-fr.md)
 * [IPC-A1-PTZ-WF (FR)](cameras-ip-vesta-home/ipc-a1-ptz-wf-fr.md)
 * [IPC-B32-OUT-WF (FR)](cameras-ip-vesta-home/ipc-b32-out-wf-fr.md)
-* [Configuration VESTA-291/292/293](cameras-ip-vesta-home/configuration-vesta-291-292-293.md)
+* [VESTA-462](cameras-ip-vesta-home/vesta-462.md)
+* [VESTA-463](cameras-ip-vesta-home/vesta-463.md)
 
 ## Vidéo VESTA ADVANCED
 
