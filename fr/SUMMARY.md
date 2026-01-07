@@ -17,6 +17,7 @@
 * [VESTA-013 (FR)](vesta-013_fr.md)
 * [VESTA-014 (FR)](vesta-014_fr.md)
 * [VESTA-015 (FR)](vesta-015_fr.md)
+* [VESTA-016](vesta-016.md)
 * [VESTA-018 (FR)](vesta-018_fr.md)
 * [VESTA-019 (FR)](vesta-019_fr.md)
 * [VESTA-019N (FR)](vesta-019n_fr.md)
