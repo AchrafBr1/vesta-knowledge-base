@@ -3,7 +3,7 @@ description: Pour toutes les centrales Vesta (radio, hybride)
 icon: screwdriver
 ---
 
-# Guide des centrales
+# Guide des centrales (FR)
 
 Bienvenue dans **la base de connaissances pour les centrales VESTA sans fils et hybrides**. Ici, vous trouverez les informations essentielles pour l'installation, la configuration et la maintenance de vos centrales VESTA quelles soient sans fils ou hybrides.
 
@@ -196,7 +196,7 @@ Ces protocoles permettent à la centrale d'envoyer tous les ÉVÉNEMENTS, à l'e
 Si votre télésurveilleur utilise **l'un de ces protocoles** standard (tels que **MANITOU XML**, **SIA DC09** ou **Contact ID**), la centrale peut être configurée pour envoyer directement les rapports dans le format approprié.
 
 {% hint style="warning" %}
-Si votre télésurveilleur **ne supporte aucun des protocoles standard**, veuillez vous rendre à la section [ALARMSPACE](guide-des-centrales.md#id-3.1-parametres-de-securite) ci-dessous, qui explique comment intégrer des systèmes non standard à l'aide du logiciel de traduction VESTA.
+Si votre télésurveilleur **ne supporte aucun des protocoles standard**, veuillez vous rendre à la section [ALARMSPACE](guide-des-centrales-fr.md#id-3.1-parametres-de-securite) ci-dessous, qui explique comment intégrer des systèmes non standard à l'aide du logiciel de traduction VESTA.
 {% endhint %}
 
 {% hint style="info" %}

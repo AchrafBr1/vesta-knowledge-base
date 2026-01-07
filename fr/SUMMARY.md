@@ -194,9 +194,9 @@
 
 ## Guides d'installation
 
-* [Guide des centrales](guides-dinstallation/guide-des-centrales.md)
-* [Guide SmartHomeSec](guides-dinstallation/guide-smarthomesec.md)
-* [Guide de l'assistant](guides-dinstallation/guide-de-lassistant.md)
+* [Guide des centrales (FR)](guides-dinstallation/guide-des-centrales-fr.md)
+* [Guide SmartHomeSec (FR)](guides-dinstallation/guide-smarthomesec-fr.md)
+* [Guide de l'assistant (FR)](guides-dinstallation/guide-de-lassistant-fr.md)
 
 ## Caméras IP VESTA HOME
 

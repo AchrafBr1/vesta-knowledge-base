@@ -2,7 +2,7 @@
 icon: wand-magic-sparkles
 ---
 
-# Guide d'utilisation de l'assistant de configuration
+# Guide de l'assistant (FR)
 
 ## <mark style="color:$info;">Début de l'assistant</mark>
 
@@ -20,7 +20,7 @@ NOTE: Durant l'utilisation de l'assistant, il est possible d'accéder à n'impor
 
 <figure><img src="../.gitbook/assets/note.png" alt="" width="342"><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">1. Configuration en lot</mark>_
+### 1. Configuration en lot
 
 Il est possible à ce stade d'utiliser des profils de configuration déjà créés afin d'éviter de devoir renseigner toujours les mêmes paramètres pour  la configuration d'un système.\
 Appuyez sur **Passer**, pour avancer dans l'assistant.\
@@ -47,7 +47,7 @@ Vous pouvez afficher les paramètres du profil en cliquant sur l'icône représe
 
 Appuyez sur **Sauvegarder** puis **Suivant**
 
-### _<mark style="background-color:yellow;">2. Créer un Compte</mark>_
+### _2. Créer un Compte_
 
 Cette étape permet la création d'un compte utilisateur pour le client. Ce compte permettra l'accès à SmartHomeSec app ou web afin de géré le système.\
 Appuyez sur **Passer**, pour avancer dans l'assistant.\
@@ -59,7 +59,7 @@ Cet écran, permet de choisir la création d'un nouveau compte ou d'utiliser un 
 
 <figure><img src="../.gitbook/assets/2.1.png" alt="" width="187"><figcaption></figcaption></figure>
 
-#### _<mark style="background-color:green;">**Création d'un compte**</mark>_
+#### Création d'un compte
 
 1. Identifiant: Nom du client ou adresse e-mail
 2. Mot de passe
@@ -77,7 +77,7 @@ Caméra – Accéder à la visualisation des caméras,\
 Evènements – Accéder au journal des évènements de la centrale,\
 Partition (1 à 8) – L'utilisateur aura un accès uniquement aux partitions indiquées
 
-_<mark style="background-color:green;">**Associer un compte existant**</mark>_
+#### Associer un compte existant
 
 En cliquant sur  “Associer à un compte existant”, il sera demandé la saisie de l'identifiant et du mot de passe du compte à utiliser, de configurer les privilèges et l'accès aux partitions.
 
@@ -85,7 +85,7 @@ En cliquant sur  “Associer à un compte existant”, il sera demandé la saisi
 
 <figure><img src="../.gitbook/assets/2.4.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">3. Codes</mark>_
+### 3. Codes
 
 Cette étape permet la configuration des codes utilisateurs.\
 Appuyez sur **Passer**, pour avancer dans l'assistant.\
@@ -93,7 +93,7 @@ Appuyez sur **Oui**, pour être en mesure de configuration un nom et un code our
 
 <figure><img src="../.gitbook/assets/3 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">4. Ajouter un périphérique</mark>_
+### 4. Ajouter un périphérique
 
 Cette étape permet l'ajout de périphérique comme: un détecteur d'ouverture, un PIR, un PIRCAM, une caméra ou autres dans la centrale.\
 Appuyez sur **Passer**, pour avancer dans l'assistant.\
@@ -123,20 +123,20 @@ Pour configurer les zones correctement, il est important d'être familiarisé av
 Par exemple: "Intérieur" est une zone instantanée et "Temporisation d'entrée" est une zone avec délai; ces attributs sont configurable dans les sections liées au mode de fonctionnement de la centrale (Mode Total, Mode, Partiel, Mode Arrêt).
 {% endhint %}
 
-### _<mark style="background-color:yellow;">5. Paramètres de Sécurité</mark>_
+### 5. Paramètres de Sécurité
 
 Cette étape permet de définir les paramètres de sécurité associés aux différents partitions de la centrale.\
 Ex: temporisation d'entrée, temporisation de sortie, ...
 
 <figure><img src="../.gitbook/assets/5.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">6. Paramètres de la Centrale</mark>_
+### 6. Paramètres de la Centrale
 
 Cette étape permet de personnaliser les options de la centrale.
 
 <figure><img src="../.gitbook/assets/6.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">7. Paramètres Réseau</mark>_
+### 7. Paramètres Réseau
 
 Cette étape perme d'activer le transmetteur GSM de la centrale.\
 Appuyez sur **Passer**, pour avancer dans l'assistant.\
@@ -144,7 +144,7 @@ Appuyez sur **Oui**, pour activer la détection de carte SIM et configurer l'APN
 
 <figure><img src="../.gitbook/assets/7.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### _<mark style="background-color:yellow;">8. Paramètres de Transmission</mark>_
+### 8. Paramètres de Transmission
 
 Cette étape permet de configurer l'envoi des évènements et des images provenant de PIRCAMs vers un télésurveilleur.\
 Appuyez sur **Passer**, pour avancer dans l'assistant.\
