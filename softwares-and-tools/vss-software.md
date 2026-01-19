@@ -31,6 +31,10 @@ VSS enables the integration of multiple cameras and enhances security operations
 
 Monitor real-time network, CPU, and memory usage to ensure smooth and reliable operation.
 
+### Software Manual
+
+{% file src="../.gitbook/assets/User_Manual_EN_V1.0.3.pdf" %}
+
 ## Download VSS
 
 To download the VSS software for VESTA Advanced Video, please use the following link:

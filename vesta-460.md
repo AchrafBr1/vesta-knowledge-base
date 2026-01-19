@@ -15,7 +15,7 @@ The camera incorporates anti-masking detectors an advanced anti-masking feature,
 
 ## Identifying the Parts
 
-<figure><img src=".gitbook/assets/Unknown image (17)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (17) (1)" alt=""><figcaption></figcaption></figure>
 
 1. **Flash LED / Infrared LED**
 
@@ -154,7 +154,7 @@ Please refer to the table below for configuration details. For example, to enabl
 * The PIR Camera reports its battery level to the Control Panel every 24 hours or whenever the level changes.
 *   The PIR Camera features low battery voltage detection. When low battery is detected, a low battery signal will be sent to the Control Panel along with regular signal transmissions for the Panel to display the status accordingly.
 
-    <figure><img src=".gitbook/assets/Unknown image (2) (1)" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/Unknown image (2) (1) (1)" alt=""><figcaption></figcaption></figure>
 * **To change the batteries:**
 
 **Step 1** Detach the PIR Camera from mounting bracket.
@@ -208,7 +208,7 @@ Note:
 
 ![](<.gitbook/assets/image (558).png>) If the connection fails, the Green LED will turn off.
 
-![](<.gitbook/assets/Unknown image (3) (1)>)
+![](<.gitbook/assets/Unknown image (3) (1) (1)>)
 
 * Proceed to installation once proper communication with the Panel is confirmed at the chosen location.
 
@@ -234,24 +234,24 @@ For devices using a Repeater, press the Test Button to transmit a learn code aft
 Note:   Ensure the tamper switch is fully depressed when hooking the PIR Camera onto the bracket. **Surface Mounting**
 {% endhint %}
 
-![Surface Mounting](<.gitbook/assets/Unknown image (4) (1)>)
+![Surface Mounting](<.gitbook/assets/Unknown image (4) (1) (1)>)
 
-![Corner Mounting](<.gitbook/assets/Unknown image (5) (1)>)
+![Corner Mounting](<.gitbook/assets/Unknown image (5) (1) (1)>)
 
 4. Apply the Stabilizing Screw to the top of the PIR Camera. The Stabilizing Screw has a foolproof mechanism for correct installation.
 
-![](<.gitbook/assets/Unknown image (6) (1)>)
+![](<.gitbook/assets/Unknown image (6) (1) (1)>)
 
 #### Rotating Holder
 
 * An optional rotating holder is available, allowing the PIR Camera to be rotated horizontally and vertically.
 * The holder provides 7 angle scales for adjustment. For horizontal adjustment, the center calibration mark indicates 0 degrees. The PIR Camera can be rotated up to 15° to the left or right, with each scale representing 5°. ⚫ For vertical adjustment, the PIR Camera can be tilted downward by up to 30°.
 
-![](<.gitbook/assets/Unknown image (7) (1)>)
+![](<.gitbook/assets/Unknown image (7) (1) (1)>)
 
 * To adjust the angle, loosen the **horizontal adjustment screw**or the **vertical adjustment screw** as required.
 
-![](<.gitbook/assets/Unknown image (8) (1)>)
+![](<.gitbook/assets/Unknown image (8) (1) (1)>)
 
 * To mount the Rotating Holder:
   1. Use the two screw holes on the holder as a template and drill two holes in the mounting surface.
@@ -261,7 +261,7 @@ Note:   Ensure the tamper switch is fully depressed when hooking the PIR Camera 
   5. Fasten the stabilizing screw at the top of the PIR Camera.
   6. Adjust the PIR Camera to the desired angle, then tighten the adjustment screw(s) to secure the position.
 
-![](<.gitbook/assets/Unknown image (9) (1)>)
+![](<.gitbook/assets/Unknown image (9) (1) (1)>)
 
 ## Installation Recommendations
 
@@ -285,11 +285,11 @@ Note:
 
 **VST-897EX Detection Range**
 
-![](<.gitbook/assets/Unknown image (10) (1)>)
+![](<.gitbook/assets/Unknown image (10) (1) (1)>)
 
 ***
 
-![Pet Weight/Height: 25kg](<.gitbook/assets/Unknown image (11) (1)>)
+![Pet Weight/Height: 25kg](<.gitbook/assets/Unknown image (11) (1) (1)>)
 
 **Limitations:**
 
@@ -300,16 +300,16 @@ Note:
 * The PIR Camera detects differences between the moving object and the background. It does not detect idle objects.&#x20;
 * Please install the PIR Camera straight up. Do not tilt it.
 
-![](<.gitbook/assets/Unknown image (12) (1)>)
+![](<.gitbook/assets/Unknown image (12) (1) (1)>)
 
 * Avoid installing near objects that move in the wind, such as trees or hanging laundry, as this may block the device’s field of view or cause false alarms.
 
-![](<.gitbook/assets/Unknown image (13) (1)>)
+![](<.gitbook/assets/Unknown image (13) (1) (1)>)
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-![](<.gitbook/assets/Unknown image (14) (1)>)
+![](<.gitbook/assets/Unknown image (14) (1) (1)>)
 
 * Avoid facing the path of outdoor unit’s intake or exhaust airflow.
 
-<figure><img src=".gitbook/assets/Unknown image (15) (1)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (15) (1) (1)" alt=""><figcaption></figcaption></figure>

@@ -20,7 +20,7 @@ The SD-32-H-R2 series includes the following models:
 
 ## _**Parts Identification**_
 
-![](<.gitbook/assets/Unknown image (3)>)
+![](<.gitbook/assets/Unknown image (3) (1)>)
 
 ### **1. LED Indicator / Test Button / Emergency Light**
 
@@ -169,14 +169,14 @@ The Smoke Detector can be programmed to sound **Burglar Alarm**, **Panic Alarm**
 * The Smoke Detector will apply the Control Panel’s alarm duration setting as default when it is learned in.
 * The alarm duration can be configured via the Smoke Detector device settings on Home Portal Server.
 
-![](<.gitbook/assets/Unknown image (4)>) ![](<.gitbook/assets/Unknown image (5)>)
+![](<.gitbook/assets/Unknown image (4) (1)>) ![](<.gitbook/assets/Unknown image (5) (1)>)
 
 #### Home Automation Setting
 
 * Users can configure a Home Automation Rule to have the Smoke Detector(s) in the selected area(s) sound Burglar or CO Alarm when triggered.&#x20;
 * Set the trigger type to Burglar/CO Alarm for the selected area, and then set the Action Type to Burglar/CO Alarm for the same or other selected area(s). When the rule is triggered, all the smoke detectors in the specified area(s)\_ will sound alarm.
 
-![](<.gitbook/assets/Unknown image (7)>)
+![](<.gitbook/assets/Unknown image (7) (1)>)
 
 ### _**Emergency Light**_**&#x20;(SD-32-HE-SC/-HME-SC only)**
 
@@ -189,7 +189,7 @@ The Smoke Detector can be programmed to sound **Burglar Alarm**, **Panic Alarm**
   * Wait for the smoke concentration to drop below the alarm threshold, or
   * Press the Test Button on the triggered Smoke Detector. This will also stop all interconnected Smoke Detectors.
 
-![](<.gitbook/assets/Unknown image (8)>) _Pressing the Test Button on any other smoke detector will only stop the alarm of that specific unit; it will not silence the alarms across the entire system._
+![](<.gitbook/assets/Unknown image (8) (1)>) _Pressing the Test Button on any other smoke detector will only stop the alarm of that specific unit; it will not silence the alarms across the entire system._
 
 * **(For Security System only)** Disarming the system will stop alarms activated by the Control Panel on all interconnected Smoke Detectors. However, the originally triggered Smoke Detector will continue alarming until the smoke concentration falls below the threshold or its Test Button is pressed to silence its alarm.
 
@@ -241,7 +241,7 @@ It is recommended to write the “Replace by” date (10 years from installation
 
 ### Smoke Detection Installation Guidelines
 
-<figure><img src=".gitbook/assets/Unknown image (9)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (9) (1)" alt=""><figcaption></figcaption></figure>
 
 It is recommended that the installation site be in the center area of the ceiling.
 
@@ -282,23 +282,23 @@ Please follow the steps below to mount the Smoke Detector:
 
 For easier alignment, first locate the two mounting holes farther from the inner circle edge on both the mounting sheet and the mounting bracket. Align these holes first, and the remaining ones should naturally follow.
 
-<figure><img src=".gitbook/assets/Unknown image (10)" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (10) (1)" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Unknown image (11)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (11) (1)" alt=""><figcaption></figcaption></figure>
 
 Step 4 – Mounting Detector: The Heat Detector has 4 hooks on its back cover. Fit the Heat Detector and fit it onto the four notches on the mounting bracket using the hooks (FIG. 1).
 
-<figure><img src=".gitbook/assets/Unknown image (13)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (13) (1)" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Unknown image (12)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (12) (1)" alt=""><figcaption></figcaption></figure>
 
 Step 5: Rotate the Smoke Detector clockwise to lock it in place (FIG. 2).
 
 Step 6: Installation is now complete (FIG. 3). You can remove the mounting sheet.
 
-<figure><img src=".gitbook/assets/Unknown image (14)" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Unknown image (14) (1)" alt=""><figcaption></figcaption></figure>
 
 * For models with built-in IR detection **(SD-32-HM/-HM-SC/-HME-SC)**, the IR detector has more coverage toward the side the IR lens is located than the other side. Refer to diagram below for detection coverage when mounted at a height of 3 meters. The detection coverage varies based on the mounting height.
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement (the right diagram below).
 
-![](<.gitbook/assets/Unknown image (15)>) ![](<.gitbook/assets/Unknown image (16)>)
+![](<.gitbook/assets/Unknown image (15) (1)>) ![](<.gitbook/assets/Unknown image (16) (1)>)

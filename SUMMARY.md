@@ -252,6 +252,7 @@
 * [VESTA-400](vesta-400.md)
 * [VESTA 402](vesta-402.md)
 * [VESTA-404](vesta-404.md)
+* [VESTA-407](vesta-407.md)
 * [VESTA-411](vesta-411.md)
 * [VESTA-413](vesta-413.md)
 * [VESTA-414](vesta-414.md)
