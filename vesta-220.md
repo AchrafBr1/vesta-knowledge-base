@@ -4,7 +4,7 @@
 
 ## **Z-Wave Garage Door Control**
 
-<figure><img src=".gitbook/assets/image (128).png" alt=""><figcaption><p><a href="https://bydemes.com/es/productos/intrusion/alarma-vesta/dispositivos-z-wave/VESTA-220">VESTA-220</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (128).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/it/product/VESTA-220/">VESTA-220</a></p></figcaption></figure>
 
 ## **Introduction**
 
