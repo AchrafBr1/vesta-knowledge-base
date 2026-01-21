@@ -164,6 +164,7 @@
 * [VESTA-216](vesta-216.md)
 * [VESTA-217](vesta-217.md)
 * [VESTA-218](vesta-218.md)
+* [VESTA-219](vesta-219.md)
 * [VESTA-220](vesta-220.md)
 * [VESTA-221](vesta-023-1.md)
 * [VESTA-222](vesta-222.md)
@@ -449,7 +450,3 @@
 * [VS-1280ZJ-S](cameras-accessories/vs-1280zj-s.md)
 * [VS-1280ZJ-XS](cameras-accessories/vs-1280zj-xs.md)
 * [VS-1280ZJ-XS-BLACK](cameras-accessories/vs-1280zj-xs-black.md)
-
-***
-
-* [VESTA-219](vesta-219.md)
