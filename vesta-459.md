@@ -2,7 +2,7 @@
 
 ## VESTA control module for Yale Doorman lock
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 
@@ -45,7 +45,7 @@ This step can be skipped if you already know your master code
 
 #### **Insert DDL-C3 module & Pair with Panel**
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Put your Control Panel into learning mode.
 2. Open your door and enter **#Master Code#**, e.g. if your code is 123456, enter\*\*\*\*#123456#.

@@ -226,7 +226,7 @@ The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users 
 
 7. Remove the liner from the tape on the back of the paper card, stick the card to the wall to prevent slipping, then fasten the two bottom fixing screws of the Panel.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Fold the two flaps of the paper card outward, route the power cable through the AUX-PS opening, and connect power cable through the AUX-PS opening, and connect and secure the two cable wires to the AUX-PS terminals.
 

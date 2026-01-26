@@ -10,6 +10,16 @@ This portal is your primary resource for accessing technical documentation and u
 
 ***
 
+### Choose Your Language
+
+Select your preferred language for navigating the VESTA Alarm System documentation:
+
+Feel free to choose the language that suits you best to ensure a seamless experience.
+
+<figure><img src="https://cdn-icons-png.flaticon.com/512/2793/2793627.png" alt="" width="188"><figcaption></figcaption></figure>
+
+***
+
 {% hint style="warning" %}
 We would like to remind you that as of February 2025, our **new SmartHomeSec portal**: [portal.vestasecurity.eu](https://portal.vestasecurity.eu/Vesta/) is available, ensuring the continued provision of all VESTA services.
 {% endhint %}
