@@ -25,11 +25,11 @@ icon: video
 
 {% tabs %}
 {% tab title="VFA150" %}
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="113"><figcaption><p><a href="../cameras-accessories/vfa150.md">VFA150</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="113"><figcaption><p><a href="../cameras-accessories/vfa150.md">VFA150</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VS-1280ZJ-S" %}
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vs-1280zj-s.md">VS-1280ZJ-S</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vs-1280zj-s.md">VS-1280ZJ-S</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

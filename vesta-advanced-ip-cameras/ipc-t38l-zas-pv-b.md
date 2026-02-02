@@ -21,7 +21,7 @@ icon: question
 
 {% tabs %}
 {% tab title="VFA137-B" %}
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137-b.md">VFA137-B</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137-b.md">VFA137-B</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA152A-E" %}

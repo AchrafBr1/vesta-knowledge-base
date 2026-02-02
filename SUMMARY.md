@@ -323,6 +323,7 @@
 * [CID TABLE FOR RULES AND EVENT FILTER](tips-and-help/cid-table-for-rules-and-event-filter.md)
 * [VMAX BUS TIPS](tips-and-help/vmax-bus-tips.md)
 * [CAMERAS](tips-and-help/cameras.md)
+* [Devices OTA updates - SmartHomeSec](tips-and-help/devices-ota-updates-smarthomesec.md)
 
 ## Installer guides
 

@@ -29,7 +29,7 @@ icon: video
 {% endtab %}
 
 {% tab title="VFB203W" %}
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA130-E" %}
