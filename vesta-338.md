@@ -18,10 +18,10 @@ Mobile Lite R-23
 
 **STEP 1: SIM activation and APN configuration:**
 
-The device **includes** a SIM card from simalarm.eu the APN is: **internet.csliot.com**
+The device **includes** a SIM card from simalarm.eu the APN is: **simalarm.tele2.com**
 
 1. **SIM activation:**
-   * Access the simalarm SIM activation plan at the following link: [SIM Plan ](https://www.simalarm.eu/es/generic-5-mb-20-sms-5voice-general-clone-en/)**.**
+   * Access the simalarm SIM activation plan at the following link: [SIM Plan ](https://www.simalarm.eu/es/simcards/simalarm-2/)**.**
    * Follow the [instructions](https://vesta-guide.gitbook.io/vesta-guide/third-parties/simalarm) to activate the SIM that comes embedded in the Mobile Lite VESTA-338 device.
 2. **APN Settings:**
    *   If the device does not have the APN preconfigured, send an SMS to the device with the following format:
