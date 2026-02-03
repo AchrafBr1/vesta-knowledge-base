@@ -27,13 +27,13 @@ Before updating any device, make sure the RF module of your panel is up to date.
 * Select **Updates**
   *
 
-      <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 * Open **RF**
 *   Update the RF module to **version 35 or higher**
 
     *
 
-        <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -53,7 +53,7 @@ Once the RF module is updated:
 * Choose the correct **firmware according to the sensor model**
 * Apply the update
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 
 

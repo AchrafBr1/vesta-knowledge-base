@@ -262,6 +262,7 @@
 * [VESTA-421](vesta-421.md)
 * [VESTA-422](vesta-422.md)
 * [VESTA-423](vesta-423.md)
+* [VESTA-423-Black](vesta-423-black.md)
 * [VESTA-423 NOAM](vesta-423-noam.md)
 * [VESTA-424](vesta-424.md)
 * [VESTA-425](touchpanel-3.md)
@@ -288,6 +289,7 @@
 * [VESTA-459](vesta-459.md)
 * [VESTA-460](vesta-460.md)
 * [VESTA-464](vesta-464.md)
+* [VESTA-467](vesta-467.md)
 * [VESTA-468](vesta-468.md)
 * [VESTA-470](vesta-470.md)
 * [VESTA-472](vesta-xx3-sd-32-sc-f1-2w-868.md)
@@ -298,6 +300,7 @@
 * [VESTA-478](vesta-478.md)
 * [VESTA-479](vesta-479.md)
 * [VESTA-480](vesta-480.md)
+* [VESTA-481](vesta-481.md)
 
 ## 📄 CERTIFICATES
 
