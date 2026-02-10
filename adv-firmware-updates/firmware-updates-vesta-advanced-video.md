@@ -20,3 +20,8 @@ Keep your VESTA Advanced Video cameras up to date with the latest official firmw
 Updating your devices ensures optimal performance, access to new features, and maximum security for your video surveillance system.
 {% endhint %}
 
+Manuals
+
+{% file src="../.gitbook/assets/Network Video Recorder User_s Manual240820.pdf" %}
+
+{% file src="../.gitbook/assets/VESTA Advanced Series .pdf" %}
