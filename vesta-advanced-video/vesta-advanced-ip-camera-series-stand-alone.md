@@ -95,7 +95,7 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 ### VESTA advanced series complete manual guide&#x20;
 
-{% file src="../.gitbook/assets/VESTA Advanced Series .doc" %}
+{% file src="../.gitbook/assets/VESTA_Advanced Series  (1).pdf" %}
 
 ### Quick Guide
 
