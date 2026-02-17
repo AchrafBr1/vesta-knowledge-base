@@ -39,6 +39,6 @@ Monitor real-time network, CPU, and memory usage to ensure smooth and reliable o
 
 To download the VSS software for VESTA Advanced Video, please use the following link:
 
-<figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgDWe3-8g5HYR7wme9sgJ7wBAVGQAezsBMWW_KToYv8yI5k?e=5eW77U"><strong>Download VSS software for windows</strong></a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgDWe3-8g5HYR7wme9sgJ7wBAVGQAezsBMWW_KToYv8yI5k?e=ONwwTN"><strong>Download VSS software for windows</strong></a></p></figcaption></figure>
 
-<p align="center">Software VSS Updated 5/11/2025 </p>
+<p align="center">Software VSS Updated 30/01/2026 V2.4.2.R</p>
