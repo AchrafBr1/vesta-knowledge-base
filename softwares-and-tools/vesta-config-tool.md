@@ -18,8 +18,8 @@ With built-in **P2P remote functionality**, remote configuration and web access 
 
 To download the Vesta config tool software for VESTA Advanced Video, please use the following link:
 
-<figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgBsGZ0YSN3YR59QXxdPCB1AAXFbxNtk3whzrOk8OAiAgqo?e=yjataA"><strong>Download VESTA CONFIG TOOL</strong></a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:u:/g/personal/vesta_vestasecurity_eu/IQBwGlOOookCR6TZB89BuX45AQlmzxc-yYcZ6EHW7CeDbuM?e=pt7cVl"><strong>Download VESTA CONFIG TOOL</strong></a></p></figcaption></figure>
 
-<p align="center"><a data-footnote-ref href="#user-content-fn-1">(New release 05/11/2025 - Support Multilanguage)</a></p>
+<p align="center"><a data-footnote-ref href="#user-content-fn-1">(New release 29/12/2025- V1.2.3.2)</a></p>
 
 [^1]: 
