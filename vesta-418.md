@@ -298,10 +298,10 @@ The Tamper Switch is in normal operating position (Tamper Closed) when the Repea
 ### **Repeater Usage**
 
 {% hint style="warning" %}
-* **Maximum recommended number of repeaters per panel:** **3 repeaters**.\
+* **Maximum recommended number of repeaters per panel:** 4 **repeaters**.\
   Exceeding this number may cause **RF signal saturation**, which can negatively impact system performance.\
-  However, **if due to significant distance it is absolutely necessary to add more than 3 repeaters directly to the panel**, and this need has been properly assessed, **additional repeaters may be added like example bellow with 4 repeters**. The **recommended maximum remains 3**.
-* **Daisy-chaining repeaters:** It is not recommended to connect more than **2 repeaters in a chain**.\
+  However, **if due to significant distance it is absolutely necessary to add more than 4 repeaters directly to the panel**, and this need has been properly assessed, **additional repeaters may be added like example bellow with 4 repeters**.
+* **Daisy-chaining (Mesh) repeaters:** It is not recommended to connect more than **2 repeaters in a chain**.\
   **Whenever possible, repeaters should be connected directly to the panel**.\
   If this is not feasible, a **maximum of 2 daisy-chained repeaters** is allowed.
 {% endhint %}
@@ -320,7 +320,7 @@ In the example below when one repeater is used:
 
 ### Multiple Repeaters
 
-In Example1 when multiple repeaters are used:
+In Example1 when multiple repeaters are used (star connection):
 
 * All Repeaters (A/B/C/D) and Devices (1/2/3/4) should be learned into the Control Panel.
 * Devices (1/2/3/4) need to be learned into the respective repeaters in their operation areas.
@@ -331,7 +331,7 @@ Device 2 into Repeater B,
 
 Device 3 into Repeater C, Device 4 into Repeater D.
 
-In Example 2, where the Device 5 is located between the RF coverage areas of two Repeaters, please choose **one Repeater only** to learn the Device 5 to prevent signal traffic. **Do Not** learn a device into more than one repeater.
+In Example 2 (star connection), where the Device 5 is located between the RF coverage areas of two Repeaters, please choose **one Repeater only** to learn the Device 5 to prevent signal traffic. **Do Not** learn a device into more than one repeater.
 
 * Repeater E and F should be learned into the Control Panel.
 * Device 5 has to be learned into One Repeater Only (**either Repeater E only or Repeater F only**). Do NOT learn Device 5 into both repeaters.
@@ -343,7 +343,7 @@ When linking repeaters to form a transmission replay, please use no more than tw
 repeaters. Only the MDC-5, IR-35, and SD-32 models are compatible with this configuration.
 
 \
-In the Example 3 below (Device to B to A to Control Panel), Repeater A, Repeater B, and the\
+In the Example 3  below (Device to B to A to Control Panel,  mesh connection), Repeater A, Repeater B, and the\
 Device must all be learned into the Control Panel.
 
 Learn the Device into its closest repeater (Repeater B), and learn Repeater B into Repeater A. (Do\
