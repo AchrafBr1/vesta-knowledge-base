@@ -95,3 +95,20 @@ The device **includes** a SIM card from simalarm.eu the APN is: **simalarm.tele2
 **Mobile phone:** VERY IMPORTANT! It must be the phone number of the SIM inserted in the mobile lite, in the case of the SIMALARM SIM it comes on the blue/white card
 
 Once the device is registered, it can be configured from MedAlert
+
+
+
+#### Programming with VESTA-461 Cable
+
+<figure><img src=".gitbook/assets/image (585).png" alt="Mobile lite PC tool" width="375"><figcaption><p>Mobile lite PC tool</p></figcaption></figure>
+
+To program your device using the VESTA-461 cable, follow these steps:
+
+1. **Install Drivers**: Ensure you have the latest drivers installed. These can be found on our support page.
+2. **Download Software**: Access the programming software from this link bellow.
+3. **Connect Cable**: Attach the VESTA-461 cable securely to your device.
+4. **Launch Software**: Open the installed software and follow the on-screen instructions to program your device locally.
+
+
+
+{% file src=".gitbook/assets/Mobile Tool (R8_V3, R23, R29, R32) V0.15.rar" %}
