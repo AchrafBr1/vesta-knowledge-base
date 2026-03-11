@@ -461,3 +461,4 @@
 * [VS-1280ZJ-S](cameras-accessories/vs-1280zj-s.md)
 * [VS-1280ZJ-XS](cameras-accessories/vs-1280zj-xs.md)
 * [VS-1280ZJ-XS-BLACK](cameras-accessories/vs-1280zj-xs-black.md)
+* [Privacy Policy – HYU Connect App](cameras-accessories/privacy-policy-hyu-connect-app.md)
