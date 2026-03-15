@@ -50,3 +50,7 @@ How To Install
 {% content-ref url="setup-vesta-home-ip-cam.md" %}
 [setup-vesta-home-ip-cam.md](setup-vesta-home-ip-cam.md)
 {% endcontent-ref %}
+
+{% hint style="success" %}
+[Upgrade guide](https://vesta-guide.gitbook.io/vesta-guide/vesta-home-ip-cameras/ipc-b32-out-wf-firmware-update-guide)
+{% endhint %}
