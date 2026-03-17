@@ -57,7 +57,9 @@ When the battery is depleted, the LED flashes every 4 seconds and the Temperatur
 
 **Step 2** Connect the External Temperature Probe to the terminal
 
-**Step 3** Insert the battery into the battery holder taking care to connect the polarity correctly. **Step 4** Put the Control Panel into learning mode. Please refer to your Control Panel user manual.
+**Step 3** Insert the battery into the battery holder taking care to connect the polarity correctly.&#x20;
+
+**Step 4** Put the Control Panel into learning mode. Please refer to your Control Panel user manual.
 
 **Step 5** Press Learn Button to send learn code to Control Panel.
 
