@@ -2,7 +2,7 @@
 
 &#x20;TSP-1-BUS
 
-## Touch screen BUS Keypad
+## Touch screen Keypad on BUS&#x20;
 
 <figure><img src=".gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
