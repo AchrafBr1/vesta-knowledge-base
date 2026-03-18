@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # VESTA-472-R2
 
 SD-32-HM-SC-F1-2W

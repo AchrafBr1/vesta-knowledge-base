@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # VESTA-474
 
 SFB-3-COMBO

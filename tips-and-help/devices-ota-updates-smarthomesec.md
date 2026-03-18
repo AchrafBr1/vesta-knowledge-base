@@ -73,3 +73,22 @@ After the update is completed:
 {% hint style="success" %}
 Once verified, the device is ready to be used normally.
 {% endhint %}
+
+## How can you tell if your panel has an **F1** or **SF1** RF module?
+
+Log in as an installer using the SmartHomeSec app or the web portal and go to the control panel settings. Scroll down to find information about the control panel and RF radio module firmware.
+
+<figure><img src="../.gitbook/assets/image (595).png" alt=""><figcaption></figcaption></figure>
+
+If the RF firmware label is:
+
+* **BG\_U-ITR-F1 … = F1**
+* BGST-U-ITR-F1 = **SF1**
+
+<figure><img src="../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure>
+
+
+
+In the FW update page, select  the correct one.
+
+<figure><img src="../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
