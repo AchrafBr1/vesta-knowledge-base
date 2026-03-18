@@ -6,9 +6,9 @@ icon: video
 
 ## 5MP Smart Dual Light Active Deterrence Pro AI outdoor IP camera
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-B35-AS-PV/">IPC-B35-AS-PV</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-B35-AS-PV/">IPC-B35-AS-PV</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-smarthomesec.md#quick-guide)
 

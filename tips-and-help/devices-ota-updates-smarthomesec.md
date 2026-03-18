@@ -27,7 +27,7 @@ Before updating any device, make sure the RF module of your panel is up to date.
 * Select **Updates**
   *
 
-      <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 * Open **RF**
 *   Update the RF module to **version 35 or higher**
 

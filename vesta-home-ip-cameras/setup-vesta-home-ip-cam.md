@@ -53,7 +53,7 @@ Vantages to add to the equipment:
 * PTZ control for the VESTA-292
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
 
 * Add to the cloud: The camera will be installed using the cloud. The user will see the live video only from the user's app account.
 
