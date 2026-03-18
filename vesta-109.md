@@ -202,3 +202,32 @@ Below are the technical details and available configuration options for the devi
 
 These options can be accessed through the device’s web interface or dedicated configuration app, once the VDP is connected to the network.
 
+## Firmware update
+
+To update the VDP-3 firmware, you need to download:
+
+Finder software:  FINDER
+
+
+
+VDP-3 firmware:
+
+{% file src=".gitbook/assets/VDP3_-0.00.3.18d_t7_iperf_sip_strerror.bin" %}
+
+1. Open Finder software and press "Search" button
+
+<figure><img src=".gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+2. Select the VDP3 and press "Open Web Page" button
+
+<figure><img src=".gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+3. Open the System Settings menu and select Firmware Upgrade page
+
+<figure><img src=".gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+
+Press Apply to upgrade the VDP firmware.
