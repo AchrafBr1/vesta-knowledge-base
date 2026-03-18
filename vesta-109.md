@@ -206,13 +206,9 @@ These options can be accessed through the device’s web interface or dedicated 
 
 To update the VDP-3 firmware, you need to download:
 
-Finder software:  FINDER
+Finder software:  [FINDER](https://vestasecurity-my.sharepoint.com/:u:/g/personal/vesta_vestasecurity_eu/IQCrd0tW7N8-TbGa9PtsfXUUAYLROMoyFON4dAiLpWnlq-c?e=8Ro729)
 
-
-
-VDP-3 firmware:
-
-{% file src=".gitbook/assets/VDP3_-0.00.3.18d_t7_iperf_sip_strerror.bin" %}
+VDP-3 firmware: [VDP-3 Firmware](https://vestasecurity-my.sharepoint.com/:u:/g/personal/vesta_vestasecurity_eu/IQA0EAk-90MuRJWdMWqt-FFDAdDcoRPO0xQeRAjyHk99qOg?e=l9tq5X)
 
 1. Open Finder software and press "Search" button
 
