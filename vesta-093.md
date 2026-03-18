@@ -60,7 +60,7 @@ Step 2. Open the upper cover of PCU by using the flat-headed screwdriver (**Pic 
 
 Step 3. Loosen the two screws on the PCU base securing the stabilizer using a Philips screwdriver so that the stabilizer becomes mobile (**Pic 3.**) _It is not mandatory to entirely remove both screws_.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                                                    **(Pic 3.)**
 

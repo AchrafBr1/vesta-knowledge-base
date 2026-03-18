@@ -307,7 +307,7 @@ For corner mounting, use the four corner screw holes as a template.
 1. Insert the provided wall plugs.
 2. Screw the mounting bracket onto the wall plugs.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Undo the bottom fixing screw and detach the device cover from its base.
 5. Route the BUS wire through a Breakaway Area for Wiring and close the Battery Compartment Cover.
@@ -321,10 +321,10 @@ Ensure the PIR Camera is securely hooked onto the mounting bracket so that the t
 
 7. Secure the base to Mounting Bracket B with the stabilizing screw.
 
-<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Attach the upper part of the device cover to the base, then snap the lower part into place.
 
-<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Tighten the bottom fixing screw.

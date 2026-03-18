@@ -8,7 +8,7 @@ MDC-3-ADC2
 
 ## Part Identification
 
-![](<.gitbook/assets/Unknown image>)
+![](<.gitbook/assets/Unknown image (1)>)
 
 1. **Battery Insulator**
 2. **Rib Marks**

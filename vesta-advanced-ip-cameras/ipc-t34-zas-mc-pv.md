@@ -21,7 +21,7 @@ icon: video
 
 {% tabs %}
 {% tab title="VFA137" %}
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137.md">VFA137</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137.md">VFA137</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
@@ -33,6 +33,6 @@ icon: video
 {% endtab %}
 
 {% tab title="VFA130-E" %}
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa130-e.md">VFA130-E</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa130-e.md">VFA130-E</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

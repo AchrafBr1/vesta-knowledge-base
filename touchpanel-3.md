@@ -1310,7 +1310,7 @@ Tap **Submit** to save the settings.
 
 Tap the info icon ![](<.gitbook/assets/Unknown image (241)>) to display the SMS report format.
 
-![](<.gitbook/assets/Unknown image (1) (1) (1) (1) (1) (1)>)
+![](<.gitbook/assets/Unknown image (1) (1) (1) (1) (1) (1) (1)>)
 
 * SMS in CID
 

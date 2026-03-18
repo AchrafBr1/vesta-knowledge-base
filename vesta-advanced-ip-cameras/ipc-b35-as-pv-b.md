@@ -8,7 +8,7 @@ icon: video
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-B35-AS-PV-B/">IPC-B35-AS-PV-B</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-smarthomesec.md#quick-guide)
 

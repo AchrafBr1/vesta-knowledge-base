@@ -21,9 +21,9 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 1. **Valve Cap**
 2. **LCD Display**
 
-<div align="left"><figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure></div>
 
-A.  <img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**ON** when device is already added into Z-Wave network.
+A.  <img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**ON** when device is already added into Z-Wave network.
 
 B. <img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Low Battery Indicator.**
 
@@ -165,9 +165,9 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 
 * Rotating the Valve cap clockwise to tighten the Radiator Valve.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="238"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="238"><figcaption></figcaption></figure>
 
-* Press the Auto/Manual button, LCD displays **AdA** and valve motor starts working again, the <img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon will flash. The device motor is measuring the distance to adjust the current temperature.
+* Press the Auto/Manual button, LCD displays **AdA** and valve motor starts working again, the <img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon will flash. The device motor is measuring the distance to adjust the current temperature.
 * When the valve motor stops, the system will enter Manual mode with LCD displaying the default set temperature 18.5°C, the installation is now complete.&#x20;
 * After joining Z-Wave network and completing installation, the Z-Wave connection icon <img src=".gitbook/assets/image (151).png" alt="" data-size="line"> will appear on LCD display.&#x20;
 * If Radiator Valve loses connection to current Z-Wave network, the Z-Wave connection icon will disappear. Please check Z-Wave network condition and Radiator Valve signal range to correct the situation.

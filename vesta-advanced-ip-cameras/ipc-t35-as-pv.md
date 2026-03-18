@@ -6,9 +6,9 @@ icon: video
 
 ## 5MP Smart Dual Light Active Deterrence Pro AI Outdoor IP Dome
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-T35-AS-PV/">IPC-T35-AS-PV</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-T35-AS-PV/">IPC-T35-AS-PV</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-smarthomesec.md#quick-guide)
 
@@ -21,7 +21,7 @@ icon: video
 
 {% tabs %}
 {% tab title="VFA137" %}
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137.md">VFA137</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137.md">VFA137</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
@@ -33,6 +33,6 @@ icon: video
 {% endtab %}
 
 {% tab title="VFA130-E" %}
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa130-e.md">VFA130-E</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa130-e.md">VFA130-E</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

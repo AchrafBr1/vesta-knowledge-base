@@ -6,7 +6,7 @@ icon: video
 
 ## 5MP Smart Dual Light Active Deterrence Pro AI Outdoor IP Dome
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-T35-AS-PV-B/">IPC-T35-AS-PV-B</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-T35-AS-PV-B/">IPC-T35-AS-PV-B</a></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 

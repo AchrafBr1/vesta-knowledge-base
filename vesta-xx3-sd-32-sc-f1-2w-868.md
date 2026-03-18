@@ -16,7 +16,7 @@ The SD-32 series includes the following models:
 
 ## _**Parts Identification**_
 
-![](<.gitbook/assets/Unknown image (1) (1) (1) (1)>)
+![](<.gitbook/assets/Unknown image (1) (1) (1) (1) (1)>)
 
 **1. LED Indicator / Test Button / Emergency Light**
 

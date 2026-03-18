@@ -4,7 +4,7 @@
 
 ## **WIRED/WIRELESS COMBO KEYPAD**
 
-<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 KP-35-COMBO is a hardwired and wireless keypad designed to have quick access control of the system control panel. The keypad can send wired and wireless signals to and receive signals from the Control Panel within wire distance, depending on the wire gauge and the total power consumption of all wired devices. The LCD screen will display information the system control panel sends back.
 

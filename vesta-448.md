@@ -138,13 +138,13 @@ A user PIN code must be unique, even across areas. Therefore, when a PIN code is
 
 For example, if you assign <mark style="color:red;">**1234**</mark> to both Area 1 and Area 2 on **PIN Code (NEW)** page, the system will update the PIN to <mark style="color:blue;">**01**</mark><mark style="color:red;">**1234**</mark> for Area 1 and <mark style="color:blue;">**02**</mark><mark style="color:red;">**1234**</mark> for Area 2 on the **PIN Code** page.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A PIN Code assigned to <mark style="color:blue;">multiple areas</mark> must be limited to <mark style="color:blue;">4 digits</mark> in **PIN Code (NEW)** page, as the system will automatically add the area number as the first two digits in **PIN (Code)** page.
 
 On the other hand, a PIN Code for a <mark style="color:blue;">single area</mark> can be <mark style="color:blue;">set up to 6 digits.</mark>
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Add Tag/Clear Tag Procedures
 
@@ -174,7 +174,7 @@ Step 1. Go to the **PIN Code** page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click **Submit**.
 
-<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 3. The tag is cleared.
 
@@ -185,7 +185,7 @@ Step 3. The tag is cleared.
 * A question mark “**?**” will be displayed if the area status cannot be identified.
 * Example:
 
-<div align="left"><figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### System Mode Change
 

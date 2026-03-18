@@ -312,7 +312,7 @@ To use the stabilizing screw, you will need to detach the PIR Camera’s front c
 
 **Corner Mounting**
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Surface Mounting without the mounting bracket**
   * The PIR Camera can also be mounted on a flat surface with the fixing screws and wall plugs without the mounting bracket.
@@ -326,7 +326,7 @@ To use the stabilizing screw, you will need to detach the PIR Camera’s front c
     6. Fit the upper part of the cover to the base, and then close the lower part.
     7. Tighten the bottom fixing screw to firmly attach the front cover to the base.
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Installation Recommendations**_
 
@@ -339,6 +339,6 @@ To use the stabilizing screw, you will need to detach the PIR Camera’s front c
   * As far from the windows or doors as possible to avoid external sound interference.
 * **Limitations**
 
-<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
