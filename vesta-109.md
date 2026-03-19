@@ -210,6 +210,10 @@ Finder software:  [FINDER](https://vestasecurity-my.sharepoint.com/:u:/g/persona
 
 VDP-3 firmware: [VDP-3 Firmware](https://vestasecurity-my.sharepoint.com/:u:/g/personal/vesta_vestasecurity_eu/IQA0EAk-90MuRJWdMWqt-FFDAdDcoRPO0xQeRAjyHk99qOg?e=l9tq5X)
 
+{% hint style="info" %}
+Note: Please be aware that it is necessary to restart the device before you can continue.
+{% endhint %}
+
 1. Open Finder software and press "Search" button
 
 <figure><img src=".gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
@@ -217,6 +221,10 @@ VDP-3 firmware: [VDP-3 Firmware](https://vestasecurity-my.sharepoint.com/:u:/g/p
 
 
 2. Select the VDP3 and press "Open Web Page" button
+
+{% hint style="info" %}
+Note: the default password is: cX+HsA\*7F1
+{% endhint %}
 
 <figure><img src=".gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
 
