@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# VESTA-480
+# VESTA 480
 
 PSS-29-R2
 

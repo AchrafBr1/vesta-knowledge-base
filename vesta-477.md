@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# VESTA-477
+# VESTA 477
 
 EIR-35
 

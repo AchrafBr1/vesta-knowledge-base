@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# VESTA-481
+# VESTA 481
 
 PSS-29ZW-R2
 

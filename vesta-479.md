@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# VESTA-479
+# VESTA 479
 
 ### VST-897EX-HDR-IL-SOLAR-SF1-2W-868
 
