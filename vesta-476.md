@@ -4,7 +4,7 @@ DC-23Z2-F1-2W-868
 
 ## Door Contact with Wired Input (N.C or Roller Shutter)
 
-Door Contact (DC-23Z2-2W)
+<figure><img src=".gitbook/assets/image (598).png" alt=""><figcaption></figcaption></figure>
 
 The Door Contact is used to detect the opening and closing of doors and windows. Typically the Door Contact is fixed to the door frame and the actuating magnet is fixed to the door. When the door opens, the magnet is moved away from the Door Contact and an internal magnetic switch will be activated causing the Door Contact to transmit an alarm.&#x20;
 
