@@ -36,7 +36,7 @@ Use the SmartHomeSec app to initialise the camera and **add** it to the system
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
 
-### STEP 4: Press the VESTA/Imou icon
+### STEP 4: Press the VESTA Home icon
 
 ### STEP 5: Scan the Camera QR code and press NEXT&#x20;
 
@@ -135,7 +135,7 @@ The **VESTA HOME / ADV cameras** allow you to receive notifications even while t
    1.
 
        <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
-2. Locate the option **Chime as Attribute during Disarm**:&#x20;
+2. Locate the option Image notification **as attribute during Disarm**:&#x20;
    1.
 
        <figure><img src="../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
