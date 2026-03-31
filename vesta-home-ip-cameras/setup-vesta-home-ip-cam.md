@@ -135,11 +135,15 @@ The **VESTA HOME / ADV cameras** allow you to receive notifications even while t
    1.
 
        <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
-2. Locate the option Image notification **as attribute during Disarm**:&#x20;
+2. Locate the option **Image notification** as attribute **during Disarm**:&#x20;
    1.
 
-       <figure><img src="../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 3. Enable this option on the camera.
+
+{% hint style="warning" %}
+Note: To enable notifications for images, you must arm and disarm the control panel at least once
+{% endhint %}
 
 #### What Happens Next:
 
@@ -147,7 +151,7 @@ The **VESTA HOME / ADV cameras** allow you to receive notifications even while t
 * If the camera detects activity, you will receive a **push notification**:
   * _Human Detected / Motion Detected_
 
-⚠️ **Important:** In this mode, the camera **will not capture images**. You will only get the push notification. You can then open the live stream manually if you want to check what’s happening.
+⚠️ **Important:** In this mode, the camera **will capture images**. You will get the push notification. You can view the photos in the panel events log.
 
 
 
@@ -164,12 +168,6 @@ The Anti-Dither option determines how long a movement must last in the scene to 
 
 {% hint style="info" %}
 Additionally, between detections the camera has a **sleep time of 3 minutes**, meaning that continuous motion will only trigger one event every 3 minutes.
-{% endhint %}
-
-{% hint style="success" %}
-#### Coming Soon:
-
-The platform will soon support a new attribute: **Notifications with Image**. Once available, you will not only get the notification but also a snapshot from the camera directly in the alert.
 {% endhint %}
 
 ***

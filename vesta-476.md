@@ -114,7 +114,7 @@ If you want to disable one of the functions, remove its corresponding zone from 
 * Find a suitable location close to your door/window to install the Door Contact.
 * The Door Contact has 2 rib-marks on one side (refer to the picture), marking the internal magnet switch location. The door contact should be installed either upright or inverted to ensure that the rib-marked side faces the magnet.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * To mount the Door Contact:
 
@@ -148,7 +148,7 @@ d)          Installation is now complete.
 
 ## Internal Jumper and Terminal&#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1.  Extension Terminal**
 
