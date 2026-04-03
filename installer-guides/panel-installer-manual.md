@@ -250,7 +250,41 @@ Reporting URLs are used by the installer to program report destinations for the 
 **Format:** `mailto:user@example.com`\
 **Example:** `mailto:john@gmail.com`
 
-###
+#### 9. SIA Protocol via TCP IP (Area Zone Number Reporting)
+
+**Format**: `ip://(Account Number)@(Server IP):(Port)/SIA_A` **Example**:`ip://1234@54.183.182.247:8080/SIA_A`
+
+#### 10. SIA DC-09 Protocol via IP (Area Zone Number Reporting)
+
+**Format**: `ip://(Account Number)@(Server IP):(Port)/SIA2_A` **Example**:`ip://1234@54.183.182.247:8080/SIA2_A`
+
+<mark style="color:$danger;">**Note:**</mark> The control panel transmits zone events as follows:
+
+Area 1: zone 1 – to zone 80
+
+Area 2: zone 1 – to zone 80
+
+Area 3: zone 1 – to zone 80
+
+…
+
+Area 8: zone 1 – to zone 80
+
+&#x20;
+
+Using **Area Zone Number Reporting**, the control panel transmits zone events as follows:
+
+Area 1: zone 101 – to zone 180
+
+Area 2: zone 201 – to zone 280
+
+Area 3: zone 301 – to zone 380
+
+.
+
+Area 8: Zone 801 – to Zone 880
+
+##
 
 ### Level Configuration
 
