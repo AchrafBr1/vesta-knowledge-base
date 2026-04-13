@@ -4,7 +4,7 @@
 
 ## VESTA temperature and humidity sensor
 
-<figure><img src=".gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
 ### Introduction
 
@@ -20,7 +20,7 @@ The LCD displays the following information:&#x20;
 
 &#x20;    \- Humidity RH%.
 
-&#x20;    \- Low Battery status ( ![](<.gitbook/assets/3 (97).jpeg>) icon).
+&#x20;    \- Low Battery status ( ![](<.gitbook/assets/3 (103).jpeg>) icon).
 
 &#x20;    \- LCD Backlight on: when Test Button is pressed.
 
@@ -35,12 +35,12 @@ Press the button once to:
 
 When the front cover is installed on the back cover, open the cover by loosen the base screw and close it likewise.
 
-<figure><img src=".gitbook/assets/0 (140).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (151).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### 4. Fahrenheit / Celsius Setting Jumper (JP1)
 
-* ![](<.gitbook/assets/image (319).png>)  If the jumper link is inserted between the top 2 pins, the LCD will display the temperature in Celsius. (**Factory Default**)
-* ![](<.gitbook/assets/image (318).png>)  If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
+* ![](<.gitbook/assets/image (966).png>)  If the jumper link is inserted between the top 2 pins, the LCD will display the temperature in Celsius. (**Factory Default**)
+* ![](<.gitbook/assets/image (965).png>)  If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
 
 ### **5. Battery Compartment**
 

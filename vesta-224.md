@@ -4,7 +4,7 @@
 
 ## &#x20;**Series Expansion Module**
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -22,11 +22,11 @@ The WEZC-8 Series Expansion Module is designed to support expansion for the Hybr
 
 
 
-![Front View Back View](<.gitbook/assets/0 (7).jpeg>)
+![Front View Back View](<.gitbook/assets/0 (18).jpeg>)
 
 
 
-![Internal View](<.gitbook/assets/1 (9).jpeg>)
+![Internal View](<.gitbook/assets/1 (19).jpeg>)
 
 1. **Power LED (Red)**
 
@@ -63,11 +63,11 @@ When the Expansion Module is connected as the furthest BUS device on a BUS line,
 
 Turn the jumper to OFF by removing the jumper link or ―parking‖ the jumper link on one pin.
 
-![](<.gitbook/assets/2 (10).jpeg>)
+![](<.gitbook/assets/2 (14).jpeg>)
 
 Turn the jumper to ON by resting the jumper link on both pins.
 
-![](<.gitbook/assets/3 (9).jpeg>)
+![](<.gitbook/assets/3 (15).jpeg>)
 
 **11. DC Jack**
 
@@ -120,7 +120,7 @@ WEZC-8 Series has two Tamper Switches; each comes with a different function.
 * Before connection, make sure the power supply has been disconnected, and the panel battery switch has been slid to OFF position.
 * To assist with cable connections, the terminal blocks on each system module are color-coded.
 
-<figure><img src=".gitbook/assets/1 (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (167).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication of the connected BUS devices, ensure the furthest BUS device’s
 
@@ -129,11 +129,11 @@ Terminal Resistor Jumper Switch and Control Panel’s J53 Jumper Switch are set 
 * The WEZC-8 series can be connected to and powered by either the Control Panel via the BUS terminal or the external power via the 12V adaptor. If the expansion module is using external power, be sure to bypass the red VDD terminal on the Control Panel using the Wago 221 Splicing Connector.
 * The following is WEZC-8 connected to and being powered by the Hybrid Panel:
 
-![](<.gitbook/assets/4 (8).jpeg>)
+![](<.gitbook/assets/4 (16).jpeg>)
 
 * The following is the connection of WEZC-8B to the Hybrid Panel, with WEZC-8B being powered by external power source.
 
-![](<.gitbook/assets/5 (7).jpeg>)
+![](<.gitbook/assets/5 (16).jpeg>)
 
 {% hint style="warning" %}
 Note:
@@ -174,23 +174,23 @@ There is no EOL resistor in loop 1 and loop 2
 
 **NO/NC Wiring**
 
-![1](<.gitbook/assets/6 (7).jpeg>) ![2](<.gitbook/assets/7 (7).jpeg>)
+![1](<.gitbook/assets/6 (16).jpeg>) ![2](<.gitbook/assets/7 (14).jpeg>)
 
 #### **Single-End-of-Line Resistor Wiring**
 
 
 
-![3                                                                                                                                             4](<.gitbook/assets/8 (10).png>)
+![3                                                                                                                                             4](<.gitbook/assets/8 (20).png>)
 
-![5                                                                                                                                        6](<.gitbook/assets/9 (14).png>)
+![5                                                                                                                                        6](<.gitbook/assets/9 (24).png>)
 
 #### **Double-End-of-Line Resistor Wiring**
 
-![7                                                                                                                                               8](<.gitbook/assets/10 (15).png>)
+![7                                                                                                                                               8](<.gitbook/assets/10 (65).png>)
 
 #### **Triple-EOL Wiring**
 
-![9                                                                                                                            10](<.gitbook/assets/11 (11).png>)
+![9                                                                                                                            10](<.gitbook/assets/11 (35).png>)
 
 ## **Getting Started**
 
@@ -239,7 +239,7 @@ To locate the Expansion Module in the BUS system:
 
 **Step 1.** On Hybrid Panel’s webpage, click ―Identify‖ under the device list after the Expander’s device column entry.
 
-![](<.gitbook/assets/12 (13).png>)
+![](<.gitbook/assets/12 (31).png>)
 
 **Step 2.** If the Expansion Module receives the signal from the Hybrid Panel, the webpage will display a success message and the Expansion Module’s power LED indicator will flash for 10 times to indicate where it is to the user.
 
@@ -277,4 +277,4 @@ The Expansion Module can be mounted on the wall. Follow the steps below to mount
 * Screw the base onto the mounting location.
 * Re-place the front cover and tighten the bottom fixing screws.
 
-![](<.gitbook/assets/13 (3).jpeg>)
+![](<.gitbook/assets/13 (6).jpeg>)

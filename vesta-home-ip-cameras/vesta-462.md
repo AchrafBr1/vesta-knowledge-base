@@ -6,7 +6,7 @@ icon: video
 
 ## WiFi IP 3MP camera with solar panel and rechargeable battery
 
-<figure><img src="../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 

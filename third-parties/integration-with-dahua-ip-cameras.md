@@ -4,7 +4,7 @@ icon: puzzle-piece
 
 # INTEGRATION WITH DAHUA IP CAMERAS
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (313).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 ### 🎯 Introduction - Sync Real Snapshot with Alarm – Dahua Series 3 Cameras
@@ -49,7 +49,7 @@ Insert a **microSD card** into the camera. (_This is where the real image will b
 
 This allows the camera to **save a real image** when an event is triggered.
 
-<figure><img src="../.gitbook/assets/image (352).png" alt="Alarm Image in VESTA " width="375"><figcaption><p>Alarm first Image in VESTA system</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (999).png" alt="Alarm Image in VESTA " width="375"><figcaption><p>Alarm first Image in VESTA system</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

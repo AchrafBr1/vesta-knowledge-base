@@ -4,7 +4,7 @@
 
 ## VESTA dual technology radio detector
 
-<figure><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 
 IRM-23 Series Motion Sensor is equipped with both PIR and Microwave motion detection technology. The combination of dual detection methods greatly improves the Motion Sensor’s detection accuracy and reduces false alarm rate, by using the PIR as initial detection, and microwave as confirmation before actually transmitting the activation signal.
 
@@ -14,11 +14,11 @@ The PIR is designed to give a typical detection range of 12 meters when mounted 
 
 The Pet-Immune models of IRM-23 series PIR sensor further support pet immunity feature and will not detect pets of up to 27 kg within 7 meter range to minimize false alarm situation.
 
-<figure><img src=".gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (953).png" alt=""><figcaption></figcaption></figure>
 
 ## Parts Identification
 
-<figure><img src=".gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (954).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Transmitter LED (Red)
 
@@ -66,7 +66,7 @@ The Range scale is shown on the right with the arrow pointing at the current sen
 * Turning in the **Clockwise Direction** increases detection range (Maximum 20 meters)
 * Turning in the **Counter-Clockwise Direction** decreases detection range (Minimum 3\~5 meters) - **Factory Default**: is set to medium, appproximately 10 meters.
 
-<figure><img src=".gitbook/assets/3 (96).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (102).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### 11. Tamper Hole
 
@@ -106,7 +106,7 @@ Use the Microwave Test Mode to determine the microwave range and adjust range wi
 
 * The Motion Sensor uses different battery depending on the sensor model.
 
-<figure><img src=".gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (955).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -138,7 +138,7 @@ The Motion Sensor back cover has 2 hollowed **break-out areas**. When the device
 1. Orient and insert the battery according to polarity.
 2. The Red Transmitter LED will begin to flash for 30 seconds to indicate the Motion Sensor is warming up. During the warming up period, the Motion Sensor will not be activated. It is recommended that you stay away from the detection area during this time. After the warming-up period, the Red will turn off and the Motion Sensor will enter normal operation.
 
-<figure><img src=".gitbook/assets/4 (79).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (87).jpeg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -155,7 +155,7 @@ The Motion Sensor back cover has 2 hollowed **break-out areas**. When the device
 * For IRM-23B corner mounting, a triangular bracket is provided to add Back Tamper Protection. The bracket also includes two knockouts to mount on the wall.
 * For IRM-23B surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, the IRM-23 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.
 
-<figure><img src=".gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (956).png" alt=""><figcaption></figcaption></figure>
 
 * **Corner mounting for IRM-23A:**
   1. Detach the base and cover assembly with a screwdriver to loosen the bottom fixing screw.
@@ -171,7 +171,7 @@ The Motion Sensor back cover has 2 hollowed **break-out areas**. When the device
   3. Screw the bracket into the wall plugs
   4. Locate the **Bracket Insertion Holes** and fit the holes onto the **Bracket Insertion Hooks**. Fitting the sensor onto the bracket should compress the Tamper switch onto the **Tamper Compression Protrusion** on the bracket.
 
-<figure><img src=".gitbook/assets/6 (65).jpeg" alt=""><figcaption><p><strong>Bottom Fixing Screw</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (74).jpeg" alt=""><figcaption><p><strong>Bottom Fixing Screw</strong></p></figcaption></figure>
 
 
 
@@ -186,7 +186,7 @@ The Motion Sensor back cover has 2 hollowed **break-out areas**. When the device
   1. Fit the 3 hooks of the rotating bracket into the 3 holes of the base accordingly.
   2. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-<figure><img src=".gitbook/assets/7 (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (101).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation
 
@@ -199,7 +199,7 @@ The Motion Sensor back cover has 2 hollowed **break-out areas**. When the device
 
 The Motion Sensor should be mounted at 1.9m\~2.0m for optimal performance. It has a maximum range of 12 meters when microwave sensor is set to maximum range and mounted at 2 meters height. The pet immune models do not detect pets up to 27 kg within 7 meter range to minimize false alarm situation.
 
-![](<.gitbook/assets/8 (62).jpeg>)
+![](<.gitbook/assets/8 (67).jpeg>)
 
 {% hint style="danger" %}
 _IMPORTANT NOTE_
@@ -218,6 +218,6 @@ _IMPORTANT NOTE_
   * Mount where its field of view will not be obstructed e.g. by curtains, ornaments etc.
 * **Limitations**
 
-<figure><img src=".gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (957).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (958).png" alt=""><figcaption></figcaption></figure>

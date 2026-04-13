@@ -4,7 +4,7 @@ DCSV-23
 
 ## Door Contact / Shock Vibration Sensor&#x20;
 
-<figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
 DCSV-23 is a Door Contact / Shock Sensor is capable of sending a door open signal to the Control Panel upon detection of door/window opening or shock/vibration detection.
 
@@ -12,9 +12,9 @@ The Door Contact / Shock Vibration Sensor design consists of a cover and base. T
 
 ## Parts Identification
 
-![DCSV-23ZBS](<.gitbook/assets/0 (22).jpeg>) &#x20;
+![DCSV-23ZBS](<.gitbook/assets/0 (33).jpeg>) &#x20;
 
-<div align="left"><figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (593).png" alt=""><figcaption></figcaption></figure></div>
 
 1. **LED Indicator / Test Button**
 
@@ -61,7 +61,7 @@ The Door Contact / Shock Vibration Sensor design consists of a cover and base. T
 
 Jumper **ON** (The jumper link is inserted): The Reed Switch is _**disabled.**_
 
-![jumper open](<.gitbook/assets/3 (31).png>)
+![jumper open](<.gitbook/assets/3 (55).png>)
 
 Jumper **OFF** (The jumper link is removed or parked on one pin): The Reed Switch is _**enabled**_ and device now works as a Door Contact. (_**Default**_)
 
@@ -84,9 +84,9 @@ The device is triggered by either of the following condition:
 
 * The detection modes are selected using jumper switch JP3:
 
-![jumper close](<.gitbook/assets/4 (31).png>)Jumper **ON** (The jumper link is inserted): **Single Pulse Mode**. (_**Default**_)
+![jumper close](<.gitbook/assets/4 (44).png>)Jumper **ON** (The jumper link is inserted): **Single Pulse Mode**. (_**Default**_)
 
-![jumper open](<.gitbook/assets/5 (26).png>)Jumper **OFF** (The jumper link is removed or parked on one pin): **Pulse Count / Accumulated**&#x20;
+![jumper open](<.gitbook/assets/5 (37).png>)Jumper **OFF** (The jumper link is removed or parked on one pin): **Pulse Count / Accumulated**&#x20;
 
 ### **Vibration Mode**
 
@@ -133,7 +133,7 @@ The device is triggered by either of the following condition:
 
 ### _Mounting the Door Contact / Shock Vibration Sensor_
 
-![](<.gitbook/assets/6 (20).png>) **Mounting as Door Contact:**
+![](<.gitbook/assets/6 (29).png>) **Mounting as Door Contact:**
 
 * The Door Contact / Shock Vibration Sensor should be installed either upright or inverted to ensure the rib-marked side faces the magnet.
 * The distance between Door Contact / Shock Vibration Sensor and the magnet should be no more than 15mm when the door is closed.
@@ -148,7 +148,7 @@ The device is triggered by either of the following condition:
 
 <table data-header-hidden><thead><tr><th></th><th width="95"></th><th width="119"></th><th width="121"></th><th width="133"></th><th></th></tr></thead><tbody><tr><td></td><td></td><td><strong>Glass Window</strong></td><td><strong>Door</strong></td><td><strong>Concrete Wall</strong></td><td><strong>Safety Box</strong></td></tr><tr><td>Thickness</td><td> </td><td>>5mm</td><td>&#x3C;40mm</td><td>-</td><td>>3mm</td></tr><tr><td>Material</td><td> </td><td>Regular/Tempered/Laminated</td><td>Wood/Steel</td><td>Concrete</td><td>Steel + Silicon Dioxide</td></tr><tr><td>Install Location</td><td> </td><td>Window Frame</td><td>Door Frame</td><td>Wall</td><td>2cm away from door pivot</td></tr><tr><td>Detection Mode</td><td> </td><td>Single Pulse Mode</td><td>Single Pulse Mode</td><td>Pulse Count / Accumulated Vibration</td><td> Pulse Count / Accumulated Vibration</td></tr><tr><td>Shock Sensitivity (coverage area)</td><td>Low</td><td>2000mm</td><td>1000mm</td><td>500mm</td><td>-</td></tr><tr><td>Shock Sensitivity (coverage area)</td><td>Medium</td><td>3000mm</td><td>2000mm</td><td>1500mm</td><td>-</td></tr><tr><td>Shock Sensitivity (coverage area)</td><td>High</td><td>4000mm</td><td>3000mm</td><td>2000mm</td><td>1400mm</td></tr></tbody></table>
 
-![](<.gitbook/assets/7 (17).png>)
+![](<.gitbook/assets/7 (27).png>)
 
 ## _Mounting Procedure_
 
@@ -179,4 +179,4 @@ When mounting on safety box, mount the Door Contact / Shock Sensor no more than 
 
 {% endhint %}
 
-<div align="left"><figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (695).png" alt=""><figcaption></figcaption></figure></div>

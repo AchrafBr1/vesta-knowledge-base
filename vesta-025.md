@@ -4,7 +4,7 @@ TSP-3&#x20;
 
 ## Touchscreen Keypad&#x20;
 
-<figure><img src=".gitbook/assets/image (21) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction <a href="#toc61269503" id="toc61269503"></a>
 
@@ -16,7 +16,7 @@ When connected to the system Control Panel via Wi-Fi network, the Touchscreen Ke
 
 ## Parts Identification <a href="#toc61269505" id="toc61269505"></a>
 
-![](<.gitbook/assets/1 (24).png>)
+![](<.gitbook/assets/1 (56).png>)
 
 1. **Camera -** Slide up or down the switch to reveal or hide the camera.
 2. **Power Button**
@@ -29,7 +29,7 @@ When connected to the system Control Panel via Wi-Fi network, the Touchscreen Ke
 
 &#x20; &#x20;
 
-<figure><img src=".gitbook/assets/2 (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (54).png" alt=""><figcaption></figcaption></figure>
 
 9. **Wall Mounting Bracket**
 
@@ -37,7 +37,7 @@ When connected to the system Control Panel via Wi-Fi network, the Touchscreen Ke
 
 The Touchscreen Keypad is powered by a rechargeable battery. To charge the battery, press the latch to open the compartment and plug in a 5V/1.5A adapter to the Micro USB port of the device and connect the other end to mains power.
 
-<figure><img src=".gitbook/assets/3 (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (48).png" alt=""><figcaption></figcaption></figure>
 
 ## Getting Started <a href="#toc61269507" id="toc61269507"></a>
 
@@ -93,11 +93,11 @@ A desktop deployment bracket is provided for users to place their Touchscreen Ke
 
 **Step 1.** Attach the desktop deployment bracket to the rear side of the Touchscreen Keypad in the direction of the arrows as shown below until you hear a “click” .sound. If you wish to remove the bracket, simply press the notches at both sides  and gently lift upward.
 
-![](<.gitbook/assets/9 (20).png>) ![](<.gitbook/assets/10 (16).png>)
+![](<.gitbook/assets/9 (30).png>) ![](<.gitbook/assets/10 (66).png>)
 
 **Step 2.** Place the Touchscreen Keypad at the desired location.
 
-![](<.gitbook/assets/11 (12).png>)
+![](<.gitbook/assets/11 (36).png>)
 
 **Wall Mounting**
 
@@ -109,21 +109,21 @@ A wall mounting bracket is also included for users to place their Touchscreen Ke
 
 **Step 3.** Screw the bracket into the wall with the 3 screws provided.
 
-![](<.gitbook/assets/12 (15).png>)
+![](<.gitbook/assets/12 (33).png>)
 
 **Step 4.** Attach the Touchscreen Keypad onto the bracket.
 
-![](<.gitbook/assets/13 (13).png>)
+![](<.gitbook/assets/13 (26).png>)
 
 **Step 5.** Hold the Touchscreen Keypad and gently push downwards until you hear a “click” sound.
 
-![](<.gitbook/assets/14 (11).png>)
+![](<.gitbook/assets/14 (21).png>)
 
 ### Low Battery Notification <a href="#toc61269511" id="toc61269511"></a>
 
 When the battery is running low, a low battery notification will be displayed to inform you to recharge the battery. Please refer to the Power Supply to recharge the Touchscreen Keypad.
 
-<figure><img src=".gitbook/assets/1 (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (150).png" alt=""><figcaption></figcaption></figure>
 
 ## Operation <a href="#toc61269512" id="toc61269512"></a>
 
@@ -154,7 +154,7 @@ To set the list:
 
 The current system status is displayed on top of the screen.
 
-<figure><img src=".gitbook/assets/2 (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (155).png" alt=""><figcaption></figcaption></figure>
 
 * **System Mode:** The system mode is indicated by the 3 icons at the top. The current system mode will light up. When a user disarms the system, the Touchscreen Keypad will take a photo, and the image can be viewed in the Event page.
 
@@ -350,7 +350,7 @@ The Event page records all alarm/status event, pictures and video transmitted by
 
 Tap on the gear icon on the top-right corner of the screen to access the Settings menu.
 
-<figure><img src=".gitbook/assets/3 (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (139).png" alt=""><figcaption></figcaption></figure>
 
 * Brightness: Change the brightness of the screen by tapping the slider.
 * Volume: Change the volume of the Touchscreen Keypad by tapping the slider.

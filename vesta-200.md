@@ -4,7 +4,7 @@
 
 ## **Door Contact**&#x20;
 
-<figure><img src=".gitbook/assets/image (24) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 The Door Contact is used to detect the opening and closing of doors and windows. Typically the Door Contact is fixed to the&#x20;door frame and the actuating magnet is fixed to the door. When the door opens, the magnet is moved away from the Door&#x20;Contact and an internal magnetic switch will be activated causing the Door Contact to transmit an alarm.\
 A PCB tamper switch protects the enclosure from being opened or being removed from the mounting surface and also alert&#x20;you to signal communication problems and low battery situations.\
@@ -21,7 +21,7 @@ The Door Contact features extension terminal which can be used to connect to a N
 
 2. **Mounting Holes**
 
-<figure><img src=".gitbook/assets/1 (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (156).png" alt=""><figcaption></figcaption></figure>
 
 Used to fixed and screw the Door Contact directly onto the Door Frame or Wall.
 
@@ -30,7 +30,7 @@ Used to fixed and screw the Door Contact directly onto the Door Frame or Wall.
 
 Provides tamper protection against unauthorized device opening and/or removal from mounting surface.
 
-<figure><img src=".gitbook/assets/2 (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (162).png" alt=""><figcaption></figcaption></figure>
 
 _**Internal Switch and Terminal**_
 
@@ -44,7 +44,7 @@ In addition to the built-in magnet switch, an additional 2-pin dry contact termi
 
 **Jumper Off: T**he jumper link is removed or “**parked**” on one pin.
 
-![](<.gitbook/assets/1 (82).jpeg>) ![](<.gitbook/assets/2 (71).jpeg>)
+![](<.gitbook/assets/1 (92).jpeg>) ![](<.gitbook/assets/2 (75).jpeg>)
 
 6. **Internal Magnetic Switch Jumper Switch (JP3)**
 
@@ -53,7 +53,7 @@ In addition to the built-in magnet switch, an additional 2-pin dry contact termi
 
 **(Factory Default for all models)**
 
-<figure><img src=".gitbook/assets/3 (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (144).png" alt=""><figcaption></figcaption></figure>
 
 7. **Magnet**
 
@@ -64,7 +64,7 @@ In addition to the built-in magnet switch, an additional 2-pin dry contact termi
 
 ### _**Accessories Included**_
 
-![](<.gitbook/assets/3 (67).jpeg>)
+![](<.gitbook/assets/3 (73).jpeg>)
 
 1. 1 Magnet and Magnet Spacer
 2. White Caps
@@ -127,7 +127,7 @@ Note:
 Ensure the tamper switch spring is positioned so that it makes contact with the mounting surface through the tamper switch aperture.
 {% endhint %}
 
-![](<.gitbook/assets/4 (58).jpeg>)
+![](<.gitbook/assets/4 (66).jpeg>)
 
 Step 4: To mount the Magnet:
 
@@ -141,7 +141,7 @@ The magnet should not be more than 15 mm from the Door Contact when the door is 
 The magnet must align with the rib-mark side of the Door Contact. If required, apply the magnet spacer to the back of the magnet to better align the magnet to the rib marks.
 {% endhint %}
 
-![](<.gitbook/assets/5 (44).jpeg>)
+![](<.gitbook/assets/5 (53).jpeg>)
 
 2. Screw the magnet onto the door.
 3. Insert the two white caps into the magnet screw holes for aesthetic integrity.&#x20;
@@ -152,7 +152,7 @@ Step 5: Installation is now complete.
 
 The Door Contact has an extension terminal to provide enhanced flexibility. The extension terminal forms a closed loop with the device connected to it. When the device is triggered, the loop will be opened; the Door Contact will also be triggered.
 
-![](<.gitbook/assets/6 (55).jpeg>)
+![](<.gitbook/assets/6 (64).jpeg>)
 
 The extension terminal and the internal magnetic switch can function together to trigger the Door Contact when either of them is activated, you can also choose to disable the internal magnetic switch through JP3 Jumper setting.
 
@@ -168,7 +168,7 @@ The Extension terminal may be useful for the following situation.
 * Any dry contact device with N.C. (Normal Close) loop can be connected to the Extension Terminal making the Door Contact serve as an Universal Transmitter.
 * Multiple dry contact device can be wired together with Door Contact, as show in diagram below.
 
-![](<.gitbook/assets/7 (52).jpeg>) ![](<.gitbook/assets/8 (46).jpeg>)
+![](<.gitbook/assets/7 (59).jpeg>) ![](<.gitbook/assets/8 (51).jpeg>)
 
 {% hint style="warning" %}
 Note:

@@ -4,7 +4,7 @@ VCP-LTE-E-S F1 868
 
 ## Voice Emergency Call Point
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -40,9 +40,9 @@ Put panel in learn mode and press help button in VESTA-349N
 
 ### Device button and led indicator
 
-<figure><img src=".gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (883).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (882).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -63,7 +63,7 @@ Put panel in learn mode and press help button in VESTA-349N
 
 
 
-<img src=".gitbook/assets/image (234).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (881).png" alt="" data-size="original">
 
 ***
 

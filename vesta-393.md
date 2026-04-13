@@ -4,7 +4,7 @@
 
 ## **BUS Wired Tag Reader**
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 _**Introduction**_
 
@@ -14,7 +14,7 @@ The Wired Tag Reader is integrated with NFC labels for you to quickly arm or dis
 
 The device consists of a two-part design made up of a cover and a base. The cover contains all the electronics and the base provides a mean of fixing. The tamper switch protects the enclosure from being opened or being removed from the mounting surface.
 
-![](<.gitbook/assets/1 (9).png>)
+![](<.gitbook/assets/1 (41).png>)
 
 ## _**Identifying the Parts**_
 
@@ -71,7 +71,7 @@ _**Caution**_
   * Before connecting the Wired Tag Reader to the system bus, please switch the power off.
   * To assist cable connection, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/14 (3).jpeg>)
+![](<.gitbook/assets/14 (7).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
@@ -84,7 +84,7 @@ Note:
 
 * Incorrect connections will result in failure or malfunction. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/16 (13).png>)
+![](<.gitbook/assets/16 (21).png>)
 
 ## _**Getting Started – Learning Wired Tag Reader into the Control Panel**_
 

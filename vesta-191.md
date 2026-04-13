@@ -4,7 +4,7 @@
 
 ## **ZigBee Relay Controller**&#x20;
 
-<figure><img src=".gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1055).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -18,7 +18,7 @@ Models with router function also serve as a router in the ZigBee network. After 
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (87).jpeg>)
+![](<.gitbook/assets/0 (98).jpeg>)
 
 1. **Function Button**
 
@@ -65,13 +65,13 @@ The clamp is used for securing the wires, and providing strain relief to protect
 * Humidity: Up to 85% non-condensing
 * Dimension: 86mm x 72mm x 29mm
 
-## **Installation Environment** <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
+## **Installation Environment** <img src=".gitbook/assets/image (429).png" alt="" data-size="line">
 
 * The Relay Controller should be installed indoors in a dry location.
 * It is recommended to install the device in a fire resistant plastic gangbox.
 * Do not install the device in a metal gangbox for optimization of Z-Wave range.
 
-## **Caution** <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
+## **Caution** <img src=".gitbook/assets/image (431).png" alt="" data-size="line">
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * To prevent electrical shock and/or equipment damage, disconnect electrical power at the main fuse or circuit breaker before installation and maintenance.
@@ -80,7 +80,7 @@ Do not connect the device to loads exceeding supported load current.
 
 **Installation**
 
-![](<.gitbook/assets/3 (63).jpeg>)
+![](<.gitbook/assets/3 (69).jpeg>)
 
 Wiring of the PRL should only be performed by certified technician with proper knowledge and training in electric equipment. Wire the Relay according to the instructions below:
 
@@ -90,7 +90,7 @@ Wiring of the PRL should only be performed by certified technician with proper k
 4. Depending on the device you wish to control via the Relay, select NO or NC terminal and wire the Relay with the device to establish Normal Open or Normal Close connection with device.
 5. After completing device wiring, replace the strain relief clamp, use the wiring buckle to manage the wires, and place the wiring buckle on the base with its gap (opening) positioned on the left (as in the diagram below).
 
-![](<.gitbook/assets/4 (56).jpeg>)
+![](<.gitbook/assets/4 (64).jpeg>)
 
 6. Replace the top cover. Turn on the power supply to power on the Relay Controller.
 
@@ -149,20 +149,20 @@ When the Relay Controller has successfully joined a ZigBee network, the gateway/
 
 ### _**Relay Cluster ID**_
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of Basic Cluster Information
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (433).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of Identify Cluster Information
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of On/Off Cluster Information
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 
 ### Attributes of the Groups cluster Information
 
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (436).png" alt=""><figcaption></figcaption></figure>

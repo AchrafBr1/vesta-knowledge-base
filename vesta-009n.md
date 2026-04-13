@@ -4,7 +4,7 @@ IR-16SL-F1
 
 ## **PIR Motion Sensor**
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
 Our Digitalized Adaptive Signal Processor algorithm enables this PIR to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its path of detection.
 
@@ -26,7 +26,7 @@ The PIR is designed to give a typical detection range of 12 meters when mounted 
 
 ## _**Identifying the parts.**_
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (24).png" alt=""><figcaption></figcaption></figure>
 
 #### **1. Test Button / LED indicator**
 
@@ -125,7 +125,7 @@ When changing batteries, after removing the old batteries, press the Tamper Swit
 
 **Corner mounting:**
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (25).png" alt=""><figcaption></figcaption></figure>
 
 1. Break through the two knockouts on the triangular bracket.
 2. Using the two holes as a template, drill holes in the surface of the corner.
@@ -142,7 +142,7 @@ When changing batteries, after removing the old batteries, press the Tamper Swit
 
 ### **Surface mounting:**
 
-![](<.gitbook/assets/6 (22).jpeg>)
+![](<.gitbook/assets/6 (31).jpeg>)
 
 1. Remove the fixing screw and cover assembly using a Philips screwdriver.
 2. Break through the appropriate knockouts on the base.
@@ -177,7 +177,7 @@ The rotating bracket can be mounted on the wall with provides screws.
 * The Pet-Immune PIR supports the pet immunity feature and will not detect pets of up to 27 kg within 7 meter range to minimize false alarm situation.
 * If required, you can adjust the height of the PIR according to the size of your pet for optimal pet immune performance. A higher installation location will provide a larger pet-immune space but also increase the blind spot under the PIR.
 
-![](<.gitbook/assets/7 (21).jpeg>)
+![](<.gitbook/assets/7 (28).jpeg>)
 
 To take full advantage of PIR, the following guidelines should be considered:
 

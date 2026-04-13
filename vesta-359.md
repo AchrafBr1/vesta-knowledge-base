@@ -4,7 +4,7 @@
 
 ## **BUS Wired Door Contact**
 
-<figure><img src=".gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 DC-23-BUS is a Wired Door Contact that monitors the opening/closing of specified devices (e.g., door or window). The Wired Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Wired Door Contact, activating an internal magnetic switch causing the Wired Door Contact to transmit alarm signals over BUS to the Control Panel.
 
@@ -14,7 +14,7 @@ The Wired Door Contact design consists of a cover and base. The cover contains a
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (3) (1).jpeg>)
+![](<.gitbook/assets/0 (14).jpeg>)
 
 1. **LED indicator / Test button**
 
@@ -77,7 +77,7 @@ DC-23-BUS has an extension terminal to provide enhanced flexibility. According t
 2. The upper end of the front case has a thinner plastic knockout. Break through the knockout to create a hole for the wiring connection to the extension terminal.
 3. Connect the device to the extension terminal.
 
-![](<.gitbook/assets/8 (2).jpeg>)
+![](<.gitbook/assets/8 (7).jpeg>)
 
 The extension terminal may be useful for the following situations:
 
@@ -85,7 +85,7 @@ The extension terminal may be useful for the following situations:
 * Any dry contact devices with an N.C. (Normal Closed) or N.O. (Normally Open) loop can be connected to the extension terminal making the Wired Door Contact serve as a Universal Transmitter.
 * Multiple dry contact devices can be wired together with the Wired Door Contact, as shown in the picture below.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (424).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Power Supply**_
 
@@ -118,7 +118,7 @@ _**Caution**_
 * Before connecting the Wired Door Contact to the system BUS, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/15 (2) (1).jpeg>)
+![](<.gitbook/assets/15 (6).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel.For optimal communication of the the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
@@ -133,7 +133,7 @@ Note:
 
 * Incorrect connections will result in failure or malfunction. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/16 (10).png>)
+![](<.gitbook/assets/16 (18).png>)
 
 ### _**Learning**_
 
@@ -151,15 +151,15 @@ Step 5: If the device is successfully learnt into the Panel, it will be displaye
 
 * When learnt into the Panel, DC-23-BUS will be recognized as 2 separate devices and will occupy 2 zones in the Panel.
 
-![](<.gitbook/assets/17 (7).png>)
+![](<.gitbook/assets/17 (12).png>)
 
-![](<.gitbook/assets/18 (8).png>)
+![](<.gitbook/assets/18 (14).png>)
 
 * To differentiate the 2 separate devices, it is advised to rename the device name by clicking “Edit” under the device list after the device column entry.
 
 As shown on the Device Edit page, the ID with the last two digits of “**00**” represents the internal magnetic switch.
 
-![](<.gitbook/assets/19 (7).png>)
+![](<.gitbook/assets/19 (13).png>)
 
 The ID with the last two digits of “**02**” represents the extension terminal.
 

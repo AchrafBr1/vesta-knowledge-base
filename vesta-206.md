@@ -4,7 +4,7 @@ PRL-3ZW-AC&#x20;
 
 ## &#x20;**Z-Wave Relay Toggle Switch**&#x20;
 
-<figure><img src=".gitbook/assets/image (58) (1).png" alt="" width="375"><figcaption><p>VESTA-206</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (667).png" alt="" width="375"><figcaption><p>VESTA-206</p></figcaption></figure>
 
 ## **Introduction**
 
@@ -22,7 +22,7 @@ PRL-3ZW-AC-OTA
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (93).jpeg>)
+![](<.gitbook/assets/0 (104).jpeg>)
 
 **1. LED indicator**
 
@@ -81,7 +81,7 @@ Connect NO & COM terminals of the wired device to NO & COM terminals of the PRL-
 * Do not connect the device to loads exceeding supported load current.
 {% endhint %}
 
-![](<.gitbook/assets/3 (69).jpeg>)
+![](<.gitbook/assets/3 (75).jpeg>)
 
 ## **Installation**
 

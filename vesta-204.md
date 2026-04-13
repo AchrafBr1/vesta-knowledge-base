@@ -6,7 +6,7 @@
 
 The CO-8 is a wireless Carbon Monoxide Detector that is capable of detecting the dangerous presence of CO in your surroundings and immediately raising alarm according to the different levels of CO concentration detected. The Carbon Monoxide Detector also features long battery life, self-diagnostics function, and loud siren for audio alert.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>VESTA-204<strong>Carbon Monoxide Detector CO-8</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (605).png" alt="" width="375"><figcaption><p>VESTA-204<strong>Carbon Monoxide Detector CO-8</strong></p></figcaption></figure>
 
 ## _**Parts Identification**_
 
@@ -34,7 +34,7 @@ The CO-8 is a wireless Carbon Monoxide Detector that is capable of detecting the
 
 
 
-       ![](<.gitbook/assets/3 (68).jpeg>)
+       ![](<.gitbook/assets/3 (74).jpeg>)
 3. _**Battery Compartment Cover**_
 4. _**.Mounting Holes**_
 5. _**Mounting Bracket**_

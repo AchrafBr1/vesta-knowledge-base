@@ -2,7 +2,7 @@
 
 ## **Climax HSGW Gen2 Installation Guide**
 
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 ### Content
 
@@ -64,9 +64,9 @@ HSGW-Gen2-V1 features RF and Z-Wave wireless protocol for communication with acc
 
 ### **HSGW Gen2 Diagram**
 
-![](<.gitbook/assets/0 (134).jpeg>)
+![](<.gitbook/assets/0 (145).jpeg>)
 
-![Mounting Bracket](<.gitbook/assets/1 (109).jpeg>)
+![Mounting Bracket](<.gitbook/assets/1 (119).jpeg>)
 
 ### **Diagram Key**&#x20;
 
@@ -146,7 +146,7 @@ Before starting, verify that you have all the components needed for the installa
 
 
 
-![Figure 1                                                                                                              Figure 2](<.gitbook/assets/2 (117).png>)
+![Figure 1                                                                                                              Figure 2](<.gitbook/assets/2 (145).png>)
 
 1. Remove the screw securing the back cover (as circled in Figure 2).
 2. Set up the Control Panel though the following steps:
@@ -167,13 +167,13 @@ The panel can be either fixed on the wall or placed on deskop. **For the panel t
 1. Use the mounting holes as template, mark mounting locations on the wall.
 2. Secure the mounting bracket onto the wall by tightening the 2 screws through the wall mounting holes.
 
-![](<.gitbook/assets/3 (91).jpeg>)
+![](<.gitbook/assets/3 (97).jpeg>)
 
 3. Mount the Control Panel with the hooks of the mounting bracket latched onto the back cover of the the panel, and push it downward until you hear a clicking sound.
 
 Make sure the tamper switch is properly compressed against the hook of the mounting bracket. Then fasten the 2 bottom fixing screws to complete the installation.
 
-![Push](<.gitbook/assets/4 (115).png>)
+![Push](<.gitbook/assets/4 (128).png>)
 
 
 
@@ -428,23 +428,23 @@ For issues with broadband communication, please check the following:
 
 ### Appendix C: Panel Programming Options
 
-<figure><img src=".gitbook/assets/image (559).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1227).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (560).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1228).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (561).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1229).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (562).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1230).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1231).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (564).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1232).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (565).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1233).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (566).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1234).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1235).png" alt=""><figcaption></figcaption></figure>
 
 \*Only available on certain firmware updates. For best results, please ensure your panel is on the most up to date firmware.
 

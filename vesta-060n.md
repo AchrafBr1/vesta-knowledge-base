@@ -4,15 +4,15 @@
 
 ## **Door Contact / Shock Sensor**
 
-<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
 DCSV-29-2W is a Door Contact / Shock Sensor that is capable of sending wireless signals to the Control Panel upon detection of door/window opening or window glass break & shock detection.
 
 The Door Contact / Shock Sensor design consists of a cover and base. The cover contains all electronics and the base provides a means for fixing the device. An enclosed PCB tamper switch provides tamper protection against unauthorized device opening and/or removal.
 
-![](<.gitbook/assets/0 (52).jpeg>)
+![](<.gitbook/assets/0 (63).jpeg>)
 
-<figure><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
 
 ## **Parts Identification**
 
@@ -88,7 +88,7 @@ The device supports shock detection on various materials including glass, wood, 
 1. Press the Test Button on DCSV-29 for more than 3 seconds. The LED will turn on, indicating that the device is now under programming mode. (If no action within a 10-second timeout, DCSV-29 will automatically exit programming mode and return to Test Mode.)
 2. Select the material and sensitivity level from the Control Panel webpage (Sensor Stting page).
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
 
 3. When DCSV-29 receives programming command from the Control Panel, the LED will first turn off, and then turn brighter and turn dark. Material & Sensitivity level setting are now complete.
 
@@ -107,7 +107,7 @@ _**Mounting the Door Contact / Shock Sensor**_
 * The distance between Door Contact / Shock Sensor and the magnet should be no more than 15 mm when the door is closed.
 * Mount the device as high as possible.
 
-![](<.gitbook/assets/15 (12).jpeg>)
+![](<.gitbook/assets/15 (16).jpeg>)
 
 ### **Mounting as Shock Sensor:**
 
@@ -115,7 +115,7 @@ Refer to the table below for information about installation location and the thi
 
 <table data-header-hidden><thead><tr><th></th><th></th><th></th><th width="169"></th><th></th></tr></thead><tbody><tr><td></td><td></td><td><strong>Glass Window</strong> </td><td><strong>Wood/Metal Door</strong> </td><td><strong>Concrete Wall</strong></td></tr><tr><td></td><td><mark style="color:green;"><strong>Thickness</strong></mark></td><td><mark style="color:green;">>5mm</mark> </td><td><mark style="color:green;">&#x3C;40mm</mark></td><td><mark style="color:green;">x</mark></td></tr><tr><td></td><td><mark style="color:orange;"><strong>Installation Location</strong></mark></td><td><mark style="color:orange;">Window Frame</mark> </td><td><mark style="color:orange;">Door</mark> </td><td><mark style="color:orange;">Wall</mark></td></tr><tr><td>Shock Detection Radius</td><td>Low Sensitivity</td><td>0.5M </td><td>0.5M </td><td>0.25M</td></tr><tr><td>Shock Detection Radius</td><td>Medium Sensitivity</td><td>1M </td><td>1M </td><td>0.5M</td></tr><tr><td>Shock Detection Radius</td><td>High Sensitivity</td><td>1.5M </td><td>2M </td><td>1M</td></tr></tbody></table>
 
-![](<.gitbook/assets/16 (10).jpeg>)
+![](<.gitbook/assets/16 (14).jpeg>)
 
 ### _**Mounting Procedure**_
 

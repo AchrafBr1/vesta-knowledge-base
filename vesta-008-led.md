@@ -4,7 +4,7 @@ VST-862-IL-F1-ALK
 
 ## White Flash Pircam&#x20;
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -25,7 +25,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 
 ## Parts Identification
 
-<figure><img src=".gitbook/assets/10 (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (136).png" alt=""><figcaption></figcaption></figure>
 
 #### **1. Flash LED / Infrared LED**
 
@@ -55,7 +55,7 @@ The Flash LED (For 862(P)) or Infrared LED (For 862(P)-IL) delivers sufficient l
 
 #### **8. Sensitivity Adjustment Jumper Switch (JP3)**
 
-![jumper open](<.gitbook/assets/1 (14).png>)<img src=".gitbook/assets/2 (14).png" alt="jumper close" data-size="original">
+![jumper open](<.gitbook/assets/1 (46).png>)<img src=".gitbook/assets/2 (42).png" alt="jumper close" data-size="original">
 
 **Jumper Off** if the jumper link is removed or “**parked**” on one pin.
 
@@ -66,7 +66,7 @@ The Flash LED (For 862(P)) or Infrared LED (For 862(P)-IL) delivers sufficient l
 
 #### **Sleep Timer Jumper Switch (JP2)**
 
-![jumper open](<.gitbook/assets/3 (13).png>)![jumper close](<.gitbook/assets/4 (14).png>)
+![jumper open](<.gitbook/assets/3 (37).png>)![jumper close](<.gitbook/assets/4 (27).png>)
 
 **Jumper Off** if the jumper link is removed or “**parked**” on one pin.
 
@@ -168,7 +168,7 @@ Note:
 * The Pet-Immune models give a typical PET IMMUNE range of 7 meters when mounted at 1.9 to 2 meters above ground. If required, you can adjust the height of the PIR Camera according to the size of your pet for optimal pet immune performance. A higher installation location will provide a larger pet-immune space but also increase the blind spot under the PIR Camera.
 * When VST-862 is mounted with a rotating bracket, it will not have the regular detection area (as in the diagram), or the typical pet immue range.
 
-![](<.gitbook/assets/5 (15).png>)
+![](<.gitbook/assets/5 (26).png>)
 
 **It is recommended to install the PIR Camera in the following locations**
 
@@ -188,11 +188,11 @@ Note:
 
 
 
-<figure><img src=".gitbook/assets/3 (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (135).png" alt=""><figcaption></figcaption></figure>
 
 ## _Mounting the PIR Camera_
 
-* ![852 r3 knockouts](<.gitbook/assets/6 (11).jpeg>)
+* ![852 r3 knockouts](<.gitbook/assets/6 (20).jpeg>)
 * The PIR is designed to be mounted on either a flat surface or in a corner situation with fixing screws and plugs provided.
 * For corner mounting, a triangular bracket is provided to add Back Tamper Protection. The bracket also includes two knockouts to mount on the wall.
 * For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, the VST-862 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.
@@ -207,7 +207,7 @@ Note:
 
 ### **Surface mounting:**
 
-<figure><img src=".gitbook/assets/1 (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (144).png" alt=""><figcaption></figcaption></figure>
 
 1. Open the cover by loosening the Cover Screw using a Philips screwdriver. Screw the rotating bracket into the wall.
 2. Break through the 2 Surface knockouts at the centre of the base.
@@ -232,7 +232,7 @@ Note: Control error or error control is because a device normally PIRCAM or pir 
 
 
 
-<figure><img src=".gitbook/assets/2 (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (149).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -4,7 +4,7 @@ DIO-52-B
 
 ## DI/DO Module
 
-<figure><img src=".gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 ### Introduction
 
@@ -16,7 +16,7 @@ The DIO-52-B can also be connected to separate devices. With the Home Automation
 
 &#x20;                           **Top Cover**                                                                                     **Base**
 
-![](<.gitbook/assets/0 (34).png>)
+![](<.gitbook/assets/0 (41).png>)
 
 ### **Parts Identification**
 
@@ -76,9 +76,9 @@ When learnt into the Control Panel, the DIO-52-B will be recognized as 2 separat
 
 The DI/DO module can operate according to different mode selected on the Control Panel webpage, or SmartHomeSec Server . Please select the mode in **DO Device Edit** page.
 
-| **Control Panel webpage**                                          | **SmartHomeSec**                                                                                                                                                                                  |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src=".gitbook/assets/1 (39).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                          | **SmartHomeSec**                                                        |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| <img src=".gitbook/assets/1 (71).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (513).png" alt="" data-size="original"> |
 
 *   **Appliance Control:**
 
@@ -88,11 +88,11 @@ The DI/DO module can operate according to different mode selected on the Control
 
     When the “Appliance Control” mode is selected, you can remotely turn on/off the connected device from the Control Panel webpage or _**SmartHomeSe**_&#x63; server, but the output follow input setting in DO will be deactivated. You can program Home Automation rules, Scenes on Panel webpageor _**SmartHomeSe**_&#x63; Server to integrate the device connected to DIO-52-B with other devices in the Control Panel.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
 
 Example of DI/DO practice for Appliance Control:
 
-![](<.gitbook/assets/4 (39).png>)
+![](<.gitbook/assets/4 (52).png>)
 
 * **Separate Devices:**
 
@@ -106,13 +106,13 @@ DI input terminal is connected to a water leakage sensor, and DO output is conne
 
 | **DI settings**                                                         | **DO settings**                                                         |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <img src=".gitbook/assets/image (147).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (146).png" alt="" data-size="original"> |
+| <img src=".gitbook/assets/image (794).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (793).png" alt="" data-size="original"> |
 
 | **Home Automation rule**                                                |
 | ----------------------------------------------------------------------- |
-| <img src=".gitbook/assets/image (149).png" alt="" data-size="original"> |
+| <img src=".gitbook/assets/image (796).png" alt="" data-size="original"> |
 
-![](<.gitbook/assets/8 (21).png>)
+![](<.gitbook/assets/8 (31).png>)
 
 * **Input Follower:**
 
@@ -126,9 +126,9 @@ Example of DI/DO practice for Input Follower:
 
 After selecting the “Input Follower” mode on the DO device edit page, select “Latch” for the Output Follow Input setting. The output terminal device will be activated instantly when the input terminal device is triggered.
 
-<figure><img src=".gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (797).png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/10 (20).png>)
+![](<.gitbook/assets/10 (70).png>)
 
 ### _**DI and DO Settings**_
 
@@ -136,9 +136,9 @@ After selecting the “Input Follower” mode on the DO device edit page, select
 
 Program the DO settings in **DO Device Edit** page on Panel webpage or _**SmartHomeSec**_ server.
 
-| **Control Panel webpage**                                           | **SmartHomeSec**                                                                                                                                                                              |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src=".gitbook/assets/11 (15).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                           | **SmartHomeSec**                                                        |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <img src=".gitbook/assets/11 (39).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (509).png" alt="" data-size="original"> |
 
 _Swith on via APP_:
 
@@ -166,9 +166,9 @@ _Operation Mode:_ Select the Operation Mode for DIO-52-B. Please refer to previo
 
 Program the DI settings in **DI Device Edit** page on Panel webpage or SmartHomeSec server.
 
-| **Control Panel webpage**                                           | **SmartHomeSec** **Server**                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src=".gitbook/assets/13 (16).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                           | **SmartHomeSec** **Server**                                             |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <img src=".gitbook/assets/13 (29).png" alt="" data-size="original"> | <img src=".gitbook/assets/image (510).png" alt="" data-size="original"> |
 
 _Status for 0_: Enter the Status 0 description for the Input terminal.
 

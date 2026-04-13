@@ -4,7 +4,7 @@
 
 ## **Z-Wave Power Relay Switch with Meter**
 
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -20,7 +20,7 @@ PRM2-ZW-P5 also serves as a router in the Z-Wave network. After being included i
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (66).jpeg>)
+![](<.gitbook/assets/0 (77).jpeg>)
 
 **1. LED indicator**
 
@@ -58,7 +58,7 @@ The function button is used to control the Power Relay Switch:
 
 ### _**Installation**_
 
-![](<.gitbook/assets/1 (62).jpeg>)
+![](<.gitbook/assets/1 (72).jpeg>)
 
 **Step 1:** Shut off the electricity supply to the power cable to for safety and to ensure that the wire would not short circuit during the installation process.
 

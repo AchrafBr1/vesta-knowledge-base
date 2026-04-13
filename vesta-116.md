@@ -4,7 +4,7 @@
 
 ## **Air Quality Sensor**&#x20;
 
-<figure><img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 The AQS-1/ AQS-3 is a Z-Wave™ indoor air quality sensor that aims to detect and monitor surrounding particulate matter (PM2.5), temperature, humidity, illuminance (lux) levels, and carbon dioxide (optional) within your premises. The level of the air quality is indicated by different LED colors.
 
@@ -17,7 +17,7 @@ The Air Quality Sensor is compatible only with Z-Wave Gateway/Control Panel. Z-W
 
 ### Parts Identification
 
-<figure><img src=".gitbook/assets/0 (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (4).jpeg" alt=""><figcaption></figcaption></figure>
 
 1. **RGB Light**
 2. **LED Indicator (Green)**
@@ -77,7 +77,7 @@ If an AC power failure is detected, the Air Quality Sensor will send an AC failu
 * Users can also select RGB light color locally. Press and hold the Function Button for 2 seconds to enter RGB Light Color Change mode. Then each button press will lead to next color selection. The cycle of 0-8 can be repeated sequentially. Please refer to below table.
 * The Air Quality Sensor will automatically exit RGB Light Color Change mode after 6 seconds of inactivity. The RGB light will flash the currently set color to indicate the exit.
 
-<figure><img src=".gitbook/assets/11 (1) (1).jpeg" alt=""><figcaption><p><strong>AQS LED Color Setting</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (3).jpeg" alt=""><figcaption><p><strong>AQS LED Color Setting</strong></p></figcaption></figure>
 
 ### Adding Device (Inclusion)
 

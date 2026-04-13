@@ -4,7 +4,7 @@
 
 ## **Shutter Control  (Zigbee)**
 
-<figure><img src=".gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1043).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -20,7 +20,7 @@ SCM-5ZBS
 
 SCM-5ZBS-OTA
 
-![](<.gitbook/assets/0 (77).jpeg>)
+![](<.gitbook/assets/0 (88).jpeg>)
 
 **Parts Identification**
 
@@ -111,17 +111,17 @@ The Shutter Control will transmit a supervision signal to report its condition r
   * Before wiring, please make sure the power is off. To connect the wires:
     1. Lift the lever and insert the wire. **(Picture 1, 2)**
 
-![Picture1                                                                   Picture 2](<.gitbook/assets/2 (72).png>)
+![Picture1                                                                   Picture 2](<.gitbook/assets/2 (100).png>)
 
 2. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
-![Picture 3                                                                                   Picture 4](<.gitbook/assets/3 (72).png>)
+![Picture 3                                                                                   Picture 4](<.gitbook/assets/3 (96).png>)
 
 3. In the same way as step 1 & 2, connect the other wires with connectors.
 
 * SCM-5 should be connected according to the diagram below:
 
-![](<.gitbook/assets/4 (49).jpeg>)
+![](<.gitbook/assets/4 (57).jpeg>)
 
 * Connect N terminal of SCM to the N terminal of Power Supply.
 * Connect L terminal of SCM to the L terminal of Power Supply.
@@ -193,4 +193,4 @@ automatically. You can also refresh the webpage again to ensure if the Device fi
 
 * _**Power Relay Shutter Control with Meter Cluster ID**_
 
-<figure><img src=".gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (13).png" alt=""><figcaption></figcaption></figure>

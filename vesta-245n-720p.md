@@ -1,10 +1,10 @@
-# VESTA-245N 720P
+# VESTA-245N-720P
 
 VST-892-HD-SF1 ALK
 
 ## **PIR Motion Sensor Camera**&#x20;
 
-<figure><img src=".gitbook/assets/image (103).png" alt=""><figcaption><p>VEST-245N 720p</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (750).png" alt=""><figcaption><p>VEST-245N 720p</p></figcaption></figure>
 
 ## **Introduction**
 
@@ -46,7 +46,7 @@ If you change area it ́s necessary press and hold the button for 3 seconds
 * Press the button once to enter test mode for 3 minutes.
 * Press the button once to send a learn code to the repeater/router. (P5 models only)
 
-![](<.gitbook/assets/0 (96).jpeg>)
+![](<.gitbook/assets/0 (107).jpeg>)
 
 3. **Digital Proximity Detector**
 
@@ -180,7 +180,7 @@ When the PIR camera is powered on, its pet immunity function and sensitivity are
 
 Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity and set Sensitivity level to high, you can input 02.
 
-<figure><img src=".gitbook/assets/1 (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (157).png" alt=""><figcaption></figcaption></figure>
 
 2\) Press the function button once on the PIR Camera to send a signal to the Control Panel, new settings will be applied immediately. If the button is not pressed, new settings will be applied upon next signal transmission, e.g., transmission of the supervision signal or IR trigger signal.
 

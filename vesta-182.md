@@ -4,7 +4,7 @@
 
 ## Relay Controllers / ZigBee 3-Channel Relay Switch
 
-<figure><img src=".gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1047).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -18,7 +18,7 @@ The Relay Switch also features router function. It serves as a router in the Zig
 
 
 
-![Top Cover                                                                                                                Base](<.gitbook/assets/0 (80).jpeg>)
+![Top Cover                                                                                                                Base](<.gitbook/assets/0 (91).jpeg>)
 
 1. **Switch Button 1/Function Button**
    * The function button is used for resetting the Relay Switch to join an available ZigBee network.
@@ -105,7 +105,7 @@ Wire the Relay according to the instructions below.
 5. In the same way as step 4, connect Relay Channel 2/3 to other wired devices.
 6. After completing the wiring, replace the strain relief clamps and the top cover. Turn on the power supply to power on the Relay Switch.
 
-![](<.gitbook/assets/2 (61).jpeg>)
+![](<.gitbook/assets/2 (65).jpeg>)
 
 ## **ZigBee Network Setup**
 
@@ -156,7 +156,7 @@ The Relay Switch will transmit a supervision signal to report the ON/OFF status 
 * Drill holes into marked location and insert wall plugs if required, screw the base onto the mounting location.
 * Replace the top cover and tighten the bottom fixing screw.
 
-![](<.gitbook/assets/8 (39).jpeg>)
+![](<.gitbook/assets/8 (44).jpeg>)
 
 ## **Operation**
 
@@ -183,6 +183,6 @@ new ZigBee firmware provided. Please refer to ZigBee Coordinator User Manual for
 
 * _**Relay Cluster ID**_
 
-<figure><img src=".gitbook/assets/2 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (17).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (14).png" alt=""><figcaption></figcaption></figure>

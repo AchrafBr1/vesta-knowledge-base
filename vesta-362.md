@@ -4,13 +4,13 @@
 
 ## **BUS Wired Indoor Siren**
 
-<figure><img src=".gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 SR-35-BUS is a hardwired Indoor Siren that is used for system alarm indication. When an alarm signal is received from the Control Panel, the Wired Indoor Siren will activate to attract attention. The device can also work with the Control Panel to emit entry and exit delay sounds, and also alert you to tamper violation.
 
 ## **Identifying the Parts**
 
-![](<.gitbook/assets/1 (5).jpeg>)
+![](<.gitbook/assets/1 (15).jpeg>)
 
 1. **Learn Button**
 2. **Terminal Resistor Jumper Switch**
@@ -69,7 +69,7 @@ If the device detects a tamper condition, it will activate the siren for the pro
 
 While arming / disarming the system, different methods are used to distinguish various statuses for the user, as listed in the table below.
 
-<figure><img src=".gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (917).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -87,7 +87,7 @@ While arming / disarming the system, different methods are used to distinguish v
 * Before connecting the Wired Indoor Siren to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/14 (2) (1).jpeg>)
+![](<.gitbook/assets/14 (6).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
@@ -100,7 +100,7 @@ Note:
 
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/16 (12).png>)
+![](<.gitbook/assets/16 (20).png>)
 
 ## **Learning**
 

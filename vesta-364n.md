@@ -4,7 +4,7 @@
 
 ## **BUS Auxiliary Power Supply Module**
 
-<figure><img src=".gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 **Simple guide:**&#x20;
 
@@ -12,7 +12,7 @@
 **It is very important** in the **VESTA-364N** power supply, connect the <mark style="color:red;">**positive**</mark> input to the **hybrid control panel**, this will allow greater control over the power supply.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (776).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -22,7 +22,7 @@ When connected to the Hybrid Panel, the PWB-1-BUS module is supervised by and co
 
 ## **Identifying the Parts**
 
-![](<.gitbook/assets/0 (132).jpeg>)
+![](<.gitbook/assets/0 (143).jpeg>)
 
 1. **BUS Connection Terminals to the Hybrid Panel** (4 wire: V, G, A, B)
 2. **BUS Connection Terminals to powered BUS device** (4 wire: V, G, A, B)
@@ -117,14 +117,14 @@ The Tamper Switches for door and wall-mount are in a normal position when the do
 
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-<figure><img src=".gitbook/assets/10 (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (140).png" alt=""><figcaption></figcaption></figure>
 
 * When connecting the PWB-1-BUS to the Hybrid Panel, connect the four terminals (VDD, GND, 485A, 485B). Please refer to the picture below. Connecting the Red V terminal on PWB-1-BUS to the Hybrid Panel VDD terminal will enable BUS output voltage detection of the Hybrid Panel.
 * When connecting the PWB-1-BUS to the devices that are powered by the power supply module, please connect 4 terminals (VDD, GND, 485A, 485B).
 
 Please refer to the BUS device connection examples (VST-892-BUS & DC-23-BUS) below.
 
-![](<.gitbook/assets/3 (90).jpeg>)
+![](<.gitbook/assets/3 (96).jpeg>)
 
 {% hint style="warning" %}
 Note:
@@ -162,7 +162,7 @@ The “**Identify**” function is used to localize a specific BUS device in the
 
 To locate PWB-1-BUS in the BUS system:
 
-![](<.gitbook/assets/4 (112).png>)
+![](<.gitbook/assets/4 (125).png>)
 
 **Step 1.** On Hybrid Panel’s webpage, click “**Identify**” under the device list after PWB’s device column entry.
 
@@ -194,24 +194,24 @@ After being learnt into the Control Panel, the auxiliary power supply module wil
 
 After being learnt into the Control Panel, the auxiliary power supply module will automatically transmit power consumption data, including battery level, BUS voltage, and BUS current to the Control Panel every 30-50 minutes.
 
-![](<.gitbook/assets/5 (115).png>)
+![](<.gitbook/assets/5 (126).png>)
 
 * When the battery level is below or equal to 20%, a low battery signal will be sent to the Panel.
 * When battery level is 0%, it indicates one of the follow situations: battery disconnection, battery switch in off position, or battery failure.
 
 Users can also manually query the power consumption data on **Device Edit** page.
 
-![](<.gitbook/assets/6 (96).png>)
+![](<.gitbook/assets/6 (105).png>)
 
 ## **Mounting the PWB-1-BUS in the enclosure (AWO978)**
 
 **Step 1.** Locate the **locations for standoffs on the enclosure AWO978** (①– A, B, C, D), and the **mounting holes on the PWB-1-BUS** (② – A, B, C, D).
 
-![](<.gitbook/assets/7 (86).png>)
+![](<.gitbook/assets/7 (96).png>)
 
 **Step 2.** Use the provided standoffs and nuts to firmly fix PWB-1-BUS in place.
 
-![](<.gitbook/assets/8 (85).png>)
+![](<.gitbook/assets/8 (95).png>)
 
 **Step 3.** Connect the tamper switch terminal block 1 to the door tamper switch on the enclosure.
 
@@ -241,8 +241,8 @@ Note:
 The two wires of the AC power cable must be connected to the 20V output terminals
 {% endhint %}
 
-![](<.gitbook/assets/9 (46).jpeg>)
+![](<.gitbook/assets/9 (50).jpeg>)
 
 **Step 7.** Slide the battery switch to ON. The installation is now completed.
 
-![](<.gitbook/assets/10 (82).png>)
+![](<.gitbook/assets/10 (132).png>)

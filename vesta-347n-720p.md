@@ -4,7 +4,7 @@
 
 ## **Outdoor PIR Motion Sensor Camera**&#x20;
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 VST-892EX-HD is an outdoor passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 1280 x 720 pixels) to the Control Panel upon movement detection.
 
@@ -28,7 +28,7 @@ VST-892EX-HD-IL – PIR motion sensor camera with Infrared LED
 
 ## _**Identifying the Parts**_
 
-![](<.gitbook/assets/0 (119).jpeg>)
+![](<.gitbook/assets/0 (130).jpeg>)
 
 1. **Digital Proximity Detector**
 
@@ -118,7 +118,7 @@ The Red LED will flash slowly during warm up period. During the 60-second warm u
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and bottom position indicates OFF.
 
-<figure><img src=".gitbook/assets/10 (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (143).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -234,7 +234,7 @@ Follow instruction below to change PIR Camera Area in the Control Panel.
   2. Push in the plugs and fix the mounting bracket on the wall with the screws.
   3. Hook VST-892EX on the mounting bracket and then **push downwards until you hear a click sound**.
 
-![](<.gitbook/assets/3 (79).jpeg>)
+![](<.gitbook/assets/3 (85).jpeg>)
 
 {% hint style="warning" %}
 Note:
@@ -242,7 +242,7 @@ Note:
 Please make sure the PIR Camera is properly hooked onto the mounting bracket, so that the internal tamper switch is fully compressed.
 {% endhint %}
 
-![](<.gitbook/assets/4 (99).png>)
+![](<.gitbook/assets/4 (112).png>)
 
 ### **Mounting with mounting bracket and rotating holder:**
 
@@ -250,13 +250,13 @@ A rotating holder is provided as a user friendly mounting option **(optional ite
 
 With the rotating holder, the PIR Camera can be rotated horizontally to provide optimal coverage.
 
-![](<.gitbook/assets/5 (50).jpeg>)
+![](<.gitbook/assets/5 (59).jpeg>)
 
 A special screwdriver with reversible double-sided bit (as the left picture below), and three star socket screws are provided for fixing the rotating holder to the wall.
 
 Please use the provided screwdriver to tighten/loosen star socket screws.
 
-![](<.gitbook/assets/6 (80).png>)
+![](<.gitbook/assets/6 (89).png>)
 
 * To mount VST-892EX with mounting bracket and rotating holder:
 
@@ -266,7 +266,7 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
 4. Rotate the swivel ball horizontally to adjust VST-892EX’s detecting angle. (When the angle adjusting screw is half loosen, the swivel ball can still be rotated.)
 5. When VST-892EX is rotated to a positon with desired detection coverage, you can lock the position by firmly tightening the angle adjusting screw.
 
-![](<.gitbook/assets/7 (70).png>)
+![](<.gitbook/assets/7 (80).png>)
 
 ## _**Installation Recommendations**_
 
@@ -278,7 +278,7 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
 * On a surface or in a corner where animals are inaccessible.
 * The PIR Camera has a detection range of 10M when mounted at the height of 2.3 meters above the ground.
 
-![](<.gitbook/assets/8 (52).jpeg>)
+![](<.gitbook/assets/8 (57).jpeg>)
 
 **Limitations:**
 
@@ -288,19 +288,19 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
 * Never attempt to disassemble or modify the unit.
 * Please install the PIR Camera straight up. Do not tilt it.
 
-![](<.gitbook/assets/9 (40).jpeg>)
+![](<.gitbook/assets/9 (44).jpeg>)
 
 * Do not install the motion sensor camera where objects moved by wind such as trees and laundry, which may block the motion sensor camera’s field of view.
 
-![](<.gitbook/assets/10 (30).jpeg>)
+![](<.gitbook/assets/10 (33).jpeg>)
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-![](<.gitbook/assets/11 (32).jpeg>)
+![](<.gitbook/assets/11 (38).jpeg>)
 
 * Avoid aiming at the path of outdoor unit’s intake or exhaust airflow.
 
-![](<.gitbook/assets/12 (31).jpeg>)
+![](<.gitbook/assets/12 (34).jpeg>)
 
 {% hint style="danger" %}
 _IMPORTANT NOTE_

@@ -4,11 +4,11 @@
 
 ## **Care Watch**
 
-<figure><img src=".gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Parts Identification**_
 
-<div align="left"><figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (573).png" alt=""><figcaption></figcaption></figure></div>
 
 ### _**Watch Crown**_
 
@@ -59,7 +59,7 @@ The Care Watch features Auto Low Battery detection function.
 
 &#x20;                           **Figure 1**                                            **Figure 2** **Figure 3**
 
-![](<.gitbook/assets/8 (39).png>)
+![](<.gitbook/assets/8 (49).png>)
 
 **Step 5.** To replace the battery of the watch itself, use tweezers to pick up the PCB board and put it aside for later use **(Figure 4)**.
 
@@ -75,7 +75,7 @@ PCB board is replaced **(Figure 7)**.
 
 &#x20;               **Figure 4**                           **Figure 5** **Figure 6**                            **Figure 7**
 
-![](<.gitbook/assets/9 (43).png>)
+![](<.gitbook/assets/9 (53).png>)
 
 **Step 10.** Use a special tool, such as a C Clamp or a watch press and slowly press down to apply pressure to close the watch back.
 

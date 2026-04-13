@@ -4,7 +4,7 @@
 
 ## **Infrared Universal Remote Control (Zigbee)**
 
-<figure><img src=".gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1053).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -14,7 +14,7 @@ The IR Remote Control serves as an end device in the ZigBee network. It can be i
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (85).jpeg>)
+![](<.gitbook/assets/0 (96).jpeg>)
 
 1.  **IR Eye**
 
@@ -45,13 +45,13 @@ The IR Remote Control serves as an end device in the ZigBee network. It can be i
 
 IR Transmission power set to Low. **(Factory Default)**
 
-<div align="left"><figure><img src=".gitbook/assets/image (210).png" alt="" width="71"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (857).png" alt="" width="71"><figcaption></figcaption></figure></div>
 
 **Jumper Off:** if the jumper link is removed or “**parked**” on one pin.
 
 Jumper OFF – Deselected.
 
-<div align="left"><figure><img src=".gitbook/assets/image (211).png" alt="" width="67"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (858).png" alt="" width="67"><figcaption></figcaption></figure></div>
 
 8. **High IR Transmission Power Jumper (JP2)**
 
@@ -143,7 +143,7 @@ In order to use the IR Remote Control to control your home appliance, , the IR R
 3. Press and hold the IR button for 10 seconds and release when IR LED begins to flash.
 4. The IR LED will begin flashing slowly to indicate the IR Remote Control is now enter ing IR Learn Mode.
 
-![](<.gitbook/assets/6 (55).png>)
+![](<.gitbook/assets/6 (64).png>)
 
 **Step 2. Select Appliance Type**
 
@@ -153,7 +153,7 @@ Before starting learning, select the appliance number with Dip Switch Set 1 befo
 
 Select the appliancetype according to following Dip Switch Set 1 table. For ease of recognition and operation from Climax ZigBee Control Panel, each device type has been given a display name on the Control Panel interface, we suggest you to learn in IR signals according to appliance types displayed.
 
-<figure><img src=".gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (859).png" alt=""><figcaption></figcaption></figure>
 
 “X” means the location of this switch has no effect on appliance selection.
 
@@ -166,7 +166,7 @@ Select the appliancetype according to following Dip Switch Set 1 table. For ease
 
 Each appliance type can learn up to 8 IR signals, selected with Dip Switch Set 2.
 
-<figure><img src=".gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (865).png" alt=""><figcaption></figcaption></figure>
 
 **Example:**
 
@@ -207,7 +207,7 @@ To remove all IR signal learnt in for an appliance type, follow instruction belo
 1. Remove batteries to power down IR Remote Control.
 2. Select the appliance type you want to remove using Dip Switch set 1 according to following table
 
-<figure><img src=".gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (866).png" alt=""><figcaption></figcaption></figure>
 
 Slide more than one switch to ON will select multiple appliance type,
 
@@ -227,7 +227,7 @@ The IR Remote Control is designed to be mounted on wall. It can be mounted by ei
 
 ### _**Mounting the IR Remote Control**_
 
-![](<.gitbook/assets/7 (49).jpeg>)
+![](<.gitbook/assets/7 (56).jpeg>)
 
 The IR Remote Control is designed to be mounted on wall. It can be mounted by either directly screwing the back cover onto the wall, or by installing the rotational bracket first, then install the main body on the bracket. The IR Eye should be pointed to the home appliance you want to control when the IR Remote Control is installed.
 
@@ -253,7 +253,7 @@ The Rotational Bracket has an adjustable head which can be attached to the IR Re
 
 
 
-![](<.gitbook/assets/8 (42).jpeg>)
+![](<.gitbook/assets/8 (47).jpeg>)
 
 ## **Operation**
 
@@ -267,7 +267,7 @@ Select “Air Conditioner Function 1” will control the IR Remote Control to se
 
 ### _**IR Signal Coverage & IR LED Selection**_
 
-![](<.gitbook/assets/9 (30).jpeg>)
+![](<.gitbook/assets/9 (34).jpeg>)
 
 The IR Eye of the IR Remote Control includes 6 LEDs which are used to transmit IR signals, with 1 central LED and 5 surrounding LEDs. The 5 surrounding LEDs are positioned at 45° angle to the PCB board. **LED Signal Coverage:**
 
@@ -282,7 +282,7 @@ When installing the IR Remote Control, select the IR LED used via your Control P
 
 Please refer to diagram below for IR signal coverage:
 
-![](<.gitbook/assets/10 (22).jpeg>)
+![](<.gitbook/assets/10 (25).jpeg>)
 
 ### _**IR Transmission Power**_
 
@@ -296,23 +296,23 @@ Setting the jumper to JP2 will increase the IR signal transmission range.
 
 ### _**UPIC Cluster ID**_
 
-<figure><img src=".gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (867).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of Basic Cluster Information
 
-<figure><img src=".gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (869).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Power CFG Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (870).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Identify Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (871).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Thermostat Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
 
 **System Mode (0x001C):**
 
@@ -338,21 +338,21 @@ UPIC can control up to 5 types of appliances (Type 1 \~ 5) with its 6 IR LEDs. I
 
 The Format should be read as following, using default value 0x2020202020 as example
 
-<figure><img src=".gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (873).png" alt=""><figcaption></figcaption></figure>
 
 For each appliance type value , the value should be read in Bit0\~5, in following format:
 
-<figure><img src=".gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (874).png" alt=""><figcaption></figcaption></figure>
 
 For example: 0x20 = 0010 0000 in Bit number, meaning that only LED 6 (The central LED) will be activated when UPIC transmit IR signal in this appliance type.
 
 If you want to set the IR signal to be transmitted with both LED 2 and LED 6, the value in bit number will be 0010 0010 = 0x22
 
-<figure><img src=".gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (875).png" alt=""><figcaption></figcaption></figure>
 
 0010 0010 in Bit number = 0x22 in Hexadecimal number, if you wish to apply this setting to Appliance Type 1 only and leave the other appliance type unchanged, the final attribute setting will be: 0x**22**20202020
 
-<figure><img src=".gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (876).png" alt=""><figcaption></figcaption></figure>
 
 You can use this attribute to program which LEDs should be activated for different IR Appliance Type&#x20;
 

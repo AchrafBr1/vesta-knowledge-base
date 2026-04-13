@@ -4,13 +4,13 @@
 
 ## **Repeater**
 
-<figure><img src=".gitbook/assets/image (26) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 The Repeater is designed to increase the effectiveness and versatility of the alarm system. It is a device that makes your system more powerful by increasing the maximum possible distance between the Main Unit (Control Panel) and the Devices.
 
 ## **Identifying the Parts**
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 20140415.jpg](<.gitbook/assets/0 (14).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 20140415.jpg](<.gitbook/assets/0 (25).jpeg>)
 
 1. **Power LED (Green)**
 
@@ -73,9 +73,9 @@ The Repeater can detect the battery voltage. When the battery voltage is low, th
 
 The Functional Switch Block determines which Mode the Repeater is in. A switch in the up position indicates the (**ON**) Mode. Likewise, a switch in the down position indicates the (**OFF**) Mode.
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 switch block.jpg](<.gitbook/assets/1 (13).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP-23 switch block.jpg](<.gitbook/assets/1 (23).jpeg>)
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (18).png" alt=""><figcaption></figcaption></figure>
 
 DIP Switches 5 and 7 are reserved.
 
@@ -201,15 +201,15 @@ The Repeater can be placed on the table, mounted on the wall or wherever desired
 1. Using the holes of the Mounting Bracket as a template, drill holes into the mounting surface.
 2. Insert the wall plugs if fixing into plaster or brick. Screw the Mounting Bracket to the wall.
 
-![](<.gitbook/assets/2 (28).png>)
+![](<.gitbook/assets/2 (56).png>)
 
 3. Hook the Repeater onto the Wall Mounting Bracket (with the Mounting Holes of the Repeater).
 
-![](<.gitbook/assets/3 (26).png>)
+![](<.gitbook/assets/3 (50).png>)
 
 4. Hold the Repeater and gently push it downwards as shown below.
 
-![](<.gitbook/assets/4 (26).png>)
+![](<.gitbook/assets/4 (39).png>)
 
 ## **Tamper Protection**
 
@@ -244,13 +244,13 @@ The Device needs to be learned into its closest repeater (Repeated B). Repeater 
 
 Example:
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage device.jpg](<.gitbook/assets/5 (10).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage device.jpg](<.gitbook/assets/5 (19).jpeg>)
 
 2. If a device is located between the RF coverage of multiple repeaters and the Control Panel:
 
 Example 1:
 
-![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg1.jpg](<.gitbook/assets/6 (14).jpeg>)
+![C:\Documents and Settings\C0874.CLIMAX-TECH\桌面\done\to be completed\manual pictures\RP coverage eg1.jpg](<.gitbook/assets/6 (23).jpeg>)
 
 From the displayed diagram, the device is located between the RF coverage areas of Repeater B and C. Users can choose to learn the device into Repeater B only, learn into Repeater C only, or learn into both Repeaters B and C.
 
@@ -264,7 +264,7 @@ For the above system, Repeater C is also learnt into Repeater A or B or both so 
 
 Example 2:
 
-![](<.gitbook/assets/7 (13).jpeg>)
+![](<.gitbook/assets/7 (20).jpeg>)
 
 From the displayed diagram, the device is located between the RF coverage areas of Repeater A, B and C. Users can choose to learn the device into Repeater A only, learn into Repeater B only, learn into Repeater C only, or learn into Repeaters A, B and C.
 

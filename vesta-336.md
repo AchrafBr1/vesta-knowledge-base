@@ -4,7 +4,7 @@
 
 ## **Smoke Detector Series**
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 SD-32 Series is a wireless smoke detector designed to protect you against potential fire hazards. The Smoke detector uses multi criteria sensor technology for detecting between fast burning flames and slow smoldering fires, while at the same time includes intelligent technology to differentiate between cooking smoke and actual life-threatening house-fire emergencies, virtually eliminating nuisance alarms.
 
@@ -12,11 +12,11 @@ In addition to the capability of smoke detection, the models with heat detection
 
 The SD-32 series models are listed as below:
 
-<figure><img src=".gitbook/assets/10 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (25).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Parts Identification**_
 
-![](<.gitbook/assets/1 (88).png>)
+![](<.gitbook/assets/1 (120).png>)
 
 **1. LED Indicator / Test Button**
 
@@ -163,9 +163,9 @@ As the operation condition of the Smoke Detector may vary after being installed 
 
 ## **Installation**
 
-![At least 60cm from the wall](<.gitbook/assets/18 (40).png>)
+![At least 60cm from the wall](<.gitbook/assets/18 (46).png>)
 
-![At the top of a starway](<.gitbook/assets/16 (47).png>)
+![At the top of a starway](<.gitbook/assets/16 (55).png>)
 
 ### _**Installation Guideline**_
 
@@ -221,11 +221,11 @@ Ensure the wall plugs are flush with the mounting surface.
 * The Smoke Detector is designed to be mounted on the ceiling. The ideal mounting height for the Smoke Detector is 3 meters. Mounting above 3 meters can affect detection performace. **(SD-32-HM/-HM-SC only))**
 * The Motion Detector provides detection coverage of a 360° circle with 6 meters in diameter. Please refer to below figures for the installation details
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (26).png" alt=""><figcaption></figcaption></figure>
 
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement.
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (9).png" alt=""><figcaption></figcaption></figure>
 
 ## **Maintenance & Cleaning**
 

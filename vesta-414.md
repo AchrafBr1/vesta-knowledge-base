@@ -4,7 +4,7 @@
 
 ## 3-channel relay controller F1
 
-<figure><img src=".gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1034).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -16,7 +16,7 @@ The Relay Switch is also equipped with the strain relief clamps for electrical a
 
 ## Parts Identification
 
-<figure><img src=".gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1262).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Switch Button 1/Test Button
 
@@ -110,7 +110,7 @@ Wire the Relay according to the instructions below.
 
 3\.     Connect the L and N terminals of the power supply to the Line and Neutral terminals of PRLM respectively through the wiring hole.
 
-<figure><img src=".gitbook/assets/image (591).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1263).png" alt=""><figcaption></figcaption></figure>
 
 4\.     Depending on the device you wish to control via Relay Channel 1, select NO terminal and wire Relay Channel 1 with the device through the wiring hole to establish Normal Open connection with device.
 
@@ -148,7 +148,7 @@ l   The Control Panel should display if the Relay Switch is within the operation
 
 ## Mounting
 
-<figure><img src=".gitbook/assets/image (592).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1264).png" alt=""><figcaption></figcaption></figure>
 
 l   After you have finished the Walk Test, and you are satisfied that the device is able to  communicate with the Control Panel in the chosen location, proceed to mounting.
 

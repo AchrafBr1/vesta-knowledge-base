@@ -4,13 +4,13 @@
 
 ## **Temperature Sensor**&#x20;
 
-<figure><img src=".gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 TS-29 is a wireless temperature sensor. It transmits temperature condition to the Control Panel every 30 minutes.
 
 ### _**Part Idenfication**_
 
-![](<.gitbook/assets/0 (65).jpeg>)
+![](<.gitbook/assets/0 (76).jpeg>)
 
 1.  **Function Button**
 
@@ -26,7 +26,7 @@ TS-29 is a wireless temperature sensor. It transmits temperature condition to th
 * When changing battery, use a sharp tool to open the battery slot to remove and insert battery.
 * When inserting battery, the positive (+) side of the battery must face upward. NEVER insert the battery with negative (-) side facing upward.
 
-![](<.gitbook/assets/1 (62).png>)
+![](<.gitbook/assets/1 (94).png>)
 
 ### _**Getting Started**_
 

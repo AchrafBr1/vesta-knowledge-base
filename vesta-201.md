@@ -6,7 +6,7 @@ SVGS-1-F1
 
 The VESTA-201  is capable of sending wireless signals to the Control Panel upon detection of window glass break or shock/vibration.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)  (12).png" alt="" width="375"><figcaption><p>VESTA-201</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (604).png" alt="" width="375"><figcaption><p>VESTA-201</p></figcaption></figure>
 
 ## **Parts Identification**
 
@@ -14,7 +14,7 @@ The VESTA-201  is capable of sending wireless signals to the Control Panel upon 
 
 Use sharp tools such as paper clip to press the button and transmit Lear/Test code.
 
-![](<.gitbook/assets/0 (91).jpeg>)
+![](<.gitbook/assets/0 (102).jpeg>)
 
 **2. LED Indicator**
 
@@ -34,7 +34,7 @@ The LED flashes when:
 * When inserting battery, the **positive(+)** side of the battery must face upward. **NEVER** insert the battery with negative(-) side facing upward.
 * When the battery is inserted, the LED indicator will light up briefly.
 
-![](<.gitbook/assets/2 (76).png>)
+![](<.gitbook/assets/2 (104).png>)
 
 ### _**Supervision**_
 
@@ -65,7 +65,7 @@ To adjust the sensitivity setting:
 
 
 
-<figure><img src=".gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (9).png" alt=""><figcaption></figcaption></figure>
 
 ## **Learning and Installation**
 
@@ -90,12 +90,12 @@ Note:
 When mounting at corner, make sure to keep at least 10mm distance between the sensor and the edge of window or wall. Adjust the battery slot direction (**Do not face the corner**) to avoid difficulty when removing the battery slot.
 {% endhint %}
 
-![](<.gitbook/assets/7 (53).png>)
+![](<.gitbook/assets/7 (63).png>)
 
 6. Clean and dry the mounting location. Do not install on dirty or web surface.
 7. Use the provided double-sided adhesive tape (Ø35mm x 8mm) to apply to the back cover of SVGS-1 and stick the  sensor onto window/wall.
 
-![](<.gitbook/assets/9 (33).jpeg>)
+![](<.gitbook/assets/9 (37).jpeg>)
 
 {% hint style="warning" %}
 Note:&#x20;

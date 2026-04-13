@@ -4,7 +4,7 @@
 
 ## **Clamp Meter**&#x20;
 
-<figure><img src=".gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 CL-Meter-ZW is a Z-Wave Clamp Meter aim to monitor and report the total amount of electricity uses in your facility by connecting the clamp onto the power cable.
 
@@ -12,7 +12,7 @@ The Energy Meter is a Z-Wave enabled device and is fully compatible with any Z-W
 
 Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be routed to their destination via intermediary “listening” Z-Wave products.
 
-![](<.gitbook/assets/0 (109).jpeg>)
+![](<.gitbook/assets/0 (120).jpeg>)
 
 ## **Parts Identification**
 
@@ -57,11 +57,11 @@ Please make sure the main power in your facility is also off before installing. 
 1. Connect AC Input cable to a socket near the Electrical Box to power on the Clamp Meter.
 2. Open the clamp as indicated by below picture. The clamp should be applied onto an electric cable The arrow direction on the clamp need to point at the correct direction of the electricity current flows (**KL**). If arrow is faced in reverse direction, the reading will display negative value (-) however it will not influence the readings.
 
-![                                                                                                                                                                                             K                                          L](<.gitbook/assets/3 (84).png>)
+![                                                                                                                                                                                             K                                          L](<.gitbook/assets/3 (108).png>)
 
 3. Follow the schematics below as an example; clip the clamps on the electricity cables on the 2 the incoming power cable connected to the Main Circuit Breaker.
 
-![](<.gitbook/assets/4 (90).png>)
+![](<.gitbook/assets/4 (103).png>)
 
 ## _**Mounting**_
 
@@ -71,7 +71,7 @@ The Clamp Meter has a mounting bracket for mounting purposes.
 2. Screw the mounting bracket onto the wall according to marked location. Install wall plugs if necessary.
 3. Locate the hooks of the mounting bracket and line up the hooks with the mounting holes on the Clamp Meter. Fit the hooks into the mounting holes as picture below. Installation is now complete.
 
-![](<.gitbook/assets/5 (92).png>)
+![](<.gitbook/assets/5 (103).png>)
 
 ## _**Adding Device (Inclusion)**_
 
@@ -197,15 +197,15 @@ The Multi Channel Association Command Class is used to create application bindin
 
 For Root, it supports maximum 1 node and maximum 3 association groups
 
-<figure><img src=".gitbook/assets/11 (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (90).png" alt=""><figcaption></figcaption></figure>
 
 For Endpoint 1, it supports maximum 1 node and maximum 2 association groups.
 
-<figure><img src=".gitbook/assets/12 (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (89).png" alt=""><figcaption></figcaption></figure>
 
 For Endpoint 2, it supports maximum 1 node and maximum 2 association groups.
 
-<figure><img src=".gitbook/assets/13 (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (73).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Selected Endpoint**_
 

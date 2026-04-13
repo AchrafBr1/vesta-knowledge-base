@@ -4,11 +4,11 @@
 
 ## **REMOTE KEYPAD with NFC Tag**
 
-<figure><img src=".gitbook/assets/image (26) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Identifying the Parts**_
 
-![](<.gitbook/assets/1 (58).jpeg>)
+![](<.gitbook/assets/1 (68).jpeg>)
 
 1. **Red LED**
 2. **Yellow LED**
@@ -19,11 +19,11 @@
    1. Press both 4 and 6 to trigger fire alarm
 6. **Medical Alarm (if enabled)**
    1. Press both 7 and 9 to trigger Medical alarm
-7. **Backlit Star (**<img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**) Key**
-   1. Enter Keypad PIN Code + <img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">Key to enter Test Mode.
+7. **Backlit Star (**<img src=".gitbook/assets/1 (29).png" alt="" data-size="line">**) Key**
+   1. Enter Keypad PIN Code + <img src=".gitbook/assets/1 (30).png" alt="" data-size="line">Key to enter Test Mode.
 8. **Backlit Pound (＃) Key**
 9. **Backlit (OK) Key**
-10. &#x20;**Backlit Restore (** <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (1).png" alt="" data-size="line">) **Key**
+10. &#x20;**Backlit Restore (** <img src=".gitbook/assets/image (536).png" alt="" data-size="line">) **Key**
     1. Press this key in stand-by mode to inquire the system mode.
 11. **Away Arm Key**
 12. **Backlit NFC Sensor Zone**
@@ -152,13 +152,13 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 **Step 1 -->** Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, assign the user pin code to an Area.
 
-![](<.gitbook/assets/17 (20).png>)
+![](<.gitbook/assets/17 (25).png>)
 
 **Step 2 -->**  After KPT-35N-S10 is successfully learnt into the panel, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
 
 **Step 3 -->**  Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-![](<.gitbook/assets/18 (22).png>)
+![](<.gitbook/assets/18 (28).png>)
 
 **Step 4 -->**  The tag has been added. You can use the tag to arm/home arm/disarm the system. When Keypad is powered on by inserting batteries, the Orange LED will flash and the white backlight will turn on. When LED is off, wait 10 seconds for keypad tag sensor to start functioning.
 
@@ -168,7 +168,7 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 **Step 2 -->** Manually delete the tag number and click Submit.
 
-<figure><img src=".gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (780).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3 -->** The tag is cleared.
 
@@ -206,7 +206,7 @@ In the Test mode, Pressing ＊ key and then 9 key can enable Arm/ Home with User
 
 ### Check System Mode
 
-* [x] When the keypad is in stand by mode, you can press the <img src=".gitbook/assets/image (132).png" alt="" data-size="line">key to check the current system mode of the panel.
+* [x] When the keypad is in stand by mode, you can press the <img src=".gitbook/assets/image (779).png" alt="" data-size="line">key to check the current system mode of the panel.
 * [x] If the system is in Arm Mode, the k eypad Red LED and White Backlight will turn on with long beep first, and then the Red LED and White Backlight will turn on for 1 second.
 * [x] If the system is in Home Mode, the Keypad Yellow LED and White Backlight will turn on with a long beep first, and then the Yellow LED and White Backlight will turn on for 1 second.
 * [x] If the system is in Disarm Mode, the Keypad White Backlight will turn on with 2 b eeps first, flash once, and then the White Backlight will turn on for 1 second.

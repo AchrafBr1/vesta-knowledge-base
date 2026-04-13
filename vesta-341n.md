@@ -4,7 +4,7 @@ STCB-1-LTE-E F1 868
 
 ## Voice emergency call point
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 ### SMS COMMAND TABLE
 
@@ -26,9 +26,9 @@ Put panel in learn mode and press help button in VESTA-349N
 
 ### Device button and led indicator
 
-<figure><img src=".gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (883).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (882).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@ Put panel in learn mode and press help button in VESTA-349N
 
 
 
-<img src=".gitbook/assets/image (234).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (881).png" alt="" data-size="original">
 
 ***
 

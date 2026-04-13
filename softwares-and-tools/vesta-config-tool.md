@@ -6,7 +6,7 @@ icon: sign-posts-wrench
 
 ## Introduction
 
-<figure><img src="../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (997).png" alt=""><figcaption></figcaption></figure>
 
 **VESTA CONFIG TOOL** is a dedicated utility designed to simplify the installation and configuration of VESTA Advanced Video devices. Ideal for installers, it automatically scans and identifies local IP addresses in seconds, providing quick access to each device's web interface.
 

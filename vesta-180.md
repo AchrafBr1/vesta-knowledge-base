@@ -4,7 +4,7 @@
 
 ## **Shutter Control Switch (Zigbee)**
 
-<figure><img src=".gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1045).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -20,7 +20,7 @@ SCS-1-ZBS
 
 SCS-1-ZBS-OTA
 
-![](<.gitbook/assets/0 (78).jpeg>)
+![](<.gitbook/assets/0 (89).jpeg>)
 
 ## **Device Introduction**
 
@@ -115,38 +115,38 @@ The base has 3 knockouts, where the plastic is thinner, for mounting purpose.
 4. Screw the base into the surface.
 5. Replace the cover back onto the base and secure it by tightening the fixing screw.
 
-![](<.gitbook/assets/9 (26).jpeg>)
+![](<.gitbook/assets/9 (30).jpeg>)
 
 ## **Appendix (For developers only)**
 
 _**Scene Selector Cluster ID**_
 
-<figure><img src=".gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (827).png" alt=""><figcaption></figcaption></figure>
 
 * _**Attribute of Basic Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (828).png" alt=""><figcaption></figcaption></figure>
 
 * _**Attribute of Identify Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (830).png" alt=""><figcaption></figcaption></figure>
 
 * Attribute of Power Configuration Cluster Information
 
-<figure><img src=".gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (831).png" alt=""><figcaption></figcaption></figure>
 
 * Shade Controller Cluster ID (for HPGW-G panel)
 
-<figure><img src=".gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (832).png" alt=""><figcaption></figcaption></figure>
 
 * _**Attribute of**_ Basic Cluster Information
 
-<figure><img src=".gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (833).png" alt=""><figcaption></figcaption></figure>
 
 * Attribute of Identify Cluster Information
 
-<figure><img src=".gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (834).png" alt=""><figcaption></figcaption></figure>
 
 * Attribute of Power Configuration Cluster Information
 
-<figure><img src=".gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (835).png" alt=""><figcaption></figcaption></figure>

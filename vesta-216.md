@@ -4,13 +4,13 @@
 
 ## **Status Display**
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
 SSL-1 is a Status Display designed to display the current status of the system.
 
-<figure><img src=".gitbook/assets/0 (137).jpeg" alt="" width="325"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (148).jpeg" alt="" width="325"><figcaption></figcaption></figure>
 
 ### Device Introduction
 
@@ -75,4 +75,4 @@ The base of the Status Display has two screw knockouts, where the plastic is thi
 5. Replace the top cover over the base by hooking the base onto the fixing hook and pushing the cover towards the base.
 6. Secure and screw the top cover back on to its base using a Philips screwdriver.
 
-<figure><img src=".gitbook/assets/1 (115).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (125).jpeg" alt=""><figcaption></figcaption></figure>

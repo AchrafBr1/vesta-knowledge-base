@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## VESTA black outdoor junction box
 
-<figure><img src="../.gitbook/assets/image (507).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1175).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Specifications
 

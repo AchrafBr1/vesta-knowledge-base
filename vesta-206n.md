@@ -4,7 +4,7 @@
 
 ## **Relay Controller**
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -29,7 +29,7 @@ The LED indicator is used to indicate Relay status:
 * Press and hold the button while powering on the Relay Controller, then release the button when the LED lights up to factory reset.
 * Press the button to switch ON/OFF the Relay.
 
-<figure><img src=".gitbook/assets/0 (141).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (152).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Connection Terminals
 
@@ -75,7 +75,7 @@ Wire the Relay according to the instructions below or refer to the diagram for m
 3. Depend on the device you wish to control via the Relay, select NO terminal and wire the Relay with the device to establish Normal Open connection with device.
 4. After completing the wiring, turn on the power supply to power on the Relay Toggle Switch.
 
-<figure><img src=".gitbook/assets/3 (98).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (104).jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 _IMPORTANT NOTE:_

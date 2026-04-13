@@ -4,7 +4,7 @@ SD-8-EL / SD-8-EL-F1&#x20;
 
 ## Smoke Detector
 
-<figure><img src=".gitbook/assets/image (18) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -21,7 +21,7 @@ The Learn / Test Button is pressed in the following situations:
 * To test if the Smoke Detector is functioning normally.
 * To silence the alarm
 
-<figure><img src=".gitbook/assets/1 (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (149).png" alt=""><figcaption></figcaption></figure>
 
 ### **2. LED Indicator**
 
@@ -31,13 +31,13 @@ The Learn / Test Button is pressed in the following situations:
 
 ### **3. Battery compartment**
 
-<figure><img src=".gitbook/assets/2 (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (154).png" alt=""><figcaption></figcaption></figure>
 
 ### **4. Mounting Hole**
 
 ### **5. Mounting Bracket**
 
-<figure><img src=".gitbook/assets/3 (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (138).png" alt=""><figcaption></figcaption></figure>
 
 ### **6. Hook**
 
@@ -93,11 +93,11 @@ If the panel can receive signal normally, proceed to mount the Smoke Detector. I
 
 &#x20;               \- In the peak of an “**A**” frame type of ceiling.
 
-<figure><img src=".gitbook/assets/4 (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (132).png" alt=""><figcaption></figcaption></figure>
 
 Step 1. Use the mounting bracket as a template to mark the two mounting holes. Drill holes in the mounting location and insert wall plugs if needed.
 
-![SD-7\_4](<.gitbook/assets/1 (22).png>) ![100-2](<.gitbook/assets/2 (23).png>) ![100-3](<.gitbook/assets/3 (21).png>)
+![SD-7\_4](<.gitbook/assets/1 (54).png>) ![100-2](<.gitbook/assets/2 (51).png>) ![100-3](<.gitbook/assets/3 (45).png>)
 
 Step 2. Screw the mounting bracket into marked location with the two hooks facing downward.
 

@@ -6,9 +6,9 @@ icon: video-plus
 
 ## 16-channel NVR IP Pro AI-L Series
 
-<figure><img src="../.gitbook/assets/image (546).png" alt="" width="375"><figcaption><p>NVR6216-PRO</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1214).png" alt="" width="375"><figcaption><p>NVR6216-PRO</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (547).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1215).png" alt=""><figcaption></figcaption></figure>
 
 ### Specifications
 

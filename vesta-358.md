@@ -4,7 +4,7 @@
 
 ## **Wired PIR Motion Sensor**&#x20;
 
-<figure><img src=".gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -16,7 +16,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (2) (1).jpeg>)
+![](<.gitbook/assets/0 (13).jpeg>)
 
 1. **Test Button / LED Indicator**
    * Press the test button once to enter test mode for 3 minutes.
@@ -126,7 +126,7 @@ _**Caution**_
 * Before connecting the PIR motion sensor to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/15 (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/15 (5).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
@@ -139,7 +139,7 @@ Note:
 
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/16 (9).png>)
+![](<.gitbook/assets/16 (17).png>)
 
 ## _**Getting Started – Learning the PIR Motion Sensor into the Control Panel**_
 
@@ -200,7 +200,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
   * After the installation site is selected, press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check that the detection coverage is adequate.
   * When detection coverage is found to be satisfying, follow the steps described in _**Mounting Method**_ section below to mount the PIR.
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (9).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Mounting Method**_
 
@@ -218,9 +218,9 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 5. Screw the base onto the wall plugs.
 6. Screw the cover onto the base.
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/10 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Corner Mounting with the mounting bracket:
 
@@ -229,7 +229,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 4. Fit the PIR onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (10).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Mounting with the mounting bracket:**
 
@@ -240,7 +240,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
 
 
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Surface mounting with the rotating bracket (optional item, sold separately):
 
@@ -250,7 +250,7 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
   2. Fit the 3 hooks of the rotating bracket into the 3 holes of the base accordingly.
   3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-<figure><img src=".gitbook/assets/10 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (12).png" alt=""><figcaption></figcaption></figure>
 
 ## **Installation Recommendations**
 
@@ -263,6 +263,6 @@ Step 2. Press and hold the Test Button of the PIR motion sensor, and then power 
   * At a position where its field of view will not be obstructed by e.g., curtains, ornaments etc.
 * **Limitations**
 
-<figure><img src=".gitbook/assets/10 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (7).png" alt=""><figcaption></figcaption></figure>

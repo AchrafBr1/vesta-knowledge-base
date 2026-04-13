@@ -4,7 +4,7 @@
 
 ## **Pull Cord Unit**&#x20;
 
-<figure><img src=".gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
 The Pull Cord Unit is used to activate an alarm when the cord is pulled. It can be quickly installed in easily accessible indoor locations for user to pull for emergency help.
 
@@ -16,7 +16,7 @@ The PCU Pull Cord Unit includes the following models:
 
 ## _**Parts Identification**_
 
-![](<.gitbook/assets/2 (63).png>)
+![](<.gitbook/assets/2 (91).png>)
 
 1\. **LED Indicator**
 
@@ -54,13 +54,13 @@ Step 1. Open the lid of the PCU by using a flat-headed screwdriver (**Pic 1.**)
 
 Step 2. Open the upper cover of PCU by using the flat-headed screwdriver (**Pic 2.**)
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (565).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                          **(Pic 1.)** **(Pic 2.)**
 
 Step 3. Loosen the two screws on the PCU base securing the stabilizer using a Philips screwdriver so that the stabilizer becomes mobile (**Pic 3.**) _It is not mandatory to entirely remove both screws_.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (566).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                                                    **(Pic 3.)**
 
@@ -68,7 +68,7 @@ Step 3. Loosen the two screws on the PCU base securing the stabilizer using a Ph
 
 Step 4. Rotate the stabilizer gently in anti-clockwise direction until both screw heads meets the end of the screw holes as picture shown below (**Pic 4.**), then remove the stabilizer from the bottom case and flip it over, you will see the battery compartment as (**Pic 5.**)
 
-![](<.gitbook/assets/9 (44).png>)
+![](<.gitbook/assets/9 (54).png>)
 
 &#x20;                                **(Pic 4.)**                                                                                              **(Pic 5.)**
 
@@ -82,13 +82,13 @@ Step 8. Replace the lid. Please match the PCU LED with LED mark behind the lid a
 
 &#x20; &#x20;
 
-<figure><img src=".gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                                               **(Pic 6.)**             &#x20;
 
 &#x20;                                         **LED** **LED Mark**                                                                                    &#x20;
 
-![  (Pic 7.)](<.gitbook/assets/13 (27).png>)
+![  (Pic 7.)](<.gitbook/assets/13 (40).png>)
 
 ### **Cord Installation**
 
@@ -102,7 +102,7 @@ The PCU-3 or PCU-5 comes supplied with a long cord that incorporates a bell-shap
 
 **Step 4.** The Cord Installation is complete.
 
-![](<.gitbook/assets/14 (21).png>)
+![](<.gitbook/assets/14 (31).png>)
 
 ## **Mounting Procedures**
 
@@ -112,7 +112,7 @@ There are two ways to mount the PCU:
 
 Step 1. Open the PCU cover as instructed above (**steps 1\~4**) under _**Battery Installation.**_ Step 2. Break through the 4 appropriate knockouts on the base (**Pic 8.**).
 
-![](<.gitbook/assets/15 (23).png>)
+![](<.gitbook/assets/15 (31).png>)
 
 &#x20;                                                                                            **(Pic 8.)**
 
@@ -132,7 +132,7 @@ Step 2. Insert the stabilizer into the hole (or box) in the wall and tighten the
 
 Step 3. Once the stabilizer is well inserted, replace the upper cover and the lid to complete mounting.
 
-<figure><img src=".gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure>
 
 ## _**FCC Statement**_
 

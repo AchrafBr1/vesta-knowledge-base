@@ -4,13 +4,13 @@ PB-15
 
 ## Panic Button&#x20;
 
-<figure><img src=".gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
 The Panic Button is used to activate (or deactivate) a panic alarm.
 
 ## **Parts**
 
-![](<.gitbook/assets/0 (16).jpeg>)
+![](<.gitbook/assets/0 (27).jpeg>)
 
 1. **Panic Button / LED Indicator**
 
@@ -78,7 +78,7 @@ The Panic Button can be mounted using two methods: Self-adhesive or Screw mounti
 
 ### **Screw Mounting**
 
-![](<.gitbook/assets/1 (15).jpeg>)
+![](<.gitbook/assets/1 (25).jpeg>)
 
 The base has two screw knockouts, where the plastic is thinner for mounting purposes. To mount the Panic Button:
 

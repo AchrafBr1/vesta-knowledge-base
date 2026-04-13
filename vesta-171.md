@@ -4,7 +4,7 @@
 
 ## **Thermostatic Radiator Valve**
 
-<figure><img src=".gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1036).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -16,30 +16,30 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
 
 1. **Valve Cap**
 2. **LCD Display**
 
-<div align="left"><figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (500).png" alt="" width="189"><figcaption></figcaption></figure></div>
 
-A.  <img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**ON** when device is already added into Z-Wave network.
+A.  <img src=".gitbook/assets/image (501).png" alt="" data-size="line">**ON** when device is already added into Z-Wave network.
 
-B. <img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">**Low Battery Indicator.**
+B. <img src=".gitbook/assets/image (502).png" alt="" data-size="line">**Low Battery Indicator.**
 
-C.  ![](<.gitbook/assets/4 (47).jpeg>) On: Device set to default temperature 17 °C.
+C.  ![](<.gitbook/assets/4 (55).jpeg>) On: Device set to default temperature 17 °C.
 
-![](<.gitbook/assets/5 (35).jpeg>) Flash: Valve closing.
+![](<.gitbook/assets/5 (44).jpeg>) Flash: Valve closing.
 
-![](<.gitbook/assets/6 (47).jpeg>) On: Device set to default temperature 21 °C.
+![](<.gitbook/assets/6 (56).jpeg>) On: Device set to default temperature 21 °C.
 
-![](<.gitbook/assets/7 (45).jpeg>) Flash: Valve opening.
+![](<.gitbook/assets/7 (52).jpeg>) Flash: Valve opening.
 
 D. **Auto / Manual Mode.**
 
-E. <img src=".gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **Boost function.**
+E. <img src=".gitbook/assets/image (503).png" alt="" data-size="line"> **Boost function.**
 
-F. <img src=".gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **Open Window**.
+F. <img src=".gitbook/assets/image (504).png" alt="" data-size="line"> **Open Window**.
 
 G. **Temperature Indicator.**
 
@@ -52,9 +52,9 @@ G. **Temperature Indicator.**
 3. &#x20;**Function Buttons**
    1. **Manual/Auto:** Enter Manual or Auto mode.
    2. **Boost/ Z-Wave:** Speed up heating process/add into Z-Wave network.
-   3. &#x20;![](<.gitbook/assets/9 (24).jpeg>) Press this button to instantly switch day and night temperatures.
+   3. &#x20;![](<.gitbook/assets/9 (28).jpeg>) Press this button to instantly switch day and night temperatures.
 
-&#x20;        _**Default day**_ ![](<.gitbook/assets/10 (18).jpeg>) _temperature: 21_ °&#x43;_, **Default night**_ ![](<.gitbook/assets/11 (22).jpeg>) _temperature: 17_ °C
+&#x20;        _**Default day**_ ![](<.gitbook/assets/10 (21).jpeg>) _temperature: 21_ °&#x43;_, **Default night**_ ![](<.gitbook/assets/11 (28).jpeg>) _temperature: 17_ °C
 
 4. **Temperature Sensor**
 5.  **Control Knob**
@@ -64,7 +64,7 @@ G. **Temperature Indicator.**
 
     The Radiator Valve is powered by two 1.5V AA alkaline batteries.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (16).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 
@@ -72,7 +72,7 @@ G. **Temperature Indicator.**
 
 The Radiator Valve uses two 1.5V AA alkaline batteries as power source. The Radiator Valve will report its battery percentage to the Gateway/Control Panel respectively at 100%, 75%, 50%, 25%. If the battery voltage is low (25%), a Low Battery signal will be sent to the Gateway/Control Panel to notify the user.
 
-The Radiator Valve can detect if the battery is low. When low battery voltage is detected, a low battery signal will be sent to the Z-Wave Gateway/Control Panel with the LCD will display ![](<.gitbook/assets/13 (21).jpeg>) icon to notify the user.
+The Radiator Valve can detect if the battery is low. When low battery voltage is detected, a low battery signal will be sent to the Z-Wave Gateway/Control Panel with the LCD will display ![](<.gitbook/assets/13 (24).jpeg>) icon to notify the user.
 
 ### _**Power ON / Manual / Auto mode**_
 
@@ -80,7 +80,7 @@ The Radiator Valve can detect if the battery is low. When low battery voltage is
 
 **Manual Mode:** In the Manual mode, you can use the following functions:
 
-* ![](<.gitbook/assets/15 (17).jpeg>) button: switch day/night temperatures instantly.
+* ![](<.gitbook/assets/15 (21).jpeg>) button: switch day/night temperatures instantly.
 * **Boost button:** Speed up heating / Adding device into Z-Wave Gateway or Control Panel.
 * **Control Knob**: Control temperature, set to ON (summer season mode) and OFF (winter season mode).
 
@@ -114,7 +114,7 @@ For example: If device temperature reading is 20°C, setpoint offset is -2°C, t
 
 To program setpoint Offset:
 
-1. Press and hold the ![](<.gitbook/assets/20 (11).jpeg>) button for 3 seconds to enter offset adjustment.
+1. Press and hold the ![](<.gitbook/assets/20 (15).jpeg>) button for 3 seconds to enter offset adjustment.
 2. Rotate the Control Knob to desired offset temperature.
 3. Press any key to finish and exit offset adjustment.
 
@@ -124,7 +124,7 @@ If Radiator Valve detects indoor temperature drops rapidly by opening the window
 
 ### _**Control Knob**_
 
-Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce temperature and anti-clockwise to increase the temperature. The adjustable temperature range is 5°C to 30°C. If you rotate the Control Knob lower than 5°C to On, after 1 minute, the Radiator Valve will open the valve completely, to preserve battery power, if you rotate the Control Knob lower than 5°C to Off, after 1 minute, the Radiator Valve will close the valve completely. To disable ON/Off status please rotate the control knob or press <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">button . The Boost Function is unavailable under Control Knob set to ON/Off status.
+Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce temperature and anti-clockwise to increase the temperature. The adjustable temperature range is 5°C to 30°C. If you rotate the Control Knob lower than 5°C to On, after 1 minute, the Radiator Valve will open the valve completely, to preserve battery power, if you rotate the Control Knob lower than 5°C to Off, after 1 minute, the Radiator Valve will close the valve completely. To disable ON/Off status please rotate the control knob or press <img src=".gitbook/assets/image (490).png" alt="" data-size="line">button . The Boost Function is unavailable under Control Knob set to ON/Off status.
 
 **ON:** When turned to ON, the valve is opened completely. This function is used to preserver battery life during summer, when heating is not required. Do not use this function in winter when heater is activated, otherwise the room temperature will rise uncontrolled.
 
@@ -132,7 +132,7 @@ Rotate the Control Knob to adjust the temperature, rotate clockwise to reduce te
 
 ### _**Key Lock Function**_
 
-Press and hold both Auto/Manual button and <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display  <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both Auto/Manual button and <img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">button for 3 seconds likewise.
+Press and hold both Auto/Manual button and <img src=".gitbook/assets/image (491).png" alt="" data-size="line"> button for 3 seconds to enable key lock function. If successful the LCD will display  <img src=".gitbook/assets/image (492).png" alt="" data-size="line">symbol. All keys and Control Knob actions will not respon&#x64;**.** If you wish to cancel key lock function, please press and hold both Auto/Manual button and <img src=".gitbook/assets/image (494).png" alt="" data-size="line">button for 3 seconds likewise.
 
 ### _**Remote Control**_
 
@@ -154,22 +154,22 @@ After the Radiator Valve joins a Z-Wave network, you can control the Radiator Va
 
 This product can be included and operated in any Z-Wave network with other Z-Wave certified devices from other manufactures and/or other applications. All non-battery operated nodes within the network will act as repeaters regardless of vendor to increase reliability of the network.
 
-* Remove the Radiator Valve back cover and insert 2 AA Alkaline batteries to power up the Radiator Valve, LCD will display **InS** and <img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon will flash to indicate Radiator Valve’s motor is working.
+* Remove the Radiator Valve back cover and insert 2 AA Alkaline batteries to power up the Radiator Valve, LCD will display **InS** and <img src=".gitbook/assets/image (495).png" alt="" data-size="line"> icon will flash to indicate Radiator Valve’s motor is working.
 * Put Z-Wave control panel into **Inclusion mode** (please refer to the Z-Wave control panel manual).
 * Within 1.5 seconds, press the Boost Button 3 times
 * Refer to operation manual of the Z-Wave gateway or control panel to complete the adding process.
 * If the device has already been added (included) into another Z-Wave Gateway/Control Panel, or if the device is unable to be added into the current Z-Wave Gateway/Control Panel, try removing it first (see _**Removing Device**_).
-* When the motor stops working and  <img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">icon changes to steady on, attach the Valve cap to the pipe.
+* When the motor stops working and  <img src=".gitbook/assets/image (496).png" alt="" data-size="line">icon changes to steady on, attach the Valve cap to the pipe.
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (497).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Rotating the Valve cap clockwise to tighten the Radiator Valve.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="238"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (498).png" alt="" width="238"><figcaption></figcaption></figure>
 
-* Press the Auto/Manual button, LCD displays **AdA** and valve motor starts working again, the <img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> icon will flash. The device motor is measuring the distance to adjust the current temperature.
+* Press the Auto/Manual button, LCD displays **AdA** and valve motor starts working again, the <img src=".gitbook/assets/image (499).png" alt="" data-size="line"> icon will flash. The device motor is measuring the distance to adjust the current temperature.
 * When the valve motor stops, the system will enter Manual mode with LCD displaying the default set temperature 18.5°C, the installation is now complete.&#x20;
-* After joining Z-Wave network and completing installation, the Z-Wave connection icon <img src=".gitbook/assets/image (151).png" alt="" data-size="line"> will appear on LCD display.&#x20;
+* After joining Z-Wave network and completing installation, the Z-Wave connection icon <img src=".gitbook/assets/image (798).png" alt="" data-size="line"> will appear on LCD display.&#x20;
 * If Radiator Valve loses connection to current Z-Wave network, the Z-Wave connection icon will disappear. Please check Z-Wave network condition and Radiator Valve signal range to correct the situation.
 
 ### _**Removing Device (Exclusion)**_
@@ -207,7 +207,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 * The valve also features periodic status report; the default value is 60 minutes. The timer will be reset whenever operate-state is changed.
 * The Configuration Set Command is used to set the value of a configuration parameter:
 
-<figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (489).png" alt=""><figcaption></figcaption></figure>
 
 * Setpoint Offset Value : 0x0064 = 100 = 1.00℃.
 

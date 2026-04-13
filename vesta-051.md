@@ -4,7 +4,7 @@ IRC-29
 
 ## Curtain PIR Motion Sensor&#x20;
 
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 The PIR detects infrared signature to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its’ path of detection.
 
@@ -14,7 +14,7 @@ The PIR has a tamper switch which will be activated when the cover is opened, or
 
 ## Identifying the Parts
 
-<div align="left"><figure><img src=".gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (693).png" alt=""><figcaption></figcaption></figure></div>
 
 1. &#x20;**PIR Lens**
 2. **Learn / Test Button**
@@ -35,7 +35,7 @@ The Tamper switch protects the PIR from unauthorized cover opening or mounting s
 
 6. **Supervision Enable/Disable Jumper Switch (JP2)**
 
-![jumper close](<.gitbook/assets/1 (29).png>) ![jumper open](<.gitbook/assets/2 (32).png>)
+![jumper close](<.gitbook/assets/1 (61).png>) ![jumper open](<.gitbook/assets/2 (60).png>)
 
 **Jumper Off**
 
@@ -53,11 +53,11 @@ _(**868FM** & **869FM** & **F1** models **DO NOT** have JP2, supervision is alwa
 
 7. **Sensitivity Increaser Jumper Switch (JP3)**
 
-![jumper open](<.gitbook/assets/3 (30).png>)
+![jumper open](<.gitbook/assets/3 (54).png>)
 
 \- If the jumper is OFF (if the jumper link is removed or “parked” on one pin), the PIR’s detection sensitivity is in normal level. **(Factory default)**
 
-![jumper close](<.gitbook/assets/4 (30).png>)
+![jumper close](<.gitbook/assets/4 (43).png>)
 
 \- If the jumper is ON, the PIRs detection sensitivity is high.
 
@@ -120,7 +120,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 * If the mounted PIR is forcedly removed, the Tamper Breakaway Area will be left on the wall separated from the PIR, the tamper will then be triggered.
 * The base has two knockouts, where the plastic is thinner and can be broken for mounting purpose.
 
-<div align="left"><figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (694).png" alt=""><figcaption></figcaption></figure></div>
 
 1. Remove the fixing screw and cover assembly.
 2. Break through the knockouts on the inside of base.
@@ -144,7 +144,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 
 &#x20;                                  **Vertical**                                                                                  **Horizontal**
 
-![](<.gitbook/assets/6 (19).png>) ![](<.gitbook/assets/7 (16).png>)
+![](<.gitbook/assets/6 (28).png>) ![](<.gitbook/assets/7 (26).png>)
 
 ### **Ceiling Mount:**
 
@@ -153,7 +153,7 @@ In Normal operation mode, the LED Indicator light up in the following situations
 * When mounted at 2.4\~3 meter height and looking down, the PIR has coverage of about **5** meters at ground level.
 * Avoid mounting over 4 meters, which may affect detection performance.
 
-![](<.gitbook/assets/8 (16).png>)
+![](<.gitbook/assets/8 (26).png>)
 
 ## _Installation_
 

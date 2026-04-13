@@ -4,11 +4,11 @@
 
 ## **Tag Reader indoor/outdoor**
 
-<figure><img src=".gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Identifying the parts:**_
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (18).png" alt=""><figcaption></figcaption></figure>
 
 1. **Green LED Red LED Orange LED Arm Button**
 2. **Tag Reader Sensor (for tag)**
@@ -74,7 +74,7 @@ The base has three knockouts for mounting purpose. To mount the Tag Reader:
 
 **Mounting Holes:**
 
-![](<.gitbook/assets/4 (26).jpeg>)
+![](<.gitbook/assets/4 (34).jpeg>)
 
 I. Remove the fixing screw at the bottom&#x20;
 

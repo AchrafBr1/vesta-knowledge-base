@@ -4,7 +4,7 @@ VST-897-IL-SF1-2W (lithium)
 
 ## PIR Motion Sensor Camera
 
-<figure><img src=".gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 ### Introduction
 
@@ -216,11 +216,11 @@ JP4 settings. Users can either adjust jumper settings or remotely change the pet
 * At a position where its field of view will not be obstructed e.g., by curtains, ornaments etc.
 * **Limitations**
 
-<figure><img src=".gitbook/assets/image (15) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
 * **Be sure to always remain the RSSI signal strength steady at “4”.**
 
-<figure><img src=".gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (989).png" alt=""><figcaption></figcaption></figure>
 
 ### Mounting the PIR Camera
 
@@ -249,7 +249,7 @@ Users can easily change the batteries by taking the PIR Camera off the mounting 
 5. Fit the upper part of the cover onto the base first, and then close the lower part.
 6. Tighten the bottom fixing screw to firmly fix the cover in place.
 
-<figure><img src=".gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (990).png" alt=""><figcaption></figcaption></figure>
 
 **Surface/Corner mounting with the Mounting Bracket A**
 
@@ -268,11 +268,11 @@ Please make sure the PIR Camera is properly hooked onto the mounting bracket, so
 
 **Surface Mounting**
 
-<figure><img src=".gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (991).png" alt=""><figcaption></figcaption></figure>
 
 **Corner Mounting**
 
-<figure><img src=".gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (992).png" alt=""><figcaption></figcaption></figure>
 
 * **(Optional) Stabilizing Screw for the Mounting Bracket A**
 
@@ -282,13 +282,13 @@ To use the stabilizing screw, you will need to detach the cover from the base.
 
 After screwing the Mounting Bracket A, hooking the base onto the mounting bracket and pushing it downwards, apply the stabilizing screw to the central screw hole. Re-place the cover and tighten the bottom fixing screw.
 
-<figure><img src=".gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (993).png" alt=""><figcaption></figcaption></figure>
 
 **Surface mounting with Mounting Bracket B and Rotating Holder:**
 
 * The Rotating Holder and Mounting Bracket B offer a user-friendly mounting option, enabling easy installation and rotation of the PIR Camera to achieve the desired viewing angle.
 
-<figure><img src=".gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (994).png" alt=""><figcaption></figcaption></figure>
 
 * To mount the PIR Camera with the Mounting Bracket B and Rotating Holder.
 
@@ -299,4 +299,4 @@ After screwing the Mounting Bracket A, hooking the base onto the mounting bracke
 
 _To adjust the swivel ball, **partially loosen** the angle-adjusting screw to allow smooth rotation._
 
-<figure><img src=".gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (995).png" alt=""><figcaption></figcaption></figure>

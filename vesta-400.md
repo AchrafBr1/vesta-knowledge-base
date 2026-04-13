@@ -8,7 +8,7 @@ The transmitter is installed in motion detectors, allowing them to send wired si
 
 ## _**Identifying the Parts**_
 
-<figure><img src=".gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (984).png" alt=""><figcaption></figcaption></figure>
 
 1. **LED indicator (Red)**
 2. **Test Button**
@@ -17,7 +17,7 @@ The transmitter is installed in motion detectors, allowing them to send wired si
 
 On each BUS network, enable the terminal resistor jumpers at both endpoints (the two farthest nodes) to prevent signal reflection and ensure stable communication. If the transmitter is one of the endpoints, set this jumper switch to ON.
 
-**Jumper On** enables the terminal resistor.![](<.gitbook/assets/11 (75).png>)
+**Jumper On** enables the terminal resistor.![](<.gitbook/assets/11 (99).png>)
 
 **Jumper Off d**isables the terminal resistor
 
@@ -49,7 +49,7 @@ When the transmitter is connected to the PIR detector and hardwired to a Hybrid 
 * Before connecting the transmitter to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-<figure><img src=".gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication on the BUS network, enable the Terminal Resistor Jumpers only at both endpoints (the two farthest nodes) to prevent signal reflection and improve communication stability. Do NOT enable jumpers on any intermediate BUS devices – only the two endpoints should have them enabled.
 
@@ -117,7 +117,7 @@ Please check whether OPT-BXS-BUS is connected properly to the Panel within appro
 * Remote settings will overwrite dip switch settings. It is suggested performing remote setting over dip switch setting.
 * Please refer to the table below for remote settings:
 
-<figure><img src=".gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (986).png" alt=""><figcaption></figcaption></figure>
 
 * Example: To configure the following setting
 
@@ -127,10 +127,10 @@ The setting value will be _**0100 0111**_, which has to be converted into _**hex
 
 **Step 1.** After learning the detector, click “Edit” in the corresponding IR entry.
 
-<figure><img src=".gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (987).png" alt=""><figcaption></figcaption></figure>
 
 _\<NOTE> For the detector being recognized as 2 devices, select the IR sensor having the ID ending with “**00**” for configuration._
 
 **Step 2.** Enter the hex in the IR configuration and click OK to save the setting.
 
-<figure><img src=".gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (988).png" alt=""><figcaption></figcaption></figure>

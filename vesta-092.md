@@ -4,13 +4,13 @@
 
 ## &#x20;**Voice Extender**
 
-<figure><img src=".gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
 
 VRCP-DECT is a Voice Extender that enables users to summon emergency help with voice recognition command or a single button press. VRCP-DECT has built-in voice recognition and can activate an emergency call to CMS by preset vocal commands or keywords. It is suitable for senior and medical care, multi-storied homes, and larger premises.
 
 ## _**Identifying the parts:**_
 
-![](<.gitbook/assets/0 (56).jpeg>)
+![](<.gitbook/assets/0 (67).jpeg>)
 
 1. **ALARM Button**
    * Press the button for help and to open two-way communication.
@@ -61,7 +61,7 @@ The Voice Extender can be powered by either AC power or battery.
 * The voice recognition function has three sensitivity levels: high, medium, low. When sensitivity level is set to high, VRCP-DECT will most easily detect keyword/command and trigger alarm.
 * Please use a sharp tool to adjust the DIP Switch positions to set sensitivity level.
 
-<div align="left"><figure><img src=".gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (711).png" alt=""><figcaption></figcaption></figure></div>
 
 | DIP      | DIP     | Search (Sensitivity Level) |
 | -------- | ------- | -------------------------- |
@@ -103,14 +103,14 @@ If VRCP-DECT does not receive acknowledgement from the Control Panel during the 
 
 &#x20;                                                                         **Ways to Seek Help**
 
-![](<.gitbook/assets/3 (60).png>)
+![](<.gitbook/assets/3 (84).png>)
 
 &#x20;                                                                                       **or**
 
 * VRCP-DECT will end the call when the time expires. The Green LED will turn off.
 * During Two-Way communication, you can <mark style="background-color:yellow;">press and hold the ALARM button for 5 seconds</mark> to request the Control Panel to terminate communication The Control Panel will terminate two-way communication or not depending on user settings.
 
-![](<.gitbook/assets/4 (57).png>)
+![](<.gitbook/assets/4 (70).png>)
 
 {% hint style="warning" %}
 Note:
@@ -138,7 +138,7 @@ This function of automatically picking up call and opening two-way communication
 If AC power is disconnected from VRCP-DECT, DECT will be turned off, VRCP-DECT will not be able to pick up call, and two-way communication will be started with GX instead.
 {% endhint %}
 
-![](<.gitbook/assets/5 (58).png>)
+![](<.gitbook/assets/5 (69).png>)
 
 ### **Incoming Call**
 
@@ -157,12 +157,12 @@ Ensure VRCP-DECT is fitted at approximately chest height where the button can be
 3. Drill 2 holes and screw the bracket onto the wall.
 4. Connect a DC 9V 1A SPS power adapter to DC jack and keep the cable well-placed
 
-![](<.gitbook/assets/6 (40).jpeg>)
+![](<.gitbook/assets/6 (49).jpeg>)
 
 5. Fit VRCP-DECT onto the mounting bracket. Make sure the imprinted mark on VRCP-DECT must be aligned with the upper mark on the bracket.
 6. Rotate VRCP-DECT clockwise to the lock position.
 
-![](<.gitbook/assets/7 (36).jpeg>)
+![](<.gitbook/assets/7 (43).jpeg>)
 
 ### **Surface Placement**
 
@@ -175,4 +175,4 @@ The VRCP-DECT can be deployed on a flat surface without being installed at a fix
 
 &#x20;                 **Picture 1**                                                **Picture 2**                                                      **Picture 3**
 
-![](<.gitbook/assets/8 (40).png>)
+![](<.gitbook/assets/8 (50).png>)

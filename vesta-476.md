@@ -4,7 +4,7 @@ DC-23Z2-F1-2W-868
 
 ## Door Contact with Wired Input (N.C or Roller Shutter)
 
-<figure><img src=".gitbook/assets/image (598).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1270).png" alt=""><figcaption></figcaption></figure>
 
 The Door Contact is used to detect the opening and closing of doors and windows. Typically the Door Contact is fixed to the door frame and the actuating magnet is fixed to the door. When the door opens, the magnet is moved away from the Door Contact and an internal magnetic switch will be activated causing the Door Contact to transmit an alarm.&#x20;
 
@@ -148,7 +148,7 @@ d)          Installation is now complete.
 
 ## Internal Jumper and Terminal&#x20;
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **1.  Extension Terminal**
 
@@ -238,7 +238,7 @@ The Extension terminal may be useful for the following situations:
 * Any dry contact device with N.C. (Normal Close) loop can be connected to the Extension Terminal making the Door Contact serve as an Universal Transmitter.
 * Multiple dry contact device can be wired together with Door Contact, as show in diagram.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Roller Shutter**
 

@@ -4,27 +4,27 @@
 
 ## **REMOTE KEYPAD with NFC Label**
 
-<figure><img src=".gitbook/assets/image (29) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Identifying the Parts**_
 
-![](<.gitbook/assets/0 (64).jpeg>)
+![](<.gitbook/assets/0 (75).jpeg>)
 
 
 
 1. **Active LED**
 2. **Status LED**
 3. **Fault Display LED**
-4. <img src=".gitbook/assets/image (134).png" alt="" data-size="line"> **Arm Key**
-5. <img src=".gitbook/assets/image (135).png" alt="" data-size="line"> **Home Key**
-6.  &#x20; <img src=".gitbook/assets/image (138).png" alt="" data-size="line"> **Key**
+4. <img src=".gitbook/assets/image (781).png" alt="" data-size="line"> **Arm Key**
+5. <img src=".gitbook/assets/image (782).png" alt="" data-size="line"> **Home Key**
+6.  &#x20; <img src=".gitbook/assets/image (785).png" alt="" data-size="line"> **Key**
 
     Check Control Panel Status
-7.  <img src=".gitbook/assets/image (139).png" alt="" data-size="line"> **Disarm Key**
+7.  <img src=".gitbook/assets/image (786).png" alt="" data-size="line"> **Disarm Key**
 
     to move back one step
-8. &#x20;<img src=".gitbook/assets/image (140).png" alt="" data-size="line">**Key**
-9. &#x20;<img src=".gitbook/assets/image (141).png" alt="" data-size="line">**key**&#x20;
+8. &#x20;<img src=".gitbook/assets/image (787).png" alt="" data-size="line">**Key**
+9. &#x20;<img src=".gitbook/assets/image (788).png" alt="" data-size="line">**key**&#x20;
 10. &#x20;**Send learning code**
 
     Press both # and \* keys together to Send Learning Code
@@ -91,7 +91,7 @@
 ### _**Test Mode**_
 
 * Remote keypad can be put into Test mode by entering the PIN code (default: **0000**) followed by ＊ key. The Active **Amber** LED goes on along with a long beep sounding.
-* To exit Test mode, press <img src=".gitbook/assets/image (142).png" alt="" data-size="line"> key **twice**, Remote keypad will sound a long beep and the Active LED will turn from **Amber** to Blue, it returns to **Stand-by** mode. Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to **Stand-by mode.**
+* To exit Test mode, press <img src=".gitbook/assets/image (789).png" alt="" data-size="line"> key **twice**, Remote keypad will sound a long beep and the Active LED will turn from **Amber** to Blue, it returns to **Stand-by** mode. Otherwise, Remote keypad will automatically exit Test mode after 5 minutes and return to **Stand-by mode.**
 
 {% hint style="info" %}
 - The Test Mode is helpful to bypass Remote keypad Tamper alarm when installing, replacing low batteries or removing to different mount site.
@@ -100,16 +100,16 @@
 
 #### _**Under the Test mode, the following functions can be enabled:**_
 
-* Press ＊ key and then **1** key — to enter the NFC Learning mode. KPT-23N will emit one long beep and its LED 2’s red light will go on to indicate. (To exit the NFC Learning mode, press <img src=".gitbook/assets/image (143).png" alt="" data-size="line"> to return to the Test mode.)
+* Press ＊ key and then **1** key — to enter the NFC Learning mode. KPT-23N will emit one long beep and its LED 2’s red light will go on to indicate. (To exit the NFC Learning mode, press <img src=".gitbook/assets/image (790).png" alt="" data-size="line"> to return to the Test mode.)
 * Press ＊ key and then **7** key — to transmit Remote keypad learn signal. (If KPT-23N will emit 3 beeps to indicate that it is learnt into the Panel.)
 * Press ＊key and then **2** key — to enable Dual-key Panic Alarm function
 * Press ＊ key and then **3** key — to enable Dual-key Fire Alarm function
 * Press ＊ key and then **4** key — to enable Dual-key Medical Alarm function
 * Press ＊ key and then **6** key — to change the Pin Code
-  * Enter **Old** Pin Code and then press <img src=".gitbook/assets/image (144).png" alt="" data-size="line">key
+  * Enter **Old** Pin Code and then press <img src=".gitbook/assets/image (791).png" alt="" data-size="line">key
   * Enter **New** 4-digit Pin Code and then press **#** key
 * Press ＊ key and then **5** key — to disable all Dual Key function. (Default)
-* Press <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> key **twice** — to leave the Test Mod&#x65;**.**
+* Press <img src=".gitbook/assets/image (534).png" alt="" data-size="line"> key **twice** — to leave the Test Mod&#x65;**.**
 * Press ＊ key and then **8** key — to enable Arm/ Home without PIN Code function
 * Press ＊ key and then **9** key — to enable Arm/ Home with PIN Code function(Code checked by panel) (Default)
 
@@ -144,7 +144,7 @@ If a new NFC label learns an existent User PIN code, the new NFC label will repl
 If the NFC learning period times out (exceeds 5 seconds), the Status LED will turn on Red briefly. Re-enter the same User PIN code if you wish to learn more NFC labels using the same PIN code.
 
 5. &#x20;To learn in another NFC label, please repeat steps 3-4
-6. Press <img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">key to exit the NFC learning procedure.
+6. Press <img src=".gitbook/assets/image (533).png" alt="" data-size="line">key to exit the NFC learning procedure.
 
 {% hint style="info" %}
 If the User Pin Code which you entered exceeds the pin code length (4 digits allowed), the Status Blue LED will flash along with 4 short beeps to indicate the error condition
@@ -163,7 +163,7 @@ Pin corresponding to the User Pin Code of the NFC label that you wish to clear a
 
 
 
-<figure><img src=".gitbook/assets/1 (108).png" alt="" width="116"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (140).png" alt="" width="116"><figcaption></figcaption></figure>
 
 You can apply NFC label to the back of your cell phone for easy access.
 
@@ -223,11 +223,11 @@ If remote keypad does not perform 3 beeps, please restart the learning procedure
 
 1. When the keypad is under Test mode, press ＊ key then **6** key, a long beep will be sound.
 2. Enter **0000** (default PIN code)
-3. Press <img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">key, remote keypad sounds a long beep.
+3. Press <img src=".gitbook/assets/image (531).png" alt="" data-size="line">key, remote keypad sounds a long beep.
 4. &#x20;Enter your new 4-digit code.
 5. Press **#** key, remote keypad sounds a long beep. The new PIN code is enabled.
 
-**Step 6.** Press <img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> key **twice** to leave Test mode and the installation is completed.
+**Step 6.** Press <img src=".gitbook/assets/image (532).png" alt="" data-size="line"> key **twice** to leave Test mode and the installation is completed.
 
 ### _**Mounting Remote Keypad**_
 
@@ -247,15 +247,15 @@ You may choose to arm/home arm with a Pin Code, with NFC label, or without a Pin
 
 In the Test mode, Pressing ＊ key and then **9** key can enable Arm/ Home with PIN Code function (**Default**)
 
-* _**Enter Arm Mode**_: Enter any one of Control Panel user code and press <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with a long beep.
-* _**Enter Home Mode:**_ Enter any one of Control Panel user cods and <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
-* _**Return to Disarm Mode:**_ Enter any one of Control Panel user code and <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
+* _**Enter Arm Mode**_: Enter any one of Control Panel user code and press <img src=".gitbook/assets/image (525).png" alt="" data-size="line">key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with a long beep.
+* _**Enter Home Mode:**_ Enter any one of Control Panel user cods and <img src=".gitbook/assets/image (526).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
+* _**Return to Disarm Mode:**_ Enter any one of Control Panel user code and <img src=".gitbook/assets/image (527).png" alt="" data-size="line"> key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
 
 #### **Arm/Home with NFC Label**
 
-* _**Enter Arm Mode:**_ press <img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> key and put NFC label close to KPT-23N active the PIN code access. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with a long beep.&#x20;
-* _**Enter Home Mode:**_ press <img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">key and put/ NFC label close to KPT-23N active the PIN code access. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.&#x20;
-* &#x20;_**Return to Disarm Mode:**_ <img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">key and put NFC label close to KPT-23N to active the PIN code access. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
+* _**Enter Arm Mode:**_ press <img src=".gitbook/assets/image (528).png" alt="" data-size="line"> key and put NFC label close to KPT-23N active the PIN code access. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with a long beep.&#x20;
+* _**Enter Home Mode:**_ press <img src=".gitbook/assets/image (529).png" alt="" data-size="line">key and put/ NFC label close to KPT-23N active the PIN code access. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.&#x20;
+* &#x20;_**Return to Disarm Mode:**_ <img src=".gitbook/assets/image (530).png" alt="" data-size="line">key and put NFC label close to KPT-23N to active the PIN code access. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
 
 {% hint style="info" %}
 NFC label has to be learnt into KP first.
@@ -265,9 +265,9 @@ NFC label has to be learnt into KP first.
 
 In the Test mode, Pressing ＊ key and then **8** key can enable Arm/ Home without PIN Code function
 
-* _**Enter Arm Mode:**_ Press <img src=".gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with one long beep.&#x20;
-* _**Enter Home Mode:**_ Press <img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
-* _**Return to Disarm Mode:**_ Enter any one of Control Panel user code and <img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> Key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
+* _**Enter Arm Mode:**_ Press <img src=".gitbook/assets/image (522).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with one long beep.&#x20;
+* _**Enter Home Mode:**_ Press <img src=".gitbook/assets/image (523).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
+* _**Return to Disarm Mode:**_ Enter any one of Control Panel user code and <img src=".gitbook/assets/image (524).png" alt="" data-size="line"> Key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
 
 {% hint style="info" %}
 When the **Arm/Home without PIN Code** function is enabled, the NFC label function will be **DISABLED**.
@@ -289,7 +289,7 @@ The dual-key function is disabled by default. To enable it, please refer to the 
 * Panic Alarm — Press **1** key + **3** key at the same time. (if the function is enabled)
 * Fire Alarm — Press **4** key + **6** key at the same time. (if the function is enabled)
 * Medical Alarm — Press **7** key + **9** key at the same time. (if the function is enabled)
-* Check Control Panel Status — Normal Mode Press <img src=".gitbook/assets/image (145).png" alt="" data-size="line">key.
+* Check Control Panel Status — Normal Mode Press <img src=".gitbook/assets/image (792).png" alt="" data-size="line">key.
   * Red LED on: the system is in **Away Mode**
   * Red LED flash: the system is in **Home Mode**.
   * Blue LED on: activation of **Disarm Mode**.

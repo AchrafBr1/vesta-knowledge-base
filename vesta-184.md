@@ -4,7 +4,7 @@
 
 ## **Room Sensor** V:R3 (Zigbee)
 
-<figure><img src=".gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1049).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -14,7 +14,7 @@ The Room Sensor utilizes ZigBee technology for wireless signal transmission. Zig
 
 The Room Sensor serves as an end device in the ZigBee network. It can be included in the ZigBee network to transmit signal upon activation, but cannot permit any other ZigBee device to join the network through the Room Sensor.
 
-![](<.gitbook/assets/0 (81).jpeg>)
+![](<.gitbook/assets/0 (92).jpeg>)
 
 **Parts Identification**
 
@@ -25,7 +25,7 @@ The LCD displays the following information:
 *
   * Temperature in Farenheit / Celcius setting
   * Humidity RH%.
-  * ZigBee network connectivity ( ![](<.gitbook/assets/1 (75).jpeg>) icon).
+  * ZigBee network connectivity ( ![](<.gitbook/assets/1 (85).jpeg>) icon).
   * Low Battery status (icon).
   * LCD Backlight on: when function button is pressed.
 
@@ -43,7 +43,7 @@ When the front cover is installed on the back cover, open the cover by loosen th
 
 4. **Fahrenheit / Celcius Setting Jumper (JP1)**
 
-![](<.gitbook/assets/3 (74).png>)
+![](<.gitbook/assets/3 (98).png>)
 
 * If the jumper link is inserted between the top 2 pins, the LCD will display the temperature in Celsius. (**Factory Default**)
 * If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
@@ -142,6 +142,6 @@ If the Room sensor installation location is away from your system control panel 
 
 * _**Room Sensor Cluster ID**_
 
-<figure><img src=".gitbook/assets/1 (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (14).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2 (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (161).png" alt=""><figcaption></figcaption></figure>

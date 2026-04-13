@@ -4,17 +4,17 @@ KPT-32N-LE-F1
 
 ## REMOTE KEYPAD with NFC Tag
 
-<figure><img src=".gitbook/assets/image (25) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Identifying the Parts**_
 
-![](<.gitbook/assets/0 (25).jpeg>)
+![](<.gitbook/assets/0 (36).jpeg>)
 
 **1. Siren**
 
-**2. Orange LED: Home Arm Key**  <img src=".gitbook/assets/1 (107).png" alt="" data-size="line">
+**2. Orange LED: Home Arm Key**  <img src=".gitbook/assets/1 (139).png" alt="" data-size="line">
 
-**3. Red LED: Away Arm Key** <img src=".gitbook/assets/image (131).png" alt="" data-size="line">
+**3. Red LED: Away Arm Key** <img src=".gitbook/assets/image (778).png" alt="" data-size="line">
 
 **4. Panic Alarm (if enabled)**
 

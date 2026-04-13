@@ -14,7 +14,7 @@ To set up your ADVANCED VIDEO cameras or NVRs in **stand-alone CCTV mode**, foll
 
 ### **Step 1: Download the VESTA ADVANCED App**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 The system is managed through the **VESTA ADVANCED** mobile app, available for both Android and iOS devices.
 
@@ -32,7 +32,7 @@ You can usually find the serial number printed on the device label or packaging.
 
 That’s it! Once registered, you’ll be able to view and manage your CCTV system directly from the app.
 
-<figure><img src="../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1000).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -78,11 +78,11 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 **Step 2:** Enter the username and passwor&#x64;**; the default user name of the device is “admin”**.
 
-![](<../.gitbook/assets/image (216).png>)
+![](<../.gitbook/assets/image (863).png>)
 
 **Step 3:** When logging in to the device for the first time, the system will pop up a “Change Password” prompt. Please change the administrator password on time and safe-keep it.
 
-![](<../.gitbook/assets/image (217).png>)
+![](<../.gitbook/assets/image (864).png>)
 
 
 

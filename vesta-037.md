@@ -4,11 +4,11 @@
 
 ## **Acoustic Glass Break Detector**&#x20;
 
-<figure><img src=".gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
 The Glass Break Detector detects the high frequency sound emitted by glass breakage and transmits signal to notify the alarm system control panel when it is triggered.
 
-![](<.gitbook/assets/0 (44).png>)
+![](<.gitbook/assets/0 (51).png>)
 
 ## _**Parts Identification**_
 
@@ -68,7 +68,7 @@ During Test mode, the Red LEDs will light up when glass break is detected.
 
 The Detector should be tested to ensure it is able to detect glass breakage successfully.
 
-![](<.gitbook/assets/8 (21).jpeg>)
+![](<.gitbook/assets/8 (26).jpeg>)
 
 ### **Testing Tool**
 
@@ -78,7 +78,7 @@ Use the FlexGuard FG-701 Glassbreak Simulator to create glass break sound.
 2. Put FG-701 at desired testing location on the glass and point the speaker at the Detector. Close the window covering if it is present.
 3. Strike the glass with a cushioned tool to create a glass striking sound. When FG-701 detects the glass striking sound, it will react by emitting glass break sound.
 
-![](<.gitbook/assets/9 (13).jpeg>)
+![](<.gitbook/assets/9 (17).jpeg>)
 
 ### **Testing the Detector**
 

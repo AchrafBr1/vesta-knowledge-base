@@ -8,23 +8,23 @@ MOBILE LITE- R3-QT
 
 ## VESTA Portable Personal Emergency System
 
-<figure><img src=".gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1056).png" alt=""><figcaption></figcaption></figure>
 
 ## Mobile Lite R3-QT Quick Start Guide
 
 ## **Package Content**
 
-![Mobile lite R3-QT             Charging Cradle            5V/1A Adptor                                           Micro-USB                                             Cable Lanyard ](<.gitbook/assets/1 (69).png>)
+![Mobile lite R3-QT             Charging Cradle            5V/1A Adptor                                           Micro-USB                                             Cable Lanyard ](<.gitbook/assets/1 (101).png>)
 
 ## **Identifying the Parts**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (14).png" alt=""><figcaption></figcaption></figure>
 
 **Charging Cradle**
 
-<figure><img src=".gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (12).png" alt=""><figcaption></figcaption></figure>
 
 ## **Power Supply**
 
@@ -32,7 +32,7 @@ Mobile Lite is powered by rechargeable battery. The typical charging time is 4 h
 
 To Charge Mobile Lite, please place Mobile Lite into the Charging Cradle, making sure that the Charging Contact Plates (of both Mobile Lite and the cradle) are in contact with each other, and then connect the Charging Cradle to power supply (Refer to _**3.2. Charging Mobile Lite**_ of the Mobile Lite Installer Guide).
 
-![](<.gitbook/assets/17 (25).png>)
+![](<.gitbook/assets/17 (30).png>)
 
 ## **Hardware Installation**
 
@@ -58,7 +58,7 @@ _Please make sure that the SIM card PIN code is deactivated and all SMS messages
 
 **Step 1.**
 
-![](<.gitbook/assets/20 (13).jpeg>)
+![](<.gitbook/assets/20 (17).jpeg>)
 
 Attach the lanyard to the Mobile Lite unit by looping the lanyard strap through the lanyard holes on the Mobile Lite unit, and then pulling the strap through until it is tight.
 
@@ -66,7 +66,7 @@ Attach the lanyard to the Mobile Lite unit by looping the lanyard strap through 
 
 Lock the release buckle by inserting the male part into the female part until you hear a click sound.
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (8).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Put the lanyard around the neck of the user.
 
@@ -78,7 +78,7 @@ To use PC Programming Tool for programming Mobile Lite, follow the steps below:
 
 Loosen the Protective Cover Fixing Screws using a Philips screwdriver and remove the SIM Card and USB Protective Cover.
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (7).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.**
 
@@ -98,7 +98,7 @@ _**WARNING**_
 _If programming cable is not provided, please contact your supplier. DO NOT attempt to connect Mobile Lite to computer with a regular Micro-USB cable._
 {% endhint %}
 
-<figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (6).png" alt=""><figcaption></figcaption></figure>
 
 ## **Software Installation**
 
@@ -113,4 +113,4 @@ Mobile Lite can be programmed via USB port connection of a computer using the PC
 
 _■ https://www.climax.com.tw/climax-download-mobile-lite-r3-qt.html_
 
-<figure><img src=".gitbook/assets/7 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (8).png" alt=""><figcaption></figcaption></figure>

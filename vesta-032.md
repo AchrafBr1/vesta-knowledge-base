@@ -4,7 +4,7 @@ SDCO-1-F1 Series
 
 ## Smoke and Carbon Monoxide Detector
 
-<figure><img src=".gitbook/assets/image (29) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -12,11 +12,11 @@ SDCO-1-F1 Series is a Smoke and Carbon Monoxide Detector. It is capable of sendi
 
 The SDCO-1 Series include the following models:
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (19).png" alt=""><figcaption></figcaption></figure>
 
 ## Parts Identification
 
-![](<.gitbook/assets/0 (24).png>)
+![](<.gitbook/assets/0 (31).png>)
 
 1. **Test Button**
 
@@ -119,11 +119,11 @@ The SDCO Detector will activate fire alarm when either of its smoke detection or
 * The CO sensor features self-diagnosis function and will regularly check the health or status of the sensor every 12 hours.
 * The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with EN-50291 standard)
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (21).png" alt=""><figcaption></figcaption></figure>
 
 * The alarm will be activated after CO concentration is detected according to the time length in the following table: (compliant with UL-2034 standard)
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (17).png" alt=""><figcaption></figcaption></figure>
 
 * Once the CO concentration level exceeds the threshold and persists for the time length as listed in the above table, the SDCO Detector will transmit the signal to the Control Panel and raise alarm with its built-in siren.
 
@@ -181,7 +181,7 @@ The SDCO will calibrate its smoke detector sensor every time when power is appli
 
 ### Installation Guideline
 
-<figure><img src=".gitbook/assets/4 (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (132).png" alt=""><figcaption></figcaption></figure>
 
 * It is recommended that the installation site be in the center area of the ceiling.
 * The ideal mounting height for the SDCO Detector is 2.4 meters to 3 meters. Mounting above 3 meters can affect detection performance.
@@ -215,7 +215,7 @@ Installation Recommendation
 
 **Step 7.** The SDCO has three notches on its back cover for easy identification, as shown below.
 
-![](<.gitbook/assets/3 (27).png>)
+![](<.gitbook/assets/3 (51).png>)
 
 **Step 8.** Hold the SDCO Detector with extra care and align the three notches with the hooks on the mounting bracket.
 

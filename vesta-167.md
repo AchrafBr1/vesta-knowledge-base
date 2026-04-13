@@ -4,7 +4,7 @@
 
 ## **Shutter Control**
 
-<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -14,7 +14,7 @@ Automatically or remotely roll up, down or stop mid-way, the SCM-5ZW is directly
 
 The Shutter Control is compatible only with Z-Wave Gateway/Control Panel. Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be routed to their destination via intermediary “listening” Z-Wave products.
 
-![](<.gitbook/assets/0 (69).jpeg>)
+![](<.gitbook/assets/0 (80).jpeg>)
 
 **Parts Identification**
 
@@ -105,17 +105,17 @@ To test whether the device is able to communicate with the Z-wave gateway or con
   * Before wiring, please make sure the power is off. To connect the wires:
     1. Lift the lever and insert the wire. **(Picture 1, 2)**
 
-![Picture1                                                                  Picture 2](<.gitbook/assets/2 (68).png>)
+![Picture1                                                                  Picture 2](<.gitbook/assets/2 (96).png>)
 
 2. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
-![Picture 3                                                                                                                   Picture 4](<.gitbook/assets/3 (67).png>)
+![Picture 3                                                                                                                   Picture 4](<.gitbook/assets/3 (91).png>)
 
 3. In the same way as step 1 & 2, connect the other wires with connectors.
 
 * SCM-5 should be connected according to the diagram below:
 
-![](<.gitbook/assets/4 (45).jpeg>)
+![](<.gitbook/assets/4 (53).jpeg>)
 
 * Connect N terminal of SCM to the N terminal of Power Supply.
 * Connect L terminal of SCM to the L terminal of Power Supply.

@@ -4,7 +4,7 @@
 
 ## **BUS Isolated Range Extender**&#x20;
 
-<figure><img src=".gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -12,7 +12,7 @@ The ISL-1-BUS is an isolated range extender. It can extend the communication ran
 
 ## **Identifying the Parts**
 
-![](<.gitbook/assets/0 (10).png>)
+![](<.gitbook/assets/0 (17).png>)
 
 1. **BUS Wiring Outlet for Input Lines**
 2. **Pluggable BUS Terminal for Input**
@@ -70,7 +70,7 @@ When adding the ISL-1-BUS to the BUS system, BUS will be split into 3 independen
 * The two individual output terminals of ISL-1-BUS are each connected to separate BUS devices through **BUS line 2** and **BUS line 3**. Output terminal A is the first device on BUS line 2; output terminal B is the first device on BUS line 3. Be sure to set the Terminal Resistor Jumpers to ON for the two ISL-1-BUS outputs as well as for the furthest BUS devices at the end of each BUS line to serve as a terminating resistor.
 * The total number of BUS devices (refer to as “nodes”; the Hybrid Panel is counted as one node) on each BUS line must be within 32 or less. Otherwise, BUS signal abnormalities may occur. In the example below, there are a total of 3 BUS lines: **BUS line 1** contains 2 nodes (Hybrid Panel and ISL-1-BUS), **BUS line 2** contains 3 nodes (ISL-1-BUS and 2 BUS devices), **BUS line 3** has 3 nodes (ISL-1-BUS and 2 BUS devices).
 
-![](<.gitbook/assets/5 (3).jpeg>)
+![](<.gitbook/assets/5 (12).jpeg>)
 
 _**Please also note:**_
 

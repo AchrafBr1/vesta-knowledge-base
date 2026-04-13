@@ -4,11 +4,11 @@
 
 ## **Jewellery Necklace Pendant**
 
-<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
 
 Elegant and compact, the Jewelry Necklace Pendant is designed to be worn by seniors as they move on the premises. When an emergency arises, the user can summon help with one simple button press.
 
-![](<.gitbook/assets/0 (53).jpeg>)
+![](<.gitbook/assets/0 (64).jpeg>)
 
 ## _**Active Button**_
 

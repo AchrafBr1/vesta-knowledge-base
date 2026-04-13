@@ -4,7 +4,7 @@
 
 ## **Z-Wave Garage Door Control**
 
-<figure><img src=".gitbook/assets/image (128).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/it/product/VESTA-220/">VESTA-220</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (775).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/it/product/VESTA-220/">VESTA-220</a></p></figcaption></figure>
 
 ## **Introduction**
 
@@ -20,7 +20,7 @@ Z-Wave is a wireless communication protocol that uses low-power RF radio. The Z-
 
 **GDC-3 (Garage Door Control)**
 
-![](<.gitbook/assets/0 (99).jpeg>)
+![](<.gitbook/assets/0 (110).jpeg>)
 
 1. **Green LED indicator**
    * **On**: Connected to power supply.
@@ -50,7 +50,7 @@ Use a pointy tool to press the learn button once to enter learning mode for Tilt
 
 **Tilt-GDC3 (Garage Door Tilt Sensor)**
 
-![](<.gitbook/assets/1 (88).jpeg>)
+![](<.gitbook/assets/1 (98).jpeg>)
 
 **Test Button / LED Indicator**
 
@@ -87,7 +87,7 @@ The Garage Door Tilt Sensor is powered by one CR123 3V Lithium battery. When the
 
 **DC-16SL-GDC3 (Garage Door Contact)**
 
-![](<.gitbook/assets/2 (76).jpeg>)
+![](<.gitbook/assets/2 (80).jpeg>)
 
 **1. LED Indicator**
 
@@ -122,7 +122,7 @@ Mount the magnet on the side of the Door Contact where it has 2 rib marks to ind
 
 **DC-32-EX-GDC3 (Outdoor Garage Door Contact)**
 
-![](<.gitbook/assets/3 (73).jpeg>)
+![](<.gitbook/assets/3 (79).jpeg>)
 
 1. **Protective Cover**
 2. **Battery Cover**
@@ -176,7 +176,7 @@ The device supports both classic inclusion process and SmartStart inclusion proc
 
 SmartStart enabled products can be added to a Z-Wave network by scanning the Z-Wave QR Code present on the product with a controller providing SmartStart inclusion. No further action is required and the SmartStart product will be added automatically within 10 minutes of being powered on in the network vicinity. Z-Wave SmartStart utilizes the DSK information of the device to enhance and simplify the inclusion process. **DSK** stands for Device Specific Key used for authentication and encrypted communication. The DSK information is stored in the QR code format that is printed on a label and adhered to the front side of the device, as the example shown on the right.
 
-![](<.gitbook/assets/7 (54).jpeg>)
+![](<.gitbook/assets/7 (61).jpeg>)
 
 * Scan the QR Code on the back of GDC-3 to obtain the **DSK** information and transfer to the Z-Wave gateway.
 * Connect GDC-3 to power supply, a SmartStart inclusion request will be automatically sent to the gateway.
@@ -232,7 +232,7 @@ To test whether the Garage Door Control is able to communicate with the Z-Wave g
 * Mount the device on a dry and clean surface. Ensure the device is mounted with the LED indicator on top.
 * The Garage Door Tilt Sensor should be mounted on the very top panel of the garage door, as shown below.
 
-![](<.gitbook/assets/13 (32).jpeg>)
+![](<.gitbook/assets/13 (35).jpeg>)
 
 * There are two ways to mount the Garage Door Tilt Sensor. Screw Mounting:
   1. Find a suitable location to install the Garage Door Tilt Sensor. The mounting surface should be clean and dry. Clean the mounting surface thoroughly if needed.
@@ -256,7 +256,7 @@ Only use this type of mounting method when the garage doors are thicker than the
 * The Door Contact is designed to be used on horizontally opening garage door to report the status of the garage door when the garage door is “open” or “closed.”
 * Please install the Door Contact on the more stationary object (such as the door frame) and mount the magnet on the more mobile object (such as the garage door).
 
-<figure><img src=".gitbook/assets/1 (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (159).png" alt=""><figcaption></figcaption></figure>
 
 * Mount the magnet using the screws provided. Align the magnet according the rib mark on the Door Contact.
 * Where required, use the Magnet Spacer to better align the magnet to the rib marks.
@@ -301,7 +301,7 @@ To mount the Door Contact:
 
 * The waterproof door contact is designed to be used on horizontally opening garage door to report the status of the  garage door when the garage door is “open” or “closed”.
 
-<figure><img src=".gitbook/assets/2 (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (163).png" alt=""><figcaption></figcaption></figure>
 
 * It is recommended that the Door Contact be placed on the fixed frame of the garage door, and the magnet on the garage door.
 * The rib marks on the magnet and Door Contact must align (**FIG. 1**).
@@ -310,7 +310,7 @@ To mount the Door Contact:
 
 If the door contact is forcibly removed from the wall, the breakaway area will break off from the bracket and remain attached to the mounting surface, activating the tamper switch.
 
-<figure><img src=".gitbook/assets/3 (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (145).png" alt=""><figcaption></figcaption></figure>
 
 *   To mount the Door Contact:
 
@@ -318,7 +318,7 @@ If the door contact is forcibly removed from the wall, the breakaway area will b
 
 
 
-    <figure><img src=".gitbook/assets/4 (124).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/4 (137).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -363,15 +363,15 @@ Ensure that the mounting surface should be clean, dry, and smooth before attachi
 
 2. The installation is now complete.
 
-<figure><img src=".gitbook/assets/1 (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (160).png" alt=""><figcaption></figcaption></figure>
 
 ### **Mounting the Garage Door Control (GDC-3)**
 
 * The Garage Door Control is usually mounted on the ceiling near the garage door opener and the power outlet.
 
-<figure><img src=".gitbook/assets/2 (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (164).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/1 (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (161).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Before installation, ensure to disconnet power supply from the garage door opener.
@@ -384,13 +384,13 @@ The GDC-3 Garage Door Control must be installed in sight of the garage door, whe
 3. Hook the Garage Door Control onto the Wall Mounting Bracket (with the Mounting Holes of the Garage Door Control).
 4. Push the Garage Door Control (in the direction as indicated in picture below) to lock it into the mounting bracket.
 
-<figure><img src=".gitbook/assets/2 (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (165).png" alt=""><figcaption></figcaption></figure>
 
 5. Connect the GDC-3 terminals to the pushbutton wall console terminals on the garage door opener. Either wire can be connected to either terminal. (The wall console terminals may be named “PWC”, “WC”, “PB”, “PUSHBUTTON” or “RED” and “WHITE”. Terminal names and locations vary by model.)
 6. Plug in the DC 9V 1A output Power Adapter and connect to power supply.
 7. Restore power to your garage door opener.
 
-<figure><img src=".gitbook/assets/1 (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (162).png" alt=""><figcaption></figcaption></figure>
 
 ## **Operation**
 
@@ -404,15 +404,15 @@ command \[COMMAND\_CLASS\_BARRIER\_OPERATOR] and \[BARRIER\_OPERATOR\_SET], usin
 * Close : Target Value = 0x00
 * Users can also press the function button once to open/close the garage door.
 
-<figure><img src=".gitbook/assets/2 (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (166).png" alt=""><figcaption></figcaption></figure>
 
 * Before the activated garage door begins to move, the warning LED indicators (Green and Red) will flash and alarm beeps will sound for 5 seconds. As the garage door starts moving, the garage door’s position will be reported to the Z-Wave gateway.
 
-<figure><img src=".gitbook/assets/1 (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (163).png" alt=""><figcaption></figcaption></figure>
 
 * Once GDC-3 starts the movement of the garage door, you will need to wait for 35 seconds for the garage door to completely open or close before you can send a second open/close command or press the function button to open/close. If a second command is sent or the function button is pressed within 35 seconds, GDC-3 will send a busy signal to the Z-Wave gateway.
 
-<figure><img src=".gitbook/assets/3 (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (146).png" alt=""><figcaption></figcaption></figure>
 
 \[COMMAND\_CLASS\_APPLICATION\_STATUS] \[APPLICATION\_BUSY]
 
@@ -426,7 +426,7 @@ command \[COMMAND\_CLASS\_BARRIER\_OPERATOR] and \[BARRIER\_OPERATOR\_SET], usin
 * S : Size
 * D : Default
 
-<figure><img src=".gitbook/assets/1 (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (164).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Features of Garage Door Tilt Sensor (Tilt-GDC3) / Door Contact (DC-16SL-GDC3) / Outdoor Door Contact (DC-32-EX-GDC3)**_
 
@@ -434,7 +434,7 @@ command \[COMMAND\_CLASS\_BARRIER\_OPERATOR] and \[BARRIER\_OPERATOR\_SET], usin
 
 Whenever the position of the garage door changes, Tilt-GDC3 / DC-16SL-GDC3 / DC-32-EX-GDC3 will report the door’s position to GDC-3, and GDC-3 will report to the Z-Wave gateway with Z-Wave command
 
-<figure><img src=".gitbook/assets/1 (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (165).png" alt=""><figcaption></figcaption></figure>
 
 * Tamper Protection
 
@@ -477,4 +477,4 @@ The Tilt-GDC3 / DC-16SL-GDC3 / DC-32-EX-GDC3 features the function of Low Batter
 
 * _**Supported Command Class**_
 
-<figure><img src=".gitbook/assets/1 (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (166).png" alt=""><figcaption></figcaption></figure>

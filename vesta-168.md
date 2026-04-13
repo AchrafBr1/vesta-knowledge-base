@@ -4,7 +4,7 @@
 
 ## **Shutter Control Switch**
 
-<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -14,7 +14,7 @@ The Shutter Control Switch is a Z-Wave enabled device and is fully compatible wi
 
 Z-Wave is a wireless communication protocol that uses a low-power RF radio. By taking advantage of the Z-Wave mesh network, commands can be routed to their destination via intermediary “listening” Z-Wave products.
 
-![](<.gitbook/assets/0 (70).jpeg>)
+![](<.gitbook/assets/0 (81).jpeg>)
 
 ## **Device Introduction**
 
@@ -103,7 +103,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
   4. Screw the base into the surface.
   5. Replace the cover back onto the base and secure it by tightening the fixing screw.
 
-![](<.gitbook/assets/9 (22).jpeg>)
+![](<.gitbook/assets/9 (26).jpeg>)
 
 ## **Z-Wave Information**
 

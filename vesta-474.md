@@ -4,7 +4,7 @@ SFB-3-COMBO
 
 ## URFOG Integration board
 
-<figure><img src=".gitbook/assets/image (581).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1253).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -21,7 +21,7 @@ Supported UR Fog Security System models include:
 
 &#x20;
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ## Identifying the Parts
 
@@ -45,7 +45,7 @@ Supported UR Fog Security System models include:
 
 &#x20;
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 

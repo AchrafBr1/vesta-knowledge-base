@@ -4,19 +4,19 @@
 
 ## **BLUETOOTH REMOTE KEYPAD with NFC Tag**
 
-<figure><img src=".gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 KPT-32N-BLE is a Remote Keypad with Bluetooth feature and NFC reader. It is designed to have quick access control of the System Control Panel via PIN Code, NFC label, or by approaching the keypad with the paired smartphone to disarm the system. The Keypad can send wireless signals to and receive wireless signals from the Control Panel.
 
 The Remote Keypad can be mounted on a flat surface or wall with screws. It also has a tamper protection switch which will be activated upon any unauthorized attempt to open the lid or to detach keypad from mounting surface.
 
-![](<.gitbook/assets/1 (82).png>)
+![](<.gitbook/assets/1 (114).png>)
 
 ## _**Identifying the Parts**_
 
 1. **Siren**
-2. **Orange LED: Home Arm Key** ![](<.gitbook/assets/2 (78).jpeg>)
-3. **Red LED: Away Arm Key** ![](<.gitbook/assets/3 (77).jpeg>)
+2. **Orange LED: Home Arm Key** ![](<.gitbook/assets/2 (82).jpeg>)
+3. **Red LED: Away Arm Key** ![](<.gitbook/assets/3 (83).jpeg>)
 4. **Panic Alarm (if enabled)** - Press both 1 and 3 to trigger panic alarm
 5. Fire Alarm (if enabled) - Press both 4 and 6 to trigger fire alarm
 6. Medical Alarm (if enabled) - Press both 7 and 9 to trigger Medical alarm
@@ -109,13 +109,13 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, assign the user pin code to an Area.
 
-![](<.gitbook/assets/14 (40).png>)
+![](<.gitbook/assets/14 (50).png>)
 
 Step 2. After KPT-32N-BLE is successfully learnt into the panel, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-![](<.gitbook/assets/15 (41).png>)
+![](<.gitbook/assets/15 (49).png>)
 
 Step 4. The tag has been added. You can use the tag to arm/home arm/disarm the system. When Keypad is powered on by inserting batteries, the Orange LED will flash and the white backlight will turn on. When LED is off, wait 10 seconds for keypad tag sensor to start functioning.
 
@@ -125,7 +125,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click Submit.
 
-![](<.gitbook/assets/16 (43).png>)
+![](<.gitbook/assets/16 (51).png>)
 
 Step 3. The tag is cleared.
 

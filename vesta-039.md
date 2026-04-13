@@ -4,7 +4,7 @@ PB-23
 
 ## Panic Button&#x20;
 
-<figure><img src=".gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
 The Panic Button is used to activate (or deactivate) a panic alarm.
 
@@ -75,14 +75,14 @@ The Panic Button can be wall mounting using Velcro tape provided.
 
 **Picture 1                                                      Picture 2                                                     Picture 3**
 
-![image3](<.gitbook/assets/2 (12).jpeg>) ![image1](<.gitbook/assets/3 (13).jpeg>) ![](<.gitbook/assets/4 (10).jpeg>)
+![image3](<.gitbook/assets/2 (16).jpeg>) ![image1](<.gitbook/assets/3 (19).jpeg>) ![](<.gitbook/assets/4 (18).jpeg>)
 
 3. Remove the protective cover of the Loop side and apply to back of the Panic Button. (**Picture 4**)
 4. Hook the Panic Button onto mounting location. (**Picture 5**)
 
 **Picture 4**                                                                                            **Picture 5**
 
-![image2](<.gitbook/assets/5 (11).jpeg>) ![IMG\_1469](<.gitbook/assets/6 (15).jpeg>)
+![image2](<.gitbook/assets/5 (20).jpeg>) ![IMG\_1469](<.gitbook/assets/6 (24).jpeg>)
 
 ### **Surface Placement**
 
@@ -93,6 +93,6 @@ The Panic Button can be deployed on a flat surface without being installed at a 
 
 &#x20;                                                                                          **Picture 6**
 
-![image6](<.gitbook/assets/7 (14).jpeg>)
+![image6](<.gitbook/assets/7 (21).jpeg>)
 
 3. Place the Panic Button at desired location.

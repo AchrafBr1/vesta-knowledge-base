@@ -4,7 +4,7 @@
 
 ## **Smart Scenario Switch (Zigbee)**
 
-<figure><img src=".gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1052).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -20,7 +20,7 @@ WSS-4E-ZBS
 
 WSS-4E-ZBS-OTA
 
-![](<.gitbook/assets/0 (84).jpeg>)
+![](<.gitbook/assets/0 (95).jpeg>)
 
 ## **Device Introduction**
 
@@ -36,13 +36,13 @@ If the LED flashes twice upon touch button press, it means the ZigBee control pa
 
 The Scenario Switch has 4 scenario touch buttons:
 
-![](<.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)Touch Button 1
+![](<.gitbook/assets/image (442).png>)Touch Button 1
 
-<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">Touch Button 2
+<img src=".gitbook/assets/image (439).png" alt="" data-size="original">Touch Button 2
 
-<img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">Touch Button 3
+<img src=".gitbook/assets/image (440).png" alt="" data-size="original">Touch Button 3
 
-![](<.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)Touch Button 4
+![](<.gitbook/assets/image (441).png>)Touch Button 4
 
 3. **Battery Compartment**
 4.  **Function Button**
@@ -125,5 +125,5 @@ The Four Touch Button Scenario Switch supports OTA firmware upgrade feature via 
 
 
 
-![](<.gitbook/assets/8 (41).jpeg>)
+![](<.gitbook/assets/8 (46).jpeg>)
 

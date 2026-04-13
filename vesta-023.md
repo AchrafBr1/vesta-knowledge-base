@@ -4,17 +4,17 @@ SD-29-F1
 
 ## Smoke Detector Series
 
-<figure><img src=".gitbook/assets/image (19) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
 SD-29 Series is a wireless smoke detector with a built-in PIR motion sensor and heat detection capability. Designed to protect your family against potential fire hazards, the Smoke detector is also capable of detecting movements and reporting temperature to users. The Smoke Detector can be interconnected with other Smoke Detectors in the alarm system and will raise an alarm when any Smoke Detector in the system is triggered **(SD-29-HME-SC only)**.
 
 The Smoke Detector includes the following models:
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (20).png" alt=""><figcaption></figcaption></figure>
 
 ## Parts Identification
 
-![](<.gitbook/assets/0 (21).png>)
+![](<.gitbook/assets/0 (28).png>)
 
 1. **LED Indicator / Test Button / Emergency Light**
 
@@ -57,7 +57,7 @@ The Smoke Detector includes the following models:
 6. **Hooks**
 7. **Mounting Bracket**
 
-![](<.gitbook/assets/1 (23).png>)
+![](<.gitbook/assets/1 (55).png>)
 
 8. **Mounting Holes**
 
@@ -196,7 +196,7 @@ As the operation condition of the Smoke Detector may vary after being installed 
 
 &#x20;                   \- In the peak of an “**A**” frame type of ceiling.
 
-<figure><img src=".gitbook/assets/4 (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (132).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation Recommendation
 
@@ -242,8 +242,8 @@ As the operation condition of the Smoke Detector may vary after being installed 
 * The Smoke Detector is designed to be mounted on the ceiling. The ideal mounting height for the Smoke Detector is 2.7 meters to 3 meters. Mounting above 3 meters can affect detection performance. **(SD-29-HM/SD-29-HME only)**
 * The Smoke Detector provides detection coverage of a 360° circle with 5 meters in diameter. Please refer to the below figures for the installation details
 
-![](<.gitbook/assets/4 (22).png>)
+![](<.gitbook/assets/4 (35).png>)
 
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement.
 
-![](<.gitbook/assets/5 (21).png>)
+![](<.gitbook/assets/5 (32).png>)

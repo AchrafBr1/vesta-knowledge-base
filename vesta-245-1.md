@@ -4,7 +4,7 @@ VST-892-IL (lithium)
 
 ## PIR Motion Sensor Camera
 
-<figure><img src=".gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -16,7 +16,7 @@ VST-892 is designed with the digital proximity detector. The anti-masking featur
 
 The PIR Camera consists of a two-part design made up of a cover and a base. The cover contains all the electronics and optics and the base provides a means of fixing. The base has knockouts to allow mounting on either a flat surface or in a corner situation with a triangular bracket for corner mounting.
 
-<figure><img src=".gitbook/assets/0 (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (21).png" alt=""><figcaption></figcaption></figure>
 
 ## Parts Identification
 
@@ -62,7 +62,7 @@ The digital proximity detector is used to detect any masking (blocking) attempt 
 11. Battery Compartment Cover
 12. Mounting Bracket
 
-<figure><img src=".gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (44).png" alt=""><figcaption></figcaption></figure>
 
 ## Features
 
@@ -176,7 +176,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 
 ### VST-892 **Detection Range**
 
-![](<.gitbook/assets/4 (12).png>)
+![](<.gitbook/assets/4 (25).png>)
 
 **It is recommended to install the PIR Camera in the following locations**
 
@@ -193,7 +193,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 * Avoid installing the PIR Camera in areas where devices may cause rapid change of temperature in the detection area, i.e. air conditioner, heaters, etc.
 *   Avoid large obstacles in the detection area.
 
-    <figure><img src=".gitbook/assets/5 (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/5 (24).png" alt=""><figcaption></figcaption></figure>
 * Not pointing directly at sources of heat e.g. Fires or boilers, and not above radiators.
 * Avoid moving objects in the detection area i.e. curtain, wall hanging etc.
 * **Be sure to always remain the RSSI signal strength steady at “4”.**
@@ -221,9 +221,9 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 4. Screw the triangular bracket into the wall plugs with _the two pointing sticks (E)_ on top facing you.
 5. Fit the PIR Camera onto the hooks of the triangular bracket.
 
-<figure><img src=".gitbook/assets/6 (9).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (18).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/7 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (21).png" alt=""><figcaption></figcaption></figure>
 
 #### **Surface mounting:**
 
@@ -232,7 +232,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 3. Use the holes as template to drill holes on the surface.
 4.  Insert the wall plugs if fixing it into plaster or brick.
 
-    <figure><img src=".gitbook/assets/8 (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/8 (21).png" alt=""><figcaption></figcaption></figure>
 5. Screw the base into the wall plugs.
 6. Fit the cover onto the base and tighten.
 

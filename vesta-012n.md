@@ -4,7 +4,7 @@
 
 ## **BLUETOOTH REMOTE KEYPAD**
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 KPT-39N-BLE is a Remote Keypad with Bluetooth and NFC reader. It is designed to have quick access control of the System Control Panel via User PIN Code, NFC label, or by approaching the keypad with the paired smartphone to disarm the system. The Keypad can send wireless signals to and receive wireless signals from the Control Panel.
 
@@ -12,7 +12,7 @@ The Remote Keypad can be mounted on a flat surface or wall with screws. It also 
 
 ## _**Parts Identification**_
 
-![](<.gitbook/assets/3 (21).jpeg>)
+![](<.gitbook/assets/3 (27).jpeg>)
 
 1. Arm Key
 2. Home Key
@@ -109,7 +109,7 @@ Step 2. **Keypad Normal Mode**
 
 Alternatively, you can enable the Remote keypad to enter Programming Mode first. Enter Keypad PIN Code (Default: 0000)
 
-&#x20;and then press **＊** key. The three![](<.gitbook/assets/13 (21).png>)![](<.gitbook/assets/14 (9).jpeg>) LEDs will turn on, along with a long beep. Press ＊ key and then **7** key to transmit learn code to Control Panel. The remote keypad will sound a long beep.
+&#x20;and then press **＊** key. The three![](<.gitbook/assets/13 (34).png>)![](<.gitbook/assets/14 (13).jpeg>) LEDs will turn on, along with a long beep. Press ＊ key and then **7** key to transmit learn code to Control Panel. The remote keypad will sound a long beep.
 
 Step 3. Refer to the Control Panel manual to complete the learning process. If learning is successful, the Keypad will emit 3 beeps upon receiving the acknowledgement signal from the Control Panel. If the Keypad does not sound 3 beeps, please repeat Step 2 to transmit the learn code again.
 
@@ -132,13 +132,13 @@ When adding a new tag, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, and assign the user pin code to an Area.
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (22).png" alt=""><figcaption></figcaption></figure>
 
-Step 2. After VESTA-012N is successfully learnt into the panel, press ![](<.gitbook/assets/18 (5).jpeg>) key on the keypad. Then, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
+Step 2. After VESTA-012N is successfully learnt into the panel, press ![](<.gitbook/assets/18 (10).jpeg>) key on the keypad. Then, apply a new tag to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this tag is new (not added to the system yet).
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding tag number will be loaded. Click Submit to save the user code setting.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (23).png" alt=""><figcaption></figcaption></figure>
 
 Step 4. The tag has been added. You can use the tag to arm/home arm/disarm the system. When the Keypad is powered on by inserting batteries, the Orange LED will flash, and the white backlight will turn on. When the LED is off, wait 10 seconds for the keypad tag sensor to start functioning.
 
@@ -148,7 +148,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.
 
 Step 2. Manually delete the tag number and click Submit.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (21).png" alt=""><figcaption></figcaption></figure>
 
 Step 3. The tag is cleared.
 
@@ -237,7 +237,7 @@ Note:
 Make sure Bluetooth is turned on for your smartphone setting.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step 2                                                                                                                                                  Step 3</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (21).png" alt=""><figcaption><p>Step 2                                                                                                                                                  Step 3</p></figcaption></figure>
 
 **Step 3.** Go to the All Devices page and select VESTA-012N. Tap “**Start Bluetooth Pairing**.”
 
@@ -245,7 +245,7 @@ Make sure Bluetooth is turned on for your smartphone setting.
 
 When the detected Keypad is shown on the list, tap it to enter the Pairing PIN Code page. Enter the BLE Pairing PIN Code **(Default: 000000)** and tap the **Pair** button to proceed.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step 4                                                                                                                                                   Step 5</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (22).png" alt=""><figcaption><p>Step 4                                                                                                                                                   Step 5</p></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -263,7 +263,7 @@ Click OK, and you will be directed to the KPT device setting page, where you wil
 
 If the user wants to leave this page but the User PIN field is empty, the system will pop up an error message.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (20).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Please Note:
@@ -286,7 +286,7 @@ In keypad **tamper open state**, put the keypad into the **BLE Pairing mode** by
 
 **Step 2.** Besides unpairing the keypad with your smartphone, you will also need to remove the Bluetooth Function of the keypad in your Smartphone APP.
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (11).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Then, delete the paired Keypad from your smartphone. Navigate the Smartphone’s **Settings** > **Bluetooth** > **My Devices.** Tap the paired Keypad and select **Forget This Device** to remove it from the device list.
 

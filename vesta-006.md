@@ -4,7 +4,7 @@ OPDC-1-F1
 
 ## Optical Door Contact
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 The Optical Door Contact, integrating infrared sensor, monitors the opening/closing of specified devices (e.g. door or window). By using infrared detection technology, the OPDC can detect if the door or window is open or closed, without the need of an additional magnet. The OPDC will transmit alarm signals when it detects a change, and keep your home protected.
 
@@ -12,7 +12,7 @@ The Optical Door Contact consists of a cover and base. The base contains all ele
 
 ### _**Identifying the parts**_
 
-![](<.gitbook/assets/0 (13).png>)
+![](<.gitbook/assets/0 (20).png>)
 
 1. **LED Indicator**
 2. **Learn / Test Button**
@@ -50,7 +50,7 @@ Hold the Learn / Test button area and gently pull up the front cover. Remove the
 
 | Figure 1                                                           | Figure 2                                                           |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/1 (11).png" alt="" data-size="original"> | <img src=".gitbook/assets/2 (11).png" alt="" data-size="original"> |
+| <img src=".gitbook/assets/1 (43).png" alt="" data-size="original"> | <img src=".gitbook/assets/2 (39).png" alt="" data-size="original"> |
 
 ## _**Test Mode**_
 
@@ -76,7 +76,7 @@ The Optical Door Contact can be put into Test mode for 3 minutes by pressing the
 
 ## Mounting the Door Contact
 
-* ![](<.gitbook/assets/3 (10).png>)
+* ![](<.gitbook/assets/3 (34).png>)
 
 Find a suitable place to install the Door Contact. It is recommended to install the Optical Door Contact on the more stationary object (such as a door frame or window frame). Please make sure the location is within the signal range of the Control Panel before mounting.
 
@@ -88,7 +88,7 @@ Find a suitable place to install the Door Contact. It is recommended to install 
 
 Step 4: Mark the location for the reflecting sticker. The reflecting sticker has to be applied on the **opposite** side of the Infrared Detection Area. The gap should be no more than **3mm** when the door/window is closed.
 
-![](<.gitbook/assets/4 (11).png>)
+![](<.gitbook/assets/4 (24).png>)
 
 #### Step 5:  Apply the reflecting sticker. Please avoid applying the reflecting sticker on uneven surface or re-apply it.
 

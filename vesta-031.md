@@ -4,13 +4,13 @@
 
 ## &#x20;**Recessed Door Contact**
 
-<figure><img src=".gitbook/assets/image (28) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
 The Recessed Door Contact is a small Door Contact that is installed within the door frame and door and concealed for protection. The Door Contact monitors door opening/closing. When the door opens, the magnet moves away from the Door Contact, causing the Door Contact to transmit a door open signal to the Control Panel. When the door closes and the Door Contact detects the magnet again, it will transmit a door close signal.
 
 ## _**Identifying the parts**_
 
-![](<.gitbook/assets/0 (15).jpeg>)
+![](<.gitbook/assets/0 (26).jpeg>)
 
 **1. Learn / Test Button**
 
@@ -54,9 +54,9 @@ The battery is pre-inserted with a battery insulator. Pull out the battery insul
 4. Align the Reed Switch on the PCB with the marking on the casing, and then insert the internal component back to the casing.
 5. Close top cover and turn clockwise by using the flathead screwdriver until the latch mark align.
 
-![](<.gitbook/assets/1 (14).jpeg>)
+![](<.gitbook/assets/1 (24).jpeg>)
 
-![](<.gitbook/assets/2 (11).jpeg>)
+![](<.gitbook/assets/2 (15).jpeg>)
 
 ## _**Test Mode**_
 
@@ -86,4 +86,4 @@ The following description and picture shows how the Door Contact and the Magnet 
 3. Insert the Door Contact main body into the door frame drill hole and tighten with screws through the mounting holes using a screwdriver.
 4. Insert the Magnet firmly into the drill hole on the door. Installation is now complete.
 
-![](<.gitbook/assets/3 (12).jpeg>)![C:\Users\c0982\Desktop\影像\RDC\_03.png](<.gitbook/assets/4 (27).png>)
+![](<.gitbook/assets/3 (18).jpeg>)![C:\Users\c0982\Desktop\影像\RDC\_03.png](<.gitbook/assets/4 (40).png>)

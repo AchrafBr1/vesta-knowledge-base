@@ -4,7 +4,7 @@
 
 ## VESTA dual technology detector and curtain coverage
 
-<figure><img src=".gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 EIRC-1-F1 is an Outdoor Curtain Motion Sensor that is equipped with both PIR and Microwave motion detection technology. The combination of dual detection methods greatly improves the Motion Sensor’s detection accuracy and reduces false alarm rate, by using the PIR as initial detection, and microwave as confirmation before actually transmitting the activation signal.
 
@@ -16,7 +16,7 @@ By using the L-shaped mounting plate, the user can choose either flat mount or s
 
 #### &#x20;               **Front**                                     **Internal**
 
-![](<.gitbook/assets/0 (59).png>)
+![](<.gitbook/assets/0 (66).png>)
 
 1.  **Digital Proximity Detector**
 
@@ -40,11 +40,11 @@ By using the L-shaped mounting plate, the user can choose either flat mount or s
     The LED lights up briefly when IR detection is triggered under Test Mode.
 6. **Tamper Switch**
 7. **Sensitivity Increaser Jumper Switch (JP3)**
-   * <img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">If the jumper is **OFF** (if the jumper link is removed or “parked” on one pin), the Motion sensor’s detection sensitivity is in normal level. **(Factory default)**
-   * <img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">If the jumper is **ON**, the Motion sensor’s detection sensitivity is high.
+   * <img src=".gitbook/assets/image (517).png" alt="" data-size="line">If the jumper is **OFF** (if the jumper link is removed or “parked” on one pin), the Motion sensor’s detection sensitivity is in normal level. **(Factory default)**
+   * <img src=".gitbook/assets/image (519).png" alt="" data-size="line">If the jumper is **ON**, the Motion sensor’s detection sensitivity is high.
 8. **Microwave Test Enable / Disable Jumper Switch (JP2)**
-   * <img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">When the jumper is set as **ON**, the Motion sensor is under Microwave Test Mode (please see **Microwave Test Mode**)
-   * <img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">When the jumper is set as **OFF**, the Microwave Test Mode is disabled. **(Factory default)**
+   * <img src=".gitbook/assets/image (520).png" alt="" data-size="line">When the jumper is set as **ON**, the Motion sensor is under Microwave Test Mode (please see **Microwave Test Mode**)
+   * <img src=".gitbook/assets/image (518).png" alt="" data-size="line">When the jumper is set as **OFF**, the Microwave Test Mode is disabled. **(Factory default)**
 9.  **Microwave Range Switch**
 
     The Range scale is shown on the right with the arrow pointing at the current sensitivity level:
@@ -52,7 +52,7 @@ By using the L-shaped mounting plate, the user can choose either flat mount or s
     1. Turning in the **Clockwise Direction** increases detection range.
     2. Turning in the **Counter-Clockwise Direction** decreases detection range. **Factory Default**: is set to medium.
 
-    <figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
 10. **Learn/Test Button**
 11. **Battery Compartment**
 12. **L-Type Mouting Plate**
@@ -148,7 +148,7 @@ The EIRC-1-F1 is designed to be mounted on the wall. Depending on how you use th
 4. &#x20;Fit the front cover onto the back cover and tighten the bottom fixing screw. **(Picture 2)**
 5. Insert the protective shield. (Please remove the protective film from both sides of the protective shield before inserting.)**(Picture 3)**
 
-![](<.gitbook/assets/5 (32).jpeg>)
+![](<.gitbook/assets/5 (41).jpeg>)
 
 
 
@@ -160,7 +160,7 @@ The EIRC-1-F1 is designed to be mounted on the wall. Depending on how you use th
 4. Fit the cover onto the back cover and tighten the bottom fixing screw. **(Picture 2)**
 5. Insert the protective shield. **(Picture 3)** (Please remove the protective film from both sides of the protective shield before inserting.)
 
-![](<.gitbook/assets/6 (44).jpeg>)
+![](<.gitbook/assets/6 (53).jpeg>)
 
 
 
@@ -168,7 +168,7 @@ The EIRC-1-F1 is designed to be mounted on the wall. Depending on how you use th
 There are three nuts on the mounting plate, providing two mounting levels (**high/low**) for selection. After the mounting plate is fixed on the wall, you can choose to mount the EIRC-1-F1 at the lower level or the higher level with two provided screws
 {% endhint %}
 
-![](<.gitbook/assets/7 (43).jpeg>)
+![](<.gitbook/assets/7 (50).jpeg>)
 
 {% hint style="info" %}
 After EIRC-1-F1 is mounted, if the Control Panel displays the Tamper fault status for the device, please make sure the anti-masking detector is not obstructed by any object and wait for two minutes to see if the Tamper Open status is cleared. If Tamper Open status persists after two minutes, please remove the motion sensor from the mounting location, and check if the Tamper Switch is properly compressed against the inside of device back cover.
@@ -195,9 +195,9 @@ Please note that the performance is affected by external factors, such as height
   * Do not aim the sensor directly at sources of heat e.g. fires or boilers, and not above radiators.
   * Avoid moving objects in the detection area i.e. curtain, wall hanging etc.
 
-![](<.gitbook/assets/8 (34).jpeg>)
+![](<.gitbook/assets/8 (39).jpeg>)
 
 
 
-![](<.gitbook/assets/9 (21).jpeg>)
+![](<.gitbook/assets/9 (25).jpeg>)
 

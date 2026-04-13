@@ -4,7 +4,7 @@
 
 ## **WIRED/WIRELESS COMBO KEYPAD**
 
-<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 KP-35-COMBO is a hardwired and wireless keypad designed to have quick access control of the system control panel. The keypad can send wired and wireless signals to and receive signals from the Control Panel within wire distance, depending on the wire gauge and the total power consumption of all wired devices. The LCD screen will display information the system control panel sends back.
 
@@ -12,7 +12,7 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (757).png" alt=""><figcaption></figcaption></figure>
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -25,12 +25,12 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 6. **Backlit Pound (＃) Key**
 7. **Backlit OK Key**
    * For confirming the keyed-in data or confirming the selection.
-8. **Backlit Restore (**![](<.gitbook/assets/3 (7).jpeg>)) **Key**
+8. **Backlit Restore (**![](<.gitbook/assets/3 (13).jpeg>)) **Key**
    * This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
-9. **Backlit Arm/** ![](<.gitbook/assets/image (108).png>) **Key**
+9. **Backlit Arm/** ![](<.gitbook/assets/image (755).png>) **Key**
    * Use this key to move the cursor and scroll the display upwards
    * The key is also used for entering “Away Armed” mode.
-10. **Backlit Home Arm/** ![](<.gitbook/assets/image (109).png>) **Key**
+10. **Backlit Home Arm/** ![](<.gitbook/assets/image (756).png>) **Key**
     * Use this key to move the cursor and scroll the display downwards.
     * The key is also used for entering “Home Armed” mode.
 11. **Buzzer**
@@ -46,7 +46,7 @@ BUS Terminal on the Control Panel. Up to four KP-35-Combos can be _**Keypad Wiri
 15. **Terminal Resistor Jumper Switch**
     * When the keypad is connected as the furthest BUS device on a BUS line, please set the keypad's terminal resistor jumper and the first BUS device’s Jumper Switch to ON to serve as terminating resistors. The connected BUS line’s communication ability will be enhanced.
 
-<div align="left"><img src=".gitbook/assets/4 (7).jpeg" alt=""> <img src=".gitbook/assets/5 (5).jpeg" alt=""></div>
+<div align="left"><img src=".gitbook/assets/4 (15).jpeg" alt=""> <img src=".gitbook/assets/5 (14).jpeg" alt=""></div>
 
 **Jumper On**
 
@@ -54,7 +54,7 @@ If the jumper is ON, the communication ability will be enhanced.
 
 **Jumper Off**
 
-<div align="left"><img src=".gitbook/assets/7 (5).jpeg" alt=""></div>
+<div align="left"><img src=".gitbook/assets/7 (12).jpeg" alt=""></div>
 
 If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
 
@@ -102,7 +102,7 @@ Use only the specified batteries with the device. When replacing batteries, alwa
 * Loosen KP-35-COMBO’s “B” terminal and the Control Panel’s “485B” terminal. Connect the “B” terminal to the “485B” terminal and tighten both terminal screws.
 * Power on the Control Panel and wait for the “KP-35 COMBO” to be shown on the wired/wireless keypad’s LCD screen.
 
-![](<.gitbook/assets/11 (5).jpeg>)
+![](<.gitbook/assets/11 (11).jpeg>)
 
 * The keypad terminal can be hardwired to the Control Panel. Up to four KP-35-Combos can be connected in series. The maximum wire cable length depends on the wire gauge and the total power consumption of all wired devices, for example: maximum 3000ft @ 22-AWG cable for one KP-35-COMBO; maximum 1500ft @ 22-AWG cable for 2 KP-35-COMBOs; or maximum 1000ft @ 22-AWG cable for 3 KP-35-COMBOs.
 * In the picture below, KP-35-COMBO-**A** and KP-35-COMBO-**B** are wired correctly in series as the total wire distance of two keypads from the Control Panel is within 1500ft. For the KP-35-COMBO-**C** in the picture below, it is **NOT** wired correctly as it is farther than 1000ft from the Control Panel.
@@ -110,7 +110,7 @@ Use only the specified batteries with the device. When replacing batteries, alwa
 
 For example, for KP-35-COMBO-**B** in the picture below, it is the farthest device on the BUS line, and Hybrid Panel is the first device on the BUS line. Ensure to set the KP-35-COMBO-**B**'s terminal resistor jumper switch and Hybrid Panel's J53 Jumper Switch to ON to serve as terminating resistors.
 
-<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (2).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (538).png" alt=""><figcaption></figcaption></figure></div>
 
 ### _**Tamper Protection**_
 
@@ -219,8 +219,8 @@ After entering the PIN code, press the **Arm/Home Arm/OK** key to enter **Away A
 
 ## _**User Menu**_
 
-* The keypad will communicate with the system to retrieve information before entering User Menu. The following options will be displayed on LCD screen for selection. Use ![](<.gitbook/assets/image (125).png>) and ![](<.gitbook/assets/image (126).png>) keys to select and press the **OK** key to confirm your selection.
-* To enter User Menu, press and hold “![](<.gitbook/assets/image (124).png>)” for 2 seconds in idle mode of the keypad when the system of the area where KP-35-Combo is located is already in **Disarmed mode**.
+* The keypad will communicate with the system to retrieve information before entering User Menu. The following options will be displayed on LCD screen for selection. Use ![](<.gitbook/assets/image (772).png>) and ![](<.gitbook/assets/image (773).png>) keys to select and press the **OK** key to confirm your selection.
+* To enter User Menu, press and hold “![](<.gitbook/assets/image (771).png>)” for 2 seconds in idle mode of the keypad when the system of the area where KP-35-Combo is located is already in **Disarmed mode**.
 * The keypad will exit User Menu automatically after 20 seconds of inactivity.
 
 **Away Arm**
@@ -239,8 +239,8 @@ After entering the PIN code, press the **Arm/Home Arm/OK** key to enter **Away A
 
 * **Away Arm:** Select “Away Arm” and press the OK key to change the system mode to “Away Armed”.
 * **Home Arm:** Select “Home Arm” and press the OK key to change the system mode to “Home Armed”.
-* **Alarm Memory:** This option will become available after an alarm is triggered. Entering User Menu will be directed to the Alarm Memory option automatically. Press **OK** to confirm the selection, and then use ![](<.gitbook/assets/image (119).png>) and ![](<.gitbook/assets/image (120).png>) keys to view the alarm memory.
-* **Fault Display:** This option will become available when fault event exists in the system. To view fault events, select “Fault Display” and press OK to confirm the selection. Use ![](<.gitbook/assets/image (121).png>) and ![](<.gitbook/assets/image (122).png>) keys to view the fault events and press ![](<.gitbook/assets/image (123).png>) key to return to User Menu.
+* **Alarm Memory:** This option will become available after an alarm is triggered. Entering User Menu will be directed to the Alarm Memory option automatically. Press **OK** to confirm the selection, and then use ![](<.gitbook/assets/image (766).png>) and ![](<.gitbook/assets/image (767).png>) keys to view the alarm memory.
+* **Fault Display:** This option will become available when fault event exists in the system. To view fault events, select “Fault Display” and press OK to confirm the selection. Use ![](<.gitbook/assets/image (768).png>) and ![](<.gitbook/assets/image (769).png>) keys to view the fault events and press ![](<.gitbook/assets/image (770).png>) key to return to User Menu.
 
 {% hint style="warning" %}
 Note:
@@ -249,11 +249,11 @@ The Yellow LED will flash once every 3 seconds when any fault situation is detec
 
 If you try to arm the system when fault event exists, the arming will be prohibited and the LCD screen will jump to Fault Display. If you want to forcibly arm the system, perform the arm action again within 30 seconds. The system will ignore the fault event and enter your selected arm mode.
 
-**Log**: Select “Log” and press OK to view the system log. Use ![](<.gitbook/assets/image (116).png>) and ![](<.gitbook/assets/image (117).png>) keys to view the events and press ![](<.gitbook/assets/image (118).png>) key to return to User Menu.
+**Log**: Select “Log” and press OK to view the system log. Use ![](<.gitbook/assets/image (763).png>) and ![](<.gitbook/assets/image (764).png>) keys to view the events and press ![](<.gitbook/assets/image (765).png>) key to return to User Menu.
 
 **Bypass:** This function is only available under wired connection. “Enter M. Code” will be shown on the LCD screen (default M. Code is **1111**). The Panel will ignore all signals received from the device being bypassed and not respond at all when such device is triggered.
 
-**Setting:** For wireless connection, after entering Unser Menu, input the default M. code “**1111**” to enter the setting menu. For wired connection, input the default I. code “**7982**” to enter the setting menu. Use ![](<.gitbook/assets/image (114).png>) and ![](<.gitbook/assets/image (115).png>) keys to select setting options and press key to return to User Menu.
+**Setting:** For wireless connection, after entering Unser Menu, input the default M. code “**1111**” to enter the setting menu. For wired connection, input the default I. code “**7982**” to enter the setting menu. Use ![](<.gitbook/assets/image (761).png>) and ![](<.gitbook/assets/image (762).png>) keys to select setting options and press key to return to User Menu.
 {% endhint %}
 
 **Beep Control**
@@ -270,7 +270,7 @@ If you try to arm the system when fault event exists, the arming will be prohibi
 
 **Change M. Code**
 
-* **Language:** Select “Language” and press OK to enter language menu. Use ![](<.gitbook/assets/image (112).png>) and ![](<.gitbook/assets/image (113).png>) keys to select the language for display, and press key to return to User Menu.
+* **Language:** Select “Language” and press OK to enter language menu. Use ![](<.gitbook/assets/image (759).png>) and ![](<.gitbook/assets/image (760).png>) keys to select the language for display, and press key to return to User Menu.
 
 **English**
 
@@ -345,7 +345,7 @@ _When the wired/wireless keypad is under **NORMAL OPERATION MODE,**_
 The wired/wireless keypad can be reset to clear all learnt-in data and return all settings to the default values by the steps below:
 
 1. Please follow _**Change of Battery**_ steps for factory default.
-2. Within 10 seconds after inserting batteries, enter “0000”. When the last digit of “0000” turns into “ ![](<.gitbook/assets/image (111).png>)” on the LCD screen, press “#” to reset the wired/wireless keypad to the default values.
+2. Within 10 seconds after inserting batteries, enter “0000”. When the last digit of “0000” turns into “ ![](<.gitbook/assets/image (758).png>)” on the LCD screen, press “#” to reset the wired/wireless keypad to the default values.
 3. “Reset Default” will be displayed on the LCD screen along with 3 beeps indicating successful operation.
 4. All learnt-in data will be cleared.
 5. Entry/ Exit Beeps will be disabled.

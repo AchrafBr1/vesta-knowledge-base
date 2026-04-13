@@ -4,7 +4,7 @@
 
 ## **Emergency Pendant / Wrist Transmitter**
 
-<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
 _**Easy & Exchangeable Belt / Neck Cord styles**_
 
@@ -19,7 +19,7 @@ _**Waterproof**_
 
 ## _**Learn in the Transmitter**_
 
-![](<.gitbook/assets/0 (51).jpeg>)
+![](<.gitbook/assets/0 (62).jpeg>)
 
 Step 1. Put the Control Panel into the learning mode.
 
@@ -45,29 +45,29 @@ The Wrist Transmitter features Auto Low Battery detection function.
 
 **STEP 1.** Insert the pendant into the wristband cover.
 
-<div align="left"><figure><img src=".gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (696).png" alt=""><figcaption></figcaption></figure></div>
 
 **STEP 2.** Thread the band through the wristband cover.
 
-<div align="left"><figure><img src=".gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (697).png" alt=""><figcaption></figcaption></figure></div>
 
 **Step 3.** Continue to thread through and the wristband is done.
 
-<div align="left"><figure><img src=".gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (698).png" alt=""><figcaption></figcaption></figure></div>
 
 ## _**Wearing as a Necklace**_
 
 **STEP 1.** Thread the neck cord through the hook.
 
-<div align="left"><figure><img src=".gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (699).png" alt=""><figcaption></figcaption></figure></div>
 
 **STEP 2.** Thread the small cap through the thread and make a knot near the end of the thread.
 
-<div align="left"><figure><img src=".gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure></div>
 
 **Step 3.** Connect the caps at both ends of the thread.
 
-<div align="left"><figure><img src=".gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure></div>
 
 ## _**Compliance with Standards**_
 

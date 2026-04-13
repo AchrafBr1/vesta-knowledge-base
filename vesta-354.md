@@ -4,11 +4,11 @@
 
 ## Touch screen Keypad on BUS&#x20;
 
-<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 ## **1. Identifying the Parts**
 
-<figure><img src=".gitbook/assets/10 (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (145).png" alt=""><figcaption></figcaption></figure>
 
 ## **2. Package Content**
 
@@ -30,11 +30,11 @@ Before connecting the Touchscreen Keypad to the system bus, please switch the po
 
 To assist with cable connection, the terminal blocks on each BUS module are color-coded.
 
-<figure><img src=".gitbook/assets/10 (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (140).png" alt=""><figcaption></figcaption></figure>
 
 TSP-1-BUS will be automatically turned on after&#x20;power is supplied.
 
-![](<.gitbook/assets/5 (105).png>)
+![](<.gitbook/assets/5 (116).png>)
 
 ## **6. Setup and Connection**
 
@@ -48,17 +48,17 @@ Learning Process is only required for the first-time setup.
 
 **Step 1.** After TSP-1-BUS is wired to the Panel, select the language and then connection mode for the Keypad.
 
-<figure><img src=".gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (912).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2. For “WIFI & BUS” and “WIFI” connection,** select the WIFI SSID of the router to which the Panel is connected.
 
-<div align="center" data-full-width="true"><figure><img src=".gitbook/assets/10 (97).png" alt="" width="387"><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src=".gitbook/assets/10 (147).png" alt="" width="387"><figcaption></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (913).png" alt=""><figcaption></figcaption></figure>
 
 Enter the WiFi network password if required and click “OK”.
 
-<figure><img src=".gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (914).png" alt=""><figcaption></figcaption></figure>
 
 **For “BUS” connection**, you will enter the Home page directly.
 
@@ -68,7 +68,7 @@ Enter the WiFi network password if required and click “OK”.
 
 **For “BUS” connection**, the Touchscreen Keypad will be automatically displayed on the Panel’s webpage.
 
-<figure><img src=".gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (915).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** On the Panel’s webpage, click “**Add**” to include the Touchscreen Keypad into the Panel.
 
@@ -84,15 +84,15 @@ The Touchscreen Keypad is designed to be mounted on the wall with the wall mount
 
 **Step 3.** Screw the bracket onto the wall with the 2 screws provided.
 
-<figure><img src=".gitbook/assets/10 (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (146).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Attach the Touchscreen Keypad onto the mounting bracket.
 
-<figure><img src=".gitbook/assets/11 (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (94).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** Tighten the machine screw to firmly fix the Keypad onto the mounting bracket.
 
-<figure><img src=".gitbook/assets/12 (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (90).png" alt=""><figcaption></figcaption></figure>
 
 **For more detailed instruction, please scan the QR Code and download “TSP-1-BUS Touchscreen Keypad Installation Guide”.**
 

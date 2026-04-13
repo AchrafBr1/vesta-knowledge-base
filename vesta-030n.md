@@ -4,13 +4,13 @@
 
 ## **Repeater**
 
-<figure><img src=".gitbook/assets/image (27) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
 The Repeater is designed to increase the effectiveness and versatility of the alarm system. It is a device that makes your system more powerful by increasing the maximum possible distance between the Main Unit (Control Panel) and the Devices.
 
 ## **Identifying the Parts**
 
-![](<.gitbook/assets/0 (135).jpeg>)
+![](<.gitbook/assets/0 (146).jpeg>)
 
 1. **Power LED (Green)**
 
@@ -51,11 +51,11 @@ The DC power jack and plug provide a twist-lock feature that can prevent acciden
 
 **Step 1** Align the arc parts of the plug with the arc parts on top/bottom of the DC jack slot, and fit the plug into the slot.
 
-![](<.gitbook/assets/1 (110).jpeg>)
+![](<.gitbook/assets/1 (120).jpeg>)
 
 **Step 2** Push the plug into place and make a quarter turn clockwise to lock the plug.
 
-![](<.gitbook/assets/2 (118).png>)
+![](<.gitbook/assets/2 (146).png>)
 
 {% hint style="info" %}
 Note:
@@ -103,9 +103,9 @@ After the repeater is learned into the Control Panel, proceed to program repeate
 
 Go to the **Repeater Setting** on Panel’s webpage.
 
-![](<.gitbook/assets/5 (119).png>)
+![](<.gitbook/assets/5 (130).png>)
 
-![](<.gitbook/assets/6 (99).png>)
+![](<.gitbook/assets/6 (108).png>)
 
 ## **Learning Device/Repeater into the Repeater**
 
@@ -146,7 +146,7 @@ After the devices/repeaters are learned into the Repeater, click “**Query Chil
 
 _\<NOTE>_ If a child node device is not yet learned into the Control Panel, “Unknown Type” and “Device Not Existed” will be displayed. Make sure to learn the device into the Control Panel for the Panel to recognize it.
 
-![](<.gitbook/assets/8 (88).png>)
+![](<.gitbook/assets/8 (98).png>)
 
 ## **Delete Device/Repeaters from the Repeater**
 
@@ -156,37 +156,37 @@ _\<NOTE>_ If a child node device is not yet learned into the Control Panel, “U
 
 Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**.
 
-If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<.gitbook/assets/9 (48).jpeg>) will be displayed besides the Device List header.
+If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<.gitbook/assets/9 (52).jpeg>) will be displayed besides the Device List header.
 
-![](<.gitbook/assets/10 (85).png>)
+![](<.gitbook/assets/10 (135).png>)
 
-Clicking on the icon ![](<.gitbook/assets/11 (44).jpeg>) will pop up the RP Connection Map.
+Clicking on the icon ![](<.gitbook/assets/11 (50).jpeg>) will pop up the RP Connection Map.
 
-![](<.gitbook/assets/12 (68).png>)
+![](<.gitbook/assets/12 (86).png>)
 
 The **Panel**, the **Repeater/RF Devices**, and **the RF Device(s) that is/are connected to the Repeater** will be displayed from the left column to the right column on the map.
 
 If no devices are connected to any Repeater, only two columns (Panel, Repeater/Devices) will be shown on the map.
 
-![](<.gitbook/assets/16 (24).jpeg>)
+![](<.gitbook/assets/16 (28).jpeg>)
 
- Edit: Click ![](<.gitbook/assets/17 (29).jpeg>) to enter Edit Mode, and then click an individual Repeater icon to
+ Edit: Click ![](<.gitbook/assets/17 (35).jpeg>) to enter Edit Mode, and then click an individual Repeater icon to
 
 access the settings page for that repeater.
 
 * **Edit Mode**: In Edit Mode, only Repeater icons are highlighted. Click on a Repeater icon to access its settings page.
 
-![](<.gitbook/assets/18 (58).png>)
+![](<.gitbook/assets/18 (64).png>)
 
 * **Repeater Setting Page**: The Repeater Setting page lists the devices that are
 
-connected to the repeater. You can add / delete devices by clicking ![](<.gitbook/assets/19 (13).jpeg>) / ![](<.gitbook/assets/20 (22).jpeg>) .
+connected to the repeater. You can add / delete devices by clicking ![](<.gitbook/assets/19 (17).jpeg>) / ![](<.gitbook/assets/20 (26).jpeg>) .
 
-![](<.gitbook/assets/21 (2).png>)
+![](<.gitbook/assets/21 (3).png>)
 
 ## **Add Device**:
 
-After clicking ![](<.gitbook/assets/22 (1) (1).jpeg>), the Add Device list will pop up, displaying devices that are not connected to any Repeater and are available to be added to the current Repeater. Select the device(s) by checking the box(es), then click Submit to add the selected device(s) to the Repeater.
+After clicking ![](<.gitbook/assets/22 (2).jpeg>), the Add Device list will pop up, displaying devices that are not connected to any Repeater and are available to be added to the current Repeater. Select the device(s) by checking the box(es), then click Submit to add the selected device(s) to the Repeater.
 
 ![](<.gitbook/assets/23 (3).png>)
 

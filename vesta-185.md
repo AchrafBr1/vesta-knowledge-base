@@ -4,7 +4,7 @@
 
 ## **Ambient Light, Humidity and Temperature Sensor (ZIgbee)**
 
-<figure><img src=".gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1050).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -16,7 +16,7 @@ The sensor serves as an end device in the ZigBee network. It can be included in 
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (82).jpeg>)
+![](<.gitbook/assets/0 (93).jpeg>)
 
 1. **Light Sensor / LED Indicator**
    * **Flashes once:** Factory Reset
@@ -101,7 +101,7 @@ To remove the device from current ZigBee network, the sensor must be put to Fact
 
 ### _**Mounting the Sensor**_
 
-<figure><img src=".gitbook/assets/image (197).png" alt="" width="151"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (844).png" alt="" width="151"><figcaption></figcaption></figure>
 
 The sensor can be mounted using two methods: Self-adhesive or Screw mounting.
 
@@ -154,30 +154,30 @@ not perform any other actions, or power down the panel.
 
 _**Light Sensor Cluster ID**_
 
-<figure><img src=".gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (845).png" alt=""><figcaption></figcaption></figure>
 
 _**Attribute of Basic Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (846).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (847).png" alt=""><figcaption></figcaption></figure>
 
 _**Attribute of Identify Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
 
 _**Attribute of Power Configuration Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
 
 _**Attribute of Illuminance Measurement Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
 
 _**Attribute of Temperature Measurement Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
 
 _**Attribute of Relative Humidity Measurement Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (852).png" alt=""><figcaption></figcaption></figure>

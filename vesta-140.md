@@ -4,7 +4,7 @@
 
 ## **Z-Wave Relay Controller**&#x20;
 
-<figure><img src=".gitbook/assets/image (22) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -12,7 +12,7 @@ PRL-8-ZW-AC is a Z-Wave Relay Controller that can be connected to wired devices 
 
 **Parts Identification**
 
-<div align="center" data-full-width="false"><img src=".gitbook/assets/0 (62).jpeg" alt=""></div>
+<div align="center" data-full-width="false"><img src=".gitbook/assets/0 (73).jpeg" alt=""></div>
 
 1. **Function Button**
 
@@ -54,13 +54,13 @@ Connect the wire into the terminal, tighten the screw to close the clipper and h
 * Humidity: Up to 85% non-condensing
 * Dimension: 86mm x 72mm x 29mm
 
-<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/1 (56).jpeg" alt="dsfsfs" width="52"><figcaption><p><strong>INSTALLATION ENVIROMENT</strong></p></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/1 (66).jpeg" alt="dsfsfs" width="52"><figcaption><p><strong>INSTALLATION ENVIROMENT</strong></p></figcaption></figure></div>
 
 * The Relay Controller should be installed indoors in a dry location.
 * It is recommended to install the device in a fire resistant plastic gangbox.
 * Do not install the device in a metal gangbox for optimization of Z-Wave range.
 
-<div align="left"><figure><img src=".gitbook/assets/2 (46).jpeg" alt="CAUTION" width="52"><figcaption><p><strong>CAUT</strong><del><strong>I</strong></del><strong>ON</strong></p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/2 (50).jpeg" alt="CAUTION" width="52"><figcaption><p><strong>CAUT</strong><del><strong>I</strong></del><strong>ON</strong></p></figcaption></figure></div>
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * To prevent electrical shock and/or equipment damage, disconnect electrical power at the main fuse or circuit breaker before installation and maintenance.
@@ -68,7 +68,7 @@ Connect the wire into the terminal, tighten the screw to close the clipper and h
 
 ## **Installation**
 
-<div data-full-width="true"><img src=".gitbook/assets/3 (45).jpeg" alt="" width="256"></div>
+<div data-full-width="true"><img src=".gitbook/assets/3 (51).jpeg" alt="" width="256"></div>
 
 Wiring of the PRL should only be performed by certified technician with proper knowledge and training in electric equipment. Wire the Relay according to the instructions below:
 
@@ -78,7 +78,7 @@ Wiring of the PRL should only be performed by certified technician with proper k
 4. Depending on the device you wish to control via the Relay, select NO or NC terminal and wire the Relay with the device to establish Normal Open or Normal Close connection with device.
 5. After completing device wiring, replace the strain relief clamp, use the wiring buckle to manage the wires, and place the wiring buckle on the base with its gap (opening) positioned on the left (as in the diagram below).
 
-![](<.gitbook/assets/4 (41).jpeg>)
+![](<.gitbook/assets/4 (49).jpeg>)
 
 6. Replace the top cover. Turn on the power supply to power on the Relay Controller.
 

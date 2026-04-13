@@ -4,11 +4,11 @@
 
 ## **Emergency Pendant/Wrist Transmitter**
 
-<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 
-<figure><img src=".gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (702).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Active Button**_
 
@@ -57,7 +57,7 @@ Step 1. Flip over the Transmitter to the back side as **Figure 1.**
 
 Step 2. Gently hook the buckle at the back of the Transmitter as **Figure 1.**
 
-![](<.gitbook/assets/7 (33).png>)
+![](<.gitbook/assets/7 (43).png>)
 
 &#x20;                                                                                               **Figure 1**
 
@@ -69,7 +69,7 @@ Step 2. While holding the Transmitter, use your right hand to hold the cord as s
 
 Step 3. Pull the cord away gently in parallel direction to the Transmitter as shown in **Figure 4.**
 
-<figure><img src=".gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (704).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                           **Figure 2**                                                  **Figure 3**                                     **Figure 4**
 
@@ -83,7 +83,7 @@ Step 2. Use the buckles on the wrist band and gently hook it on the back of the 
 
 
 
-![](<.gitbook/assets/9 (41).png>)
+![](<.gitbook/assets/9 (51).png>)
 
 &#x20;                                                                                       **Figure 5**
 
@@ -99,7 +99,7 @@ Step 3. Use the thumb of your right hand to push one edge of the buckle away fro
 
 Step 4. Slightly add force with your thumb while removing the buckle (**Figure 7.**)
 
-![](<.gitbook/assets/10 (32).png>)
+![](<.gitbook/assets/10 (82).png>)
 
 &#x20;                               **Figure 6**                                                                                                 **Figure 7**
 
@@ -113,15 +113,15 @@ Step 2. Insert the wrist strap through two spring bars as shown in **Figure 9**.
 
 Step 3. Adjust to a comfortable length and press down the buckle to tighten the strap as shown in **Figure 10**.
 
-<figure><img src=".gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                    **Figure 8                                          Figure 9                                   Figure 10**
 
-![](<.gitbook/assets/12 (15).jpeg>) ![](<.gitbook/assets/13 (16).jpeg>)
+![](<.gitbook/assets/12 (18).jpeg>) ![](<.gitbook/assets/13 (19).jpeg>)
 
 Removal:
 
-![](<.gitbook/assets/14 (20).png>)
+![](<.gitbook/assets/14 (30).png>)
 
 &#x20;                                                             **Figure 11                                            Figure 13**
 

@@ -4,7 +4,7 @@
 
 ## **Power Relay Switch Series (Zigbee)**
 
-<figure><img src=".gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1039).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -28,11 +28,11 @@ Models with router function also serve as a router in the ZigBee network. After 
 
 Models with OTA function supports OTA firmware upgrade feature via ZigBee network, which can be initiated from the ZigBee network coordinator.
 
-<figure><img src=".gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (75).jpeg>)
+![](<.gitbook/assets/0 (86).jpeg>)
 
 1. &#x20;**LED indicator**
 
@@ -97,7 +97,7 @@ To remove the Power Switch from current ZigBee network, the Power Switch must be
 
 The Power Switch models with Router function allow other ZigBee devices to join the ZigBee Network through the Router. The Power Switch Router has maximum capacity of 40 devices, including 10 routers; the Power Switch Meter Router has maximum capacity of 10 devices including 5 routers.
 
-<figure><img src=".gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (808).png" alt=""><figcaption></figcaption></figure>
 
 ### _**OTA Firmware Upgrade (For OTA version only)**_
 
@@ -132,21 +132,21 @@ please do not perform any other actions, or power down the panel.
 * Before wiring, please make sure the power is off. To connect the wires:
   1. Lift the lever and insert the brown wire. **(Picture 1, 2)**
 
-![Picture 1                                                                                                                                 Picture 2](<.gitbook/assets/1 (66).png>)
+![Picture 1                                                                                                                                 Picture 2](<.gitbook/assets/1 (98).png>)
 
 2. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
-![Picture 3                                                                                                                                        Picture 4](<.gitbook/assets/2 (71).png>)
+![Picture 3                                                                                                                                        Picture 4](<.gitbook/assets/2 (99).png>)
 
 3. In the same way as step 1 & 2, insert into another pole the wire for connecting to AC Line Power Input. (Picture 5)
 
-![Picture 5](<.gitbook/assets/3 (55).jpeg>)
+![Picture 5](<.gitbook/assets/3 (61).jpeg>)
 
 4.  Repeat step 1 & 2 & 3 to connect the other wires with connectors.
 
     Please be noted that the blue wire must be connected to a 3-wire connector and then connected to AC Neural Power Input and AC Neutral Power Load Output. **(Picture 6)**
 
-![Picture 6](<.gitbook/assets/4 (72).png>)
+![Picture 6](<.gitbook/assets/4 (85).png>)
 
 ## **Operation**
 
@@ -154,7 +154,7 @@ please do not perform any other actions, or power down the panel.
 
 Refer to the diagram to connect your home lighting to the Power Relay Switch.
 
-![](<.gitbook/assets/5 (37).jpeg>)
+![](<.gitbook/assets/5 (46).jpeg>)
 
 ### _**Installation**_
 
@@ -192,36 +192,36 @@ Refer to the diagram to connect your home lighting to the Power Relay Switch.
 
 ### _**Power Relay Switch with Meter Cluster ID**_
 
-<figure><img src=".gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
 
 #### _**Attribute of Basic Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (810).png" alt=""><figcaption></figcaption></figure>
 
 #### Attribute of Identify Cluster Information
 
-<figure><img src=".gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
 
 #### Attributes of the Groups cluster Information
 
-<figure><img src=".gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (812).png" alt=""><figcaption></figcaption></figure>
 
 #### Attributes of the Scenes cluster Information
 
-<figure><img src=".gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (813).png" alt=""><figcaption></figcaption></figure>
 
 #### _**Attribute of On/Off Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (814).png" alt=""><figcaption></figcaption></figure>
 
 #### _**Attributes of the Metering cluster Information (Reading Information Attribute Set)**_
 
-<figure><img src=".gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
 
 #### _**Attributes of the Metering cluster Information (Formatting Attribute Set)**_
 
-<figure><img src=".gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
 
 _**Attributes of the Metering cluster Information (Historical Attribute Set)**_
 
-<figure><img src=".gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (817).png" alt=""><figcaption></figcaption></figure>

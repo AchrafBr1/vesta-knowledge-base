@@ -8,13 +8,13 @@ icon: star-of-life
 
 ## **Emergency Pendant/Wrist Transmitter**
 
-<figure><img src=".gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 _**Easy & Exchangeable Belt / Long battery life / Waterproof**_
 
 WTRSC-1 is an emergency pendant/wrist transmitter. It is designed to be worn by seniors as they move on the premises, with WTRSC-1, seniors are able to summon help with one simple press.
 
-![](<.gitbook/assets/1 (85).png>)
+![](<.gitbook/assets/1 (117).png>)
 
 ## _**Active Button**_
 
@@ -41,7 +41,7 @@ The Wrist Transmitter features Auto Low Battery detection function.
 
 ## _**Getting Started**_
 
-![](<.gitbook/assets/4 (96).png>)
+![](<.gitbook/assets/4 (109).png>)
 
 * Use a coin to unlock and remove the battery cover from the back of the transmitter by turning the mark on the cover anti-clockwise from Lock position to **Open** position.
 * Insert the battery with the unmarked (negative) side facing down.
@@ -64,25 +64,25 @@ The Transmitter can be worn as a Pendant with lanyard or a Wrist Watch with wris
 
 **Step 1.** Push the **FRONT** of the transmitter to take it off from the lanyard frame.
 
-![](<.gitbook/assets/7 (57).jpeg>)
+![](<.gitbook/assets/7 (64).jpeg>)
 
 **Step 2.** Remove the transmitter.
 
-![](<.gitbook/assets/8 (49).jpeg>)
+![](<.gitbook/assets/8 (54).jpeg>)
 
 **Step 3.** Push the transmitter into the wristband frame from the **BACK** side until you hear a click sound. All done!
 
-![](<.gitbook/assets/9 (38).jpeg>)
+![](<.gitbook/assets/9 (42).jpeg>)
 
 ## _**Wearing the Transmitter as Wrist Watch**_
 
 **Step 1.** Slide the top part of the wristband through the hole at the end of the bottom part of the wristband.
 
-![](<.gitbook/assets/11 (53).png>)
+![](<.gitbook/assets/11 (77).png>)
 
 **Step 2.** Push the protruding part on the inner wristband into right hole for your wrist size.
 
-![](<.gitbook/assets/14 (43).png>)
+![](<.gitbook/assets/14 (53).png>)
 
 ## _**Compliance with Standards**_
 

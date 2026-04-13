@@ -4,7 +4,7 @@
 
 ## **Shutter Control (Zigbee)**
 
-<figure><img src=".gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1042).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -16,7 +16,7 @@ The Shutter Control serves as an end device in the ZigBee network. It can be inc
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (76).jpeg>)
+![](<.gitbook/assets/0 (87).jpeg>)
 
 1. **Function Button**
    * Press once: Transmit a supervision signal.
@@ -62,7 +62,7 @@ The Shutter Control serves as an end device in the ZigBee network. It can be inc
 * Supported Load Current: 1/4 HP (Horse power); 1.8Amps for motors with compensated power factor (inductive loads)
 * Communication Protocol: ZigBee Pro Home Automation 1.2, 2.4GHz
 
-## **Caution** <img src=".gitbook/assets/image (19) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
+## **Caution** <img src=".gitbook/assets/image (462).png" alt="" data-size="line">
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * Before installation or any maintenance work, make sure the power supply has been disconnected.
@@ -73,7 +73,7 @@ The Shutter Control serves as an end device in the ZigBee network. It can be inc
 
 SCM-8ZBS should be connected according to the diagram below:
 
-![](<.gitbook/assets/2 (59).jpeg>)
+![](<.gitbook/assets/2 (63).jpeg>)
 
 
 
@@ -89,7 +89,7 @@ After the wires are connected, use the wiring buckle to manage the wires, and pl
 
 
 
-![](<.gitbook/assets/3 (56).jpeg>)
+![](<.gitbook/assets/3 (62).jpeg>)
 
 ## **ZigBee Network Setup**
 
@@ -188,34 +188,34 @@ Follow steps below to perform OTA firmware upgrade.
 
 ### _**Power Relay Shutter Control with Meter Cluster ID**_
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (463).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of Basic Cluster Information
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of Identify Cluster Information
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of On/Off Cluster Information
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of Level Cluster Information
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
 
 ### Attributes of the Shade cluster Information
 
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (469).png" alt=""><figcaption></figcaption></figure>
 
 ### Attributes of the Groups cluster Information
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
 
 ### Attributes of the Scenes cluster Information
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>

@@ -2,9 +2,9 @@
 
 &#x20;**KP-23B-EL-(F1)**
 
-## **REMOTE KEYPAD**![](<.gitbook/assets/1 (139).png>)
+## **REMOTE KEYPAD**![](<.gitbook/assets/1 (171).png>)
 
-<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
 The Remote Keypad includes following models:
 
@@ -14,15 +14,15 @@ KP-23B-EL-NT / KP-23B-EL-NT-F1: Remote Keypad without Tamper Switch
 
 ## _**Parts Identification**_
 
-<figure><img src=".gitbook/assets/4 (80).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (88).jpeg" alt=""><figcaption></figcaption></figure>
 
 1. **Active LED** Code
 2. **Status LED**&#x20;
 3. **Fault Display LED**
-4. <img src=".gitbook/assets/image (320).png" alt="" data-size="line"> **Arm Key**
-5. <img src=".gitbook/assets/image (321).png" alt="" data-size="line"> **Home Key**&#x20;
-6. <img src=".gitbook/assets/image (322).png" alt="" data-size="line"> **Key**
-7. <img src=".gitbook/assets/image (323).png" alt="" data-size="line"> **Disarm Key**
+4. <img src=".gitbook/assets/image (967).png" alt="" data-size="line"> **Arm Key**
+5. <img src=".gitbook/assets/image (968).png" alt="" data-size="line"> **Home Key**&#x20;
+6. <img src=".gitbook/assets/image (969).png" alt="" data-size="line"> **Key**
+7. <img src=".gitbook/assets/image (970).png" alt="" data-size="line"> **Disarm Key**
 8. &#x20;**# Key**
 9. &#x20;**\* Key**
 10. **Dual Key Learning** models - Press both # and \* keys together to send Learning code
@@ -63,7 +63,7 @@ Note:
 ### **Fault LED (Amber):**
 
 * Flash: system failure (panel tamper, AC fault, sensor temper, sensor out of order, open door)&#x20;
-* On: Alarm Memory (depend on Control Panel).![](<.gitbook/assets/18 (60).png>)
+* On: Alarm Memory (depend on Control Panel).![](<.gitbook/assets/18 (66).png>)
 
 ## Power
 
@@ -98,11 +98,11 @@ _**Test Mode Function:**_
 * Press ＊ key and then **5** key — Disable all Dual Key function (**Default**)
 * Press ＊ key and then **6** key — Edit Keypad Pin Code
 
-&#x20;                                                   Enter **Old** Keypad Pin Code and then press <img src=".gitbook/assets/image (322).png" alt="" data-size="line"> key
+&#x20;                                                   Enter **Old** Keypad Pin Code and then press <img src=".gitbook/assets/image (969).png" alt="" data-size="line"> key
 
 &#x20;                                                   Enter **New** a new 4-digit Keypad Pin Code and then press **#** ke&#x79;**.**
 
-* Press <img src=".gitbook/assets/image (323).png" alt="" data-size="line"> key **twice** — to leave the Test Mod&#x65;**.**
+* Press <img src=".gitbook/assets/image (970).png" alt="" data-size="line"> key **twice** — to leave the Test Mod&#x65;**.**
 * Press ＊ key and then **8** key — Enable Arm/ Home without PIN Code function
 * Press ＊ key and then **9** key — Enable Arm/ Home with Control Panel User PIN Code function (**Default**)
 
@@ -150,7 +150,7 @@ If the remote keypad did not sound a long beep, it means the remote keypad did n
 If remote keypad does not perform 3 beeps, please restart the learning procdeure.
 {% endhint %}
 
-<table data-header-hidden><thead><tr><th width="80"></th><th></th></tr></thead><tbody><tr><td>Step 3.</td><td>After the Remote keypad is learnt-in, put the Control Panel into <strong>Walk Test</strong> mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel. To send the learning code, either press the ＊ key then <strong>7</strong> key under Test Mode or press both <strong>#</strong> and ＊ keys together under Normal Operation Mode.</td></tr><tr><td>Step 4.</td><td>When you are satisfied that the Remote keypad works in the chosen location, you can proceed with mounting the Remote keypad following the steps described below (see <em><strong>Mounting Remote keypad</strong>)</em>.</td></tr><tr><td>Step 5.</td><td><p>Set your own the KP Pin Code:</p><ol><li>When the keypad is under Test mode, press ＊ key then <strong>6</strong> key, a long beep will be sound.</li><li>Enter <strong>0000</strong> (default PIN code)</li><li>Press <img src=".gitbook/assets/image (322).png" alt="" data-size="line"> key, remote keypad sounds a long beep.</li><li>Enter your new 4-digit code.</li><li>Press <strong>#</strong> key, remote keypad sounds a long beep. The new PIN code is enabled.</li></ol></td></tr><tr><td>Step 6. </td><td>Press  <img src=".gitbook/assets/image (323).png" alt="" data-size="line"> key <strong>twice</strong> to leave Test mode and the installation is completed.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="80"></th><th></th></tr></thead><tbody><tr><td>Step 3.</td><td>After the Remote keypad is learnt-in, put the Control Panel into <strong>Walk Test</strong> mode, hold the Remote keypad in the desired location, and send the learning code to the Control Panel to confirm this location is within the signal range of the Control Panel. To send the learning code, either press the ＊ key then <strong>7</strong> key under Test Mode or press both <strong>#</strong> and ＊ keys together under Normal Operation Mode.</td></tr><tr><td>Step 4.</td><td>When you are satisfied that the Remote keypad works in the chosen location, you can proceed with mounting the Remote keypad following the steps described below (see <em><strong>Mounting Remote keypad</strong>)</em>.</td></tr><tr><td>Step 5.</td><td><p>Set your own the KP Pin Code:</p><ol><li>When the keypad is under Test mode, press ＊ key then <strong>6</strong> key, a long beep will be sound.</li><li>Enter <strong>0000</strong> (default PIN code)</li><li>Press <img src=".gitbook/assets/image (969).png" alt="" data-size="line"> key, remote keypad sounds a long beep.</li><li>Enter your new 4-digit code.</li><li>Press <strong>#</strong> key, remote keypad sounds a long beep. The new PIN code is enabled.</li></ol></td></tr><tr><td>Step 6. </td><td>Press  <img src=".gitbook/assets/image (970).png" alt="" data-size="line"> key <strong>twice</strong> to leave Test mode and the installation is completed.</td></tr></tbody></table>
 
 ## Mounting Remote Keypad
 
@@ -176,17 +176,17 @@ There are two ways to arm the system.
 
 Under Test mode, Pressing ＊ key and then **9** key to enable Arm/ Home with PIN Code function (**Default**).
 
-* **Enter Arm Mode**: Enter any one of Control Panel user code and press <img src=".gitbook/assets/image (320).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with a long beep.
-* **Enter Home Mode**: Enter any one of Control Panel user cods and <img src=".gitbook/assets/image (321).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
-* **Return to Disarm Mode**: Enter any one of Control Panel user code and <img src=".gitbook/assets/image (323).png" alt="" data-size="line"> key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
+* **Enter Arm Mode**: Enter any one of Control Panel user code and press <img src=".gitbook/assets/image (967).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with a long beep.
+* **Enter Home Mode**: Enter any one of Control Panel user cods and <img src=".gitbook/assets/image (968).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
+* **Return to Disarm Mode**: Enter any one of Control Panel user code and <img src=".gitbook/assets/image (970).png" alt="" data-size="line"> key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
 
 ### **Arm/Home without Control Panel PIN Code**
 
 In the Test mode, Pressing ＊ key and then **8** key to enable Arm/ Home without PIN Code function
 
-* **Enter Arm Mode**: Press <img src=".gitbook/assets/image (320).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with one long beep.
-* **Enter Home Mode**: Press <img src=".gitbook/assets/image (321).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
-* **Return to Disarm Mode**: Enter any one of Control Panel user code and <img src=".gitbook/assets/image (323).png" alt="" data-size="line"> Key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
+* **Enter Arm Mode**: Press <img src=".gitbook/assets/image (967).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will turn ON alone with one long beep.
+* **Enter Home Mode**: Press <img src=".gitbook/assets/image (968).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the Status Red LED will flash 4 times alone with 3 beeps.
+* **Return to Disarm Mode**: Enter any one of Control Panel user code and <img src=".gitbook/assets/image (970).png" alt="" data-size="line"> Key. If disarm is successful, the Status Blue LED will turn ON along with 2 beeps.
 
 ## Dual-key Alarm Function
 
@@ -205,7 +205,7 @@ The dual-key alarm function is disabled by default. To enable it, please refer t
 * If there is **Alarm Memory,** the Status Blue LED and fault LED will turn ON with 5 beeps (depending on Control Panel).
 * Enter Test mode — Enter **Keypad PIN code** and then press ＊ key.
 * Panic Alarm — Press **1** key + **3** key at the same time. (if the function is enabled)
-* Fire Alarm — Press **4** key + **6** key at the same time. (if the function is enabled)  Medical Alarm — Press **7** key + **9** key at the same time. (if the function is enabled) <img src=".gitbook/assets/image (322).png" alt="" data-size="line"> Check Control Panel Status — Normal Mode Press  key.  Red LED on: the system is in **Away Mode**
+* Fire Alarm — Press **4** key + **6** key at the same time. (if the function is enabled)  Medical Alarm — Press **7** key + **9** key at the same time. (if the function is enabled) <img src=".gitbook/assets/image (969).png" alt="" data-size="line"> Check Control Panel Status — Normal Mode Press  key.  Red LED on: the system is in **Away Mode**
   * Red LED flash: the system is in **Home Mode**.
   * Blue LED on: activation of **Disarm Mode**.
   * Blue flash: failure due to the following reasons:

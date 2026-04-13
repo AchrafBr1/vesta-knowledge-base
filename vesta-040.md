@@ -4,7 +4,7 @@ SVGS-5
 
 ## &#x20;Shock, Vibration & Glass Break Sensor
 
-<figure><img src=".gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
 SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wireless signals to the Control Panel upon detection of window glass break or shock/vibration.
 
@@ -142,7 +142,7 @@ Note:
 Please do not apply the double-sided adhesive tape to the front cover where Test Button and LED indicator are located, and do not apply the tape twice.
 {% endhint %}
 
-![](<.gitbook/assets/6 (18).png>)
+![](<.gitbook/assets/6 (27).png>)
 
 ### _**Installation Guideline**_
 

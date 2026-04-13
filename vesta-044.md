@@ -4,7 +4,7 @@ UPIC-5ZW&#x20;
 
 ## Infrared Universal Remote Control
 
-<figure><img src=".gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
 * **Introduction**
 
@@ -24,7 +24,7 @@ The UPIC5 Z-Wave Infrared Remote Control series includes the following models:
 
 **1. IR Eye**
 
-![](<.gitbook/assets/0 (19).jpeg>)
+![](<.gitbook/assets/0 (30).jpeg>)
 
 Transmits IR signal to appliances.
 
@@ -66,7 +66,7 @@ if the jumper link is removed or “**parked**” on one pin.
 
 The jumper link is inserted connecting the two pins
 
-![](<.gitbook/assets/1 (28).png>)![](<.gitbook/assets/2 (31).png>)
+![](<.gitbook/assets/1 (60).png>)![](<.gitbook/assets/2 (59).png>)
 
 Jumper ON –IR Transmission power set to Low. **(Factory Default)**
 
@@ -82,7 +82,7 @@ if the jumper link is removed or “**parked**” on one pin.
 
 The jumper link is inserted connecting the two pins
 
-![](<.gitbook/assets/3 (29).png>)![](<.gitbook/assets/4 (29).png>)
+![](<.gitbook/assets/3 (53).png>)![](<.gitbook/assets/4 (42).png>)
 
 Jumper ON –IR Transmission power set to High.
 
@@ -156,7 +156,7 @@ In order to use the IR Remote Control to control your home appliance, the IR Rem
 
 ON
 
-![](<.gitbook/assets/5 (12).jpeg>)
+![](<.gitbook/assets/5 (21).jpeg>)
 
 OFF
 
@@ -266,7 +266,7 @@ The IR Remote Control is designed to be mounted on wall. It can be mounted by ei
 
 * _Mounting the IR Remote Control_
 
-![](<.gitbook/assets/6 (16).jpeg>)
+![](<.gitbook/assets/6 (25).jpeg>)
 
 The IR Remote Control is designed to be mounted on wall. It can be mounted by either directly screwing the back cover onto the wall, or by installing the rotational bracket first, then install the main body on the bracket. The IR Eye should be pointed to the home appliance you want to control when the IR Remote Control is installed.
 
@@ -306,7 +306,7 @@ The IR Remote Control can be controlled via Climax Z-Wave Gateway/Control Panels
 
 * _IR Signal Coverage & IR LED Selection_
 
-![](<.gitbook/assets/8 (12).jpeg>)
+![](<.gitbook/assets/8 (17).jpeg>)
 
 The IR Eye of the IR Remote Control includes 6 LEDs which are used to transmit IR signals, with 1 central LED and 5 surrounding LEDs. The 5 surrounding LEDs are positioned at 45° angle to the PCB board. **LED Signal Coverage:**
 

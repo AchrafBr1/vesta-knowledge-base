@@ -4,7 +4,7 @@
 
 ## **Outdoor Door Contact**&#x20;
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 DC-32-EX is an outdoor door contact used to detect the opening and closure of outdoor gates, entries, exits and more. The Door Contact can also be placed on metal materials, while its powerful magnet can tolerate a wide gap to reduce false alarm.
 
@@ -14,7 +14,7 @@ The Door Contact has an extension terminal that can be connected to an existing 
 
 ## _**Parts Identification**_
 
-![](<.gitbook/assets/0 (116).jpeg>)
+![](<.gitbook/assets/0 (127).jpeg>)
 
 1. **Protective Cover**
 2. **Battery Cover**
@@ -89,7 +89,7 @@ Used for wire routing.
 * Put the Control Panel into Learning Mode (please refer to panel operation manual).
 * Use a pointy tool to press the Door Contact learn button.
 
-<figure><img src=".gitbook/assets/1 (87).png" alt=""><figcaption><p>Figure 1</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (119).png" alt=""><figcaption><p>Figure 1</p></figcaption></figure>
 
 * Refer to your Control Panel operation manual to complete the learn-in process.
 * After the Door Contact is learned-in, place the Control Panel into **Walk Test** mode, hold the Door Contact in the desired location, and press the Test button to transmit test signal to the Control Panel. If the Control Panel is within Door Contact signal range, the panel will display door contact information accordingly.
@@ -101,13 +101,13 @@ Used for wire routing.
 * The rib marks on the magnet and Door Contact must align.  \
   (Figure 2)
 
-<figure><img src=".gitbook/assets/2 (79).jpeg" alt=""><figcaption><p>Figure 2</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (83).jpeg" alt=""><figcaption><p>Figure 2</p></figcaption></figure>
 
 * The magnet should not be more than 3 cm from the marked side of the Door Contact when the door is closed.
 * The door contact has a back tamper switch on its back cover. Ensure the device is positioned within the bracket so that the tamper switch spring is pressed against the breakaway area that is loosely connected to the bracket. If the door contact is forcibly removed from the wall, the breakaway area will break off from the bracket and remain attached to the mounting surface, activating the tamper switch.
 * To mount the Door Contact
 
-![Figure 3](<.gitbook/assets/3 (78).jpeg>)
+![Figure 3](<.gitbook/assets/3 (84).jpeg>)
 
 1. The provided mounting bracket has 3 knockouts where the plastic is thinner and can be broken for mounting purpose. (**Figure 3**)
 2. Use the mounting bracket as a template to drill holes on the wall for plugs. (**Figure 4**)
@@ -145,9 +145,9 @@ Ensure that the mounting surface should be clean, dry, and smooth before attachi
 
 2. The installation is now complete.
 
-![Figure 4](<.gitbook/assets/4 (63).jpeg>)
+![Figure 4](<.gitbook/assets/4 (71).jpeg>)
 
-![Figure 5](<.gitbook/assets/5 (49).jpeg>)
+![Figure 5](<.gitbook/assets/5 (58).jpeg>)
 
 ## _**Using the Extension Terminal**_
 
@@ -165,14 +165,14 @@ Note:
 Use cable (AWG22-26) shorter than 3 M for this installation.
 {% endhint %}
 
-![](<.gitbook/assets/6 (77).png>)
+![](<.gitbook/assets/6 (86).png>)
 
 * The extension terminal may be useful for the following situation.
   * If the Door Contact cannot be mounted on the door frame, you can connect an additional extension switch to the extension terminal to mount the Door Contact remotely.
   * Any dry contact device with N.C. (Normal Close) loop can be connected to the extension terminal, making the Door Contact serve as an Universal Transmitter.
   * Multiple dry contact devices can be wired together with the Door Contact, as shown in the diagram below.
 
-![](<.gitbook/assets/7 (59).jpeg>)
+![](<.gitbook/assets/7 (66).jpeg>)
 
 {% hint style="warning" %}
 Note:

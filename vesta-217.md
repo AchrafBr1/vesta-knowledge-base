@@ -4,7 +4,7 @@ RMB-29
 
 ## AC Powered Router (wireless F1 signal Extender)
 
-<figure><img src=".gitbook/assets/image (104).png" alt=""><figcaption><p>VESTA-217</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (751).png" alt=""><figcaption><p>VESTA-217</p></figcaption></figure>
 
 ## **Introduction**
 
@@ -14,7 +14,7 @@ RMB-29 is a wireless AC Powered Router with built-in backup battery. The “plug
 
 **1. Test Button / LED Indicator**
 
-![](<.gitbook/assets/0 (97).jpeg>)
+![](<.gitbook/assets/0 (108).jpeg>)
 
 Test Button Usage:
 
@@ -23,7 +23,7 @@ Test Button Usage:
 
 LED Indicator (Green and Red):
 
-<figure><img src=".gitbook/assets/1 (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (158).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 
@@ -168,12 +168,12 @@ The Device needs to be learned into its closest router (Router B). Router B need
 
 Example:
 
-![](<.gitbook/assets/13 (31).jpeg>)
+![](<.gitbook/assets/13 (34).jpeg>)
 
 1. If a device is located between the RF coverage of multiple routers and the Control Panel:&#x20;
    * Example 1:
 
-![](<.gitbook/assets/14 (27).jpeg>)
+![](<.gitbook/assets/14 (31).jpeg>)
 
 From the displayed diagram, the device is located between the RF coverage areas of Router B and C. Users can choose to learn the device into Router B only, learn into Router C only, or learn into both Routers B and C.
 
@@ -187,7 +187,7 @@ For the above system, Router C is also learnt into Router A or B or both so the 
 
 Example 2:
 
-![](<.gitbook/assets/16 (17).jpeg>)
+![](<.gitbook/assets/16 (21).jpeg>)
 
 From the displayed diagram, the device is located between the RF coverage areas of Router A, B and C. Users can choose to learn the device into Router A only, learn into Router B only, learn into Router C only, or learn into Routers A, B and C.
 

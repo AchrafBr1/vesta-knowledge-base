@@ -4,7 +4,7 @@
 
 ## Relay Controllers / 3-Channel Z-Wave Relay Switch.
 
-<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -18,7 +18,7 @@ The Relay can control Z-Wave nodes by simply pressing the function button and ca
 
 &#x20;                               **Top Cover**                                                                                             **Base**
 
-![](<.gitbook/assets/0 (61).png>)
+![](<.gitbook/assets/0 (68).png>)
 
 1. **Switch Button 1/Function Button**
    * Press the button 3 times within 1 second to send a learn code.
@@ -88,7 +88,7 @@ Connect the wire into the terminal, tighten the screw to close the clipper and h
 
 ## **Installation**
 
-![](<.gitbook/assets/2 (55).jpeg>)
+![](<.gitbook/assets/2 (59).jpeg>)
 
 Wire the Relay according to the instructions below.
 
@@ -141,7 +141,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 4. Drill holes into marked location and insert wall plugs if required, screw the base onto the mounting location.
 5. Replace the top cover and tighten the bottom fixing screw.
 
-![](<.gitbook/assets/6 (46).jpeg>)
+![](<.gitbook/assets/6 (55).jpeg>)
 
 ## **Operation**
 
@@ -220,12 +220,12 @@ Switch Binary (S2)
 
 #### **Z-Wave’s Groups (Association Command Class Version 2)**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (15).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (8).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@
 
 ## **BUS Wired Smoke Detector**
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -14,7 +14,7 @@ The wired smoke detector can also be interconnected with other smoke detectors i
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/1 (96).png>)
+![](<.gitbook/assets/1 (128).png>)
 
 **1. LED Indicator / Test Button**
 
@@ -104,7 +104,7 @@ _**Caution**_
   * Before connecting the Wired Smoke Detector to the system BUS, please switch the power off.
   * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/13 (41).jpeg>)
+![](<.gitbook/assets/13 (44).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
@@ -117,7 +117,7 @@ Note:
 
 * Incorrect connections will result in failure or malfunction. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/14 (54).png>)
+![](<.gitbook/assets/14 (64).png>)
 
 ## _**Getting Started**_
 
@@ -224,12 +224,12 @@ Ensure the wall plugs are flush with the mounting surface.
 
 **Step 5.** The Smoke Detector has 4 hooks on its back cover. Hold the Smoke Detector with extra care and align the 4 notches on the mounting bracket with the 4 hooks.
 
-<figure><img src=".gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (919).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6.** Rotate clockwise to lock the hook.
 
-<figure><img src=".gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (920).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (921).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7.** Installation is now complete. You can now tear off the mounting sheet.

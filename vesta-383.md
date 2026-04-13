@@ -4,7 +4,7 @@ KPT-35N-F1 (SL)
 
 ## **REMOTE KEYPAD with NFC Reader**&#x20;
 
-<figure><img src=".gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1061).png" alt=""><figcaption></figcaption></figure>
 
 KPT-35N is a Remote Keypad with NFC reader. It is designed to have quick access control of the System Control Panel via PIN Code or NFC label. The Keypad can send wireless signals to and receive wireless signals from the Control Panel. The LCD screen will display any information the system control panel sends back.
 
@@ -14,7 +14,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws, o
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/11 (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (89).png" alt=""><figcaption></figcaption></figure>
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -27,7 +27,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws, o
 6. **Backlit Pound (**＃**) Key**
 7. **Backlit OK Key**
    * For confirming the keyed-in data or confirming the selection.
-8. **Backlit Restore (**![](<.gitbook/assets/3 (1) (1) (1) (1).jpeg>)**) Key**
+8. **Backlit Restore (**![](<.gitbook/assets/3 (4).jpeg>)**) Key**
    * This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
 9. **Backlit Arm/"UP ARROW" Key**
    * Use this key to move the cursor and scroll the display upwards - The key is also used for entering “Away Armed” mode.
@@ -101,13 +101,13 @@ When adding a new label, the keypad must be in normal operation mode.
 
 Step 1. Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the label, and assign the user pin code to an Area.
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (6).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 2. After the keypad is successfully learnt into the panel, press the OK key and then apply a new label to the Keypad Tag sensor zone. The white backlight will turn on with 4 beeps to indicate this label is new (not added to the system yet).
 
 Step 3. Click the Load button on the PIN Code page as below. The corresponding label number will be loaded. Click Submit to save the user code setting.
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (7).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 4. The label has been added. You can use the label to arm/home arm/disarm the system.
 
@@ -124,7 +124,7 @@ Step 1. Go to the PIN Code page on the Control Panel webpage.&#x20;
 
 Step 2. Manually delete the label number and click “Submit”.
 
-<figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (7).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 3. The label has been cleared.
 
@@ -138,7 +138,7 @@ Step 2. Apply an unadded label to the Keypad Tag sensor zone. The white backligh
 
 Step 3. On BOGP-3’s webpage, go to User page and click “Last UID” at the bottom of User Setting.
 
-<figure><img src=".gitbook/assets/7 (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (5).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 4. The label number will then be shown after “Last UID” above “User Setting”.
 
@@ -159,7 +159,7 @@ Step 2. Manually delete the label number from the Tag column and click “Submit
 * A question mark “?” will be displayed if the area status cannot be identified.
 * Example:
 
-<figure><img src=".gitbook/assets/12 (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (88).png" alt=""><figcaption></figcaption></figure>
 
 ### System Mode Change
 
@@ -181,7 +181,7 @@ After entering the PIN code, press the **Arm/Home Arm/OK** key to enter **Away A
 * To enter User Menu, press and hold “＊” for 2 seconds in idle mode of the keypad when the system of the area where KPT-35N is located is already in **Disarmed mode**.
 * The keypad will exit User Menu automatically after 20 seconds of inactivity.
 
-<figure><img src=".gitbook/assets/13 (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (72).png" alt=""><figcaption></figcaption></figure>
 
 * **Away Arm:** Select “Away Arm” and press the OK key to change the system mode to “Away Armed”.
 * **Home Arm:** Select “Home Arm” and press the OK key to change the system mode to “Home Armed”.
@@ -198,11 +198,11 @@ Note:
 * **Log**: Select “Log” and press OK to view the system log. Use "UP ARROW" and "DOWN ARROW" keys to view the events and press "DOUBLE ARROW" key to return to User Menu.
 * **Setting:** After enter Unser Menu, input the default M. code “**1111**” to enter the setting menu. Use "UP ARROW" and "DOWN ARROW" keys to select setting options and press "DOUBLE ARROW" key to return to User Menu.
 
-<figure><img src=".gitbook/assets/14 (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/14 (69).png" alt=""><figcaption></figcaption></figure>
 
 * **Language:** Select “Language” and press OK to enter language menu. Use "UP ARROW" and "DOWN ARROW" keys to select the language for display, and press "DOUBLE ARROW" key to return to User Menu.
 
-<figure><img src=".gitbook/assets/15 (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/15 (65).png" alt=""><figcaption></figcaption></figure>
 
 * **Change M. Code:** The default M. code is 1111. Users can change it manually, and only when the correct M. Code is entered can the user enter the setting menu.
 

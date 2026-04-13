@@ -4,7 +4,7 @@
 
 ## Zigbee Smart Thermostat
 
-<figure><img src=".gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1054).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -26,7 +26,7 @@ TMST-15-ZBS-OTA
 
 The LCD displays the following information:
 
-![](<.gitbook/assets/1 (79).jpeg>)
+![](<.gitbook/assets/1 (89).jpeg>)
 
 A. Heat mode Icon: When displayed, the Thermostat is under Heat mode.
 
@@ -48,23 +48,23 @@ G. Temperature Reading / Setpoint
 
 &#x20;    Press and hold for 3 seconds to enter programming mode.
 
-<figure><img src=".gitbook/assets/1 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>
 
 **3. Up (+) Button**  Press to increase setpoint.
 
 &#x20;   Press and hold for 10 seconds to enter learning mode, and “Joi NET” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/2 (67).jpeg>)
+![](<.gitbook/assets/2 (71).jpeg>)
 
 4. **Wall Mounting Hole**
 5.
 
-    <figure><img src=".gitbook/assets/2 (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/2 (20).png" alt=""><figcaption></figcaption></figure>
 6. **Battery Compartment**
 
 Insert 2 AA Alkaline batteries.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (16).png" alt=""><figcaption></figcaption></figure>
 
 **6. Relay Terminals (Remove Relay Cover to Access)**
 
@@ -82,7 +82,7 @@ The Thermostat uses 2 AA Alkaline batteries as its power source. The Thermostat 
 
 The Thermostat control home heating/cooling system through relay control. Open and flip over the back cover, remove the internal cover on the relay to reveal the terminals for wiring. When wiring the Thermostat, wire the cable through the central opening on the back cover.
 
-![](<.gitbook/assets/5 (77).png>)
+![](<.gitbook/assets/5 (88).png>)
 
 ### _**Mode Control**_
 
@@ -148,13 +148,13 @@ The Thermostat will transmit a supervision signal every 10 minutes along with th
 
 In this mode, “Pro Mod” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/17 (17).jpeg>)
+![](<.gitbook/assets/17 (23).jpeg>)
 
 Heating/Cooling modes are available for selection. Press UP (+) button to select Heating and Down (-) button to select Cooling.
 
 Heating Cooling
 
-![](<.gitbook/assets/18 (12).jpeg>)
+![](<.gitbook/assets/18 (17).jpeg>)
 
 After finishing selection, wait for a few seconds for the Thermostat to quit setting mode automatically. The Thermostat will enter the mode last selected.
 
@@ -162,12 +162,12 @@ After finishing selection, wait for a few seconds for the Thermostat to quit set
 
 In this mode, “Pro RM” will be displayed on the LCD screen. The Remote Mode allows you to control remote relay via the Control Panel when function enabled. The Thermostat will not control the local relay in Remote Mode.
 
-![](<.gitbook/assets/19 (29).png>)
+![](<.gitbook/assets/19 (35).png>)
 
 * If remote mode is disabled, “dS RM” will be displayed on the LCD screen.
 * If remote mode is enabled, “En RM” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/20 (22).png>)
+![](<.gitbook/assets/20 (29).png>)
 
 **Setpoint Offset:**
 

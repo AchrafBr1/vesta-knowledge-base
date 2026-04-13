@@ -4,13 +4,13 @@
 
 ## **Wireless Outdoor Bell Box**&#x20;
 
-<figure><img src=".gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 The Outdoor Bell Box is used to attract attention when alarm signal is received from Control Panel, by activating its siren and strobe light.
 
 The Bell Box can also alert you to tamper violation, and low battery status.
 
-<figure><img src=".gitbook/assets/0 (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (3).jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Identifying the Parts
 
@@ -164,7 +164,7 @@ Edit the device editing page to enter the Bellbox setting and information accord
 
 Proceed to installation after complete learning.
 
-<figure><img src=".gitbook/assets/8 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 1 Disable the tamper function on the Control Panel (please refer to the Control Panel instruction manual). The bellbox will sound a beep to indicate the tamper switch is now disabled.
 

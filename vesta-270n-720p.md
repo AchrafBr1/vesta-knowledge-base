@@ -4,7 +4,7 @@
 
 ## **PIR Motion Sensor Camera**
 
-<figure><img src=".gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -26,7 +26,7 @@ VST-892-IL – PIR motion sensor camera with Infrared LED
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (95).jpeg>)
+![](<.gitbook/assets/0 (106).jpeg>)
 
 **1. Flash LED/Infrared LED**
 
@@ -178,7 +178,7 @@ The PIR camera supports remote setting of pet Immunity and sensitivity.
 
 Please refer to the table below for configuration details. For example, if you want to enable Pet Immunity and set Sensitivity level to high, you can input 02.
 
-<figure><img src=".gitbook/assets/8 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (8).png" alt=""><figcaption></figcaption></figure>
 
 2\) Press the function button once on the PIR Camera to send a signal to the Control Panel, new settings will be applied immediately. If the button is not pressed, new settings will be applied upon next signal transmission, e.g., transmission of the supervision signal or IR trigger signal.
 
@@ -194,7 +194,7 @@ Please refer to the table below for configuration details. For example, if you w
 * When a masking event is detected, and the masking condition lasts for 3 minutes, VST-892 will send a masking alarm signal to the Control Panel to notify user of the masking condition.
 * After masking/blocking is removed for 3 minutes, VST-892 will send restore signal to the Control Panel.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (10).png" alt=""><figcaption></figcaption></figure>
 
 ## **Installation**
 
@@ -217,9 +217,9 @@ Please refer to the table below for configuration details. For example, if you w
 
 **Limitations**
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (11).png" alt=""><figcaption></figcaption></figure>
 
 ## Mounting the PIR Camera
 
@@ -238,7 +238,7 @@ bracket when the PIR Camera is mounted with the mounting bracket.
 
 * For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, the VST-892 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (7).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface mounting without the mounting bracket:**
 
@@ -249,7 +249,7 @@ bracket when the PIR Camera is mounted with the mounting bracket.
 5. Screw the base onto the wall plugs.
 6. Re-place the cover onto the base and tighten the bottom fixing screw.
 
-<figure><img src=".gitbook/assets/2 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (12).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Mounting with the mounting bracket:**
 
@@ -258,7 +258,7 @@ bracket when the PIR Camera is mounted with the mounting bracket.
 3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 4. Fit the PIR Camera onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/3 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (11).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;Corner mounting with the mounting bracket:
 
@@ -266,7 +266,7 @@ bracket when the PIR Camera is mounted with the mounting bracket.
 2. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 3. Fit the PIR Camera onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (8).png" alt=""><figcaption></figcaption></figure>
 
 * **Surface mounting with rotating bracket (optional item, sold separately):**
 
@@ -280,4 +280,4 @@ The rotating bracket can be mounted on the wall with the screws provided.
 2. Fit the 3 hook holes on the base to the hooks of the rotating bracket accordingly.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-<figure><img src=".gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (13).png" alt=""><figcaption></figcaption></figure>

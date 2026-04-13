@@ -4,7 +4,7 @@ DC-23 / DC-23-R3
 
 ## Door Contact&#x20;
 
-<figure><img src=".gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 The Door Contact monitors the opening/closing of specified devices (e.g. door or window). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch and causing the Door Contact to transmit an alarm signal to the Central Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
 
@@ -22,7 +22,7 @@ DC-23-R3: Door Contact cover is secured by two latches at the top and bottom
 
 Press the Test button to transmit the learning code or enter test mode for 3 min.
 
-<figure><img src=".gitbook/assets/1 (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (148).png" alt=""><figcaption></figcaption></figure>
 
 2. **Mounting Holes**
 
@@ -32,7 +32,7 @@ Used to fixed and screw the Door Contact directly onto the Door Frame or Wall.
 
 When the Door Contact is mounted, the Tamper switch will be activated when the cover is opened or when the Door Contact is removed from the mounted surface.
 
-<figure><img src=".gitbook/assets/2 (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (153).png" alt=""><figcaption></figcaption></figure>
 
 4. **Battery Insulator**
 5. **Supervision Jumper Switch (JP2)    (**_**868WF model only**_**)**
@@ -41,20 +41,20 @@ When the Door Contact is mounted, the Tamper switch will be activated when the c
 
 **Jumper On -** The jumper link is inserted, connecting the two pins
 
-![jumper ON](<.gitbook/assets/1 (21).png>) ![jumper OFF](<.gitbook/assets/2 (22).png>)
+![jumper ON](<.gitbook/assets/1 (53).png>) ![jumper OFF](<.gitbook/assets/2 (50).png>)
 
 * Jumper ON: Supervision disabled
 * Jumper OFF: Supervision enabled. **(Factory Default)**
 
 6. **Reed Switch Jumper Switch (JP3)**
 
-![jumper close](<.gitbook/assets/3 (20).png>) ![jumper open](<.gitbook/assets/4 (21).png>)
+![jumper close](<.gitbook/assets/3 (44).png>) ![jumper open](<.gitbook/assets/4 (34).png>)
 
 **Jumper On -** The jumper link is inserted, connecting the two pins
 
 **Jumper Off - T**he jumper link is removed or “**parked**” on one pin.
 
-<figure><img src=".gitbook/assets/3 (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (137).png" alt=""><figcaption></figcaption></figure>
 
 * Jumper ON: Reed Switch disabled. Only the device connected to the Extension Terminal will activate the Door Contact
 * Jumper OFF: Reed Switch enabled. **(Factory Default for all models)**
@@ -66,7 +66,7 @@ In addition to the built-in magnet switch, an additional 2-pin dry contact termi
 8. **Battery Compartment**
 9. **Magnet**
 
-<figure><img src=".gitbook/assets/4 (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (131).png" alt=""><figcaption></figcaption></figure>
 
 10. **Magnet Screw hole**
 11. **Magnet Spacer**
@@ -91,7 +91,7 @@ To connect the device to the extension terminal:
 
 **For the DC-23 model:**
 
-![](<.gitbook/assets/6 (13).jpeg>)
+![](<.gitbook/assets/6 (22).jpeg>)
 
 1. Open the Door Contact’s cover by using a screwdriver to loosen the cover fixing screw at the bottom of the Door Contact’s cover. (See picture below, from upper view angle).
 2. The upper end of the front case has a thinner plastic knockout. Break through the knockout to create a hole for the wiring connection to the extension terminal.
@@ -109,7 +109,7 @@ The Extension terminal may be useful for the following situation.
 * Any dry contact device with an N.C. (Normal Close) loop can be connected to the Extension Terminal, making the Door Contact serve as an Universal Transmitter.
 * Multiple dry contact device can be wired together with Door Contact, as show in the diagram below.
 
-![](<.gitbook/assets/8 (13).png>)
+![](<.gitbook/assets/8 (23).png>)
 
 * The extension terminal and internal magnetic switch can function together to trigger the Door Contact when either of them is activated, you can also choose to disable the internal magnetic switch through the JP3 Jumper setting. If both the extension terminal and the internal magnetic switch are in use and any of them is triggered (opened). The Door Contact will only send a Door Contact close (restore) signal when both of them are closed.
 
@@ -183,7 +183,7 @@ The magnet must align with the rib-mark side of the Door Contact. If required, a
 
 5. Installation is now complete.
 
-![](<.gitbook/assets/9 (19).png>)
+![](<.gitbook/assets/9 (29).png>)
 
 FCC Statement
 

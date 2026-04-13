@@ -4,19 +4,19 @@ VCP-LTE-SV Quick Start Guide
 
 ## Voice Emergency Call Point
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 ## **1. Package Content**
 
-![Voice Call Point                                         A power supply (DC 9V 1A SPS adaptor)                                         A Wall Mounting Bracket](<.gitbook/assets/1 (91).png>)
+![Voice Call Point                                         A power supply (DC 9V 1A SPS adaptor)                                         A Wall Mounting Bracket](<.gitbook/assets/1 (123).png>)
 
 Voice Call Point A power supply (DC 9V 1A SPS adaptor) A Wall Mounting Bracket
 
 ## **2. Identifying the Parts**
 
-<figure><img src=".gitbook/assets/10 (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (144).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (93).png" alt=""><figcaption></figcaption></figure>
 
 ## **3. Power Supply**
 
@@ -30,7 +30,7 @@ You need to switch the battery switch to ON for the battery to be charged when A
 
 **Insert SIM card**
 
-![](<.gitbook/assets/9 (70).png>)
+![](<.gitbook/assets/9 (80).png>)
 
 • It is recommended to disable the SIM card PIN code before inserting into the VCP-LTE-SV.
 
@@ -57,13 +57,13 @@ Note:
 
 **Step 4.** Connect a DC 9V 1A SPS power adapter to the DC jack of VCP-LTE-SV and keep the cable well-placed.
 
-![](<.gitbook/assets/11 (56).png>)
+![](<.gitbook/assets/11 (80).png>)
 
 **Step 5.** Fit VCP-LTE-SV onto the mounting bracket. Make sure the imprinted mark on VCP-LTE-SV is aligned with the upper mark on the bracket.
 
 **Step 6.** Rotate VCP-LTE-SV clockwise to the lock position.
 
-![                                                                    Open position                                                     Lock position](<.gitbook/assets/15 (46).png>)
+![                                                                    Open position                                                     Lock position](<.gitbook/assets/15 (54).png>)
 
 ### **Surface Placement**
 

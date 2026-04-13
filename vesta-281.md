@@ -4,7 +4,7 @@ FS-mmW-3
 
 ## Vesta Fall Sensor
 
-<figure><img src=".gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 The FS-mmW-3 is a fall detection sensor featuring mmWave Technology. Unlike classic fall detection solutions that rely on a wearable device to detect the fall itself, the mmWave fall sensor is a non-wearable device that can immediately detect a fallen person as he/she changes from a standing position to a lying position.
 
@@ -12,7 +12,7 @@ The fall sensor is designed to be installed in corners of each frequently visite
 
 ## Identifying the Parts
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.  mmWave sensor
 
@@ -108,7 +108,7 @@ On the Control Panel local’s webpage, go to the Device Edit page. Press and ho
 
 Input the mmWave configuration and click OK to confirm. Please refer to the table below for configuration details. For example, if you want to set detection mode to mode A, you can input 001A or 0016.
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 For GX/MX:
 
@@ -131,7 +131,7 @@ On the Panel Setting page, select the mode from the drop-down menu of fall senso
 * The provided mounting bracket has 4 knockouts, where the plastic is thinner and can be broken for mounting purpose.
 * To mount fall detection sensor with the mounting bracket:
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 1\)   Break through the four corner knockouts on the mounting bracket.
 
@@ -145,7 +145,7 @@ Note: Install the mounting bracket at a height of 2 meters (measured from the to
 
 4\)   Mount fall detection sensor with the hooks of the mounting bracket latched on the back cover of the fall detection sensor, and then push downwards until you hear a click sound to lock the hook.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -153,7 +153,7 @@ Note: Install the mounting bracket at a height of 2 meters (measured from the to
 
 &#x20;
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## Installation Recommendations
 
@@ -164,7 +164,7 @@ It is recommended to install the Fall Detection Sensor in the following location
 * The operating temperature is 0° to 45°C.
 * The fall detection sensor has a detection area of 5M x 5M when mounted 2m above ground.
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Limitations:
 

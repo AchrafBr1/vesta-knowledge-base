@@ -1,6 +1,6 @@
 # VESTA-351
 
-<figure><img src=".gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>HE111X +VESTA-148</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (391).png" alt=""><figcaption><p>HE111X +VESTA-148</p></figcaption></figure>
 
 ### **1. General Description**
 
@@ -30,7 +30,7 @@ The VESTA-351 is **designed to work in conjunction with the** [**VESTA-148**](ht
 | **Protection Rating**        | IP55                                               |
 | **Color Options**            | White / Brown                                      |
 
-<figure><img src=".gitbook/assets/image (264).png" alt=""><figcaption><p>Dimension</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (911).png" alt=""><figcaption><p>Dimension</p></figcaption></figure>
 
 ### **3. Typical Applications**
 
@@ -41,7 +41,7 @@ The VESTA-351 is **designed to work in conjunction with the** [**VESTA-148**](ht
 
 ### 4. Detection Range and dimension
 
-<figure><img src=".gitbook/assets/image (260).png" alt=""><figcaption><p>Detection Range</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (907).png" alt=""><figcaption><p>Detection Range</p></figcaption></figure>
 
 ***
 

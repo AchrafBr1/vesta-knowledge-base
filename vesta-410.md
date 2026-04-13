@@ -18,7 +18,7 @@ VST-892-IL-ADC2 also supports Remote configuration. Besides adjusting the Jumper
 
 The PIR Camera consists of a two-part design made up of a cover and a base. The cover contains all the electronics and optics and the base provides a means of fixing. The base has knockouts to allow the PIR camera to be mounted on a flat surface, or a triangular bracket is provided for mounting the PIR camera in a corner.
 
-## ![](<.gitbook/assets/Unknown image (269)>)Parts Identification
+## ![](<.gitbook/assets/Unknown image (393)>)Parts Identification
 
 1. Infrared LED
 
@@ -79,7 +79,7 @@ Factory default
 
 ).
 
-![](<.gitbook/assets/Unknown image (270)>) ![](<.gitbook/assets/Unknown image (271)>)
+![](<.gitbook/assets/Unknown image (394)>) ![](<.gitbook/assets/Unknown image (395)>)
 
 Jumper On
 
@@ -87,7 +87,7 @@ The jumper link is inserted,
 
 connecting the two pins
 
-![](<.gitbook/assets/Unknown image (272)>) ![](<.gitbook/assets/Unknown image (273)>)
+![](<.gitbook/assets/Unknown image (396)>) ![](<.gitbook/assets/Unknown image (397)>)
 
 Jumper Off
 
@@ -99,7 +99,7 @@ parked
 
 ” on one pin.
 
-![](<.gitbook/assets/Unknown image (274)>)
+![](<.gitbook/assets/Unknown image (398)>)
 
 ## Features
 
@@ -179,7 +179,7 @@ The PIR Camera will conduct a self-test periodically by transmitting a superviso
 
 ####
 
-![](<.gitbook/assets/Unknown image (275)>) ![](<.gitbook/assets/Unknown image (276)>)
+![](<.gitbook/assets/Unknown image (399)>) ![](<.gitbook/assets/Unknown image (400)>)
 
 ####  If the PIR Camera already exists in a Control Panel system, you will need to first remove the PIR Camera from the Control Panel before you can learn it into a different Control Panel.
 
@@ -196,7 +196,7 @@ The PIR Camera will conduct a self-test periodically by transmitting a superviso
  Follow instructions below to change PIR Camera Area in the Control Panel:
 
 1. Use the panel’s Edit Device function to change PIR Camera area setting.
-2. ![](<.gitbook/assets/Unknown image (277)>)Press and hold the Test button for 3 seconds on the PIR Camera to send a signal to the panel, and then release the button when the LED lights up.
+2. ![](<.gitbook/assets/Unknown image (401)>)Press and hold the Test button for 3 seconds on the PIR Camera to send a signal to the panel, and then release the button when the LED lights up.
 
 ###  Pet Immunity Function
 
@@ -269,17 +269,17 @@ It is recommended to install the PIR Camera in the following locations:
 
  Limitations
 
-|  | Do not install outdoors.![](<.gitbook/assets/Unknown image (278)>)                                                                                                                          |  | Avoid large obstacles in the detection area.![](<.gitbook/assets/Unknown image (279)>)                                                           |
+|  | Do not install outdoors.![](<.gitbook/assets/Unknown image (402)>)                                                                                                                          |  | Avoid large obstacles in the detection area.![](<.gitbook/assets/Unknown image (403)>)                                                           |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  | Do not expose the PIR completely to direct sunlight.![](<.gitbook/assets/Unknown image (280)>)                                                                                              |  | Avoid vapor or high humidity that can cause condensation.![](<.gitbook/assets/Unknown image (281)>)                                              |
-|  | Avoid moving objects, e.g., curtains, wall hangings, etc., in the detection area.![](<.gitbook/assets/Unknown image (282)>)                                                                 |  | Avoid reflected light from bright surfaces, e.g., mirrors, windows, etc.![](<.gitbook/assets/Unknown image (283)>)                               |
-|  | Avoid installing the PIR in areas where machines such as air conditioners or heaters may cause rapid change in temperature in the detection area.![](<.gitbook/assets/Unknown image (284)>) |  | Avoid reflecting surface in the detection area. Reflected infrared signatures may lead to false alarm.![](<.gitbook/assets/Unknown image (285)>) |
+|  | Do not expose the PIR completely to direct sunlight.![](<.gitbook/assets/Unknown image (404)>)                                                                                              |  | Avoid vapor or high humidity that can cause condensation.![](<.gitbook/assets/Unknown image (405)>)                                              |
+|  | Avoid moving objects, e.g., curtains, wall hangings, etc., in the detection area.![](<.gitbook/assets/Unknown image (406)>)                                                                 |  | Avoid reflected light from bright surfaces, e.g., mirrors, windows, etc.![](<.gitbook/assets/Unknown image (407)>)                               |
+|  | Avoid installing the PIR in areas where machines such as air conditioners or heaters may cause rapid change in temperature in the detection area.![](<.gitbook/assets/Unknown image (408)>) |  | Avoid reflecting surface in the detection area. Reflected infrared signatures may lead to false alarm.![](<.gitbook/assets/Unknown image (409)>) |
 
  Be sure to always remain the RSSI signal strength steady at “4”.
 
 
 
-![](<.gitbook/assets/Unknown image (286)>) ![](<.gitbook/assets/Unknown image (287)>)
+![](<.gitbook/assets/Unknown image (410)>) ![](<.gitbook/assets/Unknown image (411)>)
 
 VST-892-IL-ADC2 Detection Range
 
@@ -296,12 +296,12 @@ VST-892-IL-ADC2 Detection Range
 4. Screw the triangular bracket onto the wall plugs with the two pointing sticks (E) on top and facing you.
 5. Fit the PIR Camera onto the hooks of the triangular bracket.
 
-![](<.gitbook/assets/Unknown image (288)>)
+![](<.gitbook/assets/Unknown image (412)>)
 
 ####  Surface mounting
 
 1. Separate the cover and the base by loosening the bottom fixing screw with a Phillips screwdriver.
-2. ![](<.gitbook/assets/Unknown image (289)>)Break through the 2 Surface knockouts from the inside of the base.
+2. ![](<.gitbook/assets/Unknown image (413)>)Break through the 2 Surface knockouts from the inside of the base.
 3. Use the holes as a template and drill holes into the mounting surface.
 4. Insert the wall plugs if the PIR is to be fixed onto plaster or brick.
 5. Screw the base onto the wall plugs.
@@ -315,4 +315,4 @@ The rotating bracket can be mounted on the wall with the screws provided.
 2. Fit the PIR onto the 3 hooks of the rotating bracket.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-![](<.gitbook/assets/Unknown image (290)>)
+![](<.gitbook/assets/Unknown image (414)>)

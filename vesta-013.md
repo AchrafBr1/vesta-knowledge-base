@@ -27,7 +27,7 @@ The Door Contact design is consisted of a front cover and a back cover. The fron
 
 **Identifying the parts**
 
-![](<.gitbook/assets/0 (20).png>)
+![](<.gitbook/assets/0 (27).png>)
 
 1. **Rib Marks**
 2. **Battery Insulator**
@@ -75,7 +75,7 @@ In Normal operation mode, the LED indicator remains off except in the following 
 
 The MDC-3 uses one **3V CR2450 Lithium battery** as its power source
 
-![](<.gitbook/assets/1 (11).jpeg>)
+![](<.gitbook/assets/1 (21).jpeg>)
 
 The Door Contact is also capable of detecting low battery. When the battery is low, a low battery signal will be sent to the Control Panel along with regular transmission. The LED will light up when the Door Contact is activated under low battery status.
 
@@ -123,7 +123,7 @@ Step 2. Push the flat-headed screwdriver upwards as (**Pic2**).
 
 Step 3. Turn to the other side and repeat Step 1 and Step 2.
 
-| <img src=".gitbook/assets/2 (20).png" alt="" data-size="original"> | <img src=".gitbook/assets/3 (11).jpeg" alt="" data-size="original"> |
+| <img src=".gitbook/assets/2 (48).png" alt="" data-size="original"> | <img src=".gitbook/assets/3 (17).jpeg" alt="" data-size="original"> |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | (Pic 1)                                                            | (Pic 2)                                                             |
 
@@ -177,13 +177,13 @@ The magnet should be no more than **15mm** from the detector when the door is cl
 3. Remove the protective cover of the Hook side and attach to the back of the Door Contact. Press firmly for 30 seconds to ensure good contact (**Pic 6.**)
 4. Remove the protective cover of the Loop side and apply to desired mounting location as in (**Pic 7.**) Press firmly for 30 seconds to ensure good contact.
 
-<figure><img src=".gitbook/assets/1 (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (146).png" alt=""><figcaption></figcaption></figure>
 
 
 
 5. Apply the Door Contact on the Loop side Velcro taped on the wall (**Pic 8 & 9.**)
 
-<figure><img src=".gitbook/assets/2 (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (151).png" alt=""><figcaption></figcaption></figure>
 
 #### **Mounting Methods for the Magnet**
 
@@ -195,14 +195,14 @@ To mount the Magnet:
 
 1. Open the back cover by using a flat-headed screwdriver to fit into the caved in area and push upwards.
 
-| <img src=".gitbook/assets/13 (4).jpeg" alt="" data-size="original"> | <img src=".gitbook/assets/14 (4).jpeg" alt="" data-size="original"> |
+| <img src=".gitbook/assets/13 (7).jpeg" alt="" data-size="original"> | <img src=".gitbook/assets/14 (8).jpeg" alt="" data-size="original"> |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
 
 2. Using the holes as a template, drill both holes.
 3. Screw the back cover into the door/window using a Philips screwdriver. Where required, use the Magnet Spacer to better align the magnet to the rib marks.
 4. Attach the front cover to the back cover. If the front cover is stabilized onto the back cover, you should hear a Click sound.
 
-![](<.gitbook/assets/15 (11).png>)
+![](<.gitbook/assets/15 (19).png>)
 
 * **Adhesive Mounting**
 
@@ -212,7 +212,7 @@ The Magnet can also be mounted using the double-sided adhesive tape pad or the d
 2. Remove the protective covering from one side of the double-sided adhesive pad or the double-sided adhesive Magnet Spacer. Apply to the back of the Magnet and press firmly for 30 seconds to ensure good contact.
 3. Remove the other cover and firmly press the Magnet onto the desired location for 30 seconds..
 
-![](<.gitbook/assets/16 (14).png>)
+![](<.gitbook/assets/16 (22).png>)
 
 {% hint style="warning" %}
 Note:

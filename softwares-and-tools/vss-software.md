@@ -10,7 +10,7 @@ icon: desktop
 
 VSS enables the integration of multiple cameras and enhances security operations through seamless control, intelligent video analytics, and real-time system monitoring.
 
-<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption><p>VSS User Inteface</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (996).png" alt=""><figcaption><p>VSS User Inteface</p></figcaption></figure>
 
 ### Monitor. Manage. Analyze.
 

@@ -4,7 +4,7 @@ IR(P)-29 Series
 
 ## PIR Motion Sensor&#x20;
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
 The PIR detects infrared signatures to pick up movements within an assigned area and signals the Control Panel to activate the alarm if an intruder crosses its’ path of detection.
 
@@ -30,7 +30,7 @@ IRP-29SL / IRP-29SL-F1 – Pet Immune PIR sensor with lithium battery
 
 ## _**Identifying the Parts**_
 
-<figure><img src=".gitbook/assets/1 (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (145).png" alt=""><figcaption></figcaption></figure>
 
 **1. Test Button/LED indicator**
 
@@ -42,7 +42,7 @@ IRP-29SL / IRP-29SL-F1 – Pet Immune PIR sensor with lithium battery
 
 **3. Supervision Enable/Disable Jumper Switch (JP2)**
 
-![jumper open](<.gitbook/assets/1 (16).png>) ![jumper close](<.gitbook/assets/2 (16).png>)
+![jumper open](<.gitbook/assets/1 (48).png>) ![jumper close](<.gitbook/assets/2 (44).png>)
 
 **Jumper Off** if the jumper link is removed or “**parked**” on one pin.
 
@@ -123,7 +123,7 @@ When changing batteries, after removing the old batteries, press the Tamper Swit
 
 * The PIR is designed to be mounted on either a flat surface or in a corner situation with fixing screws and plugs provided.
 * The base has knockouts, where the plastic is thinner and can be broken for mounting purpose. Two knockouts are for surface fixing and four knockouts are for corner fixing as shown in the picture.
-* ![](<.gitbook/assets/3 (15).png>)
+* ![](<.gitbook/assets/3 (39).png>)
 * For corner mounting, a triangular bracket is provided to add Back Tamper Protection. The bracket also includes two knockouts to mount on the wall.
 * For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, the IR-29 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.
 
@@ -141,7 +141,7 @@ The triangular bracket can be mounted on the wall with provides screws or double
 
 **Screw Mounting**
 
-<figure><img src=".gitbook/assets/2 (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (150).png" alt=""><figcaption></figcaption></figure>
 
 1. Break through the two knockouts on the triangular bracket.
 2. Using the two holes as a template, drill holes in the surface of the corner. Insert wall plugs.
@@ -150,7 +150,7 @@ The triangular bracket can be mounted on the wall with provides screws or double
 
 **Self-adhesive Mounting**
 
-<figure><img src=".gitbook/assets/3 (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (136).png" alt=""><figcaption></figcaption></figure>
 
 1. The mounting corner should be clean, dry, and smooth. Clean the mounting corner with a suitable degreaser if needed.
 2. Two double-sided adhesive pads are attached to the triangular bracket before shipment.
@@ -160,7 +160,7 @@ The triangular bracket can be mounted on the wall with provides screws or double
 
 ### **Surface mounting:**
 
-<figure><img src=".gitbook/assets/2 (121).png" alt="" width="242"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (149).png" alt="" width="242"><figcaption></figcaption></figure>
 
 1. Remove the fixing screw and cover assembly.
 2. Break through the knockouts on the inside of the base
@@ -195,7 +195,7 @@ To take full advantage of PIR, the following guidelines should be considered:
 * **It is recommended to install the PIR in the following locations**
 * Mount the detector at 1.9M-2.0M height for best performance:
 
-![](<.gitbook/assets/6 (11).png>)
+![](<.gitbook/assets/6 (20).png>)
 
 {% hint style="info" %}
 Important NOTE
@@ -223,4 +223,4 @@ Important NOTE
 
 ### Limitation
 
-<figure><img src=".gitbook/assets/3 (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (135).png" alt=""><figcaption></figcaption></figure>

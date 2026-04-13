@@ -10,7 +10,7 @@ WEPC-1
 Note: If you use it **without battery** backup, you have to **remove the JUMPER J8**, and leave it in parked position without plugging it in.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (53) (1).png" alt=""><figcaption><p>Remove J8 when using without backup battery</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (662).png" alt=""><figcaption><p>Remove J8 when using without backup battery</p></figcaption></figure>
 
 ## **Introduction**
 
@@ -26,11 +26,11 @@ The WEPC-1 Series Programmable Output Expansion Module is designed to provide pr
 
 &#x20;                            **Front View**                                                                               **Back View**
 
-![](<.gitbook/assets/0 (27).jpeg>)
+![](<.gitbook/assets/0 (38).jpeg>)
 
 &#x20;                                                                                            **Internal View**
 
-![](<.gitbook/assets/1 (23).jpeg>)
+![](<.gitbook/assets/1 (33).jpeg>)
 
 
 
@@ -75,11 +75,11 @@ When the Expansion Module is connected as the furthest BUS device on a BUS line,
 
 * Turn the jumper to OFF by removing the jumper link or “parking” the jumper link on one pin
 
-<figure><img src=".gitbook/assets/1 (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (137).png" alt=""><figcaption></figcaption></figure>
 
 * Turn the jumper to ON by resting the jumper link on both pins
 
-<figure><img src=".gitbook/assets/2 (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (141).png" alt=""><figcaption></figcaption></figure>
 
 10. **Rechargeable Battery Pack (For WEPC-1B only)**
 11. **DC Jack**
@@ -142,11 +142,11 @@ WEPC-1 Series has two Tamper Switches; each comes with a different function.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 * The following diagram shows how WEPC-1 is connected to and powered by the Hybrid Panel.
 
-![](<.gitbook/assets/3 (18).jpeg>)
+![](<.gitbook/assets/3 (24).jpeg>)
 
 * The following is the connection of WEPC-1B to the Hybrid Panel, with WEPC-1B being powered by the external power source.
 
-![](<.gitbook/assets/4 (13).jpeg>)
+![](<.gitbook/assets/4 (21).jpeg>)
 
 {% hint style="warning" %}
 _-Be sure to bypass the red VDD terminal on the Control Panel using the provided Wago 221 Splicing Connector. Connect the VDD terminal to the next BUS device (VST-892-BUS as example) that is powered by Hybrid Panel._
@@ -200,7 +200,7 @@ To locate the Programmable Output Expansion Module in the BUS system:
 
 **Step 1.** On Hybrid Panel’s webpage, click “Identify” under the device list after the Expander’s device column entry.
 
-![](<.gitbook/assets/5 (34).png>)
+![](<.gitbook/assets/5 (45).png>)
 
 
 
@@ -231,11 +231,11 @@ Please check whether WEPC-1(B) is connected properly to the Panel within appropr
 
 &#x20;                                          **Default Setting**                          **Setting by Programming Page**
 
-![](<.gitbook/assets/6 (20).jpeg>) ![](<.gitbook/assets/7 (19).jpeg>)
+![](<.gitbook/assets/6 (29).jpeg>) ![](<.gitbook/assets/7 (26).jpeg>)
 
 ### **How to Mount the Programmable Output Expansion Module**
 
-![](<.gitbook/assets/8 (15).jpeg>)
+![](<.gitbook/assets/8 (20).jpeg>)
 
 The Programmable Output Expansion Module can be mounted on the wall as the steps below:
 

@@ -4,7 +4,7 @@
 
 ## **Shutter Control  (Zigbee)**
 
-<figure><img src=".gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1044).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -16,7 +16,7 @@ The Shutter Control utilizes ZigBee technology for wireless signal transmission.
 
 The Shutter Control serves as an end device in the ZigBee network. It can be included in the ZigBee network to transmit or receive signal, but cannot permit any other ZigBee device to join the network through the Shutter Control.
 
-![](<.gitbook/assets/0 (111).jpeg>)
+![](<.gitbook/assets/0 (122).jpeg>)
 
 The SCM-6 ZigBee Shutter Control series includes the following models:
 
@@ -119,19 +119,19 @@ The Shutter Control will transmit a supervision signal to report its condition r
 * Before wiring, please make sure the power is off. To connect the wires:
   1. Lift the lever and insert the wire. **(Picture 1, 2)**
 
-![Picture 1                                                                    Picture 2](<.gitbook/assets/2 (89).png>)
+![Picture 1                                                                    Picture 2](<.gitbook/assets/2 (117).png>)
 
 2. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
 
 
-![Picture 3                                                                                                          Picture 4](<.gitbook/assets/3 (87).png>)
+![Picture 3                                                                                                          Picture 4](<.gitbook/assets/3 (111).png>)
 
 3. In the same way as step 1 & 2, connect the other wires with connectors.
 
 * SCM-6 should be connected according to the diagram below:
 
-![](<.gitbook/assets/4 (61).jpeg>)
+![](<.gitbook/assets/4 (69).jpeg>)
 
 * Connect N terminal of SCM to the N terminal of Power Supply.
 * Connect L terminal of SCM to the L terminal of Power Supply.
@@ -204,6 +204,6 @@ may vary based on file size or distance between your accessory and coordinator.
 
 ### _**Power Relay Shutter Control with Meter Cluster ID**_
 
-<figure><img src=".gitbook/assets/10 (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (137).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (91).png" alt=""><figcaption></figcaption></figure>

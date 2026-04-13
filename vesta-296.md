@@ -4,7 +4,7 @@
 
 ## **DIN-Rail Shutter Control**
 
-<figure><img src=".gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -18,7 +18,7 @@ The Z-Wave Shutter Control allows access to the “S2 Unauthenticated” class a
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (112).jpeg>)
+![](<.gitbook/assets/0 (123).jpeg>)
 
 1. **External Antenna Port**
 2. **LED indicator**
@@ -79,7 +79,7 @@ Connect to the Open terminal of the Shutter Motor.
 
 
 
-![Wiring 1                                                                                                                Wiring 2](<.gitbook/assets/2 (90).png>)
+![Wiring 1                                                                                                                Wiring 2](<.gitbook/assets/2 (118).png>)
 
 * Connect AC Power Input L and N terminal of SCM to L and N terminal of Power Supply respectively.
 * Connect Power Output Terminal N of SCM to N terminal of the Shutter Motor.
@@ -115,7 +115,7 @@ Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inc
 * Connect power to the Shutter Control, a SmartStart inclusion request will be automatically sent to the gateway.
 * The gateway will automatically include the device upon recognition of the device by matching the inclusion request with the DSK obtained.
 
-![](<.gitbook/assets/3 (76).jpeg>)
+![](<.gitbook/assets/3 (82).jpeg>)
 
 {% hint style="warning" %}
 Note:
@@ -190,7 +190,7 @@ When a Z-Wave command is received from Z-Wave controller, it will determine the 
   1. seconds. After calibration, whenever the “Up” button is pressed, the shutter will roll up for 40 seconds.
 * **Z-Wave Command:** Besides auto calibration, users can also adjust the activation time by sending command from the Z-Wave Controller with Configuration CC command, using parameters below:
 
-<figure><img src=".gitbook/assets/10 (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (138).png" alt=""><figcaption></figcaption></figure>
 
 * Parameter Number : 0x01\~0x04
   * For parameter 1, users can set the open time (from down to up) to a value that ranges from 0 to 240 seconds.
@@ -203,7 +203,7 @@ When a Z-Wave command is received from Z-Wave controller, it will determine the 
 
 Example for Configuration Setting:
 
-<figure><img src=".gitbook/assets/11 (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (92).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -233,4 +233,4 @@ The Shutter Control’s default Current Position is set to 99% (Full Open). It i
 
 **Supported Command Class :**
 
-<figure><img src=".gitbook/assets/10 (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (139).png" alt=""><figcaption></figcaption></figure>

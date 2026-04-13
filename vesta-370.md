@@ -4,7 +4,7 @@
 
 ## **Outdoor PIR Motion Sensor Camera**&#x20;
 
-<figure><img src=".gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 VST-894 is an outdoor passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 1280 x 720 pixels) to the Control Panel upon movement detection.
 
@@ -24,7 +24,7 @@ VST-894-IL – PIR motion sensor camera with Infrared LED
 
 ## Identifying the Parts
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
 1 PIR Camera Lens&#x20;
 
@@ -77,9 +77,9 @@ The rear tamper switch is compressed when the PIR Camera is properly installed o
 
 * The LED indicator can be enabled / disabled by setting the DIP VST-894 LED Indicator IR LED Indicator Switch1 position or remotely controlled from the panel. Please refer to the _**DIP Switch Settings**_ and _**Remote Settings**_ section for details.
 
-<figure><img src=".gitbook/assets/2 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/3 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 * When disabled, the LED will not be activated except during warm-up and test mode.
 * When enabled, the LED will light up according to the detector's status. - **Warm-up:** the Red LED flashes for 60 seconds.
@@ -96,7 +96,7 @@ The rear tamper switch is compressed when the PIR Camera is properly installed o
 
 **To change the batteries:**
 
-<figure><img src=".gitbook/assets/4 (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (3).jpeg" alt=""><figcaption></figcaption></figure>
 
 **Step 1** Remove the PIR Camera from the mounting bracket.
 
@@ -157,7 +157,7 @@ To adjust the PIR Camera Settings locally, you will need to remove the cover uni
 
 1\) Remove the camera face cover.
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1).jpeg" alt=""><figcaption><p>Remove the camera face cover.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (4).jpeg" alt=""><figcaption><p>Remove the camera face cover.</p></figcaption></figure>
 
 2\) Lift the camera module from the arc side.
 
@@ -165,7 +165,7 @@ To adjust the PIR Camera Settings locally, you will need to remove the cover uni
 
 3\) Unlock the bottom lock, and remove the cover unit.
 
-<figure><img src=".gitbook/assets/6 (1) (1) (1).jpeg" alt=""><figcaption><p>Unlock the bottom lock, and remove the cover unit.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (4).jpeg" alt=""><figcaption><p>Unlock the bottom lock, and remove the cover unit.</p></figcaption></figure>
 
 #### PIR Area Direction & Camera Direction Adjustment
 
@@ -180,15 +180,15 @@ Note:
 Do not adjust the camera module when it is lifted. Adjust the camera module only when it is in normal operation position.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/8 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (5).png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/9 (1) (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/9 (6).png>)
 
 #### PIR Detection length adjustment
 
 The PIR distance limit can be adjusted in 5 levels (2.5 to 12m).
 
-![](<.gitbook/assets/10 (1) (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/10 (7).png>)
 
 #### Dip Switch Settings & PIR Sensitivity Setting
 
@@ -201,15 +201,15 @@ Note:
 Please _**DO NOT**_ change the default setting of Dip Switch 2 (N.C.).
 {% endhint %}
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (4).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### PIR Area Masking
 
 The PIR Camera is provided with a masking seal to ignore specific areas that either are not required to be secured or may cause false or nuisance alarms, such as a swaying tree in full foliage.  To mask out a specific area:
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
 
 ### Test Mode
 
@@ -219,11 +219,11 @@ In Test mode, sleep timer is disabled, and the LED indicator will turn on to ind
 
 * Close the cover unit, “TEST MODE” starts automatically.
 
-![](<.gitbook/assets/15 (1) (1).jpeg>)
+![](<.gitbook/assets/15 (3).jpeg>)
 
 * Check if the LED lights up for 2 seconds when the intended object is detected.
 
-![](<.gitbook/assets/16 (1) (1).jpeg>)
+![](<.gitbook/assets/16 (3).jpeg>)
 
 * “TEST MODE” expires 3 minutes after closing the cover unit, with IR Red LED blinking for 5 seconds.
 
@@ -295,11 +295,11 @@ For the device using a Repeater, press and hold the Test button for 3 seconds on
 
 1. Assemble the PIR Camera and tighten the flat-tailed top fixing screw.
 
-![](<.gitbook/assets/17 (1) (1).jpeg>)
+![](<.gitbook/assets/17 (3).jpeg>)
 
 2. Align the arc part of the Mylar tape to the arc part of the bottom of VST-894; apply the Mylar tape to the bottom to provide stronger hold and fixation.
 
-![](<.gitbook/assets/18 (1) (1).jpeg>)
+![](<.gitbook/assets/18 (3).jpeg>)
 
 3. Bend the Mylar tape along the rounded edge of VST-894 to the back thereof.
 
@@ -310,7 +310,7 @@ For the device using a Repeater, press and hold the Test button for 3 seconds on
 * The PIR Camera is designed to be mounted either on a flat surface or in a corner with the fixing screws and wall plugs provided.
 * The mounting bracket has knockouts, where the plastic is thinner and can be broken for mounting purpose. Three knockouts are for surface fixing and four knockouts are for corner fixing as shown in the picture.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 1. For surface fixing, use the mounting bracket as a template to drill 3 holes into the wall to be mounted. For corner fixing, drill 4 holes into the wall.
 2. Push in the wall plugs if the PIR Camera is to be mounted onto plaster or bricks.
@@ -325,15 +325,15 @@ Please make sure the PIR Camera is properly hooked to the mounting bracket, so t
 
 **Surface Mounting**
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
 
 **Corner mounting**
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
 
 5. **(Optional Step)** On the top of the PIR Camera, fit the stabilizing screw to the socket provided and screw them into the mounting bracket. Fasten the two bottom stabilizing screws at the bottom of the mounting bracket into the bottom of VST-894 to firmly secure the device to the bracket.
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation Recommendations
 
@@ -345,7 +345,7 @@ Please make sure the PIR Camera is properly hooked to the mounting bracket, so t
 * Below is the Area diagram of horizontal position D.
 * The PIR Camera has a maximum detection range of 12 meters by 90 degrees wide.
 
-<figure><img src=".gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
 **Limitations:**
 
@@ -355,16 +355,16 @@ Please make sure the PIR Camera is properly hooked to the mounting bracket, so t
 * Never attempt to disassemble or modify the unit.
 * Please install the PIR Camera straight up. Do not tilt it.
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
 
 * Do not install the motion sensor camera at places where objects such as trees and laundry are moved by the wind, which may block the motion sensor camera’s field of view.
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-<figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
 * Avoid aiming at the path of outdoor unit’s intake or exhaust airflow or exhaust airflow.
 
-<figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>

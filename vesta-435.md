@@ -15,4 +15,4 @@
 * Weight: 11 kg
 * Including 90° DC jack connector for direct connection to the VESTA central controller
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>

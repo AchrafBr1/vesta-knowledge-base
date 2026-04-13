@@ -4,7 +4,7 @@
 
 ## &#x20;**Garage Door Tilt Sensor**
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -12,7 +12,7 @@
 
 Alerts the system to inclinations from 35° to 55°
 
-![](<.gitbook/assets/1 (88).jpeg>)
+![](<.gitbook/assets/1 (98).jpeg>)
 
 **Test Button / LED Indicator**
 

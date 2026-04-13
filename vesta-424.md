@@ -14,12 +14,12 @@ This Keypad has a bidirectional audio SFV protocol to use with the panel VESTA-4
 
 ## _**Identifying the Parts**_
 
-<figure><img src=".gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1005).png" alt=""><figcaption></figcaption></figure>
 
 1. **Siren**
 2. **Speaker**
-3. **Orange LED: Home Arm Key** ![](<.gitbook/assets/2 (90).jpeg>)
-4. **Red LED 1: Away Arm Key** ![](<.gitbook/assets/3 (92).jpeg>)
+3. **Orange LED: Home Arm Key** ![](<.gitbook/assets/2 (94).jpeg>)
+4. **Red LED 1: Away Arm Key** ![](<.gitbook/assets/3 (98).jpeg>)
 5. **Panic Alarm (if enabled)**
    * Press both 1 and 3 to trigger panic alarm
 6. **NFC Tag Sensor Zone**
@@ -176,7 +176,7 @@ Alternatively, you can enable Remote keypad to enter Test and Programming Mode f
 Note: When learnt into the Panel, the keypad will be recognized as 2 separate devices and will occupy 2 zones in the Panel. Add both devices into the Panel.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1006).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4** If learning is successful, the Keypad will emit 3 high-tone beeps upon receiving acknowledgement signal from Control Panel and meanwhile the Green LED will turn off.
 
@@ -202,7 +202,7 @@ b) Out of range: The testing words will not be played back. Move the device clos
 Note: The SFV Walk Test should take precedence over the regular RF Walk Test.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1007).png" alt=""><figcaption></figcaption></figure>
 
 **Exiting Loopback Mode:** Loopback Mode can be exited in three ways:\
 a) Click **“Loopback Stop”** from the Function dropdown menu.\
@@ -219,13 +219,13 @@ When adding a new label, the keypad must be in normal operation mode.
 
 **Step 1** Go to the PIN Code page on the Control Panel webpage, input a 4-digit or 6-digit user pin code and user name for the tag, and assign the user pin code to an Area.
 
-<figure><img src=".gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1002).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2** After Keypad is successfully learnt into the panel, apply a new label to the Keypad Tag sensor zone. The Keypad will emit 4 beeps to indicate this label is new (not added to the system yet).
 
 **Step 3** Click the Load button on the PIN Code page as below. The corresponding label number will be loaded. Click Submit to save the user code setting.
 
-<figure><img src=".gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1003).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4** The label has been added. You can use the label to arm/home arm/disarm the system.
 
@@ -235,7 +235,7 @@ When adding a new label, the keypad must be in normal operation mode.
 
 **Step 2** Manually delete the label number and click Submit.
 
-<figure><img src=".gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1004).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3** The label is cleared.
 
@@ -252,7 +252,7 @@ Two-way voice communication will be established when the Remote Keypad:
 * Press the <mark style="color:$danger;">SOS</mark> Button to transmit an Emergency alarm signal to the Control Panel. The Panel will activate an alarm,  &#x20;dial the programmed alarm call recipient and establish two-way communication between the Keypad and the call  &#x20;recipient.
 * The telephone number to be called when the Remote Keypad is activated can be programmed via the Control Panel’s  &#x20;local webpage (route: System Setting > Voice Report > **Telephone**)
 
-<figure><img src=".gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1008).png" alt=""><figcaption></figcaption></figure>
 
 #### **Service Report (Non-Emergency Call)**
 
@@ -281,7 +281,7 @@ To set the phone number:
 
 * Route: Main Page > Rule > Action or Main Page > Scene > Action
 
-<figure><img src=".gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1009).png" alt=""><figcaption></figcaption></figure>
 
 2 Select the following option for each setting and enter the phone number to be called.
 
@@ -303,7 +303,7 @@ To answer incoming calls:
 2. If the phone number of an incoming call contains the programmed numerals, the Panel will pick up the call and assign the Remote Keypad to handle the two-way communication for 3 minutes (non-extendable).
 3. The call will automatically end after 3 minutes or when the caller terminates it.
 
-<figure><img src=".gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note: A Repeater does not extend the range for two-way communication.
@@ -316,7 +316,7 @@ Note: A Repeater does not extend the range for two-way communication.
 * The alarm volume and the confirmation beep volume  &#x20;for mode changes can be adjusted independently
 * Additional customization options include selecting the  &#x20;language for voice prompts and setting volume levels  &#x20;for alarms and other status notifications.
 
-<figure><img src=".gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1010).png" alt=""><figcaption></figcaption></figure>
 
 ### _**How to Set System Mode**_
 
@@ -326,8 +326,8 @@ You may choose to arm/home arm with or without a Control Panel User Code
 
 In the Test mode, pressing **＊** key and then **8** key to enable Arm/ Home without Control Panel User Code function, then exit Test mode by pressing the **#** key twice.
 
-* **Enter Arm Mode**: Press  ![](<.gitbook/assets/image (364).png>)  key. If panel has no fault and arming is successful, the Red LED will turn ON with a short beep. When successful Arm, Red LED flashes, Backlight turns on with a long beep.
-* **Enter Home Mode**: Press ![](<.gitbook/assets/image (365).png>) key. If panel has no fault and arming is successful, the Orange LED will turn ON with a short beep. When successful Home Arm, Orange LED flashes, Backlight turns on with a long beep.
+* **Enter Arm Mode**: Press  ![](<.gitbook/assets/image (1011).png>)  key. If panel has no fault and arming is successful, the Red LED will turn ON with a short beep. When successful Arm, Red LED flashes, Backlight turns on with a long beep.
+* **Enter Home Mode**: Press ![](<.gitbook/assets/image (1012).png>) key. If panel has no fault and arming is successful, the Orange LED will turn ON with a short beep. When successful Home Arm, Orange LED flashes, Backlight turns on with a long beep.
 * **Return to Disarm Mode**: Enter Control Panel User Code or put Tag on the Keypad Sensor will emit a short beep. If disarm is successful, Backlight flashes along with 2 beeps.
 
 **Arm/Home with Control Panel User Code or NFC Tag**
@@ -336,8 +336,8 @@ In the Test mode, Pressing **＊** key and then **9** key can enable Arm/ Home w
 
 **This function must be enabled for NFC tag to be used.**
 
-* **Enter Arm Mode**: Press  ![](<.gitbook/assets/image (364).png>)  key then enter Control Panel User Code (or scan the tag); the Red LED will turn ON with a short beep. When successful Arm, Red LED flashes, Backlight turns on with a long beep.
-* **Enter Home Mode**: Press ![](<.gitbook/assets/image (365).png>) key then enter Control Panel User Code (or scan the tag); the Orange LED will turn ON with a short beep. When successful Home Arm, Orange LED flashes, Backlight turns on with a long beep.
+* **Enter Arm Mode**: Press  ![](<.gitbook/assets/image (1011).png>)  key then enter Control Panel User Code (or scan the tag); the Red LED will turn ON with a short beep. When successful Arm, Red LED flashes, Backlight turns on with a long beep.
+* **Enter Home Mode**: Press ![](<.gitbook/assets/image (1012).png>) key then enter Control Panel User Code (or scan the tag); the Orange LED will turn ON with a short beep. When successful Home Arm, Orange LED flashes, Backlight turns on with a long beep.
 * **Return to Disarm Mode**: Enter Control Panel User Code or put Tag on the Keypad Sensor will emit a short beep. If disarm is successful, Backlight flashes along with 2 beeps.
 
 If disarm is successful, Backlight flashes along with 2 beeps.

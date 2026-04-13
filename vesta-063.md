@@ -24,7 +24,7 @@ TECH SPECIFICATION
 
 ### PART IDENTIFICATION
 
-<figure><img src=".gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
 
 1. 3-10V power supply
 2. Alarm terminal block (AL-NC, AL-NO, AL-C)
@@ -44,7 +44,7 @@ INSTALLATION
 
 <table><thead><tr><th width="78"></th><th></th></tr></thead><tbody><tr><td>DIP 1</td><td>ON: Low battery warning. Yellow LED flashes every 2 seconds if battery is low</td></tr><tr><td>DIP 2</td><td>Inhibition duration. ON long inhibition (6 minutes) otherwise 3 minutes</td></tr><tr><td>DIP 3</td><td>ON: Alarm signal in stand-by. The red LED lights up in case of detection even if the sensor is low consumption</td></tr><tr><td>DIP 4</td><td>ON: Test mode. If the dip is ON -> always in test (no inhibition, LEDs active), if OFF after 3 minutes it exits the test mode</td></tr></tbody></table>
 
-<figure><img src=".gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
 
 #### Range test in test mode
 

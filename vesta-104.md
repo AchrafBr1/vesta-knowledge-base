@@ -4,7 +4,7 @@
 
 ## **Thermostat**
 
-<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -16,7 +16,7 @@ TMST-15ZW is a battery powered thermostat. It is designed to be incorporated int
 
 The LCD displays the following information:
 
-![](<.gitbook/assets/1 (32).png>)
+![](<.gitbook/assets/1 (64).png>)
 
 A. Heat mode Icon: When displayed, the Thermostat is under Heat mode.
 
@@ -40,7 +40,7 @@ G. Temperature Reading / Setpoint
 
 \- Press and hold for 3 seconds to enter programming mode.
 
-<figure><img src=".gitbook/assets/1 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>
 
 **3. Up (+) Button**
 
@@ -48,17 +48,17 @@ G. Temperature Reading / Setpoint
 
 \- Press 3 times within 1.5 seconds to transmit learning code, and “Joi NET” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/2 (36).png>)
+![](<.gitbook/assets/2 (64).png>)
 
 **4. Wall Mounting Hole**
 
-<figure><img src=".gitbook/assets/2 (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (20).png" alt=""><figcaption></figcaption></figure>
 
 **5. Battery Compartment**
 
 Insert 2 AA Alkaline batteries.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (16).png" alt=""><figcaption></figcaption></figure>
 
 **6. Relay Terminals (Remove Relay Cover to Access)**
 
@@ -66,7 +66,7 @@ Insert 2 AA Alkaline batteries.
 
 Connect to home heating/cooling system.
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (10).png" alt=""><figcaption></figcaption></figure>
 
 ## **Features**
 
@@ -78,7 +78,7 @@ The Thermostat uses 2 AA Alkaline batteries as its power source. The Sensor will
 
 The Thermostat control home heating/cooling system through relay control. Open and flip over the back cover, remove the internal cover on the relay to reveal the terminals for wiring. When wiring the Thermostat, wire the cable through the central opening on the back cover.
 
-![](<.gitbook/assets/3 (15).jpeg>)
+![](<.gitbook/assets/3 (21).jpeg>)
 
 ### _**Mode Control**_
 
@@ -150,13 +150,13 @@ Offset. You can press either UP (+) or Down (-) button to switch modes.
 
 In this mode, “Pro Mod” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/4 (33).png>)
+![](<.gitbook/assets/4 (46).png>)
 
 Heating/Cooling modes are available for selection. Press UP (+) button to select Heating and Down (-) button to select Cooling.
 
 Heating Cooling
 
-![](<.gitbook/assets/5 (28).png>)
+![](<.gitbook/assets/5 (39).png>)
 
 After finishing selection, wait for a few seconds for the Thermostat to quit setting mode automatically. The Thermostat will enter the mode last selected.
 
@@ -166,18 +166,18 @@ In this mode, “Pro RM” will be displayed on the LCD screen.
 
 The Remote Mode allows you to control remote relay via the Control Panel when function enabled. The Thermostat will not control the local relay in Remote Mode.
 
-![](<.gitbook/assets/6 (21).png>)
+![](<.gitbook/assets/6 (30).png>)
 
 * If remote mode is disabled, “dS RM” will be displayed on the LCD screen.
 * If remote mode is enabled, “En RM” will be displayed on the LCD screen.
 
-![](<.gitbook/assets/7 (18).png>)
+![](<.gitbook/assets/7 (28).png>)
 
 ### **Setpoint Offset:**
 
 In this mode, “Pro OFS” will be displayed on the LCD screen. Setpoint Offset function allows you to compensate the deviation. To calculate setpoint offset, simply subtract room temperature with device temperature. When under local mode, press and hold Down (-) button for 3 seconds to enter programming mode. After finishing selection, wait for a few seconds for the Thermostat to enter mode selection.
 
-![](<.gitbook/assets/8 (18).png>)
+![](<.gitbook/assets/8 (28).png>)
 
 For example: If device temperature is 20°C and room temperature is 18°C, then setpoint offset = 18 – 20 = -2°C.
 

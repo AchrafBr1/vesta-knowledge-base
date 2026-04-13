@@ -4,7 +4,7 @@
 
 ## **IR Thermostat IR2900**
 
-![](<.gitbook/assets/1 (138).png>)
+![](<.gitbook/assets/1 (170).png>)
 
 ### Quickstart.
 
@@ -35,11 +35,11 @@ Long press UP + POWER + DOWN synchronously for 3 sec, it displays “333” then
 
 1. Separate the device into two parts: the front panel and the mounting plate.
 
-![](<.gitbook/assets/2 (93).jpeg>)
+![](<.gitbook/assets/2 (97).jpeg>)
 
 2. Put SV adapter into the junction box, and insert the wire into the SV terminal by following the wiring diagram as below.
 
-![](<.gitbook/assets/3 (95).jpeg>)
+![](<.gitbook/assets/3 (101).jpeg>)
 
 3. Secure the bottom part onto a junction box with screws, and then mount the front panel back.
 4. Confirm the device is well mounted, powered on, and it is ready to operate.
@@ -114,7 +114,7 @@ Devices can also be removed from a network. This process is called **Exclusion**
 
 #### Product Usage
 
-![](<.gitbook/assets/4 (78).jpeg>)
+![](<.gitbook/assets/4 (86).jpeg>)
 
 ### On/Off Setting
 
@@ -188,7 +188,7 @@ Z-Wave devices control other Z-Wave devices. The relationship between one device
 
 Group NumberMaximum NodesDescription
 
-<figure><img src=".gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (952).png" alt=""><figcaption></figcaption></figure>
 
 #### Configuration Parameters
 

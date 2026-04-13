@@ -4,7 +4,7 @@
 
 ## BUS **Auxiliary Power Supply Module with box**
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -16,7 +16,7 @@ The PWB-1-BUS is an auxiliary power supply module that can be connected in the d
 
 
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (591).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
 
 1. BUS Connection Terminals to the **Hybrid Pane**l (4 wire: <mark style="color:red;">**V**</mark>, G, A, B) It is also important to connect the positive of the VESTA control panel to the VESTA-364N.
 2. BUS Connection Terminals to powered BUS device (4 wire: V, G, A, B)
@@ -31,7 +31,7 @@ This drawing is deprecated and applies only to the old **VESTA-364** power suppl
 
 **Identifying the Parts**
 
-<img src=".gitbook/assets/0 (5).jpeg" alt="" data-size="original">
+<img src=".gitbook/assets/0 (16).jpeg" alt="" data-size="original">
 
 1. **BUS Connection Terminals to powered BUS device** (4 wire: V, G, A, B)
 2. **BUS Connection Terminals to powered BUS device** (4 wire: V, G, A, B)
@@ -64,11 +64,11 @@ You can set he power supply module’s Terminal Resistor Jumper and the Hybrid P
 
 If communication with the Panel is tested OK, you can start connecting the PWB-1-BUS to the powered devices. Then please set the power supply module’s Terminal Resistor Jumper to off, and set the Terminal Resistor Jumper of the farthest device in the BUS line to ON instead.
 
-![](<.gitbook/assets/1 (7).jpeg>)
+![](<.gitbook/assets/1 (17).jpeg>)
 
 If the jumper is OFF (the jumper link is removed or “parked” on one pin), the communication ability is in normal level.
 
-![](<.gitbook/assets/2 (6).jpeg>)
+![](<.gitbook/assets/2 (10).jpeg>)
 
 If the jumper is ON (the jumper link rests on both pins), the communication ability is enhanced.
 
@@ -133,14 +133,14 @@ Please refer to the BUS device connection examples (VST-892-BUS & DC-23-BUS) bel
 It is very **important** in the **VESTA-364N power supply to connect** the <mark style="color:red;">**positive**</mark> input to the **hybrid control panel**, this will allow greater control over the power supply.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (537).png" alt=""><figcaption><p>VESTA-364N</p></figcaption></figure>
 
 {% hint style="warning" %}
 **DEPRECATED**&#x20;
 
 Only VESTA-364
 
-<img src=".gitbook/assets/3 (6).jpeg" alt="" data-size="original">
+<img src=".gitbook/assets/3 (12).jpeg" alt="" data-size="original">
 {% endhint %}
 
 
@@ -173,7 +173,7 @@ The “**Identify**” function is used to localize a specific BUS device in the
 
 To locate PWB-1-BUS in the BUS system:
 
-![](<.gitbook/assets/4 (9).png>)
+![](<.gitbook/assets/4 (22).png>)
 
 **Step 1.** On Hybrid Panel’s webpage, click “Identify” under the device list after PWB’s device column entry.
 
@@ -195,7 +195,7 @@ Please check whether PWB-1-BUS is connected properly to the Panel within appropr
 
 * After being learnt into the Control Panel, the Power Supply module will automatically transmit power consumption data, including battery level, BUS voltage, and BUS current to the Control Panel every 30-50 minutes.
 
-![](<.gitbook/assets/5 (11).png>)
+![](<.gitbook/assets/5 (22).png>)
 
 
 
@@ -207,19 +207,19 @@ When battery level is 0%, it indicates one of the follow situations: battery dis
 
 User can also manually query the power consumption data on **Device Edit** page.
 
-![](<.gitbook/assets/6 (9).png>)
+![](<.gitbook/assets/6 (18).png>)
 
 **Mounting the PWB-1-BUS in the enclosure (AWO300)**
 
 * Locate the **standoff locations on the enclosure AWO300** (○1 – A, B, C, D), and the **mounting holes on the PWB-1-BUS** (○2 – A, B, C, D).
 
-![](<.gitbook/assets/7 (10).png>)
+![](<.gitbook/assets/7 (20).png>)
 
 4
 
 * Use the provided standoffs to securely mount the PWB-1-BUS in the enclosure.
 
-![](<.gitbook/assets/8 (9).png>)
+![](<.gitbook/assets/8 (19).png>)
 
 * After all wiring is completed, install the backup battery. Battery options include: A 12V 7.0Ah or 12V 17.2Ah Sealed Lead-acid battery.
 
@@ -232,6 +232,6 @@ To Install the battery, follow the steps below:
 * Connect the enclosure door tamper switch to the tamper terminal.
 * Connect the power terminal to 20Vac 50Hz/60Hz, 4A (80VA) power supply. Slide the battery switch to ON.
 
-![](<.gitbook/assets/9 (11).png>)
+![](<.gitbook/assets/9 (21).png>)
 
 5

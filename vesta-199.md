@@ -4,7 +4,7 @@
 
 ## **Door Contact**
 
-<figure><img src=".gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1059).png" alt=""><figcaption></figcaption></figure>
 
 The Door Contact monitors the opening/closing of specified devices (e.g. door or window). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch causing the Door Contact to transmit alarm signal to the Control Panel. The device also has the capabilities of communicating signal problems along with low battery situations.
 
@@ -28,7 +28,7 @@ The Door Contact design is consisted of a cover and base. The cover contains all
 
 ## _**Identifying the parts**_
 
-![](<.gitbook/assets/1 (71).png>)
+![](<.gitbook/assets/1 (103).png>)
 
 1. **LED Indicator**
 2. **Learn / Test Button**
@@ -41,11 +41,11 @@ The Door Contact design is consisted of a cover and base. The cover contains all
 
 **Jumper On:** The jumper link is inserted&#x20;
 
-![](<.gitbook/assets/2 (70).jpeg>)
+![](<.gitbook/assets/2 (74).jpeg>)
 
 **Jumper Off:** the jumper link is removed or “**parked**” on one pin
 
-![](<.gitbook/assets/3 (66).jpeg>)
+![](<.gitbook/assets/3 (72).jpeg>)
 
 ~~-~~ When the jumper is set as ON, the Supervision is disabled. **(Factory default for 433AM)**
 
@@ -147,7 +147,7 @@ The two white caps provided can be inserted into the magnet screw holes for aest
 
 There are two ways to mount the Door Contact: Self-adhesive mounting or Screw mounting.
 
-![](<.gitbook/assets/15 (19).jpeg>)
+![](<.gitbook/assets/15 (23).jpeg>)
 
 * **Self-adhesive Mounting**
 
@@ -171,7 +171,7 @@ The Base has two knockouts, where the plastic is thinner, for mounting purpose. 
 
 1. Remove the cover by unscrewing the Cover Securing Screw using a Philips screwdriver.
 
-![](<.gitbook/assets/17 (18).jpeg>)
+![](<.gitbook/assets/17 (24).jpeg>)
 
 2. Break through the knockout on the base.
 3. Using the holes as a template, drill both holes.

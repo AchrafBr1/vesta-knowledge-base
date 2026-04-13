@@ -4,19 +4,19 @@ description: OUTDOOR SOLAR POWER SUPPLY SYSTEM
 
 # VESTA-442
 
-<figure><img src=".gitbook/assets/image (254).png" alt="" width="450"><figcaption><p>VESTA-442</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (901).png" alt="" width="450"><figcaption><p>VESTA-442</p></figcaption></figure>
 
 #### 1. Solar Power System Product List
 
 With efficient Mono solar panel and high-capacity LifePO4 battery, VESTA solar power supply system delivers constant power to outdoor equipment such as network bridges and cameras. Perfect for areas where network and power deployment is tough, it eradicates wiring hassles and cuts investment costs.
 
-<figure><img src=".gitbook/assets/image (240).png" alt=""><figcaption><p>Solar Power System Product List</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (887).png" alt=""><figcaption><p>Solar Power System Product List</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (241).png" alt=""><figcaption><p>Features</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (888).png" alt=""><figcaption><p>Features</p></figcaption></figure>
 
 ***
 
-<figure><img src=".gitbook/assets/image (242).png" alt=""><figcaption><p>Packing list</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (889).png" alt=""><figcaption><p>Packing list</p></figcaption></figure>
 
 #### 2. Packing list
 
@@ -44,27 +44,27 @@ Solar panels need to face towards the sun to avoid shading by houses or trees.
 
 * Find the round tube support and fix it to the screw holes of the I-frame/U-shaped frame of the solar panel with four square screws.
 
-<figure><img src=".gitbook/assets/image (243).png" alt=""><figcaption><p>1</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (890).png" alt=""><figcaption><p>1</p></figcaption></figure>
 
 * **Pole installation:** Insert the two straps respectively into the upper and lower holes at the bottom of the battery bin (note: the upper and lower holes are 4), find the fixed position of the pole, tighten the arms and fix them firmly.
 
-<figure><img src=".gitbook/assets/image (244).png" alt=""><figcaption><p>2</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (891).png" alt=""><figcaption><p>2</p></figcaption></figure>
 
 * **Wall hanging installation:** Use a marker to find four holes on the wall, drill holes with an electric drill, and secure them with expansion bolts (two on each side).
 
-<figure><img src=".gitbook/assets/image (247).png" alt=""><figcaption><p>3</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (894).png" alt=""><figcaption><p>3</p></figcaption></figure>
 
 * **Install solar panels:** After the battery compartment is fixed, install the solar panels equipped with the round tube bracket, and find a good angle in the way of docking installation (note: the orientation of the battery compartment panel and solar panels must be the sunny side — due south/south to east/south to west; north installation is invalid), and fix it with 3 aircraft screws.
 
-<figure><img src=".gitbook/assets/image (248).png" alt=""><figcaption><p>4</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (895).png" alt=""><figcaption><p>4</p></figcaption></figure>
 
 ***
 
 #### 4. Panel operation
 
-<figure><img src=".gitbook/assets/image (250).png" alt="" width="375"><figcaption><p>Panel operation</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (897).png" alt="" width="375"><figcaption><p>Panel operation</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (251).png" alt=""><figcaption><p>Pilot lamp </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (898).png" alt=""><figcaption><p>Pilot lamp </p></figcaption></figure>
 
 ***
 

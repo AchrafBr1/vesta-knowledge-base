@@ -4,7 +4,7 @@
 
 ## **ZigBee Relay Toggle Switch**&#x20;
 
-<figure><img src=".gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1046).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -18,7 +18,7 @@ Models with router function also serve as a router in the ZigBee network. After 
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (79).jpeg>)
+![](<.gitbook/assets/0 (90).jpeg>)
 
 1.  **LED indicator**
 
@@ -59,14 +59,14 @@ Press the button to open the clipper for each terminal and connect wiring. Relea
 
 
 
-## **Installation Environment** <img src=".gitbook/assets/image (190).png" alt="" data-size="line">
+## **Installation Environment** <img src=".gitbook/assets/image (837).png" alt="" data-size="line">
 
 The Relay Controller should be installed indoors in a dry location.
 
 * It is recommended to install the device in a fire resistant plastic gangbox.
 * Do not install the device in a metal gangbox for optimization of RF range.
 
-## **Caution** <img src=".gitbook/assets/image (191).png" alt="" data-size="line">
+## **Caution** <img src=".gitbook/assets/image (838).png" alt="" data-size="line">
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * To prevent electrical shock and/or equipment damage, disconnect electrical power at the main fuse or circuit breaker before installation and maintenance.
@@ -74,7 +74,7 @@ The Relay Controller should be installed indoors in a dry location.
 
 ## **Installation**
 
-![](<.gitbook/assets/3 (57).jpeg>)
+![](<.gitbook/assets/3 (63).jpeg>)
 
 The insertion holes’ wiring specification is AWG 16-26 or Ø 1.31-0.129 (mm²).
 
@@ -130,20 +130,20 @@ After the Relay toggle Switch has successfully joined a ZigBee network, the coor
 
 ### _**Relay Cluster ID**_
 
-<figure><img src=".gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (839).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of Basic Cluster Information
 
-<figure><img src=".gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (840).png" alt=""><figcaption></figcaption></figure>
 
 ### Attribute of Identify Cluster Information
 
-<figure><img src=".gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (841).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of On/Off Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (842).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attributes of the Groups cluster Information**_
 
-<figure><img src=".gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (843).png" alt=""><figcaption></figcaption></figure>

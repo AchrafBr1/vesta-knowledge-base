@@ -2,7 +2,7 @@
 
 EMD-1ZW
 
-<figure><img src=".gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1133).png" alt=""><figcaption></figcaption></figure>
 
 ## Specification:
 
@@ -27,7 +27,7 @@ Z-Wave is a wireless communication protocol that uses a low-power RF radio. By t
 
 ### Parts Identification
 
-<figure><img src=".gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1130).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. LED indicator
 
@@ -120,11 +120,11 @@ A washer with double-side adhesive tape is provided to connect the LED sensor to
 
 1. Locate the LED pulse output port on the watt hour meter, remove the double-side adhesive tape cover on the washer and apply the washer around the LED port.
 
-<figure><img src=".gitbook/assets/image (463).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1131).png" alt=""><figcaption></figcaption></figure>
 
 2. The LED sensor head has a built-in magnet. Apply the LED sensor head to the washer to attach the sensor to   &#x20;LED port for reading LED pulse from watt hour meter.
 
-<figure><img src=".gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1132).png" alt=""><figcaption></figcaption></figure>
 
 #### Wall Mounting
 

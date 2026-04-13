@@ -4,7 +4,7 @@ GPT-3-FS
 
 ## Emergency button and Geo transmitter&#x20;
 
-<figure><img src=".gitbook/assets/image (57) (1).png" alt="" width="375"><figcaption><p>VESTA-196</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (666).png" alt="" width="375"><figcaption><p>VESTA-196</p></figcaption></figure>
 
 VESTA-196  is a Geo transmitter that can work with the Receiver to provide alerts when resident moves inside/outside the pre-set location. The Geo transmitter also allows user to raise an alarm in an emergency by pressing the help button. GPT-3-FS is worn as a necklace.
 
@@ -21,7 +21,7 @@ VESTA-196  is a Geo transmitter that can work with the Receiver to provide alert
   * Step 3. Please refer to the operation manual of your Control Panel to complete the learning process.
 * _**Geo Tracking**_
 
-![](<.gitbook/assets/1 (81).jpeg>)
+![](<.gitbook/assets/1 (91).jpeg>)
 
 The geo transmitter transmits beacon signal to the Receiver upon movement detection. If the user keeps moving, the geo transmitter will keep sending beacon signals to the Receiver.
 

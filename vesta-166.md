@@ -4,7 +4,7 @@
 
 ## **Shutter Control**
 
-<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 ### **Introduction**
 
@@ -16,7 +16,7 @@ The Shutter Control is compatible only with Z-Wave Gateway/Control Panel. Z-Wave
 
 ### **Parts Identification**
 
-![](<.gitbook/assets/0 (68).jpeg>)
+![](<.gitbook/assets/0 (79).jpeg>)
 
 1. **Function Button**
    * Press the button 3 times within 1.5 seconds to include or exclude the device from Z-Wave network.
@@ -50,7 +50,7 @@ The Shutter Control is compatible only with Z-Wave Gateway/Control Panel. Z-Wave
 * Supported Load Current: 1/2 HP (Horse power); 3.6Amps for motors with compensated power factor (inductive loads)
 
 {% hint style="info" %}
-_**Caution**_ <img src=".gitbook/assets/1 (63).jpeg" alt="" data-size="line">
+_**Caution**_ <img src=".gitbook/assets/1 (73).jpeg" alt="" data-size="line">
 
 * All works on the device, including installation and maintenance, must be performed by a qualified and licensed electrician.
 * Before installation or any maintenance work, ensure to disconnect the power supply.
@@ -99,7 +99,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
 * Please use the recommended wire size of AWG 14-22 or Ø 2.08-0.326 (mm²). Connect the SCM according to the diagram below:
 
-![](<.gitbook/assets/2 (53).jpeg>)
+![](<.gitbook/assets/2 (57).jpeg>)
 
 * Connect L terminal of SCM to the L terminal of Power Supply.
 * Connect N terminal of SCM to the N terminal of Power Supply.
@@ -109,7 +109,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 * Insert each wire into the terminal that it should be connected to, tighten each screw to close the clippers and hold the wires in place.
 * After the wires are connected, use the wiring buckle to manage the wires, and place the wiring buckle on the base with its gap (opening) positioned on the left.
 
-![](<.gitbook/assets/3 (51).jpeg>)
+![](<.gitbook/assets/3 (57).jpeg>)
 
 ### **Operation**
 
@@ -148,7 +148,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
   * If it takes the shutter 40 seconds to move from “Down” to “Up” position, its new open time will be 40 seconds. After calibration, whenever the “Up” button is pressed, the shutter will roll up for 40 seconds.
   * **Z-Wave Command:** Besides manual calibration, users can also adjust the activation time by sending command from the Z-Wave Controller with Configuration CC command, using parameters below:
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (16).png" alt=""><figcaption></figcaption></figure>
 
 * Parameter Number : 0x01\~0x03
   * For parameter 1, users can set the open time (from down to up) to a value that ranges from 0 to 255 seconds.
@@ -160,7 +160,7 @@ To test whether the device is able to communicate with the Z-Wave gateway or con
 
     Example for Configuration Setting:
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (19).png" alt=""><figcaption></figcaption></figure>
 
 SWITCH\_MULTILEVEL\_SET: 0x00 (0%)
 

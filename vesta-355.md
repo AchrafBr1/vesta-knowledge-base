@@ -4,7 +4,7 @@
 
 ## **BUS Wired PIR Motion Sensor Camera**
 
-<figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -26,7 +26,7 @@ VST-892-IL-BUS – Wired PIR motion sensor camera with Infrared LED
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/0 (12).jpeg>)
 
 **1. Flash LED/Infrared LED**
 
@@ -50,7 +50,7 @@ The digital proximity detector is used to detect any masking (blocking) attempt 
 5. **PIR Camera Lens**
 6. **BUS Terminal**
 
-![](<.gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/1 (11).jpeg>)
 
 Hardwire the four terminals (VCC, GND, A, B) to the BUS Terminal on the Control Panel. Please refer to _**PIR Camera Wiring**_ section for details.
 
@@ -68,7 +68,7 @@ When the PIR Camera is connected as the furthest BUS device on a BUS line, pleas
 8. **Tamper Switch**
 9. **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
-<figure><img src=".gitbook/assets/10 (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (148).png" alt=""><figcaption></figcaption></figure>
 
 **Jumper On:** The jumper link is inserted, connecting the two pins.
 
@@ -136,7 +136,7 @@ The PIR Camera will conduct a self-test periodically by transmitting a superviso
   * Before connection, make sure the Panel power supply has been disconnected, and the panel battery switch has been slid to OFF position.
   * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-<figure><img src=".gitbook/assets/10 (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (140).png" alt=""><figcaption></figcaption></figure>
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel. For optimal communication of the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
@@ -150,7 +150,7 @@ Note:
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 * There are eight Breakaway Area Options on the back cover and the battery cover for the wires to exit by detaching any one of them.
 
-![](<.gitbook/assets/20 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/20 (4).jpeg>)
 
 * _**Learning**_
 
@@ -172,7 +172,7 @@ The “Identify” function is used to localize a specific BUS device in the BUS
 
 To locate the PIR Camera in the BUS system:
 
-<figure><img src=".gitbook/assets/10 (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (149).png" alt=""><figcaption></figcaption></figure>
 
 **Step 1.** On Hybrid Panel’s webpage, click “Identify” under the device list after the IR Camera’s device column entry.
 
@@ -243,13 +243,13 @@ Please refer to the table below for configuration details. For example, if you w
 * At a position where its field of view will not be obstructed by, e.g., curtains, ornaments, etc.
 * **Limitations**
 
-<figure><img src=".gitbook/assets/10 (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (150).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (95).png" alt=""><figcaption></figcaption></figure>
 
 Be sure to always remain the RSSI signal stregth steady at "4".
 
-<figure><img src=".gitbook/assets/10 (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (151).png" alt=""><figcaption></figcaption></figure>
 
 ## Mounting the PIR Camera
 
@@ -261,7 +261,7 @@ Be sure to always remain the RSSI signal stregth steady at "4".
   range of detection. With the rotating bracket, the VST-892-BUS can be rotated 80  \
   degrees horizontally and 70 degrees vertically to provide optimal coverage.
 
-<figure><img src=".gitbook/assets/10 (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (152).png" alt=""><figcaption></figcaption></figure>
 
 ### Surface mounting whitout the mounting bracket:
 
@@ -272,7 +272,7 @@ Be sure to always remain the RSSI signal stregth steady at "4".
 5. Screw the base onto the wall plugs.
 6. Re-place the cover onto the base and tighten the bottom fixing screw.
 
-<figure><img src=".gitbook/assets/10 (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (153).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Mounting with the mounting bracket:**
 
@@ -281,7 +281,7 @@ Be sure to always remain the RSSI signal stregth steady at "4".
 3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 4. Hook the PIR Camera onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/10 (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (154).png" alt=""><figcaption></figcaption></figure>
 
 ### **Corner mounting with the mounting bracket:**
 
@@ -290,7 +290,7 @@ Be sure to always remain the RSSI signal stregth steady at "4".
 3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 4. Hook the PIR Camera onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/10 (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (155).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface mounting with rotating bracket (optional item, sold separately):**
 
@@ -300,4 +300,4 @@ The rotating bracket can be mounted on the wall with the screws provided.
 2. Hook the PIR Camera onto the rotating bracket accordingly.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-<figure><img src=".gitbook/assets/10 (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (156).png" alt=""><figcaption></figcaption></figure>

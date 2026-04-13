@@ -4,13 +4,13 @@
 
 ## **Slim Door Contact**
 
-<figure><img src=".gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
 The Slim Door Contact monitors the opening/closing of specified devices (e.g., doors or windows). The Door Contact is fixed to the monitored device frame with an actuating magnet fixed to the device. When the door or window opens, the magnet moves away from the Door Contact, activating an internal magnetic switch and causing the Door Contact to transmit an alarm signal to the Control Panel. The Door Contact also has the capability of communicating signal problems along with low battery situations.
 
 ## **Identifying the parts**
 
-![](<.gitbook/assets/0 (55).jpeg>)
+![](<.gitbook/assets/0 (66).jpeg>)
 
 1. **LED Indicator**
 2. **Learn/Test Button**
@@ -82,7 +82,7 @@ the desired location, and press the Learn/Test button to confirm if this locatio
 
 **Step 2:** <mark style="background-color:blue;">Remove the tape liner from the adhesive tape on the back of the Door Contact.</mark>
 
-<div align="left"><figure><img src=".gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (709).png" alt=""><figcaption></figcaption></figure></div>
 
 **Step 3:** Apply the Door Contact to the mounting surface (i.e., the door frame or window frame) <mark style="background-color:blue;">and press firmly for 30 seconds to ensure good adhesion.</mark>
 
@@ -98,7 +98,7 @@ Note:
 <mark style="background-color:blue;">The 3M adhesive tape cannot be reused.</mark>
 {% endhint %}
 
-<div align="left"><figure><img src=".gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure></div>
 
 * _**Magnet Scope Positioning**_
   * The area near the Learn/Test Button of the Door Contact is the main **magnet detection area.**
@@ -107,5 +107,5 @@ Note:
   * The magnet should be positioned corresponding to the magnet detection area as the pictures below.
   * When installing within a door / window slot (similar as the image above), the gap between the window and window frame should be greater than **5mm**, or the window cannot be properly closed.
 
-![](<.gitbook/assets/12 (16).jpeg>)
+![](<.gitbook/assets/12 (19).jpeg>)
 

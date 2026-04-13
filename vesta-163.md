@@ -4,7 +4,7 @@
 
 ## **Z-Wave Power Relay Switch**
 
-<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -18,7 +18,7 @@ PRS5-P5-ZW also serves as a router in the Z-Wave network. After being included i
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (67).jpeg>)
+![](<.gitbook/assets/0 (78).jpeg>)
 
 **1. LED indicator**
 
@@ -64,17 +64,17 @@ The LED indicator is used to indicate Power Relay Switch status:
 
 1. Lift the lever and insert the brown wire. **(Picture 1, 2)**
 
-![Picture1                                                                                                                                 Picture 2](<.gitbook/assets/1 (63).png>)
+![Picture1                                                                                                                                 Picture 2](<.gitbook/assets/1 (95).png>)
 
 
 
 2. Push the lever back down. The transparent housing allows you to check if the wire is connected properly. Make sure the wire is held in place tightly and won't come off. **(Picture 3, 4)**
 
-![Picture3                                                                                                                                                    Picture 4](<.gitbook/assets/2 (67).png>)
+![Picture3                                                                                                                                                    Picture 4](<.gitbook/assets/2 (95).png>)
 
 3\) In the same way as step 1 & 2, insert into another pole the wire for connecting to&#x20;AC Line Power Input. (Picture 5)
 
-![Picture 5](<.gitbook/assets/3 (50).jpeg>)
+![Picture 5](<.gitbook/assets/3 (56).jpeg>)
 
 
 
@@ -82,7 +82,7 @@ The LED indicator is used to indicate Power Relay Switch status:
 
 Please be noted that the blue wire must be connected to a 3-wire connector and then connected to AC Neural Power Input and AC Neutral Power Load Output. **(Picture 6)**
 
-![Picture 6](<.gitbook/assets/4 (67).png>)
+![Picture 6](<.gitbook/assets/4 (80).png>)
 
 
 
@@ -138,7 +138,7 @@ After joining the Z-Wave network, the Power Relay Switch can bind itself with a 
 3. If binding is successful, the Power Relay Switch LED indicator will flash 3 times to confirm. You can now use the controller to adjust power output level for the Power Relay Switch.
 4. If binding is unsuccessful, the Power Relay Switch LED indicator will flash 5 times. Please retry the binding process.
 
-![](<.gitbook/assets/5 (34).jpeg>)
+![](<.gitbook/assets/5 (43).jpeg>)
 
 ## **Operation**
 

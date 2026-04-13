@@ -4,7 +4,7 @@ ELSR-35
 
 ## **Emergency Light and Siren**
 
-<figure><img src=".gitbook/assets/image (127).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/it/product/VESTA-218/">VESTA-218</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (774).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/it/product/VESTA-218/">VESTA-218</a></p></figcaption></figure>
 
 ## **Introduction**
 
@@ -12,7 +12,7 @@ The ELSR-35 is battery-operated emergency light and siren that emits audible ale
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (98).jpeg>)
+![](<.gitbook/assets/0 (109).jpeg>)
 
 1. **LED 1**
 2. **LED 2**
@@ -98,7 +98,7 @@ The tamper switch is secured with a button at the back of the base. When the dev
 5. Replace the top cover from top of the base and push downwards (as shown in picture on the right). Tighten the bottom screws using a Philips screwdriver.
 6. The installation is now completed.
 
-![](<.gitbook/assets/9 (59).png>)
+![](<.gitbook/assets/9 (69).png>)
 
 ## **Factory Reset**
 

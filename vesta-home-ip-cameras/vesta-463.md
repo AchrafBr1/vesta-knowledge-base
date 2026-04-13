@@ -6,7 +6,7 @@ icon: video
 
 ## 3MP WiFi IP Dome with PAN/TILT and Solar Panel
 
-<figure><img src="../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1031).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 

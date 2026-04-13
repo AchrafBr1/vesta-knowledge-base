@@ -4,7 +4,7 @@
 
 ## **Outdoor PIR Motion Sensor Camera**
 
-<figure><img src=".gitbook/assets/image (20) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
 VST-862EX is an outdoor passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 640 x 480 pixels) to the Control Panel upon movement detection.
 
@@ -24,7 +24,7 @@ VST-862EX-IL – PIR motion sensor camera with Infrared LED
 
 **Front View** **Inside View**
 
-![](<.gitbook/assets/1 (33).jpeg>)
+![](<.gitbook/assets/1 (43).jpeg>)
 
 1. **Flash LED / Infrared LED -** The Flash LED (For VST-862EX) or Infrared LED (For VST-862EX-IL) delivers sufficient light for image capture under low lighting conditions.
 2. **LED Indicator (Red) -** The LED indicator is used to indicate the system status.
@@ -43,7 +43,7 @@ VST-862EX-IL – PIR motion sensor camera with Infrared LED
 8. **Battery Compartment**
 9.  **Mounting Bracket**
 
-    ![](<.gitbook/assets/0 (36).jpeg>)
+    ![](<.gitbook/assets/0 (47).jpeg>)
 
 ## _**LED Indicator**_
 
@@ -105,7 +105,7 @@ The Red LED will flash slowly during warm up period. During the 60-second warm u
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and bottom position indicates OFF.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (19).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -123,7 +123,7 @@ After changing the Dip Switch settings, please re-power on the PIR Camera for it
 
 **Step 2:** Insert a flathead screwdriver into the caved-in area of the back cover and then carefully lift the back cover.
 
-![](<.gitbook/assets/3 (44).png>)
+![](<.gitbook/assets/3 (68).png>)
 
 **Step 3:** Remove the old batteries and press the test button twice to fully discharge.
 
@@ -168,7 +168,7 @@ Follow the instructions below to change the PIR Camera Area in the Control Panel
 
 ## _**Mounting & Installation Method**_
 
-![](<.gitbook/assets/4 (21).jpeg>)
+![](<.gitbook/assets/4 (29).jpeg>)
 
 * **Mounting with mounting bracket:**
   * The PIR Camera can be mounted on either a flat surface or in a corner situation with fixing screws, plugs, and the mounting bracket provided.
@@ -186,7 +186,7 @@ Please make sure the PIR Camera is properly hooked onto the mounting bracket so 
 
 
 
-![](<.gitbook/assets/5 (40).png>)
+![](<.gitbook/assets/5 (51).png>)
 
 {% hint style="warning" %}
 Please avoid mounting the PIR Camera on uneven surfaces. If mounting in a corner situation on uneven surfaces is still necessary, you can attach the 4 adhesive foam spacers to the back of the mounting bracket to provide stress relaxation.
@@ -194,7 +194,7 @@ Please avoid mounting the PIR Camera on uneven surfaces. If mounting in a corner
 
 
 
-![](<.gitbook/assets/6 (29).png>)
+![](<.gitbook/assets/6 (38).png>)
 
 * **Mounting with mounting bracket and rotating holder:**
 
@@ -202,15 +202,15 @@ A rotating holder is provided as a user-friendly mounting option **(optional ite
 
 With the rotating holder, the PIR Camera can be rotated horizontally to provide optimal coverage.
 
-![](<.gitbook/assets/7 (26).jpeg>)
+![](<.gitbook/assets/7 (33).jpeg>)
 
 A special screwdriver with reversible double-sided bit, and three star socket screws are provided for fixing the rotating holder to the wall.
 
-![](<.gitbook/assets/8 (27).png>)
+![](<.gitbook/assets/8 (37).png>)
 
 Please use the provided screwdriver to tighten/loosen star socket screws.
 
-![](<.gitbook/assets/9 (31).png>)
+![](<.gitbook/assets/9 (41).png>)
 
 * To mount VST-862EX with mounting bracket and rotating holder:
 
@@ -218,11 +218,11 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
 2. Fix the mounting bracket on the swivel ball with the fixing screw secured through the foolproof design hole.
 3. Mount VST-862EX with the hooks of the mounting bracket latched on the back cover of the VST-862EX, and then push downwards until you hear a click sound.
 
-![](<.gitbook/assets/10 (23).png>)
+![](<.gitbook/assets/10 (73).png>)
 
 4. Rotate the swivel ball horizontally to adjust VST-862EX’s detecting angle. (When the angle adjusting screw is half loosen, the swivel ball can still be rotated.)
 
-![](<.gitbook/assets/11 (14).jpeg>)
+![](<.gitbook/assets/11 (20).jpeg>)
 
 5. When VST-862EX is rotated to a positon with desired detection coverage, you can lock the position by firmly tightening the angle adjusting screw.
 
@@ -238,7 +238,7 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
 
 **VST-862EX Detection Range**
 
-![](<.gitbook/assets/12 (10).jpeg>)
+![](<.gitbook/assets/12 (13).jpeg>)
 
 **Limitations:**
 
@@ -248,19 +248,19 @@ Please use the provided screwdriver to tighten/loosen star socket screws.
 * Never attempt to disassemble or modify the unit.
 * Please install the PIR Camera straight up. Do not tilt it.
 
-![](<.gitbook/assets/13 (8).jpeg>)
+![](<.gitbook/assets/13 (11).jpeg>)
 
 * Do not install the motion sensor camera where objects moved by wind such as trees and laundry, which may block the motion sensor camera’s field of view.
 
-![](<.gitbook/assets/14 (11).jpeg>)
+![](<.gitbook/assets/14 (15).jpeg>)
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-![](<.gitbook/assets/15 (8).jpeg>)
+![](<.gitbook/assets/15 (12).jpeg>)
 
 * Avoid looking directly at the path of the outdoor unit’s intake or exhaust airflow.
 
-![](<.gitbook/assets/16 (8).jpeg>)
+![](<.gitbook/assets/16 (12).jpeg>)
 
 {% hint style="warning" %}
 IMPORTANT NOTE:

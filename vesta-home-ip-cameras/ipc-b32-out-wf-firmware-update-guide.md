@@ -2,7 +2,7 @@
 
 This guide explains how to update the firmware of your **VESTA IPC-B32-OUT-WF camera** using **VESTA Tool**.
 
-<figure><img src="../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1258).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The firmware update fixes the following points:
@@ -33,7 +33,7 @@ Make sure you have:
 
 ### Step 1 — Open VESTA Tool
 
-<figure><img src="../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1259).png" alt=""><figcaption></figcaption></figure>
 
 1. Launch **VESTA Tool** on your computer.
 2. Go to **Search Settings**.
@@ -44,7 +44,7 @@ Make sure you have:
 
 ### Step 2 — Open the Upgrade Section
 
-<figure><img src="../.gitbook/assets/image (588).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1260).png" alt=""><figcaption></figcaption></figure>
 
 1. Select your **IPC-B32-OUT-WF** camera from the device list.
 2. Click **Upgrade** in the VESTA Tool interface.
@@ -53,7 +53,7 @@ Make sure you have:
 
 ### Step 3 — Upload the Firmware
 
-<figure><img src="../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1261).png" alt=""><figcaption></figcaption></figure>
 
 1. Click **Browse / Select File**.
 2. Choose the **firmware file (.bin)** provided in this guide.

@@ -6,7 +6,7 @@ icon: video
 
 ## VESTA 3MP outdoor WiFi IP camera
 
-<figure><img src="../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1029).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 

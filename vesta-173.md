@@ -4,11 +4,11 @@
 
 ## **RGBW Smart Bulb (Zigbee)**
 
-<figure><img src=".gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1038).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
-![](<.gitbook/assets/0 (73).jpeg>)
+![](<.gitbook/assets/0 (84).jpeg>)
 
 The RSB-1ZBS is a ZigBee Smart LED Color Light Bulb. It features both multicolor adjustment and light level control. When joined into a ZigBee network, the user will be able to control Light Bulb remotely from the ZigBee network coordinator.
 
@@ -39,7 +39,7 @@ As a ZigBee device, the Light Bulb needs to join a ZigBee network to send and re
 5. Switch ON Light Bulb for the 5th time, the device will reset and start searching for new ZigBee network.
 6. After joining the ZigBee network, the Light Bulb will be registered in the security system in the network automatically. Please check the ZigBee network coordinator, system control panel, or CIE (Control and Indicating Equipment) to confirm if joining and registration was successful.
 
-![](<.gitbook/assets/4 (48).jpeg>)
+![](<.gitbook/assets/4 (56).jpeg>)
 
 ### _**Removing Device from ZigBee Network (Factory Reset)**_
 
@@ -54,7 +54,7 @@ To remove the Light Bulb from current ZigBee network, the device must be placed 
 5. Switch ON Light Bulb for the 5th time, the device will reset and start searching for new ZigBee network.
 6. Upon reset, the Light Bulb will clear current ZigBee network setting and transmit signal to ZigBee coordinator to remove itself from current ZigBee network. It will then actively search for available ZigBee network again and join the network automatically.
 
-![](<.gitbook/assets/6 (48).jpeg>)
+![](<.gitbook/assets/6 (57).jpeg>)
 
 ### _**ZigBee Router Device Capacity**_
 
@@ -78,32 +78,32 @@ The Light Bulb will transmit a supervision signal to report its condition regula
 
 ### _**Light Bulb Cluster ID**_
 
-<figure><img src=".gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (799).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Basic Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (800).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Identify Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (801).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Group Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (802).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Scenes Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (803).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of On/Off Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (804).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Level Control Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (805).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Attribute of Color Control Cluster Information**_
 
-<figure><img src=".gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (806).png" alt=""><figcaption></figcaption></figure>

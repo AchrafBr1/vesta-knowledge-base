@@ -6,7 +6,7 @@ icon: video
 
 ## VESTA 3MP WiFi IP Camera with Pan/Tilt for Indoors
 
-<figure><img src="../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 

@@ -8,7 +8,7 @@ KPT-39N-F1
 
 ## REMOTE KEYPAD WIRELESS
 
-<figure><img src=".gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
 ## QUICK GUIDE
 
@@ -42,7 +42,7 @@ EN50131 Grade 2, Class II
 
 ## _**Parts Identification**_
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (23).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -102,7 +102,7 @@ Step 2. Adding remote keypad into the Control Panel:
 
 1. Put remote keypad in Test mode by entering KP PIN code (default: **0000**), then press **＊** key.
 
-The three![](<.gitbook/assets/1 (19).png>)![](<.gitbook/assets/2 (19).png>)![](<.gitbook/assets/3 (18).png>) LEDs will turn on along with a long beep.
+The three![](<.gitbook/assets/1 (51).png>)![](<.gitbook/assets/2 (47).png>)![](<.gitbook/assets/3 (42).png>) LEDs will turn on along with a long beep.
 
 1. Press ＊ key then **7** key to transmit learning signal. Remote keypad will sound a long beep.
 
@@ -170,7 +170,7 @@ Step 4. Within 5 seconds, put a NFC label close to the Keypad detection area to 
 
 Step 5. To learn in another label, please repeat step 3 to step 4. The keypad will exit NFC label learning mode automatically after idling for 5 seconds.
 
-Step 6. Press ![](<.gitbook/assets/4 (19).png>) key to exit NFC label learning mode.
+Step 6. Press ![](<.gitbook/assets/4 (32).png>) key to exit NFC label learning mode.
 
 * Error Condition:
 * If the Control Panel User Code entered exceeds maximum PIN code digits, the Orange LED will flash along with 4 short beeps to indicate error.
@@ -197,11 +197,11 @@ labels by applying them one by one.
 
 Step 4. The Keypad will exit NFC label removal mode automatically after idling for 5 seconds.
 
-Step 5. Press ![](<.gitbook/assets/6 (14).png>) key to exit NFC label learning mode.
+Step 5. Press ![](<.gitbook/assets/6 (23).png>) key to exit NFC label learning mode.
 
 ### _**C. NFC Installation Procedure**_
 
-![NFC iPhone3](<.gitbook/assets/5 (9).jpeg>)
+![NFC iPhone3](<.gitbook/assets/5 (18).jpeg>)
 
 The small NFC labels can be placed on the back of smartphones, cards or keychains for easy access.
 
@@ -238,7 +238,7 @@ Disarming the system always requires entering the Control Panel User PIN Code.
 
 Under Test mode, press ＊ key and then **9** key to enable Arm/ Home with PIN Code function.
 
-**Enter Arm Mode:**  Enter any one of Control Panel user code and press (arming away button) key, or press (arming away button) key and apply a NFC label. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/9 (18).png>) LED will turn ON along with a long beep.
+**Enter Arm Mode:**  Enter any one of Control Panel user code and press (arming away button) key, or press (arming away button) key and apply a NFC label. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/9 (28).png>) LED will turn ON along with a long beep.
 
 **Enter Home Mode:** Enter any one of the Control Panel user code and (arm stay button) key, or press (arm stay button) key and apply a NFC&#x20;label. If panel has no fault and arming is successful, the LED will turn ON along with 3&#x20;beeps.
 

@@ -4,7 +4,7 @@
 
 ## 12-zone module Expansion for Vesta hybrid control panels
 
-<figure><img src=".gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -16,11 +16,11 @@ The WEZ-12/24/36/48-BUS Expansion Module is designed to support expansion for th
 
 WEZ-12-BUS WEZ-24-BUS
 
-![](<.gitbook/assets/0 (1) (1) (1) (1) (1) (1) (1).jpeg>) ![](<.gitbook/assets/1 (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/0 (7).jpeg>) ![](<.gitbook/assets/1 (6).jpeg>)
 
 WEZ-36-BUS WEZ-48-BUS
 
-![](<.gitbook/assets/2 (1) (1) (1).jpeg>) ![](<.gitbook/assets/3 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/2 (3).jpeg>) ![](<.gitbook/assets/3 (3).jpeg>)
 
 1. **DC Jack:** DC 12V 1A switching power connection.
 2. **Pluggable BUS Panel Connection Terminal**
@@ -57,13 +57,13 @@ The expansion module is powered by the Hybrid Panel, which can provide 13.5V pow
 
 ### Installation and Connection
 
-<figure><img src=".gitbook/assets/10 (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (140).png" alt=""><figcaption></figcaption></figure>
 
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 * For optimal communication of the wired connection between the Control Panel and the connected BUS devices, ensure the furthest BUS device’s Communication Jumper Switch and Control Panel’s J53 Jumper Switch are set to ON to serve as a terminating resistor. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 * Thread the four screws through the holes on the Expansion Module, and fasten the screws to secure.
 
-<figure><img src=".gitbook/assets/7 (1) (1).jpeg" alt="" width="246"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (3).jpeg" alt="" width="246"><figcaption></figcaption></figure>
 
 * Connect the cables to the four terminals labeled as **VDD, GND, 485A, 485B** on the Hybrid Panel.
 
@@ -90,21 +90,21 @@ Note:
 
 ### **Single-End-of-Line Resistor Wiring**
 
-![3](<.gitbook/assets/11 (1) (1) (1) (1).png>) ![4](<.gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1).png>)
+![3](<.gitbook/assets/11 (4).png>) ![4](<.gitbook/assets/12 (8).png>)
 
-![5](<.gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1).png>) ![6](<.gitbook/assets/14 (1) (1) (1) (1) (1) (1) (1).png>)
+![5](<.gitbook/assets/13 (8).png>) ![6](<.gitbook/assets/14 (7).png>)
 
 ### **Double-End-of-Line Resistor Wiring**
 
-![7](<.gitbook/assets/15 (1) (1) (1) (1) (1).png>) ![8](<.gitbook/assets/16 (1) (1) (1) (1) (1).png>)
+![7](<.gitbook/assets/15 (5).png>) ![8](<.gitbook/assets/16 (5).png>)
 
 ### Triple-EOL Wiring
 
-<figure><img src=".gitbook/assets/17 (1) (1) (1).jpeg" alt=""><figcaption><p>9</p></figcaption></figure>
+<figure><img src=".gitbook/assets/17 (4).jpeg" alt=""><figcaption><p>9</p></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/18 (1) (1) (1).jpeg" alt=""><figcaption><p>10</p></figcaption></figure>
+<figure><img src=".gitbook/assets/18 (4).jpeg" alt=""><figcaption><p>10</p></figcaption></figure>
 
 
 
@@ -132,7 +132,7 @@ To locate the expansion module in the BUS system:
 
 **Step 1.** On Hybrid Panel’s webpage, click “Identify” under the device list after the Expander’s device column entry.
 
-![](<.gitbook/assets/19 (1) (1).jpeg>)
+![](<.gitbook/assets/19 (3).jpeg>)
 
 **Step 2.** If the expansion module receives the signal from the Hybrid Panel, the webpage will display a success message and expansion module’s LED indicator will flash 10 times to indicate where it is to the user.
 

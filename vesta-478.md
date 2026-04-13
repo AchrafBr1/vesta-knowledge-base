@@ -6,7 +6,7 @@ description: DC-23Z2-F1-2W 868 BROWN
 
 ## Door Contact with Wired Input (N.C or Roller Shutter) brown
 
-<figure><img src=".gitbook/assets/image (599).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1271).png" alt=""><figcaption></figcaption></figure>
 
 ## Instruction
 

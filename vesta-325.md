@@ -4,11 +4,11 @@
 
 ## **Bluetooth Emergency Pendant**
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 BL-3-FS is a Bluetooth emergency pendant. It can be used to summon help in case of an emergency with one button press or fall detection. When its button is pressed, BL-3-FS utilizes the Bluetooth connection with the smartphone app to immediately report an alarm and user’s location. It also functions count the steps when this function is enabled.
 
-![](<.gitbook/assets/1 (110).png>)
+![](<.gitbook/assets/1 (142).png>)
 
 ## _**LED Indicator (Blue and Red LED)**_
 
@@ -33,7 +33,7 @@ BL-3-FS is a Bluetooth emergency pendant. It can be used to summon help in case 
 
 ## _**Installing / Changing battery**_
 
-![](<.gitbook/assets/5 (117).png>)
+![](<.gitbook/assets/5 (128).png>)
 
 * Use a coin to unlock and remove the battery cover from the back of the pendant by turning the mark on the cover anti-clockwise from Lock position to **Open** position.
 * Insert the battery with the unmarked (negative) side facing down.
@@ -45,46 +45,46 @@ BL-3-FS is a Bluetooth emergency pendant. It can be used to summon help in case 
 
 Please go to **APP store** or **Google Play** and search SmartHomeSec to download the application.
 
-![](<.gitbook/assets/7 (68).jpeg>)
+![](<.gitbook/assets/7 (75).jpeg>)
 
 To pair the BL-3-FS with the smartphone:
 
 1. Go to the smartphone’s **Settings > Bluetooth** to check if the BLE connection is enabled.
 2. Open the **SmartHomeSec APP** on the smartphone, and sign in the **SmartHomeSec APP** by entering the registered Panel’s **Username** and **Password.**
 
-![](<.gitbook/assets/8 (87).png>)
+![](<.gitbook/assets/8 (97).png>)
 
-3. Tap the ![](<.gitbook/assets/9 (47).jpeg>) **Settings icon** and then **Bluetooth Pendants** to enter pairing screen.
+3. Tap the ![](<.gitbook/assets/9 (51).jpeg>) **Settings icon** and then **Bluetooth Pendants** to enter pairing screen.
 
-![](<.gitbook/assets/10 (84).png>)
+![](<.gitbook/assets/10 (134).png>)
 
-4. Tap the ![](<.gitbook/assets/11 (42).jpeg>) **Add icon** to automatically search for available BL-3-FSs. If no BL-3-FSs have been searched, press the BL-3-FS active button once to send a Bluetooth pairing request.
+4. Tap the ![](<.gitbook/assets/11 (48).jpeg>) **Add icon** to automatically search for available BL-3-FSs. If no BL-3-FSs have been searched, press the BL-3-FS active button once to send a Bluetooth pairing request.
 
-![](<.gitbook/assets/12 (67).png>)
+![](<.gitbook/assets/12 (85).png>)
 
 5. Tap the **BL-3-FS** under **Available Devices** to pair the BL-3-FS with the smartphone, tap **Pair** for **Bluetooth Pairing Request**.
 
-![](<.gitbook/assets/13 (56).png>)
+![](<.gitbook/assets/13 (69).png>)
 
-6. Go to the smartphone’s **Settings > Bluetooth** to check for the Information icon ![](<.gitbook/assets/14 (35).jpeg>) to confirm the BL-3-FS is successfully paired.
+6. Go to the smartphone’s **Settings > Bluetooth** to check for the Information icon ![](<.gitbook/assets/14 (39).jpeg>) to confirm the BL-3-FS is successfully paired.
 
-![](<.gitbook/assets/15 (56).png>)
+![](<.gitbook/assets/15 (64).png>)
 
 successful pairing
 
 unsuccessful pairing
 
-On the **SmartHomeSec APP**, tap the ![](<.gitbook/assets/16 (22).jpeg>) **Settings** icon, then **Bluetooth Pendants** to enter pairing screen. A **Paper Clip** icon will appear if the BL-3-FS is successfully paired (Refer to the above screenshots).
+On the **SmartHomeSec APP**, tap the ![](<.gitbook/assets/16 (26).jpeg>) **Settings** icon, then **Bluetooth Pendants** to enter pairing screen. A **Paper Clip** icon will appear if the BL-3-FS is successfully paired (Refer to the above screenshots).
 
 ## To unpair the BL-3-FS from the smartphone:
 
 1. Tap the **paired BL-3-FS** under **Paired Devices**, and tap **Remove** in the next screen.
 
-![](<.gitbook/assets/17 (48).png>)
+![](<.gitbook/assets/17 (53).png>)
 
 2. Go to the smartphone’s **Settings > Bluetooth** to forget the BL-3-FS by tapping first the **Information icon**, then **Forget This Device** in the next screen.
 
-![](<.gitbook/assets/18 (57).png>)
+![](<.gitbook/assets/18 (63).png>)
 
 3. Press and hold the BL-3-FS active button for 10 seconds to send a Bluetooth unpairing request. The
 

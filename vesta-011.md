@@ -4,11 +4,11 @@
 
 ## **REMOTE KEYPAD** WIRELESS
 
-<figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Parts Identification**_
 
-<figure><img src=".gitbook/assets/0 (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0 (42).png" alt=""><figcaption></figcaption></figure>
 
 1. Arm Key
 2. Home Key
@@ -91,7 +91,7 @@ Step 2. Adding remote keypad into the Control Panel:
 
 1. Put the remote keypad in Test mode by entering the KP PIN code (default: **0000**), then press the **＊** key.
 
-The three![](<.gitbook/assets/10 (21).png>)![](<.gitbook/assets/11 (10).jpeg>) LEDs will turn on, along with a long beep.
+The three![](<.gitbook/assets/10 (71).png>)![](<.gitbook/assets/11 (16).jpeg>) LEDs will turn on, along with a long beep.
 
 1. Press ＊ key then **7** key to transmit learning signal. The remote keypad will sound a long beep.
 
@@ -152,11 +152,11 @@ There are two ways to arm the system.
 
 Under Test mode, press ＊ key and then **9** key to enable Arm/ Home with PIN Code function.
 
-**Enter Arm Mode**: Enter any one of the Control Panel user codes and press ![](<.gitbook/assets/15 (4).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/16 (3).jpeg>) LED will turn ON along with a long beep.
+**Enter Arm Mode**: Enter any one of the Control Panel user codes and press ![](<.gitbook/assets/15 (8).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/16 (7).jpeg>) LED will turn ON along with a long beep.
 
-**Enter Home Mode**: Enter any one of the Control Panel user codes and ![](<.gitbook/assets/17 (5).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/18 (3).jpeg>) LED will turn ON along with 3 beeps.
+**Enter Home Mode**: Enter any one of the Control Panel user codes and ![](<.gitbook/assets/17 (11).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/18 (8).jpeg>) LED will turn ON along with 3 beeps.
 
-**Return to Disarm Mode**: Enter any one of the Control Panel user code and ![](<.gitbook/assets/19 (2) (1).jpeg>) key. If disarm is successful, the LED will turn ON along with 2 beeps.
+**Return to Disarm Mode**: Enter any one of the Control Panel user code and ![](<.gitbook/assets/19 (6).jpeg>) key. If disarm is successful, the LED will turn ON along with 2 beeps.
 
 If there is **Alarm Memory,** the  LED and fault LED will turn ON along with 5 beeps.
 
@@ -164,11 +164,11 @@ If there is **Alarm Memory,** the  LED and fault LED will turn ON along with 5 b
 
 In the Test mode, press ＊ key and then the **8** key to enable Arm/ Home without PIN Code function
 
-**Enter Arm Mode**:  Press ![](<.gitbook/assets/15 (4).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/16 (3).jpeg>) LED will turn ON along with a long beep.
+**Enter Arm Mode**:  Press ![](<.gitbook/assets/15 (8).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/16 (7).jpeg>) LED will turn ON along with a long beep.
 
-**Enter Home Mode**: Press ![](<.gitbook/assets/17 (5).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/18 (3).jpeg>) LED will turn ON along with 3 beeps.
+**Enter Home Mode**: Press ![](<.gitbook/assets/17 (11).jpeg>) key. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/18 (8).jpeg>) LED will turn ON along with 3 beeps.
 
-**Return to Disarm Mode**: Enter any one of the Control Panel user code and ![](<.gitbook/assets/19 (2) (1).jpeg>) key. If disarm is successful, the LED will turn ON along with 2 beeps.
+**Return to Disarm Mode**: Enter any one of the Control Panel user code and ![](<.gitbook/assets/19 (6).jpeg>) key. If disarm is successful, the LED will turn ON along with 2 beeps.
 
 If there is **Alarm Memory,** the  LED and fault LED will turn ON along with 5 beeps.
 

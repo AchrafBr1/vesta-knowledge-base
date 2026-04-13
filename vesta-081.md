@@ -8,7 +8,7 @@ icon: star-of-life
 
 ## **Voice Reach Talking Pendant and fall detector**
 
-<figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
 WTRVS-15-FS is a small and lightweight Voice Reach Talking Pendant with a built-in fall sensor. The pendant allows immediate post-alarm voice follow up after an emergency call or fall detection. With a simple press of the button or after a fall detection, it can open two-way voice communication channel between the user and the Central Monitoring Station.
 
@@ -16,7 +16,7 @@ The Voice Reach Talking Pendant provides high-clarity two-way communication via 
 
 ## **Identifying the Parts**
 
-![](<.gitbook/assets/0 (54).jpeg>)
+![](<.gitbook/assets/0 (65).jpeg>)
 
 1. **Microphone**
 2. **LED (Red, Green and Orange)**
@@ -66,17 +66,17 @@ Step 4. Refer to Control Panel manual to complete learning process.
 
 **Step 2:** Remove the old battery by pulling the black strip.
 
-![](<.gitbook/assets/1 (53).png>)
+![](<.gitbook/assets/1 (85).png>)
 
 **Step 3:** Press the Active Button a couple times to discharge.
 
 **Step 4:** When inserting the new battery, keep it parallel to the battery compartment. Do not tilt the battery, and please observe the correct polarity.
 
-![](<.gitbook/assets/2 (61).png>)
+![](<.gitbook/assets/2 (89).png>)
 
 **Step 5:** The black strip should be pressed under the battery when battery is inserted.
 
-![](<.gitbook/assets/3 (58).png>)
+![](<.gitbook/assets/3 (82).png>)
 
 **Step 6:** Replace the battery compartment cover.
 
@@ -93,7 +93,7 @@ Step 4. Refer to Control Panel manual to complete learning process.
 
 
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)   (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (575).png" alt=""><figcaption></figcaption></figure>
 
 3. When a fall occurs, it is best if the fall sensor can touch the ground.
 

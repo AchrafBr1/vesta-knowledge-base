@@ -4,7 +4,7 @@ DBRA 2 F1
 
 ## Decibels Recognition Alarm (DBRA-2)
 
-<figure><img src=".gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1127).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -12,7 +12,7 @@ The Decibels Recognition Alarm (DBRA-2) recognizes preset sound levels in decibe
 
 ## Parts Identification
 
-<figure><img src=".gitbook/assets/image (451).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -112,11 +112,11 @@ Remove the back cover by unscrewing the fixing screw, and then insert a flat-hea
 
 * Based on your needs, set the Sensitivity Switch as shown in the Dip Switch Position Table.
 
-<figure><img src=".gitbook/assets/image (452).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1120).png" alt=""><figcaption></figcaption></figure>
 
 * Please use a sharp tool to adjust the DIP Switch positions to set the sensitivity level and sound detection time duration.
 
-<figure><img src=".gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1121).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -133,13 +133,13 @@ Server, and the SmartHomeSec app.
    Command – Query configuration: queries the current settings.  \
    Command – Set configuration: applies new settings.
 
-<figure><img src=".gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
 
 * The configuration command uses four numeric digits in the format “XXYY”, where XX sets the  \
   sensitivity level, and YY sets the sound duration.
 * Below is the input value for each setting:
 
-<figure><img src=".gitbook/assets/image (455).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1123).png" alt=""><figcaption></figcaption></figure>
 
 * Example: Entering 0300 sets the device to trigger an alarm when a sound level of 80 dB is detected  \
   and sustained for 100 milliseconds.
@@ -149,7 +149,7 @@ Server, and the SmartHomeSec app.
 * Select the desired sensitivity level and time duration; click “Submit” to confirm and apply the new  \
   settings.
 
-<figure><img src=".gitbook/assets/image (456).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1124).png" alt=""><figcaption></figcaption></figure>
 
 ## Walk Test
 
@@ -194,10 +194,10 @@ Hook the device over the exposed non-threaded part of the screw. Then gently and
 {% endstep %}
 {% endstepper %}
 
-<figure><img src=".gitbook/assets/image (457).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1125).png" alt=""><figcaption></figcaption></figure>
 
 ### Surface Deployment
 
 DBRA-2 comes with an anti-slip pad on its back. The device can also be placed on a flat surface without being installed at a fixed location.
 
-<figure><img src=".gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1126).png" alt=""><figcaption></figcaption></figure>

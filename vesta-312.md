@@ -4,7 +4,7 @@
 
 ## **Mini-PIR-ZW Series**
 
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -29,7 +29,7 @@ The PIR is comprised of a main body and a base. The main body must be separated 
 
 To separate the main body and base, hold the PIR in both hands, and turn the base to the right and the main body to the left to separate.
 
-![](<.gitbook/assets/0 (71).png>)
+![](<.gitbook/assets/0 (78).png>)
 
 **1. IR Lens w/ LED Indicator**
 
@@ -155,7 +155,7 @@ To test whether the PIR is able to communicate with the Z-Wave gateway or contro
 * The PIR has detection coverage of a 120∘cone to the front. When deployed on a flat surface about 1.2 meters above ground, or mounted on the wall around 2 meters high, the PIR has maximum range of 10 meters.
 * The PIR direction can be changed by loosening the angle adjustment screw on the base to tilt the PIR up and down.
 
-![](<.gitbook/assets/1 (97).jpeg>)
+![](<.gitbook/assets/1 (107).jpeg>)
 
 ## _**Assembly**_
 
@@ -163,7 +163,7 @@ To test whether the PIR is able to communicate with the Z-Wave gateway or contro
   1. Connect the main body to the base. (Figure 1)
   2. Tilt the PIR backward until its back touches the base. (Figure 2)
 
-![Figure 1                                                                                                                      Figure 2](<.gitbook/assets/2 (92).png>)
+![Figure 1                                                                                                                      Figure 2](<.gitbook/assets/2 (120).png>)
 
 3. Hold the PIR main body with your left hand and the base with your right hand. Do NOT touch the IR lens or the lens may be damaged during the process. (Figure 3, 4)
 4. To **lock** the main body on to the base, turn the main body with your left hand away from yourself and turn the base with your right hand toward yourself at the same time in opposite direction until you hear a click. (Figure 3)
@@ -171,7 +171,7 @@ To test whether the PIR is able to communicate with the Z-Wave gateway or contro
 
 
 
-![Figure 3                                                                                                                     Figure 4](<.gitbook/assets/3 (89).png>)
+![Figure 3                                                                                                                     Figure 4](<.gitbook/assets/3 (113).png>)
 
 ## _**Installation**_
 
@@ -183,7 +183,7 @@ To test whether the PIR is able to communicate with the Z-Wave gateway or contro
 
 
 
-![Figure 5                                    Figure 6                                                           Figure 7                                               Figure 8](<.gitbook/assets/4 (62).jpeg>)
+![Figure 5                                    Figure 6                                                           Figure 7                                               Figure 8](<.gitbook/assets/4 (70).jpeg>)
 
 ### _**Installation Guideline**_
 

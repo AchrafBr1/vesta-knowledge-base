@@ -4,7 +4,7 @@
 
 ## **Remote Controller - Keyfob**
 
-<figure><img src=".gitbook/assets/image (15) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
@@ -12,7 +12,7 @@ The Remote Controller is used to arm the system in home or away mode, disarm the
 
 Press and hold each key to activate the functions described below:
 
-![](<.gitbook/assets/1 (30).jpeg>)
+![](<.gitbook/assets/1 (40).jpeg>)
 
 1. **BUTTON -** Pressing this button will arm the system in away mode.
 2. **BUTTON -** Pressing and holding this button for three seconds will send a panic signal, regardless of system status (armed or disarmed). If the 3 seconds time is not reached, the Emergency activation will fail.
@@ -36,7 +36,7 @@ _When a low voltage battery is inserted, the LED will flash 3 times to indicate 
 
 ## _**Getting Started**_
 
-![](<.gitbook/assets/5 (38).png>)
+![](<.gitbook/assets/5 (49).png>)
 
 * Remove the battery cover by using a coin to turn it counter-clockwise
 * Insert the battery as shown in the diagram, with the unmarked side (negative) of the battery facing down

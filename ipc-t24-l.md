@@ -18,11 +18,11 @@ icon: video
 
 **Step 2:** Enter the username and passwor&#x64;**; the default user name of the device is “admin”**.
 
-![](<.gitbook/assets/image (216).png>)
+![](<.gitbook/assets/image (863).png>)
 
 **Step 3:** When logging in to the device for the first time, the system will pop up a “Change Password” prompt. Please change the administrator password on time and safe-keep it.
 
-![](<.gitbook/assets/image (217).png>)
+![](<.gitbook/assets/image (864).png>)
 
 
 

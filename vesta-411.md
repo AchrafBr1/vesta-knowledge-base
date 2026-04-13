@@ -4,13 +4,13 @@
 
 RC-16-ADC2-R2
 
-<figure><img src=".gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (663).png" alt=""><figcaption></figcaption></figure>
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
 ## _**Identifying the parts**_
 
-<figure><img src=".gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1013).png" alt=""><figcaption></figcaption></figure>
 
 1. **LED Indicator**
 
@@ -51,7 +51,7 @@ Note:
 * _When a low voltage battery is inserted, the LED will flash 3 times to indicate low battery._
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1014).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Getting Started**_
 
@@ -63,5 +63,5 @@ Note:
 * If the Control Panel receives the Remote Controller signal successfully, it will display the information accordingly.
 * Please refer to your Control Panel manual to complete the learning process.
 
-<figure><img src=".gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1015).png" alt=""><figcaption></figcaption></figure>
 

@@ -4,11 +4,11 @@
 
 ## WIEGAND 26 CONTROLLER
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 WGT-1-COMBO is a WIEGAND module that can be connected to HIKVISION Card Reader to covert WIEGAND 26 \[W26] Protocol into RF wireless signals or BUS wired signals. When WIEGAND Card Reader reads a tag for arming/disarming request, WGT-1-COMBO will transmit ARM/Disarm signal with the tag number to the Control Panel.
 
-![](<.gitbook/assets/1 (6).png>)
+![](<.gitbook/assets/1 (38).png>)
 
 ## _**Identifying the parts**_
 
@@ -78,14 +78,14 @@ Provide 12V DC@150mA to the connected HIKVISION Card Reader.
   * Connect **DATA0** terminal of WGT-1-COMBO to the **green cable (W0)** of HIKVISION Card Reader.
   * Connect **DATA1** terminal of WGT-1-COMBO to the **white cable (W1)** of HIKVISION Card Reader.
 
-![](<.gitbook/assets/5 (5).png>)
+![](<.gitbook/assets/5 (16).png>)
 
 2. **BUS Wired Application (**&#x68;ardwired to Hybrid Pane&#x6C;**)**
 
 * Before connecting the WIEGAND module to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/6 (1) (1) (1) (1) (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/6 (10).jpeg>)
 
 | **Red**    | VDD  |
 | ---------- | ---- |
@@ -100,7 +100,7 @@ Provide 12V DC@150mA to the connected HIKVISION Card Reader.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 * Power on the panel, the WGT-1-COMBO will be powered on as well.
 
-![](<.gitbook/assets/7 (1) (1) (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/7 (8).jpeg>)
 
 {% hint style="warning" %}
 Note:
@@ -124,7 +124,7 @@ Note:
 
 **Step 4.** Navigate the Control Panel into “**Walk Test**” mode. Hold the WGT-1-COMBO in the desired location, press the learn button on the WIEGAND module to confirm this location is within signal range of the Control Panel.
 
-![](<.gitbook/assets/9 (5).png>)
+![](<.gitbook/assets/9 (15).png>)
 
 ## _**Identification (For BUS Wired Application)**_
 
@@ -164,11 +164,11 @@ If there is no response from the Panel after the press of learn button, it means
 
 **Step 2.** Go to the **Local webpage** > **PIN Code**. Select the **Area**. Pass tag **two times** through the HIKVISION Card Reader in **less than 4 seconds**, two beeps will be emitted by the card reader, and then WGT-1-COMBO will transmit signal with the tag number to the Control Panel. Click **Load** button on the webpage.
 
-![](<.gitbook/assets/14 (6).png>)
+![](<.gitbook/assets/14 (16).png>)
 
 **Step 3.** When the tag ID number is shown on the webpage, enter a 4-digit or a 6- digit User Code and assign a user name for the tag.
 
-![](<.gitbook/assets/15 (6).png>)
+![](<.gitbook/assets/15 (14).png>)
 
 **Step 4.** Click **OK** button on the webpage to save.
 
@@ -180,13 +180,13 @@ If there is no response from the Panel after the press of learn button, it means
 
 **Step 2.** Go to the **Local webpage** > **PIN Code**. Select the **Area**. Pass tag **two times** through the HIKVISION Card Reader in **less than 4 seconds**, two beeps will be emitted by the card reader, and then WGT-1-COMBO will transmit signal with the tag number to the Control Panel. Find a blank tag number row and click Load button to check the tag ID number you are going to delet&#x65;**.**
 
-![](<.gitbook/assets/16 (6).png>)
+![](<.gitbook/assets/16 (14).png>)
 
 **Step 3.** According to the newly loaded tag ID number, find the same tag ID number on the list and select **Delete**.
 
 * **Example:** As the picture shown below, No. 1 & No. 2 on the list are the existing learned tags. After you pass tag **two times** through the Card Reader and click **Load** button in the blank No.3 row, the tag ID number will be shown in No. 3. As No.3 is the same as No.2, so No.2 is the tag to be removed. Select **Delete** on the No.2 row to remove the tag.
 
-![](<.gitbook/assets/17 (5).png>)
+![](<.gitbook/assets/17 (10).png>)
 
 **Step 4.** Click **OK** on the webpage to save the change.
 
@@ -214,7 +214,7 @@ If there is no response from the Panel after the press of learn button, it means
 
 **Step 5.** Sliding down the WIEGAND module when hooked to the mounting bracket to tighten and secure the module.
 
-<figure><img src=".gitbook/assets/10 (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (141).png" alt=""><figcaption></figcaption></figure>
 
 
 

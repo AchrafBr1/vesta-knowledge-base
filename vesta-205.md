@@ -4,7 +4,7 @@
 
 ## **Heat Detector**&#x20;
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 HD-9 series are a heat detector with both rate-of-rise and fixed temperature sensors insides. It provides capacities of monitoring the rate of any rise in temperature and detecting a household temperature that may lead to a fire disaster. It is idea for applications for the environment affected by heat, such as kitchen.
 
@@ -14,7 +14,7 @@ The HD-9 Series including the following models:
 
 HD-9S / HD-9S-F1: This model is identified as Smoke Detector in the Control Panel device list. HD-9H / HD-9H-F1: This model is identified as Heat Detector in the Control Panel device list.
 
-![](<.gitbook/assets/0 (1) (1) (1) (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/0 (8).jpeg>)
 
 ### 1. Red LED
 
@@ -105,4 +105,4 @@ Step 4  Use the mounting bracket as template, mark the two mounting holes, drill
 
 Step 5  Locate the single line mark on the detector and line it up with one of the hook of the bracket. Fit the Smoke Detector onto the hooks on the bracket, then rotate the detector counter-clockwise to lock into place. The installation is now complete.
 
-<figure><img src=".gitbook/assets/1 (1) (1) (1) (1) (1) (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (7).jpeg" alt=""><figcaption></figcaption></figure>

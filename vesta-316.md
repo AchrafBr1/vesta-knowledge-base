@@ -8,11 +8,11 @@ Mobile Lite-R29
 
 ## VESTA Portable Personal Emergency System
 
-<figure><img src=".gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1057).png" alt=""><figcaption></figcaption></figure>
 
 ## **1.Package Content**
 
-![](<.gitbook/assets/1 (84).png>)
+![](<.gitbook/assets/1 (116).png>)
 
 | Mobile Lite-R29 | Charging & Programming | Regular Micro USB Cable | 5V/1A Adaptor | Lanyard | Belt Clip |
 | --------------- | ---------------------- | ----------------------- | ------------- | ------- | --------- |
@@ -24,9 +24,9 @@ Mobile Lite-R29
 
 
 
-![Front View ](<.gitbook/assets/4 (95).png>) ![ Side View](<.gitbook/assets/5 (96).png>) ![ Side View](<.gitbook/assets/6 (74).png>)
+![Front View ](<.gitbook/assets/4 (108).png>) ![ Side View](<.gitbook/assets/5 (107).png>) ![ Side View](<.gitbook/assets/6 (83).png>)
 
-<figure><img src=".gitbook/assets/10 (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (27).png" alt=""><figcaption></figcaption></figure>
 
 ## **3.Power Supply**
 
@@ -54,7 +54,7 @@ Note:
 
 ### **4.2 Lanyard and Belt Clip**
 
-![1                                                         2                                                                        3                                                   4](<.gitbook/assets/12 (54).png>)
+![1                                                         2                                                                        3                                                   4](<.gitbook/assets/12 (72).png>)
 
 &#x20;**1 ) Lanyard Attachment**
 
@@ -96,7 +96,7 @@ _If programming cable is not provided, please contact your supplier. DO NOT atte
 
 Programming Regular Micro-USB Cable Micro-USB Cable
 
-![](<.gitbook/assets/15 (43).png>)
+![](<.gitbook/assets/15 (51).png>)
 
 ## **5.Software Installation**
 
@@ -113,4 +113,4 @@ Driver must be installed first for your computer to recognize the panel.
 4. For more details about the programming tool, please download   \
    “Mobile Lite R29 Installer Guide” from Climax’s website.
 
-![](<.gitbook/assets/16 (45).png>)
+![](<.gitbook/assets/16 (53).png>)

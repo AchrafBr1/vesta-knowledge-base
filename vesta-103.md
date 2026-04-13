@@ -4,7 +4,7 @@
 
 ## **Shutter Control**
 
-<figure><img src=".gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1033).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -18,7 +18,7 @@ SCM-8 is also equipped with a strain relief clamp and a wiring buckle for electr
 
 
 
-![](<.gitbook/assets/0 (57).jpeg>)
+![](<.gitbook/assets/0 (68).jpeg>)
 
 1. **Test Button**
 
@@ -81,7 +81,7 @@ The Wiring Buckle is used for managing wires.
 
 * <mark style="background-color:yellow;">SCM-8</mark> should be connected according to the diagram below:
 
-![](<.gitbook/assets/2 (40).jpeg>)
+![](<.gitbook/assets/2 (44).jpeg>)
 
 * Connect N terminal of SCM to the N terminal of Power Supply.
 * Connect L terminal of SCM to the L terminal of Power Supply.
@@ -93,7 +93,7 @@ Insert each wire into the terminal that it should be connected to, tighten each 
 
 After the wires are connected, use the wiring buckle to manage the wires, and place the wiring buckle on the base with its gap (opening) positioned on the left.
 
-![](<.gitbook/assets/3 (39).jpeg>)
+![](<.gitbook/assets/3 (45).jpeg>)
 
 ## **Learning**
 
@@ -170,7 +170,7 @@ After calibration, whenever the Shutter Control receives close request, it will 
 * The Shutter status can also be adjusted by percentage from 0%, 10%, 20%... to 100% through the Control Panel Webpage.
 * The current open percentage is also transmitted to the Control Panel.
 
-![](<.gitbook/assets/4 (59).png>)
+![](<.gitbook/assets/4 (72).png>)
 
 ### **Local Switch**
 

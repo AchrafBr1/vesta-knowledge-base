@@ -4,7 +4,7 @@
 
 ## **Universal Transmitter**
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 Universal Transmitter monitors the opening/closing of specified device that is connected to it. If any alarm is triggered by the connected device, the Universal Transmitter transmits the alarm signal to Control Panel to notify users of an alarm event.
 
@@ -18,7 +18,7 @@ UT-15SL-NT: Tamper switch removed
 
 ## _**Parts Identification**_
 
-<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (5).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (545).png" alt=""><figcaption></figcaption></figure></div>
 
 **1. LED indicator a.k.a. Learn / Test button**
 
@@ -45,7 +45,7 @@ Used for Roller shutter connection
 
 8. **DIP Switch**
 
-<div align="left"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) ( (6).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure></div>
 
 | <mark style="background-color:blue;">SW1</mark> | <mark style="background-color:blue;">Terminal 1 Type = Door Contac</mark>t    |
 | ----------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -126,7 +126,7 @@ The LED will light up in the following situations:
 
 ## _**Mounting Methods and Installation**_
 
-<div align="left"><figure><img src=".gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (754).png" alt=""><figcaption></figcaption></figure></div>
 
 Step 1: Find a suitable location for mounting.
 
@@ -172,7 +172,7 @@ Step 4: Activate the connected device to test the signal transmission.
 
 **N.C.** **N.O.**
 
-![](<.gitbook/assets/4 (39).jpeg>)
+![](<.gitbook/assets/4 (47).jpeg>)
 
 ## _**Using the Extension Terminal 2 (CON5)**_
 
@@ -193,7 +193,7 @@ When the pull cord is pulled down or retracted, it will cause the axles to rotat
 
 
 
-<figure><img src=".gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (753).png" alt=""><figcaption></figcaption></figure>
 
 * When the Pulse does not achieve the number of triggered times in 10 sec, the count will reset.
 * The times of Pulse, which causes the terminal 2 alarm to be triggered, can be programmed by Dip Switch 7 setting.

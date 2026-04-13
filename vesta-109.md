@@ -6,7 +6,7 @@ description: VDP-3
 
 ## Doorbell Wireless
 
-<figure><img src=".gitbook/assets/image (257).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/en/product/VESTA-109/">VESTA-109</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (904).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/en/product/VESTA-109/">VESTA-109</a></p></figcaption></figure>
 
 
 
@@ -18,7 +18,7 @@ VDP-3 Video Door Phone is designed to replace conventional doorbell by providing
 
 &#x20;                    **From View                                      Front View (Cover removed)                  Back View**
 
-<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (712).png" alt=""><figcaption></figcaption></figure>
 
 1. **Protective Cover**
 2. **Camera Lens**
@@ -61,7 +61,7 @@ The Video Door Phone has built-in Blue and Red LEDs to indicate device status.
 5. Once restarted, the blue LED will begin blinking to indicate that the device is now in Configuration mode.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (903).png" alt=""><figcaption></figcaption></figure>
 
 ## Equipment required <a href="#toc51257986" id="toc51257986"></a>
 
@@ -106,7 +106,7 @@ VDP into the wall.
 
 &#x20;                                                                 Figure 1                       Figure 2
 
-<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (713).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8.** Replace the protective cover on top of the VDP and tighten the cover fixing screw.
 
@@ -153,7 +153,7 @@ When the Video Doorbell button is pressed, all associated accounts with incoming
 
 <figure><img src=".gitbook/assets/20.jpg" alt="" width="360"><figcaption></figcaption></figure>
 
-To access camera function setup, tap the ![](<.gitbook/assets/21 (1) (1).png>) icon and follow below instructions.
+To access camera function setup, tap the ![](<.gitbook/assets/21 (2).png>) icon and follow below instructions.
 
 * **Device Name**
 
@@ -216,7 +216,7 @@ Note: Please be aware that it is necessary to restart the device before you can 
 
 1. Open Finder software and press "Search" button
 
-<figure><img src=".gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -226,12 +226,12 @@ Note: Please be aware that it is necessary to restart the device before you can 
 Note: the default password is: cX+HsA\*7F1
 {% endhint %}
 
-<figure><img src=".gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
 3. Open the System Settings menu and select Firmware Upgrade page
 
-<figure><img src=".gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
 Press Apply to upgrade the VDP firmware.

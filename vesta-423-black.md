@@ -4,6 +4,6 @@
 
 ## Indoor PIRCAM 720P Detector
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Manual and instructions, refer to VESTA-423

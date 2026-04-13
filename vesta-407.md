@@ -4,7 +4,7 @@ MDC-3-ADC2
 
 ## Mini Door Contact
 
-<figure><img src=".gitbook/assets/image (568).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1236).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Part Identification
 
@@ -55,7 +55,7 @@ In Normal operation mode, the LED indicator remains off except in the following 
 
 The tamper switch is designed to protect against unauthorized cover opening. When the tamper is triggered, Door Contact will emit a signal to the Control Panel for reporting, the LED will also light up.
 
-### ![](<.gitbook/assets/Unknown image (2)>)
+### ![](<.gitbook/assets/Unknown image (3)>)
 
 ### Battery
 
@@ -71,7 +71,7 @@ Step 2  Push the flat-headed screwdriver upwards as **FIG. 2** to separate the c
 
 Step 3   Turn to the other side and repeat Steps 1 and 2.
 
-<figure><img src=".gitbook/assets/image (569).png" alt="" width="361"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1237).png" alt="" width="361"><figcaption></figcaption></figure>
 
 Step 4  Once the covers are separated, you can proceed to change the battery.
 
@@ -85,14 +85,14 @@ Make sure the battery mark with the positive side (+) faces upwards when inserti
 Make sure to insert or place the battery from the bottom as indicated in **FIG. 3**.&#x20;
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (570).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1238).png" alt=""><figcaption></figcaption></figure>
 
 Step 6  To replace the cover:
 
 * Make sure the Tamper Compression Mark is aimed at the Tamper Switch ( **FIG.4**).
 * Align the rounded corners of the back cover with the rounded corners with the front cover and push the covers towards each other until you hear a click sound (**FIGs. 5** and **6**).
 
-<figure><img src=".gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1239).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Test Mode**_
 
@@ -126,7 +126,7 @@ Step 6: When you are satisfied with the Door Contact at the chosen location, pro
 Note: The magnet should be no more than **6 mm** from the Door Contact when the door is closed.
 {% endhint %}
 
-![](<.gitbook/assets/Unknown image (10)>)
+![](<.gitbook/assets/Unknown image (11)>)
 
 ### Mounting Methods for Door Contact
 
@@ -143,7 +143,7 @@ To mount the Door Contact:
 5. &#x20;V. Screw the back cover onto the wall plugs with a Phillips screwdriver.
 6. &#x20;Attach the front cover to the back cover.
 
-![](<.gitbook/assets/Unknown image (11)>)
+![](<.gitbook/assets/Unknown image (12)>)
 
 #### **Velcro tape Mounting:**
 
@@ -152,13 +152,13 @@ The Door Contact can be mounted using the Velcro tape provided.&#x20;
 1. Clean the surface to be mounted and the back of the Door Contact with degreaser. Do not mount the Door Contact on a rough surface or a surface with cracking paint.
 2. The Velcro tape can be separated in to the Hook and the Loop (**FIG.7**).
 
-<figure><img src=".gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1240).png" alt=""><figcaption></figcaption></figure>
 
 4. Remove the liner of the Hook and attach the Hook to the back of the DoorContact. Press the Hook firmly for 30 seconds to ensure good contact (**FIG.8).**
 5. Remove the liner of the Loop and apply the Loop to the desired mounting location as in **FIG.9**. Press the Loop firmly for 30 seconds to ensure good contact.
 6. Apply the Door Contact to the Loop taped on the door/window frame(**FIGs. 10&11 )**
 
-<figure><img src=".gitbook/assets/image (573).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1241).png" alt=""><figcaption></figcaption></figure>
 
 #### **Double-sided Adhesive Mounting:**
 
@@ -168,7 +168,7 @@ The Door Contact can be mounted with the double sided adhesive tape provided.
 2. Remove the liner for the object side and attach the adhesive tape to the Door Contact. Press the tape against the Door Contact firmly for 30 seconds to ensure good adhesion .
 3. Remove the liner for the wall side and attach the Door Contact to the door/window frame. Press the Door Contact against the door/window frame firmly for 30 seconds to ensure goodadhesion.
 
-<figure><img src=".gitbook/assets/image (574).png" alt="" width="275"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1242).png" alt="" width="275"><figcaption></figcaption></figure>
 
 ### **Mounting Methods for Magnet**
 
@@ -180,14 +180,14 @@ To mount the Magnet:
 
 1. Open the back cover with a flat-headed screwdriver as the picture on the bottom left. Fit the screwdriver into the caved-in area and push upwards as the picture on the bottom right.
 
-![](<.gitbook/assets/Unknown image (23)>) ![](<.gitbook/assets/Unknown image (24)>)
+![](<.gitbook/assets/Unknown image (24)>) ![](<.gitbook/assets/Unknown image (25)>)
 
 2. Use the holes on the back cover as a template and drill two holes into the door/window.
 3. Insert the wall plugs into the holes screwed.
 4. Screw the back cover onto the wall plugs with a Phillips screwdriver. Where required, use the magnet spacer to elevate the magnet to better align the rib marks.
 5. Attach the front cover to the back cover. You will hear a click sound when the front cover is firmly fixed onto the back cover
 
-<figure><img src=".gitbook/assets/image (576).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1244).png" alt=""><figcaption></figcaption></figure>
 
 #### **Adhesive Mounting**
 

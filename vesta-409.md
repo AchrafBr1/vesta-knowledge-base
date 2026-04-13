@@ -16,26 +16,26 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 ## Parts Identification
 
-![](<.gitbook/assets/Unknown image (247)>)
+![](<.gitbook/assets/Unknown image (371)>)
 
 Front View
 
-![](<.gitbook/assets/Unknown image (248)>)
+![](<.gitbook/assets/Unknown image (372)>)
 
 Internal View
 
-![](<.gitbook/assets/Unknown image (249)>)
+![](<.gitbook/assets/Unknown image (373)>)
 
 Back View
 
-![](<.gitbook/assets/Unknown image (250)>)
+![](<.gitbook/assets/Unknown image (374)>)
 
 1. Test Button / LED Indicator
 
 * The test button is used for testing the radio performance and for learning purpose.
 * The LED indicator is used to indicate the status of system. 2. IR Sensor
 
-1. ![](<.gitbook/assets/Unknown image (251)>)Battery Compartment
+1. ![](<.gitbook/assets/Unknown image (375)>)Battery Compartment
 2. Bottom Fixing Screw
 3. Tamper Switch
 4. Pet Immunity Enable/Disable Jumper Switch (JP3)
@@ -44,7 +44,7 @@ Back View
 
 The jumper link is inserted, The jumper link is removed or connecting the two pins. “parked” on one pin.
 
-![](<.gitbook/assets/Unknown image (252)>) ![](<.gitbook/assets/Unknown image (253)>) ![](<.gitbook/assets/Unknown image (254)>) ![](<.gitbook/assets/Unknown image (255)>)
+![](<.gitbook/assets/Unknown image (376)>) ![](<.gitbook/assets/Unknown image (377)>) ![](<.gitbook/assets/Unknown image (378)>) ![](<.gitbook/assets/Unknown image (379)>)
 
 * When set as ON, Pet Immunity is disabled.
 * When set as OFF, Pet Immunity is enabled (Factory default).
@@ -142,13 +142,13 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 
  When the detection coverage is found to be satisfying, follow the steps described in Mounting Method section below to mount the PIR.
 
-![](<.gitbook/assets/Unknown image (256)>)![](<.gitbook/assets/Unknown image (257)>) The PIR is designed to be mounted either on a flat surface or in a corner.
+![](<.gitbook/assets/Unknown image (380)>)![](<.gitbook/assets/Unknown image (381)>) The PIR is designed to be mounted either on a flat surface or in a corner.
 
 
 
 Mounting Method
 
-![](<.gitbook/assets/Unknown image (258)>)
+![](<.gitbook/assets/Unknown image (382)>)
 
  The base has two knockouts where the plastic is thinner and can be broken for mounting purpose.
 
@@ -182,7 +182,7 @@ Corner Mounting
 
 Surface Mounting
 
-![](<.gitbook/assets/Unknown image (259)>)
+![](<.gitbook/assets/Unknown image (383)>)
 
 ####  Surface mounting with the rotating bracket (optional item, sold separately)
 
@@ -192,7 +192,7 @@ Surface Mounting
 2. Fit the PIR onto the 3 hooks of the rotating bracket.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-![](<.gitbook/assets/Unknown image (260)>)
+![](<.gitbook/assets/Unknown image (384)>)
 
 ###  Installation Recommendations
 
@@ -208,8 +208,8 @@ Surface Mounting
 
  Limitations
 
-|  | Do not install outdoors.![](<.gitbook/assets/Unknown image (261)>)                                                                                                                                 |  | Avoid large obstacles in the detection area.![](<.gitbook/assets/Unknown image (262)>)                                                           |
+|  | Do not install outdoors.![](<.gitbook/assets/Unknown image (385)>)                                                                                                                                 |  | Avoid large obstacles in the detection area.![](<.gitbook/assets/Unknown image (386)>)                                                           |
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  | Do not expose the PIR completely to direct sunlight.![](<.gitbook/assets/Unknown image (263)>)                                                                                                     |  | Avoid vapor or high humidity that can cause condensation.![](<.gitbook/assets/Unknown image (264)>)                                              |
-|  | Avoid moving objects in the detection area e.g., curtains, wall hangings, etc.![](<.gitbook/assets/Unknown image (265)>)                                                                           |  | Avoid reflected light from bright surfaces, e.g., mirrors, windows, etc.![](<.gitbook/assets/Unknown image (266)>)                               |
-|  | Avoid installing the PIR in areas where machines may cause rapid change in temperature in the detection area, e.g., near air conditioners, heaters, etc.![](<.gitbook/assets/Unknown image (267)>) |  | Avoid reflecting surface in the detection area. Reflected infrared signatures may lead to false alarm.![](<.gitbook/assets/Unknown image (268)>) |
+|  | Do not expose the PIR completely to direct sunlight.![](<.gitbook/assets/Unknown image (387)>)                                                                                                     |  | Avoid vapor or high humidity that can cause condensation.![](<.gitbook/assets/Unknown image (388)>)                                              |
+|  | Avoid moving objects in the detection area e.g., curtains, wall hangings, etc.![](<.gitbook/assets/Unknown image (389)>)                                                                           |  | Avoid reflected light from bright surfaces, e.g., mirrors, windows, etc.![](<.gitbook/assets/Unknown image (390)>)                               |
+|  | Avoid installing the PIR in areas where machines may cause rapid change in temperature in the detection area, e.g., near air conditioners, heaters, etc.![](<.gitbook/assets/Unknown image (391)>) |  | Avoid reflecting surface in the detection area. Reflected infrared signatures may lead to false alarm.![](<.gitbook/assets/Unknown image (392)>) |

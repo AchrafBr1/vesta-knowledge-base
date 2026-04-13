@@ -4,7 +4,7 @@
 
 ## **Wireless Outdoor Bell Box**&#x20;
 
-<figure><img src=".gitbook/assets/image (14) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 The Outdoor Bell Box is used to attract attention when alarm signal is received from Control Panel, by activating its siren and strobe light.
 
@@ -26,7 +26,7 @@ Off: The Bellbox is not powered by any battery.
 
 &#x20;BT2: This configuration is currently reserved
 
-![](<.gitbook/assets/1 (85).jpeg>)
+![](<.gitbook/assets/1 (95).jpeg>)
 
 4. **LED Group 3**
 5. **LED Group 2**
@@ -106,7 +106,7 @@ Tamper feature can be disabled temporaily from the Control Panel using Siren Tam
 
 While arming / disarming the system, the BX-23 uses different methods to distinguish various statuses for the user, as listed in the table.
 
-<figure><img src=".gitbook/assets/2 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (10).png" alt=""><figcaption></figcaption></figure>
 
 * The Siren Audio indication will be affected by the Confirmation ON / OFF setting. When setting Confirmation to OFF, the confirmation sound will not be available. Refer to Control Panel Siren setting for Confirmation function.
 
@@ -126,7 +126,7 @@ Step 5: Press the Learn button once. The Bellbox will emit a short beep and LED 
 
 Step 6: If the Control Panel did not receive a learning code, press the learn button again (the Bellbox will not sound a beep this time).
 
-![](<.gitbook/assets/14 (25).jpeg>)
+![](<.gitbook/assets/14 (29).jpeg>)
 
 Step 7: If the Control Panel receives the learning code, it will list the device information accordingly, follow Control Panel manual instruction to complete the learning procedure. An acknowledgement will be sent to the Bellbox. When the acknowledgment is received, the Bellbox will sound two short beeps with LED group 2 flashing once to indicate that learning process is successful. The Bellbox will then leave learning mode.
 
@@ -147,7 +147,7 @@ Step 2: Press the learn button on the Bellbox to send signal to panel, the Bellb
 
 Step 3: When the Bellbox receives acknowledgement signal from panel, it will emit a beep and flash LED 2 once to indicate the setting has been updated. The Bellbox will return to normal operation.
 
-![](<.gitbook/assets/17 (19).jpeg>)
+![](<.gitbook/assets/17 (25).jpeg>)
 
 ## **Installation**
 
@@ -169,7 +169,7 @@ Step 4. Remove the LED cover by releasing the 2 screws securing the cover using 
 
 Step 5. Hold the Bellbox at the position where it will be mounted, supply power to Bellbox
 
-![](<.gitbook/assets/19 (31).png>)
+![](<.gitbook/assets/19 (37).png>)
 
 Step 6. Check whether BX has a strong enough signal with the Control Panel by putting the Control Panel into **Walk Test** mode (please refer to Control Panel manual). Press the **Learn Button** check whether the signal is strong enough (please refer to Control Panel manual for signal strength).
 

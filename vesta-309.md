@@ -4,7 +4,7 @@
 
 ## **Smoke and Carbon Monoxide Detector**
 
-<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 SDCO-3-RhTHM-ZW-SC-AC-OTA is a Z-Wave Smoke and Carbon Monoxide Detector with built-in PIR Sensor, temperature, humidity, and heat detection, as well as voice prompts and allows access to the “S2 Unauthenticated” class and supports both of Z-Wave SmartStart Inclusion and classic Inclusion. It is capable of sending wireless signals to the Z-Wave gateway/control panel upon detection of smoke particles or Carbon Monoxide. The device is also serially connected with other sensors in the Z-Wave gateway to serve as an extra siren. When any other sensor in the Z-Wave network is activated and sends an alarm signal, the Smoke Detector will also raise alarm with its built-in buzzer as a siren to help sound warning (for serial connection models).
 
@@ -12,7 +12,7 @@ The SDCO-3 is designed to be mounted on ceiling or top of stairwells when smoke 
 
 The SDCO Detector is a Z-Wave enabled device and is fully compatible with any Z-Wave enabled network. Z-Wave is a wireless communication protocol that uses a low-power RF radio.
 
-![](<.gitbook/assets/1 (83).png>)
+![](<.gitbook/assets/1 (115).png>)
 
 ## _**Parts Identification**_
 
@@ -104,13 +104,13 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 
 
 
-![Figure 1. Insert the white and the black wires.](<.gitbook/assets/8 (68).png>)
+![Figure 1. Insert the white and the black wires.](<.gitbook/assets/8 (78).png>)
 
-![Figure 2. Check if the wires are connected properly.](<.gitbook/assets/9 (66).png>)
+![Figure 2. Check if the wires are connected properly.](<.gitbook/assets/9 (76).png>)
 
 
 
-![Figure 3. Insert the AC wires.](<.gitbook/assets/10 (62).png>)
+![Figure 3. Insert the AC wires.](<.gitbook/assets/10 (112).png>)
 
 **Step 7.** Turn the SDCO Detector over. You will hear “Welcome, Smoke Alarm and Carbon Monoxide Detector”, indicating it is ready for further setup (for serial connected models only).
 
@@ -131,7 +131,7 @@ This product can be included and operated in any Z-Wave network with other Z-Wav
 
 ### **SmartStart Inclusion**
 
-![](<.gitbook/assets/11 (30).jpeg>)
+![](<.gitbook/assets/11 (36).jpeg>)
 
 Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. DSK is Device Specific Key used for authentication communication. The DSK information is stored in the QR code format that is printed on a label and adhered to the exterior of the device.
 
@@ -172,13 +172,13 @@ The SDCO Detector allows the user to set up a location prompt for an area (e.g.,
 
 **Step 8.** The device will play prompt #7 “Programmed” after you release the button and emit 2 beeps for confirmation.
 
-<figure><img src=".gitbook/assets/10 (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (31).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (12).png" alt=""><figcaption></figcaption></figure>
 
 * When a CO, smoke, and/ or temperature alarm is triggered, the siren will be activated according to the time length below and followed by voice prompts to notify the user to evacuate.
 
-<figure><img src=".gitbook/assets/12 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (13).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Fire Verification**_
 
@@ -211,11 +211,11 @@ The SDCO Detector will activate fire alarm when either of its smoke detection or
 2. The CO sensor features self-diagnosis function and will regularly check the health or status of the sensor every 12 hours.
 3. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with EN-50291 standard)
 
-<figure><img src=".gitbook/assets/10 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (32).png" alt=""><figcaption></figcaption></figure>
 
 4\. The alarm will be activated after CO concentration is detected according to time length in the following table: (compliant with UL-2034 standard)
 
-<figure><img src=".gitbook/assets/11 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (13).png" alt=""><figcaption></figcaption></figure>
 
 5. Once the CO concentration level exceeds the threshold and persists for the time length as listed in the above table, the SDCO Detector will transmit the signal to Z-Wave coordinator and raise alarm with its built-in siren.
 6. If CO drops below 30ppm for 10 continuous detection times, the SDCO will transmit a restore signal.
@@ -326,11 +326,11 @@ It is recommended writing the “Replace by” date (10 years from installation 
   * Near ceiling beams or over a cabinet – stagnant air in these areas may affect the sensitivity of the detector.
   * In the peak of an “**A**” frame type of ceiling.
 
-<figure><img src=".gitbook/assets/10 (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (34).png" alt=""><figcaption></figcaption></figure>
 
 * The SDCO Detector can support detection coverage within a radius of 4 meters.
 
-<figure><img src=".gitbook/assets/10 (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (33).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Installation Recommendation**_
 
@@ -356,7 +356,7 @@ It is recommended writing the “Replace by” date (10 years from installation 
 
 **Step 7.** Insert the AC wires to the two connectors respectively, as shown below.
 
-<figure><img src=".gitbook/assets/10 (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (35).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8.** The SDCO Detector has a mounting bracket for ceiling installation. The bracket provides bidirectional flexibility.
 
@@ -370,7 +370,7 @@ It is recommended writing the “Replace by” date (10 years from installation 
 
 **Step 13.** Use a Phillips screwdriver to remove the battery compartment fixing screw. Remove the battery compartment cover and attach the cable to the PCB board of the SDCO Detector. The foolproof design provides an easy installation procedure.
 
-<figure><img src=".gitbook/assets/10 (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (36).png" alt=""><figcaption></figcaption></figure>
 
 **Step 14.** Put the two Splicing Connectors in the space next to the rechargeable battery.
 
@@ -400,9 +400,9 @@ It is recommended writing the “Replace by” date (10 years from installation 
 
 **Supported Command Class :**
 
-<figure><img src=".gitbook/assets/10 (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (37).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (14).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Z-Wave’s Groups (Association Command Class Version 2)**_
 
@@ -535,9 +535,9 @@ Note: 0B 77 06 00 42 61 73 65 6D 65 6E 74 is when the location is “Basement”
 
 _**Table 1**_
 
-<figure><img src=".gitbook/assets/10 (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (38).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (15).png" alt=""><figcaption></figcaption></figure>
 
 #### **Tamper Open/Close report: \[COMMAND\_CLASS\_NOTIFICATION] \[NOTIFICATION\_REPORT]**
 
@@ -560,15 +560,15 @@ _**Table 1**_
 
 _**Table 2**_
 
-<figure><img src=".gitbook/assets/10 (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (39).png" alt=""><figcaption></figcaption></figure>
 
 * Location name /Bit4\~0/Num, as shown in Table 3 below
 
 _**Table 3**_
 
-<figure><img src=".gitbook/assets/10 (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (40).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (16).png" alt=""><figcaption></figcaption></figure>
 
 * To activate the door chime, set Scene ID: 0x00 and Dimming Duration: 0xF1.
 * To stop the siren and voice prompts generated by this command, set Scene ID: 0x00 and Dimming Duration: 0x00. **Please note this command CANNOT be used to stop the siren and voice prompts of a real alarm.**
@@ -585,22 +585,22 @@ _**Table 3**_
 * The LED indicator of SDCO can be controlled by using Indicator Set commands.
 * The following commands can be used to set the indicator command:
 
-<figure><img src=".gitbook/assets/10 (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (41).png" alt=""><figcaption></figcaption></figure>
 
 * Indicator set on (0xFF) --- indicator function on
 * Indicator set off (0x00) --- indicator function off
 * Indicator Object Count (0x01) --- to control LED indicator ID 1
 * Indicator ID (0x43) --- button indication
 
-<figure><img src=".gitbook/assets/10 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (42).png" alt=""><figcaption></figcaption></figure>
 
 * Indicator ID (0x44) --- MCU reboot
 
-<figure><img src=".gitbook/assets/11 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (17).png" alt=""><figcaption></figcaption></figure>
 
 * Property ID (0x00-0xFE) --- LED on\_off times
 
-<figure><img src=".gitbook/assets/12 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (14).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -620,13 +620,13 @@ _**Table 3**_
 
  Configuration Value: 0xXX
 
-<figure><img src=".gitbook/assets/13 (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/10 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10 (43).png" alt=""><figcaption></figcaption></figure>
 
  _**Table 4**_ 0x09 (Hardware Fault)
 
-<figure><img src=".gitbook/assets/11 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (18).png" alt=""><figcaption></figcaption></figure>
 
  SD Broken: If Bit0=1, it will send a Notification Command “00 00 00 FF 01 FE 00”\
  HD Broken: If Bit1=1, it will send a Notification Command “00 00 00 FF 04 FE 00”\
@@ -634,7 +634,7 @@ _**Table 3**_
 
  Table 5 0x10 (Temporary Snooze)
 
-<figure><img src=".gitbook/assets/12 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (15).png" alt=""><figcaption></figcaption></figure>
 
 #### **Factory Reset**
 

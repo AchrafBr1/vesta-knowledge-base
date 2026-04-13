@@ -6,9 +6,9 @@ icon: video-plus
 
 ## 32-channel NVR IP Pro AI Series Plus
 
-<figure><img src="../.gitbook/assets/image (546).png" alt="" width="375"><figcaption><p>NVR6232S-IO-PRO</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1214).png" alt="" width="375"><figcaption><p>NVR6232S-IO-PRO</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (549).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1217).png" alt=""><figcaption></figcaption></figure>
 
 ### Specifications
 

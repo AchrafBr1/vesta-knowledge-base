@@ -10,7 +10,7 @@
 
 ## **PIR Motion Sensor IR-35-2W / VESTA-177 Series**
 
-<figure><img src=".gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1040).png" alt=""><figcaption></figcaption></figure>
 
 ## MANUAL GUIDE
 
@@ -30,7 +30,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (1) (1) (1) (1) (1) (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/0 (11).jpeg>)
 
 1. **Test Button / LED Indicator**
 
@@ -41,12 +41,12 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 3. &#x20;**Battery Compartment**
 4.  **Pet Immunity Enable/Disable Jumper Switch (JP3)**
 
-    1. <img src=".gitbook/assets/image (171).png" alt="" data-size="line">  **Jumper On:** When set as ON, Pet Immunity is disabled (Factory default).
-    2. <img src=".gitbook/assets/image (172).png" alt="" data-size="line">**Jumper Off:** When set as OFF, Pet Immunity is enabled.
+    1. <img src=".gitbook/assets/image (818).png" alt="" data-size="line">  **Jumper On:** When set as ON, Pet Immunity is disabled (Factory default).
+    2. <img src=".gitbook/assets/image (819).png" alt="" data-size="line">**Jumper Off:** When set as OFF, Pet Immunity is enabled.
 
 
 
-    ![](<.gitbook/assets/1 (1) (1) (1) (1) (1) (1) (1).jpeg>)
+    ![](<.gitbook/assets/1 (10).jpeg>)
 5. **Sensitivity Increaser Jumper Switch (JP4)**
    * When set as ON, the PIR’s detection sensitivity is high.
    * When set as OFF, the PIR’s detection sensitivity is in normal level. (Factory default)
@@ -166,7 +166,7 @@ The sleep mode setting is remotely configurable. When sleep mode is set to Norma
 
 &#x20;                                                                                                      **IR-35-2W Detection Range**
 
-![](<.gitbook/assets/20 (3).png>)
+![](<.gitbook/assets/20 (10).png>)
 
 ### _**Mounting Method**_
 
@@ -175,7 +175,7 @@ The sleep mode setting is remotely configurable. When sleep mode is set to Norma
 * A mounting bracket includes two central screw holes for fixing the PIR onto a surface and four side screw holes
 * For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, the IR-35-2W can be rotated 80 degrees horizontally and 70 degrees vertically to provide the optimal coverage.
 
-<figure><img src=".gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (820).png" alt=""><figcaption></figcaption></figure>
 
 #### **Surface Mounting without the mounting bracket:**
 
@@ -186,7 +186,7 @@ The sleep mode setting is remotely configurable. When sleep mode is set to Norma
 5. Screw the base onto the wall plugs.
 6. Screw the cover onto the base.
 
-<figure><img src=".gitbook/assets/image (174).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (821).png" alt="" width="170"><figcaption></figcaption></figure>
 
 #### **Surface Mounting with the mounting bracket:**
 
@@ -195,7 +195,7 @@ The sleep mode setting is remotely configurable. When sleep mode is set to Norma
 3. Screw the mounting bracket onto the wall plugs with the two pointing sticks on top and facing you.
 4. Fit the PIR onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/image (175).png" alt="" width="193"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (822).png" alt="" width="193"><figcaption></figcaption></figure>
 
 #### Corner Mounting with the mounting bracket:
 
@@ -204,7 +204,7 @@ The sleep mode setting is remotely configurable. When sleep mode is set to Norma
 3. Screw the mounting bracket o nto the wall plugs with the two pointing sticks on top and facing you.
 4. Fit the PIR onto the hooks of the mounting bracket.
 
-<figure><img src=".gitbook/assets/image (176).png" alt="" width="212"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (823).png" alt="" width="212"><figcaption></figcaption></figure>
 
 #### **Surface mounting with the rotating bracket (optional item, sold separately):**
 
@@ -214,7 +214,7 @@ The sleep mode setting is remotely configurable. When sleep mode is set to Norma
   2. Fit the 3 hooks of the rotating bracket into the 3 holes of the base accordingly.
   3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-<figure><img src=".gitbook/assets/image (177).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (824).png" alt="" width="240"><figcaption></figcaption></figure>
 
 ### _**Installation Recommendations**_
 
@@ -229,7 +229,7 @@ The sleep mode setting is remotely configurable. When sleep mode is set to Norma
 
 #### **Limitations**
 
-<figure><img src=".gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (825).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
 

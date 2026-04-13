@@ -4,7 +4,7 @@
 
 ## **Temperature Sensor**
 
-<figure><img src=".gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 TSO-9EL is wireless temperature sensor with attached temperature probe. It automatically transmits temperature condition to the Control Panel every half hour (30 minutes).
 
@@ -16,7 +16,7 @@ Remove the cover by loosening the bottom fixing screw, the inside of the Tempera
 
 Connect the External Temperature Probe to this Terminal
 
-![](<.gitbook/assets/0 (105).jpeg>)
+![](<.gitbook/assets/0 (116).jpeg>)
 
 **2. Test Button**
 

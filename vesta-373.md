@@ -4,7 +4,7 @@
 
 ## **Wireless Indoor Siren**
 
-<figure><img src=".gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 SR-35 is a wireless Indoor Siren that is used for system alarm indication. When an alarm signal is received from the Control Panel, the Siren will activate to attract attention. The Siren can also work with the Control Panel to emit entry and exit delay sounds, and also alert you to tamper violation and low battery status.
 
@@ -14,7 +14,7 @@ SR-35 – Indoor Siren powered by two alkaline batteries
 
 SR-35SL – Indoor Siren powered by two L91 lithium batteries
 
-![](<.gitbook/assets/0 (75).png>)
+![](<.gitbook/assets/0 (82).png>)
 
 ## **Identifying the Parts**
 
@@ -80,7 +80,7 @@ The tamper feature can be disabled temporaily from the Control Panel using the S
 
 While arming / disarming the system, the Siren uses different methods to distinguish various statuses for the user, as listed in the table below.
 
-<figure><img src=".gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (918).png" alt=""><figcaption></figcaption></figure>
 
 * The Siren’s Audio indication will be affected by the Confirmation ON / OFF setting. When setting Confirmation to OFF, the confirmation sound will not be available. Refer to the Control Panel’s Siren Setting for Confirmation function.
 
@@ -195,7 +195,7 @@ If 5 short-beeps are noticed while arming/disarming, it means the tamper is not 
 
 Step 6. The installation is now completed.
 
-![](<.gitbook/assets/19 (42).png>)
+![](<.gitbook/assets/19 (48).png>)
 
 ## **Changing the Batteries**
 

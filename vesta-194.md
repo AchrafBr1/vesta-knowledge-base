@@ -4,7 +4,7 @@ Fall Sensor-3
 
 ## Fall Sensor
 
-<figure><img src=".gitbook/assets/image (56) (1).png" alt="" width="375"><figcaption><p>VESTA-194</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (665).png" alt="" width="375"><figcaption><p>VESTA-194</p></figcaption></figure>
 
 Fall Sensor Series provides one of the most effective solutions to minimize the potential harm when the elderly fall. The sensitivity level of Fall Sensor-3 can be programmed on the control panel. Worn by users as neck pendants 24 hours a day, Fall Sensor automatically raises alarm calls to the monitoring center and activates the medical alarm to open two-way voice communication when falls have been detected. As one of significant causes of morbidity, falls may seriously affect senior people’s health.&#x20;
 
@@ -16,7 +16,7 @@ This fall sensor is designed to activate the Control Panel by manual button pres
 
 ## **Identifying the Parts**
 
-![](<.gitbook/assets/2 (69).jpeg>)
+![](<.gitbook/assets/2 (73).jpeg>)
 
 1. **Lanyard Loop**
 2. **Green/Red LED**
@@ -75,7 +75,7 @@ If a fall is detected, the sensor will transmit an alarm signal to Control Panel
   1. Let it hang in front of the chest and adjust necklace length so that the sensor hangs at the bottom of the sternum as shown in the picture below.
   2. Wear the pendant exposed outside and in front of any clothes or heavy/feather jacket.
 
-![](<.gitbook/assets/8 (44).jpeg>)
+![](<.gitbook/assets/8 (49).jpeg>)
 
 1. When a fall occurs, it is best if the fall sensor can touch the ground.
 2. Wrong way to wear a fall sensor **(X)**

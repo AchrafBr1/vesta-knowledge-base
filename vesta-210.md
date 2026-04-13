@@ -4,7 +4,7 @@
 
 ## **Outdoor Curtain PIR Motion Sensor Camera**
 
-<figure><img src=".gitbook/assets/image (65).png" alt="" width="375"><figcaption><p>VESTA-210</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (674).png" alt="" width="375"><figcaption><p>VESTA-210</p></figcaption></figure>
 
 VST-892EXC is an outdoor curtain passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 640 x 480 pixels) to the Control Panel upon movement detection.
 
@@ -120,7 +120,7 @@ The Red LED will flash slowly during warm-up period. During the warm-up period, 
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF. Top position indicates ON and bottom position indicates OFF.
 
-<figure><img src=".gitbook/assets/image (66).png" alt=""><figcaption><p>Function os each DIP SWITCH</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (675).png" alt=""><figcaption><p>Function os each DIP SWITCH</p></figcaption></figure>
 
 ### _**Anti-masking**_
 
@@ -141,7 +141,7 @@ The function of each DIP Switch is listed in the table below. The DIP Switch is 
 
 **Step 3:** Push the back cover from left to right.
 
-![](<.gitbook/assets/14 (26).jpeg>)
+![](<.gitbook/assets/14 (30).jpeg>)
 
 **Step 4:** Remove the old batteries and press the test button twice to fully discharge.
 
@@ -191,25 +191,25 @@ Follow instruction below to change PIR Camera Area in the Control Panel
 Rotating Bracket code: VESTA-213&#x20;
 {% endhint %}
 
-![](<.gitbook/assets/19 (9).jpeg>)
+![](<.gitbook/assets/19 (13).jpeg>)
 
 **Step 1.** Mount the VST-892EXC with the hooks of the mounting bracket latched on the back cover of the VST-892EXC, and then push downwards until you hear a click sound.
 
-![](<.gitbook/assets/20 (15).jpeg>)
+![](<.gitbook/assets/20 (19).jpeg>)
 
 **Step 2.** On the back of the mounting bracket, install a screw to make sure the device is well-secured.
 
-<figure><img src=".gitbook/assets/image (68).png" alt="" width="559"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (677).png" alt="" width="559"><figcaption></figcaption></figure>
 
 **Step 3.** Fix the rotating holder to the wall with 2 provided screws. Fix the mounting bracket on the rotating holder with fixing screws.
 
-<figure><img src=".gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (678).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** When the top screw of the rotating holder is loose, the VST-892EXC can be rotated horizontally. A calibration line is marked for 0 degree.
 
 When the screw on the side of the rotating holder is loose, the VST-892EXC can be rotated vertically. 7 scales are marked for adjusting angles. 1 scale is for 5 degrees and the VST-892EXC can be moved to the maximum of 30 degrees vertically.
 
-<figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (679).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** After adjusting the proper angles for the IR Detection, secure the screws on the top and the side.
 
@@ -225,7 +225,7 @@ When the screw on the side of the rotating holder is loose, the VST-892EXC can b
 
 **Step 2.** 4 screws are secured. Remove 2 rubber caps on the 2 bottom screws and then loosen 4 screws as shown in Figure 2.
 
-<figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (680).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Remove the old PIR lens, and install the new lens onto the PIR Camera.
 
@@ -235,7 +235,7 @@ When the screw on the side of the rotating holder is loose, the VST-892EXC can b
 
 Step 6. PIR lens A / B should be installed vertically; PIR lens C is installed horizontally. Different applications and installation methods are shown in the table and figures below.
 
-<figure><img src=".gitbook/assets/3 (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (9).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Installation Recommendations**_
 
@@ -246,24 +246,24 @@ Step 6. PIR lens A / B should be installed vertically; PIR lens C is installed h
 * When you mount the PIR camera higher, the blind spot will be larger; when you mount the PIR camera lower, the blind spot will be reduced.
 * Tilting the PIR camera will impact the blind spot area under the camera and the pet immune area.
 
-<figure><img src=".gitbook/assets/image (74).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (683).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Lens A: Vertical Curtain (pet immune)**
 
-<figure><img src=".gitbook/assets/4 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/6 (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (5).png" alt=""><figcaption></figcaption></figure>
 
 * Users can slightly tilt the PIR Camera to reduce blind spot.
 * Lens B for vertical curtain detection does not have Pet immune function.
 
-<figure><img src=".gitbook/assets/7 (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (75).png" alt="" width="375"><figcaption><p>Vertical Curtain Detection Range</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (684).png" alt="" width="375"><figcaption><p>Vertical Curtain Detection Range</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (76).png" alt="" width="370"><figcaption><p>Tilt Angle</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (685).png" alt="" width="370"><figcaption><p>Tilt Angle</p></figcaption></figure>
 
 ## **Limitations:**
 
@@ -271,16 +271,16 @@ Step 6. PIR lens A / B should be installed vertically; PIR lens C is installed h
 * Avoid large obstacles in the detection area.
 * Do not point directly at sources of heat, such as fires and boilers, or install above radiators.
 
-<figure><img src=".gitbook/assets/image (83).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (692).png" alt="" width="266"><figcaption></figcaption></figure>
 
 * Never attempt to disassemble or modify the unit.
 * Do not install the motion sensor camera where objects moved by wind such as trees and laundry, which may block the motion sensor camera’s field of view.
 *
 
-    <figure><img src=".gitbook/assets/image (78).png" alt="" width="278"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (687).png" alt="" width="278"><figcaption></figcaption></figure>
 * Clear all light reflecting surfaces from the detection area, as well as water puddles.
 
-<figure><img src=".gitbook/assets/image (81).png" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (690).png" alt="" width="256"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Adjust the Dip Switche 3 setting according to the IR lens direction for appropriate application. If Dip Switch 3 setting does not match with the IR lens direction, the PIR Camera’s performance will be hindered and may cause either false alarm or inability to detect movement.

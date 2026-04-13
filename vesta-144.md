@@ -4,29 +4,29 @@
 
 ## **Remote Controller**
 
-<figure><img src=".gitbook/assets/image (23) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
-![](<.gitbook/assets/1 (57).jpeg>)
+![](<.gitbook/assets/1 (67).jpeg>)
 
 ### _**Identifying the parts**_
 
-1. ### <img src=".gitbook/assets/0 (63).jpeg" alt="" data-size="line">BUTTON       &#x20;
+1. ### <img src=".gitbook/assets/0 (74).jpeg" alt="" data-size="line">BUTTON       &#x20;
 
 Press this button to arm the system in away mode.
 
-2. &#x20;<img src=".gitbook/assets/2 (48).jpeg" alt="" data-size="original"> **BUTTON**
+2. &#x20;<img src=".gitbook/assets/2 (52).jpeg" alt="" data-size="original"> **BUTTON**
 
 Press this button to disarm the system.
 
 When alarm is activated, press the button to stop alarm
 
-3. <img src=".gitbook/assets/3 (47).jpeg" alt="" data-size="line"> **BUTTON**
+3. <img src=".gitbook/assets/3 (53).jpeg" alt="" data-size="line"> **BUTTON**
 
 Pressing this button will arm the system in home mode.
 
-4. <img src=".gitbook/assets/4 (63).png" alt="" data-size="line"> **BUTTON**
+4. <img src=".gitbook/assets/4 (76).png" alt="" data-size="line"> **BUTTON**
 
 Press and hold this button for 3 seconds to send a panic signal regardless of system mode
 

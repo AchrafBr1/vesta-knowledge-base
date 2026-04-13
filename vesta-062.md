@@ -30,7 +30,7 @@ D) TPC: Tamper output, in case of tampering the TPNC contact opens, TPNO closes.
 
 E) DIP SWITCHES
 
-<figure><img src=".gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (960).png" alt=""><figcaption></figcaption></figure>
 
 F)  TAMPER
 
@@ -56,9 +56,9 @@ Note:
 It is mandatory to set Dip 4 to OFF after having carried out the&#x20;programming and adjustments of the sensors, furthermore it is recommended to&#x20;set all the Dips to OFF to increase the battery life.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (961).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (315).png" alt=""><figcaption><p>side view</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (962).png" alt=""><figcaption><p>side view</p></figcaption></figure>
 
 <table><thead><tr><th width="104">COVERAGE </th><th width="79">TABLE</th></tr></thead><tbody><tr><td>height</td><td>length</td></tr><tr><td>0.8m</td><td>0.8m</td></tr><tr><td>1.0m</td><td>1.0m</td></tr><tr><td>1.5m</td><td>1.5m</td></tr><tr><td>2.0m</td><td>2.0m</td></tr><tr><td>2.2m</td><td>2.2m</td></tr><tr><td>2.5m</td><td>2.5m</td></tr><tr><td>3.0m</td><td>3.0m</td></tr><tr><td>4.0m</td><td>4.0m</td></tr><tr><td>5.0m</td><td>5.0m</td></tr><tr><td>6.0m</td><td>6.0m</td></tr></tbody></table>
 

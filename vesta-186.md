@@ -4,7 +4,7 @@
 
 ## ZigBee Power Meter / Plug Switch
 
-<figure><img src=".gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1051).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -62,11 +62,11 @@ The LED indicator lights up in the following conditions:
 
 &#x20;                                                                    _**Type F**_                                    _**Type B**_
 
-<figure><img src=".gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (853).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                      _**Type L**_                                   _**Type J**_
 
-<figure><img src=".gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure>
 
 ## **ZigBee Network Setup**
 
@@ -106,7 +106,7 @@ To remove the Power Switch from current ZigBee network, the Power Switch must be
 
 The Power Switch models with Router function allow other ZigBee devices to join the ZigBee Network through the Router. The Power Switch Router has maximum capacity of 40 devices, including 10 routers; the Power Switch Meter Router has maximum capacity of 10 devices including 5 routers.
 
-<figure><img src=".gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (856).png" alt=""><figcaption></figcaption></figure>
 
 ## **Operation**
 

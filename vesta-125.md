@@ -4,7 +4,7 @@ KPT-35-COMBO
 
 ## REMOTE KEYPAD
 
-<figure><img src=".gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
 KPT-35-COMBO is a hardwired Remote Keypad designed to have quick access control of the System Control Panel via PIN Code or RFID tags. The keypad can send wired and wireless signals to and receive signals from the Control Panel within 500ft (152m) in wire distance. The LCD screen will display any information the system control panel sends back.
 
@@ -12,7 +12,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws. I
 
 ## Parts Identification
 
-![](<.gitbook/assets/0 (32).png>)
+![](<.gitbook/assets/0 (39).png>)
 
 1. **Backlit LCD Display**
 2. **Green LED**
@@ -32,7 +32,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws. I
 
 &#x20;      \- For confirming the keyed-in data or confirming the selection.
 
-8. **Backlit Restore (**![](<.gitbook/assets/1 (36).png>)) **Key**
+8. **Backlit Restore (**![](<.gitbook/assets/1 (68).png>)) **Key**
 
 &#x20;      \- This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
 
@@ -61,7 +61,7 @@ The Remote Keypad can either be mounted on a flat surface or wall with screws. I
 
 16. **Jumper Switch**
 
-![jumper Off](<.gitbook/assets/2 (41).png>) ![jumper On](<.gitbook/assets/3 (36).png>)
+![jumper Off](<.gitbook/assets/2 (69).png>) ![jumper On](<.gitbook/assets/3 (60).png>)
 
 **Jumper Off**
 
@@ -115,7 +115,7 @@ Only use specified batteries with the device. When replacing batteries, always r
 * Loosen KPT-35-COMBO’s “B” terminal and the Control Panel’s “458B” terminal. Connect the “B” terminal to the “458B” terminal and tighten both terminal screws.
 * Ensure the furthest keypad’s Jumper Switch and Control Panel’s J53 Jumper Switch are set to ON to serve as a terminating resistor.
 
-![](<.gitbook/assets/4 (36).png>)
+![](<.gitbook/assets/4 (49).png>)
 
 The Keypad Terminal can be hardwired to the Control Panel in series within 500ft (152m) in wire distance.
 
@@ -123,7 +123,7 @@ The Keypad Terminal can be hardwired to the Control Panel in series within 500ft
 * KPT-35-COMBO-B is wired correctly as it is within 500ft (152m) of the Control Panel, in wire distance. Before tightening the cover fixing screw of the keypad, ensure its jumper switch is set to ON to serve as a terminating resistor since it has the furthest distance from the Control Panel.
 * KPT-35-COMBO-C is NOT wired correctly as it is farther than 500ft (152m) from the Control Panel.
 
-![](<.gitbook/assets/5 (30).png>)
+![](<.gitbook/assets/5 (41).png>)
 
 ### _**Tamper Protection**_
 
@@ -219,7 +219,7 @@ The PIN Code you entered must correspond to the PIN Code of the tag that you swi
 * The system is always automatically disarmed upon entering Keypad User Menu.
 * The Keypad will exit User Menu automatically after 20 seconds of inactivity.
 
-<figure><img src=".gitbook/assets/1 (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (154).png" alt=""><figcaption></figcaption></figure>
 
 * **Away Arm:** Select “Away Arm” and press the OK key to change system mode to “Away Armed”.
 * **Home Arm:** Select “Home Arm” and press the OK key to change system mode to “Home Armed”
@@ -235,7 +235,7 @@ If you try to arm the system when fault event exists, the arming will be prohibi
 * **Log**: Select “Log” and press OK key to view system log. Use the ▲ and ▼ keys to view the events and press key to return to User Menu.
 * **Setting:** Select “Setting” and press OK key enter setting menu. Use the ▲ and ▼ keys to select setting options and press key to return to User Menu.
 
-<figure><img src=".gitbook/assets/2 (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (159).png" alt=""><figcaption></figcaption></figure>
 
 * _**Mode Change Result**_
 * **Away Armed:** When system changes to “Away Armed” mode, “Away Armed” will be displayed on the LCD screen along with a long beep indicating successful operation.
@@ -295,19 +295,19 @@ In addition to the wireless operation to join in the system network as stated ab
 
 **Step 2.** Choose a located area and a free zone to join in the system network.
 
-<figure><img src=".gitbook/assets/3 (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (142).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Enter the PIN Code of the located area.
 
-<figure><img src=".gitbook/assets/4 (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (135).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Enter Installer Code. (Factory Default: 7982)
 
-<figure><img src=".gitbook/assets/5 (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (133).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** The Keypad is added to the located area and the zone you chose.
 
-<figure><img src=".gitbook/assets/6 (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (110).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Fault Conditions**_
 

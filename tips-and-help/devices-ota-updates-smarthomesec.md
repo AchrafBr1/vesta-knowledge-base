@@ -27,13 +27,13 @@ Before updating any device, make sure the RF module of your panel is up to date.
 * Select **Updates**
   *
 
-      <figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (1249).png" alt=""><figcaption></figcaption></figure>
 * Open **RF**
 *   Update the RF module to **version 35 or higher**
 
     *
 
-        <figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../.gitbook/assets/image (1250).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -53,7 +53,7 @@ Once the RF module is updated:
 * Choose the correct **firmware according to the sensor model**
 * Apply the update
 
-<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1251).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -78,17 +78,17 @@ Once verified, the device is ready to be used normally.
 
 Log in as an installer using the SmartHomeSec app or the web portal and go to the control panel settings. Scroll down to find information about the control panel and RF radio module firmware.
 
-<figure><img src="../.gitbook/assets/image (595).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1267).png" alt=""><figcaption></figcaption></figure>
 
 If the RF firmware label is:
 
 * **BG\_U-ITR-F1 … = F1**
 * BGST-U-ITR-F1 = **SF1**
 
-<figure><img src="../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1268).png" alt=""><figcaption></figcaption></figure>
 
 
 
 In the FW update page, select  the correct one.
 
-<figure><img src="../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1269).png" alt=""><figcaption></figcaption></figure>

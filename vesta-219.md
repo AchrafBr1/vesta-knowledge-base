@@ -4,7 +4,7 @@ HR-8-F1
 
 ## Hybrid Receiver
 
-<figure><img src=".gitbook/assets/image (577).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1245).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -12,9 +12,9 @@ HR-8-F1
 
 ## IDENTIFYING THE PARTS
 
-<figure><img src=".gitbook/assets/image (578).png" alt=""><figcaption><p>Front View</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1246).png" alt=""><figcaption><p>Front View</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (579).png" alt=""><figcaption><p>Side View</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1247).png" alt=""><figcaption><p>Side View</p></figcaption></figure>
 
 * Pin 1 & 2 provide constant DC 12V input
   * Pin 1 is (+) polarity
@@ -49,7 +49,7 @@ Open the protective cover to access a block of 6 DIP switches (marked 1–6 left
 
 Image (switch block):
 
-<figure><img src=".gitbook/assets/image (580).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1248).png" alt=""><figcaption></figcaption></figure>
 
 #### SW1 — Learning Mode
 

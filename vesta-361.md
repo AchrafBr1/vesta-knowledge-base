@@ -4,13 +4,13 @@
 
 ## **BUS Wired Outdoor Bell Box**
 
-<figure><img src=".gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 BX-32-BUS is a hardwired Bell Box used for system alarm indication outside a building. When an alarm signal is received from Control Panel, the Bell Box will activate its siren and strobe light to attract attention.
 
 The Bell Box can also work with the Control Panel to emit entry and exit delay sounds, and also alert you to tamper violation.
 
-![](<.gitbook/assets/0 (9).png>)
+![](<.gitbook/assets/0 (16).png>)
 
 ## **Parts Identification**
 
@@ -75,7 +75,7 @@ If the Bell box detects a tamper condition, it will activate the siren & strobe 
 
 While arming / disarming the system, the Bell box uses different methods to distinguish various statuses for the user, as listed in the table below.
 
-<figure><img src=".gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (916).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ While arming / disarming the system, the Bell box uses different methods to dist
 * Before connecting the Bell box to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-![](<.gitbook/assets/11 (3).jpeg>)
+![](<.gitbook/assets/11 (9).jpeg>)
 
 * Multiple BUS devices can be connected in series to the Hybrid Panel.For optimal communication of the the connected BUS line devices, ensure the terminal resistor jumper switches of the first (usually the Hybrid Panel) and the furthest BUS devices on a BUS line are set to ON to serve as terminating resistors. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 
@@ -104,7 +104,7 @@ Note:
 
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/13 (1) (1) (1) (1).jpeg>)
+![](<.gitbook/assets/13 (4).jpeg>)
 
 ## **Learning**
 
@@ -149,7 +149,7 @@ If there is no response from the Panel after the press of learn button, it means
 
 ## **Installation**
 
-![](<.gitbook/assets/16 (1) (1) (1).jpeg>)
+![](<.gitbook/assets/16 (4).jpeg>)
 
 Step 1. Find the location where the Bell box is to be mounted.
 
