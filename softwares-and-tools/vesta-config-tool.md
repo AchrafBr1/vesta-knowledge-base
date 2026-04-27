@@ -20,6 +20,6 @@ To download the Vesta config tool software for VESTA Advanced Video, please use 
 
 <figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgBsGZ0YSN3YR59QXxdPCB1AAXFbxNtk3whzrOk8OAiAgqo?e=f35AfO"><strong>Download VESTA CONFIG TOOL</strong></a></p></figcaption></figure>
 
-<p align="center"><a data-footnote-ref href="#user-content-fn-1">(New release 06/03/2026 - V1.2.5.1)</a></p>
+<p align="center"><a data-footnote-ref href="#user-content-fn-1">(New release 20/04/2026 - V1.3.1.4)</a></p>
 
 [^1]: 
