@@ -45,6 +45,20 @@ A short beep will sound along with a key pressing to indicate that the button pr
 4 continuous beeps will sound, indicating a mistake, and the user should repeat the process again.
 {% endhint %}
 
+## _**Quick setup**_&#x20;
+
+{% include ".gitbook/includes/add-keypad-to-vesta-panel.md" %}
+
+{% hint style="info" %}
+How to set panel in learning mode?
+{% endhint %}
+
+{% @arcade/embed flowId="keOcJj8eTQMujpMlmDcM" url="https://app.arcade.software/share/keOcJj8eTQMujpMlmDcM" %}
+
+##
+
+##
+
 ## _**LED Indicator**_
 
 **Power LED (Green):**

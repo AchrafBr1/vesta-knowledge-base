@@ -138,7 +138,7 @@ The **VESTA HOME / ADV cameras** allow you to receive notifications even while t
 2. Locate the option **Image notification** as attribute **during Disarm**:&#x20;
    1.
 
-       <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 3. Enable this option on the camera.
 
 {% hint style="warning" %}

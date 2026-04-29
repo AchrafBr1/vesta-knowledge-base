@@ -4,6 +4,8 @@
 
 ## **REMOTE KEYPAD** WIRELESS
 
+
+
 <figure><img src=".gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 ## _**Parts Identification**_
@@ -18,7 +20,7 @@
 6. Medical Alarm (if enabled), press both 7 and 9 to trigger Medical alarm
 7. Send Learning Code
    * press ＊then 7 Key (under Test Mode)
-   * press both # and  keys (under Normal Operation Mode)
+   * press and hold 4s both **#** and **\*** keys (under Normal Operation Mode)&#x20;
 8. \# Key
 9. \* Key
 10. Fault LED (Orange LED)
@@ -35,6 +37,16 @@ A short beep will sound along with a key press to indicate that the button press
 {% endhint %}
 
 
+
+## _**Quick setup**_&#x20;
+
+{% include ".gitbook/includes/add-keypad-to-vesta-panel.md" %}
+
+{% hint style="info" %}
+How to set panel in learning mode?
+{% endhint %}
+
+{% @arcade/embed flowId="keOcJj8eTQMujpMlmDcM" url="https://app.arcade.software/share/keOcJj8eTQMujpMlmDcM" %}
 
 ## _**LED Indicator**_
 

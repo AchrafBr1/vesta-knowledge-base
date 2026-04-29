@@ -4,9 +4,7 @@ icon: wand-magic-sparkles
 
 # SmartHomeSec WIZARD
 
-{% hint style="info" %}
-This wizard is coming soon
-{% endhint %}
+
 
 ## Configuration Wizard
 
@@ -146,12 +144,14 @@ Press **Yes**, the control panel will ask you which device you want to add
 
 Select the device type you want to add, e.g., Motion Detector. Press and hold the pairing button on the device until the LED flashes (refer to the device's manual for specific instructions).
 
-
-
-<figure><img src=".gitbook/assets/4.1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1273).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Important! In case of PIRCAMS and keyboards: The keystroke must be 3 or 4 seconds. While the rest of the devices with a short press is enough to add them.
+### &#x20;Important note
+
+&#x20;In case of **PIRCAMS** and keyboards: The keystroke must be pressed 4 seconds. While the rest of the devices with a short press is enough to add them.
+
+All **keypads** can be added holding 4 seconds: <mark style="color:red;">**\***</mark> + <mark style="color:red;">**#**</mark>&#x20;
 {% endhint %}
 
 

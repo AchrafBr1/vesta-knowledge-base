@@ -21,14 +21,14 @@ KPT-39N-F1
 
 Step 0: Put panel in **learn Mode**&#x20;
 
-Step 1: Press \[ \* ] + \[ # ] for 3 seconds to learn keypad to panel
+Step 1: Press \[ \* ] + \[ # ] for 4 seconds to learn keypad to panel
 {% endhint %}
 
 
 
 \[ ❓] How to put panel en learn mode from **SmartHomeSec**&#x20;
 
-{% @arcade/embed flowId="nNYzAkqIZ9RJt89JI6XK" url="https://app.arcade.software/share/nNYzAkqIZ9RJt89JI6XK" %}
+{% @arcade/embed flowId="keOcJj8eTQMujpMlmDcM" url="https://app.arcade.software/share/keOcJj8eTQMujpMlmDcM" %}
 
 ## CERTIFICATIONS
 
