@@ -258,6 +258,8 @@
 * [VESTA-406](vesta-406.md)
 * [VESTA-407](vesta-407.md)
 * [VESTA-408](vesta-408.md)
+* [VESTA-409](vesta-409.md)
+* [VESTA-410](vesta-410.md)
 * [VESTA-411](vesta-411.md)
 * [VESTA-413](vesta-413.md)
 * [VESTA-414](vesta-414.md)
@@ -467,8 +469,3 @@
 * [VS-1280ZJ-XS](cameras-accessories/vs-1280zj-xs.md)
 * [VS-1280ZJ-XS-BLACK](cameras-accessories/vs-1280zj-xs-black.md)
 * [Privacy Policy – HYU Connect App](cameras-accessories/privacy-policy-hyu-connect-app.md)
-
-***
-
-* [VESTA-409](vesta-409.md)
-* [VESTA 410](vesta-410.md)

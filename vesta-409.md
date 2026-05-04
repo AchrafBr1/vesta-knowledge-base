@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # VESTA-409
 
 IR-32SL-ADC2
