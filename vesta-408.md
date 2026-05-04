@@ -1,10 +1,14 @@
----
-hidden: true
----
+# VESTA-408
 
-# VESTA 408
+KP-39B-ADC2
+
+## REMOTE KEYPAD&#x20;
+
+<figure><img src=".gitbook/assets/image (1275).png" alt=""><figcaption></figcaption></figure>
 
 ## Parts Identification
+
+<figure><img src=".gitbook/assets/image (1274).png" alt=""><figcaption></figcaption></figure>
 
 1. Arm Key
 2. Home Key
@@ -16,10 +20,10 @@ hidden: true
 6. Medical Alarm (if enabled)
    * Press both 7 and 9 to trigger Medical Alarm
 7. Sending learning code
-   * Press  and the key 7 (under Test Mode)
-   * Press both # and  (under normal operation mode)
-8. ## Key
-9.  Key
+   * Press \* and the key 7 (under Test Mode)
+   * Press both # and \* (under normal operation mode)
+8. &#x20;\# Key
+9. \*  Key
 10. Fault LED (Orange)
 11. Power LED (Green)
 12. Tamper Switch
@@ -87,9 +91,8 @@ hidden: true
 
 #### Test Mode
 
-1. Put remote keypad in Test mode by entering KP PIN code (default: **0000**), then press ＊ key.
-2. The LEDs will turn on along with a long beep.
-3. Press ＊ key then **7** key to transmit learning signal. Remote keypad will sound a long beep.
+1. Put remote keypad in Test mode by entering KP PIN code (default: **0000**), then press ＊ key. The LEDs ![](<.gitbook/assets/image (1276).png>) will turn on along with a long beep.
+2. Press ＊ key then **7** key to transmit learning signal. Remote keypad will sound a long beep.
 
 #### Test Mode Function
 
@@ -155,10 +158,10 @@ Disarming the system always requires entering Control Panel User PIN Code.
 
 Under Test mode, press ＊ key and then **9** key to enable Arm/Home with PIN Code function.
 
-* **Enter Arm Mode**: Enter any one of Control Panel user code and press key. If panel has no fault and arming is successful, the LED will turn ON along with a long beep.
-* **Enter Home Mode**: Enter any one of Control Panel user code and key. If panel has no fault and arming is successful, the LED will turn ON along with 3 beeps.
-* **Return to Disarm Mode**: Enter any one of Control Panel user code and key. If disarm is successful, the LED will turn ON along with 2 beeps.
-* If there is **Alarm Memory**, the LED and the fault LED will turn ON along with 5 beeps.
+* **Enter Arm Mode**: Enter any one of Control Panel user code and press ![](<.gitbook/assets/image (1277).png>) key. If panel has no fault and arming is successful, the LED will turn ON along ![](<.gitbook/assets/image (1278).png>) with a long beep.
+* **Enter Home Mode**: Enter any one of Control Panel user code and <img src=".gitbook/assets/image (1279).png" alt="" data-size="line"> key. If panel has no fault and arming is successful, the LED will turn ON along ![](<.gitbook/assets/image (1280).png>) with 3 beeps.
+* **Return to Disarm Mode**: Enter any one of Control Panel user code and ![](<.gitbook/assets/image (1281).png>) key. If disarm is successful, the LED ![](<.gitbook/assets/image (1283).png>) will turn ON along with 2 beeps.
+* If there is **Alarm Memory**, the LED ![](<.gitbook/assets/image (1284).png>)and the fault LED will turn ON along with 5 beeps.
 
 {% hint style="info" %}
 When changing system mode, if incorrect Control Panel PIN Codes are attempted consecutively, the Keypad will not disable its key function, but the Control Panel may temporarily reject any PIN codes entered via the Keypad to prevent malicious attacks, depending the Panel settings.
@@ -168,17 +171,17 @@ When changing system mode, if incorrect Control Panel PIN Codes are attempted co
 
 In the Test mode, press ＊ key and then **8** key to enable Arm/Home without PIN Code function.
 
-* **Enter Arm Mode**: Press key. If panel has no fault and arming is successful, the LED will turn ON along with one long beep.
-* **Enter Home Mode**: Press key. If panel has no fault and arming is successful, the LED will turn ON along with 3 beeps.
-* **Return to Disarm Mode**: Enter any one of Control Panel user code and key. If disarm is successful, the LED will turn ON along with 2 beeps.
-* If there is **Alarm Memory**, the LED and the fault LED will turn ON along with 5 beeps.
+* **Enter Arm Mode**: Press ![](<.gitbook/assets/image (1288).png>) key. If panel has no fault and arming is successful, the LED ![](<.gitbook/assets/image (1289).png>) will turn ON along with one long beep.
+* **Enter Home Mode**: Press ![](<.gitbook/assets/image (1290).png>) key. If panel has no fault and arming is successful, the LED ![](<.gitbook/assets/image (1291).png>) will turn ON along with 3 beeps.
+* **Return to Disarm Mode**: Enter any one of Control Panel user code and ![](<.gitbook/assets/image (1285).png>) key. If disarm is successful, the LED ![](<.gitbook/assets/image (1286).png>) will turn ON along with 2 beeps.
+* If there is **Alarm Memory**, the LED and the fault LED ![](<.gitbook/assets/image (1287).png>) will turn ON along with 5 beeps.
 
 ## Fault Conditions
 
 _When Remote Keypad is under **NORMAL OPERATION MODE**,_
 
 1. When fault condition exists within Control Panel, if the Keypad is used to arm the panel, the Fault LED will flash along with 3 beeps to indicate fault condition.
-2. When the Keypad disarms the panel, the LED will turn ON along with two beeps indicating normal operation.
+2. When the Keypad disarms the panel, the LED ![](<.gitbook/assets/image (1292).png>) will turn ON along with two beeps indicating normal operation.
 3. If you input incorrect KP Pin code for 4 times under test mode, KP will disable the key function for 1 minute and all the LEDs will flash 3 times along with 6 beeps. After 1 minute, it will emit a long beep to indicate that the key function is back to normal.
 4. When attempting to enter test mode, if you input incorrect KP PIN Code (default: **0000**) for 4 times, the Keypad will disable the key function for 1 minute. All the LEDs will flash 3 times along with 6 beeps. After 1 minute, it will emit a long beep to indicate that the key function is back to normal.
 5. When changing system mode, if incorrect Control Panel PIN Codes are attempted consecutively, the Keypad will not disable its key function, but the Control Panel may temporarily reject any PIN codes entered via the Keypad to prevent malicious attacks, depending the Panel settings.
