@@ -470,5 +470,5 @@
 
 ***
 
-* [VESTA 409](vesta-409.md)
+* [VESTA-409](vesta-409.md)
 * [VESTA 410](vesta-410.md)

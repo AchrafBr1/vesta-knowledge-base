@@ -2,9 +2,13 @@
 hidden: true
 ---
 
-# VESTA 409
+# VESTA-409
 
-PIR Motion Sensor (IR-32SL-ADC2)
+IR-32SL-ADC2
+
+## PIR Motion Sensor&#x20;
+
+<figure><img src=".gitbook/assets/image (1293).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -16,45 +20,33 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 ## Parts Identification
 
-![](<.gitbook/assets/Unknown image (371)>)
-
-Front View
-
-![](<.gitbook/assets/Unknown image (372)>)
-
-Internal View
-
-![](<.gitbook/assets/Unknown image (373)>)
-
-Back View
-
-![](<.gitbook/assets/Unknown image (374)>)
+![            Front view                                                          Internal view                                                             Back view](<.gitbook/assets/Unknown image (374)>)
 
 1. Test Button / LED Indicator
 
 * The test button is used for testing the radio performance and for learning purpose.
-* The LED indicator is used to indicate the status of system. 2. IR Sensor
+* The LED indicator is used to indicate the status of system.&#x20;
 
-1. ![](<.gitbook/assets/Unknown image (375)>)Battery Compartment
-2. Bottom Fixing Screw
-3. Tamper Switch
-4. Pet Immunity Enable/Disable Jumper Switch (JP3)
+2. IR Sensor
+3. Battery Compartment
+4. Bottom Fixing Screw
+5. Tamper Switch
+6. Pet Immunity Enable/Disable Jumper Switch (JP3)
 
-### Jumper On Jumper Off
+<figure><img src=".gitbook/assets/Unknown image (375)" alt="" width="375"><figcaption></figcaption></figure>
 
-The jumper link is inserted, The jumper link is removed or connecting the two pins. “parked” on one pin.
+| Jumper On                                                            | Jumper Off                                                                  |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| The jumper link is inserted,                                         | The jumper link is removed or connecting the two pins. “parked” on one pin. |
+| When set as ON, Pet Immunity is disabled.                            | When set as ON, Pet Immunity is disabled.                                   |
+| <img src=".gitbook/assets/image (1295).png" alt="" data-size="line"> | <img src=".gitbook/assets/image (1296).png" alt="" data-size="line">        |
 
-![](<.gitbook/assets/Unknown image (376)>) ![](<.gitbook/assets/Unknown image (377)>) ![](<.gitbook/assets/Unknown image (378)>) ![](<.gitbook/assets/Unknown image (379)>)
-
-* When set as ON, Pet Immunity is disabled.
-* When set as OFF, Pet Immunity is enabled (Factory default).
-
-1. Sensitivity Increaser Jumper Switch (JP4)
+7. Sensitivity Increaser Jumper Switch (JP4)
 
 * When set as ON, the PIR’s detection sensitivity is high.
 * When set as OFF, the PIR’s detection sensitivity is in normal level (Factory default).
 
-2. Battery Insulator Hole
+8. Battery Insulator Hole
 
 ## Features
 
@@ -62,13 +54,10 @@ The jumper link is inserted, The jumper link is removed or connecting the two pi
 
 In Normal operation mode, the LED Indicator will light up in the following situations:
 
- When movement is detected under low battery condition  When the cover is opened and the tamper switch is triggered.
-
- When movement is detected if the Tamper condition persists.
-
- When movement is detected under Test mode
-
- When the Test Button is pressed under tamper condition or if the PIR is low in battery.
+* When movement is detected under low battery condition  When the cover is opened and the tamper switch is triggered.
+* When movement is detected if the Tamper condition persists.
+* When movement is detected under Test mode
+* When the Test Button is pressed under tamper condition or if the PIR is low in battery.
 
 The LED will not flash if the PIR tamper and battery are normal and the PIR is not under test mode.
 
@@ -80,7 +69,9 @@ The PIR features low battery detection. If low battery voltage is detected, a lo
 
 For each installation, the battery is installed with a battery insulator inserted by the factory before shipment.
 
- When changing the battery, after removing the old battery, press the Tamper Switch twice to fully discharge before inserting a new battery.
+{% hint style="info" %}
+Note: When changing the battery, after removing the old battery, press the Tamper Switch twice to fully discharge before inserting a new battery.
+{% endhint %}
 
 ### Tamper Protection
 
@@ -112,66 +103,52 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 
 ### Getting Started
 
- Pull out the battery insulator to activate battery.
-
- The LED indicator will flash for 30 seconds. (The PIR is warming up). During the warm-up period, the PIR will not be activated. After the warm-up period, the LED will turn off and the PIR will be ready for operation.
-
- Put the Control Panel into learning mode (refer to the Control Panel’s manual for details).
-
- Press the test button.
-
- Refer to the Control Panel’s manual to complete the learn-in process.
-
- After the PIR is learnt in, put the Control Panel into “Walk Test” mode; hold the PIR at the desired location, and press the Test button to confirm whether this location is within the signal range of the Control Panel (refer to the Control Panel’s manual to complete Walk Test).
-
- When you are satisfied that the PIR works at the chosen location, you can proceed to mounting.
+* Pull out the battery insulator to activate battery.
+* The LED indicator will flash for 30 seconds. (The PIR is warming up). During the warm-up period, the PIR will not be activated. After the warm-up period, the LED will turn off and the PIR will be ready for operation.
+* Put the Control Panel into learning mode (refer to the Control Panel’s manual for details).
+* Press the test button.
+* Refer to the Control Panel’s manual to complete the learn-in process.
+* After the PIR is learnt in, put the Control Panel into “Walk Test” mode; hold the PIR at the desired location, and press the Test button to confirm whether this location is within the signal range of the Control Panel (refer to the Control Panel’s manual to complete Walk Test).
+* When you are satisfied that the PIR works at the chosen location, you can proceed to mounting.
 
 ## Installation
 
 ### Installation Guideline
 
- The PIR is designed to be mounted either on a flat surface or in a corner.
-
- The detection range is up to 12 meters if the PIR is mounted at a height of 2.3-2.5 meters above the ground. 
-
- When Pet-Immunity function is enabled, the PIR will not detect pets up to 25kg when mounted at a height of 2.3-2.5 meters above the ground. If required, you can adjust the height of the PIR according to the size of your pet for optimal pet immune performance. Higher installation location will provide larger pet-immune space, but increase the blind spot under the PIR. 
-
- When the PIR is mounted with the rotating bracket, it will not have the regular detection area (as in the diagram), or the typical pet immune range.
-
- After the installation site is selected, press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check whether the detection coverage is adequate.
-
- When the detection coverage is found to be satisfying, follow the steps described in Mounting Method section below to mount the PIR.
-
-![](<.gitbook/assets/Unknown image (380)>)![](<.gitbook/assets/Unknown image (381)>) The PIR is designed to be mounted either on a flat surface or in a corner.
-
-
-
-Mounting Method
+* The PIR is designed to be mounted either on a flat surface or in a corner.
+* The detection range is up to 12 meters if the PIR is mounted at a height of 2.3-2.5 meters above the ground.&#x20;
+* When Pet-Immunity function is enabled, the PIR will not detect pets up to 25kg when mounted at a height of 2.3-2.5 meters above the ground. If required, you can adjust the height of the PIR according to the size of your pet for optimal pet immune performance. Higher installation location will provide larger pet-immune space, but increase the blind spot under the PIR. 
+* When the PIR is mounted with the rotating bracket, it will not have the regular detection area (as in the diagram), or the typical pet immune range.
+* After the installation site is selected, press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check whether the detection coverage is adequate.
+* When the detection coverage is found to be satisfying, follow the steps described in Mounting Method section below to mount the PIR.
 
 ![](<.gitbook/assets/Unknown image (382)>)
 
- The base has two knockouts where the plastic is thinner and can be broken for mounting purpose.
+## Mounting Method
 
- For corner mounting, a triangular bracket is provided to add Back Tamper Protection. The bracket also includes four knockouts for mounting on the corner
+* The PIR is designed to be mounted either on a flat surface or in a corner.&#x20;
+* The base has two knockouts where the plastic is thinner and can be broken for mounting purpose.
+* For corner mounting, a triangular bracket is provided to add Back Tamper Protection. The bracket also includes four knockouts for mounting on the corner
+* For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, IR-32SL-ADC2 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.
 
- For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, IR-32SL-ADC2 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.
+<figure><img src=".gitbook/assets/image (1297).png" alt=""><figcaption></figcaption></figure>
 
-####  Corner Mounting with the triangular bracket
+### Corner Mounting with the triangular bracket
 
 The PIR camera can be mounted in the corner by means of the triangular bracket provided.
 
 1. Break through the four knockouts on the triangular bracket.
 2. Use the holes as a template and drill holes into the corner surface to be mounted.
 3. Insert the wall plugs if the PIR is to be fixed onto plaster or bricks.
-4. Screw the triangular bracket onto the wall plugs with the two pointing sticks on top and facing you. 5) Fit the PIR onto the hooks of the triangular bracket.
+4. Screw the triangular bracket onto the wall plugs with the two pointing sticks on top and facing you.&#x20;
+5. 5\) Fit the PIR onto the hooks of the triangular bracket.
 
-Corner Mounting
+<figure><img src=".gitbook/assets/image (1298).png" alt=""><figcaption><p>Corner Mounting</p></figcaption></figure>
 
-####  Surface Mounting
+### Surface Mounting
 
- The PIR can also be mounted directly on a flat surface with the fixing screws and wall plugs provided.
-
- The base has two knockouts where the plastic is thinner and can be broken for mounting purpose. The steps for surface mounting through the two knockouts are described and shown in the picture below.
+* The PIR can also be mounted directly on a flat surface with the fixing screws and wall plugs provided.
+* The base has two knockouts where the plastic is thinner and can be broken for mounting purpose. The steps for surface mounting through the two knockouts are described and shown in the picture below.
 
 1. Unscrew the bottom fixing screw and detach the cover and the base.
 2. Break through the two knockouts from the inside of the base.
@@ -180,13 +157,14 @@ Corner Mounting
 5. Screw the base onto the wall plugs.
 6. Screw the cover back to the base.
 
-Surface Mounting
 
-![](<.gitbook/assets/Unknown image (383)>)
 
-####  Surface mounting with the rotating bracket (optional item, sold separately)
+![Surface Mounting](<.gitbook/assets/Unknown image (383)>)
 
- For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, IR-32SL-ADC2 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.  The rotating bracket can be mounted on the wall with the screws provided.
+### Surface mounting with the rotating bracket (optional item, sold separately)
+
+* For surface mounting, an optional rotating bracket is provided for users to adjust the range of detection. With the rotating bracket, IR-32SL-ADC2 can be rotated 80 degrees horizontally and 70 degrees vertically to provide optimal coverage.&#x20;
+* The rotating bracket can be mounted on the wall with the screws provided.
 
 1. Screw the rotating bracket onto the wall.
 2. Fit the PIR onto the 3 hooks of the rotating bracket.
@@ -194,22 +172,14 @@ Surface Mounting
 
 ![](<.gitbook/assets/Unknown image (384)>)
 
-###  Installation Recommendations
+## Installation Recommendations
 
- It is recommended to install the PIR in the following locations:
+<table><thead><tr><th width="56" data-type="checkbox"></th><th>It is recommended to install the PIR in the following locations:</th></tr></thead><tbody><tr><td>true</td><td>At a position where the animals cannot come to the detection area by climbing on furniture or other objects.</td></tr><tr><td>true</td><td>Don’t aim the device at stairways on which the animals can climb.</td></tr><tr><td>true</td><td>At a position such that an intruder would normally move across the PIR’s field of view from side to side.</td></tr><tr><td>true</td><td>In a corner to give the widest view.</td></tr><tr><td>true</td><td>At a position where its field of view will not be obstructed by, e.g., curtains, ornaments etc.</td></tr><tr><td>true</td><td>At a height of 2.3-2.5 meters above the ground for best performance.</td></tr></tbody></table>
 
-|  | At a height of 2.3-2.5 meters above the ground for best performance.                                         |
-| - | ------------------------------------------------------------------------------------------------------------ |
-|  | At a position where the animals cannot come to the detection area by climbing on furniture or other objects. |
-|  | Don’t aim the device at stairways on which the animals can climb.                                            |
-|  | At a position such that an intruder would normally move across the PIR’s field of view from side to side.    |
-|  | In a corner to give the widest view.                                                                         |
-|  | At a position where its field of view will not be obstructed by, e.g., curtains, ornaments etc.              |
+### Limitations
 
- Limitations
-
-|  | Do not install outdoors.![](<.gitbook/assets/Unknown image (385)>)                                                                                                                                 |  | Avoid large obstacles in the detection area.![](<.gitbook/assets/Unknown image (386)>)                                                           |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  | Do not expose the PIR completely to direct sunlight.![](<.gitbook/assets/Unknown image (387)>)                                                                                                     |  | Avoid vapor or high humidity that can cause condensation.![](<.gitbook/assets/Unknown image (388)>)                                              |
-|  | Avoid moving objects in the detection area e.g., curtains, wall hangings, etc.![](<.gitbook/assets/Unknown image (389)>)                                                                           |  | Avoid reflected light from bright surfaces, e.g., mirrors, windows, etc.![](<.gitbook/assets/Unknown image (390)>)                               |
-|  | Avoid installing the PIR in areas where machines may cause rapid change in temperature in the detection area, e.g., near air conditioners, heaters, etc.![](<.gitbook/assets/Unknown image (391)>) |  | Avoid reflecting surface in the detection area. Reflected infrared signatures may lead to false alarm.![](<.gitbook/assets/Unknown image (392)>) |
+| Do not install outdoors.![](<.gitbook/assets/Unknown image (385)>)                                                                                                                                 | Avoid large obstacles in the detection area.![](<.gitbook/assets/Unknown image (386)>)                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Do not expose the PIR completely to direct sunlight.![](<.gitbook/assets/Unknown image (387)>)                                                                                                     | Avoid vapor or high humidity that can cause condensation.![](<.gitbook/assets/Unknown image (388)>)                                              |
+| Avoid moving objects in the detection area e.g., curtains, wall hangings, etc.![](<.gitbook/assets/Unknown image (389)>)                                                                           | Avoid reflected light from bright surfaces, e.g., mirrors, windows, etc.![](<.gitbook/assets/Unknown image (390)>)                               |
+| Avoid installing the PIR in areas where machines may cause rapid change in temperature in the detection area, e.g., near air conditioners, heaters, etc.![](<.gitbook/assets/Unknown image (391)>) | Avoid reflecting surface in the detection area. Reflected infrared signatures may lead to false alarm.![](<.gitbook/assets/Unknown image (392)>) |
