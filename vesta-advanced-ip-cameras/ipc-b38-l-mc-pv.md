@@ -14,8 +14,8 @@ icon: video
 
 ### SOFTWARE:
 
-* [VESTA CONFIG TOOL](../softwares-and-tools/vesta-config-tool.md#download-vesta-config-tool)
-* [VESTA VSS](../softwares-and-tools/vss-software.md)
+* [VESTA CONFIG TOOL](../softwares-and-tools/vesta-tool.md#download-vesta-config-tool)
+* [VESTA VSS](../softwares-and-tools/vesta-vss.md)
 
 ### Accessories VESTA ADVANCED CAMERAS
 

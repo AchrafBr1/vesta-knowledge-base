@@ -1,0 +1,25 @@
+---
+icon: sign-posts-wrench
+---
+
+# VESTA Tool
+
+## Introduction
+
+<figure><img src="../.gitbook/assets/image (997).png" alt=""><figcaption></figcaption></figure>
+
+**VESTA TOOL** is a dedicated utility designed to simplify the installation and configuration of VESTA Advanced Video devices. Ideal for installers, it automatically scans and identifies local IP addresses in seconds, providing quick access to each device's web interface.
+
+Need to perform a **mass update or batch configuration**? No problem VESTA TOOL supports efficient bulk operations, making large-scale deployments faster and easier than ever.
+
+With built-in **P2P remote functionality**, remote configuration and web access are just a few clicks away.
+
+## Download **VESTA TOOL**
+
+To download the Vesta tool software for VESTA Advanced Video, please use the following link:
+
+<figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgBsGZ0YSN3YR59QXxdPCB1AAXFbxNtk3whzrOk8OAiAgqo?e=f35AfO"><strong>Download VESTA TOOL</strong></a></p></figcaption></figure>
+
+<p align="center"><a data-footnote-ref href="#user-content-fn-1">(New release 20/04/2026 - V1.3.1.4)</a></p>
+
+[^1]: 

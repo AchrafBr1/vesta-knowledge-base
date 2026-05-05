@@ -2,11 +2,11 @@
 icon: desktop
 ---
 
-# VSS software
+# VESTA VSS
 
 ## Introduction
 
-**VSS** is a powerful software solution designed for the centralized supervision, live video streaming, and comprehensive management of CCTV systems. Developed for **VESTA Advanced Video** cameras, it also offers broad compatibility with other leading CCTV brands, making it a versatile platform for multi-device environments.
+**VESTA VSS** is a powerful software solution designed for the centralized supervision, live video streaming, and comprehensive management of CCTV systems. Developed for **VESTA Advanced Video** cameras, it also offers broad compatibility with other leading CCTV brands, making it a versatile platform for multi-device environments.
 
 VSS enables the integration of multiple cameras and enhances security operations through seamless control, intelligent video analytics, and real-time system monitoring.
 
@@ -35,7 +35,7 @@ Monitor real-time network, CPU, and memory usage to ensure smooth and reliable o
 
 {% file src="../.gitbook/assets/User_Manual_EN_V1.0.3.pdf" %}
 
-## Download VSS
+## Download VESTA VSS
 
 To download the VSS software for VESTA Advanced Video, please use the following link:
 
