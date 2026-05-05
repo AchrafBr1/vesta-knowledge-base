@@ -2,11 +2,15 @@
 icon: video
 ---
 
-# VESTA ADVANCED IP CAMERA SERIES (Stand Alone)
+# VESTA ADVANCED IP CAMERA SERIES Stand Alone (VESTA Advanced)
 
 ## Are you ready to discover the new VESTA ADVANCED SERIES cameras?
 
 {% embed url="https://drive.google.com/file/d/1snvNV-L2JUDdsPN4qwz1_Xb32DzoiepE/view?usp=sharing" %}
+
+## VESTA Advanced app
+
+{% embed url="https://youtu.be/neShyN04xkI?si=r5VAMm5ga0O-mRUJ" %}
 
 ## How to Integrate ADVANCED VIDEO Cameras or NVRs in Stand-Alone CCTV Mode
 

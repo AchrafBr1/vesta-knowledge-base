@@ -2,7 +2,7 @@
 icon: video
 ---
 
-# VESTA ADVANCED IP CAMERA SERIES (With SmartHomeSec)
+# VESTA ADVANCED IP CAMERA SERIES with VESTA Intrusion (SmartHomeSec)
 
 ## ✨ Are you ready to discover the new VESTA ADVANCED SERIES cameras?
 
@@ -16,7 +16,7 @@ icon: video
 
 {% stepper %}
 {% step %}
-### Upgrade the IP cam ([Clic here for the QUICK VIDEO](vesta-advanced-ip-camera-series-with-smarthomesec.md#how-to-update-a-vesta-adv-camera-or-nvr-step-by-step))
+### Upgrade the IP cam ([Clic here for the QUICK VIDEO](vesta-advanced-ip-camera-series-with-vesta-intrusion-smarthomesec.md#how-to-update-a-vesta-adv-camera-or-nvr-step-by-step))
 
 To update the camera, follow these steps:
 
@@ -26,7 +26,7 @@ To update the camera, follow these steps:
 
 <p align="center"> <a href="../adv-firmware-updates/firmware-updates-vesta-advanced-video.md"><strong>DOWNLOAD</strong></a> <br></p>
 
-1. [**Access Local Interface**](vesta-advanced-ip-camera-series-with-smarthomesec.md#quick-login-to-local-portal): Navigate to the camera's local interface (Default IP: _192.168.1.86_).
+1. [**Access Local Interface**](vesta-advanced-ip-camera-series-with-vesta-intrusion-smarthomesec.md#quick-login-to-local-portal): Navigate to the camera's local interface (Default IP: _192.168.1.86_).
 2. **Navigate to Setup**: Go to 'Setup' in the menu.
 3. **Select System**: Choose 'System' from the options.
 4. **Choose Upgrade**: Proceed to 'Upgrade' to begin the firmware update process.

@@ -10,7 +10,7 @@ icon: video
 
 <figure><img src="../.gitbook/assets/image (1145).png" alt=""><figcaption></figcaption></figure>
 
-### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-smarthomesec.md#quick-guide)
+### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-vesta-intrusion-smarthomesec.md#quick-guide)
 
 ### SOFTWARE:
 
