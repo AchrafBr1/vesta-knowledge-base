@@ -10,7 +10,7 @@ icon: video
 
 ## VESTA Advanced app
 
-{% embed url="https://youtu.be/neShyN04xkI?si=r5VAMm5ga0O-mRUJ" %}
+{% embed url="https://drive.google.com/file/d/1rR5U3e2Ba7DnRt6Z2t6mv_x4uW_LqUbV/view?usp=sharing" %}
 
 ## How to Integrate ADVANCED VIDEO Cameras or NVRs in Stand-Alone CCTV Mode
 
@@ -57,6 +57,10 @@ That’s it! Once registered, you’ll be able to view and manage your CCTV syst
 To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 {% embed url="https://youtu.be/2tznoM9PdzM" %}
+
+### How to program IVS rules in VESTA Advanced App
+
+{% embed url="https://drive.google.com/file/d/17RgT_QH2aWXUxm7xWZW1uqHBJksMF2JU/view?usp=sharing" %}
 
 ### How to set up continuous recording on MicroSD of IP CAM:
 
