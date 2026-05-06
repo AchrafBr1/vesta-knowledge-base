@@ -310,6 +310,7 @@
 * [VESTA 480](vesta-480.md)
 * [VESTA 481](vesta-481.md)
 * [VESTA-485](vesta-485.md)
+* [VESTA 507](vesta-507.md)
 
 ## 📄 CERTIFICATES
 
