@@ -97,7 +97,7 @@ If the panel can receive signal normally, proceed to mount the Smoke Detector. I
 
 Step 1. Use the mounting bracket as a template to mark the two mounting holes. Drill holes in the mounting location and insert wall plugs if needed.
 
-![SD-7\_4](<.gitbook/assets/1 (54).png>) ![100-2](<.gitbook/assets/2 (51).png>) ![100-3](<.gitbook/assets/3 (45).png>)
+<div><img src=".gitbook/assets/1 (54).png" alt="SD-7_4" width="375"> <img src=".gitbook/assets/2 (51).png" alt="100-2"> <img src=".gitbook/assets/3 (45).png" alt="100-3"></div>
 
 Step 2. Screw the mounting bracket into marked location with the two hooks facing downward.
 

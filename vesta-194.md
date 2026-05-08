@@ -16,7 +16,7 @@ This fall sensor is designed to activate the Control Panel by manual button pres
 
 ## **Identifying the Parts**
 
-![](<.gitbook/assets/2 (73).jpeg>)
+<img src=".gitbook/assets/2 (73).jpeg" alt="" width="143">
 
 1. **Lanyard Loop**
 2. **Green/Red LED**

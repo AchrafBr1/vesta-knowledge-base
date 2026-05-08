@@ -16,7 +16,7 @@ The Shutter Control is compatible only with Z-Wave Gateway/Control Panel. Z-Wave
 
 ### **Parts Identification**
 
-![](<.gitbook/assets/0 (79).jpeg>)
+<img src=".gitbook/assets/0 (79).jpeg" alt="" width="304">
 
 1. **Function Button**
    * Press the button 3 times within 1.5 seconds to include or exclude the device from Z-Wave network.

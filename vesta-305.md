@@ -119,7 +119,7 @@ WEPC-1Series has two Tamper Switches; each comes with a different function.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 * The following diagram shows how WEPC-1 is connected to and powered by the Hybrid Panel.
 
-![](<.gitbook/assets/3 (16).jpeg>)
+<figure><img src=".gitbook/assets/image (1307).png" alt=""><figcaption></figcaption></figure>
 
 * The following is the connection of WEPC-1B to the Hybrid Panel, with WEPC-1B being powered by the external power source.
 

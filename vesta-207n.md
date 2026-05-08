@@ -22,7 +22,7 @@ The Bell Box can also alert you to tamper violation, and low battery status.
      * Off: The Bellbox is not powered by any battery.
      * BT2: This configuration is currently reserved.
 
-![](<.gitbook/assets/1 (95).jpeg>)
+<img src=".gitbook/assets/1 (95).jpeg" alt="" width="177">
 
 4. **LED Group 3**
 5. **LED Group 2**

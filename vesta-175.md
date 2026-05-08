@@ -32,7 +32,7 @@ Models with OTA function supports OTA firmware upgrade feature via ZigBee networ
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (86).jpeg>)
+<img src=".gitbook/assets/0 (86).jpeg" alt="" width="156">
 
 1. &#x20;**LED indicator**
 
@@ -154,7 +154,7 @@ please do not perform any other actions, or power down the panel.
 
 Refer to the diagram to connect your home lighting to the Power Relay Switch.
 
-![](<.gitbook/assets/5 (46).jpeg>)
+<img src=".gitbook/assets/5 (46).jpeg" alt="" width="189">
 
 ### _**Installation**_
 

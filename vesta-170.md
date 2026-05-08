@@ -88,7 +88,7 @@ Connect the wire into the terminal, tighten the screw to close the clipper and h
 
 ## **Installation**
 
-![](<.gitbook/assets/2 (59).jpeg>)
+<img src=".gitbook/assets/2 (59).jpeg" alt="" width="192">
 
 Wire the Relay according to the instructions below.
 

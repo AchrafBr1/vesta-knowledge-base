@@ -18,7 +18,7 @@ Models with router function also serve as a router in the ZigBee network. After 
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (90).jpeg>)
+<img src=".gitbook/assets/0 (90).jpeg" alt="" width="197">
 
 1.  **LED indicator**
 
@@ -74,7 +74,7 @@ The Relay Controller should be installed indoors in a dry location.
 
 ## **Installation**
 
-![](<.gitbook/assets/3 (63).jpeg>)
+<img src=".gitbook/assets/3 (63).jpeg" alt="" width="174">
 
 The insertion holes’ wiring specification is AWG 16-26 or Ø 1.31-0.129 (mm²).
 

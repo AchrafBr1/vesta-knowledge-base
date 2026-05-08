@@ -8,7 +8,7 @@
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
-![](<.gitbook/assets/1 (67).jpeg>)
+<img src=".gitbook/assets/1 (67).jpeg" alt="" width="458">
 
 ### _**Identifying the parts**_
 

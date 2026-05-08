@@ -14,7 +14,7 @@ The IR Remote Control serves as an end device in the ZigBee network. It can be i
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (96).jpeg>)
+<img src=".gitbook/assets/0 (96).jpeg" alt="" width="178">
 
 1.  **IR Eye**
 
@@ -227,7 +227,7 @@ The IR Remote Control is designed to be mounted on wall. It can be mounted by ei
 
 ### _**Mounting the IR Remote Control**_
 
-![](<.gitbook/assets/7 (56).jpeg>)
+<img src=".gitbook/assets/7 (56).jpeg" alt="" width="112">
 
 The IR Remote Control is designed to be mounted on wall. It can be mounted by either directly screwing the back cover onto the wall, or by installing the rotational bracket first, then install the main body on the bracket. The IR Eye should be pointed to the home appliance you want to control when the IR Remote Control is installed.
 
@@ -267,7 +267,7 @@ Select “Air Conditioner Function 1” will control the IR Remote Control to se
 
 ### _**IR Signal Coverage & IR LED Selection**_
 
-![](<.gitbook/assets/9 (34).jpeg>)
+<img src=".gitbook/assets/9 (34).jpeg" alt="" width="223">
 
 The IR Eye of the IR Remote Control includes 6 LEDs which are used to transmit IR signals, with 1 central LED and 5 surrounding LEDs. The 5 surrounding LEDs are positioned at 45° angle to the PCB board. **LED Signal Coverage:**
 

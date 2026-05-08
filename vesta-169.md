@@ -69,7 +69,7 @@ The insertion holes’ wiring specification is AWG 16-26 or Ø 1.31-0.129 (mm²)
 
 Wire the Relay according to the instructions below:
 
-![](<.gitbook/assets/4 (54).jpeg>)
+<img src=".gitbook/assets/4 (54).jpeg" alt="" width="171">
 
 1. Turn off the power supply before connection.
 2. Connect the L and N terminals of the power supply to the Line and Neutral terminals of PRL respectively.

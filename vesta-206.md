@@ -81,7 +81,7 @@ Connect NO & COM terminals of the wired device to NO & COM terminals of the PRL-
 * Do not connect the device to loads exceeding supported load current.
 {% endhint %}
 
-![](<.gitbook/assets/3 (75).jpeg>)
+<img src=".gitbook/assets/3 (75).jpeg" alt="" width="192">
 
 ## **Installation**
 

@@ -214,15 +214,15 @@ The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users 
 
 4. Connect the RJ45 connector to the Ethernet Port and the USB-C connector to Cover, then reattach the front cover to the USB-C Port on the PCB. the back plate.
 
-![](<.gitbook/assets/Unknown image (257)>)
+<img src=".gitbook/assets/Unknown image (257)" alt="" width="375">
 
 5. Replace and secure the Rear Access
 
-![](<.gitbook/assets/Unknown image (258)>)
+<img src=".gitbook/assets/Unknown image (258)" alt="" width="375">
 
 6. Route the other RJ45 connector through the AUX-PS opening, and tuck the paper card into the gap between the wall and the Panel.
 
-![](<.gitbook/assets/Unknown image (259)>)
+<img src=".gitbook/assets/Unknown image (259)" alt="" width="375">
 
 7. Remove the liner from the tape on the back of the paper card, stick the card to the wall to prevent slipping, then fasten the two bottom fixing screws of the Panel.
 
@@ -234,11 +234,11 @@ The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users 
 
 9. **Firmly press AUX - PS against** TouchPanel-3, then use the two holes on AUX-PS as a template to mark and drill two screw holes into the wall.&#x20;
 
-![](<.gitbook/assets/Unknown image (263)>)
+<img src=".gitbook/assets/Unknown image (263)" alt="" width="375">
 
 10. While firmly pressing AUX-PS against TouchPanel-3 and the wall, apply two screw to the drilled holes to ensure precise attachment.
 
-![](<.gitbook/assets/Unknown image (265)>)
+<img src=".gitbook/assets/Unknown image (265)" alt="" width="375">
 
 11. Attach the Speaker Cover to AUX-PS and TouchPanel-3, then fasten the two fixing screws.
 
@@ -264,7 +264,7 @@ By default, the screen automatically switches between day and night modes at 6 a
 
 * **Date, Time and Weather**: The Home page displays current Date, Time and Weather info. Select the Weather info to see weather forecast.
 
-![](<.gitbook/assets/Unknown image (269)>) ![](<.gitbook/assets/Unknown image (270)>)
+<div><img src=".gitbook/assets/Unknown image (269)" alt="" width="375"> <img src=".gitbook/assets/Unknown image (270)" alt=""></div>
 
 * **Home Widget**: The Home Widget list is for you to control or check current status of the
 
@@ -274,7 +274,7 @@ HVAC sensors or devices which have been learned into the system. To set the list
 
 Up to six devices can be displayed here. Tap OK to confirm.
 
-![](<.gitbook/assets/Unknown image (271)>)
+<img src=".gitbook/assets/Unknown image (271)" alt="" width="375">
 
 **Step 2** The devices that you selected are displayed on the widget list.
 
@@ -765,21 +765,21 @@ Tap the respective icon for different function setting (from left to right).
 
 **Step 3** Check the box in front of device info, then tap OK to add the device into Control Panel.
 
-![](<.gitbook/assets/Unknown image (209)>)
+<img src=".gitbook/assets/Unknown image (209)" alt="" width="375">
 
 **Step 4** After a new device has been added / learnt / included into the Control Panel, a Device Wizard will pop up, allowing users to edit area, zone, and device name.
 
-![](<.gitbook/assets/Unknown image (210)>)
+<img src=".gitbook/assets/Unknown image (210)" alt="" width="375">
 
 **Step 5** Adding device is complete. Tap **OK** to close the dialog box.
 
-![](<.gitbook/assets/Unknown image (211)>)
+<img src=".gitbook/assets/Unknown image (211)" alt="" width="375">
 
 #### **5.2.1.3. Device Exclusion: (For removing Z-Wave device only)**&#x20;
 
 **Step 1** Tap **–** icon to enter removing Z-Wave device mode.
 
-![](<.gitbook/assets/Unknown image (212)>)
+<img src=".gitbook/assets/Unknown image (212)" alt="" width="375">
 
 **Step 2**  Refer to the Z-Wave device manual to transmit signal. When the panel receives exclusion signal, the webpage will display device info.
 
@@ -1287,7 +1287,7 @@ Tap **Submit** to save the settings.
 
 Tap the info icon to display the upload method.
 
-![](<.gitbook/assets/Unknown image (357)>)
+<img src=".gitbook/assets/Unknown image (357)" alt="" width="375">
 
 * **FTP:**[ ftp://user.password@server/path](ftp://user.password@server/path)
 * **HTTP:** http://ip:port/path
@@ -1310,7 +1310,7 @@ Tap **Submit** to save the settings.
 
 Tap the info icon ![](<.gitbook/assets/Unknown image (353)>) to display the SMS report format.
 
-![](<.gitbook/assets/Unknown image (93)>)
+<img src=".gitbook/assets/Unknown image (93)" alt="" width="375">
 
 * SMS in CID
 
@@ -1516,11 +1516,11 @@ Go to **Bluetooth Disarming** setting page to access a list of paired devices. T
 
 The App version, Panel version, ROM version, TSP Mac, and Panel Mac information will be displayed on this page.
 
-![](<.gitbook/assets/Unknown image (130)>)
+<img src=".gitbook/assets/Unknown image (130)" alt="" width="375">
 
 When you tap "About," the system will automatically check for updates. If a new version is available, tap  **Install** to download and apply the update. Ensure TouchPanel-3 is connected to the internet before Installing.
 
-![](<.gitbook/assets/Unknown image (131)>)
+<img src=".gitbook/assets/Unknown image (131)" alt="" width="375">
 
 If the Panel is updated to the latest version, a <mark style="color:green;">**GREEN**</mark> check mark will appear next to the App version. If an update is available, a <mark style="color:red;">**RED**</mark> exclamation mark will be displayed.
 

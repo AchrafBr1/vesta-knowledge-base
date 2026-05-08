@@ -18,7 +18,7 @@ Models with router function also serve as a router in the ZigBee network. After 
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (98).jpeg>)
+<img src=".gitbook/assets/0 (98).jpeg" alt="" width="258">
 
 1. **Function Button**
 
@@ -80,7 +80,7 @@ Do not connect the device to loads exceeding supported load current.
 
 **Installation**
 
-![](<.gitbook/assets/3 (69).jpeg>)
+<img src=".gitbook/assets/3 (69).jpeg" alt="" width="171">
 
 Wiring of the PRL should only be performed by certified technician with proper knowledge and training in electric equipment. Wire the Relay according to the instructions below:
 
@@ -90,7 +90,7 @@ Wiring of the PRL should only be performed by certified technician with proper k
 4. Depending on the device you wish to control via the Relay, select NO or NC terminal and wire the Relay with the device to establish Normal Open or Normal Close connection with device.
 5. After completing device wiring, replace the strain relief clamp, use the wiring buckle to manage the wires, and place the wiring buckle on the base with its gap (opening) positioned on the left (as in the diagram below).
 
-![](<.gitbook/assets/4 (64).jpeg>)
+<img src=".gitbook/assets/4 (64).jpeg" alt="" width="375">
 
 6. Replace the top cover. Turn on the power supply to power on the Relay Controller.
 

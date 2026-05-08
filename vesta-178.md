@@ -16,7 +16,7 @@ The Shutter Control serves as an end device in the ZigBee network. It can be inc
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (87).jpeg>)
+<img src=".gitbook/assets/0 (87).jpeg" alt="" width="304">
 
 1. **Function Button**
    * Press once: Transmit a supervision signal.
@@ -73,7 +73,7 @@ The Shutter Control serves as an end device in the ZigBee network. It can be inc
 
 SCM-8ZBS should be connected according to the diagram below:
 
-![](<.gitbook/assets/2 (63).jpeg>)
+<img src=".gitbook/assets/2 (63).jpeg" alt="" width="285">
 
 
 

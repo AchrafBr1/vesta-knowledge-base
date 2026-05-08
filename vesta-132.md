@@ -86,7 +86,7 @@ Note:
 
 ### NO/NC Wiring
 
-![1](<.gitbook/assets/9 (2).jpeg>) ![2](<.gitbook/assets/10 (1).jpeg>)
+<div><img src=".gitbook/assets/9 (2).jpeg" alt="1" width="108"> <img src=".gitbook/assets/10 (1).jpeg" alt="2" width="99"></div>
 
 ### **Single-End-of-Line Resistor Wiring**
 

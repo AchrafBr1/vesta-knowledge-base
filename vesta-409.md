@@ -118,7 +118,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 * After the installation site is selected, press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check whether the detection coverage is adequate.
 * When the detection coverage is found to be satisfying, follow the steps described in Mounting Method section below to mount the PIR.
 
-![](<.gitbook/assets/Unknown image (382)>)
+<img src=".gitbook/assets/Unknown image (382)" alt="" width="375">
 
 ## Mounting Method
 
@@ -155,7 +155,7 @@ The PIR camera can be mounted in the corner by means of the triangular bracket p
 
 
 
-![Surface Mounting](<.gitbook/assets/Unknown image (383)>)
+<img src=".gitbook/assets/Unknown image (383)" alt="Surface Mounting" width="375">
 
 ### Surface mounting with the rotating bracket (optional item, sold separately)
 
@@ -166,7 +166,7 @@ The PIR camera can be mounted in the corner by means of the triangular bracket p
 2. Fit the PIR onto the 3 hooks of the rotating bracket.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-![](<.gitbook/assets/Unknown image (384)>)
+<img src=".gitbook/assets/Unknown image (384)" alt="" width="375">
 
 ## Installation Recommendations
 

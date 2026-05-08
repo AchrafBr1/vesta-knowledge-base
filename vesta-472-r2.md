@@ -297,4 +297,4 @@ Step 6: Installation is now complete (FIG. 3). You can remove the mounting sheet
 * For models with built-in IR detection **(SD-32-HM/-HM-SC/-HME-SC)**, the IR detector has more coverage toward the side the IR lens is located than the other side. Refer to diagram below for detection coverage when mounted at a height of 3 meters. The detection coverage varies based on the mounting height.
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement (the right diagram below).
 
-![](<.gitbook/assets/Unknown image (46)>) ![](<.gitbook/assets/Unknown image (47)>)
+<div><img src=".gitbook/assets/Unknown image (46)" alt="" width="563"> <img src=".gitbook/assets/Unknown image (47)" alt=""></div>

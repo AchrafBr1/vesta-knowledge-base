@@ -16,7 +16,7 @@ The sensor serves as an end device in the ZigBee network. It can be included in 
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (93).jpeg>)
+<img src=".gitbook/assets/0 (93).jpeg" alt="" width="227">
 
 1. **Light Sensor / LED Indicator**
    * **Flashes once:** Factory Reset

@@ -46,7 +46,7 @@ The PIR consists of a two-part design made up of a cover and a base. The cover c
 
 
 
-    ![](<.gitbook/assets/1 (10).jpeg>)
+    <img src=".gitbook/assets/1 (10).jpeg" alt="" width="204">
 5. **Sensitivity Increaser Jumper Switch (JP4)**
    * When set as ON, the PIR’s detection sensitivity is high.
    * When set as OFF, the PIR’s detection sensitivity is in normal level. (Factory default)

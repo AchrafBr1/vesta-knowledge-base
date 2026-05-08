@@ -8,7 +8,7 @@
 
 ## **Introduction**
 
-![](<.gitbook/assets/0 (84).jpeg>)
+<img src=".gitbook/assets/0 (84).jpeg" alt="" width="149">
 
 The RSB-1ZBS is a ZigBee Smart LED Color Light Bulb. It features both multicolor adjustment and light level control. When joined into a ZigBee network, the user will be able to control Light Bulb remotely from the ZigBee network coordinator.
 

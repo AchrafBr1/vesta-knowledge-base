@@ -34,7 +34,7 @@ The CO-8 is a wireless Carbon Monoxide Detector that is capable of detecting the
 
 
 
-       ![](<.gitbook/assets/3 (74).jpeg>)
+       <img src=".gitbook/assets/3 (74).jpeg" alt="" width="149">
 3. _**Battery Compartment Cover**_
 4. _**.Mounting Holes**_
 5. _**Mounting Bracket**_

@@ -51,7 +51,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 | The jumper is inserted, connecting the two pins             | the jumper link is removed or parked on one pin.            |
 | When set as OFF, Pet Immunity is enabled. (Factory default) | When set as OFF, Pet Immunity is enabled. (Factory default) |
 
-![](<.gitbook/assets/Unknown image (398)>)
+<img src=".gitbook/assets/Unknown image (398)" alt="" width="375">
 
 9. Sensitivity Increaser Jumper Switch (JP4)
 
@@ -203,7 +203,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 
 * **Be sure to always remain the RSSI signal strength steady at “4”.**
 
-![VST-892-IL-ADC2 Detection Range](<.gitbook/assets/Unknown image (411)>)
+<img src=".gitbook/assets/Unknown image (411)" alt="VST-892-IL-ADC2 Detection Range" width="375">
 
 ## Mounting the PIR Camera
 
@@ -221,7 +221,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 4. Screw the triangular bracket onto the wall plugs with the two pointing sticks (E) on top and facing you.
 5. Fit the PIR Camera onto the hooks of the triangular bracket.
 
-![](<.gitbook/assets/Unknown image (412)>)
+<img src=".gitbook/assets/Unknown image (412)" alt="" width="375">
 
 #### Surface mounting
 
@@ -242,4 +242,4 @@ The rotating bracket can be mounted on the wall with the screws provided.
 2. Fit the PIR onto the 3 hooks of the rotating bracket.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-![](<.gitbook/assets/Unknown image (414)>)
+<img src=".gitbook/assets/Unknown image (414)" alt="" width="375">
