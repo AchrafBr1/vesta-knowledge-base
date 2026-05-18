@@ -38,7 +38,81 @@ The user can also select the screen timeout period in Settings. If "Never" is se
 
 TSP-Cam: The panel features a built-in Camera, extra Cameras may be included into the system to extend the coverage.
 
+
+
+
+
+
+
 ## 2. System Overview
+
+### 2.0. QallMax Power Backup - Quick Guide
+
+#### Modes Overview
+
+When AC power fails, the Qualmax panel enters one of two modes depending on the **"Power Saving on AC Fail"** parameter.
+
+#### Mode 1: Power Saving ON (Default)
+
+| Setting          | Value        |
+| ---------------- | ------------ |
+| Screen           | Off          |
+| System           | Sleep        |
+| GSM              | Off          |
+| WiFi             | Off          |
+| Z-Wave           | On           |
+| **Battery life** | **12 hours** |
+
+**Behavior:** All non-essential radios are turned off. System sleeps to maximize battery life. Alarms and notifications are still sent to the monitoring station. App is not accessible (no bidirectional communication).
+
+**Use case:** Compliance with 12h backup regulation. Recommended for most installations.
+
+***
+
+#### Mode 2: Power Saving OFF (Full Communication)
+
+| Setting          | Value       |
+| ---------------- | ----------- |
+| Screen           | Off         |
+| System           | Stays awake |
+| GSM              | On          |
+| WiFi             | Off         |
+| Z-Wave           | On          |
+| **Battery life** | **5 hours** |
+
+**Behavior:** Panel stays fully awake. GSM remains on for cloud connectivity (remote operations via app are available). WiFi is turned off (if WiFi is down due to power outage, keeping it ON only drains battery with no benefit). Z-Wave stays on (only \~1mA consumption — negligible impact).
+
+**Use case:** When remote access during power outage is required and 5h is sufficient.
+
+***
+
+#### Parameter to Configure
+
+* **Parameter name:** `Power Saving on AC Fail`
+* **Values:** Enable / Disable
+* **Default:** Enable (12h mode)
+* **Location:** Panel settings → Power / Backup configuration
+
+<figure><img src=".gitbook/assets/image (1312).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### Summary Table
+
+| Mode             | LTE                                   | WiFi | Z-Wave | Screen | System         | Battery Life |
+| ---------------- | ------------------------------------- | ---- | ------ | ------ | -------------- | ------------ |
+| Power Saving ON  | <p>Off </p><p>(On when reporting)</p> | Off  | On     | Off    | Sleep          | **12h**      |
+| Power Saving OFF | On                                    | Off  | On     | Off    | Awake (online) | **5h**       |
+
+***
+
+#### Notes
+
+* WiFi is turned off in both modes because during a power outage the router is typically unreachable, keeping WiFi ON would drain battery with no connectivity benefit.
+* Z-Wave remains ON in both modes (Negligible impact).
+* Firmware version: **Feb. 2026 release** (SmartHomeSec).
+
+
 
 ### 2.1. Parts Identification
 
