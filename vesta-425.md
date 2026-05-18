@@ -61,7 +61,7 @@ When AC power fails, the Qualmax panel enters one of two modes depending on the 
 | GSM              | Off          |
 | WiFi             | Off          |
 | Z-Wave           | On           |
-| **Battery life** | **12 hours** |
+| **Battery life** | **24 hours** |
 
 **Behavior:** All non-essential radios are turned off. System sleeps to maximize battery life. Alarms and notifications are still sent to the monitoring station. App is not accessible (no bidirectional communication).
 
@@ -90,7 +90,7 @@ When AC power fails, the Qualmax panel enters one of two modes depending on the 
 
 * **Parameter name:** `Power Saving on AC Fail`
 * **Values:** Enable / Disable
-* **Default:** Enable (12h mode)
+* **Default:** Enable (24h mode)
 * **Location:** Panel settings → Power / Backup configuration
 
 <figure><img src=".gitbook/assets/image (1312).png" alt=""><figcaption></figcaption></figure>
@@ -101,7 +101,7 @@ When AC power fails, the Qualmax panel enters one of two modes depending on the 
 
 | Mode             | LTE                                   | WiFi | Z-Wave | Screen | System         | Battery Life |
 | ---------------- | ------------------------------------- | ---- | ------ | ------ | -------------- | ------------ |
-| Power Saving ON  | <p>Off </p><p>(On when reporting)</p> | Off  | On     | Off    | Sleep          | **12h**      |
+| Power Saving ON  | <p>Off </p><p>(On when reporting)</p> | Off  | On     | Off    | Sleep          | **24h**      |
 | Power Saving OFF | On                                    | Off  | On     | Off    | Awake (online) | **5h**       |
 
 ***
