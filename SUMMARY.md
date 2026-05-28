@@ -303,7 +303,7 @@
 * [VESTA-472](vesta-472.md)
 * [VESTA-472-R2](vesta-472-r2.md)
 * [VESTA-474](vesta-474.md)
-* [VESTA 475](vesta-475.md)
+* [VESTA-475](vesta-475.md)
 * [VESTA-476](vesta-476.md)
 * [VESTA 477](vesta-477.md)
 * [VESTA-478](vesta-478.md)
@@ -473,5 +473,6 @@
 * [VS-1280ZJ-XS](cameras-accessories/vs-1280zj-xs.md)
 * [VS-1280ZJ-XS-BLACK](cameras-accessories/vs-1280zj-xs-black.md)
 * [Privacy Policy – HYU Connect App](cameras-accessories/privacy-policy-hyu-connect-app.md)
+* [Page 2](cameras-accessories/page-2.md)
 
 ## Vesta ADV Technical manuals

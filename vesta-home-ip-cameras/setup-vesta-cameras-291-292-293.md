@@ -5,6 +5,24 @@ description: >-
   surveillance with easy installation.
 hidden: true
 icon: camera-cctv
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # SETUP VESTA CAMERAS 291-292-293

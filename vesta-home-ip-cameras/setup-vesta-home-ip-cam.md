@@ -4,6 +4,24 @@ description: >-
   both indoor and outdoor use. They provide reliable video surveillance with
   easy installation.
 icon: camera-cctv
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # SETUP VESTA Home IP CAM
