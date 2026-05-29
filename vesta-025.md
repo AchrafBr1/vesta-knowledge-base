@@ -401,3 +401,65 @@ When a new firmware version is released, users are able to update it via OTA aut
 **Step 6.** Tap **About** in the Settings menu.
 
 **Step 7.** The user can confirm if the firmware is updated to the latest version when a GREEN check mark is shown in the **App version** column.
+
+
+
+## Troubleshooting
+
+### “Two-Way Audio Failure” Message Between TSP and VDP
+
+#### Description
+
+In some cases, when trying to establish audio communication between the TSP touch keypad and the VDP video doorbell, the following message may appear:
+
+<p align="center"><strong>“Two-way audio failure”</strong></p>
+
+This issue is usually related to restrictions or blocking rules on the local WiFi/network where the devices are connected, especially affecting the SIP protocol used for audio communication.
+
+***
+
+#### How the TSP ↔ VDP Connection Works
+
+The TSP supports communication with the VDP in two different ways:
+
+* **Intranet / Local Network mode (default)**
+* **Internet / Cloud mode**
+
+By default, both devices communicate through the local network. If the network has limitations, device isolation, firewall restrictions, or SIP traffic blocking, the audio communication may fail.
+
+***
+
+#### Recommended Solution
+
+Change the VDP connection mode from **Intranet** to **Internet (Cloud)**.
+
+#### Steps
+
+1. From the TSP, open the **Cameras** section.
+2. Locate the configured VDP.
+3. Press the **3-dot menu** on the VDP.
+4. Change the connection mode:
+   * From: **Intranet**
+   * To: **Internet (Cloud)**
+
+***
+
+#### Additional Recommendations
+
+* Make sure both the **TSP** and the **VDP** are updated to the latest firmware version.
+* Confirm that both devices have stable Internet access.
+* If the issue still persists, check for possible network restrictions such as:
+  * SIP blocking
+  * AP Isolation
+  * Guest WiFi networks
+  * Internal firewalls
+  * Separate VLANs
+
+***
+
+#### Expected Result
+
+Once configured in **Internet (Cloud)** mode, the two-way audio communication should work correctly even on networks where local SIP traffic is restricted or filtered.
+
+
+
