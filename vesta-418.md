@@ -368,3 +368,44 @@ Step 3 Hook the Repeater onto the Wall Mounting Bracket (with the Mounting Holes
 Step 4 Hold the Repeater and gently push it downwards as shown below.
 
 <figure><img src=".gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Trubleshoot&#x20;
+
+### Device limit not reached but repeater won't accept new devices
+
+{% stepper %}
+{% step %}
+### Root cause
+
+The panel may be running an outdated firmware version that doesn't correctly reflect the repeater's actual device limit. Pending panel updates may include fixes for repeater behaviour.
+{% endstep %}
+
+{% step %}
+### Update the panel
+
+Apply the latest firmware update to the VESTA panel. The update bundles all accumulated improvements, including correct handling of repeater device limits.
+
+Keeping the panel up to date prevents this class of incompatibility with RF accessories.
+{% endstep %}
+
+{% step %}
+### Re-add the repeater
+
+Once the panel is updated, remove the repeater from the system and add it again. This forces a fresh sync and ensures the repeater operates under the updated limits.
+{% endstep %}
+
+{% step %}
+### Retry adding devices
+
+With the repeater re-added on the updated panel, devices should enrol without issue up to the actual supported limit.
+{% endstep %}
+{% endstepper %}
+
+{% hint style="success" icon="stars" %}
+**Best practice**
+
+Always update the panel _before_ adding the repeater on any new installation. This ensures the repeater inherits the latest improvements from day one and avoids compatibility issues.
+{% endhint %}
+
