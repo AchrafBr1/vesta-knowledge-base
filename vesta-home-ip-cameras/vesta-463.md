@@ -44,6 +44,6 @@ icon: video
 
 How To Install
 
-{% content-ref url="/broken/pages/PGdoBG99QvxP8fScQjDY" %}
-[Broken link](/broken/pages/PGdoBG99QvxP8fScQjDY)
+{% content-ref url="https://app.gitbook.com/s/ZJzpNocHhYVmD43GZobR/vesta-home-ip-cameras" %}
+[Vesta Home IP Cameras](https://app.gitbook.com/s/ZJzpNocHhYVmD43GZobR/vesta-home-ip-cameras)
 {% endcontent-ref %}
