@@ -31,8 +31,4 @@ icon: question
 {% tab title="VFB203W-B" %}
 <figure><img src="../.gitbook/assets/image (1153).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w-b.md">VFB203W-B</a></p></figcaption></figure>
 {% endtab %}
-
-{% tab title="VFA130-E-B" %}
-<figure><img src="../.gitbook/assets/image (1159).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa130-e-b.md">VFA130-E-B</a></p></figcaption></figure>
-{% endtab %}
 {% endtabs %}

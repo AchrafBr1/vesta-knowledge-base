@@ -31,8 +31,4 @@ icon: video
 {% tab title="VFB203W" %}
 <figure><img src="../.gitbook/assets/image (58).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
 {% endtab %}
-
-{% tab title="VFA130-E" %}
-<figure><img src="../.gitbook/assets/image (67).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa130-e.md">VFA130-E</a></p></figcaption></figure>
-{% endtab %}
 {% endtabs %}
