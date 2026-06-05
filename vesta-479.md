@@ -207,6 +207,12 @@ Note: Please make sure the PIR Camera is properly hooked onto the mounting brack
 
 ![](<.gitbook/assets/Unknown image (450)>)
 
+## Adjustable mounting bracket
+
+{% content-ref url="vesta-482.md" %}
+[vesta-482.md](vesta-482.md)
+{% endcontent-ref %}
+
 ## Installation Recommendations
 
 **It is recommended to install the PIR Camera in the following locations:**

@@ -311,6 +311,7 @@
 * [VESTA-479](vesta-479.md)
 * [VESTA 480](vesta-480.md)
 * [VESTA 481](vesta-481.md)
+* [VESTA-482](vesta-482.md)
 * [VESTA-485](vesta-485.md)
 * [VESTA 507](vesta-507.md)
 

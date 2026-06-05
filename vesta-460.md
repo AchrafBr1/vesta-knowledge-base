@@ -244,6 +244,10 @@ Note:   Ensure the tamper switch is fully depressed when hooking the PIR Camera 
 
 #### Rotating Holder
 
+{% content-ref url="vesta-482.md" %}
+[vesta-482.md](vesta-482.md)
+{% endcontent-ref %}
+
 * An optional rotating holder is available, allowing the PIR Camera to be rotated horizontally and vertically.
 * The holder provides 7 angle scales for adjustment. For horizontal adjustment, the center calibration mark indicates 0 degrees. The PIR Camera can be rotated up to 15° to the left or right, with each scale representing 5°. ⚫ For vertical adjustment, the PIR Camera can be tilted downward by up to 30°.
 
