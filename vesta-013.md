@@ -6,6 +6,8 @@ MDC-3-F1
 
 <figure><img src=".gitbook/assets/VESTA-013[1].jpg" alt="" width="225"><figcaption><p>VESTA-013 - MDC-3-F1</p></figcaption></figure>
 
+#### [VESTA-013 Specification](https://vestasecurity.eu/en/product/vesta-013/)
+
 {% hint style="info" %}
 1. Remove the battery isolator from the MDC-3.&#x20;
 2. Put the VESTA control panel in learn mode (refer to the control panel manual for details).&#x20;

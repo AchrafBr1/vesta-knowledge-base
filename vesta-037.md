@@ -6,6 +6,8 @@
 
 <figure><img src=".gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-037 Specification](https://vestasecurity.eu/en/product/vesta-037/)
+
 The Glass Break Detector detects the high frequency sound emitted by glass breakage and transmits signal to notify the alarm system control panel when it is triggered.
 
 ![](<.gitbook/assets/0 (51).png>)

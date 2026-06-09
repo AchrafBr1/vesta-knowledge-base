@@ -6,6 +6,8 @@ TSP-3&#x20;
 
 <figure><img src=".gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-025 Specification](https://vestasecurity.eu/en/product/vesta-025/)
+
 ## Introduction <a href="#toc61269503" id="toc61269503"></a>
 
 The Touchscreen Keypad provides easy-to-use, on-premises security system control for enhanced flexibility and convenience.

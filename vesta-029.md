@@ -6,6 +6,8 @@
 
 <figure><img src=".gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-029 Specification](https://vestasecurity.eu/en/product/vesta-029/)
+
 Easy & Exchangeable Belt / Neck Cord styles
 
 Long battery life

@@ -6,6 +6,8 @@
 
 <figure><img src=".gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-017N Specification](https://vestasecurity.eu/en/product/vesta-017n/)
+
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal. With its two-way radio communication, the Remote Controller guarantees successful transmissions sent to the Control Panel. If the Control Panel receives the signal from the Remote Controller, it will transmit an acknowledgment back to the Remote Controller.
 
 ## _**Identifying the parts**_

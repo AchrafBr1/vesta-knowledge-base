@@ -6,6 +6,8 @@
 
 <figure><img src=".gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-033N Specification](https://vestasecurity.eu/en/product/vesta-033n/)
+
 ## _**Identifying the parts:**_
 
 <figure><img src=".gitbook/assets/1 (18).png" alt=""><figcaption></figcaption></figure>

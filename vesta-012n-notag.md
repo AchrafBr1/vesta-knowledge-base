@@ -6,6 +6,8 @@
 
 <figure><img src=".gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-012N-NOTAG Specification](https://vestasecurity.eu/en/product/vesta-012n-notag/)
+
 ### **Specifications**
 
 * 15-button backlit keypad for easy nighttime visibility

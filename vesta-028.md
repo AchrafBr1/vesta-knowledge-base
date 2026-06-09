@@ -6,6 +6,8 @@ DIO-52-B
 
 <figure><img src=".gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-028 Specification](https://vestasecurity.eu/en/product/vesta-028/)
+
 ## Introduction
 
 DIO-52-B is a DI/DO module that integrates wired devices into wireless networks to create automated responses and enhances security and convenience.&#x20;

@@ -6,6 +6,8 @@ VST-862-IL-F1
 
 <figure><img src=".gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
+#### VESTA-007 Specification
+
 ## Introduction
 
 VST-862 is a passive infrared (PIR) motion sensor camera. It is capable of sending wireless signals and captured images (picture quality of up to 640 x 480 pixels) to the Control Panel upon movement detection.

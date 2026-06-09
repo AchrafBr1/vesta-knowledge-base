@@ -8,6 +8,8 @@
 
 <figure><img src=".gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-011 Specification](https://vestasecurity.eu/en/product/vesta-011/)
+
 ## _**Parts Identification**_
 
 <figure><img src=".gitbook/assets/0 (42).png" alt=""><figcaption></figcaption></figure>

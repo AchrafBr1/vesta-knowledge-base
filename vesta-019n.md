@@ -6,7 +6,7 @@ DC-23 / DC-23-R3
 
 <figure><img src=".gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
-
+#### [VESTA-019N Specification](https://vestasecurity.eu/en/product/vesta-019n/)
 
 ### JUMPER CONFIGURATION
 

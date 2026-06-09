@@ -6,6 +6,8 @@
 
 <figure><img src=".gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-016 Specification](https://vestasecurity.eu/en/product/vesta-016/)
+
 IRM-23 Series Motion Sensor is equipped with both PIR and Microwave motion detection technology. The combination of dual detection methods greatly improves the Motion Sensor’s detection accuracy and reduces false alarm rate, by using the PIR as initial detection, and microwave as confirmation before actually transmitting the activation signal.
 
 The Motion Sensor has multiple models with different battery, tamper switch and Pet Immunity combination. Identify the function of your model on hand with following table before proceeding to read rest of this manual.

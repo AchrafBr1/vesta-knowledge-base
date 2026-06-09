@@ -6,6 +6,8 @@ SDCO-1-F1 Series
 
 <figure><img src=".gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
+#### [VESTA-032 Specification](https://vestasecurity.eu/en/product/vesta-032/)
+
 ## Introduction
 
 SDCO-1-F1 Series is a Smoke and Carbon Monoxide Detector. It is capable of sending wireless signals to the Control Panel upon detection of smoke particles or Carbon Monoxide. The SDCO-1 is designed to be mounted on ceiling or top of stairwells where smoke would concentrate to raise alarm timely and protect your home from fire hazards.
