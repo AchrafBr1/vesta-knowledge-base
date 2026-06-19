@@ -51,6 +51,3 @@ Once the update is finished, your camera will include:
 * **Human Detection activation** support
 * Recording in cámera enabled 24/7
 
-{% hint style="success" icon="circle-info" %}
-Its recomended to factory default de IP cam using its button after the update
-{% endhint %}
