@@ -367,7 +367,7 @@
 * [VESTA-463](vesta-home-ip-cameras/vesta-463.md)
 * [SETUP VESTA Home IP CAM](vesta-home-ip-cameras/setup-vesta-home-ip-cam.md)
 * [SETUP VESTA CAMERAS 291-292-293](vesta-home-ip-cameras/setup-vesta-cameras-291-292-293.md)
-* [IPC-B32-OUT-WF Firmware Update Guide](vesta-home-ip-cameras/ipc-b32-out-wf-firmware-update-guide.md)
+* [VESTA Home - Firmware Update Guide](vesta-home-ip-cameras/vesta-home-firmware-update-guide.md)
 
 ## Vesta Advanced Video
 
@@ -478,3 +478,7 @@
 * [Privacy Policy – HYU Connect App](cameras-accessories/privacy-policy-hyu-connect-app.md)
 
 ## Vesta ADV Technical manuals
+
+***
+
+* [VESTA HOME - UPDATE TOOL](vesta-home-update-tool.md)
