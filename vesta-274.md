@@ -8,4 +8,4 @@
 * MMCX connector type
 * 2 meter cable length
 * Incorporates 3M adhesive for quick installation
-* Compatible with VESTA HSGW panels and Paradox communicators
+* **Compatible with VESTA HSGW panels and Paradox communicators and ADC panels**
