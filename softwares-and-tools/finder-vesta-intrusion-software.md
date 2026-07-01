@@ -4,7 +4,7 @@ icon: router
 
 # Finder - Vesta Intrusion Software
 
-It is software that enables connection to Vesta control units via the integrated web server.
+This software enables you to connect to Vesta control units via the integrated web server.
 
 <figure><img src="../.gitbook/assets/chrome_RgDAidlnpJ.png" alt=""><figcaption></figcaption></figure>
 
