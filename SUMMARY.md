@@ -316,6 +316,7 @@
 * [VESTA-482](vesta-482.md)
 * [VESTA-485](vesta-485.md)
 * [VESTA 507](vesta-507.md)
+* [VESTA-TXI-R](vesta-txi-r.md)
 
 ## 📄 CERTIFICATES
 
