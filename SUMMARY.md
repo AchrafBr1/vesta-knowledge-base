@@ -451,6 +451,7 @@
 
 * [VESTA Tool](softwares-and-tools/vesta-tool.md)
 * [VESTA VSS](softwares-and-tools/vesta-vss.md)
+* [Finder - Vesta Intrusion Software](softwares-and-tools/finder-vesta-intrusion-software.md)
 
 ## CAMERAS ACCESSORIES
 
