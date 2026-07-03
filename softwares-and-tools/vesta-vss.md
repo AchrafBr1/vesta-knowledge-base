@@ -41,4 +41,4 @@ To download the VSS software for VESTA Advanced Video, please use the following 
 
 <figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgDWe3-8g5HYR7wme9sgJ7wBAVGQAezsBMWW_KToYv8yI5k?e=B8Nn33"><strong>Download VSS software for windows</strong></a></p></figcaption></figure>
 
-<p align="center">Software VSS Updated 26/02/2026 V2.4.3.R</p>
+<p align="center">Software VSS Updated 16/06/2026 V2.6.5.R</p>
