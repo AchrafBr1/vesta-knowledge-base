@@ -4,9 +4,7 @@ description: RP-32-SF1
 
 # VESTA-418
 
-
-
-## **Repeater  SF1**&#x20;
+## **Repeater SF1**
 
 <figure><img src=".gitbook/assets/image (1035).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,37 +14,37 @@ The Repeater is designed to increase the effectiveness and versatility of the al
 
 <figure><img src=".gitbook/assets/image (935).png" alt=""><figcaption></figcaption></figure>
 
-1. **Power LED (Green)**                      &#x20;
+1. **Power LED (Green)**
 
-&#x20;     **On** – Powered by a Power Adapter or Rechargeable Battery&#x20;
+**On** – Powered by a Power Adapter or Rechargeable Battery
 
-&#x20;     **Flash** (1 flash every second) –  Rechargeable Battery low on power
+**Flash** (1 flash every second) – Rechargeable Battery low on power
 
 2. **Mode LED (Yellow)**
 
-&#x20;     **Slow Flash** (1 flash every 2 seconds) – When in Learning Device Mode operated from Local Webpage
+**Slow Flash** (1 flash every 2 seconds) – When in Learning Device Mode operated from Local Webpage
 
-&#x20;     **Flash** (1 flash every second) – In Walk Test Mode
+**Flash** (1 flash every second) – In Walk Test Mode
 
-&#x20;     **On** – In Learning Panel Mode
+**On** – In Learning Panel Mode
 
-**3. Transmission: Receive LED (Blue)**&#x20;
+**3. Transmission: Receive LED (Blue)**
 
-&#x20;    The Blue LED lights up when the Repeater receives a signal transmission
+The Blue LED lights up when the Repeater receives a signal transmission
 
 **4. Transmission: Transmit LED (Red)**
 
-&#x20;    The Red LED lights up when the Repeater transmits a signal.
+The Red LED lights up when the Repeater transmits a signal.
 
-5\. Test Button&#x20;
+5\. Test Button
 
-6\. Battery Switch&#x20;
+6\. Battery Switch
 
 7\. Tamper Switch
 
 8\. Mounting Holes
 
-&#x20;**9. DC power jack**
+**9. DC power jack**
 
 **10. Mounting Bracket**
 
@@ -67,8 +65,6 @@ Step 2 Push the plug into place, and make a quarter turn clockwise to lock the p
 <figure><img src=".gitbook/assets/4 (5).jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/5 (6).jpeg" alt=""><figcaption></figcaption></figure>
-
-
 
 {% hint style="warning" %}
 Note:
@@ -150,7 +146,7 @@ If the Repeater receives a learn code from a device already learnt into the Repe
 
 * **A maximum of 60 devices (including repeaters) can be learnt into the Repeater, and up to 8 PIR cameras are supported. If the user attempts to learn in a 61**<sup>**st**</sup>**&#x20;device, the Repeater will emit 4 beeps.**
 * **SFV voice extenders are Not supported by the Repeater.**
-* Please do not cross-learn the Repeaters, e.g. Learning Repeater A into Repeater  \
+* Please do not cross-learn the Repeaters, e.g. Learning Repeater A into Repeater\
   B and learning Repeater B into Repeater A.
 * All repeaters will have to be learnt into the Control Panel.
 
@@ -194,17 +190,11 @@ Follow these simple steps from the panel’s local interface:
 1. **Open the panel in your web browser** (same as explained previously).
 2.  **Go to the “Panel” tab**.
 
-
-
     <figure><img src=".gitbook/assets/image (1022).png" alt=""><figcaption></figcaption></figure>
 3.  **In the repeater section, select “Edit”**.
 
-
-
     <figure><img src=".gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
 4.  **Copy the RF ID of each repeater** you want to add.
-
-
 
     <figure><img src=".gitbook/assets/image (1024).png" alt=""><figcaption></figcaption></figure>
 5. **Go to the settings of the main repeater** (the one that will include the others).
@@ -212,17 +202,16 @@ Follow these simple steps from the panel’s local interface:
    * Enter the order number (1, 2, 3…).
    * Paste the RF ID copied before.
    * Click **“Add child node”**.
-   * The system will show **“Update successfully”**.
-     *
+   *   The system will show **“Update successfully”**. \*
 
-         <figure><img src=".gitbook/assets/image (1025).png" alt=""><figcaption></figcaption></figure>
+       ```
+       <figure><img src="/files/W4LLcGkRHFa3sXZg7OLm" alt=""><figcaption></figcaption></figure>
+       ```
 7. **Refresh the list**: the repeater won’t appear immediately, but by clicking **“Query child node”** it will display.
 
 {% hint style="success" %}
 It will also be possible to do this from SmartHomeSec from the end of September 25 release
 {% endhint %}
-
-
 
 ## RP Connection Map (Home Portal Server: Installer Web/App)
 
@@ -240,15 +229,12 @@ The **Panel**, the **Repeater/RF Devices**, and **the RF Device(s) that is/are c
 
 If no devices are connected to any Repeater, only two columns (Panel, Repeater/Devices) will be shown on the map.
 
-* Zoom in and Zoom out: Use the Zoom in ![](.gitbook/assets/24.jpeg) and Zoom out <img src=".gitbook/assets/image (925).png" alt="" data-size="line"> buttons on the lower right,  \
+* Zoom in and Zoom out: Use the Zoom in ![](.gitbook/assets/24.jpeg) and Zoom out <img src=".gitbook/assets/image (925).png" alt="" data-size="line"> buttons on the lower right,\
   or scroll with the mouse wheel to zoom in and out on the Map
 * Refresh: Click <img src=".gitbook/assets/image (926).png" alt="" data-size="line"> to get the latest Repeater connection status.
-* Edit: Click <img src=".gitbook/assets/image (927).png" alt="" data-size="line"> to enter Edit Mode, and then click an individual Repeater icon <img src=".gitbook/assets/image (928).png" alt="" data-size="line"> to  \
+* Edit: Click <img src=".gitbook/assets/image (927).png" alt="" data-size="line"> to enter Edit Mode, and then click an individual Repeater icon <img src=".gitbook/assets/image (928).png" alt="" data-size="line"> to\
   access the settings page for that repeater.
-
-
-
-* **Edit Mode:** In Edit Mode, only Repeater icons are highlighted. Click on a Repeater  \
+* **Edit Mode:** In Edit Mode, only Repeater icons are highlighted. Click on a Repeater\
   icon to access its settings page.
 
 <figure><img src=".gitbook/assets/20 (3).jpeg" alt=""><figcaption></figcaption></figure>
@@ -291,7 +277,7 @@ The Tamper Switch is in normal operating position (Tamper Closed) when the Repea
 * If a device is within an acceptable range for Control Panel to receive its signal, it is strongly recommended to learn the device into the Control Panel directly instead of into the Repeater.
 * When employing multiple repeaters, please learn each device into the closest repeater in its operation area. Avoid learning a device into multiple repeaters.
 * It is recommended to link only a single layer of repeaters.
-* If deployment requires linking repeaters to form a transmission relay, use no more than two  \
+* If deployment requires linking repeaters to form a transmission relay, use no more than two\
   layers. Only the MDC-5, IR-35, and SD-32 models are compatible with this setup."
 * Maintain a distance between repeaters and the Control Panel to prevent cross signaling.
 
@@ -304,6 +290,8 @@ The Tamper Switch is in normal operating position (Tamper Closed) when the Repea
 * **Daisy-chaining (Mesh) repeaters:** It is not recommended to connect more than **2 repeaters in a chain**.\
   **Whenever possible, repeaters should be connected directly to the panel**.\
   If this is not feasible, a **maximum of 2 daisy-chained repeaters** is allowed.
+
+&#x20;       Eg. Panel <---------> Rep 1 <------> Rep 2
 {% endhint %}
 
 ### Single Repeater
@@ -314,7 +302,7 @@ In the example below when one repeater is used:
 * Device 2 should be learned into Repeater A for Repeater A to receive and relay its signals. Device 2 should also be learned into the Control Panel.
 * For Device1 that is within acceptable range for Control Panel to receive its signal, it is strongly recommended to learn Device1 into the Panel directly instead of into the Repeater
 
-&#x20;Example
+Example
 
 <figure><img src=".gitbook/assets/image (930).png" alt=""><figcaption></figcaption></figure>
 
@@ -339,14 +327,14 @@ In Example 2 (star connection), where the Device 5 is located between the RF cov
 
 <figure><img src=".gitbook/assets/image (931).png" alt=""><figcaption></figcaption></figure>
 
-When linking repeaters to form a transmission replay, please use no more than two layers of\
+When linking repeaters to form a transmission replay, please use no more than two layers of\
 repeaters. Only the MDC-5, IR-35, and SD-32 models are compatible with this configuration.
 
-\
-In the Example 3  below (Device to B to A to Control Panel,  mesh connection), Repeater A, Repeater B, and the\
+\
+In the Example 3 below (Device to B to A to Control Panel, mesh connection), Repeater A, Repeater B, and the\
 Device must all be learned into the Control Panel.
 
-Learn the Device into its closest repeater (Repeater B), and learn Repeater B into Repeater A. (Do\
+Learn the Device into its closest repeater (Repeater B), and learn Repeater B into Repeater A. (Do\
 not learn Repeater A into Repeater B.)
 
 <figure><img src=".gitbook/assets/image (1063).png" alt=""><figcaption><p>Exemple 3</p></figcaption></figure>
@@ -369,9 +357,7 @@ Step 4 Hold the Repeater and gently push it downwards as shown below.
 
 <figure><img src=".gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
 
-
-
-## Trubleshoot&#x20;
+## Trubleshoot
 
 ### Device limit not reached but repeater won't accept new devices
 
@@ -409,3 +395,4 @@ With the repeater re-added on the updated panel, devices should enrol without is
 Always update the panel _before_ adding the repeater on any new installation. This ensures the repeater inherits the latest improvements from day one and avoids compatibility issues.
 {% endhint %}
 
+If the issue persists after the update, confirm the repeater is fully synchronized with the panel before adding more devices. Run **Query Child Node**, check the repeater entry in the panel device list, and verify that the installation has not already reached the supported limit for child nodes or PIR cameras.
