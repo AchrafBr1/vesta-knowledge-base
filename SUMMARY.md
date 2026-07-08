@@ -349,6 +349,7 @@
 * [VMAX BUS TIPS](tips-and-help/vmax-bus-tips.md)
 * [CAMERAS](tips-and-help/cameras.md)
 * [Devices OTA updates - SmartHomeSec](tips-and-help/devices-ota-updates-smarthomesec.md)
+* [Quick Guide - Correct connection of OPTEX barriers with a wireless transmitter](tips-and-help/quick-guide-correct-connection-of-optex-barriers-with-a-wireless-transmitter.md)
 
 ## Installer guides
 

@@ -73,7 +73,7 @@ Warning! For panels that DO NOT have an external battery, only internal batterie
 
 ### 2.1 Installer Registration
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Log in as an installer in the <a href="guia-de-usuario-smarthomesec.md">SmartHomeSec</a> APP</td><td><img src=".gitbook/assets/image (9) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 2:</strong> Select the + button</p><p>(Add panel)</p></td><td><img src=".gitbook/assets/image (10) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 3:</strong> Enter the panel's MAC address found on a label</td><td><img src=".gitbook/assets/image (11) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Log in as an installer in the <a href="https://github.com/AchrafBr1/vesta-knowledge-base/blob/main/guia-de-usuario-smarthomesec.md">SmartHomeSec</a> APP</td><td><img src=".gitbook/assets/image (9) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 2:</strong> Select the + button</p><p>(Add panel)</p></td><td><img src=".gitbook/assets/image (10) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 3:</strong> Enter the panel's MAC address found on a label</td><td><img src=".gitbook/assets/image (11) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 Once the panel is registered as an installer, it is ready ✨ for configuration.
 
@@ -163,7 +163,7 @@ _ANNEX 1_
 
 ### 4.3 Configure user codes
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (20) (1).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Instalador -> Ajustes</td><td></td></tr><tr><td><img src=".gitbook/assets/image (8) (1).png" alt="" data-size="original"></td><td>Ajustes -> PIN de usuario</td><td></td></tr><tr><td><img src=".gitbook/assets/image (9) (2).png" alt="" data-size="original"></td><td>Añadir el Nombre y código para cada usuario, este código permitirá al usuario cambiar de modo desde la APP o teclados consultar <a href="guia-de-usuario-smarthomesec.md">Manual de usuario</a> para más información</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (20) (1).png" alt="Instalador -> Ajustes" data-size="original"></td><td>Instalador -> Ajustes</td><td></td></tr><tr><td><img src=".gitbook/assets/image (8) (1).png" alt="" data-size="original"></td><td>Ajustes -> PIN de usuario</td><td></td></tr><tr><td><img src=".gitbook/assets/image (9) (2).png" alt="" data-size="original"></td><td>Añadir el Nombre y código para cada usuario, este código permitirá al usuario cambiar de modo desde la APP o teclados consultar <a href="https://github.com/AchrafBr1/vesta-knowledge-base/blob/main/guia-de-usuario-smarthomesec.md">Manual de usuario</a> para más información</td><td></td></tr></tbody></table>
 
 ### 4.4 Updating the panel
 

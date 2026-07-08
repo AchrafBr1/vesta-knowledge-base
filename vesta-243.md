@@ -18,7 +18,7 @@ This manual is designed for technicians, integrators, and advanced users who nee
 
 ### 1.1 Installer Registration
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Log in as an installer in the <a href="guia-de-usuario-smarthomesec.md">SmartHomeSec</a> APP</td><td><img src=".gitbook/assets/image (9) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 2:</strong> Select the + button</p><p>(Add panel)</p></td><td><img src=".gitbook/assets/image (10) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 3:</strong> Enter the panel's MAC address found on a label of panel</td><td><img src=".gitbook/assets/image (11) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Step 1:</strong> Log in as an installer in the <a href="https://github.com/AchrafBr1/vesta-knowledge-base/blob/main/guia-de-usuario-smarthomesec.md">SmartHomeSec</a> APP</td><td><img src=".gitbook/assets/image (9) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><p><strong>Step 2:</strong> Select the + button</p><p>(Add panel)</p></td><td><img src=".gitbook/assets/image (10) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Step 3:</strong> Enter the panel's MAC address found on a label of panel</td><td><img src=".gitbook/assets/image (11) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 Once the panel is registered as an installer, it is ready ✨ for configuration.
 
