@@ -342,6 +342,10 @@
 * [RAYTEC INTEGRATION](third-parties/raytec-integration.md)
 * [INTEGRATION WITH DAHUA IP CAMERAS](third-parties/integration-with-dahua-ip-cameras.md)
 
+## MONITORING STATION
+
+* [SECASS & VESTA - ARC setup guide](monitoring-station/secass-and-vesta-arc-setup-guide.md)
+
 ## ❓ TIPS & HELP
 
 * [MODELS](tips-and-help/models.md)
@@ -482,9 +486,3 @@
 * [Privacy Policy – HYU Connect App](cameras-accessories/privacy-policy-hyu-connect-app.md)
 
 ## Vesta ADV Technical manuals
-
-***
-
-* [SECASS & VESTA - ARC setup guide](secass-and-vesta-arc-setup-guide.md)
-* [VESTA HOME - UPDATE TOOL](vesta-home-update-tool.md)
-* [Page 2](page-2.md)

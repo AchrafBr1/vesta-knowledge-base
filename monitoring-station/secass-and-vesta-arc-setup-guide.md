@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # SECASS & VESTA - ARC setup guide
 
 Easy step-by-step instructions to connect your VESTA alarm panel to the SECASS monitoring center.
@@ -14,7 +18,7 @@ Keep your Subscriber ID handy. You'll use it in both steps below.
 
 This sends alarm events (arming, disarming, intrusions, etc.) from your panel to SECASS in real time.<br>
 
-<figure><img src=".gitbook/assets/image (1322).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1322).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -56,7 +60,7 @@ This is important. Events won't reach SECASS if you leave it on the wrong group.
 
 <table><thead><tr><th width="192">Setting</th><th>Value</th></tr></thead><tbody><tr><td>Protocol</td><td>SIA2 (<code>/SIA2</code> at the end of the URL)</td></tr><tr><td>Server IP</td><td><code>195.198.14.12</code></td></tr><tr><td>Port</td><td><code>23507</code></td></tr><tr><td>Group</td><td><strong>Group 2</strong></td></tr><tr><td>Subscriber ID</td><td>Your 6-digit ID from SECASS</td></tr></tbody></table>
 
-<figure><img src=".gitbook/assets/image (1323).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1323).png" alt=""><figcaption></figcaption></figure>
 
 ## Part 2: Image Capture Reporting
 
@@ -98,7 +102,7 @@ Example: if your ID is `105928`, the address becomes `105928@195.198.14.12:23506
 
 <table><thead><tr><th width="183">Setting</th><th>Value</th></tr></thead><tbody><tr><td>Protocol</td><td>manitou</td></tr><tr><td>Server IP</td><td><code>195.198.14.12</code></td></tr><tr><td>Port</td><td><code>23506</code></td></tr><tr><td>Subscriber ID</td><td>Your 6-digit ID from SECASS</td></tr></tbody></table>
 
-<figure><img src=".gitbook/assets/image (1324).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1324).png" alt=""><figcaption></figcaption></figure>
 
 ## Summary - Both URLs at a Glance
 
