@@ -46,6 +46,8 @@ With a compact, palm-sized design, the TXI-R can be installed at a height of up 
 * 6 mA max. consumption at 3.0 VDC
 * IP55 protection
 
+<figure><img src=".gitbook/assets/image (1341).png" alt=""><figcaption></figcaption></figure>
+
 ## Identifying the Parts
 
 1\) TXI-RDAM-X5
@@ -67,6 +69,10 @@ This product is equipped with a triple AND logic to reduce false alarms. The tri
 #### Accelerometer tamper
 
 This product is equipped with an accelerometer that accurately detects movement and vibration. An accelerometer measures changes in velocity (acceleration) when the device is moved, tilted, or subjected to impact. This enables the system to detect tampering, abnormal motion, or unauthorised handling, enhancing overall security performance.
+
+#### Anti-masking&#x20;
+
+This product is equipped with an anti-masking function, which detects attempts to block or obscure the sensorìs field of view. Anti-masking refers to the ability to detect intentional interference with the sensor, such as covering the lens or placing objects in front of the sensor. This feature helps prevent tampering and ensures the security system remains effective.
 
 ## Installation
 
@@ -92,11 +98,37 @@ Disassemble the unit
 
 ## Installation Recommendations
 
-### Detection Range
-
 <figure><img src=".gitbook/assets/FoxitPDFReader_kqW7pDoILb.png" alt=""><figcaption></figcaption></figure>
 
+### Detection Area
+
+Top View
+
+<figure><img src=".gitbook/assets/image (1342).png" alt=""><figcaption></figcaption></figure>
+
+Side View - Mounting height:2.2m to less than 3.0m
+
+<figure><img src=".gitbook/assets/image (1343).png" alt=""><figcaption></figcaption></figure>
+
+Mounting height: 3.0m to 4m
+
+<figure><img src=".gitbook/assets/image (1344).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+NOTE:
+
+The above detection ranges are for guidance only.
+
+The range and sensitivity setting for each detector must be adjusted according to the installation conditions.
+
+The <mark style="color:$primary;">\*2.4 or 3 dotted line</mark> indicates the raccomandation mounting height.
+
+<mark style="color:$warning;">\*\* Down zone</mark> can be switched on by Down zone ON/OFF
+{% endhint %}
+
 ### Area Ajustment
+
+Down zone ON/OFF
 
 <figure><img src=".gitbook/assets/FoxitPDFReader_twT00T4zpB.png" alt=""><figcaption></figcaption></figure>
 
@@ -108,9 +140,33 @@ To limit the distance, use the appropriate area adjustment plate
 
 
 
+### Walk Test
 
+1. Power ON
 
+<figure><img src=".gitbook/assets/image (1336).png" alt=""><figcaption></figcaption></figure>
 
+2. Open and close the cover
+
+<figure><img src=".gitbook/assets/image (1337).png" alt=""><figcaption></figcaption></figure>
+
+After the unit is powered on, opening and closing the cover will activate the tamper function and initiate Walk Test mode.
+
+3. Walk within the detection area to check the detection performance by using the LED indicator
+
+<figure><img src=".gitbook/assets/image (1338).png" alt=""><figcaption></figcaption></figure>
+
+4. Tighten the fixing screw
+
+<figure><img src=".gitbook/assets/image (1339).png" alt=""><figcaption></figcaption></figure>
+
+5. Attach the lock cover
+
+<figure><img src=".gitbook/assets/image (1340).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Note: To perform the walk test again, open and close the cover. Conduct a walk test at least once a year.
+{% endhint %}
 
 ## Installation
 
@@ -131,6 +187,8 @@ To limit the distance, use the appropriate area adjustment plate
 
 
 ## Installation Recommendations
+
+<figure><img src=".gitbook/assets/image (1334).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/FoxitPDFReader_Y5l2yOjLQZ.png" alt=""><figcaption></figcaption></figure>
 
