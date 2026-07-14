@@ -259,8 +259,6 @@
 * [VESTA-404](vesta-404.md)
 * [VESTA-405](vesta-405.md)
 * [VESTA-406](vesta-406.md)
-* [Page 1](page-1/README.md)
-  * [VESTA 406](page-1/vesta-406.md)
 * [VESTA-407](vesta-407.md)
 * [VESTA-408](vesta-408.md)
 * [VESTA-409](vesta-409.md)
