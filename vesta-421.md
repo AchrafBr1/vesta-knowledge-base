@@ -59,7 +59,7 @@ The SD-32 series models are listed as below:
 
 ### _**Battery**_
 
-* Three CR123 3V Lithium batteries are used to supply power to the Smoke Detector.
+* Alkaline batteries are used to supply power to the Smoke Detector.
 * The Smoke Detector has a foolproof mechanism which prohibits cover closure without first installing battery. Press down the tab and insert three new batteries into the compartment.
 * The Smoke Detector will automatically check battery voltage every 25 seconds. If low battery is detected 2 times in a row, the Smoke Detector will transmit a low battery signal and enter low battery status.
 * Under low battery status, low battery signal will be transmitted along with regular signal transmissions; the Orange LED will flash once every 45 seconds.
@@ -73,7 +73,7 @@ When changing the batteries, after removing the old batteries, press the Test Bu
 
 ## _**Getting Started**_
 
-**Step 1.** Insert three CR123 3V Lithium batteries to power on the Smoke Detector. Orient the battery according to the battery compartment polarity before insertion.
+**Step 1.** Insert the alkaline batteries to power on the Smoke Detector. Orient the battery according to the battery compartment polarity before insertion.
 
 **Step 2.** The Smoke Detector will emit 2 short beeps and begin **warm up for 1 minute**. The Red LED will flash every 2 seconds. **Step 3.** When the Smoke Detector completes warm-up, it will emit a beep to indicate it has entered calibration mode. The **calibration**
 
@@ -194,7 +194,7 @@ Do not locate the detector in the following locations:
 
 ## _**Mounting the Smoke Detector**_
 
-**Step 1.** Insert three CR123A Lithium Batteries. Orient the batteries according to the battery compartment polarity indication.
+**Step 1.** Insert the alkaline Batteries. Orient the batteries according to the battery compartment polarity indication.
 
 If the batteries are not installed, the battery compartment could not be closed and the Smoke Detector could not be installed.
 
