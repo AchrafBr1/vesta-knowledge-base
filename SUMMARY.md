@@ -486,3 +486,7 @@
 * [Privacy Policy – HYU Connect App](cameras-accessories/privacy-policy-hyu-connect-app.md)
 
 ## Vesta ADV Technical manuals
+
+***
+
+* [VESTA-507](vesta-507-1.md)
