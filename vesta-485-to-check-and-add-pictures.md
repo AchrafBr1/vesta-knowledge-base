@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # VESTA 485 to check and add pictures
 
 KPEX-1

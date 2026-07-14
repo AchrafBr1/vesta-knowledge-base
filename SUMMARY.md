@@ -314,9 +314,10 @@
 * [VESTA 480](vesta-480.md)
 * [VESTA 481](vesta-481.md)
 * [VESTA-482](vesta-482.md)
-* [VESTA-485](vesta-485.md)
+* [VESTA 485 to check and add pictures](vesta-485-to-check-and-add-pictures.md)
 * [VESTA-507](vesta-507.md)
 * [VESTA-TXI-R](vesta-txi-r.md)
+* [VESTA-TXI-RDAM-X5](vesta-txi-rdam-x5.md)
 
 ## 📄 CERTIFICATES
 
@@ -486,7 +487,3 @@
 * [Privacy Policy – HYU Connect App](cameras-accessories/privacy-policy-hyu-connect-app.md)
 
 ## Vesta ADV Technical manuals
-
-***
-
-* [VESTA 485 to check and add pictures](vesta-485-to-check-and-add-pictures.md)
