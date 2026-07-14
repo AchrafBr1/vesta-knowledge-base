@@ -315,7 +315,7 @@
 * [VESTA 481](vesta-481.md)
 * [VESTA-482](vesta-482.md)
 * [VESTA-485](vesta-485.md)
-* [VESTA 507](vesta-507.md)
+* [VESTA-507](vesta-507.md)
 * [VESTA-TXI-R](vesta-txi-r.md)
 
 ## 📄 CERTIFICATES
@@ -489,4 +489,4 @@
 
 ***
 
-* [VESTA-507](vesta-507-1.md)
+* [VESTA 485 to check and add pictures](vesta-485-to-check-and-add-pictures.md)
