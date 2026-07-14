@@ -487,3 +487,7 @@
 * [Privacy Policy – HYU Connect App](cameras-accessories/privacy-policy-hyu-connect-app.md)
 
 ## Vesta ADV Technical manuals
+
+***
+
+* [RC 32 F1 2W\_20260601](rc-32-f1-2w_20260601.md)
