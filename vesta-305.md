@@ -101,7 +101,7 @@ Follow these steps to remove the battery check:
    1.
 
        <figure><img src=".gitbook/assets/image (1357).png" alt=""><figcaption></figcaption></figure>
-2. Set the J8 jumper switch to **`ON`**.
+2. Set the <mark style="color:red;">**J8**</mark> jumper switch to **`ON`**.
 3. Add the expander to the Control Panel again.
 
 ## **Tamper Protection**
