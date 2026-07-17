@@ -2,7 +2,7 @@
 
 **WEPC-1**
 
-## &#x20;**Series Programmable Output Expansion Module**
+## **Series Programmable Output Expansion Module**
 
 <figure><img src=".gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,27 +20,25 @@ The WEPC-1 Series Programmable Output Expansion Module is designed to provide pr
 
 **Front View** **Back View**
 
-
-
 ![Internal View](<.gitbook/assets/1 (20).jpeg>)
 
 1. **Power LED (Red)**
 
-&#x20;      On – Powered by a 12V power adapter or Hybrid Panel.
+On – Powered by a 12V power adapter or Hybrid Panel.
 
-&#x20;      Off – When the power is off, or when powered by rechargeable battery.
+Off – When the power is off, or when powered by rechargeable battery.
 
 2. **Zone 1\~4 LED (Red)**
 
-&#x20;      The corresponding Zone LED will light up when the dry contact relay output switch is turned on, and the LED light will turn off when the switch is being turned off.
+The corresponding Zone LED will light up when the dry contact relay output switch is turned on, and the LED light will turn off when the switch is being turned off.
 
 3. **Transmission LED (Red)**
 
-&#x20;      Lights up when connection is normal between the Expansion Module and Control Panel.
+Lights up when connection is normal between the Expansion Module and Control Panel.
 
 4. **Breakaway Area**
 
-&#x20;     When the expansion module is forcibly removed from the mounting location, the area will detach and allow tamper switch to be activated.
+When the expansion module is forcibly removed from the mounting location, the area will detach and allow tamper switch to be activated.
 
 5. **Tamper Switch (For Wall Mounting)**
 
@@ -50,7 +48,7 @@ The expansion module is protected by the tamper switch against any unauthorized 
 7. **Wiring Hole**
 8. **Battery Connection Terminal (for WEPC-1B only)**
 
-&#x20;      For connecting the rechargeable battery pack to the PCB.
+For connecting the rechargeable battery pack to the PCB.
 
 9. **Terminal Resistor Jumper Switch (J3)**
 
@@ -64,18 +62,18 @@ When the Expansion Module is connected as the furthest BUS device on a BUS line,
 
 For DC 12V switching power connection.
 
-&#x20;     To supply stable and sufficient power to charge the rechargeable batteries for WEPC-1B, it is strongly recommended to use a 12V/1A switching power adaptor.
+To supply stable and sufficient power to charge the rechargeable batteries for WEPC-1B, it is strongly recommended to use a 12V/1A switching power adaptor.
 
 12. **Pluggable BUS Terminal**
 13. **Dry Contact Relay PGM Output Terminal**
 14. **Tamper Switch (For Case Cover)**
 
-&#x20;      The expansion module is protected by the tamper switch against any unauthorized case opening. Whenever the case cover is opened, the tamper switch will be activated.
+The expansion module is protected by the tamper switch against any unauthorized case opening. Whenever the case cover is opened, the tamper switch will be activated.
 
 15. **Reset Button (Reserved for Internal Use)**
 16. **Test Button**
 
-&#x20;      Press the test button to send a test signal to the Control Panel.
+Press the test button to send a test signal to the Control Panel.
 
 ## **Power Supply**
 
@@ -94,6 +92,17 @@ Before connecting the battery pack, make sure the power of DC Jack and/or BUS te
 {% endhint %}
 
 * When the rechargeable battery pack is low in power, the expansion module will transmit a low battery signal to the Control Panel. When the batteries have been charged, it will also transmit a battery restore signal to the Control Panel.
+
+### How to remove battery status report
+
+Follow these steps to remove the battery check:
+
+1. Remove the device from the Control Panel.
+   1.
+
+       <figure><img src=".gitbook/assets/image (1357).png" alt=""><figcaption></figcaption></figure>
+2. Set the J8 jumper switch to **`ON`**.
+3. Add the expander to the Control Panel again.
 
 ## **Tamper Protection**
 
@@ -201,8 +210,6 @@ Note:
 
 If there is no response from the Panel after the press of test button, it means the Panel did not receive the test signal from the device. Please check whether WEPC-1(B) is connected properly to the Panel within appropriate wiring distance.
 {% endhint %}
-
-
 
 ## **PGM Wiring**
 
