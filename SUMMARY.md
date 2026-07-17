@@ -209,6 +209,7 @@
 * [VESTA-313](vesta-313.md)
 * [VESTA-316](vesta-316.md)
 * [VESTA-317](vesta-317.md)
+* [VESTA-318](vesta-318.md)
 * [VESTA-324](vesta-324.md)
 * [VESTA-325](vesta-325.md)
 * [VESTA-335](vesta-335.md)

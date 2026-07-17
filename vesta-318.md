@@ -2,9 +2,9 @@
 icon: star-of-life
 ---
 
-# VESTA-317
+# VESTA-318
 
-GX-MAX1
+GX-MAX5
 
 ## Smart Care GX Medical Alarm Solution
 
@@ -15,7 +15,7 @@ GX-MAX1
 ## Main Features
 
 * Smart Care GX medical alarm solution
-* IP communication with integrated LTE and RF
+* IP communication with integrated LTE, RF and DECT
 * Bluetooth/ZigBee/Z-Wave (one of three options)
 * Location tracking
 * Wi-Fi Compatible Voice control
@@ -27,7 +27,9 @@ Up to 100 wireless zones
 
 IP communication (Ethernet), LTE
 
-Built-in F1 869MHz RF module
+Built-in RF and DECT module
+
+RF frequency F1 869MHz
 
 Protocol Options: Zigbee, Z-Wave, Bluetooth
 
