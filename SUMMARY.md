@@ -441,6 +441,7 @@
 * [NVR2110M-8P](nvr-vesta-advanced/nvr2110m-8p.md)
 * [NVR2116M](nvr-vesta-advanced/nvr2116m.md)
 * [NVR2116M-8P](nvr-vesta-advanced/nvr2116m-8p.md)
+* [NVR5104-4P-PRO](nvr-vesta-advanced/nvr5104-4p-pro.md)
 * [NVR6216-PRO](nvr-vesta-advanced/nvr6216-pro.md)
 * [NVR6232-PRO](nvr-vesta-advanced/nvr6232-pro.md)
 * [NVR6232S-16P-PRO](nvr-vesta-advanced/nvr6232s-16p-pro.md)
