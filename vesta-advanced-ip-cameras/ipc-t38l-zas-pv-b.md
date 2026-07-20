@@ -1,5 +1,5 @@
 ---
-icon: question
+icon: video-plus
 ---
 
 # IPC-T38L-ZAS-PV-B
