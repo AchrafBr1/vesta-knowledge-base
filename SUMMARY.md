@@ -450,6 +450,12 @@
 * [NVR7232-16P-IO-PRO](nvr-vesta-advanced/nvr7232-16p-io-pro.md)
 * [NVR7464-IO-ULTRA](nvr-vesta-advanced/nvr7464-io-ultra.md)
 
+## ADVANCED SWITCHES
+
+***
+
+* [SW04](sw04.md)
+
 ## ADV FIRMWARE UPDATES
 
 * [Firmware Updates – VESTA Advanced Video](adv-firmware-updates/firmware-updates-vesta-advanced-video.md)
