@@ -457,7 +457,7 @@
 * [SW04](sw04.md)
 * [SW08](sw08.md)
 * [SW016](sw016.md)
-* [Page 1](page-1.md)
+* [SW024](sw024.md)
 
 ## ADV FIRMWARE UPDATES
 
