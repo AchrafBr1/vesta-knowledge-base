@@ -21,7 +21,7 @@ icon: video
 
 {% tabs %}
 {% tab title="PF180" %}
-<figure><img src="../.gitbook/assets/image (1168).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/pf180.md">PF180</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1168).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/pf180-v2.md">PF180</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA152A-E" %}

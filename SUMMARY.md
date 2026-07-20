@@ -475,7 +475,7 @@
 
 ## CAMERAS ACCESSORIES
 
-* [PF180](cameras-accessories/pf180.md)
+* [PF180-V2](cameras-accessories/pf180-v2.md)
 * [PF180-B](cameras-accessories/pf180-b.md)
 * [SAM-4705](cameras-accessories/sam-4705.md)
 * [SAM-4712](cameras-accessories/sam-4712.md)
