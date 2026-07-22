@@ -26,12 +26,20 @@ layout:
 
 # SETUP VESTA Home IP CAM
 
-<figure><img src="../.gitbook/assets/image (1032).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/POWERPNT_MwynrLHTqa.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-We will show how to add the camera Vesta-292, but the steps to add the camera Vesta-291 or Vesta-293 are similar
+We will show how to add the camera Vesta-292, but this guide is valid for:
+
+VESTA-291
+
+VESTA-293
+
+IPC-C32-IN-WF
+
+IPC-A1-PTZ-WF
+
+IPC-B32-OUT-WF
 {% endhint %}
 
 ## Camera 292

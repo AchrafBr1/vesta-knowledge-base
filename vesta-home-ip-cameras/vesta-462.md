@@ -20,10 +20,6 @@ icon: video
 * 8X digital zoom
 * Video motion sensor
 * Person detection by PIR motion sensor
-* Configurable region
-* Working mode
-* Privacy mode: The lens is covered to protect your privacy when you are at home.
-* Siren and spotlights: Upon detection of an intruder, the spotlights and siren are activated automatically or manually to deter the potential intruder
 * Compatible with Amazon Alexa
 * Built-in microphone and speaker
 * Two-way audio
@@ -44,6 +40,6 @@ icon: video
 
 How To Install
 
-{% content-ref url="setup-vesta-home-ip-cam.md" %}
-[setup-vesta-home-ip-cam.md](setup-vesta-home-ip-cam.md)
+{% content-ref url="setup-vesta-home-cameras-vesta-462-and-vesta-463.md" %}
+[setup-vesta-home-cameras-vesta-462-and-vesta-463.md](setup-vesta-home-cameras-vesta-462-and-vesta-463.md)
 {% endcontent-ref %}

@@ -21,10 +21,6 @@ icon: video
 * 330°(H), 90°(V) positioner
 * Motion sensor
 * People detection
-* Real-time tracking of moving targets
-* Configurable region
-* Performance mode
-* Siren and spotlights: upon detection of an intruder, the spotlights and siren are automatically or manually activated to deter the potential intruder
 * Compatible with Amazon Alexa
 * Built-in microphone and speaker
 * Two-way audio
@@ -44,6 +40,6 @@ icon: video
 
 How To Install
 
-{% content-ref url="https://app.gitbook.com/s/ZJzpNocHhYVmD43GZobR/vesta-home-ip-cameras" %}
-[Vesta Home IP Cameras](https://app.gitbook.com/s/ZJzpNocHhYVmD43GZobR/vesta-home-ip-cameras)
+{% content-ref url="setup-vesta-home-cameras-vesta-462-and-vesta-463.md" %}
+[setup-vesta-home-cameras-vesta-462-and-vesta-463.md](setup-vesta-home-cameras-vesta-462-and-vesta-463.md)
 {% endcontent-ref %}
