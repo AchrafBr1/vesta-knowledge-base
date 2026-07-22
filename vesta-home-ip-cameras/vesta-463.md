@@ -40,6 +40,6 @@ icon: solar-panel
 
 ## How To Install
 
-{% content-ref url="setup-vesta-home-cameras-vesta-462-and-vesta-463.md" %}
-[setup-vesta-home-cameras-vesta-462-and-vesta-463.md](setup-vesta-home-cameras-vesta-462-and-vesta-463.md)
+{% content-ref url="setup-vesta-home-battery-cameras-vesta-462-and-vesta-463.md" %}
+[setup-vesta-home-battery-cameras-vesta-462-and-vesta-463.md](setup-vesta-home-battery-cameras-vesta-462-and-vesta-463.md)
 {% endcontent-ref %}

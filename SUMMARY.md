@@ -376,7 +376,7 @@
 * [VESTA Home - Firmware Update Guide](vesta-home-ip-cameras/vesta-home-firmware-update-guide.md)
 * [VESTA-462](vesta-home-ip-cameras/vesta-462.md)
 * [VESTA-463](vesta-home-ip-cameras/vesta-463.md)
-* [SETUP VESTA HOME CAMERAS VESTA-462 and VESTA-463](vesta-home-ip-cameras/setup-vesta-home-cameras-vesta-462-and-vesta-463.md)
+* [SETUP VESTA HOME BATTERY CAMERAS VESTA-462 and VESTA-463](vesta-home-ip-cameras/setup-vesta-home-battery-cameras-vesta-462-and-vesta-463.md)
 
 ## Vesta Advanced Video
 
