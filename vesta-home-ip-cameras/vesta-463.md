@@ -1,5 +1,5 @@
 ---
-icon: video
+icon: solar-panel
 ---
 
 # VESTA-463
