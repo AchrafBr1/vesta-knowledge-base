@@ -372,9 +372,9 @@
 * [IPC-C32-IN-WF](vesta-home-ip-cameras/ipc-c32-in-wf.md)
 * [IPC-A1-PTZ-WF](vesta-home-ip-cameras/ipc-a1-ptz-wf.md)
 * [IPC-B32-OUT-WF](vesta-home-ip-cameras/ipc-b32-out-wf.md)
+* [SETUP VESTA Home IP CAM](vesta-home-ip-cameras/setup-vesta-home-ip-cam.md)
 * [VESTA-462](vesta-home-ip-cameras/vesta-462.md)
 * [VESTA-463](vesta-home-ip-cameras/vesta-463.md)
-* [SETUP VESTA Home IP CAM](vesta-home-ip-cameras/setup-vesta-home-ip-cam.md)
 * [SETUP VESTA HOME CAMERAS VESTA-462 and VESTA-463](vesta-home-ip-cameras/setup-vesta-home-cameras-vesta-462-and-vesta-463.md)
 * [VESTA Home - Firmware Update Guide](vesta-home-ip-cameras/vesta-home-firmware-update-guide.md)
 
