@@ -1,8 +1,4 @@
 ---
-description: >-
-  The Vesta 291, 292, and 293 series are a range of wireless security cameras
-  designed for both indoor and outdoor use. They provide reliable video
-  surveillance with easy installation.
 hidden: true
 icon: camera-cctv
 layout:
@@ -25,65 +21,95 @@ layout:
     visible: true
 ---
 
-# SETUP VESTA CAMERAS 291-292-293
+# SETUP VESTA HOME CAMERAS VESTA-462 and VESTA-463
 
+The **Vesta-462** and **Vesta-463** series are a range of **Vesta Home** wireless battery-powered cameras designed for outdoor use. They provide reliable, high-quality video surveillance while ensuring quick and easy installation without the need for complex wiring.
 
+Designed to integrate seamlessly with the Vesta Home ecosystem, these cameras offer flexible placement and dependable performance for residential security applications. Their long-lasting rechargeable batteries can be conveniently recharged using the **included solar panel**, helping to extend operating time, reduce maintenance, and provide continuous protection with minimal user intervention.
 
-<figure><img src="../.gitbook/assets/Immagine2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/POWERPNT_oxztUToYCW.png" alt=""><figcaption></figcaption></figure>
 
+## Follow this guide to add the cameras to the SmartHomeSec App
 
+{% hint style="warning" %}
+Note:&#x20;
 
-{% hint style="info" %}
-We will show how to add the camera Vesta-292, but the steps to add the camera Vesta-291 or Vesta-293 are similar
+* Cameras can only be added using the SmartHomeSec app.
+* This guide is only valid for the VESTA-462 and VESTA-463 camera models.
+* Only the Master user can add or remove cameras.
 {% endhint %}
 
-## Camera 292
+{% stepper %}
+{% step %}
+### Login as User in the SmartHomeSec app
 
-<figure><img src="../.gitbook/assets/1 (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1369).png" alt=""><figcaption><p>STEP 1                                                       STEP 2                                                     STEP 3</p></figcaption></figure>
+{% endstep %}
 
-#### STEP 1:  Plug the power cable&#x20;
+{% step %}
+### Press the Camera logo
 
-#### STEP 2: Wait for the LED to remain in solid <mark style="color:green;">GREEN</mark> colour for Ethernet connection or flashing  <mark style="color:green;">GREEN</mark> in case of Wi-Fi Setup
 
-Use the SmartHomeSec app to initialise the camera and **add** it to the system
+{% endstep %}
 
-<figure><img src="../.gitbook/assets/100 (1).png" alt=""><figcaption><p>STEP 1                                                                STEP 2                                                           STEP 3</p></figcaption></figure>
+{% step %}
+### Press the + Icon to add a camera
 
-### STEP 1: Login as User in the SmarthomeSec App
 
-### STEP 2: Press Camera logo
+{% endstep %}
 
-### STEP 3: Press + Icon to add a camera
+{% step %}
+### Press the VESTA Home icon
 
-<figure><img src="../.gitbook/assets/image (413).png" alt=""><figcaption><p>STEP 4                                                                                                             STEP 5 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (171).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-### STEP 4: Press the VESTA/Imou icon
+{% step %}
+### Scan the Camera QR code&#x20;
 
-### STEP 5: Scan the Camera QR code and press NEXT&#x20;
+<figure><img src="../.gitbook/assets/3 (152).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-### STEP 6: Select how to add the camera:
+{% step %}
+### Select Add to Cloud and press Next&#x20;
 
-* &#x20;Add to the equipment: The camera must be installed on the same panel LAN network. In this way, the camera will be fully supported in the panel and the user app.&#x20;
+<figure><img src="../.gitbook/assets/4 (142).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
-Vantages to add to the equipment:
 
-* The camera will be an intrusion zone in the panel, and it can generate alarms.
-* SD-CARD video recording access
-* Movement detection.
-* PTZ control for the VESTA-292
+{% endstep %}
+
+{% step %}
+### Reset the camera to its factory settings by pressing the reset button.
+
+Wait for the LED to flash <mark style="color:green;">GREEN</mark> before proceeding
+
+<figure><img src="../.gitbook/assets/POWERPNT_SocPwy1sqt.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Choose Bluetooth to send the Wi-Fi credentials to the camera and press Next&#x20;
+
+<figure><img src="../.gitbook/assets/8 (106).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Write the Wi-Fi Password and press Submit
+
+{% hint style="warning" %}
+Note: your smartphone must be connected to the same Wi-Fi network
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (414).png" alt=""><figcaption><p>STEP 6</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/9 (105).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-* Add to the cloud: The camera will be installed using the cloud. The user will see the live video only from the user's app account.
+{% step %}
+### The camera has been added successfully.
 
-{% hint style="success" %}
-Vantages to add to the cloud:
+<figure><img src="../.gitbook/assets/10 (161).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
-* The camera can be installed on a different network (or at a different site).
-* Users with panels connected with 4G communication only, can have cameras connected to their accounts.
-{% endhint %}
+
 
 ### STEP 7: Choose the communication path of the camera (Ethernet or Wi-Fi)
 
