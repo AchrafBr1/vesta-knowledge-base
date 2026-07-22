@@ -1,5 +1,5 @@
 ---
-icon: video
+icon: camera-cctv
 ---
 
 # IPC-C32-IN-WF

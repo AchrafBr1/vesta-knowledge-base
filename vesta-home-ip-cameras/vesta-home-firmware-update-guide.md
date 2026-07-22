@@ -1,8 +1,12 @@
+---
+icon: camera-cctv
+---
+
 # VESTA Home - Firmware Update Guide
 
 This guide explains how to update the firmware of your **VESTA HOME camera** using [update tool.](https://update.jpab.es/)
 
-<figure><img src="../.gitbook/assets/image (1258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1370).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The firmware update fixes the following points:

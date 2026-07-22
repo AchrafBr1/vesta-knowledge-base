@@ -1,5 +1,5 @@
 ---
-icon: video
+icon: camera-cctv
 ---
 
 # IPC-A1-PTZ-WF

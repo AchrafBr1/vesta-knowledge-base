@@ -1,5 +1,5 @@
 ---
-icon: video
+icon: camera-cctv
 ---
 
 # IPC-B32-OUT-WF
