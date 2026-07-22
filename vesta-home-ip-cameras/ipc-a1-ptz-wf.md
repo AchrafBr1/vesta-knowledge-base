@@ -40,3 +40,7 @@ icon: video
 {% content-ref url="setup-vesta-home-ip-cam.md" %}
 [setup-vesta-home-ip-cam.md](setup-vesta-home-ip-cam.md)
 {% endcontent-ref %}
+
+{% content-ref url="vesta-home-firmware-update-guide.md" %}
+[vesta-home-firmware-update-guide.md](vesta-home-firmware-update-guide.md)
+{% endcontent-ref %}
