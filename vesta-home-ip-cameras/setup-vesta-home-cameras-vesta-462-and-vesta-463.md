@@ -1,6 +1,5 @@
 ---
-hidden: true
-icon: camera-cctv
+icon: solar-panel
 layout:
   width: default
   title:
@@ -81,13 +80,17 @@ Note:&#x20;
 {% step %}
 ### Reset the camera to its factory settings by pressing the reset button.
 
-Wait for the LED to flash <mark style="color:green;">GREEN</mark> before proceeding
-
 <figure><img src="../.gitbook/assets/POWERPNT_SocPwy1sqt.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Wait for the LED to flash <mark style="color:green;">GREEN</mark> before proceeding and pressing the Next button.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/WhatsApp.Root_krtioL10Ho.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Choose Bluetooth to send the Wi-Fi credentials to the camera and press Next&#x20;
+### Select the Bluetooth method to send the Wi-Fi credentials to the camera, then press 'Next'.
 
 <figure><img src="../.gitbook/assets/8 (106).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -96,7 +99,7 @@ Wait for the LED to flash <mark style="color:green;">GREEN</mark> before proceed
 ### Write the Wi-Fi Password and press Submit
 
 {% hint style="warning" %}
-Note: your smartphone must be connected to the same Wi-Fi network
+Note: Your smartphone must be connected to the same Wi-Fi network
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/9 (105).png" alt=""><figcaption></figcaption></figure>
@@ -111,104 +114,24 @@ Note: your smartphone must be connected to the same Wi-Fi network
 
 
 
-### STEP 7: Choose the communication path of the camera (Ethernet or Wi-Fi)
 
-{% hint style="warning" %}
-The camera and the panel must be on the same network, please check before proceeding&#x20;
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/102.png" alt=""><figcaption><p>STEP 7</p></figcaption></figure>
-
-{% hint style="info" %}
-In case of Ethernet communication, jump directly to STEP 12
-{% endhint %}
-
-### STEP 8: Wi-Fi connection
-
-{% hint style="warning" %}
-The mobile must be connected to the Wi-Fi network that you want to connect the camera
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/102.2.png" alt=""><figcaption><p>STEP 8                                                                STEP 9                                                                 STEP 10</p></figcaption></figure>
-
-{% hint style="info" %}
-**If you're connecting your camera via Wi-Fi but it doesn't proceed to the IP search step, don't worry. This can happen if your mobile device temporarily lost internet connection while switching networks and didn’t reconnect properly.**
-
-To continue:
-
-* Check if the camera's <mark style="color:green;">**GREEN LED**</mark> is **solid ON** (not blinking).
-* If it is, go back to the previous step and **select ETHERNET instead of Wi-Fi** — the setup should then work correctly.
-
-![](<../.gitbook/assets/image (998).png>)
-{% endhint %}
-
-### STEP 9: Connect your mobile to the camera network by pressing join
-
-### STEP 10: Select the network and press Next
-
-<figure><img src="../.gitbook/assets/103.png" alt=""><figcaption><p> STEP 11                                                                STEP 12                                                                    STEP 13</p></figcaption></figure>
-
-### STEP 11: Write the Wi-Fi password
-
-### STEP 12: The app will show you the camera userID and password
-
-<figure><img src="../.gitbook/assets/104.png" alt=""><figcaption><p>STEP 12                                                                                                                                                  </p></figcaption></figure>
-
-{% hint style="warning" %}
-Note:
-
-If the password field is not automatically filled:&#x20;
-
-UserID: admin
-
-Password: (Safety code of the camera, label below)
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/image (409).png" alt=""><figcaption><p>Password</p></figcaption></figure>
-
-SETUP COMPLETED
-
-<figure><img src="../.gitbook/assets/21.jpg" alt="" width="185"><figcaption></figcaption></figure>
-
-***
-
-### **How to Enable Camera Notifications When the System is Disarmed**
-
-The **VESTA HOME / ADV cameras** allow you to receive notifications even while the system is disarmed. This can be useful if you want to stay aware of movement in certain areas without arming the entire system.
-
-#### Steps to Configure:
-
-1. Go to the Settings --> Device -->  **Camera settings** in the app SmartHomeSec.
-   1.
-
-       <figure><img src="../.gitbook/assets/image (1017).png" alt=""><figcaption></figcaption></figure>
-2. Locate the option **Chime as Attribute during Disarm**:&#x20;
-   1.
-
-       <figure><img src="../.gitbook/assets/image (1018).png" alt=""><figcaption></figcaption></figure>
-3. Enable this option on the camera.
-
-#### What Happens Next:
-
-* The system will stay in **alert mode** even when disarmed.
-* If the camera detects activity, you will receive a **push notification**:
-  * _Human Detected / Motion Detected_
-
-⚠️ **Important:** In this mode, the camera **will not capture images**. You will only get the push notification. You can then open the live stream manually if you want to check what’s happening.
-
-#### Coming Soon:
-
-The platform will soon support a new attribute: **Notifications with Image**. Once available, you will not only get the notification but also a snapshot from the camera directly in the alert.
 
 ***
 
 ## TROUBLESHOOTING&#x20;
 
-### **I cannot find the IP of the camera on the setup steps:**
+### **If you're connecting your camera via Bluetooth or Wi-Fi but it doesn't proceed to the next step**
 
-1\.   Ensure that the VESTA central controller is connected to the same network as the camera.
+{% hint style="info" %}
+**Don't worry. This can happen if your mobile device temporarily loses its internet connection while switching networks and doesn’t reconnect properly.**
 
-2\.   Restart the switch or router where the VESTA panel and Camera are connected.
+To continue:
+
+* Check if the camera's <mark style="color:green;">**GREEN LED**</mark> is **solid ON** (not blinking).
+* If it is, go back to the previous step and **select Skip (My camera is already connected to the internet)** — the setup should then work correctly.
+
+![](../.gitbook/assets/note1.png)
+{% endhint %}
 
 ***
 
@@ -218,14 +141,7 @@ The platform will soon support a new attribute: **Notifications with Image**. On
 
 2\.   Make sure to enable the location for the SmartHomeSec APP.
 
-3\.   Make sure you give the APP permissions to connect to a WIFI network, and if it asks for connection permissions allow them.
+3\.   Make sure you give the APP permissions to connect to a WIFI network, and if it asks for connection permissions, allow them.
 
 ***
 
-### **The camera is not ready:**
-
-1. Reset the camera to factory settings
-
-To reset the VESTA camera:  Press the button RESET located on the back and hold for 10 seconds (The camera will make a BEEP and the LED will turn red) NOTES: In the VESTA-292 model, the button is located under the optics
-
-<figure><img src="../.gitbook/assets/Immagine1.png" alt="" width="375"><figcaption></figcaption></figure>
