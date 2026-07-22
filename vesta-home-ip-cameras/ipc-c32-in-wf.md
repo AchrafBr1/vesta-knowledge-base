@@ -40,7 +40,7 @@ icon: video
 * Color: white
 * Tabletop or wall installation
 
-### How to install
+## How to install
 
 {% content-ref url="setup-vesta-home-ip-cam.md" %}
 [setup-vesta-home-ip-cam.md](setup-vesta-home-ip-cam.md)

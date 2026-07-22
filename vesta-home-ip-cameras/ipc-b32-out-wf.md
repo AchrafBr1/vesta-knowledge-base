@@ -45,7 +45,7 @@ icon: video
 * Color: White
 * Wall or ceiling installation
 
-How To Install
+## How To Install
 
 {% content-ref url="setup-vesta-home-ip-cam.md" %}
 [setup-vesta-home-ip-cam.md](setup-vesta-home-ip-cam.md)

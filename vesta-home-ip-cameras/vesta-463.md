@@ -38,7 +38,7 @@ icon: video
 * Net weight: 718 g
 * CE, UKCA
 
-How To Install
+## How To Install
 
 {% content-ref url="setup-vesta-home-cameras-vesta-462-and-vesta-463.md" %}
 [setup-vesta-home-cameras-vesta-462-and-vesta-463.md](setup-vesta-home-cameras-vesta-462-and-vesta-463.md)

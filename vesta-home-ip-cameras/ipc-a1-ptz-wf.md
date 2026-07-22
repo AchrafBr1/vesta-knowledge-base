@@ -35,7 +35,7 @@ icon: video
 * Dimensions: Approx. 77.4 × 77.4 × 106.2 mm
 * Net weight: approx. 197 g
 
-How To Install
+## How To Install
 
 {% content-ref url="setup-vesta-home-ip-cam.md" %}
 [setup-vesta-home-ip-cam.md](setup-vesta-home-ip-cam.md)

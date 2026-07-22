@@ -38,7 +38,7 @@ icon: video
 * Camera weight: 360 g
 * CE
 
-How To Install
+## How To Install
 
 {% content-ref url="setup-vesta-home-cameras-vesta-462-and-vesta-463.md" %}
 [setup-vesta-home-cameras-vesta-462-and-vesta-463.md](setup-vesta-home-cameras-vesta-462-and-vesta-463.md)
