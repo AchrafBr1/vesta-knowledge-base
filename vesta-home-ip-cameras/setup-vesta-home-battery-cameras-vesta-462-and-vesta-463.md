@@ -20,13 +20,15 @@ layout:
     visible: true
 ---
 
-# SETUP VESTA HOME CAMERAS VESTA-462 and VESTA-463
+# SETUP VESTA HOME BATTERY CAMERAS VESTA-462 and VESTA-463
 
 The **Vesta-462** and **Vesta-463** series are a range of **Vesta Home** wireless battery-powered cameras designed for outdoor use. They provide reliable, high-quality video surveillance while ensuring quick and easy installation without the need for complex wiring.
 
 Designed to integrate seamlessly with the Vesta Home ecosystem, these cameras offer flexible placement and dependable performance for residential security applications. Their long-lasting rechargeable batteries can be conveniently recharged using the **included solar panel**, helping to extend operating time, reduce maintenance, and provide continuous protection with minimal user intervention.
 
 <figure><img src="../.gitbook/assets/POWERPNT_oxztUToYCW.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/IeRcfvEhZXE" %}
 
 ## Follow this guide to add the cameras to the SmartHomeSec App
 
