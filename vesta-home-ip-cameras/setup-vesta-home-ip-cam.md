@@ -28,7 +28,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/POWERPNT_MwynrLHTqa.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+{% hint style="success" %}
 We will show how to add the camera Vesta-292, but this guide is valid for:
 
 VESTA-291
@@ -40,6 +40,10 @@ IPC-C32-IN-WF
 IPC-A1-PTZ-WF
 
 IPC-B32-OUT-WF
+{% endhint %}
+
+{% hint style="warning" %}
+Before you start, please check the permissions for the SmartHomeSec app on your phone. The Position setting must be set to 'Always' and the Network Access setting must be set to 'ON'.
 {% endhint %}
 
 ## Camera 292
