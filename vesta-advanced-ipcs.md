@@ -1,5 +1,5 @@
 ---
-description: Manuel
+description: Manual
 ---
 
 # Vesta Advanced IPCs
