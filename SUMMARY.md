@@ -506,4 +506,5 @@
 
 * [Vesta Advanced Switches](vesta-advanced-switches.md)
 * [Vesta Advanced NVRs](vesta-advanced-nvrs.md)
+* [Vesta Advanced IPCs](vesta-advanced-ipcs.md)
 * [RC 32 F1 2W\_20260601](rc-32-f1-2w_20260601.md)
