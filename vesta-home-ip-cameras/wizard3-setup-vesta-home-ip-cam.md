@@ -1,8 +1,9 @@
 ---
 hidden: true
+icon: camera-cctv
 ---
 
-# wizard3-setup-vesta-home-ip-cam
+# Connect your Camera
 
 **Ethernet**
 

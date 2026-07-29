@@ -1,8 +1,9 @@
 ---
 hidden: true
+icon: video-plus
 ---
 
-# wizard1-setup-vesta-home-ip-cam
+# Adding Method
 
 **Add to Equipment**
 
