@@ -377,9 +377,9 @@
 * [VESTA-462](vesta-home-ip-cameras/vesta-462.md)
 * [VESTA-463](vesta-home-ip-cameras/vesta-463.md)
 * [SETUP VESTA HOME BATTERY CAMERAS VESTA-462 and VESTA-463](vesta-home-ip-cameras/setup-vesta-home-battery-cameras-vesta-462-and-vesta-463.md)
-* [wizard1-setup-vesta-home-ip-cam](vesta-home-ip-cameras/wizard1-setup-vesta-home-ip-cam.md)
-* [wizard2-setup-vesta-home-ip-cam](vesta-home-ip-cameras/wizard2-setup-vesta-home-ip-cam.md)
-* [wizard3-setup-vesta-home-ip-cam](vesta-home-ip-cameras/wizard3-setup-vesta-home-ip-cam.md)
+* [Adding Method](vesta-home-ip-cameras/wizard1-setup-vesta-home-ip-cam.md)
+* [Use Bluetooth to send Wi-Fi credentials.](vesta-home-ip-cameras/wizard2-setup-vesta-home-ip-cam.md)
+* [Connect your Camera](vesta-home-ip-cameras/wizard3-setup-vesta-home-ip-cam.md)
 
 ## Vesta Advanced Video
 
