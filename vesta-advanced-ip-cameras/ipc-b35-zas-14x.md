@@ -13,7 +13,7 @@ icon: video
 
 * VESTA Advanced Video IP bullet camera with active deterrence
 * 5MP@25/30ips
-* ICR, 0.001 lux and Smart Dual Light with IR 70 m + warm light 50 m
+* ICR, 0.001 lux and Smart Dual Light with IR 50 m + warm light 30 m
 * &#x20;Motorised varifocal lens 5-70 mm (14x)
 * WDR 120 dB
 * SMD and perimeter protection with human/vehicle classification
