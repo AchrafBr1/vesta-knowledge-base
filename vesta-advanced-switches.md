@@ -4,7 +4,7 @@ description: Manual
 
 # Vesta Advanced Switches
 
-[https://vestasecurity-my.sharepoint.com/:p:/g/personal/vesta\_vestasecurity\_eu/IQCb5\_ksBDnVTIXNuU96h8yeAQZpAVPVpcHOpkZP-fHTgyE?e=Dte0WO](https://vestasecurity-my.sharepoint.com/:p:/g/personal/vesta_vestasecurity_eu/IQCb5_ksBDnVTIXNuU96h8yeAQZpAVPVpcHOpkZP-fHTgyE?e=Dte0WO)
+[Download](https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgBZxMapkzVJSZLAYsG3DQaVARv4jS0-MbTxQtF8xpSx21E?e=AvNU9X)
 
 
 
