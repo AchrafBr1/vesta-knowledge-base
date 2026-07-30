@@ -431,6 +431,7 @@
 * [IPC-B38-A180-PV](vesta-advanced-ip-cameras/ipc-b38-a180-pv.md)
 * [IPC-T38-A180-PV](vesta-advanced-ip-cameras/ipc-t38-a180-pv.md)
 * [SD5Z20](vesta-advanced-ip-cameras/sd5z20.md)
+* [IPC-B35-ZAS-14X](vesta-advanced-ip-cameras/ipc-b35-zas-14x.md)
 
 ***
 

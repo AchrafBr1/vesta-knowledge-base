@@ -158,7 +158,7 @@ If the panel prompts you to enable CGI on the camera (And CGI already activated)
 
 **Solution:**\
 Reset the camera to factory settings. After the reset, the camera will function correctly.\
-&#xNAN;_(Note: This issue is typically related to modifications in the Users settings.)_
+_(Note: This issue is typically related to modifications in the Users settings.)_
 
 
 
