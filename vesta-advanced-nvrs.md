@@ -4,7 +4,7 @@ description: Manual
 
 # Vesta Advanced NVRs
 
-{% embed url="https://vestasecurity-my.sharepoint.com/:b:/g/personal/vesta_vestasecurity_eu/IQDYNuSoUW7hT7SwTqbB8vV-AYVkpsAwSCsM8VvPoElkgcc?e=TBXdey" %}
+[Download](https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgCCsMpKwPv-QrIvOOifssoOAY_IdWZCpZaewiXdTO_UD9A?e=CaO3kZ)
 
 
 
