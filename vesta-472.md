@@ -116,7 +116,9 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
 
 * The detector regularly checks for excessive dust buildup inside the Optical Chamber.
 * If the chamber accumulates must dust, the detector will report to the Panel to notify the user to clean it.
+  * **"Maintenance Report"**
 * If the chamber is still not cleaned and gets too much dust that it doesn't work anymore, the detector will report to the Panel for maintenance warning.
+  * **"Force Maintenance"**
 
 ### _**Test Mode for IR Function**_**(SD-32-HM/-HM-SC/-HME-SC only)**
 
