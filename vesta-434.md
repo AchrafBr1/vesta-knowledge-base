@@ -32,23 +32,23 @@ Remember to enable en ALARM -> HTTP URL (Play File Enable)
 
 **Stop Action:**&#x20;
 
-* http://192.168.0.155/api/play?action=stop
+* http://user:password@192.168.0.155/api/play?action=stop
 
 **Start playing bell1:**&#x20;
 
-* http://192.168.0.155/api/play?action=start\&file=bell1
+* http://user:password@192.168.0.155/api/play?action=start\&file=bell1
 
 **Start playing userfile1 once with volume 10**:&#x20;
 
-* http://192.168.0.155/api/play?action=start\&file=userfile1\&mode=once\&volume=10
+* http://user:password@192.168.0.155/api/play?action=start\&file=userfile1\&mode=once\&volume=10
 
 **Start playing userfile1 multiple times (10 times) with volume 20:**
 
-* http://192.168.0.155/api/play?action=start\&file=userfile1\&mode=multiple\&count=10\&volume=20
+* http://user:password@192.168.0.155/api/play?action=start\&file=userfile1\&mode=multiple\&count=10\&volume=20
 
 **Start playing userfile1 for a specific duration (10 times) with volume 30:**&#x20;
 
-* http://192.168.0.155/api/play?action=start\&file=userfile1\&mode=duration\&count=10\&volume=30
+* http://user:password@192.168.0.155/api/play?action=start\&file=userfile1\&mode=duration\&count=10\&volume=30
 
 ## Activating an audio wedge from VESTA
 
@@ -59,8 +59,10 @@ These **HTTP** commands can go directly into VESTA rule actions. For example, we
 
 * _**TRIGGER:** Alarm -> Any alarm_&#x20;
 * _**CONDITIONS:** Na_&#x20;
-* _**ACTIONS:** HTTP ->_ http://192.168.0.155/api/play?action=start\&file=<mark style="color:red;">userfile1</mark>
+* _**ACTIONS:** HTTP ->_ http://<mark style="color:violet;">admin</mark>:<mark style="color:blue;">admin</mark>@192.168.0.155/api/play?action=start\&file=<mark style="color:red;">userfile1</mark>
   * _<mark style="color:red;">userfile1</mark>_: This is the first mp3 file we uploaded on the horn
+  * <mark style="color:violet;">admin:</mark> Username
+  * <mark style="color:blue;">admin:</mark> Password
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image (614).png" alt=""><figcaption><p>Rule example in VESTA</p></figcaption></figure>
