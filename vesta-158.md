@@ -113,6 +113,18 @@ II. Using the holes as a template, drill holes in the surface III. Insert the wa
 
 IV. Screw the base into the wall plugs, then screw the cover back onto its base.
 
+## _**Historical Data via the App and Web Portal**_
+
+This feature allows you to view historical data and trends through graphs in both the mobile app and the web portal.
+
+<figure><img src=".gitbook/assets/image (1377).png" alt=""><figcaption></figcaption></figure>
+
+Historical data can be displayed for the following periods:
+
+* **1 day**
+* **1 week**
+* **1 month**
+
 ## _**Operation & Alarm Activation**_
 
 * The Temperature Sensor can be selected to use either the Internal or External temperature probe according to Dip Switch setting
@@ -124,3 +136,8 @@ IV. Screw the base into the wall plugs, then screw the cover back onto its base.
 <figure><img src=".gitbook/assets/3 (15).png" alt=""><figcaption></figcaption></figure>
 
 * To switch between modes, simply adjust the DIP switches according to desired setting.
+
+{% hint style="info" %}
+If you don’t adjust the dip switches, you can activate the alarm directly via the **rules** on the control panel, where you have greater control and precision over the temperature
+{% endhint %}
+
