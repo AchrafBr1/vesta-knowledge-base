@@ -6,7 +6,7 @@ This guide will explain how the integration of the megaphone with VESTA works. Y
 
 <figure><img src=".gitbook/assets/image (612).png" alt=""><figcaption></figcaption></figure>
 
-## 🔐 Local access
+## Local access
 
 The following is the local access data to the horn:
 
@@ -26,9 +26,9 @@ Remember to enable en ALARM -> HTTP URL (Play File Enable)
 
 
 
-## 📢 HTTP commands for running audio spots in VESTA
+## HTTP commands for running audio spots in VESTA
 
-### 🔊 **API Play Action Examples**
+### **API Play Action Examples**
 
 **Stop Action:**&#x20;
 
@@ -74,3 +74,17 @@ These **HTTP** commands can go directly into VESTA rule actions. For example, we
 ## Download complete Manual guide
 
 {% file src=".gitbook/assets/VESTA IP Speaker User Manual.docx" %}
+
+***
+
+{% updates format="full" %}
+{% update date="2026-08-20" %}
+## Firmware update august 2026
+
+Allows to make http actions with autentification (username and password)
+
+<figure><img src=".gitbook/assets/image (1378).png" alt=""><figcaption></figcaption></figure>
+
+{% file src=".gitbook/assets/VESTA-434-V4.1.3-20260812-app.zip" %}
+{% endupdate %}
+{% endupdates %}
