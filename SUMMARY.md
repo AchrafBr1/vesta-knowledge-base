@@ -312,7 +312,7 @@
 * [VESTA-477](vesta-477.md)
 * [VESTA-478](vesta-478.md)
 * [VESTA-479](vesta-479.md)
-* [VESTA 480](vesta-480.md)
+* [VESTA-480](vesta-480.md)
 * [VESTA 481](vesta-481.md)
 * [VESTA-482](vesta-482.md)
 * [VESTA 485 to check and add pictures](vesta-485-to-check-and-add-pictures.md)
