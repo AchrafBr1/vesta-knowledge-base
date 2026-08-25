@@ -309,7 +309,7 @@
 * [VESTA-474](vesta-474.md)
 * [VESTA-475](vesta-475.md)
 * [VESTA-476](vesta-476.md)
-* [VESTA 477](vesta-477.md)
+* [VESTA-477](vesta-477.md)
 * [VESTA-478](vesta-478.md)
 * [VESTA-479](vesta-479.md)
 * [VESTA 480](vesta-480.md)
