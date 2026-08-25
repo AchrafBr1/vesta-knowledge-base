@@ -4,7 +4,7 @@ description: For all Radio (HSGW, ESGW) and hybrid VESTA panels
 
 # VESTA-470
 
-## Panel 640-zone IP + 4G home security system via radio + Z-Wave
+## Panel 640-zone IP + 4G home security system via radio&#x20;
 
 <figure><img src=".gitbook/assets/image (1382).png" alt=""><figcaption></figcaption></figure>
 
