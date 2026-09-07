@@ -53,8 +53,8 @@ This step can be skipped if you already know your master code
 4. Enter **Master code** and press the Unlock button.
 5. The Door Lock (Yale) will be displayed on the Panel webpage. Click "Add" to include the door lock into the Panel.
 
-{% hint style="warning" %}
-Note: Wait five minutes to allow the device to exchange all the necessary data with the control unit before testing begins.
+{% hint style="danger" %}
+**Note: Wait  2 minutes to allow the device to exchange all the necessary data with the control unit before testing begins.**
 {% endhint %}
 
 ### _**Supervision**_
