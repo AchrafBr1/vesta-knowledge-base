@@ -82,7 +82,9 @@ Note:&#x20;
 {% step %}
 ### Reset the camera to its factory settings by pressing the reset button.
 
-<figure><img src="../.gitbook/assets/POWERPNT_SocPwy1sqt.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/POWERPNT_SocPwy1sqt.png" alt=""><figcaption><p>                                                                                               VESTA-462</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/reset.png" alt=""><figcaption><p>VESTA-463</p></figcaption></figure>
 
 {% hint style="warning" %}
 Wait for the LED to flash <mark style="color:green;">GREEN</mark> before proceeding and pressing the Next button.
