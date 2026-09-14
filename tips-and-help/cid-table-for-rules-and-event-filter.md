@@ -296,3 +296,5 @@
 | v2\_cid\_1699              | Ethernet test                              | Evento test enviado desde ETHERNET                          |
 | v2\_cid\_1603              | GPRS test                                  | Evento test enviado desde GPRS/LTE                          |
 | v2\_cid\_3756              | Home arm from remote control               | Armado en casa desde Mando a distancia                      |
+| v2\_cid\_1989              | Device action (Relay turn ON/OFF)          | Acción de dispositivo (ON / OFF RELE)                       |
+
