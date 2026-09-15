@@ -1,8 +1,8 @@
 # VESTA-479
 
-**VST-897EX-Solar Series**
+**VST-897EX-HDR-IL-SOLAR-SF1-2W-868**
 
-## **Outdoor PIR Motion Sensor Camera**
+## **Outdoor PIR Motion Sensor Camera with Solar power supply**
 
 <figure><img src=".gitbook/assets/image (1303).png" alt=""><figcaption></figcaption></figure>
 
