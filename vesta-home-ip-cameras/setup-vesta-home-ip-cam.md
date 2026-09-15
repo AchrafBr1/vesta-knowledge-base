@@ -22,6 +22,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # SETUP VESTA Home IP CAM
@@ -255,3 +257,10 @@ Even though the camera is connected via Wi-Fi, selecting **Ethernet** in this st
 To reset the VESTA camera:  Press the button RESET located on the back and hold for 10 seconds (The camera will make a BEEP and the LED will turn red) NOTES: In the VESTA-292 model, the button is located under the optics
 
 <figure><img src="../.gitbook/assets/Immagine1.png" alt="" width="375"><figcaption></figcaption></figure>
+
+***
+
+### Removing the camera from a user’s account.
+
+To assign the camera to another customer, it must first be removed from the SHS app and then added to the new customer’s account.\
+This can be done via the user or installer account in the SHS app.

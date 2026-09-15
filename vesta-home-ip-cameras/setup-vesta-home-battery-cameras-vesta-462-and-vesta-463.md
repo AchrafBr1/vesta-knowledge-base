@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # SETUP VESTA HOME BATTERY CAMERAS VESTA-462 and VESTA-463
@@ -149,3 +151,7 @@ To continue:
 
 ***
 
+### Removing the camera from a user’s account.
+
+To assign the camera to another customer, it must first be removed from the SHS app and then added to the new customer’s account.\
+This can be done via the user or installer account in the SHS app.
