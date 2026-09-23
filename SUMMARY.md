@@ -315,8 +315,12 @@
 * [VESTA-480](vesta-480.md)
 * [VESTA-481](vesta-481.md)
 * [VESTA-482](vesta-482.md)
+* [VESTA 483](vesta-483.md)
 * [VESTA 485 to check and add pictures](vesta-485-to-check-and-add-pictures.md)
+* [VESTA 484](vesta-484.md)
 * [VESTA-507](vesta-507.md)
+* [VESTA-510](vesta-034-1.md)
+* [VESTA 512](vesta-512.md)
 * [VESTA-TXI-R](vesta-txi-r.md)
 * [VESTA-TXI-RDAM-X5](vesta-txi-rdam-x5.md)
 
@@ -515,4 +519,3 @@
 * [Vesta Advanced IPCs](vesta-advanced-ipcs.md)
 * [Vesta Advanced App.](vesta-advanced-app..md)
 * [Vesta Monitors](vesta-monitors.md)
-* [RC 32 F1 2W\_20260601](rc-32-f1-2w_20260601.md)

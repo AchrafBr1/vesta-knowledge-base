@@ -1,3 +1,7 @@
+---
+icon: star-of-life
+---
+
 # VESTA-071
 
 <figure><img src=".gitbook/assets/image (1313).png" alt=""><figcaption></figcaption></figure>
