@@ -202,7 +202,9 @@ Below are the technical details and available configuration options for the devi
 
 These options can be accessed through the device’s web interface or dedicated configuration app, once the VDP is connected to the network.
 
-## Firmware update
+## How to do&#x20;
+
+### Firmware update
 
 To update the VDP-3 firmware, you need to download:
 
@@ -235,3 +237,17 @@ Note: the default password is: cX+HsA\*7F1
 <figure><img src=".gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
 Press Apply to upgrade the VDP firmware.
+
+### Factory Reset
+
+1\) Power off the VDP
+
+2\) Press and keep pressed the bell button
+
+{% embed url="https://drive.google.com/file/d/1wR6UCAlyantKrN386yxuCylPcgAvRSNC/view?usp=sharing" %}
+
+3\) Wait until the orange LED will be fixed ON, then leave the button.
+
+### Add the VDP to the panel&#x20;
+
+{% embed url="https://drive.google.com/file/d/1at0CiZQizhk2jPM5vo2AKWlBFr8tOeqk/view?usp=sharing" %}
