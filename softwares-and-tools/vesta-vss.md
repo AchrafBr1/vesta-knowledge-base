@@ -42,3 +42,21 @@ To download the VSS software for VESTA Advanced Video, please use the following 
 <figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgDWe3-8g5HYR7wme9sgJ7wBAVGQAezsBMWW_KToYv8yI5k?e=B8Nn33"><strong>Download VSS software for windows</strong></a></p></figcaption></figure>
 
 <p align="center">Software VSS Updated 27/08/2026 V2.7.2.1</p>
+
+
+
+{% updates format="full" %}
+{% update date="2026-09-28" tags="vss-update" %}
+## WideSeek
+
+WideSeek forensic search using natural language descriptions. The same search engine is integrated into the monitoring software (VSS) and the VESTA Advanced app, allowing you to investigate from anywhere.
+
+**WIDESEEK FEATURES**
+
+* Search by description of a person, vehicle or any object
+* Describe what you’re looking for and WideSeek analyses the archive to find it. No need to remember the date or time.
+* Filter by characteristics and attributes – starting with colour, clothing or any other feature – to narrow down your search in seconds.
+* Search directly within existing recordings, without reconfiguring cameras or modifying the installation.
+* Investigations in minutes: turn hours spent reviewing a timeline into a quick search and a few relevant clips, e.g. ‘Person wearing glasses and a red T-shirt’.
+{% endupdate %}
+{% endupdates %}
