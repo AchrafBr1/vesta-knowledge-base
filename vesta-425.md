@@ -40,9 +40,56 @@ TSP-Cam: The panel features a built-in Camera, extra Cameras may be included int
 
 
 
+### 1.1 QallMax Firmware Upgrade
+
+{% hint style="warning" %}
+⚠️ The firmware update procedure
+
+The panel requires the installer or end user to interact directly with the control unit's screen.
+{% endhint %}
+
+{% hint style="warning" %}
+⚠️ Firmware update\
+Updating the firmware via the mobile network (GPRS/4G) involves downloading data and may result in unexpected charges for the customer. We recommend carrying out the update using an Ethernet or Wi-Fi connection.
+{% endhint %}
+
+{% stepper %}
+{% step %}
+### Step 1: Login as installer&#x20;
+
+Log in to the SHS app/web as an installer.
+{% endstep %}
+
+{% step %}
+### Step 2
+
+In the 'Firmware Update' section, select the new firmware and press Apply button.
+
+<figure><img src=".gitbook/assets/chrome_LN1kcx3LO1.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Note: The firmware names are listed in ascending numerical and alphabetical order.
+{% endhint %}
+
+{% hint style="success" %}
+Note: The panel will start to download the firmware from the cloud. This process will take a while, depending on the speed of the internet connection that the control unit is using.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### Step 3: On the panel screen, press the 'Update'.
+
+<figure><img src=".gitbook/assets/WhatsApp.Root_wZTB2wTKEG.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Step 4: Once the update process is complete, press ‘Open’ on the panel display.
+
+<figure><img src=".gitbook/assets/WhatsApp.Root_cRxfyIvDMX.png" alt=""><figcaption></figcaption></figure>
 
 
-
+{% endstep %}
+{% endstepper %}
 
 ## 2. System Overview
 
