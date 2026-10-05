@@ -2,7 +2,7 @@
 
 TouchPanel 3
 
-## Qallmax - Touch-Screen Intrusion panel&#x20;
+## Qallmax - Touch-Screen Intrusion panel
 
 <figure><img src=".gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,24 +38,19 @@ The user can also select the screen timeout period in Settings. If "Never" is se
 
 TSP-Cam: The panel features a built-in Camera, extra Cameras may be included into the system to extend the coverage.
 
-
-
 ### 1.1 QallMax Firmware Upgrade
 
-{% hint style="warning" %}
-⚠️ The firmware update procedure
+{% hint style="info" %}
+Firmware update requirements
 
-The panel requires the installer or end user to interact directly with the control unit's screen.
-{% endhint %}
+The installer or end user must complete the first update on the panel screen. Later updates do not require panel interaction.
 
-{% hint style="warning" %}
-⚠️ Firmware update\
-Updating the firmware via the mobile network (GPRS/4G) involves downloading data and may result in unexpected charges for the customer. We recommend carrying out the update using an Ethernet or Wi-Fi connection.
+Updating firmware over GPRS or 4G may incur mobile-data charges. Use an Ethernet or Wi-Fi connection whenever possible.
 {% endhint %}
 
 {% stepper %}
 {% step %}
-### Step 1: Login as installer&#x20;
+### Step 1: Login as installer
 
 Log in to the SHS app/web as an installer.
 {% endstep %}
@@ -86,10 +81,12 @@ Note: The panel will start to download the firmware from the cloud. This process
 ### Step 4: Once the update process is complete, press ‘Open’ on the panel display.
 
 <figure><img src=".gitbook/assets/WhatsApp.Root_cRxfyIvDMX.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 {% endstepper %}
+
+{% hint style="success" %}
+After updating the panel firmware, return to **Firmware Update** to check for a new ROM version.
+{% endhint %}
 
 ## 2. System Overview
 
@@ -146,10 +143,10 @@ When AC power fails, the Qualmax panel enters one of two modes depending on the 
 
 #### Summary Table
 
-| Mode             | LTE                                   | WiFi | Z-Wave | Screen | System         | Battery Life |
-| ---------------- | ------------------------------------- | ---- | ------ | ------ | -------------- | ------------ |
-| Power Saving ON  | <p>Off </p><p>(On when reporting)</p> | Off  | On     | Off    | Sleep          | **24h**      |
-| Power Saving OFF | On                                    | Off  | On     | Off    | Awake (online) | **5h**       |
+| Mode             | LTE                                  | WiFi | Z-Wave | Screen | System         | Battery Life |
+| ---------------- | ------------------------------------ | ---- | ------ | ------ | -------------- | ------------ |
+| Power Saving ON  | <p>Off</p><p>(On when reporting)</p> | Off  | On     | Off    | Sleep          | **24h**      |
+| Power Saving OFF | On                                   | Off  | On     | Off    | Awake (online) | **5h**       |
 
 ***
 
@@ -159,11 +156,7 @@ When AC power fails, the Qualmax panel enters one of two modes depending on the 
 * Z-Wave remains ON in both modes (Negligible impact).
 * Firmware version: **Feb. 2026 release** (SmartHomeSec).
 
-
-
 ### 2.1. Parts Identification
-
-
 
 ![Front View](<.gitbook/assets/Unknown image (234)>)
 
@@ -242,7 +235,7 @@ The Control Panel is designed to be wall mounted, follow guidelines below when p
 ![](<.gitbook/assets/Unknown image (241)>)
 
 {% hint style="warning" %}
-Note:&#x20;
+Note:
 
 * Before inserting the SIM card, please make sure the pin code is deactivated and SMS messages are removed first.
 * Insert the SIM Card when the Panel is powered off.
@@ -263,7 +256,7 @@ If using the Power Supply Accessory (AUX-PS or AUX-PS-DC) with TouchPanel-3, ple
 
 ![](<.gitbook/assets/Unknown image (245)>)
 
-&#x20;The above is an example of wiring. The back plate provides four breakaway sections as wiring hole options.
+The above is an example of wiring. The back plate provides four breakaway sections as wiring hole options.
 
 8. Plug the power adapter into a wall socket. The Green LED on TouchPanel-3 will turn on steadily to indicate AC power connected.
 
@@ -294,7 +287,7 @@ It is recommended to install the Panel at approximately chest height where the t
 **Battery Installation**
 
 1. Place a new battery into the battery compartment.
-2. Connect the battery connector to the terminal. The foolproof design helps ensure correct connection.&#x20;
+2. Connect the battery connector to the terminal. The foolproof design helps ensure correct connection.
 
 <figure><img src=".gitbook/assets/Unknown image (248)" alt=""><figcaption></figcaption></figure>
 
@@ -351,9 +344,9 @@ The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users 
 
 8. Fold the two flaps of the paper card outward, route the power cable through the AUX-PS opening, and connect power cable through the AUX-PS opening, and connect and secure the two cable wires to the AUX-PS terminals.
 
-<figure><img src=".gitbook/assets/image (90).png" alt=""><figcaption><p>8                                                                                                            9</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (90).png" alt=""><figcaption><p>8 9</p></figcaption></figure>
 
-9. **Firmly press AUX - PS against** TouchPanel-3, then use the two holes on AUX-PS as a template to mark and drill two screw holes into the wall.&#x20;
+9. **Firmly press AUX - PS against** TouchPanel-3, then use the two holes on AUX-PS as a template to mark and drill two screw holes into the wall.
 
 <img src=".gitbook/assets/Unknown image (263)" alt="" width="375">
 
@@ -411,13 +404,13 @@ The Security page displays current system mode for quick control access.
 
 ![](<.gitbook/assets/Unknown image (274)>)
 
-<table data-header-hidden><thead><tr><th width="162"></th><th width="164" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Section</strong></td><td align="center"><strong>Icon</strong></td><td><strong>Description</strong></td></tr><tr><td><p><strong>1. Internet</strong></p><p><strong>Indicator</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (275)" alt=""></td><td>When the Ethernet is connected</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (276)" alt="" data-size="original"></td><td>When WiFi is connected <img src=".gitbook/assets/Unknown image (277)" alt="" data-size="line"> (Strong – Weak)</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (278)" alt="" data-size="original"><br></td><td>When cellular network is connected <img src=".gitbook/assets/image (92).png" alt=""> (Strong - Weak)</td></tr><tr><td></td><td align="center"><br><img src=".gitbook/assets/image (95).png" alt=""></td><td>Internet is disconnected</td></tr><tr><td></td><td align="center"><strong>Note</strong></td><td>The panel supports Ethernet, Wi-Fi, and LTE. If all are available, it will prioritize in this order: Ethernet > Wi-Fi > LTE.</td></tr><tr><td><strong>2. Ongoing call</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (274)" alt=""></td><td>During 2-way communication, the call icon will be displayed.****</td></tr><tr><td><strong>3. Power</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (280)" alt=""></td><td>When powered by AC, a plug icon will be displayed.</td></tr><tr><td></td><td align="center"><div><figure><img src=".gitbook/assets/image (94).png" alt="" width="42"><figcaption></figcaption></figure></div></td><td>When powered by the backup battery, the battery percentage will be displayed.</td></tr><tr><td><strong>4. Setting</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (282)" alt=""></td><td>Tap the gear icon to access the Settings menu. Please refer to later section <em><strong>5. Settings</strong></em>.</td></tr><tr><td><strong>5. Date, Time, and Weather</strong></td><td align="center">---</td><td>Display current date and time.</td></tr><tr><td><strong>6. Area</strong></td><td align="center">---</td><td>Tap the area to select the Area to be displayed.</td></tr><tr><td><p><strong>7. System</strong></p><p><strong>Mode</strong></p></td><td align="center"></td><td>Disarm,             Away Arm,            Home Arm<img src=".gitbook/assets/Unknown image (283)" alt=""><img src=".gitbook/assets/Unknown image (284)" alt=""><img src=".gitbook/assets/Unknown image (285)" alt=""></td></tr><tr><td><strong>8. SOS Button</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (286)" alt=""></td><td>Press and hold the SOS button for 3 seconds to activate an Emergency alarm.</td></tr><tr><td><strong>9. Panel Status</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (287)" alt=""></td><td>When Fault event exists within the panel, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>10. Door</strong></p><p><strong>Contact</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (288)" alt=""></td><td>The total number of Door Contacts in the alarm system will be displayed. When Fault event exists within the Door Contacts, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>11. Device</strong></p><p><strong>Status</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (289)" alt=""></td><td>The total number of non-Door Contact sensors in the alarm system will be displayed. When Fault event exists within the devices, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="162"></th><th width="164" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Section</strong></td><td align="center"><strong>Icon</strong></td><td><strong>Description</strong></td></tr><tr><td><p><strong>1. Internet</strong></p><p><strong>Indicator</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (275)" alt=""></td><td>When the Ethernet is connected</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (276)" alt="" data-size="original"></td><td>When WiFi is connected <img src=".gitbook/assets/Unknown image (277)" alt="" data-size="line"> (Strong – Weak)</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (278)" alt="" data-size="original"><br></td><td>When cellular network is connected <img src=".gitbook/assets/image (92).png" alt=""> (Strong - Weak)</td></tr><tr><td></td><td align="center"><br><img src=".gitbook/assets/image (95).png" alt=""></td><td>Internet is disconnected</td></tr><tr><td></td><td align="center"><strong>Note</strong></td><td>The panel supports Ethernet, Wi-Fi, and LTE. If all are available, it will prioritize in this order: Ethernet > Wi-Fi > LTE.</td></tr><tr><td><strong>2. Ongoing call</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (274)" alt=""></td><td>During 2-way communication, the call icon will be displayed.****</td></tr><tr><td><strong>3. Power</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (280)" alt=""></td><td>When powered by AC, a plug icon will be displayed.</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/image (94).png" alt="" data-size="original"></td><td>When powered by the backup battery, the battery percentage will be displayed.</td></tr><tr><td><strong>4. Setting</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (282)" alt=""></td><td>Tap the gear icon to access the Settings menu. Please refer to later section <em><strong>5. Settings</strong></em>.</td></tr><tr><td><strong>5. Date, Time, and Weather</strong></td><td align="center">---</td><td>Display current date and time.</td></tr><tr><td><strong>6. Area</strong></td><td align="center">---</td><td>Tap the area to select the Area to be displayed.</td></tr><tr><td><p><strong>7. System</strong></p><p><strong>Mode</strong></p></td><td align="center"></td><td>Disarm, Away Arm, Home Arm<img src=".gitbook/assets/Unknown image (283)" alt=""><img src=".gitbook/assets/Unknown image (284)" alt=""><img src=".gitbook/assets/Unknown image (285)" alt=""></td></tr><tr><td><strong>8. SOS Button</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (286)" alt=""></td><td>Press and hold the SOS button for 3 seconds to activate an Emergency alarm.</td></tr><tr><td><strong>9. Panel Status</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (287)" alt=""></td><td>When Fault event exists within the panel, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>10. Door</strong></p><p><strong>Contact</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (288)" alt=""></td><td>The total number of Door Contacts in the alarm system will be displayed. When Fault event exists within the Door Contacts, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>11. Device</strong></p><p><strong>Status</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (289)" alt=""></td><td>The total number of non-Door Contact sensors in the alarm system will be displayed. When Fault event exists within the devices, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr></tbody></table>
 
 #### **4.2.1. Change System Mode**
 
-* Select the area you wish to control, then tap the mode icon to change mode.&#x20;
+* Select the area you wish to control, then tap the mode icon to change mode.
 
-![ Home arm                                 Disarm                                Away Arm](<.gitbook/assets/Unknown image (290)>)
+![Home arm                                 Disarm                                Away Arm](<.gitbook/assets/Unknown image (290)>)
 
 You will be required to enter one of the Control Panel User PIN Code to confirm the action.
 
@@ -572,7 +565,7 @@ In the Group Control page, the user can change the brightness of the devices by 
 
 * **HUE Bulb**
 
-Tap ![](<.gitbook/assets/image (1079).png>)  to control Hue of bulbs in each group. To view details, control a group, add/remove a device, or rename a group, tap ![](<.gitbook/assets/image (1080).png>)
+Tap ![](<.gitbook/assets/image (1079).png>) to control Hue of bulbs in each group. To view details, control a group, add/remove a device, or rename a group, tap ![](<.gitbook/assets/image (1080).png>)
 
 <figure><img src=".gitbook/assets/image (1081).png" alt=""><figcaption></figcaption></figure>
 
@@ -586,7 +579,7 @@ In the Group Control page, the user can control Hue by adjusting the bar or tap 
 
 **Color**: Tap the color directly to set the group with your desired color.
 
-**Whites**: Tap the color directly to set the group with your desired color temperature.&#x20;
+**Whites**: Tap the color directly to set the group with your desired color temperature.
 
 **Preset**: Tap the color directly to set the group with the preset certain color.
 
@@ -616,7 +609,7 @@ In the Group Control page, the user can control the radiator by adjusting the ba
 
 * **Thermostat**
 
-Tap ![](<.gitbook/assets/image (1088).png>)  to turn on/off Thermostat of each group. To view details, control a group, add/remove
+Tap ![](<.gitbook/assets/image (1088).png>) to turn on/off Thermostat of each group. To view details, control a group, add/remove
 
 a device or rename a group, tap ![](<.gitbook/assets/image (1089).png>)
 
@@ -636,13 +629,13 @@ Select device category from the dropdown menu on the top right corner to determi
 
 ![](<.gitbook/assets/Unknown image (161)>)
 
-<table data-header-hidden><thead><tr><th width="80"></th><th width="64"></th><th width="82"></th><th width="79"></th><th width="64"></th><th width="67"></th><th width="52"></th><th width="119"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Device Status</strong></td><td>Fault</td><td>Low Battery</td><td>Bypass</td><td>RSSI </td><td>Level</td><td></td><td>Entry Delay Time</td><td>Wired Device</td><td></td></tr><tr><td><strong>Icon</strong></td><td><img src=".gitbook/assets/Unknown image (162)" alt=""></td><td><img src=".gitbook/assets/Unknown image (163)" alt=""></td><td><img src=".gitbook/assets/Unknown image (164)" alt=""></td><td><img src=".gitbook/assets/Unknown image (165)" alt=""> 1-3</td><td><img src=".gitbook/assets/Unknown image (166)" alt=""> 4-6</td><td><img src=".gitbook/assets/Unknown image (167)" alt=""> 7-9</td><td><div><figure><img src=".gitbook/assets/image (1092).png" alt=""><figcaption></figcaption></figure></div></td><td><div><figure><img src=".gitbook/assets/image (1091).png" alt=""><figcaption></figcaption></figure></div></td><td><div><figure><img src=".gitbook/assets/image (1093).png" alt=""><figcaption></figcaption></figure></div></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="80"></th><th width="64"></th><th width="82"></th><th width="79"></th><th width="64"></th><th width="67"></th><th width="52"></th><th width="119"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Device Status</strong></td><td>Fault</td><td>Low Battery</td><td>Bypass</td><td>RSSI</td><td>Level</td><td></td><td>Entry Delay Time</td><td>Wired Device</td><td></td></tr><tr><td><strong>Icon</strong></td><td><img src=".gitbook/assets/Unknown image (162)" alt=""></td><td><img src=".gitbook/assets/Unknown image (163)" alt=""></td><td><img src=".gitbook/assets/Unknown image (164)" alt=""></td><td><img src=".gitbook/assets/Unknown image (165)" alt=""> 1-3</td><td><img src=".gitbook/assets/Unknown image (166)" alt=""> 4-6</td><td><img src=".gitbook/assets/Unknown image (167)" alt=""> 7-9</td><td><img src=".gitbook/assets/image (1092).png" alt="" data-size="original"></td><td><img src=".gitbook/assets/image (1091).png" alt="" data-size="original"></td><td><img src=".gitbook/assets/image (1093).png" alt="" data-size="original"></td></tr></tbody></table>
 
 * Categories: All, Fault, DC Open, Sensors, Automation Device, Keypad, Door Sensor, Siren.
 * The device list displays device information:
   * Device Status will be displayed in each device column.
   * Current on/off conditions will be shown for switch devices.
-  * Current wattage and accumulated power consumption will be displayed for power    \
+  * Current wattage and accumulated power consumption will be displayed for power\
     switches with meters.
   * Current power output level will be displayed for dimmers.
   * Temperature and humidity will be displayed for temperature and humidity sensors.
@@ -650,7 +643,7 @@ Select device category from the dropdown menu on the top right corner to determi
   * For Camera type security devices, e.g., PIR Camera, you can tap the camera icon <img src=".gitbook/assets/Unknown image (168)" alt="" data-size="line"> at the end of device column to manual control the camera to take a picture. The requested image will be displayed in the event page.
   * For Switches or Locks, tap the ON/OFF or LOCK/UNLOCK icon <img src=".gitbook/assets/Unknown image (169)" alt="" data-size="line"> to toggle its status.
   * For Dimmers, either tap the ON/OFF icon to toggle or tap the bar to adjust the output percentage.
-  * For the devices with more detailed data or control options, tap the icon ![](<.gitbook/assets/image (1089).png>)  to enter the device’s own page.&#x20;
+  * For the devices with more detailed data or control options, tap the icon ![](<.gitbook/assets/image (1089).png>) to enter the device’s own page.
 
 ![](<.gitbook/assets/Unknown image (171)>) ![](<.gitbook/assets/Unknown image (172)>)
 
@@ -758,8 +751,8 @@ Ensure your Control Panel, VDP, and TouchPanel-3 are in the same Local Area Netw
 
 <figure><img src=".gitbook/assets/image (1094).png" alt=""><figcaption></figcaption></figure>
 
-* Privacy mode: The icon <img src=".gitbook/assets/image (1095).png" alt="" data-size="line">  indicates that the IP Cam is now in privacy mode.
-* No connection: The icon <img src=".gitbook/assets/image (1096).png" alt="" data-size="line">  indicates that the connection is lost between TouchPanel3 and the device.
+* Privacy mode: The icon <img src=".gitbook/assets/image (1095).png" alt="" data-size="line"> indicates that the IP Cam is now in privacy mode.
+* No connection: The icon <img src=".gitbook/assets/image (1096).png" alt="" data-size="line"> indicates that the connection is lost between TouchPanel3 and the device.
 
 ![](<.gitbook/assets/Unknown image (179)>)
 
@@ -800,15 +793,15 @@ When there is an incoming call from VDP, you can answer it by controlling the bu
 
 #### **4.4.4. Cam Settings**
 
-To change settings of the IP Cam, tap the button  ![](<.gitbook/assets/image (1098).png>) on each device.
+To change settings of the IP Cam, tap the button ![](<.gitbook/assets/image (1098).png>) on each device.
 
 ![](<.gitbook/assets/Unknown image (193)>)
 
 * **Device Name**: Name or rename your device for easy identification. Enter a desired name and tap Submit.
 * **Speaker Volume**: Tap the slider to adjust the volume to a desired level.
 * **Door lock binding**: Assign the VDP to the relevant door lock.
-* **Wi-Fi setup**: Change the Wi-Fi setting of the device.&#x20;
-* &#x20;**Delete**: Delete the item.
+* **Wi-Fi setup**: Change the Wi-Fi setting of the device.
+* **Delete**: Delete the item.
 
 ![](<.gitbook/assets/Unknown image (194)>)
 
@@ -816,7 +809,7 @@ To change settings of the IP Cam, tap the button  ![](<.gitbook/assets/image (10
 
 The Event page records all alarm/status events, pictures and video transmitted by the Control
 
-Panel. You can view the image or video by tapping the icon <img src=".gitbook/assets/Unknown image (195)" alt="" data-size="line">.  If AI recognizes a person /
+Panel. You can view the image or video by tapping the icon <img src=".gitbook/assets/Unknown image (195)" alt="" data-size="line">. If AI recognizes a person /
 
 persons in the image, an AI icon ![](<.gitbook/assets/image (1099).png>) will be displayed alongside it.
 
@@ -872,7 +865,7 @@ Tap the respective icon for different function setting (from left to right).
 
 #### **5.2.1.1. Device Search**
 
-* &#x20;<img src=".gitbook/assets/Unknown image (205)" alt="" data-size="line"> Users can directly search for the device they are seeking without scrolling through the entire list of devices.
+* <img src=".gitbook/assets/Unknown image (205)" alt="" data-size="line"> Users can directly search for the device they are seeking without scrolling through the entire list of devices.
 
 ![](<.gitbook/assets/Unknown image (206)>)
 
@@ -896,13 +889,13 @@ Tap the respective icon for different function setting (from left to right).
 
 <img src=".gitbook/assets/Unknown image (211)" alt="" width="375">
 
-#### **5.2.1.3. Device Exclusion: (For removing Z-Wave device only)**&#x20;
+#### **5.2.1.3. Device Exclusion: (For removing Z-Wave device only)**
 
 **Step 1** Tap **–** icon to enter removing Z-Wave device mode.
 
 <img src=".gitbook/assets/Unknown image (212)" alt="" width="375">
 
-**Step 2**  Refer to the Z-Wave device manual to transmit signal. When the panel receives exclusion signal, the webpage will display device info.
+**Step 2** Refer to the Z-Wave device manual to transmit signal. When the panel receives exclusion signal, the webpage will display device info.
 
 **Step 3** Tap OK to remove the Z-Wave device.
 
@@ -910,7 +903,7 @@ Tap the respective icon for different function setting (from left to right).
 
 #### **5.2.1.4. Walk Test**
 
-**Step 1** Tap icon  ![](<.gitbook/assets/image (1101).png>) to enter Walk Test mode.
+**Step 1** Tap icon ![](<.gitbook/assets/image (1101).png>) to enter Walk Test mode.
 
 ![](<.gitbook/assets/Unknown image (315)>)
 
@@ -959,7 +952,7 @@ The following is an example of VST-892’s settings and remote configuration.
     * When the Control Panel is in the Full Arm mode, if a sensor with **Start Entry Delay 1/2** attribute is triggered, the Entry Delay 1/2 timer starts counting down. If a valid PIN code is not entered during the entry delay timer to disarm the system, the Control Panel will report a burglar perimeter alarm (**CID code:131**) immediately after entry delay timer 1/2 expires.
     * When the Control Panel is in the Home Arm mode, if a sensor with **Start Entry Delay 1/2** attribute is triggered, the Entry Delay 1/2 timer starts counting down. If a valid PIN code is not entered during the entry delay period to disarm the system, the Control Panel will report a burglar interior alarm (**CID code: 132**) immediately after entry delay timer 1/2 expires.
 * **Chime**
-* When a sensor set to Chime is triggered, the Control Panel will sound a Door Chime (Ding-Dong Sound).&#x20;
+* When a sensor set to Chime is triggered, the Control Panel will sound a Door Chime (Ding-Dong Sound).
 * **Burglar Follow**
 * When the system is in Disarm / Full Arm / Home Arm mode, if a sensor set to **Burglar Follow** is triggered, the Control Panel will report a burglar alarm immediately.
 * When a Start Entry sensor is triggered and the system is under Entry Delay Timer countdown, if a sensor set to **Burglar Follow** is triggered, the Control Panel will wait until the Entry Delay Timer expires before activating a burglar alarm. If the system is disarmed before the timer expires, the Control Panel will not activate the alarm.  **Burglar Instant**
@@ -984,7 +977,7 @@ The Home Automation Attributes allows a device to control Home Automation functi
 * _**Permanent Bypass**_
   * When checked, the Panel will completely ignore all signals received from this device. A bypassed device will be unable to trigger any response, including alarm or fault from the Control Panel. All other attribute settings will be also be ignored.
 * _**Exit (No Response)**_
-* &#x20;If checked, the Panel will ignore the trigger signal from this sensor during Exit Time countdown. If deselected, the Panel will activated burglar alarm and report immediately when the sensor is triggered during Exit Delay Timer.
+* If checked, the Panel will ignore the trigger signal from this sensor during Exit Time countdown. If deselected, the Panel will activated burglar alarm and report immediately when the sensor is triggered during Exit Delay Timer.
 * _**24HR**_
   * A sensor set to 24HR attribute will ignore Disarm, Full Arm, Home Arm and Exit response setting. The Panel will activate the selected alarm when this sensor is triggered regardless of system mode under any time.
   * \*\*Panel AI Recognition:\*\*This function is avaible only when the Panel AI Recognition function is enabled in Panel Settings.
@@ -992,7 +985,7 @@ The Home Automation Attributes allows a device to control Home Automation functi
     * Disable this option to prevent the Panel from using AI algorithms to process alarm images received from this specific PIR Camera.
 
 {% hint style="warning" %}
-Note:&#x20;
+Note:
 
 Some devices have their own unique functions and will have its own attribute setting which is not listed in this section. Please refer to the device manual for its setting detail.
 {% endhint %}
@@ -1181,9 +1174,9 @@ The User PIN Codes are used to control system mode. Each consists of 4-6 digits 
 
 User PIN code #1 for each Area is always activated factory default. <mark style="color:red;">For security reasons, please remember to change default PIN codes.</mark>
 
-User PIN #1 in Area 1                        User PIN #1 in Area 2
+User PIN #1 in Area 1 User PIN #1 in Area 2
 
-Password: **1234**                           Password: **4321**
+Password: **1234** Password: **4321**
 
 Tag Number will be displayed if the Panel has learned in any device (e.g. keypad, tag reader) that supports remote Tag configuration.
 
@@ -1201,7 +1194,7 @@ Tag Number will be displayed if the Panel has learned in any device (e.g. keypad
 
 ![](<.gitbook/assets/Unknown image (337)>)Latch -> **Latch Report ON** = Whenever the User PIN Code is used to change system mode, the panel will report the event.
 
-![](<.gitbook/assets/Unknown image (338)>)Latch ->  **Latch Report OFF**= When the User PIN Code is used to change system mode, the panel will not report the event.
+![](<.gitbook/assets/Unknown image (338)>)Latch -> **Latch Report OFF**= When the User PIN Code is used to change system mode, the panel will not report the event.
 
 * **Tag Numer**: When the keypad / tag reader reads a new tag, pressing the **Load button** will load the tag number.
 
@@ -1295,7 +1288,7 @@ This page allows installers to configure report-related settings for reporting p
 
 **Step 3** Select **Groupt number** to determine reporting sequence, and report condition. gram the report destination.
 
-Tap “Submit” at bottom of page to confirm setting.&#x20;
+Tap “Submit” at bottom of page to confirm setting.
 
 **Report Format**
 
@@ -1413,7 +1406,7 @@ Tap the info icon to display the upload method.
 * **FTP:**[ ftp://user.password@server/path](ftp://user.password@server/path)
 * **HTTP:** http://ip:port/path
 * **Email**: mailto:user@server (transmitting an alarm image over Ethernet)
-* **Manitou**: manitou://user@server:port&#x20;
+* **Manitou**: manitou://user@server:port
 
 #### **5.2.6.3. SMS**
 
@@ -1480,7 +1473,7 @@ The panel will enter a waiting period for call back after initial alarm report h
 VOIP SIP Settings
 
 * **Callback Timer:** The panel will enter a waiting period for call back after initial alarm report has ended.
-* Username: Enter your username in the VOIP server   Password: Enter the password.
+* Username: Enter your username in the VOIP server  Password: Enter the password.
 * **Server Info:** Enter Domain, Port, Proxy Server, STUN Server info. Make sure to check **Enable STUN.**
 * SIP: Enter the SIP number of call recipient for the Panel to dial to.
 
@@ -1501,7 +1494,7 @@ Program the mail server related settings. The email account you set here would b
 * **From:** Set the email address according to your mail server and account name. If your mail server supports other email address, you can enter the email address here. (max. 30 digits/alphabets).
 * **Using TLS/SSL encrypted channels (Secure SMTP):**&#x49;f your mail server uses TLS or SSL encryption method for secure transfer, please tap the box to enable the setting
 
-&#x20;**Step 2** Tap **Submit** to confirm the settings.
+**Step 2** Tap **Submit** to confirm the settings.
 
 #### **5.2.7. Wired Device**
 
@@ -1530,7 +1523,7 @@ There are two on-board wired zones on TouchPanel-3.
 
 <figure><img src=".gitbook/assets/image (1111).png" alt=""><figcaption></figcaption></figure>
 
-Tap the info icon   ![](<.gitbook/assets/image (1112).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
+Tap the info icon ![](<.gitbook/assets/image (1112).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
 
 ![](<.gitbook/assets/Unknown image (105)>)
 
@@ -1639,7 +1632,7 @@ The App version, Panel version, ROM version, TSP Mac, and Panel Mac information 
 
 <img src=".gitbook/assets/Unknown image (130)" alt="" width="375">
 
-When you tap "About," the system will automatically check for updates. If a new version is available, tap  **Install** to download and apply the update. Ensure TouchPanel-3 is connected to the internet before Installing.
+When you tap "About," the system will automatically check for updates. If a new version is available, tap **Install** to download and apply the update. Ensure TouchPanel-3 is connected to the internet before Installing.
 
 <img src=".gitbook/assets/Unknown image (131)" alt="" width="375">
 
