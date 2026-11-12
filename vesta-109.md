@@ -251,3 +251,9 @@ Press Apply to upgrade the VDP firmware.
 ### Add the VDP to the panel&#x20;
 
 {% embed url="https://drive.google.com/file/d/1at0CiZQizhk2jPM5vo2AKWlBFr8tOeqk/view?usp=sharing" %}
+
+## Troubleshooting
+
+* There is no two-way audio in the touch Screen keypad Vesta-025  or Vesta-354 or Qallmax panel.
+
+{% embed url="https://drive.google.com/file/d/1e9rTzpmGFG2qY_o7dZJVPGQbZjpdBiiK/view?usp=sharing" %}
