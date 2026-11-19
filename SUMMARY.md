@@ -359,6 +359,7 @@
 
 * [MODELS](tips-and-help/models.md)
 * [CID TABLE FOR RULES AND EVENT FILTER](tips-and-help/cid-table-for-rules-and-event-filter.md)
+* [CID SIA Event Code Table](tips-and-help/cid-sia-event-code-table.md)
 * [VMAX BUS TIPS](tips-and-help/vmax-bus-tips.md)
 * [CAMERAS](tips-and-help/cameras.md)
 * [Devices OTA updates - SmartHomeSec](tips-and-help/devices-ota-updates-smarthomesec.md)
