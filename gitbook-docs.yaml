@@ -1,0 +1,117 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: VESTA KNOWLEDGE BASE
+  structure:
+    - type: space
+      key: space-2
+      title: ENGLISH
+      path: manuals
+      default: true
+      content:
+        directory: ./manuals
+        language: en
+    - type: space
+      key: space-3
+      title: ESPAÑOL (ES)
+      path: spain-es
+      content:
+        directory: ./spain-es
+        language: es
+    - type: space
+      key: space-13
+      title: PORTUGUESE (PT)
+      path: portuguese-pt
+      content:
+        directory: ./portuguese-pt
+        language: pt
+    - type: space
+      key: space-14
+      title: ITALIAN (IT)
+      path: italian-it
+      content:
+        directory: ./italian-it
+        language: it
+    - type: space
+      key: space-1
+      title: FRANCE
+      path: france
+      content:
+        directory: ./france
+        language: fr
+    - type: space
+      key: space-9
+      title: DUTCH (NL)
+      path: dutch-nl
+      content:
+        directory: ./dutch-nl
+        language: nl
+    - type: space
+      key: space-5
+      title: GERMAN (DE)
+      path: german-de
+      content:
+        directory: ./german-de
+        language: de
+    - type: space
+      key: space-4
+      title: SVENSKA
+      path: svenska
+      content:
+        directory: ./es
+        language: sv
+    - type: space
+      key: space-8
+      title: NORWEGIAN (NO)
+      path: norwegian-no
+      content:
+        directory: ./norwegian-no
+        language: "no"
+    - type: space
+      key: space-12
+      title: POLISH (PL)
+      path: polish-pl
+      content:
+        directory: ./polish-pl
+        language: pl
+    - type: space
+      key: space-10
+      title: ROMANIAN (RO)
+      path: romanian-ro
+      content:
+        directory: ./romanian-ro
+        language: ro
+    - type: space
+      key: space-6
+      title: TURKISH (EL)
+      path: turkish-el
+      content:
+        directory: ./turkish-el
+        language: tr
+    - type: space
+      key: space-7
+      title: FINNISH (FI)
+      path: finnish-fi
+      content:
+        directory: ./finnish-fi
+        language: fi
+    - type: space
+      key: space-11
+      title: ARABIC (AR)
+      path: arabic-ar
+      content:
+        directory: ./arabic-ar
+        language: ar
+    - type: space
+      key: space-15
+      title: DANISH (DK)
+      path: danish-dk
+      content:
+        directory: ./danish-dk
+        language: da
+    - type: space
+      key: space-16
+      title: GREEK (GR)
+      path: greek-gr
+      content:
+        directory: ./greek-gr
+        language: el
