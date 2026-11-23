@@ -1,0 +1,31 @@
+---
+icon: video
+---
+
+# IPC-B12-E
+
+## 2MP Dual Light Eco outdoor IP camera
+
+<figure><img src="../.gitbook/assets/image (1135).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-B12-E/">IPC-B12-E</a></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+
+### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-vesta-intrusion-smarthomesec.md#quick-guide)
+
+### SOFTWARE:
+
+* [VESTA CONFIG TOOL](../softwares-and-tools/vesta-tool.md#download-vesta-config-tool)
+* [VESTA VSS](../softwares-and-tools/vesta-vss.md)
+
+### Accessories VESTA ADVANCED CAMERAS
+
+{% tabs %}
+{% tab title="VFA150" %}
+<figure><img src="../.gitbook/assets/image (84).png" alt="" width="113"><figcaption><p><a href="../cameras-accessories/vfa150.md">VFA150</a></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="VS-1280ZJ-XS" %}
+<figure><img src="../.gitbook/assets/image (85).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vs-1280zj-xs.md">VS-1280ZJ-XS</a></p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+

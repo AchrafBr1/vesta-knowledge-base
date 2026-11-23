@@ -1,0 +1,34 @@
+---
+icon: video
+---
+
+# IPC-B34-AS-PV
+
+## 4MP Smart Dual Light Active Deterrence Lite AI outdoor IP camera
+
+<figure><img src="../.gitbook/assets/image (1165).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-B34-AS-PV/">IPC-B34-AS-PV</a></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1166).png" alt=""><figcaption></figcaption></figure>
+
+### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-vesta-intrusion-smarthomesec.md#quick-guide)
+
+### SOFTWARE:
+
+* [VESTA CONFIG TOOL](../softwares-and-tools/vesta-tool.md#download-vesta-config-tool)
+* [VESTA VSS](../softwares-and-tools/vesta-vss.md)
+
+### Accessories VESTA ADVANCED CAMERAS
+
+{% tabs %}
+{% tab title="PF180" %}
+<figure><img src="../.gitbook/assets/image (1169).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/pf180-v2.md">PF180</a></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="VFA152A-E" %}
+<figure><img src="../.gitbook/assets/image (1140).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa152a-e.md">VFA-152A-E</a></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="VS-110TG4" %}
+<figure><img src="../.gitbook/assets/image (1170).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vs-110tg4.md">VS-110TG4</a></p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
