@@ -4,7 +4,7 @@ icon: star-of-life
 
 # VESTA-071
 
-<figure><img src=".gitbook/assets/image (1313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1314).png" alt=""><figcaption></figcaption></figure>
 
 ## MX Control Panel – Enabling Cloud Services
 
@@ -22,7 +22,7 @@ The firmware can be updated through the panel's local web interface:
 2. Navigate to **Update**.
 3. Upload the firmware binary file (**MX\_demes\_adc\_4gQT\_1.1.95.bin or higher**).
 
-{% file src=".gitbook/assets/MX_demes_adc_4gQT_1.1.95 (2).bin" %}
+{% file src="manuals/.gitbook/assets/MX_demes_adc_4gQT_1.1.95 (2).bin" %}
 
 ### Step 2 – Perform a Factory Reset
 
@@ -30,7 +30,7 @@ After the firmware update, a factory reset must be performed to enable cloud ser
 
 Once the factory reset is completed, the panel will automatically negotiate with the cloud/XMPP server and connect online. From that point onwards, the panel can be managed using the **MediAlert App** or the [**MediAlert Portal**.](https://portal.vestasecurity.eu/medalert/)
 
-<figure><img src=".gitbook/assets/image (1314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1315).png" alt=""><figcaption></figcaption></figure>
 
 #### Factory Reset Procedure
 
@@ -48,7 +48,7 @@ Once the factory reset is completed, the panel will automatically negotiate with
 
 After rebooting, the panel will automatically connect to the cloud platform and appear online. The device can then be enrolled and managed through the MediAlert mobile application or web portal.
 
-<figure><img src=".gitbook/assets/image (1315).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1316).png" alt=""><figcaption></figcaption></figure>
 
 1 Red Help Button
 
@@ -60,5 +60,5 @@ After rebooting, the panel will automatically connect to the cloud platform and 
 
 
 
-{% file src=".gitbook/assets/MX Installation and Operation Guide_ 20180730 (1.0.1).docx" %}
+{% file src="manuals/.gitbook/assets/MX Installation and Operation Guide_ 20180730 (1.0.1).docx" %}
 

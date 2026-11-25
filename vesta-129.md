@@ -4,7 +4,7 @@
 
 ## Waterproof cover for DC-23 magnets - White
 
-<figure><img src=".gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 * Optional cover for VESTA-019 and VESTA-126 magnets
 * Waterproof

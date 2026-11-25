@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # VESTA ADVANCED IP CAMERA SERIES Stand Alone (VESTA Advanced)
@@ -36,7 +38,7 @@ To set up your ADVANCED VIDEO cameras or NVRs in **stand-alone CCTV mode**, foll
 
 ### **Step 1: Download the VESTA ADVANCED App**
 
-<figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 
 The system is managed through the **VESTA ADVANCED** mobile app, available for both Android and iOS devices.
 
@@ -54,7 +56,7 @@ You can usually find the serial number printed on the device label or packaging.
 
 That’s it! Once registered, you’ll be able to view and manage your CCTV system directly from the app.
 
-<figure><img src="../.gitbook/assets/image (1000).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -89,7 +91,7 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
    * Select **Destination** and ensure **Scheduled** is enabled.
    * In **Scheduled** make sure to enable 24h all days or needed days
 
-<figure><img src="../.gitbook/assets/step-step-SD.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/step-step-SD.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -104,11 +106,11 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 **Step 2:** Enter the username and passwor&#x64;**; the default user name of the device is “admin”**.
 
-![](<../.gitbook/assets/image (863).png>)
+![](<../manuals/.gitbook/assets/image (864).png>)
 
 **Step 3:** When logging in to the device for the first time, the system will pop up a “Change Password” prompt. Please change the administrator password on time and safe-keep it.
 
-![](<../.gitbook/assets/image (864).png>)
+![](<../manuals/.gitbook/assets/image (865).png>)
 
 
 
@@ -121,11 +123,11 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 ### VESTA advanced series complete manual guide&#x20;
 
-{% file src="../.gitbook/assets/VESTA_Advanced Series  (1).pdf" %}
+{% file src="../manuals/.gitbook/assets/VESTA_Advanced Series  (1).pdf" %}
 
 ### Quick Guide
 
-{% file src="../.gitbook/assets/Quickly User Manual v25.pdf" %}
+{% file src="../manuals/.gitbook/assets/Quickly User Manual v25.pdf" %}
 
 {% hint style="warning" %}
 _**More information will be added soon**_

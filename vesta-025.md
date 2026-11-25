@@ -4,7 +4,7 @@ TSP-3&#x20;
 
 ## Touchscreen Keypad&#x20;
 
-<figure><img src=".gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
 #### [VESTA-025 Specification](https://vestasecurity.eu/en/product/vesta-025/)
 
@@ -18,7 +18,7 @@ When connected to the system Control Panel via Wi-Fi network, the Touchscreen Ke
 
 ## Parts Identification <a href="#toc61269505" id="toc61269505"></a>
 
-![](<.gitbook/assets/1 (56).png>)
+![](<manuals/.gitbook/assets/1 (56).png>)
 
 1. **Camera -** Slide up or down the switch to reveal or hide the camera.
 2. **Power Button**
@@ -31,7 +31,7 @@ When connected to the system Control Panel via Wi-Fi network, the Touchscreen Ke
 
 &#x20; &#x20;
 
-<figure><img src=".gitbook/assets/2 (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2 (54).png" alt=""><figcaption></figcaption></figure>
 
 9. **Wall Mounting Bracket**
 
@@ -39,7 +39,7 @@ When connected to the system Control Panel via Wi-Fi network, the Touchscreen Ke
 
 The Touchscreen Keypad is powered by a rechargeable battery. To charge the battery, press the latch to open the compartment and plug in a 5V/1.5A adapter to the Micro USB port of the device and connect the other end to mains power.
 
-<figure><img src=".gitbook/assets/3 (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/3 (48).png" alt=""><figcaption></figcaption></figure>
 
 ## Getting Started <a href="#toc61269507" id="toc61269507"></a>
 
@@ -57,19 +57,19 @@ To set up your Touchscreen Keypad for accessing the hub:
 
 **Step 2.** Select language.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-145851.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-145851.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Select the WiFi SSID of the router that the hub is connected to. Enter the WiFi network password if required, and click “OK”.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-145906.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-145906.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150201.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150201.png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Put your Hub into learning mode (refer to Hub’s user manual for details). Please note that the Learning process is only required for first-time setup.
 
 **Step 5.** Your Touchscreen Keypad will automatically search for available hubs. Select the hub you’d like to access to.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150208.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150208.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -81,7 +81,7 @@ Ensure your Control Panel, VDP, and Touchscreen Keypad are in the same Local Are
 
 **Step 6.** You will enter the dashboard that displays the current date and time. Now you can access and control your Hub and smart devices directly on your Touchscreen Keypad.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150223.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150223.png" alt=""><figcaption></figcaption></figure>
 
 ## Hardware Installation <a href="#toc61269510" id="toc61269510"></a>
 
@@ -95,11 +95,11 @@ A desktop deployment bracket is provided for users to place their Touchscreen Ke
 
 **Step 1.** Attach the desktop deployment bracket to the rear side of the Touchscreen Keypad in the direction of the arrows as shown below until you hear a “click” .sound. If you wish to remove the bracket, simply press the notches at both sides  and gently lift upward.
 
-![](<.gitbook/assets/9 (30).png>) ![](<.gitbook/assets/10 (66).png>)
+![](<manuals/.gitbook/assets/9 (30).png>) ![](<manuals/.gitbook/assets/10 (66).png>)
 
 **Step 2.** Place the Touchscreen Keypad at the desired location.
 
-![](<.gitbook/assets/11 (36).png>)
+![](<manuals/.gitbook/assets/11 (36).png>)
 
 **Wall Mounting**
 
@@ -111,27 +111,27 @@ A wall mounting bracket is also included for users to place their Touchscreen Ke
 
 **Step 3.** Screw the bracket into the wall with the 3 screws provided.
 
-![](<.gitbook/assets/12 (33).png>)
+![](<manuals/.gitbook/assets/12 (33).png>)
 
 **Step 4.** Attach the Touchscreen Keypad onto the bracket.
 
-![](<.gitbook/assets/13 (26).png>)
+![](<manuals/.gitbook/assets/13 (26).png>)
 
 **Step 5.** Hold the Touchscreen Keypad and gently push downwards until you hear a “click” sound.
 
-![](<.gitbook/assets/14 (21).png>)
+![](<manuals/.gitbook/assets/14 (21).png>)
 
 ### Low Battery Notification <a href="#toc61269511" id="toc61269511"></a>
 
 When the battery is running low, a low battery notification will be displayed to inform you to recharge the battery. Please refer to the Power Supply to recharge the Touchscreen Keypad.
 
-<figure><img src=".gitbook/assets/1 (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (150).png" alt=""><figcaption></figcaption></figure>
 
 ## Operation <a href="#toc61269512" id="toc61269512"></a>
 
 ### Home <a href="#toc61269513" id="toc61269513"></a>
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150223.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150223.png" alt=""><figcaption></figcaption></figure>
 
 * **Date & Time**: The Home page displays the current Date & Time.
 * **Home Widget**: The Home Widget list is for you to control or check currents status of the HVAC sensors or devices which have been learned into the system.
@@ -140,23 +140,23 @@ To set the list:
 
 **Step 1.** Tap the Home Widget icon. Check the devices that you are going to display on the list. Up to six devices can be displayed here.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-151207.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-151207.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.** When finishing selecting the devices, tap OK to confirm.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-151215.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-151215.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** The devices that you selected are displayed on the widget list.
 
 **Step 4.** Tap the widget that you want to check. When there is a fault or supervision failure, an orange exclamation mark icon will be displayed on the widget. The color of the widget will also fade.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-151222.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-151222.png" alt=""><figcaption></figcaption></figure>
 
 ### Security <a href="#toc61269514" id="toc61269514"></a>
 
 The current system status is displayed on top of the screen.
 
-<figure><img src=".gitbook/assets/2 (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2 (155).png" alt=""><figcaption></figcaption></figure>
 
 * **System Mode:** The system mode is indicated by the 3 icons at the top. The current system mode will light up. When a user disarms the system, the Touchscreen Keypad will take a photo, and the image can be viewed in the Event page.
 
@@ -164,7 +164,7 @@ The current system status is displayed on top of the screen.
 
 * Tap the desired mode icon and enter the PIN code. You will be required to enter one of the Control Panel User PIN Code to confirm the action.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150246.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150246.png" alt=""><figcaption></figcaption></figure>
 
 If an incorrect PIN Code is entered, the Touchscreen Keypad will display an error message, and arming will be aborted.
 
@@ -176,29 +176,29 @@ By checking all faults and tapping “Bypass”, the faults are bypassed, and th
 
 When there is an alarm, the Alarm dashboard will be displayed:
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-151605.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-151605.png" alt=""><figcaption></figcaption></figure>
 
 * **Area**: It will be indicated that the alarm is occurred in area 1 and/or area 2. When there are alarms in both areas, you can tap the icon to view the alarm list for each area respectively.
 * **Alarm list**: The devices that have been triggered will be displayed here.
 * **Disarm**: Tap the icon and then enter the PIN code to disarm the system.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-151501.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-151501.png" alt=""><figcaption></figcaption></figure>
 
 After disarming the system, you can view these events again through the list. Tap the Close icon to close the alarm dashboard and go back to the Security page.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-151618.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-151618.png" alt=""><figcaption></figcaption></figure>
 
 ### Automation <a href="#toc61269515" id="toc61269515"></a>
 
 The Automation page includes Scene, Room, Group, Automation Device, and Rule.&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150330.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150330.png" alt=""><figcaption></figcaption></figure>
 
 #### **Scene**
 
 The Scene function allows users to view and activate the preset scenes.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150337.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150337.png" alt=""><figcaption></figcaption></figure>
 
 Users can add, edit, delete, and view details in Scene.
 
@@ -206,7 +206,7 @@ Users can add, edit, delete, and view details in Scene.
 
 The Room function allows users to add, name, delete, view, edit and activate the preset rooms.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150330.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150330.png" alt=""><figcaption></figcaption></figure>
 
 * Add and name a room:
 * Delete a room:
@@ -223,7 +223,7 @@ Users can add, remove, view, and edit devices for each room.
 
 The Group function allows the user to control the same type of devices. The user can control over 6 types of devices, including Switch, Dimmer, Hue, Shutter, Radiator, and Thermostat. Up to 10 subgroups can be created under each type.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150902.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150902.png" alt=""><figcaption></figcaption></figure>
 
 * **Switch**
 
@@ -281,25 +281,25 @@ In the Group Control page, the user can check the list of devices and toggle 2 b
 
 The devices are displayed under different tabs according to the following categories: **All, Sensors, Automation Device, Siren, Keypads, ...** The device list under the category tab displays all available devices according to each different category. Tap the device category tab to view the devices.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150654.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150654.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150716.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150716.png" alt=""><figcaption></figcaption></figure>
 
 #### **Rule**
 
 The Rule function allows users to view and activate the preset rules under certain conditions. To enable or disable the rules, tap .
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150506.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150506.png" alt=""><figcaption></figcaption></figure>
 
 Users can add, edit, delete, and view details in Rule.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150534.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150534.png" alt=""><figcaption></figcaption></figure>
 
 ### Cam <a href="#toc61269516" id="toc61269516"></a>
 
 The page provides access to VDP and IP Camera live streaming video.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150914.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150914.png" alt=""><figcaption></figcaption></figure>
 
 #### **Add New VDP**
 
@@ -307,7 +307,7 @@ The page provides access to VDP and IP Camera live streaming video.
 
 **Step 2.** Select the icon of VDP and tap “Next.”
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-151022.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-151022.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Follow the instructions for adding a new VDP on the next page. Tap “Next” to continue. Tap “Reset” if your VDP has been previously set up to another Wi-Fi network.
 
@@ -321,7 +321,7 @@ To reset the VDP, please follow the instructions of the VDP  (VESTA-109)
 
 **Step 1.** You can tap the icon to add a new IP cam.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-151022.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-151022.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -329,13 +329,13 @@ To reset the VDP, please follow the instructions of the VDP  (VESTA-109)
 
 The Touchscreen Keypad provides a full screen 3-minute real-time live streaming video. Tap the device you want to check and have a full view on the screen.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150923.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150923.png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;**Cam Settings**
 
 To change the settings of the IP Cam, click the button on each device.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-150936.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-150936.png" alt=""><figcaption></figcaption></figure>
 
 * **Device Name**: **Name or rename your device for easy identification. Enter a desired name and tap Submit.**
 * **Alarm Media Option**: Tap the slider to select photo or video options
@@ -346,13 +346,13 @@ To change the settings of the IP Cam, click the button on each device.
 
 The Event page records all alarm/status event, pictures and video transmitted by the Control Panel. You can view the image or video by tapping the icons.
 
-<figure><img src=".gitbook/assets/Screenshot_20250403-151039.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Screenshot_20250403-151039.png" alt=""><figcaption></figcaption></figure>
 
 ### Settings <a href="#toc61269518" id="toc61269518"></a>
 
 Tap on the gear icon on the top-right corner of the screen to access the Settings menu.
 
-<figure><img src=".gitbook/assets/3 (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/3 (139).png" alt=""><figcaption></figcaption></figure>
 
 * Brightness: Change the brightness of the screen by tapping the slider.
 * Volume: Change the volume of the Touchscreen Keypad by tapping the slider.

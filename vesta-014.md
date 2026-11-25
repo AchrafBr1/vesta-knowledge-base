@@ -4,13 +4,13 @@ RC-16-F1
 
 ## Remote Controller -Keyfob
 
-<figure><img src=".gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
 The Remote Controller is used to arm the system in home or away mode, disarm the system and send a panic signal.
 
 ## _**Identifying the parts**_
 
-![RC-16 2](<.gitbook/assets/0 (22).jpeg>)
+![RC-16 2](<manuals/.gitbook/assets/0 (22).jpeg>)
 
 **1.** **BUTTON -** Press this button to arm the system in away mode.
 

@@ -5,6 +5,7 @@ layout:
   cover:
     visible: false
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -21,6 +22,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # VESTA-012
@@ -29,11 +32,11 @@ KPT-39N-F1
 
 ## REMOTE KEYPAD WIRELESS
 
-<figure><img src=".gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 ## QUICK GUIDE
 
-<figure><img src=".gitbook/assets/VESTA-012N[1].jpg" alt="" width="225"><figcaption><p>VESTA-012 - KPT-39N-F1</p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/VESTA-012N[1].jpg" alt="" width="225"><figcaption><p>VESTA-012 - KPT-39N-F1</p></figcaption></figure>
 
 
 
@@ -63,7 +66,7 @@ EN50131 Grade 2, Class II
 
 ## _**Parts Identification**_
 
-<figure><img src=".gitbook/assets/1 (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (23).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -123,7 +126,7 @@ Step 2. Adding remote keypad into the Control Panel:
 
 1. Put remote keypad in Test mode by entering KP PIN code (default: **0000**), then press **＊** key.
 
-The three![](<.gitbook/assets/1 (51).png>)![](<.gitbook/assets/2 (47).png>)![](<.gitbook/assets/3 (42).png>) LEDs will turn on along with a long beep.
+The three![](<manuals/.gitbook/assets/1 (51).png>)![](<manuals/.gitbook/assets/2 (47).png>)![](<manuals/.gitbook/assets/3 (42).png>) LEDs will turn on along with a long beep.
 
 1. Press ＊ key then **7** key to transmit learning signal. Remote keypad will sound a long beep.
 
@@ -191,7 +194,7 @@ Step 4. Within 5 seconds, put a NFC label close to the Keypad detection area to 
 
 Step 5. To learn in another label, please repeat step 3 to step 4. The keypad will exit NFC label learning mode automatically after idling for 5 seconds.
 
-Step 6. Press ![](<.gitbook/assets/4 (32).png>) key to exit NFC label learning mode.
+Step 6. Press ![](<manuals/.gitbook/assets/4 (32).png>) key to exit NFC label learning mode.
 
 * Error Condition:
 * If the Control Panel User Code entered exceeds maximum PIN code digits, the Orange LED will flash along with 4 short beeps to indicate error.
@@ -218,11 +221,11 @@ labels by applying them one by one.
 
 Step 4. The Keypad will exit NFC label removal mode automatically after idling for 5 seconds.
 
-Step 5. Press ![](<.gitbook/assets/6 (23).png>) key to exit NFC label learning mode.
+Step 5. Press ![](<manuals/.gitbook/assets/6 (23).png>) key to exit NFC label learning mode.
 
 ### _**C. NFC Installation Procedure**_
 
-![NFC iPhone3](<.gitbook/assets/5 (18).jpeg>)
+![NFC iPhone3](<manuals/.gitbook/assets/5 (18).jpeg>)
 
 The small NFC labels can be placed on the back of smartphones, cards or keychains for easy access.
 
@@ -259,7 +262,7 @@ Disarming the system always requires entering the Control Panel User PIN Code.
 
 Under Test mode, press ＊ key and then **9** key to enable Arm/ Home with PIN Code function.
 
-**Enter Arm Mode:**  Enter any one of Control Panel user code and press (arming away button) key, or press (arming away button) key and apply a NFC label. If the panel has no fault and arming is successful, the ![](<.gitbook/assets/9 (28).png>) LED will turn ON along with a long beep.
+**Enter Arm Mode:**  Enter any one of Control Panel user code and press (arming away button) key, or press (arming away button) key and apply a NFC label. If the panel has no fault and arming is successful, the ![](<manuals/.gitbook/assets/9 (28).png>) LED will turn ON along with a long beep.
 
 **Enter Home Mode:** Enter any one of the Control Panel user code and (arm stay button) key, or press (arm stay button) key and apply a NFC&#x20;label. If panel has no fault and arming is successful, the LED will turn ON along with 3&#x20;beeps.
 
@@ -273,7 +276,7 @@ In the Test mode, Pressing ＊ key and then **8** key to enable Arm/Home without
 
 **Enter Home Mode**: Press (arm stay button) key. If the panel has no fault and arming is successful, the (arm stay button) LED will turn ON&#x20;along with 3 beeps.
 
-Return to Disarm Mode: Enter any one of Control Panel user code and (disarm button) Key, or press (disarm button) key and apply&#x20;a label. If disarm is successful, the (disarm button) LED will turn ON along with 2 beeps.  If there is **Alarm Memory,** the ![](<.gitbook/assets/24 (1).png>) LED and fault LED will turn ON along with 5 beeps.
+Return to Disarm Mode: Enter any one of Control Panel user code and (disarm button) Key, or press (disarm button) key and apply&#x20;a label. If disarm is successful, the (disarm button) LED will turn ON along with 2 beeps.  If there is **Alarm Memory,** the ![](<manuals/.gitbook/assets/24 (1).png>) LED and fault LED will turn ON along with 5 beeps.
 
 
 
@@ -287,7 +290,7 @@ Return to Disarm Mode: Enter any one of Control Panel user code and (disarm butt
 _When Remote Keypad is under **NORMAL OPERATION MODE,**_
 
 1. When fault condition exists within Control Panel, if the Keypad is used to arm the panel, the Fault LED will flash along with 3 beeps to indicate fault condition.
-2. When the Keypad disarms the panel, the ![](<.gitbook/assets/25 (1).png>) LED will turn ON along with two beeps indicating normal operation.
+2. When the Keypad disarms the panel, the ![](<manuals/.gitbook/assets/25 (1).png>) LED will turn ON along with two beeps indicating normal operation.
 3. If you input incorrect KP Pin code for 4 times within 10 minutes under test mode, KP will disable the key function for 1 minute and all the LEDs will flash 3 times along with 6 beeps. After 1 minute, it will emit a long beep to indicate that the key function is back to normal.
 4. If you input incorrect KP Pin code for 4 times within 10 minutes when changing system mode, KP will disable key function for 5 minutes. After 5 minutes, the keypad will emit a long beep to indicate that the key function is back to normal.
 

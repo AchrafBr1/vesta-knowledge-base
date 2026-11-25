@@ -6,7 +6,7 @@ description: VDP-3
 
 ## Doorbell Wireless
 
-<figure><img src=".gitbook/assets/image (904).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/en/product/VESTA-109/">VESTA-109</a></p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (905).png" alt=""><figcaption><p><a href="https://vestasecurity.eu/en/product/VESTA-109/">VESTA-109</a></p></figcaption></figure>
 
 
 
@@ -18,7 +18,7 @@ VDP-3 Video Door Phone is designed to replace conventional doorbell by providing
 
 &#x20;                    **From View                                      Front View (Cover removed)                  Back View**
 
-<figure><img src=".gitbook/assets/image (712).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (713).png" alt=""><figcaption></figcaption></figure>
 
 1. **Protective Cover**
 2. **Camera Lens**
@@ -61,7 +61,7 @@ The Video Door Phone has built-in Blue and Red LEDs to indicate device status.
 5. Once restarted, the blue LED will begin blinking to indicate that the device is now in Configuration mode.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (903).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (904).png" alt=""><figcaption></figcaption></figure>
 
 ## Equipment required <a href="#toc51257986" id="toc51257986"></a>
 
@@ -106,7 +106,7 @@ VDP into the wall.
 
 &#x20;                                                                 Figure 1                       Figure 2
 
-<figure><img src=".gitbook/assets/image (713).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (714).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8.** Replace the protective cover on top of the VDP and tighten the cover fixing screw.
 
@@ -123,7 +123,7 @@ It is necessary to enable all permissions and be connected to the same Wi-Fi net
 1. Open **Smart Home Sec** app and enter your existing user account & password of the Control Panel you wish to use for further setup.
 2. Tap the Camera icon in the navigation bar and the + icon on top left corner to add the VDP into your existing system. Select the VDP icon and tap “Next”.
 
-<div><figure><img src=".gitbook/assets/11.jpg" alt="" width="180"><figcaption><p>2. Navigation bar and the + icon on top left corner.</p></figcaption></figure> <figure><img src=".gitbook/assets/10.jpg" alt="" width="180"><figcaption><p>Select VDP-3</p></figcaption></figure></div>
+<div><figure><img src="manuals/.gitbook/assets/11.jpg" alt="" width="180"><figcaption><p>2. Navigation bar and the + icon on top left corner.</p></figcaption></figure> <figure><img src="manuals/.gitbook/assets/10.jpg" alt="" width="180"><figcaption><p>Select VDP-3</p></figcaption></figure></div>
 
 3. Power up the Video Doorbell by applying AC power. The device will first warm up for about **30 seconds**, and its Blue LED will begin to flash.
 
@@ -135,9 +135,9 @@ Flashing LED indicates the Video Doorbell does not have a working Wi-Fi setting 
 
 4.1. Manual: Use your VDP as an AP. Connect to your Wi-Fi. Make sure your smartphone’s Wi-Fi is enabled. Follow on-screen instructions and wait for your VDP to connect to your Wi-Fi network. After successfully joining to your Wi-Fi network, the app proceeds to learn the VDP into the Control Panel. When learning is completed, re-login to the app and start using your VDP.
 
-<div><figure><img src=".gitbook/assets/13.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/14.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/15.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="manuals/.gitbook/assets/13.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="manuals/.gitbook/assets/14.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="manuals/.gitbook/assets/15.jpg" alt=""><figcaption></figcaption></figure></div>
 
-<div><figure><img src=".gitbook/assets/16.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/17.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/19.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="manuals/.gitbook/assets/16.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="manuals/.gitbook/assets/17.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="manuals/.gitbook/assets/19.jpg" alt=""><figcaption></figcaption></figure></div>
 
 4.2. QR Code: Enter your SSID information to generate QR Code for VDP to scan. The QR Code includes information about the Wi-Fi network and the Control Panel. Follow on-screen instructions. Tap “QR Code” for your smartphone to display it. VDP will emit a short beep to indicate the scanning is successful. When the LED stops flashing, tap “Done” to complete the setup. After VDP successfully joins to your Wi-Fi network, the app will proceed to learn the VDP into the Control Panel. When learning is completed, the VDP is able to be viewed on the app.
 
@@ -151,9 +151,9 @@ Use **SMART HOME SEC** to log into Home Portal Account registered by Control Pan
 
 When the Video Doorbell button is pressed, all associated accounts with incoming call function enabled will be able to see incoming call popup and answer the call.
 
-<figure><img src=".gitbook/assets/20.jpg" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/20.jpg" alt="" width="360"><figcaption></figcaption></figure>
 
-To access camera function setup, tap the ![](<.gitbook/assets/21 (2).png>) icon and follow below instructions.
+To access camera function setup, tap the ![](<manuals/.gitbook/assets/21 (2).png>) icon and follow below instructions.
 
 * **Device Name**
 
@@ -218,7 +218,7 @@ Note: Please be aware that it is necessary to restart the device before you can 
 
 1. Open Finder software and press "Search" button
 
-<figure><img src=".gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -228,13 +228,13 @@ Note: Please be aware that it is necessary to restart the device before you can 
 Note: the default password is: cX+HsA\*7F1
 {% endhint %}
 
-<figure><img src=".gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
 3. Open the System Settings menu and select Firmware Upgrade page
 
-<figure><img src=".gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
 Press Apply to upgrade the VDP firmware.
 

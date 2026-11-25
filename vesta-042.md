@@ -4,7 +4,7 @@ PSM-29ZW / PSS-29ZW
 
 ## Power Switch Series
 
-<figure><img src=".gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -46,7 +46,7 @@ The LED indicator lights up in the following conditions:
 * Press the Function Button 3 times within 1.5 seconds to transmit a learn code.
 * Press and hold the Function Button for 10 seconds to factory reset.
 
-<figure><img src=".gitbook/assets/vesta-042 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/vesta-042 1.png" alt=""><figcaption></figcaption></figure>
 
 ## _**Adding Device (Inclusion)**_
 
@@ -64,7 +64,7 @@ The device supports both classic inclusion process and SmartStart inclusion proc
 
 ### **SmartStart Inclusion**
 
-<figure><img src=".gitbook/assets/vesta-042 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/vesta-042 2.png" alt=""><figcaption></figcaption></figure>
 
 Z-Wave SmartStart utilizes the DSK of the device to enhance and simplify the inclusion process. DSK is Device Specific Key used for authentication. The DSK information is stored in the QR code format that is printed on a sticker and attached to the device.
 

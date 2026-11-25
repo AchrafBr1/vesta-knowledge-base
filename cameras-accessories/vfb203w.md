@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## VESTA wall mounting bracket
 
-<figure><img src="../.gitbook/assets/image (59).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Specifications
 

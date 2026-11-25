@@ -1,4 +1,4 @@
 # VESTA-433
 
-<figure><img src=".gitbook/assets/image (616).png" alt=""><figcaption><p>VT-CEILING-BRACKET</p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (617).png" alt=""><figcaption><p>VT-CEILING-BRACKET</p></figcaption></figure>
 

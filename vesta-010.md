@@ -4,7 +4,7 @@ KP-15-(NT)/ KP-15-(NT)-F1
 
 ## Remote Keypad WIRELESS
 
-<figure><img src=".gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 The Remote Keypad includes the following models:
 
@@ -13,7 +13,7 @@ The Remote Keypad includes the following models:
 
 ## _**Parts Identification**_
 
-<figure><img src=".gitbook/assets/2025-03-31 21_04_20-KP-15_KP-15-F1.pdf - Foxit PDF Reader.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2025-03-31 21_04_20-KP-15_KP-15-F1.pdf - Foxit PDF Reader.png" alt=""><figcaption></figcaption></figure>
 
 **1.   Green Active LED**
 

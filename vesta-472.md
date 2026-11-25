@@ -4,7 +4,7 @@ SD-32-SC-F1-2W-868
 
 ## SD-32 Smoke Detector with interconnection
 
-<figure><img src=".gitbook/assets/image (1129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1130).png" alt=""><figcaption></figcaption></figure>
 
 SD-32 Series is a wireless smoke detector designed to protect you against potential fire hazards. The Smoke detector uses multi-criteria sensor technology to distinguish between fast-burning flames and slow-smoldering fires, while at the same time it incorporates intelligent technology to differentiate between cooking smoke and actual life-threatening house-fire emergencies, virtually eliminating nuisance alarms.
 
@@ -16,7 +16,7 @@ The SD-32 series includes the following models:
 
 ## _**Parts Identification**_
 
-![](<.gitbook/assets/Unknown image (65)>)
+![](<manuals/.gitbook/assets/Unknown image (65)>)
 
 **1. LED Indicator / Test Button / Emergency Light**
 
@@ -171,7 +171,7 @@ By pressing the Test Button on the Smoke Detector, you can test if the Smoke Det
   * Wait for the smoke concentration to drop below the alarm threshold, or
   * Press the Test Button on the triggered Smoke Detector. This will also stop all interconnected Smoke Detectors.
 
-![](<.gitbook/assets/Unknown image (66)>) _Pressing the Test Button on any other smoke detector will only stop the alarm of that specific unit; it will not silence the alarms across the entire system._
+![](<manuals/.gitbook/assets/Unknown image (66)>) _Pressing the Test Button on any other smoke detector will only stop the alarm of that specific unit; it will not silence the alarms across the entire system._
 
 * **(For Security System only)** Disarming the system will stop alarms activated by the Control Panel on all interconnected Smoke Detectors. However, the originally triggered Smoke Detector will continue alarming until the smoke concentration falls below the threshold or its Test Button is pressed to silence its alarm.
 
@@ -221,7 +221,7 @@ The Smoke Detector has a maximum life time of **10 years** from the date of inst
 
 It is recommended to write the “Replace by” date (10 years from installation date) on the back of the detector prior to installation.
 
-<figure><img src=".gitbook/assets/Unknown image (67)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (67)" alt=""><figcaption></figcaption></figure>
 
 ## Installation
 
@@ -268,21 +268,21 @@ Please follow the steps below to mount the Smoke Detector:
 
 For easier alignment, first locate the two mounting holes farther from the inner circle edge on both the mounting sheet and the mounting bracket. Align these holes first, and the remaining ones should naturally follow.
 
-<figure><img src=".gitbook/assets/Unknown image (68)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (68)" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Unknown image (69)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (69)" alt=""><figcaption></figcaption></figure>
 
 **Step 4 – Mounting Detector:** The Heat Detector has 4 hooks on its back cover. Fit the Heat Detector and fit it onto the four notches on the mounting bracket using the hooks (FIG. 1)
 
-![](<.gitbook/assets/Unknown image (70)>)![](<.gitbook/assets/Unknown image (71)>)
+![](<manuals/.gitbook/assets/Unknown image (70)>)![](<manuals/.gitbook/assets/Unknown image (71)>)
 
 **Step 5:** Rotate the Smoke Detector clockwise to lock it in place (FIG. 2).
 
 **Step 6**: Installation is now complete (FIG. 3). You can remove the mounting sheet.
 
-<figure><img src=".gitbook/assets/Unknown image (72)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (72)" alt=""><figcaption></figcaption></figure>
 
 * For models with a built-in Motion Detector **(SD-32-HM/-HM-SC/-HME-SC)**, when mounted at a height of 3 meters on the ceiling, the Motion Detector provides a 360° detection coverage with a 6-meter diameter (the left diagram below). The detection coverage varies based on the mounting height.
 * When mounted on the ceiling, the PIR has better detection performance against horizontal movement (the right diagram below).
 
-![](<.gitbook/assets/Unknown image (73)>) ![](<.gitbook/assets/Unknown image (74)>)
+![](<manuals/.gitbook/assets/Unknown image (73)>) ![](<manuals/.gitbook/assets/Unknown image (74)>)

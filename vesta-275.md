@@ -2,7 +2,7 @@
 
 ## High gain antenna for 2G / GSM, 3G and 4G / LTE
 
-<figure><img src=".gitbook/assets/image (1319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1320).png" alt=""><figcaption></figcaption></figure>
 
 ## Specificatrion
 

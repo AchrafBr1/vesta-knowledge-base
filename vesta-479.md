@@ -4,7 +4,7 @@
 
 ## **Outdoor PIR Motion Sensor Camera with Solar power supply**
 
-<figure><img src=".gitbook/assets/image (1303).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1304).png" alt=""><figcaption></figcaption></figure>
 
 The VST-897EX-Solar Series is an advanced outdoor passive infrared (PIR) motion sensor camera, designed to enhance security with high-definition image transmission (up to 1280 x 720 pixels) upon motion detection. It includes a rechargeable battery powered by solar charging, with two 1.5V L91 lithium batteries as backup.
 
@@ -18,11 +18,11 @@ The camera incorporates anti-masking detectors an advanced anti-masking feature,
 
 **The VST-897EX-Solar Series includes the following models:**
 
-<figure><img src=".gitbook/assets/image (1304).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1305).png" alt=""><figcaption></figcaption></figure>
 
 ## Identifying the Parts
 
-<figure><img src=".gitbook/assets/Unknown image (445)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (445)" alt=""><figcaption></figcaption></figure>
 
 1. **Flash LED / Infrared LED**
 
@@ -101,9 +101,9 @@ When the PIR Camera is powered on, the PIR Camera will warm up for 30 seconds. D
 
 The function of each DIP Switch is listed in the table below. The DIP Switch is either ON or OFF.      ON The upper position indicates ON and the lower position indicates OFF.
 
-![](<.gitbook/assets/Unknown image (446)>)
+![](<manuals/.gitbook/assets/Unknown image (446)>)
 
-<figure><img src=".gitbook/assets/image (1305).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1306).png" alt=""><figcaption></figcaption></figure>
 
 After changing Dip Switch settings, please re-power on the PIR Camera for it to operate with new Dip Switch Settings.
 
@@ -160,7 +160,7 @@ Step 3: Remove the old batteries and press the test button twice to fully discha
 
 If a connection is established, the Green LED will flash rapidly during data transmission via Wi-Fi, and the message “HALOW OK” will appear on the Panel’s webpage upon completing data transmission. If the connection fails, the Green LED will turn off.
 
-![](<.gitbook/assets/Unknown image (447)>)
+![](<manuals/.gitbook/assets/Unknown image (447)>)
 
 * When it is confirmed that the PIR Camera works in the chosen location, you can proceed to installation.
 
@@ -197,15 +197,15 @@ Note: Please make sure the PIR Camera is properly hooked onto the mounting brack
 
 ### Surface Mounting
 
-![](<.gitbook/assets/Unknown image (448)>)
+![](<manuals/.gitbook/assets/Unknown image (448)>)
 
 ### Corner Mounting
 
-![](<.gitbook/assets/Unknown image (449)>)
+![](<manuals/.gitbook/assets/Unknown image (449)>)
 
 4. Apply the Stabilizing Screw to the top of the PIR Camera. The Stabilizing Screw has a foolproof mechanism for correct installation.
 
-![](<.gitbook/assets/Unknown image (450)>)
+![](<manuals/.gitbook/assets/Unknown image (450)>)
 
 ## Adjustable mounting bracket
 
@@ -225,11 +225,11 @@ Note: Please make sure the PIR Camera is properly hooked onto the mounting brack
 
 
 
-![VST-897EX-Solar Detection Range](<.gitbook/assets/Unknown image (451)>)
+![VST-897EX-Solar Detection Range](<manuals/.gitbook/assets/Unknown image (451)>)
 
 ***
 
-![Pet's Weight/Height: 20 kg](<.gitbook/assets/Unknown image (452)>)
+![Pet's Weight/Height: 20 kg](<manuals/.gitbook/assets/Unknown image (452)>)
 
 **Limitations:**
 
@@ -238,19 +238,19 @@ Note: Please make sure the PIR Camera is properly hooked onto the mounting brack
 * Never attempt to disassemble or modify the unit.
 * Please install the PIR Camera straight up. Do not tilt it.
 
-![](<.gitbook/assets/Unknown image (453)>)
+![](<manuals/.gitbook/assets/Unknown image (453)>)
 
 * Do not install the motion sensor camera where objects moved by wind such as trees and laundry, which may block the motion sensor camera’s field of view.
 
-![](<.gitbook/assets/Unknown image (454)>)
+![](<manuals/.gitbook/assets/Unknown image (454)>)
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-![](<.gitbook/assets/Unknown image (455)>)
+![](<manuals/.gitbook/assets/Unknown image (455)>)
 
 * Avoid aiming at the path of outdoor unit’s intake or exhaust airflow.
 
-<figure><img src=".gitbook/assets/Unknown image (456)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (456)" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 IMPORTANT  NOTE:

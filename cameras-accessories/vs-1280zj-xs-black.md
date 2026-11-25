@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ### VS-1280ZJ-XS-BLACK
 
-<figure><img src="../.gitbook/assets/image (1151).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1152).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Specifications
 

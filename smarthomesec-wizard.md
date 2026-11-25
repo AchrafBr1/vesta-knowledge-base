@@ -10,7 +10,7 @@ icon: wand-magic-sparkles
 
 
 
-<figure><img src=".gitbook/assets/0 (6).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/0 (6).png" alt="" width="280"><figcaption></figcaption></figure>
 
 Press **No**, we will end the Wizard and we can proceed to configure the control panel manually
 
@@ -20,7 +20,7 @@ Enter the default installer code: **7982** and press **Login**
 
 
 
-<figure><img src=".gitbook/assets/1 (27).png" alt="" width="278"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (27).png" alt="" width="278"><figcaption></figcaption></figure>
 
 
 
@@ -28,7 +28,7 @@ Enter the default installer code: **7982** and press **Login**
 NOTE: During the Wizard we could at any time access the various steps of the guided configuration by pressing the icon with three lines at the top left
 {% endhint %}
 
-<figure><img src=".gitbook/assets/note.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/note.png" alt=""><figcaption></figcaption></figure>
 
 ## 1. Batch Config
 
@@ -44,22 +44,22 @@ Press **Yes**, we will load a previously saved programming template.
 
 
 
-<figure><img src=".gitbook/assets/1.1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1.1.png" alt=""><figcaption></figcaption></figure>
 
 Select a script model (previously created).\
 All parameters set in the template will be automatically sent to the control panel.
 
-<figure><img src=".gitbook/assets/1.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1.2.png" alt=""><figcaption></figcaption></figure>
 
 You can see the parameters of the model simply by clicking on the three dots
 
 {% tabs %}
 {% tab title="First Tab" %}
-<figure><img src=".gitbook/assets/1.3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1.3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Second Tab" %}
-<figure><img src=".gitbook/assets/1.4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1.4.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -75,11 +75,11 @@ Press **Yes**, we could add a new account or link the control panel to an existi
 
 
 
-<figure><img src=".gitbook/assets/2 (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2 (26).png" alt=""><figcaption></figcaption></figure>
 
 On this screen, we could decide whether to create a new user account or connect the control panel to an existing customer account
 
-<figure><img src=".gitbook/assets/2.1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2.1.png" alt=""><figcaption></figcaption></figure>
 
 **Create Account**
 
@@ -90,7 +90,7 @@ On this screen, we could decide whether to create a new user account or connect 
 
 
 
-<figure><img src=".gitbook/assets/2.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2.2.png" alt=""><figcaption></figcaption></figure>
 
 Customer Access Privilege. The customer will be able to:
 
@@ -112,9 +112,9 @@ Automation – Access the automation section
 
 By clicking “link to an existing account”, we could enter the customer's (ID and Password) and configure the access rights and associated areas.
 
-<figure><img src=".gitbook/assets/2.3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2.3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2.4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2.4.png" alt=""><figcaption></figcaption></figure>
 
 ## 3. User PIN
 
@@ -126,7 +126,7 @@ In this tab, we can customize the customer's PIN code.
 
 Press **Yes**, and we will configure the name and code of the end user.
 
-<figure><img src=".gitbook/assets/3 (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/3 (22).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -140,11 +140,11 @@ Press **Skip**, we will go forward in the wizard
 
 Press **Yes**, the control panel will ask you which device you want to add
 
-<figure><img src=".gitbook/assets/4 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/4 (12).png" alt=""><figcaption></figcaption></figure>
 
 Select the device type you want to add, e.g., Motion Detector. Press and hold the pairing button on the device until the LED flashes (refer to the device's manual for specific instructions).
 
-<figure><img src=".gitbook/assets/image (1273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1274).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 ### &#x20;Important note
@@ -160,7 +160,7 @@ Follow the on-screen instructions to complete the pairing process. The panel wil
 
 Select the device and press **Submit**
 
-<figure><img src=".gitbook/assets/4.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/4.2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 To configure the zones correctly, it is important to be familiar with the available attributes and their impact on the behavior of the alarm system.
@@ -175,7 +175,7 @@ In this tab, we will define the security settings relating the partition of the 
 \
 e.g. Entry time, exit time, ....
 
-<figure><img src=".gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -185,7 +185,7 @@ e.g. Entry time, exit time, ....
 
 In this tab, we could customize the options of the control panel
 
-<figure><img src=".gitbook/assets/6 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/6 (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -197,7 +197,7 @@ Press **Skip** will cause the panel to use the Ethernet connection
 
 Press **Yes**, we could enable SIM detection and set the APN if necessary
 
-<figure><img src=".gitbook/assets/7 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/7 (9).png" alt=""><figcaption></figcaption></figure>
 
 ## 8. Report Settings
 
@@ -207,15 +207,15 @@ Press **Skip**, the control panel will send all events to the end user's app
 
 Press **YES**, we will configure the control panel to send events to a Central Monitoring Station.
 
-<figure><img src=".gitbook/assets/8 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/8 (9).png" alt=""><figcaption></figcaption></figure>
 
 1. We can apply a template already configured with the settings for the connection to the  Central Monitoring Station.
 
-<figure><img src=".gitbook/assets/8.1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/8.1.png" alt=""><figcaption></figcaption></figure>
 
 2. Click on the + icon to add a second communication method (the first is always the cloud and cannot be changed), select "Group 2" and set the parameters provided by the Central Monitoring Station.
 
-<figure><img src=".gitbook/assets/8.3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/8.3.png" alt=""><figcaption></figcaption></figure>
 
 3. Set up group 2 with 3 attempts, at the end press S**ave** and then **Next**
 
@@ -223,7 +223,7 @@ Press **YES**, we will configure the control panel to send events to a Central M
 
 
 
-<figure><img src=".gitbook/assets/9 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/9 (9).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -5,7 +5,7 @@ icon: video-plus
 
 # NVR5108-8P-PRO
 
-<figure><img src="../.gitbook/assets/image (1363).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1364).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Main features
 

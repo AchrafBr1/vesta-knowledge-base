@@ -6,7 +6,7 @@ icon: router
 
 ## Upgrading the CUDY-21 Router for VESTA Integration
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 Integrating your CUDY-21 router with VESTA enhances your Internet connectivity and offers advanced networking features. Follow the steps below to upgrade your CUDY-21 router and prepare it for integration with VESTA.
 
@@ -18,7 +18,7 @@ Before starting the upgrade process, ensure you have the following:
 * The CUDY-21 router connected to your computer.
 * Downloaded the latest firmware version for the CUDY-21 router from the official website or following file:&#x20;
 
-{% file src="../.gitbook/assets/LT500V2-R25-2.1.1-20240419-090237-flash.zip" %}
+{% file src="../manuals/.gitbook/assets/LT500V2-R25-2.1.1-20240419-090237-flash.zip" %}
 CUDY FIRMAWARE&#x20;
 {% endfile %}
 
@@ -30,11 +30,11 @@ CUDY FIRMAWARE&#x20;
 2. Access the router's IP: 192.168.10.1 (Get in the same range if connecting directly via PC) or cudy.net
 3. Enable WAN:
 
-<figure><img src="../.gitbook/assets/image (618).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (619).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (622).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (623).png" alt=""><figcaption><p>Advanced configuration</p></figcaption></figure>
 
 ### Step 3: Update Firmware of CUDY router
 
-<figure><img src="../.gitbook/assets/image (623).png" alt=""><figcaption><p>Advanced configuration -> SYSTEM</p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (624).png" alt=""><figcaption><p>Advanced configuration -> SYSTEM</p></figcaption></figure>
 

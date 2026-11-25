@@ -9,5 +9,5 @@ title: Add Keypad to VESTA Panel
 
 **STEP 2**: Press and hold the **\*** and **#** buttons simultaneously for 4 seconds while the panel is in learning mode to add the keyboard.
 
-![](../assets/image.png)
+![](../../manuals/.gitbook/assets/image.png)
 {% endhint %}

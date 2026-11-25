@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## VESTA watertight junction box
 
-<figure><img src="../.gitbook/assets/image (69).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (70).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Specifications
 

@@ -4,13 +4,13 @@ SVGS-5
 
 ## &#x20;Shock, Vibration & Glass Break Sensor
 
-<figure><img src=".gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
 SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wireless signals to the Control Panel upon detection of window glass break or shock/vibration.
 
 ## Parts Identification
 
-<figure><img src=".gitbook/assets/vesta-040 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/vesta-040 5.png" alt=""><figcaption></figcaption></figure>
 
 1. **Learn/Test Button**
 
@@ -36,7 +36,7 @@ SVGS-5 is a Shock, Vibration/Glass Break Sensor. It is capable of sending wirele
 
 
 
-<figure><img src=".gitbook/assets/vesta-040.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/vesta-040.png" alt=""><figcaption></figcaption></figure>
 
 ## _**Supervision**_
 
@@ -123,7 +123,7 @@ Note:
 When mounting at corner, make sure to keep at least 10mm distance between the sensor and the edge of window or wall. Adjust the battery slot direction (**Do not face the corner**) to avoid difficulty when removing the battery slot.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/vesta-040 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/vesta-040 3.png" alt=""><figcaption></figcaption></figure>
 
 ### **Safety Box Installation:**
 
@@ -134,7 +134,7 @@ When mounting on Safety Box, mount the Sensor no more than 2cm away from the doo
 
 
 
-<figure><img src=".gitbook/assets/vesta-040 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/vesta-040 4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -142,7 +142,7 @@ Note:
 Please do not apply the double-sided adhesive tape to the front cover where Test Button and LED indicator are located, and do not apply the tape twice.
 {% endhint %}
 
-![](<.gitbook/assets/6 (27).png>)
+![](<manuals/.gitbook/assets/6 (27).png>)
 
 ### _**Installation Guideline**_
 

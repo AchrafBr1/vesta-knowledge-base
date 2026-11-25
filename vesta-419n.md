@@ -4,11 +4,11 @@ SMH-Combo
 
 ## KNX Integration Module
 
-<figure><img src=".gitbook/assets/image (646).png" alt=""><figcaption><p>VESTA-419N</p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (647).png" alt=""><figcaption><p>VESTA-419N</p></figcaption></figure>
 
 ## Manual & datasheet
 
-{% file src=".gitbook/assets/SMH-COMBO_20240103.pdf" %}
+{% file src="manuals/.gitbook/assets/SMH-COMBO_20240103.pdf" %}
 Manual guide
 {% endfile %}
 
@@ -16,4 +16,4 @@ Manual guide
 
 ## ETS project template
 
-{% file src=".gitbook/assets/Vesta Integration.knxproj" %}
+{% file src="manuals/.gitbook/assets/Vesta Integration.knxproj" %}

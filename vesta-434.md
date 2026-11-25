@@ -4,7 +4,7 @@
 
 This guide will explain how the integration of the megaphone with VESTA works. You'll learn about the setup process, key features, and how to maximize the effectiveness of this integration.
 
-<figure><img src=".gitbook/assets/image (612).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (613).png" alt=""><figcaption></figcaption></figure>
 
 ## Local access
 
@@ -14,7 +14,7 @@ The following is the local access data to the horn:
 
 ## Load new audio file
 
-<figure><img src=".gitbook/assets/image (611).png" alt=""><figcaption><p>To load new mp3 file</p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (612).png" alt=""><figcaption><p>To load new mp3 file</p></figcaption></figure>
 
 
 
@@ -22,7 +22,7 @@ The following is the local access data to the horn:
 Remember to enable en ALARM -> HTTP URL (Play File Enable)
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (611).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -65,7 +65,7 @@ These **HTTP** commands can go directly into VESTA rule actions. For example, we
   * <mark style="color:blue;">admin:</mark> Password
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (614).png" alt=""><figcaption><p>Rule example in VESTA</p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (615).png" alt=""><figcaption><p>Rule example in VESTA</p></figcaption></figure>
 
 ***
 
@@ -73,7 +73,7 @@ These **HTTP** commands can go directly into VESTA rule actions. For example, we
 
 ## Download complete Manual guide
 
-{% file src=".gitbook/assets/VESTA IP Speaker User Manual.docx" %}
+{% file src="manuals/.gitbook/assets/VESTA IP Speaker User Manual.docx" %}
 
 ***
 
@@ -83,8 +83,8 @@ These **HTTP** commands can go directly into VESTA rule actions. For example, we
 
 Allows to make http actions with autentification (username and password)
 
-<figure><img src=".gitbook/assets/image (1378).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1379).png" alt=""><figcaption></figcaption></figure>
 
-{% file src=".gitbook/assets/VESTA-434-V4.1.3-20260812-app.zip" %}
+{% file src="manuals/.gitbook/assets/VESTA-434-V4.1.3-20260812-app.zip" %}
 {% endupdate %}
 {% endupdates %}

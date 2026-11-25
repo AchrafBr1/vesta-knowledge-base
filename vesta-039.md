@@ -4,13 +4,13 @@ PB-23
 
 ## Panic Button&#x20;
 
-<figure><img src=".gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
 The Panic Button is used to activate (or deactivate) a panic alarm.
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/Imagen PB-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Imagen PB-23.png" alt=""><figcaption></figcaption></figure>
 
 1. **LED Indicator**
 
@@ -62,7 +62,7 @@ A Pad is included into the Panic Button as picture shown below. The padding help
 
 
 
-<figure><img src=".gitbook/assets/Imagen 2 PB-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Imagen 2 PB-23.png" alt=""><figcaption></figcaption></figure>
 
 There are two ways to deploy the Panic Button: Wall Mounting and Surface Deployment. After successfully installed the Panic Button, please gently remove the Pad.
 
@@ -75,14 +75,14 @@ The Panic Button can be wall mounting using Velcro tape provided.
 
 **Picture 1                                                      Picture 2                                                     Picture 3**
 
-![image3](<.gitbook/assets/2 (16).jpeg>) ![image1](<.gitbook/assets/3 (19).jpeg>) ![](<.gitbook/assets/4 (18).jpeg>)
+![image3](<manuals/.gitbook/assets/2 (16).jpeg>) ![image1](<manuals/.gitbook/assets/3 (19).jpeg>) ![](<manuals/.gitbook/assets/4 (18).jpeg>)
 
 3. Remove the protective cover of the Loop side and apply to back of the Panic Button. (**Picture 4**)
 4. Hook the Panic Button onto mounting location. (**Picture 5**)
 
 **Picture 4**                                                                                            **Picture 5**
 
-![image2](<.gitbook/assets/5 (20).jpeg>) ![IMG\_1469](<.gitbook/assets/6 (24).jpeg>)
+![image2](<manuals/.gitbook/assets/5 (20).jpeg>) ![IMG\_1469](<manuals/.gitbook/assets/6 (24).jpeg>)
 
 ### **Surface Placement**
 
@@ -93,6 +93,6 @@ The Panic Button can be deployed on a flat surface without being installed at a 
 
 &#x20;                                                                                          **Picture 6**
 
-![image6](<.gitbook/assets/7 (21).jpeg>)
+![image6](<manuals/.gitbook/assets/7 (21).jpeg>)
 
 3. Place the Panic Button at desired location.

@@ -14,7 +14,7 @@ icon: sim-card
 
 #### HOW TO CHANGE MY CURRENT SUBSCRIPTION PLAN?
 
-<figure><img src="../.gitbook/assets/CHANGE PLAN RATE.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/CHANGE PLAN RATE.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 This option is important when we want to **upgrade to a higher plan.**
@@ -22,7 +22,7 @@ This option is important when we want to **upgrade to a higher plan.**
 
 #### HOW TO CHANGE THE PAYMENT METHOD OR UPDATE THE CURRENT ONE?
 
-<figure><img src="../.gitbook/assets/CHANGE PAYMENT INFORMATION.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/CHANGE PAYMENT INFORMATION.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 This option is interesting, when we **change credit card or bank account**, to be able to keep it updated on the platform.
@@ -30,7 +30,7 @@ This option is interesting, when we **change credit card or bank account**, to b
 
 #### HOW TO PAY PAY AN OPEN ORDER?
 
-<figure><img src="../.gitbook/assets/HOW TO PAY OPEN ORDER.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/HOW TO PAY OPEN ORDER.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 It is important to pay for open orders to **avoid deactivating our SIM** card.
@@ -38,7 +38,7 @@ It is important to pay for open orders to **avoid deactivating our SIM** card.
 
 #### HOW TO CANCEL A SUBSCRIPTION?
 
-<figure><img src="../.gitbook/assets/CANCELAR SUSCRIPCIÓN.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/CANCELAR SUSCRIPCIÓN.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 When we cancel the subscription of a SIM, it will **remain activated until the expiry** of the contracted plan, once this period has expired, the SIM will **not be billed again** and will be deactivated from the system.

@@ -4,7 +4,7 @@ UIM-1-BUS
 
 ## Universal Interface Module
 
-<figure><img src=".gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 Universal Interface Module (UIM-1-BUS) UIM-1-BUS is a Universal Interface Module that is designed to connect any wired detectors with dry contact to the Hybrid Panel and provide the connected detector with the power source. Designed with 3 inputs, UIM-1-BUS is capable of transmitting alarm/tamper/fault signals from the connected wired detector to the hybrid panel, therefore enabling devices without BUS terminals to conveniently and flexibly be integrated with the Alary System.
 
@@ -12,7 +12,7 @@ Universal Interface Module (UIM-1-BUS) UIM-1-BUS is a Universal Interface Module
 
 
 
-<figure><img src=".gitbook/assets/2025-02-27 14_51_34-UIM-1-BUS_20230804.pdf - Foxit PDF Reader.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2025-02-27 14_51_34-UIM-1-BUS_20230804.pdf - Foxit PDF Reader.png" alt=""><figcaption></figcaption></figure>
 
 **1. BUS Terminal**
 

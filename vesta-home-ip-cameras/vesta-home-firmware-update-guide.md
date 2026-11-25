@@ -6,7 +6,7 @@ icon: camera-cctv
 
 This guide explains how to update the firmware of your **VESTA HOME camera** using [update tool.](https://update.jpab.es/)
 
-<figure><img src="../.gitbook/assets/image (1370).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1371).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The firmware update fixes the following points:
@@ -35,7 +35,7 @@ Make sure you have:
 
 Open the update tool on your phone or computer, then select your camera model and confirm the camera LED is solid green. The tool will guide you to scan the QR code, or enter the **Serial Number** and **Verification Code** manually, before the firmware update starts.
 
-<figure><img src="../.gitbook/assets/image (1318).png" alt="https://update.jpab.es/"><figcaption><p><a href="https://update.jpab.es/">https://update.jpab.es/</a></p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1319).png" alt="https://update.jpab.es/"><figcaption><p><a href="https://update.jpab.es/">https://update.jpab.es/</a></p></figcaption></figure>
 
 ***
 

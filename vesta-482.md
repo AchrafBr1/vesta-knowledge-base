@@ -2,7 +2,7 @@
 
 ## Adjustable mounting bracket for VESTA outdoor detectors VESTA-460 and VESTA-479
 
-<figure><img src=".gitbook/assets/image (1316).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1317).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Specifications
 

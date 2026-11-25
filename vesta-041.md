@@ -4,7 +4,7 @@
 
 ## VESTA temperature and humidity sensor
 
-<figure><img src=".gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
 **Introduction**
 
@@ -18,7 +18,7 @@ The Z-Wave Room Sensor series includes the following models:
 
 RS-23-ZW, RS-23-ZW-OTA
 
-![](<.gitbook/assets/0 (53).png>)
+![](<manuals/.gitbook/assets/0 (53).png>)
 
 ## **Parts Identification**
 
@@ -28,8 +28,8 @@ The LCD displays the following information:
 
 * Temperature in Farenheit / Celcius setting
 * Humidity RH%.
-* Z-Wave network connectivity (![](<.gitbook/assets/1 (51).jpeg>) icon).
-* Low Battery status ( ![](<.gitbook/assets/image (600).png>)icon).
+* Z-Wave network connectivity (![](<manuals/.gitbook/assets/1 (51).jpeg>) icon).
+* Low Battery status ( ![](<manuals/.gitbook/assets/image (601).png>)icon).
 * LCD Backlight on: when function button is pressed.
 
 2. **Function Button**
@@ -47,8 +47,8 @@ When the front cover is installed on the back cover, open the cover by loosen th
 
 4. **Fahrenheit / Celcius Setting Jumper (JP1)**
 
-* ![](<.gitbook/assets/image (601).png>) If the jumper link is inserted between the top 2 pins, the LCD will display the temperature in Celsius. (**Factory Default**)
-* ![](<.gitbook/assets/image (602).png>) If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
+* ![](<manuals/.gitbook/assets/image (602).png>) If the jumper link is inserted between the top 2 pins, the LCD will display the temperature in Celsius. (**Factory Default**)
+* ![](<manuals/.gitbook/assets/image (603).png>) If the jumper link is inserted between the bottom 2 pins, the LCD will display the temperature in Fahrenheit.
 
 5. **Battery Compartment**
 

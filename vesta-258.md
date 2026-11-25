@@ -6,4 +6,4 @@
 * Rechargeable AA Ni-Mh battery pack
 * 1100 mAh
 
-<figure><img src=".gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>

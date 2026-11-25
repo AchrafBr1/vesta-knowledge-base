@@ -9,29 +9,29 @@
 * Take into account the voltage drop (calculator) If there is a voltage drop, a power supply or isolator-amplifier can be used
 * The limit of the BUS system at distance level will depend on the consumption and voltage at each point, if a sufficient current and voltage is guaranteed at each device, the system will operate correctly.
 
-![](<../.gitbook/assets/4 (80).jpeg>)
+![](<../manuals/.gitbook/assets/4 (80).jpeg>)
 
 ## **CASE 1: ONE LINE OF BUS**
 
-![](<../.gitbook/assets/5 (64).jpeg>)
+![](<../manuals/.gitbook/assets/5 (64).jpeg>)
 
 ## **CASE 2: TWO LINES OF BUS (STAR)**
 
-![](<../.gitbook/assets/6 (71).jpeg>)
+![](<../manuals/.gitbook/assets/6 (71).jpeg>)
 
 ## **CASE 3: TREE LINES**
 
 ### **CASE 3A. WITH ISOLATOR (Recomended for this CASE)**
 
-![](<../.gitbook/assets/7 (71).jpeg>)
+![](<../manuals/.gitbook/assets/7 (71).jpeg>)
 
 ### **CASE 3B. WITH NO ISOLATOR (TIP: Place resistors in the longest BUS sections.)**
 
-![](<../.gitbook/assets/8 (62).jpeg>)
+![](<../manuals/.gitbook/assets/8 (62).jpeg>)
 
 ## **CASE 4: FOUR LINES OF BUS**
 
-![](<../.gitbook/assets/9 (47).jpeg>)
+![](<../manuals/.gitbook/assets/9 (47).jpeg>)
 
 ## CONSUMPTION TABLE OF V-MAX BUS DEVICES
 

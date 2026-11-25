@@ -1,4 +1,4 @@
-# VESTA 458
+# VESTA-458
 
 ## Perimeter protection tower for VESTA Pircams
 
@@ -6,7 +6,7 @@ INTRODUCTION
 
 Ideal for perimeter protection of sensitive areas, construction sites, or events requiring a stand-alone security solution.
 
-<figure><img src=".gitbook/assets/VESTA-458_B.jpg" alt="" width="122"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/VESTA-458_B.jpg" alt="" width="122"><figcaption></figcaption></figure>
 
 ### Key benefit
 

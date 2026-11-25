@@ -4,13 +4,13 @@
 
 ## **Tag Reader indoor/outdoor**
 
-<figure><img src=".gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
 #### [VESTA-033N Specification](https://vestasecurity.eu/en/product/vesta-033n/)
 
 ## _**Identifying the parts:**_
 
-<figure><img src=".gitbook/assets/1 (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (18).png" alt=""><figcaption></figcaption></figure>
 
 1. **Green LED Red LED Orange LED Arm Button**
 2. **Tag Reader Sensor (for tag)**
@@ -76,7 +76,7 @@ The base has three knockouts for mounting purpose. To mount the Tag Reader:
 
 **Mounting Holes:**
 
-![](<.gitbook/assets/4 (34).jpeg>)
+![](<manuals/.gitbook/assets/4 (34).jpeg>)
 
 I. Remove the fixing screw at the bottom&#x20;
 

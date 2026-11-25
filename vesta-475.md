@@ -2,7 +2,7 @@
 
 RP-35-HR-18-COMBO
 
-<figure><img src=".gitbook/assets/image (1390).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1391).png" alt="" width="375"><figcaption></figcaption></figure>
 
 The RP-35-Combo Hybrid Repeater is designed to work with the Hybrid Panel, especially in locations where RF signals are easily interfered with.
 
@@ -10,7 +10,7 @@ When it receives RF signals from devices, the RP-35-Combo retransmits them to th
 
 ## **Identifying the Parts**
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_JnO69EGkAx.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_JnO69EGkAx.png" alt=""><figcaption></figcaption></figure>
 
 **1. Power LED (Green)**
 
@@ -106,7 +106,7 @@ Before connecting the Repeater to the system bus, please switch the power off.
 
 To assist with cable connections, the terminal blocks on each BUS system module are color- coded.
 
-![](<.gitbook/assets/Unknown image (461)>)
+![](<manuals/.gitbook/assets/Unknown image (461)>)
 
 {% hint style="info" %}
 &#x20;The pluggable design of BUS terminal blocks improves upon installation efficiency. Before wiring, you can remove the terminal blocks from the PCB board for ease of use, and plug in again after wiring.
@@ -118,14 +118,14 @@ After unplugging the terminal, when re-installing the terminal back to the board
 
 The Hybrid Panel can supply 13.5VDC to the Repeater via the BUS wired connection.
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_WxzAWbVyMl.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_WxzAWbVyMl.png" alt=""><figcaption></figcaption></figure>
 
 The Repeater can alternatively be powered by a 12VDC / 1A power adapter or its backup battery.<br>
 
 If both the BUS power and the power adapter are connected, the Repeater automatically selects\
 the power source with the higher voltage.
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_RJORgMSu6c.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_RJORgMSu6c.png" alt=""><figcaption></figcaption></figure>
 
 When connecting the Repeater to the Panel in the presence of the power adapter, user can also\
 bypass the Panel’s red VDD terminal using a WAGO 221 Splicing Connector to increase wiring\
@@ -133,7 +133,7 @@ efficiency, reliability, and maintainability.\
 Connect the Panel’s VDD line through the WAGO connector to the next BUS device that is powered\
 by the Panel.
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_3t0MW8nP3z.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_3t0MW8nP3z.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -203,7 +203,7 @@ After the repeater is learned into the Control Panel, proceed to program repeate
 
 Go to the **Repeater Setting**on Panel’s webpage.
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_X4X64hJAxH.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_X4X64hJAxH.png" alt=""><figcaption></figcaption></figure>
 
 ### **Learning Device/Repeater into the Repeater**
 
@@ -213,7 +213,7 @@ Make sure the devices/repeaters are already learned into the Control Panel befor
 
 **Step 2** Refer to individual device manual to send following signal:
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_e7To1PGK0Z.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_e7To1PGK0Z.png" alt=""><figcaption></figcaption></figure>
 
 If the Repeater receives a learn code from a new device, it will emit 1 long beep and the Blue LED will light up for 1 second to indicate successful learning.
 
@@ -249,7 +249,7 @@ After the devices/repeaters are learned into the Repeater, click“**Query Child
 
 **If a child node device is not yet learned into the Control Panel, “Unknown Type” and“Device Not Existed” will be displayed. Make sure to learn the device into the Control Panel for the Panel to recognize it.**
 
-![](<.gitbook/assets/Unknown image (468)>) ![](<.gitbook/assets/Unknown image (469)>)
+![](<manuals/.gitbook/assets/Unknown image (468)>) ![](<manuals/.gitbook/assets/Unknown image (469)>)
 
 ### **Delete Device/Repeaters from the Repeater**
 
@@ -259,13 +259,13 @@ After the devices/repeaters are learned into the Repeater, click“**Query Child
 
 ### **RP Connection Map (Home Portal Server: Installer Web/App)**
 
-Please log in to Home Portal Server with the **Installer account**. Go to **Main Page**> **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon**  <img src=".gitbook/assets/image (1391).png" alt="" data-size="line"> will be displayed besides the Device List header.
+Please log in to Home Portal Server with the **Installer account**. Go to **Main Page**> **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon**  <img src="manuals/.gitbook/assets/image (1392).png" alt="" data-size="line"> will be displayed besides the Device List header.
 
-![](<.gitbook/assets/Unknown image (471)>)
+![](<manuals/.gitbook/assets/Unknown image (471)>)
 
-Clicking on the icon <img src=".gitbook/assets/image (1392).png" alt="" data-size="line">will pop up the RP Connection Map.
+Clicking on the icon <img src="manuals/.gitbook/assets/image (1393).png" alt="" data-size="line">will pop up the RP Connection Map.
 
-![](<.gitbook/assets/Unknown image (473)>)
+![](<manuals/.gitbook/assets/Unknown image (473)>)
 
 The **Panel**, the **Repeater/RF Devices**, and **the RF Device(s) that is/are connected to Repeater**will be displayed from the left column to the right column on the map.
 
@@ -281,19 +281,19 @@ Edit: Click to enter Edit Mode, and then click an individual Repeater icon to ac
 
 ➢ **Edit Mode**: In Edit Mode, only Repeater icons are highlighted. Click on a Repeater icon to access its settings page.
 
-![](<.gitbook/assets/Unknown image (478)>)
+![](<manuals/.gitbook/assets/Unknown image (478)>)
 
 ➢ **Repeater Setting Page**: The Repeater Setting page lists the devices that are connected to the repeater. You can add / delete devices by clicking / .
 
-![](<.gitbook/assets/Unknown image (480)>)
+![](<manuals/.gitbook/assets/Unknown image (480)>)
 
 **Add Device**: after clicking  + , the Add Device list will pop up, displaying devices that are not connected to any Repeater and are available to be added to the current Repeater. Select the device(s) by checking the box(es), then click Submit to add the selected device(s) to the Repeater.
 
-![](<.gitbook/assets/Unknown image (482)>)
+![](<manuals/.gitbook/assets/Unknown image (482)>)
 
 **Remove Device**: after clicking , the Delete Device list will pop up, displaying devices that are connected to the current Repeater. Select the device(s) by checking the box(es), then click Delete to remove the selected device(s) from the Repeater.
 
-![](<.gitbook/assets/Unknown image (484)>)
+![](<manuals/.gitbook/assets/Unknown image (484)>)
 
 After exiting Edit mode, the third column of devices connected to the Repeater(s) will be updated immediately.
 
@@ -309,7 +309,7 @@ To locate the Repeater in the BUS system:
 
 On the Panel webpage, click Identify in the device list corresponding to the Repeater.
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_VCitaTcDdC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_VCitaTcDdC.png" alt=""><figcaption></figcaption></figure>
 
 \
 \- If the Repeater receives the signal from the Panel, a success message will appear on the\
@@ -367,7 +367,7 @@ In the example below when one repeater is used:
 
 Repeater Example
 
-![](<.gitbook/assets/Unknown image (485)>)
+![](<manuals/.gitbook/assets/Unknown image (485)>)
 
 **Multiple Repeaters**
 
@@ -391,7 +391,7 @@ In Example 2, where the Device 5 is located between the RF coverage areas of two
 
 ⚫ Device 5 should also be learned into the Control Panel.
 
-![Exemple 1](<.gitbook/assets/Unknown image (486)>) ![Exemple 2](<.gitbook/assets/Unknown image (487)>)
+![Exemple 1](<manuals/.gitbook/assets/Unknown image (486)>) ![Exemple 2](<manuals/.gitbook/assets/Unknown image (487)>)
 
 When linking repeaters to form a transmission replay, please use no more than two layers of repeaters. Only the MDC-5, IR-35, and SD-32 models are compatible with this configuration.
 
@@ -399,7 +399,7 @@ In the Example 3 below (Device to B to A to Control Panel), Repeater A, Repeater
 
 Learn the Device into its closest repeater (Repeater B), and learn Repeater B into Repeater A. (Do not learn Repeater A into Repeater B.)
 
-![Exemple 3](<.gitbook/assets/Unknown image (488)>)
+![Exemple 3](<manuals/.gitbook/assets/Unknown image (488)>)
 
 
 
@@ -415,5 +415,5 @@ The Repeater can be mounted on the wall. Follow the steps below to mount it:
 
 ⚫ Re-place the front cover and tighten the bottom fixing screws.
 
-![](<.gitbook/assets/Unknown image (489)>)
+![](<manuals/.gitbook/assets/Unknown image (489)>)
 

@@ -4,18 +4,18 @@ VST 897EX
 
 ## Outdoor PIR Motion Sensor Camera&#x20;
 
-<figure><img src=".gitbook/assets/image (1223).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1224).png" alt="" width="375"><figcaption></figcaption></figure>
 
 The VST-897EX Series is an advanced outdoor passive infrared (PIR) motion sensor camera, designed to enhance security&#x20;with high-definition image transmission (up to 1280  720 pixels) upon motion detection. Equipped with Sub-GHz Wi-Fi and an&#x20;SF1 backup module, the HALOW model ensures rapid processing for faster visual alarm verification.\
 Built to withstand outdoor conditions, the VST-897EX features night illumination, UV-resistant housing, and IPX5 waterproofing,&#x20;making it suitable for areas like backyards, gates, and outdoor corridors. The HDR model adds white balance with HDR support&#x20;for clearer images in high-contrast lighting conditions.\
 With a typical detection range of 10 meters when mounted at 2.3 meters above the ground, the device offers pet immunity for&#x20;pets up to 25 kilograms.\
 The camera incorporates anti-masking detectors an advanced anti-masking feature, capable of detecting attempts to obscure&#x20;the lens using objects or coatings within 20 cm. Infrared technology further enhances anti-masking through over-the-lens&#x20;detection.
 
-<figure><img src=".gitbook/assets/image (1222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1223).png" alt=""><figcaption></figcaption></figure>
 
 ## Identifying the Parts
 
-<figure><img src=".gitbook/assets/Unknown image (48)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (48)" alt=""><figcaption></figcaption></figure>
 
 1. **Flash LED / Infrared LED**
 
@@ -112,7 +112,7 @@ The table below outlines the function of each Dip switch. Each switch has two po
 
 (lower position).
 
-<figure><img src=".gitbook/assets/image (1224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1225).png" alt=""><figcaption></figcaption></figure>
 
 * After changing Dip Switch settings, re-power on the PIR Camera to activate the changes.
 * Adjust the DIP Switches according to the installation location of the PIR Camera for optimal performance. Incorrect settings may hinder performance and cause false alarms or failure to detect movement.
@@ -154,7 +154,7 @@ Please refer to the table below for configuration details. For example, to enabl
 * The PIR Camera reports its battery level to the Control Panel every 24 hours or whenever the level changes.
 *   The PIR Camera features low battery voltage detection. When low battery is detected, a low battery signal will be sent to the Control Panel along with regular signal transmissions for the Panel to display the status accordingly.
 
-    <figure><img src=".gitbook/assets/Unknown image (50)" alt=""><figcaption></figcaption></figure>
+    <figure><img src="manuals/.gitbook/assets/Unknown image (50)" alt=""><figcaption></figcaption></figure>
 * **To change the batteries:**
 
 **Step 1** Detach the PIR Camera from mounting bracket.
@@ -204,11 +204,11 @@ Note:
 
 * When the Control Panel is put to Walk Test mode, pressing the Test Button also initiate a Wi-Fi Walk Test. The PIR Camera’s Green LED will light up as it begins searching for a HaLow-supported Control Panel.
 
-![](<.gitbook/assets/image (1225).png>) If a connection is established, the Green LED will flash rapidly during data transmission via Wi-Fi, and the message “HALOW OK” will appear on the Panel’s webpage upon completing data transmission.
+![](<manuals/.gitbook/assets/image (1226).png>) If a connection is established, the Green LED will flash rapidly during data transmission via Wi-Fi, and the message “HALOW OK” will appear on the Panel’s webpage upon completing data transmission.
 
-![](<.gitbook/assets/image (1226).png>) If the connection fails, the Green LED will turn off.
+![](<manuals/.gitbook/assets/image (1227).png>) If the connection fails, the Green LED will turn off.
 
-![](<.gitbook/assets/Unknown image (51)>)
+![](<manuals/.gitbook/assets/Unknown image (51)>)
 
 * Proceed to installation once proper communication with the Panel is confirmed at the chosen location.
 
@@ -234,13 +234,13 @@ For devices using a Repeater, press the Test Button to transmit a learn code aft
 Note:   Ensure the tamper switch is fully depressed when hooking the PIR Camera onto the bracket. **Surface Mounting**
 {% endhint %}
 
-![Surface Mounting](<.gitbook/assets/Unknown image (52)>)
+![Surface Mounting](<manuals/.gitbook/assets/Unknown image (52)>)
 
-![Corner Mounting](<.gitbook/assets/Unknown image (53)>)
+![Corner Mounting](<manuals/.gitbook/assets/Unknown image (53)>)
 
 4. Apply the Stabilizing Screw to the top of the PIR Camera. The Stabilizing Screw has a foolproof mechanism for correct installation.
 
-![](<.gitbook/assets/Unknown image (54)>)
+![](<manuals/.gitbook/assets/Unknown image (54)>)
 
 #### Rotating Holder
 
@@ -251,11 +251,11 @@ Note:   Ensure the tamper switch is fully depressed when hooking the PIR Camera 
 * An optional rotating holder is available, allowing the PIR Camera to be rotated horizontally and vertically.
 * The holder provides 7 angle scales for adjustment. For horizontal adjustment, the center calibration mark indicates 0 degrees. The PIR Camera can be rotated up to 15° to the left or right, with each scale representing 5°. ⚫ For vertical adjustment, the PIR Camera can be tilted downward by up to 30°.
 
-![](<.gitbook/assets/Unknown image (55)>)
+![](<manuals/.gitbook/assets/Unknown image (55)>)
 
 * To adjust the angle, loosen the **horizontal adjustment screw**or the **vertical adjustment screw** as required.
 
-![](<.gitbook/assets/Unknown image (56)>)
+![](<manuals/.gitbook/assets/Unknown image (56)>)
 
 * To mount the Rotating Holder:
   1. Use the two screw holes on the holder as a template and drill two holes in the mounting surface.
@@ -265,7 +265,7 @@ Note:   Ensure the tamper switch is fully depressed when hooking the PIR Camera 
   5. Fasten the stabilizing screw at the top of the PIR Camera.
   6. Adjust the PIR Camera to the desired angle, then tighten the adjustment screw(s) to secure the position.
 
-![](<.gitbook/assets/Unknown image (57)>)
+![](<manuals/.gitbook/assets/Unknown image (57)>)
 
 ## Installation Recommendations
 
@@ -289,11 +289,11 @@ Note:
 
 **VST-897EX Detection Range**
 
-![](<.gitbook/assets/Unknown image (58)>)
+![](<manuals/.gitbook/assets/Unknown image (58)>)
 
 ***
 
-![Pet Weight/Height: 25kg](<.gitbook/assets/Unknown image (59)>)
+![Pet Weight/Height: 25kg](<manuals/.gitbook/assets/Unknown image (59)>)
 
 **Limitations:**
 
@@ -304,16 +304,16 @@ Note:
 * The PIR Camera detects differences between the moving object and the background. It does not detect idle objects.&#x20;
 * Please install the PIR Camera straight up. Do not tilt it.
 
-![](<.gitbook/assets/Unknown image (60)>)
+![](<manuals/.gitbook/assets/Unknown image (60)>)
 
 * Avoid installing near objects that move in the wind, such as trees or hanging laundry, as this may block the device’s field of view or cause false alarms.
 
-![](<.gitbook/assets/Unknown image (61)>)
+![](<manuals/.gitbook/assets/Unknown image (61)>)
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-![](<.gitbook/assets/Unknown image (62)>)
+![](<manuals/.gitbook/assets/Unknown image (62)>)
 
 * Avoid facing the path of outdoor unit’s intake or exhaust airflow.
 
-<figure><img src=".gitbook/assets/Unknown image (63)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (63)" alt=""><figcaption></figcaption></figure>

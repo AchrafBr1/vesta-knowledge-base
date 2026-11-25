@@ -4,13 +4,13 @@
 
 ## **Smart Scenario Switch**
 
-<figure><img src=".gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
 ### Introduction
 
 WSS-4E-2W is a Four Touch Button Scenario Switch designed to control a group of pre-programmed home automation devices by simply pressing the scenario touch buttons.
 
-![](<.gitbook/assets/0 (5).jpeg>)
+![](<manuals/.gitbook/assets/0 (5).jpeg>)
 
 ### PARTS IDENTIFICATION
 
@@ -75,4 +75,4 @@ To add the WSS-4E-2W into the Control Panel, follow the learning procedures belo
   4. Screw the base into the surface.
   5. Replace the cover back onto the base and secure it by tightening the fixing screw.
 
-![](<.gitbook/assets/5 (3).jpeg>)
+![](<manuals/.gitbook/assets/5 (3).jpeg>)

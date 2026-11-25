@@ -4,7 +4,7 @@ SD-32 BUS
 
 ## Wired Smoke Detector&#x20;
 
-<figure><img src=".gitbook/assets/image (1325).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1326).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -14,7 +14,7 @@ The Wired Smoke Detector can also be interconnected with other smoke detectors i
 
 ## Parts Identification
 
-![](<.gitbook/assets/Unknown image (494)>)
+![](<manuals/.gitbook/assets/Unknown image (494)>)
 
 #### **1 LED Indicator / Test Button**
 
@@ -70,15 +70,15 @@ The Wired Smoke Detector is powered by one of the following 3 power sources:
 
 When SD-32-BUS is hardwired to the Control Panel, a 13.5V (typical) DC power supply can be provided by the Panel to the Smoke Detector.
 
-![](<.gitbook/assets/Unknown image (497)>)
+![](<manuals/.gitbook/assets/Unknown image (497)>)
 
 **12V DC Power Supply**
 
 Connect the red and black power terminals to a 12V DC power source (e.g., a PSU or a power adapter).
 
-<figure><img src=".gitbook/assets/image (1326).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1327).png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/Unknown image (499)>)
+![](<manuals/.gitbook/assets/Unknown image (499)>)
 
 **Rechargeable Battery Pack**
 
@@ -99,7 +99,7 @@ Note: The first press of the Test Button in the low battery status will mute the
 * Before connecting the Wired Smoke Detector to the system BUS, please toggle the power switch to off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-<figure><img src=".gitbook/assets/image (1327).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1328).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication on the BUS network, enable the Terminal Resistor Jumper Switches only at the two farthest endpoints to prevent signal reflection and ensure stable communication. Do not enable jumpers on intermediate BUS devices — only the two farthest nodes should have them enabled.
 
@@ -112,11 +112,11 @@ Note:
 
 * Place the BUS terminal cover onto the device. Push it downward and forward to ensure the BUS strips on the cover connect properly to the device’s connection socket, then tighten the screw to enable the BUS terminal’s function.
 
-![](<.gitbook/assets/Unknown image (501)>)
+![](<manuals/.gitbook/assets/Unknown image (501)>)
 
 * Incorrect connection will result in failure or malfunction. Ensure proper connection before supplying power.
 
-<figure><img src=".gitbook/assets/Unknown image (502)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (502)" alt=""><figcaption></figcaption></figure>
 
 ### Testing the Smoke Detector
 
@@ -157,7 +157,7 @@ The Wired Smoke Detector will activate a fire alarm when the smoke concentration
 * The Smoke Detector is interconnected with other Smoke Detectors in the alarm system. When one Smoke Detector triggers an alarm, the Control Panel will notify all interconnected Smoke Detectors to also raise their alarms, even if they have not detected smoke.
 * To stop the alarm:
   * Wait for the smoke concentration to drop below the alarm threshold, or
-  * Press the Test Button on the triggered Smoke Detector. This will also stop all interconnected Smoke Detectors. ![](<.gitbook/assets/Unknown image (503)>)_**Pressing the Test Button on any interconnected Smoke Detector will only stop the alarm of that specific unit; it will not silence the alarms across the entire system**._
+  * Press the Test Button on the triggered Smoke Detector. This will also stop all interconnected Smoke Detectors. ![](<manuals/.gitbook/assets/Unknown image (503)>)_**Pressing the Test Button on any interconnected Smoke Detector will only stop the alarm of that specific unit; it will not silence the alarms across the entire system**._
 * **(For Security System only)** Disarming the system will stop alarms activated by the Control Panel on all interconnected Smoke Detectors. However, the originally triggered Smoke Detector will continue alarming until the smoke concentration falls below the threshold or its Test Button is pressed to silence its alarm.
 
 ### Getting Started
@@ -217,7 +217,7 @@ To perform the Wired Device Test:
 
 **Step 1** On Hybrid Panel’s webpage, click “**Wired Device Test**” to access the test page. All learned-in BUS devices will be listed in the Wired Devices section.
 
-![](<.gitbook/assets/Unknown image (504)>)
+![](<manuals/.gitbook/assets/Unknown image (504)>)
 
 **Step 2** From the **Action** drop-down menu, select “**Prepare**”, then click “**Execute**”. This will initiate a 250-second execution period during which devices are prepared and tested.
 
@@ -270,7 +270,7 @@ It is recommended to write the “Replace by” date (10 years from installation
 
 ### Installation
 
-<figure><img src=".gitbook/assets/image (1328).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1329).png" alt=""><figcaption></figcaption></figure>
 
 #### Installation Guideline
 
@@ -299,16 +299,16 @@ Step 1 – Using Mounting Sheet: Place the mounting sheet on the surface to be m
 
 For easier alignment, first locate the two mounting holes farther from the inner circle edge on both the mounting sheet and the mounting bracket. Align these holes first, and the remaining ones should naturally follow.
 
-<figure><img src=".gitbook/assets/Unknown image (507)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (507)" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Unknown image (506)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (506)" alt=""><figcaption></figcaption></figure>
 
 **Step 4 – Mounting Detector**: The Smoke Detector has 4 hooks (circled in red) on its back cover. Carefully hold the Smoke Detector and fit it onto the four notches (circled in green) on the mounting bracket (FIG. 1).
 
-![](<.gitbook/assets/Unknown image (508)>) ![](<.gitbook/assets/Unknown image (509)>)
+![](<manuals/.gitbook/assets/Unknown image (508)>) ![](<manuals/.gitbook/assets/Unknown image (509)>)
 
 **Step 5:** Rotate the Smoke Detector clockwise to lock it in place (FIG. 2).
 
 **Step 6:**&#x49;nstallation is now complete (FIG. 3). You can remove the mounting sheet.
 
-![](<.gitbook/assets/Unknown image (510)>)
+![](<manuals/.gitbook/assets/Unknown image (510)>)

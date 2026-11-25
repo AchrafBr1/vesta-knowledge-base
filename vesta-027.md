@@ -4,7 +4,7 @@
 
 ## **Hardwire to Wireless Converter**&#x20;
 
-<figure><img src=".gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
 #### [VESTA-027 Specification](https://vestasecurity.eu/en/product/vesta-027/)
 
@@ -14,7 +14,7 @@ The easy-to-use Converter consists of 9 input zones, and each can be connected t
 
 ## **Parts Identification**
 
-<figure><img src=".gitbook/assets/1 (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (152).png" alt=""><figcaption></figcaption></figure>
 
 1. **LED Indicator**
    * **Input power LED1 (Green/Red):**
@@ -45,7 +45,7 @@ The easy-to-use Converter consists of 9 input zones, and each can be connected t
 
 &#x20;      ON: Press and hold the calibration button for 2 seconds.
 
-<figure><img src=".gitbook/assets/2 (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2 (157).png" alt=""><figcaption></figcaption></figure>
 
 2. **Test/Learn Button (SW11).**
 3. **Calibration Button (SW12)**
@@ -57,7 +57,7 @@ The easy-to-use Converter consists of 9 input zones, and each can be connected t
 6. **Tamper Switch Button (SW20).**
 7. **Power Terminal** (See _**Application Diagram**_ for detail.)
 
-<figure><img src=".gitbook/assets/4 (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/4 (134).png" alt=""><figcaption></figcaption></figure>
 
 8. **Rechargeable Battery Pack**
 9. **Two-pin Connector**
@@ -66,7 +66,7 @@ The easy-to-use Converter consists of 9 input zones, and each can be connected t
 
 10. **Mounting Holes**
 
-<figure><img src=".gitbook/assets/3 (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/3 (141).png" alt=""><figcaption></figcaption></figure>
 
 ## **Power Supply**
 
@@ -91,7 +91,7 @@ The easy-to-use Converter consists of 9 input zones, and each can be connected t
 
 ### **Application Diagram**
 
-![](<.gitbook/assets/2 (31).jpeg>)
+![](<manuals/.gitbook/assets/2 (31).jpeg>)
 
 The Terminal (Z1\~Z9 input zones) allow existing wired sensors to be connected to the HWC-1B Converter:
 
@@ -130,7 +130,7 @@ Zone 1 must be wired for HWC-1B to function normally and use the calibration fun
 * Refer to your Control Panel operation manual to complete the learn-in process.
 * Test/Learn button is also used for the Walk Test function. Put the panel into Walk Test mode and press the button to check the signal range and strength.
 
-<figure><img src=".gitbook/assets/5 (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/5 (132).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -162,15 +162,15 @@ HWC-1B’s own status (Low Battery, Tamper..etc) is transmitted via Zone 1.
 3. Drill holes at the mounting location and install wall plugs if required.
 4. Install mounting screws at marked location as shown below.
 
-![](<.gitbook/assets/4 (32).jpeg>)
+![](<manuals/.gitbook/assets/4 (32).jpeg>)
 
 5. Attach the HWC-1B onto the bracket as shown below.
 
-![](<.gitbook/assets/5 (31).jpeg>)
+![](<manuals/.gitbook/assets/5 (31).jpeg>)
 
 6. Hold the HWC-1B and gently push it downwards, as shown below.
 
-![](<.gitbook/assets/6 (37).jpeg>)
+![](<manuals/.gitbook/assets/6 (37).jpeg>)
 
 **B: With Pre-punched Mounting Holes:**
 

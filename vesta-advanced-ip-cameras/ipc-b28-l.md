@@ -6,9 +6,9 @@ icon: video
 
 ## 8MP Smart Dual Light Entry AI outdoor IP camera
 
-<figure><img src="../.gitbook/assets/image (60).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-B28-L/">IPC-B28-L</a></p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (61).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/en/product/IPC-B28-L/">IPC-B28-L</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 ### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-vesta-intrusion-smarthomesec.md#quick-guide)
 
@@ -21,11 +21,11 @@ icon: video
 
 {% tabs %}
 {% tab title="VFA150" %}
-<figure><img src="../.gitbook/assets/image (83).png" alt="" width="113"><figcaption><p><a href="../cameras-accessories/vfa150.md">VFA150</a></p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (84).png" alt="" width="113"><figcaption><p><a href="../cameras-accessories/vfa150.md">VFA150</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VS-1280ZJ-XS" %}
-<figure><img src="../.gitbook/assets/image (84).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vs-1280zj-xs.md">VS-1280ZJ-XS</a></p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (85).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vs-1280zj-xs.md">VS-1280ZJ-XS</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

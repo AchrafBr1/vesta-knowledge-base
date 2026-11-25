@@ -4,7 +4,7 @@
 
 ## **BUS Wired PIR Plus Glass Break Detector**&#x20;
 
-<figure><img src=".gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 ### Introduction
 
@@ -14,7 +14,7 @@ The PIR is designed to give a typical detection range of 12 meters when mounted 
 
 ### Parts Identification
 
-<figure><img src=".gitbook/assets/0 (2).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/0 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### 1 Test Button / LED Indicator
 
@@ -31,7 +31,7 @@ The PIR is designed to give a typical detection range of 12 meters when mounted 
 
 ### 6 Pet Immunity Enable / Disable Jumper Switch (JP3)
 
-<figure><img src=".gitbook/assets/5 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/5 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 **Jumper On.** The jumper link is inserted, connecting the two pins
 
@@ -118,7 +118,7 @@ After installation, IRAGS-35-BUS will automatically transmit supervisory signals
 
 The glass break detector should be tested to ensure it is able to detect glass breakage successfully.
 
-![](<.gitbook/assets/11 (2).jpeg>)
+![](<manuals/.gitbook/assets/11 (2).jpeg>)
 
 **Testing Tool**
 
@@ -126,7 +126,7 @@ Use FlexGuard FG-701 Glassbreak Simulator to create glass break sound.
 
 1. Set the switches on FG-701 to “FLEX” and “TEST” mode. Press the red start button.
 
-<figure><img src=".gitbook/assets/12.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/12.jpeg" alt=""><figcaption></figcaption></figure>
 
 2. Put FG-701 at the desired testing location on the glass point the speaker at IRAGS-35-BUS. Close the window covering if it is present.
 3. Strike the glass with a cushioned tool to create a glass striking sound. When FG-701 detects the glass striking sound, it will emit a glass break sound.&#x20;
@@ -218,15 +218,15 @@ When the PIR is powered on, its pet immunity function and sensitivity are determ
 1. On the Panel’s local webpage, go to the Device Edit page by clicking “Edit” of the IR entry.
 2. Input the PIR motion sensor configuration (4 hex) in the Sensor Setting section. Click OK to confirm.
 
-<figure><img src=".gitbook/assets/13.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/13.jpeg" alt=""><figcaption></figcaption></figure>
 
 3. Please refer to the table below for configuration details. For example, if you want to configure the following setting, _Pet Immunity **enabled**, **High** Sensitivity, Double Detection Time **5 seconds**, Sleep Timer **10 seconds**_, please input _**0311 (hex)**_.
 
-![](<.gitbook/assets/14 (2).png>)
+![](<manuals/.gitbook/assets/14 (2).png>)
 
-<figure><img src=".gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
 
 * **For Glass Break Detector**
 
@@ -237,7 +237,7 @@ Functions for the Glass Break Detector can only be set on the Control Panel’s 
 1. Click “Edit” of the Glass entry on the Control Panel’s webpage.
 2. Press the Test Button once and then the Sensor Setting section will be shown.
 
-<figure><img src=".gitbook/assets/15 (2).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/15 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 3. Fill in the configuration value according to the table below and click OK to confirm.
 
@@ -266,7 +266,7 @@ Note:
 * Before connecting the PIR motion sensor to the system bus, please switch the power off.
 * To assist with cable connections, the terminal blocks on each BUS system module are color-coded.
 
-<figure><img src=".gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication on the BUS network, enable the Terminal Resistor Jumpers only at both endpoints (the two farthest nodes) to prevent signal reflection and improve communication stability. Do NOT enable jumpers on any intermediate BUS devices --- only the two endpoints should have them enabled.
 
@@ -280,7 +280,7 @@ Note:
 * After the wires are connected and the terminal blocks are plugged to the base, re-place the device back to the base and push it downwards so that the BUS strips on the base will be well connected to the connection socket on the device for the BUS Terminal to function.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 
-![](<.gitbook/assets/17 (2).jpeg>)
+![](<manuals/.gitbook/assets/17 (2).jpeg>)
 
 ### Getting Started
 
@@ -294,7 +294,7 @@ Please follow the steps below to learn the device into the Hybrid Panel. **Step 
 
  IRAGS-35-BUS will be recognized as two separate devices (i.e., PIR & Glass Break Detector), occupying two zones after being learned into the Control Panel.
 
-<figure><img src=".gitbook/assets/18 (2).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/18 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 5. If the device is successfully learnt into the Panel, it will be displayed in the “Learned Device” section.
 
@@ -347,7 +347,7 @@ The PIR & Glass Break Detector can be factory reset to the default pet Immunity 
 * After the installation site is selected, press the Test Button to enter Test Mode. Walk around the protected area noting when the LED lights up and check that the detection coverage is adequate.
 * When detection coverage is found to be satisfying, follow the steps described in _**Mounting Method**_ section below to mount the detector.
 
-<figure><img src=".gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
 
 ### Mounting Method
 
@@ -355,49 +355,49 @@ The PIR & Glass Break Detector can be factory reset to the default pet Immunity 
 * The base has knockouts where the plastic is thinner and can be broken for mounting purpose (FIG. 1).
 * Five hook holes on the device are for hooking the device to the base (FIG. 2) during installation.
 
-<figure><img src=".gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
 
 **Surface Mounting:**
 
 1. Loosen the bottom fixing screw and detach the device and the base by sliding the device upwards and pulling the device and the base apart.
 
-<figure><img src=".gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 
 2. Break through the two surface fixing knockouts from the inside of the base; use the holes as a template and drill holes into the surface to be mounted.
 3. (Optional) Insert the wall plugs if the device is to be fixed onto plaster or bricks.
 
-<figure><img src=".gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 4. Hook the device onto the base and press the device against the base.
 
-<figure><img src=".gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 5. Push downwards the device and fasten the bottom fixingscrew to firmly secure the device to the base.
 
 <br>
 
-<figure><img src=".gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
 **Corner Mounting:**
 
 1\) Loosen the bottom fixing screw and detach the device and the base by sliding the device upwards and pulling the device and the base apart.
 
-<figure><img src=".gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
 2. Break through the two surface fixing knockouts from the inside of the base; use the holes as a template and drill holes into the surface to be mounted.
 3. (Optional) Insert the wall plugs if the device is to be fixed onto plaster or bricks.
 
-<figure><img src=".gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;&#x20;
 
 4. Push downwards the device and fasten the bottom fixing screw to firmly secure the device to the base.
 
-<figure><img src=".gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
 
 5. Hook the device onto the base and press the device against the base.
 
-<figure><img src=".gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
 6. Push downwards the device and fasten the bottom fixing screw to firmly secure the device to the base.
 
@@ -415,4 +415,4 @@ The PIR & Glass Break Detector can be factory reset to the default pet Immunity 
 
 &#x20;**Limitations**
 
-<figure><img src=".gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>

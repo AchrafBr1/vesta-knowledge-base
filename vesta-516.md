@@ -4,7 +4,7 @@ ESL-1 (White)
 
 ## Emergency Strobe Light, White colour
 
-<figure><img src=".gitbook/assets/image (1388).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1389).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -14,7 +14,7 @@ The Emergency Strobe Light can be configured to respond to the designated alarm(
 
 ## Parts Identification
 
-<figure><img src=".gitbook/assets/WINWORD_8Acv8UhKdV.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_8Acv8UhKdV.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -112,7 +112,7 @@ The triggering device’s settings also control ESL-1’s behavior. It will not 
 
 After successful learning ESL-1, navigate to the Emergency Strobe Light’s **Device Edit** page on Panel webpage.
 
-<figure><img src=".gitbook/assets/WINWORD_6QBXYi5sKe.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_6QBXYi5sKe.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -128,13 +128,13 @@ ESL-1’s all LEDs will flash once upon receiving the configuration from the Pan
 
 The setting value consists of four bytes, 8 alphanumeric characters, in Hex value.
 
-<figure><img src=".gitbook/assets/WINWORD_mQPVf2K5yV.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_mQPVf2K5yV.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:$primary;">**Byte 1 (Digits 1+2): Alarm Area**</mark>
 
 ESL-1 can be configured to respond to alarms raised in one or multiple Areas.
 
-<figure><img src=".gitbook/assets/WINWORD_sPkUFnfNtJ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_sPkUFnfNtJ.png" alt=""><figcaption></figcaption></figure>
 
 **Example 1: One Area**
 
@@ -156,7 +156,7 @@ For ESL-1 to respond, ensure the Attribute for triggering devices in the program
 
 Byte 2 controls the ESL Enable/Disable function and defines the alarm type(s) to which it responds.
 
-<figure><img src=".gitbook/assets/WINWORD_CFaUpjvqTB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_CFaUpjvqTB.png" alt=""><figcaption></figcaption></figure>
 
 **Example**
 
@@ -225,7 +225,7 @@ Select **Zone Switch On** and choose the **Zone** **number** of ESL-1 under Exec
 
 Click **Apply**. ESL-1 will flash every 2 seconds for 15 minutes.
 
-<figure><img src=".gitbook/assets/WINWORD_8zb7VZ9Ckz.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_8zb7VZ9Ckz.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 {% endtab %}
@@ -283,7 +283,7 @@ Use the two mounting holes on the mounting bracket to mount and screw the mounti
 
 Hook ESL-1 onto the mounting bracket and push it downwards to firmly secure it in place (FIG. 2).
 
-<figure><img src=".gitbook/assets/WINWORD_jzmWufWwNC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_jzmWufWwNC.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -301,7 +301,7 @@ Loosen the bottom fixing screws that secure the top cover to the device.
 
 Slide the top cover upwards (to reveal the battery compartment). This will allow access for battery as well as top cover replacement.
 
-<figure><img src=".gitbook/assets/WINWORD_sxACbFsedi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_sxACbFsedi.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

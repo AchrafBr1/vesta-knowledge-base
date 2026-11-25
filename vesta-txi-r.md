@@ -2,7 +2,7 @@
 
 ## OPTEX TXI PIR curtain detector for outdoor use with VESTA F1 wireless transmitter
 
-<figure><img src=".gitbook/assets/image (1320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1321).png" alt=""><figcaption></figcaption></figure>
 
 The TXI-R offers overhead curtain-type volumetric detection, providing stable and consistent detection thanks to OPTEX’s advanced Triple AND logic (patent pending). Designed to create a narrow detection field along the façade of a building, it enables the detection of potential intruders before they reach the premises. The TXI-R is ideal for perimeter protection in detached houses, balconies, warehouses, office buildings and retail premises, as well as for any application where it is necessary to protect the boundaries of a property.
 
@@ -52,7 +52,7 @@ With a compact, palm-sized design, the TXI-R can be installed at a height of up 
 
 1\) TXI-R
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_vF0NAYYF97.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_vF0NAYYF97.png" alt=""><figcaption></figcaption></figure>
 
 2\) VESTA-271
 
@@ -76,19 +76,19 @@ Disassemble the unit
 
 1\) Remove the lock cover
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_yA6i0zdfYu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_yA6i0zdfYu.png" alt=""><figcaption></figcaption></figure>
 
 2\) Loosen the fixing screw
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_atlUGLPhNx.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_atlUGLPhNx.png" alt=""><figcaption></figcaption></figure>
 
 3\) Open the cover
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_mXMjgdzUWy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_mXMjgdzUWy.png" alt=""><figcaption></figcaption></figure>
 
 4\) Remove the main unit
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_MnA92O53aX.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_MnA92O53aX.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -96,17 +96,17 @@ Disassemble the unit
 
 ### Detection Range
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_kqW7pDoILb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_kqW7pDoILb.png" alt=""><figcaption></figcaption></figure>
 
 ### Area Ajustment
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_twT00T4zpB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_twT00T4zpB.png" alt=""><figcaption></figcaption></figure>
 
 ### Detection Ajustment
 
 To limit the distance, use the appropriate area adjustment plate
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_jf8y4RGtW8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_jf8y4RGtW8.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -120,21 +120,21 @@ To limit the distance, use the appropriate area adjustment plate
 
 #### Standard bracket installation for wall mounting
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_pRIVFx6y7p.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_pRIVFx6y7p.png" alt=""><figcaption></figcaption></figure>
 
 #### Standard bracket installation for wall mount (Side-Bracket)
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_GqEiUHW9cV.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_GqEiUHW9cV.png" alt=""><figcaption></figcaption></figure>
 
 #### Standard bracket installation for wall mount (Back-Bracket)
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_EAS2jXG40i.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_EAS2jXG40i.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Installation Recommendations
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_Y5l2yOjLQZ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_Y5l2yOjLQZ.png" alt=""><figcaption></figcaption></figure>
 
 
 

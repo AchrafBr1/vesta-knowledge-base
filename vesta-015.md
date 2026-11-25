@@ -4,7 +4,7 @@
 
 ## **Dome PIR Motion Sensor**
 
-<figure><img src=".gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 
 [VESTA-015 Specification](https://vestasecurity.eu/en/product/vesta-015/)
 
@@ -28,7 +28,7 @@ The test button also doubles as the LED indicator. The test button is used for t
 
 2. **IR Sensor**
 
-<figure><img src=".gitbook/assets/1 (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (147).png" alt=""><figcaption></figcaption></figure>
 
 3. **Sensitivity Increaser Jumper Switch (JP3)**
 
@@ -42,7 +42,7 @@ It is a 2-pin jumper switch:
 
 
 
-<figure><img src=".gitbook/assets/2 (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2 (152).png" alt=""><figcaption></figcaption></figure>
 
 4. **Tamper Switch**
 
@@ -58,7 +58,7 @@ IRD-23SL: 1 CR123A lithium 3V battery
 7. **Hooks**
 8. **Ceiling Mounting Knockouts (Inside)**
 
-![](<.gitbook/assets/3 (29).jpeg>)
+![](<manuals/.gitbook/assets/3 (29).jpeg>)
 
 ## _**LED Indicator**_
 
@@ -130,7 +130,7 @@ To find out the “sides” of the PIR. Hold the PIR with the LED indicator poin
 
 * Refer to the diagrams below for more information.
 
-![](<.gitbook/assets/4 (56).png>)
+![](<manuals/.gitbook/assets/4 (56).png>)
 
 * **It is recommended to install the PIR in the following locations.**
   * In a ceiling area with full view of its detection coverage, unobstructed by appliances and furniture.
@@ -157,10 +157,10 @@ To find out the “sides” of the PIR. Hold the PIR with the LED indicator poin
 3. Screw the back cover onto the ceiling according to drilled holes.
 4. The back cover has numbers on the insides to mark the mounting hole number, which corresponds to the mounting hook number on the back of the main body. Align the mounting hole with the mounting hook when installing. Refer to the figure below for mounting hook and hole location.
 
-![PIR Main Body Rear View                                                                                              Back Cover Inside View](<.gitbook/assets/5 (29).jpeg>)
+![PIR Main Body Rear View                                                                                              Back Cover Inside View](<manuals/.gitbook/assets/5 (29).jpeg>)
 
 5. Install the PIR main body onto the back cover. Fit the hooks on the back cover to the mounting holes on the PIR main body
 6. &#x20;Rotate the PIR main body clockwise to lock the hooks into the mounting hole. Refer to the figure below.
 7. PIR mounting is now complete.
 
-![](<.gitbook/assets/6 (34).jpeg>)
+![](<manuals/.gitbook/assets/6 (34).jpeg>)

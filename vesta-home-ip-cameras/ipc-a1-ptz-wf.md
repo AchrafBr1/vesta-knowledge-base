@@ -6,7 +6,7 @@ icon: camera-cctv
 
 ## VESTA 3MP WiFi IP Camera with Pan/Tilt for Indoors
 
-<figure><img src="../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1029).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 

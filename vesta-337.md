@@ -4,4 +4,4 @@
 
 Siren models: Vesta-207N and VESTA-119N
 
-<figure><img src=".gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>

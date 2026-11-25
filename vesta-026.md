@@ -4,7 +4,7 @@ WLS-23
 
 ## Water Leak Sensor&#x20;
 
-<figure><img src=".gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
 #### [VESTA-026 Specification](https://vestasecurity.eu/en/product/vesta-026/)
 
@@ -22,7 +22,7 @@ WLS-23 is a Water Leak Sensor. It is capable of sending wireless signals to the 
 
 1. Learn/Test Button, aka LED Indicator&#x20;
 
-<figure><img src=".gitbook/assets/1 (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (151).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;           **LED Indication:**
 
@@ -40,7 +40,7 @@ WLS-23 is a Water Leak Sensor. It is capable of sending wireless signals to the 
 
 &#x20;            -The Water Leak Sensor is powered by one CR123 3V Lithium battery.
 
-<figure><img src=".gitbook/assets/2 (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2 (156).png" alt=""><figcaption></figcaption></figure>
 
 5. Mounting Hook
 6. Function Button (inside the cover)
@@ -49,7 +49,7 @@ WLS-23 is a Water Leak Sensor. It is capable of sending wireless signals to the 
 9. Battery Insulator
 10. Learn (characters imprinted on the back cover)
 
-<figure><img src=".gitbook/assets/3 (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/3 (140).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;      -Press once to send a temperature/humidity and supervisory signal to the coordinator.
 
@@ -102,7 +102,7 @@ WLS-23 is a Water Leak Sensor. It is capable of sending wireless signals to the 
 
 ## Installation
 
-![](<.gitbook/assets/1 (22).jpeg>)
+![](<manuals/.gitbook/assets/1 (22).jpeg>)
 
 * _Mounting_
 
@@ -132,7 +132,7 @@ There are two ways to mount the Water Sensor:
 
 A Water Sensing Cable or Water Probe Cable is available for selection. The cable can be further extended by connecting to another cable to improve the detection range.
 
-<figure><img src=".gitbook/assets/4 (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/4 (133).png" alt=""><figcaption></figcaption></figure>
 
 ## User Guidelines
 
@@ -140,11 +140,11 @@ A Water Sensing Cable or Water Probe Cable is available for selection. The cable
 * Upon receiving an alert notification from the Control Panel, unplug the Water Sensing Cable.
 * Use a towel to dry the Water Sensing Cable.
 
-![](<.gitbook/assets/4 (36).png>)
+![](<manuals/.gitbook/assets/4 (36).png>)
 
 * It is recommended to air dry residual water in a ventilated place for at least two hours before inserting the sensing cable.
 
-![](<.gitbook/assets/5 (33).png>)
+![](<manuals/.gitbook/assets/5 (33).png>)
 
 {% hint style="warning" %}
 Note:
@@ -154,4 +154,4 @@ Avoid direct or indirect sunshine.
 Improper storage can cause damage to the sensor and the cable.
 {% endhint %}
 
-![](<.gitbook/assets/6 (24).png>)
+![](<manuals/.gitbook/assets/6 (24).png>)

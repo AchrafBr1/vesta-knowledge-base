@@ -4,7 +4,7 @@
 
 ## **Voice Recognition Alarm**&#x20;
 
-<figure><img src=".gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 The Voice Recognition Alarm (VRA) recognizes preset vocal commands or keywords and activates a Help alarm. In addition to voice activation, the VRA also features a large button for users to summon help during an emergency.
 
@@ -12,7 +12,7 @@ The Voice Recognition Alarm (VRA) recognizes preset vocal commands or keywords a
 
 &#x20;                      **Front View**                                              **Back View**                                           **Side View**
 
-![](<.gitbook/assets/0 (59).jpeg>)
+![](<manuals/.gitbook/assets/0 (59).jpeg>)
 
 1. **Help Button (with Blue Backlight)**
    1. Press once to send a learn code or activate a panic alarm
@@ -52,7 +52,7 @@ Plug in a DC 5V power adpator and rotate it 90 degrees clockwise to the lock pos
 
 <table><thead><tr><th width="120">DIP</th><th width="100">DIP</th><th width="265">Search (Sensitivity Level)</th></tr></thead><tbody><tr><td><strong>Switch1</strong> </td><td><strong>Switch2</strong></td><td> </td></tr><tr><td>OFF</td><td>OFF</td><td>Low</td></tr><tr><td>ON</td><td>OFF</td><td>Medium</td></tr><tr><td>OFF</td><td>ON</td><td>High</td></tr><tr><td><strong>DIP</strong></td><td><strong>DIP</strong></td><td><strong>Function</strong></td></tr><tr><td><strong>Switch3</strong></td><td><strong>Switch4</strong></td><td>Reserved</td></tr></tbody></table>
 
-<div align="left"><figure><img src=".gitbook/assets/image (595).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="manuals/.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Note:
@@ -81,7 +81,7 @@ After Dip Switch settings are changed, please disconnect power supply (both exte
 
 &#x20;                                                                      **Ways to Seek Help**
 
-![](<.gitbook/assets/3 (79).png>)
+![](<manuals/.gitbook/assets/3 (79).png>)
 
 &#x20;                                                                               **OR**
 
@@ -109,17 +109,17 @@ Ensure that VRA is fitted at approximately chest height (around 130cm-150cm abov
 
 &#x20;                                                 Figure 1                                                           Figure 2
 
-<figure><img src=".gitbook/assets/Imagen vesta-050.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Imagen vesta-050.png" alt=""><figcaption></figcaption></figure>
 
 1. Fit the keyhole slot of VRA over the screw head. Gently and firmly push VRA downwards, as shown below. (Figure 5,6)
 
 &#x20;                          Figure 5                                                                                 Figure 6
 
-<figure><img src=".gitbook/assets/image (599).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (600).png" alt=""><figcaption></figcaption></figure>
 
 ### **Surface Placement**
 
 VRA comes with an Anti-Slip pad on its back. The device can also be deployed on a flat surface without being installed at a fixed location.
 
-![](<.gitbook/assets/9 (47).png>)
+![](<manuals/.gitbook/assets/9 (47).png>)
 

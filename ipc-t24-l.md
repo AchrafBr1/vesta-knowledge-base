@@ -3,11 +3,11 @@ hidden: true
 icon: video
 ---
 
-# VESTA ADVANCED IP CAMERA SERIES - IPC-T24-L
+# IPC-T24-L
 
 ### VESTA advanced series complete manual guide&#x20;
 
-{% file src=".gitbook/assets/VESTA Advanced Series .doc" %}
+{% file src="manuals/.gitbook/assets/VESTA Advanced Series .doc" %}
 
 {% hint style="info" %}
 **Quick login to local portal:**&#x20;
@@ -18,11 +18,11 @@ icon: video
 
 **Step 2:** Enter the username and passwor&#x64;**; the default user name of the device is “admin”**.
 
-![](<.gitbook/assets/image (863).png>)
+![](<manuals/.gitbook/assets/image (864).png>)
 
 **Step 3:** When logging in to the device for the first time, the system will pop up a “Change Password” prompt. Please change the administrator password on time and safe-keep it.
 
-![](<.gitbook/assets/image (864).png>)
+![](<manuals/.gitbook/assets/image (865).png>)
 
 
 
@@ -35,7 +35,7 @@ icon: video
 
 ### Quick Guide
 
-{% file src=".gitbook/assets/Quickly User Manual v25.pdf" %}
+{% file src="manuals/.gitbook/assets/Quickly User Manual v25.pdf" %}
 
 {% hint style="warning" %}
 _**More information will be added soon**_

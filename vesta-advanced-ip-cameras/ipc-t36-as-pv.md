@@ -6,9 +6,9 @@ icon: video
 
 ## 6MP Smart Dual Light Active Deterrence Lite AI outdoor IP dome
 
-<figure><img src="../.gitbook/assets/image (1188).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-T36-AS-PV/">IPC-T36-AS-PV</a></p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1189).png" alt="" width="375"><figcaption><p><a href="https://vestasecurity.eu/it/product/IPC-T36-AS-PV/">IPC-T36-AS-PV</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1190).png" alt=""><figcaption></figcaption></figure>
 
 ### [CAMERA MANUALS](../vesta-advanced-video/vesta-advanced-ip-camera-series-with-vesta-intrusion-smarthomesec.md#quick-guide)
 
@@ -21,14 +21,14 @@ icon: video
 
 {% tabs %}
 {% tab title="VFA137" %}
-<figure><img src="../.gitbook/assets/image (66).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137.md">VFA137</a></p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (67).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa137.md">VFA137</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFA152A-E" %}
-<figure><img src="../.gitbook/assets/image (1139).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa152a-e.md">VFA-152A-E</a></p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1140).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfa152a-e.md">VFA-152A-E</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="VFB203W" %}
-<figure><img src="../.gitbook/assets/image (58).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (59).png" alt="" width="188"><figcaption><p><a href="../cameras-accessories/vfb203w.md">VFB203W</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

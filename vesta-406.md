@@ -18,7 +18,7 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/Unknown image (432)>)
+![](<manuals/.gitbook/assets/Unknown image (432)>)
 
 #### 1. Backlit LCD Display&#x20;
 
@@ -39,16 +39,16 @@ The wired/wireless keypad can either be mounted on a flat surface or a wall with
 
 #### 7. Backlit OK Key&#x20;
 
-#### 8. Backlit Restore (![](<.gitbook/assets/Unknown image (433)>)) Key
+#### 8. Backlit Restore (![](<manuals/.gitbook/assets/Unknown image (433)>)) Key
 
 * For confirming the keyed-in data or confirming the selection.\*\*\*\*
 * This key is is used for deleting a digit, canceling the selection, aborting the current screen, and returning to the previous screen etc.
 
-#### 9. Backlit Arm/  <img src=".gitbook/assets/image (1345).png" alt="" data-size="line">Key
+#### 9. Backlit Arm/  <img src="manuals/.gitbook/assets/image (1346).png" alt="" data-size="line">Key
 
 * Use this key to move the cursor and scroll the display upwards - The key is also used for entering “Away Armed” mode.
 
-#### 10. Backlit Home Arm/ ![](<.gitbook/assets/image (1346).png>) Key
+#### 10. Backlit Home Arm/ ![](<manuals/.gitbook/assets/image (1347).png>) Key
 
 * Use this key to move the cursor and scroll the display downwards. - The key is also used for entering “Home Armed” mode.
 
@@ -80,7 +80,7 @@ If the jumper is ON, the communication ability is enhanced.&#x20;
 
 * Prepunched hole used to enhance wiring management flexibility.
 
-## Caution ![](<.gitbook/assets/Unknown image (438)>)
+## Caution ![](<manuals/.gitbook/assets/Unknown image (438)>)
 
 * Wiring of the wired/wireless keypad should only be performed by certified technician with proper knowledge and training in electric equipment.
 * Before installation or any maintenance work, make sure the power supply of the Control Panel has been disconnected.
@@ -119,13 +119,13 @@ Note: Use only the specified batteries with the device. When replacing batteries
 * Loosen KP-35-COMBO’s “B” terminal and the Control Panel’s “485B” terminal. Connect the “B” terminal to the “485B” terminal and tighten both terminal screws.
 * Power on the Control Panel and wait for the “KP-35 COMBO” to be shown on the wired/wireless keypad’s LCD screen.
 
-<figure><img src=".gitbook/assets/image (1347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1348).png" alt=""><figcaption></figcaption></figure>
 
 * The keypad terminal can be hardwired to the Control Panel. Up to four KP-35-Combos can be connected in series. The maximum wire cable length depends on the wire gauge and the total power consumption of all wired devices; for example: maximum 3000ft @ 22-AWG cable for one KP-35-Combo; maximum 1500ft @ 22-AWG cable for 2 KP-35-Combos; or maximum 1000ft @ 22-AWG cable for 3 KP-35-Combos.
 * In the picture below, KP-35-Combo-**A** and KP-35-Combo-**B** are wired correctly in series as the total wire distance of the two keypads from the Control Panel is within 1500ft. For KP-35-Combo-**C** in the picture below, it is **NOT** wired correctly as it is farther than 1000ft from the Control Panel.
 * For optimal communication of the wired connection between the Control Panel and the connected BUS devices, ensure the furthest BUS device’s Communication Jumper Switch and the Control Panel’s J53 Jumper Switch are set to ON to serve as a terminating resistor. Be sure to only enable the aforementioned 2 jumper switches and do not set the jumper switches to ON for any other BUS devices in between. For example, for the\*\*\*\*KP-35-Combo-**B** in the picture below, before tightening the cover fixing screw of the keypad, ensure its jumper switch is set to ON to serve as a terminating resistor since it has the furthest distance from the Control Panel.
 
-<figure><img src=".gitbook/assets/image (1348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1349).png" alt=""><figcaption></figcaption></figure>
 
 ### Tamper Protection
 
@@ -160,7 +160,7 @@ After entering the PIN code, press the **Arm/Home Arm/OK** key to enter **Away A
 * The system is always automatically disarmed upon entering User Menu.
 * The keypad will exit User Menu automatically after 20 seconds of inactivity.
 
-<figure><img src=".gitbook/assets/image (1349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1350).png" alt=""><figcaption></figcaption></figure>
 
 * **Away Arm:** Select “Away Arm” and press the OK key to change the system mode to “Away Armed”.
 * **Home Arm:** Select “Home Arm” and press the OK key to change the system mode to “Home Armed”.
@@ -177,7 +177,7 @@ Note:&#x20;
 * **Log**: Select “Log” and press OK to view the system log. Use  and  keys to view the events and press  key to return to User Menu.
 * **Setting:**&#x53;elect “Setting” and press OK enter setting menu. Use  and  keys to select setting options and press  key to return to User Menu.
 
-<figure><img src=".gitbook/assets/image (1350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1351).png" alt=""><figcaption></figcaption></figure>
 
 ### Mode Change Result
 
@@ -237,19 +237,19 @@ In addition to the wireless operation to join the system network as stated above
 
 **Step 2.** Choose a located area and a free zone to join the system network.
 
-<figure><img src=".gitbook/assets/image (1351).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1352).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** Enter the PIN Code of the located area.
 
-<figure><img src=".gitbook/assets/image (1352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1353).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Enter Installer Code. (Factory Default: 7982)
 
-<figure><img src=".gitbook/assets/image (1353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1354).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** The keypad is added to the located area and the zone chosen.
 
-<figure><img src=".gitbook/assets/image (1354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1355).png" alt=""><figcaption></figcaption></figure>
 
 ### Identification
 

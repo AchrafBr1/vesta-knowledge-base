@@ -28,7 +28,7 @@ The **Vesta-462** and **Vesta-463** series are a range of **Vesta Home** wireles
 
 Designed to integrate seamlessly with the Vesta Home ecosystem, these cameras offer flexible placement and dependable performance for residential security applications. Their long-lasting rechargeable batteries can be conveniently recharged using the **included solar panel**, helping to extend operating time, reduce maintenance, and provide continuous protection with minimal user intervention.
 
-<figure><img src="../.gitbook/assets/POWERPNT_oxztUToYCW.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/POWERPNT_oxztUToYCW.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/IeRcfvEhZXE" %}
 
@@ -46,7 +46,7 @@ Note:&#x20;
 {% step %}
 ### Login as User in the SmartHomeSec app
 
-<figure><img src="../.gitbook/assets/image (1369).png" alt=""><figcaption><p>STEP 1                                                       STEP 2                                                     STEP 3</p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1370).png" alt=""><figcaption><p>STEP 1                                                       STEP 2                                                     STEP 3</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -64,19 +64,19 @@ Note:&#x20;
 {% step %}
 ### Press the VESTA Home icon
 
-<figure><img src="../.gitbook/assets/2 (171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/2 (171).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Scan the Camera QR code&#x20;
 
-<figure><img src="../.gitbook/assets/3 (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/3 (152).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Select Add to Cloud and press Next&#x20;
 
-<figure><img src="../.gitbook/assets/4 (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/4 (142).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -84,21 +84,21 @@ Note:&#x20;
 {% step %}
 ### Reset the camera to its factory settings by pressing the reset button.
 
-<figure><img src="../.gitbook/assets/POWERPNT_SocPwy1sqt.png" alt=""><figcaption><p>                                                                                               VESTA-462</p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/POWERPNT_SocPwy1sqt.png" alt=""><figcaption><p>                                                                                               VESTA-462</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/reset.png" alt=""><figcaption><p>VESTA-463</p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/reset.png" alt=""><figcaption><p>VESTA-463</p></figcaption></figure>
 
 {% hint style="warning" %}
 Wait for the LED to flash <mark style="color:green;">GREEN</mark> before proceeding and pressing the Next button.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/WhatsApp.Root_krtioL10Ho.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/WhatsApp.Root_krtioL10Ho.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Select the Bluetooth method to send the Wi-Fi credentials to the camera, then press 'Next'.
 
-<figure><img src="../.gitbook/assets/8 (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/8 (106).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -108,13 +108,13 @@ Wait for the LED to flash <mark style="color:green;">GREEN</mark> before proceed
 Note: Your smartphone must be connected to the same Wi-Fi network
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/9 (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/9 (105).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### The camera has been added successfully.
 
-<figure><img src="../.gitbook/assets/10 (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/10 (161).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -136,7 +136,7 @@ To continue:
 * Check if the camera's <mark style="color:green;">**GREEN LED**</mark> is **solid ON** (not blinking).
 * If it is, go back to the previous step and **select Skip (My camera is already connected to the internet)** — the setup should then work correctly.
 
-![](../.gitbook/assets/note1.png)
+![](../manuals/.gitbook/assets/note1.png)
 {% endhint %}
 
 ***

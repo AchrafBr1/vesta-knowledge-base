@@ -18,7 +18,7 @@ The Outdoor Keypad is built with an IP66 rating for dust ingress and high-pressu
 
 ### Identifying the Parts
 
-<figure><img src=".gitbook/assets/image (1329).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1330).png" alt=""><figcaption></figcaption></figure>
 
 1. **Mode & Status LED Indicator Bar**
 2. **Panic Alarm**
@@ -159,13 +159,13 @@ The PIN Codes are managed through the Control Panel’s programming webpage, ref
 
 The **“PIN Code (NEW)”** page is used to set PIN codes for multiple control panel area. Enter a **4-digit** PIN Code and select which area the PIN Code should be applied to.
 
-<figure><img src=".gitbook/assets/image (1330).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1331).png" alt=""><figcaption></figcaption></figure>
 
 If a PIN is assigned to multiple areas in **“PIN Code (NEW)”** page, the system automatically affixes the area number before the PIN in **“PIN Code”** page. For example, when the PIN 1234 is assigned to Areas 1, 2, and 3, the system automatically updates the PINs to **01**1234 for Area 1, **02**1234 for Area 2, and **03**1234 for Area 3.
 
 In **User Code** column on the **PIN Code** page, the first two digits represent the area to which this PIN is assigned. If users change the PIN code here, the new settings will also be updated to the **PIN Code (NEW)** page.
 
-<figure><img src=".gitbook/assets/image (1331).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1332).png" alt=""><figcaption></figcaption></figure>
 
 ### NFC Tag Configuration
 
@@ -185,7 +185,7 @@ When the system is under **Disarm** mode, apply an unregistered tag to the NFC R
 
 Navigate to the PIN Code page on the Panel webpage. Click **Load**. The tag number will appear.
 
-<figure><img src=".gitbook/assets/image (1332).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1333).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -509,7 +509,7 @@ Enter a **4-digit** hexadecimal (hex) value into KP-EX Configuration 1 (see the 
 
 ## Installation
 
-<figure><img src=".gitbook/assets/image (1333).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1334).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}

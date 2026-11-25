@@ -4,7 +4,7 @@
 
 ## **Power Switch Series**
 
-<figure><img src=".gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -24,7 +24,7 @@ The integration of the Power Switch into your home automation system will allow 
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/1 (99).jpeg>)
+![](<manuals/.gitbook/assets/1 (99).jpeg>)
 
 **1. Test Button aka LED indicator**
 

@@ -6,13 +6,13 @@ description: RP-32-SF1
 
 ## **Repeater SF1**
 
-<figure><img src=".gitbook/assets/image (1035).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1036).png" alt=""><figcaption></figcaption></figure>
 
 The Repeater is designed to increase the effectiveness and versatility of the alarm system. It is a device that makes your system more powerful by increasing the maximum possible distance between the Main Unit (Control Panel) and the Devices.
 
 ## Identifying the Parts
 
-<figure><img src=".gitbook/assets/image (935).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (936).png" alt=""><figcaption></figcaption></figure>
 
 1. **Power LED (Green)**
 
@@ -58,13 +58,13 @@ The DC power jack and plug provide twist-lock feature that can prevent accidenta
 
 Step 1 Align the arc parts of the plug with the arc parts on top/bottom of the DC jack slot, and fit the plug into the slot.
 
-![](<.gitbook/assets/1 (9).jpeg>)
+![](<manuals/.gitbook/assets/1 (9).jpeg>)
 
 Step 2 Push the plug into place, and make a quarter turn clockwise to lock the plug.
 
-<figure><img src=".gitbook/assets/4 (5).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/4 (5).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5 (6).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/5 (6).jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note:
@@ -128,9 +128,9 @@ After the repeater is learned into the Control Panel, proceed to program repeate
 
 Go to the **Repeater Setting** on Panel’s webpage.
 
-<figure><img src=".gitbook/assets/6 (6).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/6 (6).jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/7 (4).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/7 (4).jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Learning Device into the Repeater
 
@@ -176,7 +176,7 @@ Note:
 If a child node device is not yet learned into the Control Panel, “Unknown Type” and “Device Not Existed” will be displayed. Make sure to learn the device into the Control Panel for the Panel to recognize it.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/10 (2).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/10 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Delete Device/Repeaters from the Repeater
 
@@ -190,13 +190,13 @@ Follow these simple steps from the panel’s local interface:
 1. **Open the panel in your web browser** (same as explained previously).
 2.  **Go to the “Panel” tab**.
 
-    <figure><img src=".gitbook/assets/image (1022).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="manuals/.gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
 3.  **In the repeater section, select “Edit”**.
 
-    <figure><img src=".gitbook/assets/image (1023).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="manuals/.gitbook/assets/image (1024).png" alt=""><figcaption></figcaption></figure>
 4.  **Copy the RF ID of each repeater** you want to add.
 
-    <figure><img src=".gitbook/assets/image (1024).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="manuals/.gitbook/assets/image (1025).png" alt=""><figcaption></figcaption></figure>
 5. **Go to the settings of the main repeater** (the one that will include the others).
 6. **Add each repeater in order**:
    * Enter the order number (1, 2, 3…).
@@ -215,45 +215,45 @@ It will also be possible to do this from SmartHomeSec from the end of September 
 
 ## RP Connection Map (Home Portal Server: Installer Web/App)
 
-Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<.gitbook/assets/11 (5).jpeg>) will be
+Please log in to Home Portal Server with the **Installer account**. Go to **Main Page** > **Device List**. If the Panel has learned in RP-32 Repeater(s), the **RP Connection Map icon** ![](<manuals/.gitbook/assets/11 (5).jpeg>) will be
 
 displayed besides the Device List header.
 
-<figure><img src=".gitbook/assets/12 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/12 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-Clicking on the icon ![](<.gitbook/assets/image (924).png>) will pop up the RP Connection Map.
+Clicking on the icon ![](<manuals/.gitbook/assets/image (925).png>) will pop up the RP Connection Map.
 
-<figure><img src=".gitbook/assets/14 (2).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/14 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 The **Panel**, the **Repeater/RF Devices**, and **the RF Device(s) that is/are connected to Repeater** will be displayed from the left column to the right column on the map.
 
 If no devices are connected to any Repeater, only two columns (Panel, Repeater/Devices) will be shown on the map.
 
-* Zoom in and Zoom out: Use the Zoom in ![](.gitbook/assets/24.jpeg) and Zoom out <img src=".gitbook/assets/image (925).png" alt="" data-size="line"> buttons on the lower right,\
+* Zoom in and Zoom out: Use the Zoom in ![](manuals/.gitbook/assets/24.jpeg) and Zoom out <img src="manuals/.gitbook/assets/image (926).png" alt="" data-size="line"> buttons on the lower right,\
   or scroll with the mouse wheel to zoom in and out on the Map
-* Refresh: Click <img src=".gitbook/assets/image (926).png" alt="" data-size="line"> to get the latest Repeater connection status.
-* Edit: Click <img src=".gitbook/assets/image (927).png" alt="" data-size="line"> to enter Edit Mode, and then click an individual Repeater icon <img src=".gitbook/assets/image (928).png" alt="" data-size="line"> to\
+* Refresh: Click <img src="manuals/.gitbook/assets/image (927).png" alt="" data-size="line"> to get the latest Repeater connection status.
+* Edit: Click <img src="manuals/.gitbook/assets/image (928).png" alt="" data-size="line"> to enter Edit Mode, and then click an individual Repeater icon <img src="manuals/.gitbook/assets/image (929).png" alt="" data-size="line"> to\
   access the settings page for that repeater.
 * **Edit Mode:** In Edit Mode, only Repeater icons are highlighted. Click on a Repeater\
   icon to access its settings page.
 
-<figure><img src=".gitbook/assets/20 (3).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/20 (3).jpeg" alt=""><figcaption></figcaption></figure>
 
-* **Repeater Setting Page**: The Repeater Setting page lists the devices that are connected to the repeater. You can add / delete devices by clicking ![](.gitbook/assets/24.jpeg) / ![](.gitbook/assets/23.jpeg)
+* **Repeater Setting Page**: The Repeater Setting page lists the devices that are connected to the repeater. You can add / delete devices by clicking ![](manuals/.gitbook/assets/24.jpeg) / ![](manuals/.gitbook/assets/23.jpeg)
 
-<figure><img src=".gitbook/assets/21.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/21.jpeg" alt=""><figcaption></figcaption></figure>
 
 **Add Device**:
 
-After clicking ![](.gitbook/assets/24.jpeg), the Add Device list will pop up, displaying devices that are not connected to any Repeater and are available to be added to the current Repeater. Select the device(s) by checking the box(es), then click Submit to add the selected device(s) to the Repeater.
+After clicking ![](manuals/.gitbook/assets/24.jpeg), the Add Device list will pop up, displaying devices that are not connected to any Repeater and are available to be added to the current Repeater. Select the device(s) by checking the box(es), then click Submit to add the selected device(s) to the Repeater.
 
-<figure><img src=".gitbook/assets/25.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/25.jpeg" alt=""><figcaption></figcaption></figure>
 
 **Remove Device**:
 
-After clicking ![](.gitbook/assets/23.jpeg), the Delete Device list will pop up, displaying devices that are connected to the current Repeater. Select the device(s) by checking the box(es), then click Delete to remove the selected device(s) from the Repeater.
+After clicking ![](manuals/.gitbook/assets/23.jpeg), the Delete Device list will pop up, displaying devices that are connected to the current Repeater. Select the device(s) by checking the box(es), then click Delete to remove the selected device(s) from the Repeater.
 
-<figure><img src=".gitbook/assets/image (929).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (930).png" alt=""><figcaption></figcaption></figure>
 
 After exiting Edit mode, the third column of devices connected to the Repeater(s) will be updated immediately.
 
@@ -304,7 +304,7 @@ In the example below when one repeater is used:
 
 Example
 
-<figure><img src=".gitbook/assets/image (930).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (931).png" alt=""><figcaption></figcaption></figure>
 
 ### Multiple Repeaters
 
@@ -325,7 +325,7 @@ In Example 2 (star connection), where the Device 5 is located between the RF cov
 * Device 5 has to be learned into One Repeater Only (**either Repeater E only or Repeater F only**). Do NOT learn Device 5 into both repeaters.
 * Device 5 should also be learned into the Control Panel.
 
-<figure><img src=".gitbook/assets/image (931).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (932).png" alt=""><figcaption></figcaption></figure>
 
 When linking repeaters to form a transmission replay, please use no more than two layers of\
 repeaters. Only the MDC-5, IR-35, and SD-32 models are compatible with this configuration.
@@ -337,7 +337,7 @@ Device must all be learned into the Control Panel.
 Learn the Device into its closest repeater (Repeater B), and learn Repeater B into Repeater A. (Do\
 not learn Repeater A into Repeater B.)
 
-<figure><img src=".gitbook/assets/image (1063).png" alt=""><figcaption><p>Exemple 3</p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1064).png" alt=""><figcaption><p>Exemple 3</p></figcaption></figure>
 
 ## How to mount the Repeater
 
@@ -347,15 +347,15 @@ Step 1 Using the holes of the Mounting Bracket as a template, drill holes into t
 
 Step 2 Insert the wall plugs if fixing into plaster or brick. Screw the Mounting Bracket to the wall.
 
-<figure><img src=".gitbook/assets/image (932).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (933).png" alt=""><figcaption></figcaption></figure>
 
 Step 3 Hook the Repeater onto the Wall Mounting Bracket (with the Mounting Holes of the Repeater).
 
-<figure><img src=".gitbook/assets/image (933).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
 
 Step 4 Hold the Repeater and gently push it downwards as shown below.
 
-<figure><img src=".gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (935).png" alt=""><figcaption></figcaption></figure>
 
 ## Trubleshoot
 

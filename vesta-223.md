@@ -4,13 +4,13 @@
 
 ## **Ambient Light, Humidity and Temperature Sensor**
 
-<figure><img src=".gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
 LMHT-3 is an Ambient Light, Humidity and Temperature Sensor. It monitors your home environment and transmits measured Illuminance (lux), humidity and temperature to the Control Panel.
 
-![](<.gitbook/assets/0 (113).jpeg>)
+![](<manuals/.gitbook/assets/0 (113).jpeg>)
 
 ## **Parts Identification**
 
@@ -59,7 +59,7 @@ The sensor can be mounted using two methods: Self-adhesive or Screw mounting.
 3. Remove the other covering and firmly place/press the device in the desired location.
 4. Do not use the Self-adhesive mounting method on poorly painted and/or rough surfaces.
 
-![](<.gitbook/assets/1 (100).jpeg>)
+![](<manuals/.gitbook/assets/1 (100).jpeg>)
 
 #### **Screw Mounting**
 

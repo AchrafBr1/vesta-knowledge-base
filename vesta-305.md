@@ -4,7 +4,7 @@
 
 ## **Series Programmable Output Expansion Module**
 
-<figure><img src=".gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 ## **Introduction**
 
@@ -20,7 +20,7 @@ The WEPC-1 Series Programmable Output Expansion Module is designed to provide pr
 
 **Front View** **Back View**
 
-![Internal View](<.gitbook/assets/1 (20).jpeg>)
+![Internal View](<manuals/.gitbook/assets/1 (20).jpeg>)
 
 1. **Power LED (Red)**
 
@@ -100,7 +100,7 @@ Follow these steps to remove the battery check:
 1. Remove the device from the Control Panel.
    1.
 
-       <figure><img src=".gitbook/assets/image (1357).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="manuals/.gitbook/assets/image (1358).png" alt=""><figcaption></figcaption></figure>
 2. Set the <mark style="color:red;">**J8**</mark> jumper switch to **`ON`**.
 3. Add the expander to the Control Panel again.
 
@@ -121,18 +121,18 @@ WEPC-1Series has two Tamper Switches; each comes with a different function.
 * Before connection, make sure the power supply has been disconnected, and the panel battery switch has been slid to OFF position.
 * To assist with cable connections, the terminal blocks on each system module are color-coded.
 
-<figure><img src=".gitbook/assets/10 (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/10 (140).png" alt=""><figcaption></figcaption></figure>
 
 * For optimal communication of the wired connection between the Control Panel and the connected BUS devices, ensure the furthest BUS device’s Communication Jumper Switch and Control Panel’s J53 Jumper Switch are set to ON to serve as a terminating resistor. Be sure to only enable the aforementioned 2 jumper switches, and do not set the jumper switches to ON for any other BUS devices in between.
 * The WEPC-1 series can be connected to and powered by either the Control Panel via the BUS terminal or the external power via the 12V adaptor. If the expansion module is using external power, be sure to bypass the red VDD terminal on the Control Panel using the Wago 221 Splicing Connector.
 * Incorrect connections will result in failure or improper operation. Inspect wiring and ensure proper connections before applying power.
 * The following diagram shows how WEPC-1 is connected to and powered by the Hybrid Panel.
 
-<figure><img src=".gitbook/assets/305.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/305.jpg" alt=""><figcaption></figcaption></figure>
 
 * The following is the connection of WEPC-1B to the Hybrid Panel, with WEPC-1B being powered by the external power source.
 
-![](<.gitbook/assets/4 (17).jpeg>)
+![](<manuals/.gitbook/assets/4 (17).jpeg>)
 
 {% hint style="warning" %}
 Note:
@@ -187,7 +187,7 @@ To locate the Programmable Output Expansion Module in the BUS system:
 
 **Step 1.** On Hybrid Panel’s webpage, click “Identify” under the device list after the Expander’s device column entry.
 
-![](<.gitbook/assets/5 (23).png>)
+![](<manuals/.gitbook/assets/5 (23).png>)
 
 **Step 2.** If the Programmable Output Expansion Module receives the signal from the Hybrid Panel, the webpage will display a success message and the WEPC-1(B)’s power LED indicator will flash for 10 times to indicate where it is to the user.
 
@@ -217,11 +217,11 @@ If there is no response from the Panel after the press of test button, it means 
 * By default, the N.C and COM are set as short circuited.
 * You may set the N.O. and COM as the short circuit by turning on the power switch through the programming web page.
 
-![Default Setting](<.gitbook/assets/6 (17).jpeg>) ![Setting by Programming Page](<.gitbook/assets/7 (15).jpeg>)
+![Default Setting](<manuals/.gitbook/assets/6 (17).jpeg>) ![Setting by Programming Page](<manuals/.gitbook/assets/7 (15).jpeg>)
 
 ## **How to Mount the Programmable Output Expansion Module**
 
-![](<.gitbook/assets/8 (13).jpeg>)
+![](<manuals/.gitbook/assets/8 (13).jpeg>)
 
 The Programmable Output Expansion Module can be mounted on the wall as the steps below:
 

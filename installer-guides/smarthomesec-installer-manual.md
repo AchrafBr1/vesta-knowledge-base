@@ -7,4 +7,4 @@ icon: mobile-button
 
 
 
-{% file src="../.gitbook/assets/INSTALLER MANUAL_Model HSGW&HyBRID_ENG_V0.1.pdf" %}
+{% file src="../manuals/.gitbook/assets/INSTALLER MANUAL_Model HSGW&HyBRID_ENG_V0.1.pdf" %}

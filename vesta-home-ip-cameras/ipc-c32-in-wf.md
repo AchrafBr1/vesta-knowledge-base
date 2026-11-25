@@ -6,7 +6,7 @@ icon: camera-cctv
 
 ## VESTA 3MP WiFi IP camera for indoor use
 
-<figure><img src="../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 ### Specifications
 

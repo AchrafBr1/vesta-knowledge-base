@@ -6,4 +6,4 @@
 * Rechargeable AA Ni-Mh battery pack
 * Capacity 2300 mA
 
-<figure><img src=".gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ DC-23Z2-F1-2W-868
 
 ## Door Contact with Wired Input (N.C or Roller Shutter)
 
-<figure><img src=".gitbook/assets/image (1270).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1271).png" alt="" width="375"><figcaption></figcaption></figure>
 
 The Door Contact is used to detect the opening and closing of doors and windows. Typically the Door Contact is fixed to the door frame and the actuating magnet is fixed to the door. When the door opens, the magnet is moved away from the Door Contact and an internal magnetic switch will be activated causing the Door Contact to transmit an alarm.&#x20;
 
@@ -14,7 +14,7 @@ A PCB tamper switch protects the enclosure from being opened or being removed fr
 
 <p align="right"> </p>
 
-<figure><img src=".gitbook/assets/unknown.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/unknown.jpeg" alt=""><figcaption></figcaption></figure>
 
 #### 1.       RED LED indicator Test Button&#x20;
 
@@ -114,7 +114,7 @@ If you want to disable one of the functions, remove its corresponding zone from 
 * Find a suitable location close to your door/window to install the Door Contact.
 * The Door Contact has 2 rib-marks on one side (refer to the picture), marking the internal magnet switch location. The door contact should be installed either upright or inverted to ensure that the rib-marked side faces the magnet.&#x20;
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * To mount the Door Contact:
 
@@ -148,7 +148,7 @@ d)          Installation is now complete.
 
 ## Internal Jumper and Terminal&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **1.  Extension Terminal**
 
@@ -238,7 +238,7 @@ The Extension terminal may be useful for the following situations:
 * Any dry contact device with N.C. (Normal Close) loop can be connected to the Extension Terminal making the Door Contact serve as an Universal Transmitter.
 * Multiple dry contact device can be wired together with Door Contact, as show in diagram.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Roller Shutter**
 

@@ -4,7 +4,7 @@ EMPTY DEMO CASE
 
 ## VESTA demo kit case empty
 
-<figure><img src=".gitbook/assets/image (1062).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1063).png" alt=""><figcaption></figcaption></figure>
 
 ### **Specifications**
 

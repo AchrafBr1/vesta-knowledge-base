@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## VESTA aluminum wall bracket
 
-<figure><img src="../.gitbook/assets/image (51).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (52).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Specifications
 

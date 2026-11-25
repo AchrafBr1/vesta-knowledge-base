@@ -4,7 +4,7 @@ DIO-52-B
 
 ## DI/DO Module&#x20;
 
-<figure><img src=".gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
 #### [VESTA-028 Specification](https://vestasecurity.eu/en/product/vesta-028/)
 
@@ -16,7 +16,7 @@ The DI/DO module has built-in Digital Input and Digital Output terminals. It can
 
 The DIO-52-B can also be connected to separate devices. With the Home Automation rule set in the Panel, the device connected to its DI point can be turned into the trigger of events, and its DO point into the responder of events. When “Input Follower Mode” is selected in the Control Panel, the DO terminal is interconnected to the DI terminal, and the DO terminal device will be activated by the DI terminal device trigger.
 
-<figure><img src=".gitbook/assets/1 (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (153).png" alt=""><figcaption></figcaption></figure>
 
 ## **Parts Identification**
 
@@ -93,9 +93,9 @@ When learnt into the Control Panel, the DIO-52-B will be recognized as 2 separat
 
 The DI/DO module can operate according to different modes selected on the Control Panel webpage or Home Portal Server (the Mode selection function is not available in Vesta SmartHomeSec App). Please select the mode in the **DO Device Edit** page.
 
-| **Control Panel webpage**                                          | **Home Portal Server**                                             |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/1 (57).png" alt="" data-size="original"> | <img src=".gitbook/assets/2 (55).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                                  | **Home Portal Server**                                                     |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <img src="manuals/.gitbook/assets/1 (57).png" alt="" data-size="original"> | <img src="manuals/.gitbook/assets/2 (55).png" alt="" data-size="original"> |
 
 ### **Appliance Control:**
 
@@ -105,11 +105,11 @@ The output terminal is used to receive an on/off signal from the Control Panel t
 
 When the “Appliance Control” mode is selected, you can remotely turn on/off the connected device from the Control Panel webpage, Home Portal Server, or Vesta Home 5 App, but the output following the input setting in DO will be deactivated. You can program Home Automation rules, Scenes on the Panel webpage or Home Portal Server to integrate the device connected to DIO-52-B with other devices in the Control Panel.
 
-<figure><img src=".gitbook/assets/2 (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2 (158).png" alt=""><figcaption></figcaption></figure>
 
 Example of DI/DO practice for Appliance Control:
 
-![](<.gitbook/assets/4 (38).png>)
+![](<manuals/.gitbook/assets/4 (38).png>)
 
 ### **Separate Devices:**
 
@@ -121,15 +121,15 @@ Example of DI/DO practice for Separate Devices:
 
 DI input terminal is connected to a water leakage sensor, and the DO output is connected to a water valve. By setting a Home Automation rule on HPS, the Panel will automatically turn off the water valve when the water leakage sensor is triggered.
 
-| **DI settings**                                                    | **DO settings**                                                    |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/5 (35).png" alt="" data-size="original"> | <img src=".gitbook/assets/6 (26).png" alt="" data-size="original"> |
+| **DI settings**                                                            | **DO settings**                                                            |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <img src="manuals/.gitbook/assets/5 (35).png" alt="" data-size="original"> | <img src="manuals/.gitbook/assets/6 (26).png" alt="" data-size="original"> |
 
-| **Home Automation rule**                                           |
-| ------------------------------------------------------------------ |
-| <img src=".gitbook/assets/7 (25).png" alt="" data-size="original"> |
+| **Home Automation rule**                                                   |
+| -------------------------------------------------------------------------- |
+| <img src="manuals/.gitbook/assets/7 (25).png" alt="" data-size="original"> |
 
-![](<.gitbook/assets/8 (25).png>)
+![](<manuals/.gitbook/assets/8 (25).png>)
 
 ### **Input Follower:**
 
@@ -143,9 +143,9 @@ Example of DI/DO practice for Input Follower:
 
 After selecting the “Input Follower” mode on the DO device edit page, select “Latch” for the Output Follow Input setting. The output terminal device will be activated instantly when the input terminal device is triggered.
 
-![](<.gitbook/assets/9 (31).png>)
+![](<manuals/.gitbook/assets/9 (31).png>)
 
-![](<.gitbook/assets/10 (67).png>)
+![](<manuals/.gitbook/assets/10 (67).png>)
 
 ## _**DI and DO Settings**_
 
@@ -153,9 +153,9 @@ After selecting the “Input Follower” mode on the DO device edit page, select
 
 Program the DO settings in **DO Device Edit** page on Panel webpage or Home Portal server.
 
-| **Control Panel webpage**                                           | **Home Portal Server**                                              |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src=".gitbook/assets/11 (37).png" alt="" data-size="original"> | <img src=".gitbook/assets/12 (7).jpeg" alt="" data-size="original"> |
+| **Control Panel webpage**                                                   | **Home Portal Server**                                                      |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| <img src="manuals/.gitbook/assets/11 (37).png" alt="" data-size="original"> | <img src="manuals/.gitbook/assets/12 (7).jpeg" alt="" data-size="original"> |
 
 Switch on via APP:
 
@@ -183,9 +183,9 @@ Operation Mode: Select the Operation Mode for DIO-52-B. Please refer to the prev
 
 Program the DI settings in the **DI Device Edit** page on the Panel webpage or Home Portal server.
 
-| **Control Panel webpage**                                           | **Home Portal Server**                                              |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src=".gitbook/assets/13 (27).png" alt="" data-size="original"> | <img src=".gitbook/assets/14 (22).png" alt="" data-size="original"> |
+| **Control Panel webpage**                                                   | **Home Portal Server**                                                      |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| <img src="manuals/.gitbook/assets/13 (27).png" alt="" data-size="original"> | <img src="manuals/.gitbook/assets/14 (22).png" alt="" data-size="original"> |
 
 Status for 0: Enter the Status 0 description for the Input terminal.
 

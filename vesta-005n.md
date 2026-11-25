@@ -4,7 +4,7 @@
 
 ## **AC Powered Indoor Siren**
 
-<figure><img src=".gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 #### [VESTA-005N Specification](https://vestasecurity.eu/en/product/vesta-005n/)
 
@@ -14,7 +14,7 @@ SRV-23B is an AC-powered indoor siren and doorbell chime with battery backup. Wi
 
 **Parts Identification**
 
-![](<.gitbook/assets/0 (40).jpeg>)
+![](<manuals/.gitbook/assets/0 (40).jpeg>)
 
 1. **Test Button/LED Indicator**
    * Press once to send a test/learn code.

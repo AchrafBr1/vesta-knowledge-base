@@ -8,7 +8,7 @@ The Remote Controller is used to arm the system in Home or Away Mode, disarm the
 
 ## Identifying the Parts
 
-<figure><img src=".gitbook/assets/WINWORD_H3L7Nqr2V6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_H3L7Nqr2V6.png" alt=""><figcaption></figcaption></figure>
 
 ### 1 Arm Button
 
@@ -101,7 +101,7 @@ If the Control Panel receives the signal from the Remote Controller successfully
 
 The process is completed when the **Version** information appears on **Device Edit** page.
 
-<figure><img src=".gitbook/assets/WINWORD_BPVScKYM8q.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_BPVScKYM8q.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -122,7 +122,7 @@ When enabled, pressing the Panic Button causes the LED indicator to show the cur
 2. Insert the battery under the battery retaining clip with the positive (+) side facing up, ensuring it is fully seated in the compartment.
 3. Align the battery cover with the slot, then press it inward until it clicks.
 
-<figure><img src=".gitbook/assets/WINWORD_FiAmcqt497.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_FiAmcqt497.png" alt=""><figcaption></figcaption></figure>
 
 ### Battery Removal
 

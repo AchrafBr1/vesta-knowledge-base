@@ -27,7 +27,7 @@ Connect the 2-pin cable to the **power connector on the BCU-5 receiver**.
 
 
 
-<figure><img src="../.gitbook/assets/OPTEX 2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/OPTEX 2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -43,7 +43,7 @@ Connect it together with the **yellow ALARM NC wire**.
 
 ### Wiring diagram
 
-<figure><img src="../.gitbook/assets/OPTEX FIX (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/OPTEX FIX (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

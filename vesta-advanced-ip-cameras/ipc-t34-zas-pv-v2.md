@@ -7,7 +7,7 @@ icon: video
 
 # IPC-T34-ZAS-PV-V2
 
-<figure><img src="../.gitbook/assets/image (1384).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1385).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <details open>
 

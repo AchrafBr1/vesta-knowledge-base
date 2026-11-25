@@ -2,11 +2,11 @@
 
 ## **ZigBee Dongle**
 
-<figure><img src=".gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
 The ZigBee Dongle designed to be used with Climax Control Panels to provide extra ZigBee device compatibility. It enables the Control Panel to learn in and control various ZigBee devices.
 
-![](<.gitbook/assets/0 (58).jpeg>)
+![](<manuals/.gitbook/assets/0 (58).jpeg>)
 
 ## **Identifying the Parts**
 

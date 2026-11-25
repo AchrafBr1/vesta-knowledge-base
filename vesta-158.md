@@ -4,7 +4,7 @@
 
 ## TEMPERATURE SENSOR WITH EXTERNAL PROBE VESTA
 
-<figure><img src=".gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 TAS-9E is temperature wireless sensor device. It transmits temperature condition to the Control Panel every 30-50 minutes and alarm signal when temperature exceeds or drops below normal operation range set by Dip Switch.
 
@@ -16,7 +16,7 @@ The Temperature Sensor includes the following models:
 
 ## _**Parts Identification**_
 
-<figure><img src=".gitbook/assets/1 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (15).png" alt=""><figcaption></figcaption></figure>
 
 Remove the cover by loosening the bottom fixing screw, the inside of the Temperature Sensor will be revealed as shown.
 
@@ -48,7 +48,7 @@ Remove the cover by loosening the bottom fixing screw, the inside of the Tempera
 6. **Battery Compartment**
 7. **External Temperature Probe Connector (TAS-9E only)**
 
-<figure><img src=".gitbook/assets/2 (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/2 (18).png" alt=""><figcaption></figcaption></figure>
 
 8. **External Temperature Probe (TAS-9E only)**
 9. **Internal Temperature Probe**
@@ -117,7 +117,7 @@ IV. Screw the base into the wall plugs, then screw the cover back onto its base.
 
 This feature allows you to view historical data and trends through graphs in both the mobile app and the web portal.
 
-<figure><img src=".gitbook/assets/image (1377).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1378).png" alt=""><figcaption></figcaption></figure>
 
 Historical data can be displayed for the following periods:
 
@@ -133,7 +133,7 @@ Historical data can be displayed for the following periods:
 * An alarm restoration signal is transmitted if the temperature drops below the Alarm Restoration Threshold **for 4 minutes**.
 * Please refer to the table below for more detail:
 
-<figure><img src=".gitbook/assets/3 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/3 (15).png" alt=""><figcaption></figcaption></figure>
 
 * To switch between modes, simply adjust the DIP switches according to desired setting.
 

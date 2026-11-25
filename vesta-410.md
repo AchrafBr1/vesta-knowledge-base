@@ -4,7 +4,7 @@ VST-892-IL-ADC2
 
 ## PIR Motion Sensor Camera&#x20;
 
-<figure><img src=".gitbook/assets/image (1299).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1300).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -20,7 +20,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 
 ## Parts Identification
 
-<figure><img src=".gitbook/assets/Unknown image (393)" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (393)" alt="" width="375"><figcaption></figcaption></figure>
 
 1. Infrared LED
 
@@ -51,7 +51,7 @@ The PIR Camera consists of a two-part design made up of a cover and a base. The 
 | The jumper is inserted, connecting the two pins             | the jumper link is removed or parked on one pin.            |
 | When set as OFF, Pet Immunity is enabled. (Factory default) | When set as OFF, Pet Immunity is enabled. (Factory default) |
 
-<img src=".gitbook/assets/Unknown image (398)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (398)" alt="" width="375">
 
 9. Sensitivity Increaser Jumper Switch (JP4)
 
@@ -195,15 +195,15 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 
 ### Limitations
 
-| Do not install outdoors.![](<.gitbook/assets/Unknown image (402)>)                                                                                                                          | Avoid large obstacles in the detection area.![](<.gitbook/assets/Unknown image (403)>)                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Do not expose the PIR completely to direct sunlight.![](<.gitbook/assets/Unknown image (404)>)                                                                                              | Avoid vapor or high humidity that can cause condensation.![](<.gitbook/assets/Unknown image (405)>)                                              |
-| Avoid moving objects, e.g., curtains, wall hangings, etc., in the detection area.![](<.gitbook/assets/Unknown image (406)>)                                                                 | Avoid reflected light from bright surfaces, e.g., mirrors, windows, etc.![](<.gitbook/assets/Unknown image (407)>)                               |
-| Avoid installing the PIR in areas where machines such as air conditioners or heaters may cause rapid change in temperature in the detection area.![](<.gitbook/assets/Unknown image (408)>) | Avoid reflecting surface in the detection area. Reflected infrared signatures may lead to false alarm.![](<.gitbook/assets/Unknown image (409)>) |
+| Do not install outdoors.![](<manuals/.gitbook/assets/Unknown image (402)>)                                                                                                                          | Avoid large obstacles in the detection area.![](<manuals/.gitbook/assets/Unknown image (403)>)                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Do not expose the PIR completely to direct sunlight.![](<manuals/.gitbook/assets/Unknown image (404)>)                                                                                              | Avoid vapor or high humidity that can cause condensation.![](<manuals/.gitbook/assets/Unknown image (405)>)                                              |
+| Avoid moving objects, e.g., curtains, wall hangings, etc., in the detection area.![](<manuals/.gitbook/assets/Unknown image (406)>)                                                                 | Avoid reflected light from bright surfaces, e.g., mirrors, windows, etc.![](<manuals/.gitbook/assets/Unknown image (407)>)                               |
+| Avoid installing the PIR in areas where machines such as air conditioners or heaters may cause rapid change in temperature in the detection area.![](<manuals/.gitbook/assets/Unknown image (408)>) | Avoid reflecting surface in the detection area. Reflected infrared signatures may lead to false alarm.![](<manuals/.gitbook/assets/Unknown image (409)>) |
 
 * **Be sure to always remain the RSSI signal strength steady at “4”.**
 
-<img src=".gitbook/assets/Unknown image (411)" alt="VST-892-IL-ADC2 Detection Range" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (411)" alt="VST-892-IL-ADC2 Detection Range" width="375">
 
 ## Mounting the PIR Camera
 
@@ -221,7 +221,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 4. Screw the triangular bracket onto the wall plugs with the two pointing sticks (E) on top and facing you.
 5. Fit the PIR Camera onto the hooks of the triangular bracket.
 
-<img src=".gitbook/assets/Unknown image (412)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (412)" alt="" width="375">
 
 #### Surface mounting
 
@@ -232,7 +232,7 @@ You can use the sensitivity increaser function to increase the PIR’s detection
 5. Screw the base onto the wall plugs.
 6. Secure the cover back to the base by tightening the bottom fixing screw.
 
-<figure><img src=".gitbook/assets/Unknown image (413)" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (413)" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Surface mounting with rotating bracket (optional item, sold separately)
 
@@ -242,4 +242,4 @@ The rotating bracket can be mounted on the wall with the screws provided.
 2. Fit the PIR onto the 3 hooks of the rotating bracket.
 3. Rotate the bracket for the proper range of detection and tighten the fixing screw.
 
-<img src=".gitbook/assets/Unknown image (414)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (414)" alt="" width="375">

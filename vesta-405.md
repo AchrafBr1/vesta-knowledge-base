@@ -4,7 +4,7 @@ ADC Hybrid **(only compatible with Alarm.com)**
 
 ## 4G LTE Alarm.com hybrid alarm system
 
-<figure><img src=".gitbook/assets/image (1300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1301).png" alt=""><figcaption></figcaption></figure>
 
 ## Main features
 
@@ -20,4 +20,4 @@ ADC Hybrid **(only compatible with Alarm.com)**
 
 ### Panel Manual
 
-{% file src=".gitbook/assets/Hybrid Installation Guide v26.pdf" %}
+{% file src="manuals/.gitbook/assets/Hybrid Installation Guide v26.pdf" %}

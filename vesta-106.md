@@ -4,7 +4,7 @@
 
 ## **Z-Wave Power Relay Switch with Meter**
 
-<figure><img src=".gitbook/assets/image (1317).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1318).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -20,7 +20,7 @@ PRM2-ZW-P5 also serve as a router in the Z-Wave network. After being included in
 
 ## Parts Identification
 
-<figure><img src=".gitbook/assets/Unknown image (490)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (490)" alt=""><figcaption></figcaption></figure>
 
 1. **LED indicator**
 
@@ -107,7 +107,7 @@ After joining the Z-Wave network, the Power Relay Switch can bind itself with a 
 
 * Refer to the diagram to connect your home lighting to the Power Relay Switch.
 
-<figure><img src=".gitbook/assets/Unknown image (491)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (491)" alt=""><figcaption></figcaption></figure>
 
 ### Installation
 

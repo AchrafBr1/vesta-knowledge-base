@@ -5,7 +5,7 @@ icon: video-plus
 
 # NVR5208-8P-PRO
 
-<figure><img src="../.gitbook/assets/image (1364).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1365).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### &#x20;Main features
 

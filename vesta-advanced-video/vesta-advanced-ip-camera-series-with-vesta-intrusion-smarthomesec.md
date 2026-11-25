@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # VESTA ADVANCED IP CAMERA SERIES with VESTA Intrusion (SmartHomeSec)
@@ -28,7 +30,7 @@ layout:
 
 ### What does this VESTA integration allow?
 
-<figure><img src="../.gitbook/assets/image (923).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (924).png" alt=""><figcaption></figcaption></figure>
 
 ### **Start-up with VESTA panels in 3 steps**
 
@@ -49,7 +51,7 @@ To update the camera, follow these steps:
 3. **Select System**: Choose 'System' from the options.
 4. **Choose Upgrade**: Proceed to 'Upgrade' to begin the firmware update process.
 
-<figure><img src="../.gitbook/assets/image (922).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (923).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -74,7 +76,7 @@ It is important to ensure that the **panel is at version 34F or higher** and tha
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../.gitbook/assets/ADV-settings.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/ADV-settings.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -105,7 +107,7 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
    * Select **Destination** and ensure **Scheduled** is enabled.
    * In **Scheduled** make sure to enable 24h all days or needed days
 
-<figure><img src="../.gitbook/assets/step-step-SD.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/step-step-SD.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -120,11 +122,11 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 **Step 2:** Enter the username and passwor&#x64;**; the default user name of the device is “admin”**.
 
-![](<../.gitbook/assets/image (863).png>)
+![](<../manuals/.gitbook/assets/image (864).png>)
 
 **Step 3:** When logging in to the device for the first time, the system will pop up a “Change Password” prompt. Please change the administrator password on time and safe-keep it.
 
-![](<../.gitbook/assets/image (864).png>)
+![](<../manuals/.gitbook/assets/image (865).png>)
 
 
 
@@ -137,11 +139,11 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 ### VESTA advanced series complete manual guide&#x20;
 
-{% file src="../.gitbook/assets/VESTA_Advanced Series .pdf" %}
+{% file src="../manuals/.gitbook/assets/VESTA_Advanced Series .pdf" %}
 
 ### Quick Guide
 
-{% file src="../.gitbook/assets/Quickly User Manual v25.pdf" %}
+{% file src="../manuals/.gitbook/assets/Quickly User Manual v25.pdf" %}
 
 ***
 
@@ -149,7 +151,7 @@ To program IVS rules in your VESTA ADV system follow this steps:&#x20;
 
 ### **CGI Activation Issues**
 
-![](<../.gitbook/assets/image (1021).png>)\
+![](<../manuals/.gitbook/assets/image (1022).png>)\
 \
 If the panel prompts you to enable CGI on the camera (And CGI already activated), this may be due to changes in user settings. This can happen if:
 
@@ -170,9 +172,9 @@ _(Note: This issue is typically related to modifications in the Users settings.)
 
 The recording icon appears on the alarm event from a camera, but when you access it, the video does not play.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1311).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1311).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1312).png" alt=""><figcaption></figcaption></figure>
 
 ### Root Cause Analysis
 

@@ -4,7 +4,7 @@
 
 ## **Remote Controller - Keyfob**
 
-<figure><img src=".gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 #### [VESTA-017N Specification](https://vestasecurity.eu/en/product/vesta-017n/)
 
@@ -14,14 +14,14 @@ The Remote Controller is used to arm the system in home or away mode, disarm the
 
 Press and hold each key to activate the functions described below:
 
-![](<.gitbook/assets/2 (96).jpeg>)
+![](<manuals/.gitbook/assets/2 (96).jpeg>)
 
 1. &#x20;**BUTTON -** Press this button to arm the system.
 2. **BUTTON -** Press and hold this button for 3 seconds to send a panic signal, regardless of system status (armed or disarmed), to the Control Panel. Be sure to press the button for 3 seconds, or the activation will fail.
 3. **BUTTON -** Press this button to arm the system in home mode.
 4. **BUTTON -** Press this button to disarm the system. When the alarm is
 
-sounding, press this button to stop the alarm (except when the alarm is triggered by pressing the Remote Controller’s ![](<.gitbook/assets/6 (73).jpeg>) Button.
+sounding, press this button to stop the alarm (except when the alarm is triggered by pressing the Remote Controller’s ![](<manuals/.gitbook/assets/6 (73).jpeg>) Button.
 
 
 
@@ -67,7 +67,7 @@ _When a low voltage battery is inserted, the Red LED will flash 3 times to indic
 
 ## _**Getting Started**_
 
-<figure><img src=".gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
 Step 1. Remove the battery cover by using a coin to turn it counter-clockwise.
 

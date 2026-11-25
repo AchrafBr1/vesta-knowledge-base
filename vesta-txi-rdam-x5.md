@@ -2,7 +2,7 @@
 
 ## OPTEX TXI PIR curtain detector for outdoor use with microwave, anti-masking and VESTA F1 wireless transmitter
 
-<figure><img src=".gitbook/assets/image (1320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1321).png" alt=""><figcaption></figcaption></figure>
 
 The TXI-R offers overhead curtain-type volumetric detection, providing stable and consistent detection thanks to OPTEX’s advanced Triple AND logic (patent pending). Designed to create a narrow detection field along the façade of a building, it enables the detection of potential intruders before they reach the premises. The TXI-R is ideal for perimeter protection in detached houses, balconies, warehouses, office buildings and retail premises, as well as for any application where it is necessary to protect the boundaries of a property.
 
@@ -46,13 +46,13 @@ With a compact, palm-sized design, the TXI-R can be installed at a height of up 
 * 6 mA max. consumption at 3.0 VDC
 * IP55 protection
 
-<figure><img src=".gitbook/assets/image (1341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1342).png" alt=""><figcaption></figcaption></figure>
 
 ## Identifying the Parts
 
 1\) TXI-RDAM-X5
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_vF0NAYYF97.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_vF0NAYYF97.png" alt=""><figcaption></figcaption></figure>
 
 2\) VESTA-271
 
@@ -80,39 +80,39 @@ Disassemble the unit
 
 1\) Remove the lock cover
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_yA6i0zdfYu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_yA6i0zdfYu.png" alt=""><figcaption></figcaption></figure>
 
 2\) Loosen the fixing screw
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_atlUGLPhNx.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_atlUGLPhNx.png" alt=""><figcaption></figcaption></figure>
 
 3\) Open the cover
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_mXMjgdzUWy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_mXMjgdzUWy.png" alt=""><figcaption></figcaption></figure>
 
 4\) Remove the main unit
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_MnA92O53aX.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_MnA92O53aX.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Installation Recommendations
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_kqW7pDoILb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_kqW7pDoILb.png" alt=""><figcaption></figcaption></figure>
 
 ### Detection Area
 
 Top View
 
-<figure><img src=".gitbook/assets/image (1342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1343).png" alt=""><figcaption></figcaption></figure>
 
 Side View - Mounting height:2.2m to less than 3.0m
 
-<figure><img src=".gitbook/assets/image (1343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1344).png" alt=""><figcaption></figcaption></figure>
 
 Mounting height: 3.0m to 4m
 
-<figure><img src=".gitbook/assets/image (1344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1345).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 NOTE:
@@ -130,13 +130,13 @@ The <mark style="color:$primary;">\*2.4 or 3 dotted line</mark> indicates the ra
 
 Down zone ON/OFF
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_twT00T4zpB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_twT00T4zpB.png" alt=""><figcaption></figcaption></figure>
 
 ### Detection Ajustment
 
 To limit the distance, use the appropriate area adjustment plate
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_jf8y4RGtW8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_jf8y4RGtW8.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -144,25 +144,25 @@ To limit the distance, use the appropriate area adjustment plate
 
 1. Power ON
 
-<figure><img src=".gitbook/assets/image (1336).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1337).png" alt=""><figcaption></figcaption></figure>
 
 2. Open and close the cover
 
-<figure><img src=".gitbook/assets/image (1337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1338).png" alt=""><figcaption></figcaption></figure>
 
 After the unit is powered on, opening and closing the cover will activate the tamper function and initiate Walk Test mode.
 
 3. Walk within the detection area to check the detection performance by using the LED indicator
 
-<figure><img src=".gitbook/assets/image (1338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1339).png" alt=""><figcaption></figcaption></figure>
 
 4. Tighten the fixing screw
 
-<figure><img src=".gitbook/assets/image (1339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1340).png" alt=""><figcaption></figcaption></figure>
 
 5. Attach the lock cover
 
-<figure><img src=".gitbook/assets/image (1340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1341).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note: To perform the walk test again, open and close the cover. Conduct a walk test at least once a year.
@@ -174,23 +174,23 @@ Note: To perform the walk test again, open and close the cover. Conduct a walk t
 
 #### Standard bracket installation for wall mounting
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_pRIVFx6y7p.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_pRIVFx6y7p.png" alt=""><figcaption></figcaption></figure>
 
 #### Standard bracket installation for wall mount (Side-Bracket)
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_GqEiUHW9cV.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_GqEiUHW9cV.png" alt=""><figcaption></figcaption></figure>
 
 #### Standard bracket installation for wall mount (Back-Bracket)
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_EAS2jXG40i.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_EAS2jXG40i.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Installation Recommendations
 
-<figure><img src=".gitbook/assets/image (1334).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1335).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_Y5l2yOjLQZ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_Y5l2yOjLQZ.png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -4,7 +4,7 @@ PSS-29-R2
 
 ## Power Switch&#x20;
 
-<figure><img src=".gitbook/assets/image (1380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1381).png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

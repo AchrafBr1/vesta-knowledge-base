@@ -8,9 +8,9 @@ GX-MAX5
 
 ## Smart Care GX Medical Alarm Solution
 
-<figure><img src=".gitbook/assets/image (1355).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1356).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1357).png" alt=""><figcaption></figcaption></figure>
 
 ## Main Features
 

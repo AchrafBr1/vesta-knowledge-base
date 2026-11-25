@@ -4,7 +4,7 @@ TouchPanel 3
 
 ## Qallmax - Touch-Screen Intrusion panel
 
-<figure><img src=".gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 ## 1. Introduction
 
@@ -60,7 +60,7 @@ Log in to the SHS app/web as an installer.
 
 In the 'Firmware Update' section, select the new firmware and press Apply button.
 
-<figure><img src=".gitbook/assets/chrome_LN1kcx3LO1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/chrome_LN1kcx3LO1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note: The firmware names are listed in ascending numerical and alphabetical order.
@@ -74,13 +74,13 @@ Note: The panel will start to download the firmware from the cloud. This process
 {% step %}
 ### Step 3: On the panel screen, press the 'Update'.
 
-<figure><img src=".gitbook/assets/WhatsApp.Root_wZTB2wTKEG.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WhatsApp.Root_wZTB2wTKEG.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Step 4: Once the update process is complete, press ‘Open’ on the panel display.
 
-<figure><img src=".gitbook/assets/WhatsApp.Root_cRxfyIvDMX.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WhatsApp.Root_cRxfyIvDMX.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -137,7 +137,7 @@ When AC power fails, the Qualmax panel enters one of two modes depending on the 
 * **Default:** Enable (24h mode)
 * **Location:** Panel settings → Power / Backup configuration
 
-<figure><img src=".gitbook/assets/image (1312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1313).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -158,13 +158,13 @@ When AC power fails, the Qualmax panel enters one of two modes depending on the 
 
 ### 2.1. Parts Identification
 
-![Front View](<.gitbook/assets/Unknown image (234)>)
+![Front View](<manuals/.gitbook/assets/Unknown image (234)>)
 
-<figure><img src=".gitbook/assets/Unknown image (235)" alt=""><figcaption><p><strong>Back View</strong></p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (235)" alt=""><figcaption><p><strong>Back View</strong></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Unknown image (236)" alt=""><figcaption><p><strong>Internal View</strong></p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (236)" alt=""><figcaption><p><strong>Internal View</strong></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Unknown image (237)" alt=""><figcaption><p><strong>Internal View</strong></p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (237)" alt=""><figcaption><p><strong>Internal View</strong></p></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="162"></th><th></th></tr></thead><tbody><tr><td><strong>Power Button</strong></td><td><ul><li>If for some reason you need to power down or force restart the system, press the power button for <strong>2 seconds</strong> and then release to access the selection menu.</li><li>Pressing and holding the button for** 10 seconds** will force the system to shut down immediately.</li></ul></td></tr><tr><td><strong>Recovery Button</strong></td><td>- <mark style="color:red;">Reserved for Manufacturer Use Only</mark> – Do not press unless instructed by authorized personnel****</td></tr></tbody></table>
 
@@ -197,11 +197,11 @@ The LED indicators are used show various system statuses.
   1. Connect the USB-C connector of the AUX-PS or AUX-PS-DC to the USB-C Port on TouchPanel-3.
   2. For **AUX-PS**, connect the two wires of the AC power cable to the power input terminals on AUX-PS, then plug the cable into a 100–240 VAC mains outlet.
 
-![](<.gitbook/assets/Unknown image (238)>)
+![](<manuals/.gitbook/assets/Unknown image (238)>)
 
 For **AUX-PS-DC**, connect the positive and negative output wires from a regulated DC power source (e.g., a PSU) to the V+ and V- terminals, respectively.
 
-![](<.gitbook/assets/Unknown image (239)>)
+![](<manuals/.gitbook/assets/Unknown image (239)>)
 
 * Refer to section **3.4. Auxiliary Power Supply Accessory**for installation instructions for AUX-PS and TouchPanel-3. The same installation process also applies to AUX-PS-DC.
 
@@ -225,14 +225,14 @@ The Control Panel is designed to be wall mounted, follow guidelines below when p
 
 **2** Loosen the screw securing the Rear Access Cover and remove the Access Cover.
 
-![](<.gitbook/assets/Unknown image (240)>)
+![](<manuals/.gitbook/assets/Unknown image (240)>)
 
 **Hardware Setup**
 
 1. Connect an Ethernet cable to the Ethernet port.
 2. (Optional) Insert a Micro-SIM card with the chip side facing down.
 
-![](<.gitbook/assets/Unknown image (241)>)
+![](<manuals/.gitbook/assets/Unknown image (241)>)
 
 {% hint style="warning" %}
 Note:
@@ -245,7 +245,7 @@ Note:
 3. (Optional) Connect the hardwired input and ouput to the Input & Output Terminal (see **5.2.7. Wired Device** for details).
 4. Connect the battery connector to the batter connector terminal and route the wires along the lower sidewall.
 
-![](<.gitbook/assets/Unknown image (244)>)
+![](<manuals/.gitbook/assets/Unknown image (244)>)
 
 5. Insert the USB-C connector of the adapter to the USB-C Port on the Panel’s PCB.
 
@@ -254,7 +254,7 @@ If using the Power Supply Accessory (AUX-PS or AUX-PS-DC) with TouchPanel-3, ple
 6. Replace and secure the Rear Access Cover.
 7. Route the cables through one of the wiring holes on the back plate, reattach the front cover to the back plate, then tighten the bottom fixing screws.
 
-![](<.gitbook/assets/Unknown image (245)>)
+![](<manuals/.gitbook/assets/Unknown image (245)>)
 
 The above is an example of wiring. The back plate provides four breakaway sections as wiring hole options.
 
@@ -271,7 +271,7 @@ It is recommended to install the Panel at approximately chest height where the t
 3. Insert the wall plugs, then screw the back plate onto the wall with the 4 provided screws.
 4. Fit the top latching holes on the front cover onto the corresponding latches on the back plate, then push forward the front cover to close it. Tighten the 2 bottom fixing screws.
 
-![](<.gitbook/assets/Unknown image (246)>)
+![](<manuals/.gitbook/assets/Unknown image (246)>)
 
 ***
 
@@ -282,18 +282,18 @@ It is recommended to install the Panel at approximately chest height where the t
 1. Disconnect the battery connector.
 2. Insert a finger into the groove and pry out the battery.
 
-![](<.gitbook/assets/Unknown image (247)>)
+![](<manuals/.gitbook/assets/Unknown image (247)>)
 
 **Battery Installation**
 
 1. Place a new battery into the battery compartment.
 2. Connect the battery connector to the terminal. The foolproof design helps ensure correct connection.
 
-<figure><img src=".gitbook/assets/Unknown image (248)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (248)" alt=""><figcaption></figcaption></figure>
 
 3. Route the wires along the lower sidewall
 
-<figure><img src=".gitbook/assets/Unknown image (249)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (249)" alt=""><figcaption></figcaption></figure>
 
 ### 3.4. Auxiliary Power Supply Accessory (Optional)
 
@@ -303,66 +303,66 @@ The Power Supply Accessory (AUX-PS) includes a Speaker Cover. To install, users 
 
 1. Unscrew the two bottom fixing screws and gently detach the front cover from the back plate.
 
-![](<.gitbook/assets/Unknown image (250)>)
+![](<manuals/.gitbook/assets/Unknown image (250)>)
 
 2. Turn over the front cover, unscrew the four corner screws and the screw securing the rear access cover, and carefully separate the back cover from the front cover.
 3. Disengage the 5 latches and remove the speaker cloth.
 
-![](<.gitbook/assets/Unknown image (251)>)
+![](<manuals/.gitbook/assets/Unknown image (251)>)
 
 **Part 2: Panel & AUX-PS Installation**
 
 1. Break out one of the pre-punched wiring holes, then secure the back plate to the wall.
 
-![](<.gitbook/assets/Unknown image (252)>)
+![](<manuals/.gitbook/assets/Unknown image (252)>)
 
 2. Loosen the two fixing screws, and separate the Speaker Cover and AUX-PS.
 
-![](<.gitbook/assets/Unknown image (253)>) ![](<.gitbook/assets/Unknown image (254)>)
+![](<manuals/.gitbook/assets/Unknown image (253)>) ![](<manuals/.gitbook/assets/Unknown image (254)>)
 
 3. Route an Ethernet cable and the AUX-PS USB-C cable through the lowest wiring hole of the back plate.
 
 **Use an Ethernet cable without the plastic housing on the RJ45 connector. Verify that both the cable and the RJ45 connector can fit through the desired wiring hole on the back plate and the AUX-PS opening.**
 
-![](<.gitbook/assets/Unknown image (255)>) ![](<.gitbook/assets/Unknown image (256)>)
+![](<manuals/.gitbook/assets/Unknown image (255)>) ![](<manuals/.gitbook/assets/Unknown image (256)>)
 
 4. Connect the RJ45 connector to the Ethernet Port and the USB-C connector to Cover, then reattach the front cover to the USB-C Port on the PCB. the back plate.
 
-<img src=".gitbook/assets/Unknown image (257)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (257)" alt="" width="375">
 
 5. Replace and secure the Rear Access
 
-<img src=".gitbook/assets/Unknown image (258)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (258)" alt="" width="375">
 
 6. Route the other RJ45 connector through the AUX-PS opening, and tuck the paper card into the gap between the wall and the Panel.
 
-<img src=".gitbook/assets/Unknown image (259)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (259)" alt="" width="375">
 
 7. Remove the liner from the tape on the back of the paper card, stick the card to the wall to prevent slipping, then fasten the two bottom fixing screws of the Panel.
 
-<figure><img src=".gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 8. Fold the two flaps of the paper card outward, route the power cable through the AUX-PS opening, and connect power cable through the AUX-PS opening, and connect and secure the two cable wires to the AUX-PS terminals.
 
-<figure><img src=".gitbook/assets/image (90).png" alt=""><figcaption><p>8 9</p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (91).png" alt=""><figcaption><p>8 9</p></figcaption></figure>
 
 9. **Firmly press AUX - PS against** TouchPanel-3, then use the two holes on AUX-PS as a template to mark and drill two screw holes into the wall.
 
-<img src=".gitbook/assets/Unknown image (263)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (263)" alt="" width="375">
 
 10. While firmly pressing AUX-PS against TouchPanel-3 and the wall, apply two screw to the drilled holes to ensure precise attachment.
 
-<img src=".gitbook/assets/Unknown image (265)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (265)" alt="" width="375">
 
 11. Attach the Speaker Cover to AUX-PS and TouchPanel-3, then fasten the two fixing screws.
 
-![](<.gitbook/assets/Unknown image (264)>)
+![](<manuals/.gitbook/assets/Unknown image (264)>)
 
 12. Tear and remove the paper card from the wall.
 
 _Tear and remove it carefully when taking it off a painted wall._
 
-<figure><img src=".gitbook/assets/Unknown image (266)" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (266)" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 4. Operation
 
@@ -374,11 +374,11 @@ Home, Security, Automation, Cam and Events can be selected from the bottom of th
 
 By default, the screen automatically switches between day and night modes at 6 a.m. and 6 p.m."
 
-![Day Mode](<.gitbook/assets/Unknown image (267)>) ![Day Mode](<.gitbook/assets/Unknown image (268)>)
+![Day Mode](<manuals/.gitbook/assets/Unknown image (267)>) ![Day Mode](<manuals/.gitbook/assets/Unknown image (268)>)
 
 * **Date, Time and Weather**: The Home page displays current Date, Time and Weather info. Select the Weather info to see weather forecast.
 
-<div><img src=".gitbook/assets/Unknown image (269)" alt="" width="375"> <img src=".gitbook/assets/Unknown image (270)" alt=""></div>
+<div><img src="manuals/.gitbook/assets/Unknown image (269)" alt="" width="375"> <img src="manuals/.gitbook/assets/Unknown image (270)" alt=""></div>
 
 * **Home Widget**: The Home Widget list is for you to control or check current status of the
 
@@ -388,47 +388,47 @@ HVAC sensors or devices which have been learned into the system. To set the list
 
 Up to six devices can be displayed here. Tap OK to confirm.
 
-<img src=".gitbook/assets/Unknown image (271)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (271)" alt="" width="375">
 
 **Step 2** The devices that you selected are displayed on the widget list.
 
 Tap the widget that you want to check. When there is a fault or supervision failure, an orange exclamation mark icon will be displayed on the widget. The color of the widget will also fade.
 
-![](<.gitbook/assets/Unknown image (272)>)
+![](<manuals/.gitbook/assets/Unknown image (272)>)
 
 ### **4.2. Security**
 
 The Security page displays current system mode for quick control access.
 
-<figure><img src=".gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/Unknown image (274)>)
+![](<manuals/.gitbook/assets/Unknown image (274)>)
 
-<table data-header-hidden><thead><tr><th width="162"></th><th width="164" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Section</strong></td><td align="center"><strong>Icon</strong></td><td><strong>Description</strong></td></tr><tr><td><p><strong>1. Internet</strong></p><p><strong>Indicator</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (275)" alt=""></td><td>When the Ethernet is connected</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (276)" alt="" data-size="original"></td><td>When WiFi is connected <img src=".gitbook/assets/Unknown image (277)" alt="" data-size="line"> (Strong – Weak)</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/Unknown image (278)" alt="" data-size="original"><br></td><td>When cellular network is connected <img src=".gitbook/assets/image (92).png" alt=""> (Strong - Weak)</td></tr><tr><td></td><td align="center"><br><img src=".gitbook/assets/image (95).png" alt=""></td><td>Internet is disconnected</td></tr><tr><td></td><td align="center"><strong>Note</strong></td><td>The panel supports Ethernet, Wi-Fi, and LTE. If all are available, it will prioritize in this order: Ethernet > Wi-Fi > LTE.</td></tr><tr><td><strong>2. Ongoing call</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (274)" alt=""></td><td>During 2-way communication, the call icon will be displayed.****</td></tr><tr><td><strong>3. Power</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (280)" alt=""></td><td>When powered by AC, a plug icon will be displayed.</td></tr><tr><td></td><td align="center"><img src=".gitbook/assets/image (94).png" alt="" data-size="original"></td><td>When powered by the backup battery, the battery percentage will be displayed.</td></tr><tr><td><strong>4. Setting</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (282)" alt=""></td><td>Tap the gear icon to access the Settings menu. Please refer to later section <em><strong>5. Settings</strong></em>.</td></tr><tr><td><strong>5. Date, Time, and Weather</strong></td><td align="center">---</td><td>Display current date and time.</td></tr><tr><td><strong>6. Area</strong></td><td align="center">---</td><td>Tap the area to select the Area to be displayed.</td></tr><tr><td><p><strong>7. System</strong></p><p><strong>Mode</strong></p></td><td align="center"></td><td>Disarm, Away Arm, Home Arm<img src=".gitbook/assets/Unknown image (283)" alt=""><img src=".gitbook/assets/Unknown image (284)" alt=""><img src=".gitbook/assets/Unknown image (285)" alt=""></td></tr><tr><td><strong>8. SOS Button</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (286)" alt=""></td><td>Press and hold the SOS button for 3 seconds to activate an Emergency alarm.</td></tr><tr><td><strong>9. Panel Status</strong></td><td align="center"><img src=".gitbook/assets/Unknown image (287)" alt=""></td><td>When Fault event exists within the panel, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>10. Door</strong></p><p><strong>Contact</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (288)" alt=""></td><td>The total number of Door Contacts in the alarm system will be displayed. When Fault event exists within the Door Contacts, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>11. Device</strong></p><p><strong>Status</strong></p></td><td align="center"><img src=".gitbook/assets/Unknown image (289)" alt=""></td><td>The total number of non-Door Contact sensors in the alarm system will be displayed. When Fault event exists within the devices, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="162"></th><th width="164" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Section</strong></td><td align="center"><strong>Icon</strong></td><td><strong>Description</strong></td></tr><tr><td><p><strong>1. Internet</strong></p><p><strong>Indicator</strong></p></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (275)" alt=""></td><td>When the Ethernet is connected</td></tr><tr><td></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (276)" alt="" data-size="original"></td><td>When WiFi is connected <img src="manuals/.gitbook/assets/Unknown image (277)" alt="" data-size="line"> (Strong – Weak)</td></tr><tr><td></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (278)" alt="" data-size="original"><br></td><td>When cellular network is connected <img src="manuals/.gitbook/assets/image (93).png" alt=""> (Strong - Weak)</td></tr><tr><td></td><td align="center"><br><img src="manuals/.gitbook/assets/image (96).png" alt=""></td><td>Internet is disconnected</td></tr><tr><td></td><td align="center"><strong>Note</strong></td><td>The panel supports Ethernet, Wi-Fi, and LTE. If all are available, it will prioritize in this order: Ethernet > Wi-Fi > LTE.</td></tr><tr><td><strong>2. Ongoing call</strong></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (274)" alt=""></td><td>During 2-way communication, the call icon will be displayed.****</td></tr><tr><td><strong>3. Power</strong></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (280)" alt=""></td><td>When powered by AC, a plug icon will be displayed.</td></tr><tr><td></td><td align="center"><img src="manuals/.gitbook/assets/image (95).png" alt="" data-size="original"></td><td>When powered by the backup battery, the battery percentage will be displayed.</td></tr><tr><td><strong>4. Setting</strong></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (282)" alt=""></td><td>Tap the gear icon to access the Settings menu. Please refer to later section <em><strong>5. Settings</strong></em>.</td></tr><tr><td><strong>5. Date, Time, and Weather</strong></td><td align="center">---</td><td>Display current date and time.</td></tr><tr><td><strong>6. Area</strong></td><td align="center">---</td><td>Tap the area to select the Area to be displayed.</td></tr><tr><td><p><strong>7. System</strong></p><p><strong>Mode</strong></p></td><td align="center"></td><td>Disarm, Away Arm, Home Arm<img src="manuals/.gitbook/assets/Unknown image (283)" alt=""><img src="manuals/.gitbook/assets/Unknown image (284)" alt=""><img src="manuals/.gitbook/assets/Unknown image (285)" alt=""></td></tr><tr><td><strong>8. SOS Button</strong></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (286)" alt=""></td><td>Press and hold the SOS button for 3 seconds to activate an Emergency alarm.</td></tr><tr><td><strong>9. Panel Status</strong></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (287)" alt=""></td><td>When Fault event exists within the panel, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>10. Door</strong></p><p><strong>Contact</strong></p></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (288)" alt=""></td><td>The total number of Door Contacts in the alarm system will be displayed. When Fault event exists within the Door Contacts, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr><tr><td><p><strong>11. Device</strong></p><p><strong>Status</strong></p></td><td align="center"><img src="manuals/.gitbook/assets/Unknown image (289)" alt=""></td><td>The total number of non-Door Contact sensors in the alarm system will be displayed. When Fault event exists within the devices, a number will be displayed over the icon. Tap the icon to view the fault events.</td></tr></tbody></table>
 
 #### **4.2.1. Change System Mode**
 
 * Select the area you wish to control, then tap the mode icon to change mode.
 
-![Home arm                                 Disarm                                Away Arm](<.gitbook/assets/Unknown image (290)>)
+![Home arm                                 Disarm                                Away Arm](<manuals/.gitbook/assets/Unknown image (290)>)
 
 You will be required to enter one of the Control Panel User PIN Code to confirm the action.
 
 The panel will play voice prompts upon system mode change to remind user the system status. Please refer to _**6. Voice Prompts**_ for details.
 
-![](<.gitbook/assets/Unknown image (291)>)
+![](<manuals/.gitbook/assets/Unknown image (291)>)
 
 If incorrect PIN Code is entered, TouchPanel-3 will display error message and arming will be aborted.
 
-![](<.gitbook/assets/Unknown image (292)>)
+![](<manuals/.gitbook/assets/Unknown image (292)>)
 
 * When Arm Fault Type is set as Confirm, and the system has existing faults when arming, a fault message will appear. If you still want to arm the system, you will need to bypass the faults on the fault list first or repeat the arming action within 30 seconds to Force Arm.
 
-![](<.gitbook/assets/Unknown image (293)>)
+![](<manuals/.gitbook/assets/Unknown image (293)>)
 
 By checking all faults and tapping **Bypass**, the faults will be bypassed and the system will be armed.
 
-![](<.gitbook/assets/Unknown image (294)>)
+![](<manuals/.gitbook/assets/Unknown image (294)>)
 
 **Face Detection**
 
@@ -436,12 +436,12 @@ When the Face Detection feature is turned on, the system must detect a face to d
 
 * When **Disarm** is tapped, the following dialog box will be displayed, requesting the user to position his/her face in the camera frame to activate pin entering for disarming.
 
-<figure><img src=".gitbook/assets/Unknown image (295)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (295)" alt=""><figcaption></figcaption></figure>
 
 * The Panel will auto capture a photo when a face is detected and display the captured image for 3 seconds.
 * After 3 seconds, the panel will display PIN code page with disarm icon. Enter the user PIN code to disarm the system.
 
-![](<.gitbook/assets/Unknown image (296)>)
+![](<manuals/.gitbook/assets/Unknown image (296)>)
 
 * Whether disarming is completed or aborted, the captured face will be reported and displayed in the event log.
 
@@ -449,29 +449,29 @@ When the Face Detection feature is turned on, the system must detect a face to d
 
 When there is an alarm, the Alarm dashboard will be displayed:
 
-![](<.gitbook/assets/Unknown image (297)>)
+![](<manuals/.gitbook/assets/Unknown image (297)>)
 
 * **Area**: It will be indicated that the alarm is occurred in which area. When there are alarms in both areas, you can tap the icon to view the alarm list for each area respectively.
 * **Alarm list**: The devices that have been triggered will be displayed here.
 * **Disarm**: Tap the icon and then enter the PIN code to disarm the system.
 
-![](<.gitbook/assets/Unknown image (296)>)
+![](<manuals/.gitbook/assets/Unknown image (296)>)
 
 After disarming the system, you can view these events again through the list. Tap the Close icon to close the alarm dashboard and go back to Security page.
 
-![](<.gitbook/assets/Unknown image (298)>)
+![](<manuals/.gitbook/assets/Unknown image (298)>)
 
 ### **4.3. Automation**
 
 The Automation page provides access to home automation functions in the Control Panel. The Automation page includes Scene, Room, Group, Device, and Rule.
 
-![](<.gitbook/assets/Unknown image (299)>)
+![](<manuals/.gitbook/assets/Unknown image (299)>)
 
 #### **4.3.1. Scene**
 
 The Scene subpage allows you to set a group of actions which the Control Panel may perform with its Home Automation devices. The user can program the Scene to manually activate a set of devices, or automatically activate them by pre-programmed Rule. \*\*\*\*
 
-![](<.gitbook/assets/Unknown image (300)>)
+![](<manuals/.gitbook/assets/Unknown image (300)>)
 
 * Create a New Scene.
 
@@ -495,37 +495,37 @@ The Scene subpage allows you to set a group of actions which the Control Panel m
 
 **Step 4** You can create a new Action type by tapping the **+** icon. To remove an existing Action
 
-type, simply tap the icon. ![](<.gitbook/assets/image (1064).png>)
+type, simply tap the icon. ![](<manuals/.gitbook/assets/image (1065).png>)
 
-![](<.gitbook/assets/Unknown image (303)>)
+![](<manuals/.gitbook/assets/Unknown image (303)>)
 
 **Step 5** Tap **Save** to confirm scene setting. The Scene page will be updated with the new Scene.
 
 * Delete a Scene
 
-To remove an existing Scene, simply tap the icon. <img src=".gitbook/assets/image (1065).png" alt="" data-size="line">
+To remove an existing Scene, simply tap the icon. <img src="manuals/.gitbook/assets/image (1066).png" alt="" data-size="line">
 
-<figure><img src=".gitbook/assets/image (1066).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1067).png" alt=""><figcaption></figcaption></figure>
 
 * Apply Scene
 
-You can tap the icon ![](<.gitbook/assets/image (1067).png>) after the scene name to manually execute a scene’s action. You may
+You can tap the icon ![](<manuals/.gitbook/assets/image (1068).png>) after the scene name to manually execute a scene’s action. You may
 
 apply 1 Scene at most each time.
 
-<figure><img src=".gitbook/assets/image (1068).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1069).png" alt=""><figcaption></figcaption></figure>
 
 * Edit Scene
 
-To edit an existing scene, tap the ![](<.gitbook/assets/Unknown image (308)>) icon to view scene content.
+To edit an existing scene, tap the ![](<manuals/.gitbook/assets/Unknown image (308)>) icon to view scene content.
 
-<figure><img src=".gitbook/assets/image (1069).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1070).png" alt=""><figcaption></figcaption></figure>
 
 #### **4.3.2. Room**
 
 The Room subpage allows you to associate several sensors to create one Room. This feature provides a hassle-free way if you wish to turn a light on in the living room. You will not end up turning on a light in the kitchen by mistake. Each device can only be assigned to one Room.
 
-![](<.gitbook/assets/Unknown image (310)>)
+![](<manuals/.gitbook/assets/Unknown image (310)>)
 
 You can create more rooms by tapping the **+** icon at top right.
 
@@ -533,47 +533,47 @@ You can create more rooms by tapping the **+** icon at top right.
 * Enter the Room name in Name field for identification.
 * You can assign Home Automation Devices to each room to monitor and control them.
 
-<figure><img src=".gitbook/assets/image (1070).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1071).png" alt=""><figcaption></figcaption></figure>
 
 #### **4.3.3. Group**
 
 The Group function allows the user to control the same type of devices. The user can control over 6 types of devices, including Switch, Dimmer, Hue, Shutter, Radiator, and Thermostat. Up to 10 subgroups can be created under each type.
 
-![](<.gitbook/assets/Unknown image (134)>)
+![](<manuals/.gitbook/assets/Unknown image (134)>)
 
 * **Switch**
 
-Tap ![](<.gitbook/assets/image (1071).png>) to turn on/off Switch of each Group. To add/delete a group, tap ![](<.gitbook/assets/image (1072).png>). To view details, add/remove a device or rename a group, tap ![](<.gitbook/assets/image (1073).png>)
+Tap ![](<manuals/.gitbook/assets/image (1072).png>) to turn on/off Switch of each Group. To add/delete a group, tap ![](<manuals/.gitbook/assets/image (1073).png>). To view details, add/remove a device or rename a group, tap ![](<manuals/.gitbook/assets/image (1074).png>)
 
-<figure><img src=".gitbook/assets/image (1074).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1075).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1075).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1076).png" alt=""><figcaption></figcaption></figure>
 
 * **Dimmer**
 
-Tap ![](<.gitbook/assets/image (1076).png>) to control Dimmer of each group. To view details, control a group, add/remove a
+Tap ![](<manuals/.gitbook/assets/image (1077).png>) to control Dimmer of each group. To view details, control a group, add/remove a
 
-device, or rename a group, tap ![](<.gitbook/assets/image (1077).png>)
+device, or rename a group, tap ![](<manuals/.gitbook/assets/image (1078).png>)
 
-<figure><img src=".gitbook/assets/image (1078).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1079).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can change the brightness of the devices by adjusting the bar.
 
-![](<.gitbook/assets/Unknown image (143)>)
+![](<manuals/.gitbook/assets/Unknown image (143)>)
 
-![](<.gitbook/assets/Unknown image (144)>)
+![](<manuals/.gitbook/assets/Unknown image (144)>)
 
 * **HUE Bulb**
 
-Tap ![](<.gitbook/assets/image (1079).png>) to control Hue of bulbs in each group. To view details, control a group, add/remove a device, or rename a group, tap ![](<.gitbook/assets/image (1080).png>)
+Tap ![](<manuals/.gitbook/assets/image (1080).png>) to control Hue of bulbs in each group. To view details, control a group, add/remove a device, or rename a group, tap ![](<manuals/.gitbook/assets/image (1081).png>)
 
-<figure><img src=".gitbook/assets/image (1081).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1082).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can control Hue by adjusting the bar or tap Color, Whites, or Preset to change the color of devices in a preset group.
 
-![](<.gitbook/assets/Unknown image (147)>)
+![](<manuals/.gitbook/assets/Unknown image (147)>)
 
-![](<.gitbook/assets/Unknown image (148)>)
+![](<manuals/.gitbook/assets/Unknown image (148)>)
 
 ***
 
@@ -585,41 +585,41 @@ In the Group Control page, the user can control Hue by adjusting the bar or tap 
 
 * **Shutter**
 
-Tap ![](<.gitbook/assets/image (1082).png>) to control Shutter of each group. To view details, control a group, add/remove a device or rename a group, tap ![](<.gitbook/assets/image (1083).png>)
+Tap ![](<manuals/.gitbook/assets/image (1083).png>) to control Shutter of each group. To view details, control a group, add/remove a device or rename a group, tap ![](<manuals/.gitbook/assets/image (1084).png>)
 
-<figure><img src=".gitbook/assets/image (1084).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1085).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can control the shutters at a desired level by adjusting the bar.
 
-<figure><img src=".gitbook/assets/Unknown image (151)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (151)" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Unknown image (152)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (152)" alt=""><figcaption></figcaption></figure>
 
 * **Radiator**
 
-Tap ![](<.gitbook/assets/image (1085).png>) to turn on/off Radiator of each group. To view details, control a group, add/remove a device or rename a group, tap ![](<.gitbook/assets/image (1086).png>)
+Tap ![](<manuals/.gitbook/assets/image (1086).png>) to turn on/off Radiator of each group. To view details, control a group, add/remove a device or rename a group, tap ![](<manuals/.gitbook/assets/image (1087).png>)
 
-<figure><img src=".gitbook/assets/image (1087).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1088).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can control the radiator by adjusting the bar. The mode set points are displayed on the bar. Toggle the bar to increase or decrease the mode set points.
 
-<figure><img src=".gitbook/assets/Unknown image (155)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (155)" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Unknown image (156)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (156)" alt=""><figcaption></figcaption></figure>
 
 * **Thermostat**
 
-Tap ![](<.gitbook/assets/image (1088).png>) to turn on/off Thermostat of each group. To view details, control a group, add/remove
+Tap ![](<manuals/.gitbook/assets/image (1089).png>) to turn on/off Thermostat of each group. To view details, control a group, add/remove
 
-a device or rename a group, tap ![](<.gitbook/assets/image (1089).png>)
+a device or rename a group, tap ![](<manuals/.gitbook/assets/image (1090).png>)
 
-<figure><img src=".gitbook/assets/image (1090).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1091).png" alt=""><figcaption></figcaption></figure>
 
 In the Group Control page, the user can check the list of devices and toggle 2 bars to increase or decrease the mode set points. Tap Auto, Cool, Heat, or Away button to change the modes.
 
-![](<.gitbook/assets/Unknown image (159)>)
+![](<manuals/.gitbook/assets/Unknown image (159)>)
 
-![](<.gitbook/assets/Unknown image (160)>)
+![](<manuals/.gitbook/assets/Unknown image (160)>)
 
 #### **4.3.4. Device**
 
@@ -627,9 +627,9 @@ The device page lists all available devices which can be displayed according to 
 
 Select device category from the dropdown menu on the top right corner to determine the devices to be displayed.
 
-![](<.gitbook/assets/Unknown image (161)>)
+![](<manuals/.gitbook/assets/Unknown image (161)>)
 
-<table data-header-hidden><thead><tr><th width="80"></th><th width="64"></th><th width="82"></th><th width="79"></th><th width="64"></th><th width="67"></th><th width="52"></th><th width="119"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Device Status</strong></td><td>Fault</td><td>Low Battery</td><td>Bypass</td><td>RSSI</td><td>Level</td><td></td><td>Entry Delay Time</td><td>Wired Device</td><td></td></tr><tr><td><strong>Icon</strong></td><td><img src=".gitbook/assets/Unknown image (162)" alt=""></td><td><img src=".gitbook/assets/Unknown image (163)" alt=""></td><td><img src=".gitbook/assets/Unknown image (164)" alt=""></td><td><img src=".gitbook/assets/Unknown image (165)" alt=""> 1-3</td><td><img src=".gitbook/assets/Unknown image (166)" alt=""> 4-6</td><td><img src=".gitbook/assets/Unknown image (167)" alt=""> 7-9</td><td><img src=".gitbook/assets/image (1092).png" alt="" data-size="original"></td><td><img src=".gitbook/assets/image (1091).png" alt="" data-size="original"></td><td><img src=".gitbook/assets/image (1093).png" alt="" data-size="original"></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="80"></th><th width="64"></th><th width="82"></th><th width="79"></th><th width="64"></th><th width="67"></th><th width="52"></th><th width="119"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Device Status</strong></td><td>Fault</td><td>Low Battery</td><td>Bypass</td><td>RSSI</td><td>Level</td><td></td><td>Entry Delay Time</td><td>Wired Device</td><td></td></tr><tr><td><strong>Icon</strong></td><td><img src="manuals/.gitbook/assets/Unknown image (162)" alt=""></td><td><img src="manuals/.gitbook/assets/Unknown image (163)" alt=""></td><td><img src="manuals/.gitbook/assets/Unknown image (164)" alt=""></td><td><img src="manuals/.gitbook/assets/Unknown image (165)" alt=""> 1-3</td><td><img src="manuals/.gitbook/assets/Unknown image (166)" alt=""> 4-6</td><td><img src="manuals/.gitbook/assets/Unknown image (167)" alt=""> 7-9</td><td><img src="manuals/.gitbook/assets/image (1093).png" alt="" data-size="original"></td><td><img src="manuals/.gitbook/assets/image (1092).png" alt="" data-size="original"></td><td><img src="manuals/.gitbook/assets/image (1094).png" alt="" data-size="original"></td></tr></tbody></table>
 
 * Categories: All, Fault, DC Open, Sensors, Automation Device, Keypad, Door Sensor, Siren.
 * The device list displays device information:
@@ -640,12 +640,12 @@ Select device category from the dropdown menu on the top right corner to determi
   * Current power output level will be displayed for dimmers.
   * Temperature and humidity will be displayed for temperature and humidity sensors.
 * Use the device column to control each device or check detailed information.
-  * For Camera type security devices, e.g., PIR Camera, you can tap the camera icon <img src=".gitbook/assets/Unknown image (168)" alt="" data-size="line"> at the end of device column to manual control the camera to take a picture. The requested image will be displayed in the event page.
-  * For Switches or Locks, tap the ON/OFF or LOCK/UNLOCK icon <img src=".gitbook/assets/Unknown image (169)" alt="" data-size="line"> to toggle its status.
+  * For Camera type security devices, e.g., PIR Camera, you can tap the camera icon <img src="manuals/.gitbook/assets/Unknown image (168)" alt="" data-size="line"> at the end of device column to manual control the camera to take a picture. The requested image will be displayed in the event page.
+  * For Switches or Locks, tap the ON/OFF or LOCK/UNLOCK icon <img src="manuals/.gitbook/assets/Unknown image (169)" alt="" data-size="line"> to toggle its status.
   * For Dimmers, either tap the ON/OFF icon to toggle or tap the bar to adjust the output percentage.
-  * For the devices with more detailed data or control options, tap the icon ![](<.gitbook/assets/image (1089).png>) to enter the device’s own page.
+  * For the devices with more detailed data or control options, tap the icon ![](<manuals/.gitbook/assets/image (1090).png>) to enter the device’s own page.
 
-![](<.gitbook/assets/Unknown image (171)>) ![](<.gitbook/assets/Unknown image (172)>)
+![](<manuals/.gitbook/assets/Unknown image (171)>) ![](<manuals/.gitbook/assets/Unknown image (172)>)
 
 #### **4.3.5. Rule**
 
@@ -657,19 +657,19 @@ You can also select the action type to be performed, or simply apply the scene p
 
 Input the “Master Code (default: 1111)” to enter the Rule setting page.
 
-![](<.gitbook/assets/Unknown image (173)>)
+![](<manuals/.gitbook/assets/Unknown image (173)>)
 
 **Step 1** Tap the **+** icon to create a new rule.
 
 ***
 
-![](<.gitbook/assets/Unknown image (174)>)
+![](<manuals/.gitbook/assets/Unknown image (174)>)
 
 **Step 2** You can enter up to 31 characters as your Rule Name.
 
 **Step 3** To set up a Rule, choosing a Trigger Type from the drop-down menu is indispensable. Up to 25 trigger types are available. The options available are dependent upon learnt device(s) in the Control Panel and 1 trigger type can be associated with each rule.
 
-![](<.gitbook/assets/Unknown image (175)>)
+![](<manuals/.gitbook/assets/Unknown image (175)>)
 
 * Mode Change: The system will change to the disarm/full arm/home arm mode as specified.
 * Mode Change and Exit Timer Stopped: When the system changes to the mode as specified and Exit Timer expires, the rule will be activated according to rule condition and execution setting.
@@ -708,7 +708,7 @@ Input the “Master Code (default: 1111)” to enter the Rule setting page.
 
 an alarm is ON. For example, an emergency light will be turned on when there is an alarm and a door contact is open at the same time.
 
-**Step 5** You can create a new Condition type by tapping the ![](<.gitbook/assets/Unknown image (176)>) icon; and remove an existing Condition type by tapping the ![](<.gitbook/assets/Unknown image (177)>) icon.
+**Step 5** You can create a new Condition type by tapping the ![](<manuals/.gitbook/assets/Unknown image (176)>) icon; and remove an existing Condition type by tapping the ![](<manuals/.gitbook/assets/Unknown image (177)>) icon.
 
 **Step 6** Choose a desired Action Type from the drop-down menu. You can also apply a pre-programmed Scene under Rule function.
 
@@ -728,18 +728,18 @@ Up to 11 options of action types are available. The options available are depend
 
 **Step 7** You can create a new Action type by tapping the **+** icon.
 
-To remove an existing Action type, simply tap the <img src=".gitbook/assets/Unknown image (177)" alt="" data-size="line"> icon.
+To remove an existing Action type, simply tap the <img src="manuals/.gitbook/assets/Unknown image (177)" alt="" data-size="line"> icon.
 
 **Step 8** Tap “Save” to confirm scene setting. The Rule page will be updated with the new Scene.
 
 **Step 9** You can tap the **+** icon on top right of the List menu to create a new list. To remove an
 
-existing Rule, simply tap the icon. ![](<.gitbook/assets/image (1065).png>)
+existing Rule, simply tap the icon. ![](<manuals/.gitbook/assets/image (1066).png>)
 
-![](<.gitbook/assets/Unknown image (174)>)
+![](<manuals/.gitbook/assets/Unknown image (174)>)
 
-* Enable/Disable Rule: Toggle on/off the <img src=".gitbook/assets/Unknown image (169)" alt="" data-size="line"> icon to enable/disable the rule.
-* Edit Rule: To edit an existing rule, tap the ![](<.gitbook/assets/Unknown image (178)>) icon to view rule content.
+* Enable/Disable Rule: Toggle on/off the <img src="manuals/.gitbook/assets/Unknown image (169)" alt="" data-size="line"> icon to enable/disable the rule.
+* Edit Rule: To edit an existing rule, tap the ![](<manuals/.gitbook/assets/Unknown image (178)>) icon to view rule content.
 
 ### **4.4. Cam**
 
@@ -749,18 +749,18 @@ TouchPanel-3 is compatible with Climax Video Door Phone and IP Camera. Up to 6 I
 
 Ensure your Control Panel, VDP, and TouchPanel-3 are in the same Local Area Network (LAN). Moreover, both the VDP and TouchPanel-3 should be added into the same Control Panel, or the devices will not be identified.
 
-<figure><img src=".gitbook/assets/image (1094).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1095).png" alt=""><figcaption></figcaption></figure>
 
-* Privacy mode: The icon <img src=".gitbook/assets/image (1095).png" alt="" data-size="line"> indicates that the IP Cam is now in privacy mode.
-* No connection: The icon <img src=".gitbook/assets/image (1096).png" alt="" data-size="line"> indicates that the connection is lost between TouchPanel3 and the device.
+* Privacy mode: The icon <img src="manuals/.gitbook/assets/image (1096).png" alt="" data-size="line"> indicates that the IP Cam is now in privacy mode.
+* No connection: The icon <img src="manuals/.gitbook/assets/image (1097).png" alt="" data-size="line"> indicates that the connection is lost between TouchPanel3 and the device.
 
-![](<.gitbook/assets/Unknown image (179)>)
+![](<manuals/.gitbook/assets/Unknown image (179)>)
 
 #### **4.4.1. Add New VDP / IP CAM**
 
-**Step 1** Tap the Add icon ![](<.gitbook/assets/image (1097).png>) to add a new VDP.
+**Step 1** Tap the Add icon ![](<manuals/.gitbook/assets/image (1098).png>) to add a new VDP.
 
-![](<.gitbook/assets/Unknown image (184)>)
+![](<manuals/.gitbook/assets/Unknown image (184)>)
 
 **Step 2** Select the wireless device for WiFi setup. Follow the onscreen instructions to proceed.
 
@@ -768,34 +768,34 @@ Ensure your Control Panel, VDP, and TouchPanel-3 are in the same Local Area Netw
 
 TouchPanel-3 provides a full screen 3-minute real-time live streaming video. Tap the device you want to check and have a full view on the screen.
 
-![](<.gitbook/assets/Unknown image (185)>) ![](<.gitbook/assets/Unknown image (186)>)
+![](<manuals/.gitbook/assets/Unknown image (185)>) ![](<manuals/.gitbook/assets/Unknown image (186)>)
 
 * Listen-in / Talk: When access the monitoring view, tap the button once to turn on the speaker to listen-in. Tap the button once again to turn on the microphone to talk.
-* Unlock the door: Tap the button <img src=".gitbook/assets/Unknown image (187)" alt="" data-size="line"> to unlock the door.
-* Tap the button <img src=".gitbook/assets/Unknown image (188)" alt="" data-size="line"> to go back to the Cam list.
+* Unlock the door: Tap the button <img src="manuals/.gitbook/assets/Unknown image (187)" alt="" data-size="line"> to unlock the door.
+* Tap the button <img src="manuals/.gitbook/assets/Unknown image (188)" alt="" data-size="line"> to go back to the Cam list.
 * There will be a reminder before the duration is going to end. Tap “Continue” to continue the monitoring view.
 
-![](<.gitbook/assets/Unknown image (189)>)
+![](<manuals/.gitbook/assets/Unknown image (189)>)
 
 #### **4.4.3. VDP Communication**
 
 When there is an incoming call from VDP, you can answer it by controlling the buttons on the screen:
 
-![](<.gitbook/assets/Unknown image (190)>) ![](<.gitbook/assets/Unknown image (186)>)
+![](<manuals/.gitbook/assets/Unknown image (190)>) ![](<manuals/.gitbook/assets/Unknown image (186)>)
 
 * Listen-in / Talk: Tap the button once to pick up the call. The speaker will be turned
 * on for you to listen-in. Tap the button once again to turn on the microphone to talk.
-* Unlock the door: Tap the button <img src=".gitbook/assets/Unknown image (187)" alt="" data-size="line"> to unlock the door.
-* Hang up: Tap the button <img src=".gitbook/assets/Unknown image (191)" alt="" data-size="line"> to terminate the communication.
+* Unlock the door: Tap the button <img src="manuals/.gitbook/assets/Unknown image (187)" alt="" data-size="line"> to unlock the door.
+* Hang up: Tap the button <img src="manuals/.gitbook/assets/Unknown image (191)" alt="" data-size="line"> to terminate the communication.
 * The default duration of the communication is 3 minutes. If the communication needs to be continued, access the VDP on the Cam list to enter the monitoring view.
 
 ***
 
 #### **4.4.4. Cam Settings**
 
-To change settings of the IP Cam, tap the button ![](<.gitbook/assets/image (1098).png>) on each device.
+To change settings of the IP Cam, tap the button ![](<manuals/.gitbook/assets/image (1099).png>) on each device.
 
-![](<.gitbook/assets/Unknown image (193)>)
+![](<manuals/.gitbook/assets/Unknown image (193)>)
 
 * **Device Name**: Name or rename your device for easy identification. Enter a desired name and tap Submit.
 * **Speaker Volume**: Tap the slider to adjust the volume to a desired level.
@@ -803,23 +803,23 @@ To change settings of the IP Cam, tap the button ![](<.gitbook/assets/image (109
 * **Wi-Fi setup**: Change the Wi-Fi setting of the device.
 * **Delete**: Delete the item.
 
-![](<.gitbook/assets/Unknown image (194)>)
+![](<manuals/.gitbook/assets/Unknown image (194)>)
 
 ### **4.5. Events**
 
 The Event page records all alarm/status events, pictures and video transmitted by the Control
 
-Panel. You can view the image or video by tapping the icon <img src=".gitbook/assets/Unknown image (195)" alt="" data-size="line">. If AI recognizes a person /
+Panel. You can view the image or video by tapping the icon <img src="manuals/.gitbook/assets/Unknown image (195)" alt="" data-size="line">. If AI recognizes a person /
 
-persons in the image, an AI icon ![](<.gitbook/assets/image (1099).png>) will be displayed alongside it.
+persons in the image, an AI icon ![](<manuals/.gitbook/assets/image (1100).png>) will be displayed alongside it.
 
-![](<.gitbook/assets/Unknown image (197)>)
+![](<manuals/.gitbook/assets/Unknown image (197)>)
 
-![](<.gitbook/assets/Unknown image (199)>)
+![](<manuals/.gitbook/assets/Unknown image (199)>)
 
 ## 5. Settings
 
-Tap the gear icon <img src=".gitbook/assets/Unknown image (282)" alt="" data-size="line"> at the top-right corner of the screen to open the **Settings** menu. This menu provides quick access to basic features and settings that don't require an Installer or Master code.
+Tap the gear icon <img src="manuals/.gitbook/assets/Unknown image (282)" alt="" data-size="line"> at the top-right corner of the screen to open the **Settings** menu. This menu provides quick access to basic features and settings that don't require an Installer or Master code.
 
 However, the **Equipment Management** section within the Settings menu contains advanced options for the Panel and is protected by the Panel's Installer code.
 
@@ -831,7 +831,7 @@ Note:
 Certain settings, including Face Detection, Equipment Management, Bluetooth Disarm, Tablet Settings, and About, can only be accessed when the Control Panel is **disarmed**.
 {% endhint %}
 
-![](<.gitbook/assets/Unknown image (267)>) ![](<.gitbook/assets/Unknown image (200)>) ![](<.gitbook/assets/Unknown image (201)>)
+![](<manuals/.gitbook/assets/Unknown image (267)>) ![](<manuals/.gitbook/assets/Unknown image (200)>) ![](<manuals/.gitbook/assets/Unknown image (201)>)
 
 <table data-header-hidden><thead><tr><th width="152"></th><th></th></tr></thead><tbody><tr><td><strong>Setting</strong></td><td><strong>Description</strong></td></tr><tr><td><strong>Brightness</strong></td><td>Change the brightness of the screen by dragging the slider.</td></tr><tr><td><strong>Volume</strong></td><td>Change the volume of the user interface by dragging the slider.</td></tr><tr><td><strong>Face Detection</strong></td><td>Tap the toggle to enable or disable this function. When it is enabled, your face needs to be detected to disarm the system. Please refer to <em><strong>5.1.</strong></em><strong>****</strong><em><strong>Face Detection</strong></em>section for details.</td></tr><tr><td><strong>Display Home Screen</strong></td><td>Enable this function to display home screen when screen has been idle for 1 minute/3 minutes, or select Never to disable this function.</td></tr><tr><td><strong>Screen Saver</strong></td><td>Enable this function after the screen has been idle for 1 minute / 5 minutes, or select Never to disable this function. The Panel screen will display the images stored in the SD card.</td></tr><tr><td><strong>Screen Timeout</strong></td><td>Enable this function to turn off the screen after the specified idle period ( 15 secs / 30 secs / 1 min / 2 mins / 5 mins / 10 mins / 30 mins) Select "Never" to keep the screen always on.</td></tr><tr><td><strong>Device Bypass</strong></td><td><p>This function allows user to bypass sensors when the system is disarmed. The system panel will not respond at all when a bypassed sensor is triggered. The system can be armed directly if a device is bypassed, regardless of any device faults. However, the faults will still be monitored, logged, and displayed on the webpage.</p><ul><li>Permanently bypass will bypass selected device(s) until they are deselected. It requires** Installer Code** to access, and is allowed for Installer/Master user only.</li><li>One-time bypass provides temporary bypass function of any device until the system turns to disarm mode. It requires <strong>User PIN</strong></li></ul><p><strong>Code</strong> to access, and is allowed for Installer/Master/Slave user.</p></td></tr><tr><td><strong>Equipment Management</strong></td><td>The Equipment Management provides advanced settings for the Panel. It is protected by the Panel's installer code. Please refer to <em><strong>5.2.</strong></em><strong>****</strong><em><strong>Equipment Management</strong></em>section for details.</td></tr><tr><td><strong>Hotspot Sharing</strong></td><td>TouchPanel-3 can function as a hotspot, sharing its internet connection with nearby devices by configuring the SSID and password. Please refer to <em><strong>5.3. Hotspot Sharing</strong></em>section for details.</td></tr><tr><td><strong>Bluetooth Disarm</strong></td><td>The Bluetooth Disarming feature allows the users to disarm the system via Bluetooth simply by approaching the panel with their smartphones. Please refer to <em><strong>5.4. Bluetooth Disarm</strong></em>section for Bluetooth Setup instructions.</td></tr><tr><td><strong>Region Format</strong></td><td>Select date and time format for the user interface.</td></tr><tr><td><strong>Language</strong></td><td>Change the Panel’s language</td></tr><tr><td><strong>Setting</strong></td><td><strong>Description</strong></td></tr><tr><td><strong>Sync Logo</strong></td><td>This function allows the Panel to sync customized dealer logo with Vesta Server. Enter installer code to proceed.</td></tr><tr><td><strong>About</strong></td><td>The information about App version / Panel version, ROM version, TSP Mac, and Panel Mac will be displayed in this page. Please refer to <em><strong>5.5 About</strong></em>section for details.</td></tr></tbody></table>
 
@@ -841,7 +841,7 @@ When the Face Detection feature is turned on, the system must detect a face to d
 
 * When **Disarm** is tapped, the following dialog box will be displayed, requesting the user to position his/her face in the camera frame to activate pin entering for disarming.
 
-<figure><img src=".gitbook/assets/Unknown image (295)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (295)" alt=""><figcaption></figcaption></figure>
 
 * The Panel will auto capture a photo when a face is detected and display the captured image for 3 seconds.
 * After 3 seconds, the panel will display PIN code page with disarm icon. Enter the use PIN code to disarm the system.
@@ -853,7 +853,7 @@ The Equipment Management under the setting page provides advanced setting for th
 
 Enter the default **Installer Code** **7982** to access full setting functions.
 
-![](<.gitbook/assets/Unknown image (202)>) ![](<.gitbook/assets/Unknown image (203)>)
+![](<manuals/.gitbook/assets/Unknown image (202)>) ![](<manuals/.gitbook/assets/Unknown image (203)>)
 
 #### **5.2.1. Device**
 
@@ -861,81 +861,81 @@ The Device setting subpage includes the following functions:
 
 Tap the respective icon for different function setting (from left to right).
 
-![](<.gitbook/assets/Unknown image (204)>)
+![](<manuals/.gitbook/assets/Unknown image (204)>)
 
 #### **5.2.1.1. Device Search**
 
-* <img src=".gitbook/assets/Unknown image (205)" alt="" data-size="line"> Users can directly search for the device they are seeking without scrolling through the entire list of devices.
+* <img src="manuals/.gitbook/assets/Unknown image (205)" alt="" data-size="line"> Users can directly search for the device they are seeking without scrolling through the entire list of devices.
 
-![](<.gitbook/assets/Unknown image (206)>)
+![](<manuals/.gitbook/assets/Unknown image (206)>)
 
 #### **5.2.1.2. Device Learning**
 
 **Step 1** Tap **+** icon to enter learning mode.
 
-![](<.gitbook/assets/Unknown image (207)>) ![](<.gitbook/assets/Unknown image (208)>)
+![](<manuals/.gitbook/assets/Unknown image (207)>) ![](<manuals/.gitbook/assets/Unknown image (208)>)
 
 **Step 2** Refer to accessory device manual to transmit learn signal from the device. When the panel receives learn signal, the device info will be displayed.
 
 **Step 3** Check the box in front of device info, then tap OK to add the device into Control Panel.
 
-<img src=".gitbook/assets/Unknown image (209)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (209)" alt="" width="375">
 
 **Step 4** After a new device has been added / learnt / included into the Control Panel, a Device Wizard will pop up, allowing users to edit area, zone, and device name.
 
-<img src=".gitbook/assets/Unknown image (210)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (210)" alt="" width="375">
 
 **Step 5** Adding device is complete. Tap **OK** to close the dialog box.
 
-<img src=".gitbook/assets/Unknown image (211)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (211)" alt="" width="375">
 
 #### **5.2.1.3. Device Exclusion: (For removing Z-Wave device only)**
 
 **Step 1** Tap **–** icon to enter removing Z-Wave device mode.
 
-<img src=".gitbook/assets/Unknown image (212)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (212)" alt="" width="375">
 
 **Step 2** Refer to the Z-Wave device manual to transmit signal. When the panel receives exclusion signal, the webpage will display device info.
 
 **Step 3** Tap OK to remove the Z-Wave device.
 
-**Step 4** Tap icon to refresh device list info. The Z-wave device is removed from the device list. ![](<.gitbook/assets/image (1100).png>)
+**Step 4** Tap icon to refresh device list info. The Z-wave device is removed from the device list. ![](<manuals/.gitbook/assets/image (1101).png>)
 
 #### **5.2.1.4. Walk Test**
 
-**Step 1** Tap icon ![](<.gitbook/assets/image (1101).png>) to enter Walk Test mode.
+**Step 1** Tap icon ![](<manuals/.gitbook/assets/image (1102).png>) to enter Walk Test mode.
 
-![](<.gitbook/assets/Unknown image (315)>)
+![](<manuals/.gitbook/assets/Unknown image (315)>)
 
 **Step 2** Refer to device menu and press the test button to transmit a test signal for signal range test. When the signal is received, the device info and signal strength in RSSI value will be displayed. (IP Camera will send signal automatically upon entering Walk Test and does not require button press.)
 
-![](<.gitbook/assets/Unknown image (316)>)
+![](<manuals/.gitbook/assets/Unknown image (316)>)
 
 #### **5.2.1.5. Refresh Device List**
 
-Tap <img src=".gitbook/assets/Unknown image (317)" alt="" data-size="line"> icon to refresh device list info.
+Tap <img src="manuals/.gitbook/assets/Unknown image (317)" alt="" data-size="line"> icon to refresh device list info.
 
 **5.2.1.6. Delete Device**
 
-**Step 1** To remove learnt in devices, tap ![](<.gitbook/assets/image (1064).png>) icon to access delete device menu.
+**Step 1** To remove learnt in devices, tap ![](<manuals/.gitbook/assets/image (1065).png>) icon to access delete device menu.
 
-![](<.gitbook/assets/Unknown image (319)>)
+![](<manuals/.gitbook/assets/Unknown image (319)>)
 
 **Step 2** Check the box at end of device column and tap **OK** to remove the selected devices from the system.
 
-![](<.gitbook/assets/Unknown image (320)>)
+![](<manuals/.gitbook/assets/Unknown image (320)>)
 
 #### **5.2.1.7. Edit Device**
 
-Tap the icon ![](<.gitbook/assets/image (1089).png>) at end of each device info column to enter Edit Device Page.
+Tap the icon ![](<manuals/.gitbook/assets/image (1090).png>) at end of each device info column to enter Edit Device Page.
 
-![](<.gitbook/assets/Unknown image (322)>)
+![](<manuals/.gitbook/assets/Unknown image (322)>)
 
 The following is an example of VST-892’s settings and remote configuration.
 
-<figure><img src=".gitbook/assets/Unknown image (323)" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/Unknown image (323)" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/Unknown image (324)>)
+![](<manuals/.gitbook/assets/Unknown image (324)>)
 
 **Setting**
 
@@ -994,7 +994,7 @@ Some devices have their own unique functions and will have its own attribute set
 
 ***
 
-![](<.gitbook/assets/Unknown image (327)>)
+![](<manuals/.gitbook/assets/Unknown image (327)>)
 
 * Select to turn on / off the Pet immunity feature and set the sensitivity level (High/Low) from the dropdown menus for VST-892 PIR Cameras, then tap **Submit** to save the settings.
 
@@ -1002,11 +1002,11 @@ Some devices have their own unique functions and will have its own attribute set
 
 #### **5.2.2. Panel Settings**
 
-![](<.gitbook/assets/Unknown image (328)>)
+![](<manuals/.gitbook/assets/Unknown image (328)>)
 
 #### **5.2.2.1. Security**
 
-![](<.gitbook/assets/Unknown image (329)>)
+![](<manuals/.gitbook/assets/Unknown image (329)>)
 
 **All Mode**
 
@@ -1044,7 +1044,7 @@ The Control Panel sounds a Door Chime (Ding-Dong Sound) while the DC and/or IR i
 * **Warning Beep**: Select whether the Control Panel will sound a warning beep whenever a fault condition has been detected and displayed. The warning beep will be silenced after the Fault message has been read by the user. When a new fault condition is detected, it will then again emit a warning beep every 30 seconds.
 * \*\*Entry / Exit Only Final Beeps:\*\*Select when the Control Panel should start warning beep during the Entry or Exit delay. For example, if the setting is set to 5 seconds, the Control Panel will only start warning beeps during the last 5 seconds of Entry or Exit timer. When set to _Disable_, the Control Panel will sound warning beeps throughout the entire Entry or Exit countdown period.
 
-![](<.gitbook/assets/Unknown image (330)>)
+![](<manuals/.gitbook/assets/Unknown image (330)>)
 
 **Away**
 
@@ -1060,7 +1060,7 @@ If the Control Panel is disarmed before the Entry Delay Timer expires, the Panel
 * **Entry Delay Sound**: Select whether the Control Panel sounds countdown beeps during the entry delay time in the full arm mode and set the beep volume.
 * **Exit Delay Sound**: Select whether the Control Panel sounds countdown beeps during the exit delay timer in the full arm mode and set the beep volume.
 
-![](<.gitbook/assets/Unknown image (331)>)
+![](<manuals/.gitbook/assets/Unknown image (331)>)
 
 **Home**
 
@@ -1078,7 +1078,7 @@ If the Control Panel is disarmed before the Entry Delay Timer expires, the Panel
 
 #### **5.2.2.2. Panel**
 
-![](<.gitbook/assets/Unknown image (332)>)
+![](<manuals/.gitbook/assets/Unknown image (332)>)
 
 **Panel Settings**
 
@@ -1108,13 +1108,13 @@ When turned off, siren tamper will be enabled again automatically after one hour
 
 * The Control Panel’s information, including firmware version, mac address, RF version, Z-wave version, and GSM version, will be displayed.
 
-![](<.gitbook/assets/Unknown image (335)>)
+![](<manuals/.gitbook/assets/Unknown image (335)>)
 
 #### **5.2.2.3. Code**
 
 The Master Code, Installer Code, Duress Code, Guard Code, and Temporary Code add the flexibility of different security levels for operation in **Code Settings** menu.
 
-![](<.gitbook/assets/Unknown image (336)>)
+![](<manuals/.gitbook/assets/Unknown image (336)>)
 
 Key in your preferred 4-6 digit codes.
 
@@ -1131,9 +1131,9 @@ The Installer Code is used for advanced Programming. The default Installer code 
 * **Temporary Code:Temporary Code is also used to arm/disarm the system, but it is for a temporary user. The temporary Code is ONLY valid for one-access per arming and disarming. Afterwards, the Temporary Code will be automatically erased and needs to be reset for a new Temporary user.**
 * **Latch Option:** This is to program the Latch Key Reporting feature for Temporary Code.
 
-![](<.gitbook/assets/Unknown image (337)>)Latch -> **Latch Report ON** = Whenever the Temporary Code is used to change system mode, the panel will report the event.
+![](<manuals/.gitbook/assets/Unknown image (337)>)Latch -> **Latch Report ON** = Whenever the Temporary Code is used to change system mode, the panel will report the event.
 
-![](<.gitbook/assets/Unknown image (338)>)Latch -> **Latch Report OFF** = Whenever the Temporary Code is used to change system mode, the panel will not report the event.
+![](<manuals/.gitbook/assets/Unknown image (338)>)Latch -> **Latch Report OFF** = Whenever the Temporary Code is used to change system mode, the panel will not report the event.
 
 **Delete**
 
@@ -1143,7 +1143,7 @@ After completing all settings, tap **Submit**to save the changes.
 
 #### **5.2.2.4. Date and Time**
 
-![](<.gitbook/assets/Unknown image (339)>)
+![](<manuals/.gitbook/assets/Unknown image (339)>)
 
 * **Time Zone:** Choose your time zone, and then the system will calculate the daylight-saving time automatically (if necessary).
 * \*\*Date & Time:\*\*Set current month, date, and time.
@@ -1153,7 +1153,7 @@ Tap **Submit** to save the settings.
 
 #### **5.2.2.5. Factory Reset**
 
-![](<.gitbook/assets/Unknown image (340)>)
+![](<manuals/.gitbook/assets/Unknown image (340)>)
 
 * Tick the **Keep the current network setting** box to keep the current Network settings. Otherwise, the system will reset its value back to factory default.
 * Tick the **Keep the current device list**box to keep the current learnt-in devices. Otherwise, the system will reset its value back to factory default.
@@ -1166,7 +1166,7 @@ Users can rename the area. All related label will be updated to the renamed area
 
 Tap **Submit** to save the settings (submission is not allowed if the fields are left blank).
 
-![](<.gitbook/assets/Unknown image (341)>)
+![](<manuals/.gitbook/assets/Unknown image (341)>)
 
 #### **5.2.3. User PIN**
 
@@ -1180,7 +1180,7 @@ Password: **1234** Password: **4321**
 
 Tag Number will be displayed if the Panel has learned in any device (e.g. keypad, tag reader) that supports remote Tag configuration.
 
-![](<.gitbook/assets/Unknown image (342)>)
+![](<manuals/.gitbook/assets/Unknown image (342)>)
 
 **Area**
 
@@ -1192,19 +1192,19 @@ Tag Number will be displayed if the Panel has learned in any device (e.g. keypad
 * **PIN Code**: Enter the 4-6 digit code in the field.\*\*\*\*
 * **Latch:**
 
-![](<.gitbook/assets/Unknown image (337)>)Latch -> **Latch Report ON** = Whenever the User PIN Code is used to change system mode, the panel will report the event.
+![](<manuals/.gitbook/assets/Unknown image (337)>)Latch -> **Latch Report ON** = Whenever the User PIN Code is used to change system mode, the panel will report the event.
 
-![](<.gitbook/assets/Unknown image (338)>)Latch -> **Latch Report OFF**= When the User PIN Code is used to change system mode, the panel will not report the event.
+![](<manuals/.gitbook/assets/Unknown image (338)>)Latch -> **Latch Report OFF**= When the User PIN Code is used to change system mode, the panel will not report the event.
 
 * **Tag Numer**: When the keypad / tag reader reads a new tag, pressing the **Load button** will load the tag number.
 
 **Clear**
 
-To clear PIN Code information, tap <img src=".gitbook/assets/Unknown image (343)" alt="" data-size="line"> on the upper right to access the clear menu. Select PIN code(s) to be removed, and tap Clear.
+To clear PIN Code information, tap <img src="manuals/.gitbook/assets/Unknown image (343)" alt="" data-size="line"> on the upper right to access the clear menu. Select PIN code(s) to be removed, and tap Clear.
 
 **User#1** in each area cannot be deleted.
 
-![](<.gitbook/assets/Unknown image (344)>)
+![](<manuals/.gitbook/assets/Unknown image (344)>)
 
 ***
 
@@ -1214,13 +1214,13 @@ After completing all settings, tap **Submit** to save the changes.
 
 The Cross-area User PIN page is used to program multi-area system mode control function.
 
-![](<.gitbook/assets/Unknown image (345)>)
+![](<manuals/.gitbook/assets/Unknown image (345)>)
 
 Use the Slider to enable/disable multi-area change mode.
 
 When enabled, you will see the option to change mode for both areas in the system when arming/disarming the control panel.
 
-![](<.gitbook/assets/Unknown image (346)>)
+![](<manuals/.gitbook/assets/Unknown image (346)>)
 
 Enter the username and PIN code, then select Area 1 and/or Area 2 to determine whether this PIN code can be used to control mode for both areas simultaneously.
 
@@ -1230,11 +1230,11 @@ The system can be connected through Ethernet, WiFi, or 4G/LTE. When all the thre
 
 WiFi connection provides backup to Ethernet to extend system flexibility.
 
-![](<.gitbook/assets/Unknown image (347)>)
+![](<manuals/.gitbook/assets/Unknown image (347)>)
 
 #### **5.2.5.1. GSM**
 
-![](<.gitbook/assets/Unknown image (348)>)
+![](<manuals/.gitbook/assets/Unknown image (348)>)
 
 **GSM**
 
@@ -1254,7 +1254,7 @@ Tap “Submit” to confirm the settings.
 
 #### **5.2.5.2. GPRS**
 
-![](<.gitbook/assets/Unknown image (349)>)
+![](<manuals/.gitbook/assets/Unknown image (349)>)
 
 **GPRS**
 
@@ -1264,7 +1264,7 @@ Tap “Submit” to confirm the settings.
 
 #### **5.2.5.3. Wireless**
 
-![](<.gitbook/assets/Unknown image (350)>)
+![](<manuals/.gitbook/assets/Unknown image (350)>)
 
 **Wireless**
 
@@ -1274,13 +1274,13 @@ Adding WiFi connection is NOT allowed when the Panel is connected through Ethern
 
 #### **5.2.6. Report**
 
-![](<.gitbook/assets/Unknown image (351)>)
+![](<manuals/.gitbook/assets/Unknown image (351)>)
 
 #### **5.2.6.1. Report**
 
 This page allows installers to configure report-related settings for reporting purposes.
 
-![](<.gitbook/assets/Unknown image (352)>)
+![](<manuals/.gitbook/assets/Unknown image (352)>)
 
 **Step 1** Tap **+** to add a report destination. A dialogbox will pop up for you to program the report destination.
 
@@ -1292,9 +1292,9 @@ Tap “Submit” at bottom of page to confirm setting.
 
 **Report Format**
 
-Tap the info icon ![](<.gitbook/assets/Unknown image (353)>) to display the Report format.
+Tap the info icon ![](<manuals/.gitbook/assets/Unknown image (353)>) to display the Report format.
 
-![](<.gitbook/assets/Unknown image (354)>)
+![](<manuals/.gitbook/assets/Unknown image (354)>)
 
 * Climax CID protocol via IP
 
@@ -1383,13 +1383,13 @@ Status events: The system will only report status event(non-alarm events) to thi
 
 **Test Button:** There is a "Test" button on the right of each report destination row. When tapped, the system will send a manual test report. A green check indicates that the report was sent successfully, and a red cross indicates the report failed.
 
-![](<.gitbook/assets/Unknown image (355)>)
+![](<manuals/.gitbook/assets/Unknown image (355)>)
 
 #### **5.2.6.2. Media Upload**
 
 The system can deliver captured images and video clips captured by PIR Cameras and PIR Video Camera to cell phone, e-mail, or ftp.
 
-![](<.gitbook/assets/Unknown image (356)>)
+![](<manuals/.gitbook/assets/Unknown image (356)>)
 
 **Step 1** Tap **+** icon to add an upload destination. A dialogbox will pop up for you to program the upload destination.
 
@@ -1401,7 +1401,7 @@ Tap **Submit** to save the settings.
 
 Tap the info icon to display the upload method.
 
-<img src=".gitbook/assets/Unknown image (357)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (357)" alt="" width="375">
 
 * **FTP:**[ ftp://user.password@server/path](ftp://user.password@server/path)
 * **HTTP:** http://ip:port/path
@@ -1412,7 +1412,7 @@ Tap the info icon to display the upload method.
 
 This is used for setting SMS reporting.
 
-![](<.gitbook/assets/Unknown image (92)>)
+![](<manuals/.gitbook/assets/Unknown image (92)>)
 
 **Step 1** Tap **+** to add an SMS report destination. A dialogbox will appear, allowing you to program the report destination.
 
@@ -1422,9 +1422,9 @@ Tap **Submit** to save the settings.
 
 **SMS Report Format**
 
-Tap the info icon ![](<.gitbook/assets/Unknown image (353)>) to display the SMS report format.
+Tap the info icon ![](<manuals/.gitbook/assets/Unknown image (353)>) to display the SMS report format.
 
-<img src=".gitbook/assets/Unknown image (93)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (93)" alt="" width="375">
 
 * SMS in CID
 
@@ -1450,7 +1450,7 @@ TouchPanel-3 with microphone and speaker is able to make voice call during alarm
 
 **The panel will make voice report after the first successful alarm reporting. At least one report destination must be programmed to use voice reporting function.**
 
-![](<.gitbook/assets/Unknown image (94)>)
+![](<manuals/.gitbook/assets/Unknown image (94)>)
 
 TouchPanel-3 supports two types of Voice Report: GSM and VOIP. Program and select the type you would like to use for reporting.
 
@@ -1464,11 +1464,11 @@ The panel will make voice report to this telephone number after the first alarm 
 
 The panel will enter a waiting period for call back after initial alarm report has ended.
 
-![](<.gitbook/assets/Unknown image (95)>)
+![](<manuals/.gitbook/assets/Unknown image (95)>)
 
 **VOIP**
 
-![](<.gitbook/assets/Unknown image (96)>) ![](<.gitbook/assets/Unknown image (97)>)
+![](<manuals/.gitbook/assets/Unknown image (96)>) ![](<manuals/.gitbook/assets/Unknown image (97)>)
 
 VOIP SIP Settings
 
@@ -1483,7 +1483,7 @@ Tap **Submit** to confirm.
 
 Program the mail server related settings. The email account you set here would be used to send report for events or picture and video clip captured by PIR Camera and PIR Video Camera.
 
-![](<.gitbook/assets/Unknown image (98)>)
+![](<manuals/.gitbook/assets/Unknown image (98)>)
 
 **Step 1** Enter the following settings:
 
@@ -1498,22 +1498,22 @@ Program the mail server related settings. The email account you set here would b
 
 #### **5.2.7. Wired Device**
 
-![](<.gitbook/assets/Unknown image (99)>)
+![](<manuals/.gitbook/assets/Unknown image (99)>)
 
 There are two on-board wired zones on TouchPanel-3.
 
 * One wired control output (open collector)
 * One wired input (non powered)
 
-![](<.gitbook/assets/Unknown image (100)>)
+![](<manuals/.gitbook/assets/Unknown image (100)>)
 
 **Device 1 (Wired Output)**
 
 **Type**: Select to activate the power switch from the Type dropdown menu. The default setting is “Disabled”
 
-**Edit** ![](<.gitbook/assets/image (1117).png>) Tap to assign the output power switch to a zone and area.
+**Edit** ![](<manuals/.gitbook/assets/image (1118).png>) Tap to assign the output power switch to a zone and area.
 
-<figure><img src=".gitbook/assets/image (1118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
 
 **Device 2 (Wired Input)**
 
@@ -1521,13 +1521,13 @@ There are two on-board wired zones on TouchPanel-3.
 
 **Loop**: Select the number of loop (1 or 2) corresponding to the wiring for each device from the dropdown menu.
 
-<figure><img src=".gitbook/assets/image (1111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1112).png" alt=""><figcaption></figcaption></figure>
 
-Tap the info icon ![](<.gitbook/assets/image (1112).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
+Tap the info icon ![](<manuals/.gitbook/assets/image (1113).png>)to display wiring diagrams of Loop 1 & 2 for your reference.
 
-![](<.gitbook/assets/Unknown image (105)>)
+![](<manuals/.gitbook/assets/Unknown image (105)>)
 
-**Edit**<img src=".gitbook/assets/Unknown image (106)" alt="" data-size="line"> :Tap to assign the wired input device to a zone and area.
+**Edit**<img src="manuals/.gitbook/assets/Unknown image (106)" alt="" data-size="line"> :Tap to assign the wired input device to a zone and area.
 
 After completing all settings, tap **Submit** to save the changes.
 
@@ -1539,15 +1539,15 @@ This function is available whether the Panel is connected through Ethernet, WiFi
 
 Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to access hotspot setting.
 
-<figure><img src=".gitbook/assets/image (1113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1114).png" alt=""><figcaption></figcaption></figure>
 
 Toggle ON/OFF the Hotspot Sharing function.
 
-![](<.gitbook/assets/Unknown image (108)>)
+![](<manuals/.gitbook/assets/Unknown image (108)>)
 
 * Enter the SSID and Password, and tap Submit. (Both SSID and Password can be edited no matter what toggle status is. Toggle status won't be changed after SSID or Password is edited.)
 
-![](<.gitbook/assets/Unknown image (109)>)
+![](<manuals/.gitbook/assets/Unknown image (109)>)
 
 ***
 
@@ -1559,43 +1559,43 @@ Up to **5 smartphones** can be paired with TouchPanel-3 for disarming the system
 
 Enter the **Master Code** (default: 1111) or **Installer Code** **7982** to enter Bluetooth Disarming setting.
 
-![](<.gitbook/assets/Unknown image (110)>)
+![](<manuals/.gitbook/assets/Unknown image (110)>)
 
-![](<.gitbook/assets/Unknown image (173)>)
+![](<manuals/.gitbook/assets/Unknown image (173)>)
 
 **Pairing your smartphone with TouchPanel-3**
 
 **Step 1. On your smartphone, tap on Settings** >> **Bluetooth**, and toggle the switch to turn on Bluetooth. Stay on this page.
 
-![](<.gitbook/assets/Unknown image (111)>) ![](<.gitbook/assets/Unknown image (112)>)
+![](<manuals/.gitbook/assets/Unknown image (111)>) ![](<manuals/.gitbook/assets/Unknown image (112)>)
 
-**Step 2.** On TouchPanel-3, navigate to the Bluetooth Disarming settings page and tap <img src=".gitbook/assets/image (1114).png" alt="" data-size="line"> to enter Bluetooth pairing mode.
+**Step 2.** On TouchPanel-3, navigate to the Bluetooth Disarming settings page and tap <img src="manuals/.gitbook/assets/image (1115).png" alt="" data-size="line"> to enter Bluetooth pairing mode.
 
-A Bluetooth icon ![](<.gitbook/assets/image (1115).png>) will appear, indicating that Bluetooth is active.
+A Bluetooth icon ![](<manuals/.gitbook/assets/image (1116).png>) will appear, indicating that Bluetooth is active.
 
-![](<.gitbook/assets/Unknown image (114)>) ![](<.gitbook/assets/Unknown image (115)>) ![](<.gitbook/assets/Unknown image (116)>)
+![](<manuals/.gitbook/assets/Unknown image (114)>) ![](<manuals/.gitbook/assets/Unknown image (115)>) ![](<manuals/.gitbook/assets/Unknown image (116)>)
 
 **Step 3.** The scanned mobile device will be displayed. Select the device by tapping the radio button and then tap **Submit**.
 
-![](<.gitbook/assets/Unknown image (117)>)
+![](<manuals/.gitbook/assets/Unknown image (117)>)
 
 **Step 4.** The Bluetooth pairing request with a pairing code will appear on both devices. Confirm and tap **Pair** on both devices to complete the pairing.
 
-![](<.gitbook/assets/Unknown image (118)>) ![](<.gitbook/assets/Unknown image (119)>)
+![](<manuals/.gitbook/assets/Unknown image (118)>) ![](<manuals/.gitbook/assets/Unknown image (119)>)
 
 **Step 5.** When pairing is successful, tap OK to proceed to **Set User PIN** page. Input the corresponding User PIN for applicable area(s), then tap Submit.
 
-![](<.gitbook/assets/Unknown image (120)>) ![](<.gitbook/assets/Unknown image (121)>)
+![](<manuals/.gitbook/assets/Unknown image (120)>) ![](<manuals/.gitbook/assets/Unknown image (121)>)
 
 **Step 6.** Bluetooth pairing is complete. You can go back to **Bluetooth Disarming** setting page to verify that your smartphone is listed as a paired device.
 
-![](<.gitbook/assets/Unknown image (122)>)
+![](<manuals/.gitbook/assets/Unknown image (122)>)
 
 Also, go to your smartphone’s **Bluetooth** settings and verify that TouchPanel-3
 
 (**TPxxxxxx**, where xxxxxx is the last 6 digits of the panel’s MAC address) is listed as a paired device.
 
-![](<.gitbook/assets/Unknown image (123)>)
+![](<manuals/.gitbook/assets/Unknown image (123)>)
 
 It is normal for TouchPanel-3 to show as "Not Connected" on your smartphone, as the system only searches for nearby Bluetooth devices when in **Away Arm Mode**.
 
@@ -1612,17 +1612,17 @@ _**Note:**_
 
 **Edit User PIN Code for the paired Smartphone**
 
-Go to **Bluetooth Disarming** setting page to access a list of paired devices. Tap the Edit icon ![](<.gitbook/assets/Unknown image (124)>)at the device row to enter **Set User PIN** page. Input the corresponding User PIN for applicable area(s), then tap Submit.
+Go to **Bluetooth Disarming** setting page to access a list of paired devices. Tap the Edit icon ![](<manuals/.gitbook/assets/Unknown image (124)>)at the device row to enter **Set User PIN** page. Input the corresponding User PIN for applicable area(s), then tap Submit.
 
-![](<.gitbook/assets/Unknown image (125)>) ![](<.gitbook/assets/Unknown image (126)>)
+![](<manuals/.gitbook/assets/Unknown image (125)>) ![](<manuals/.gitbook/assets/Unknown image (126)>)
 
 **Unpair your smartphone from TouchPanel-3**
 
-**Step 1.** Go to **Bluetooth Disarming** setting page to access a list of paired devices. Tap the Delete icon <img src=".gitbook/assets/image (1065).png" alt="" data-size="line"> at the device row. A confirm message“ Are you sure to remove this item” will pop up. Tap **Yes** to confirm.
+**Step 1.** Go to **Bluetooth Disarming** setting page to access a list of paired devices. Tap the Delete icon <img src="manuals/.gitbook/assets/image (1066).png" alt="" data-size="line"> at the device row. A confirm message“ Are you sure to remove this item” will pop up. Tap **Yes** to confirm.
 
-![](<.gitbook/assets/Unknown image (129)>)
+![](<manuals/.gitbook/assets/Unknown image (129)>)
 
-<figure><img src=".gitbook/assets/image (1116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1117).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.** Then, delete TouchPanel-3 from your smartphone. Navigate the Smartphone’s **Settings > Bluetooth > My Devices**. Tap the paired TouchPanel-3 and select **Forget This Device** to remove it from the device list.
 
@@ -1630,15 +1630,15 @@ Go to **Bluetooth Disarming** setting page to access a list of paired devices. T
 
 The App version, Panel version, ROM version, TSP Mac, and Panel Mac information will be displayed on this page.
 
-<img src=".gitbook/assets/Unknown image (130)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (130)" alt="" width="375">
 
 When you tap "About," the system will automatically check for updates. If a new version is available, tap **Install** to download and apply the update. Ensure TouchPanel-3 is connected to the internet before Installing.
 
-<img src=".gitbook/assets/Unknown image (131)" alt="" width="375">
+<img src="manuals/.gitbook/assets/Unknown image (131)" alt="" width="375">
 
 If the Panel is updated to the latest version, a <mark style="color:green;">**GREEN**</mark> check mark will appear next to the App version. If an update is available, a <mark style="color:red;">**RED**</mark> exclamation mark will be displayed.
 
-![](<.gitbook/assets/Unknown image (132)>) ![](<.gitbook/assets/Unknown image (133)>)
+![](<manuals/.gitbook/assets/Unknown image (132)>) ![](<manuals/.gitbook/assets/Unknown image (133)>)
 
 ## 6. Voice Prompts
 

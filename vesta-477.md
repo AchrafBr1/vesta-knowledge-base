@@ -4,7 +4,7 @@ EIR-35
 
 ## Outdoor PIR Motion Detector
 
-<figure><img src=".gitbook/assets/image (1379).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1380).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The EIR-35 is an advanced outdoor passive infrared (PIR) motion detector. Built to withstand outdoor conditions, the EIR-35 features UV-resistant housing and IPX5 waterproofing, making it suitable for areas like backyards, gates, and outdoor corridors.
 
@@ -12,7 +12,7 @@ With a typical detection range of **10 meters** when mounted at **2.3 meters** a
 
 ## Identifying the Parts
 
-<figure><img src=".gitbook/assets/WINWORD_jWIv9w3SPT.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_jWIv9w3SPT.png" alt=""><figcaption></figcaption></figure>
 
 1. **LED Indicator (Red)**\
    The LED indicator is used to indicate the system status.
@@ -277,13 +277,13 @@ Ensure the tamper switch is fully depressed when hooking the device onto the bra
 
 Surface Mounting
 
-<figure><img src=".gitbook/assets/WINWORD_XyZNxOrvuq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_XyZNxOrvuq.png" alt=""><figcaption></figcaption></figure>
 
 
 
 Corner Mounting
 
-<figure><img src=".gitbook/assets/WINWORD_AsFTcS8a53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_AsFTcS8a53.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -293,7 +293,7 @@ Corner Mounting
 
 Apply the Stabilizing Screw to the top of the Motion detector. The Stabilizing Screw has a foolproof mechanism for correct installation.
 
-<figure><img src=".gitbook/assets/WINWORD_U1mSUMvqGh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_U1mSUMvqGh.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -323,7 +323,7 @@ Push in the plugs and screw the holder onto the wall.
 
 Peel off the mylar tape to expose the screw hole. Screw the mounting bracket onto the holder.
 
-<figure><img src=".gitbook/assets/WINWORD_ueOEYmzdgq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_ueOEYmzdgq.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -341,7 +341,7 @@ Ensure the tamper switch is fully depressed when hooking the device onto the bra
 
 Apply the Stabilizing Screw to the top of the Motion detector. The Stabilizing Screw has a foolproof mechanism for correct installation.
 
-<figure><img src=".gitbook/assets/WINWORD_uFqna63pXr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_uFqna63pXr.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -363,7 +363,7 @@ Apply the Stabilizing Screw to the top of the Motion detector. The Stabilizing S
 
 ### EIR-35 Detection Range
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_ca7sypS18I.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_ca7sypS18I.png" alt=""><figcaption></figcaption></figure>
 
 Pet’s Weight/Height: 25 kg
 
@@ -376,16 +376,16 @@ Pet’s Weight/Height: 25 kg
 * The Motion Detector detects differences between moving object and the background. It does not detect idle objects.
 * Please install the outdoor motion detector straight up. Do not tilt it.
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_mV4B6fcu5o.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_mV4B6fcu5o.png" alt=""><figcaption></figcaption></figure>
 
 * Do not install the motion detector where objects moved by wind such as trees and laundry may block the motion detector’s field of view.
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_sCBVNalhsW.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_sCBVNalhsW.png" alt=""><figcaption></figcaption></figure>
 
 * Clear all light-reflecting surfaces from the detection area, as well as water puddles.
 
-<figure><img src=".gitbook/assets/WINWORD_sl0UyZ6m4f.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/WINWORD_sl0UyZ6m4f.png" alt=""><figcaption></figcaption></figure>
 
 * Avoid aiming at the path of outdoor unit’s intake or exhaust airflow.
 
-<figure><img src=".gitbook/assets/FoxitPDFReader_UAFZAxJcNy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/FoxitPDFReader_UAFZAxJcNy.png" alt=""><figcaption></figcaption></figure>

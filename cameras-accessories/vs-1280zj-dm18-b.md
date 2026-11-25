@@ -6,7 +6,7 @@ icon: circle-xmark
 
 ## Black aluminium junction box
 
-<figure><img src="../.gitbook/assets/image (79).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (80).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Specifications
 

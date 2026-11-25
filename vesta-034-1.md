@@ -4,7 +4,7 @@
 
 ## **Tilt Sensor for garage doors, windows equipment**&#x20;
 
-<figure><img src=".gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 ####
 
@@ -14,7 +14,7 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
 
 ## **Parts Identification**
 
-![](<.gitbook/assets/0 (52).jpeg>)
+![](<manuals/.gitbook/assets/0 (52).jpeg>)
 
 1. **Test Button / LED Indicator**
 
@@ -78,11 +78,11 @@ The Garage Tilt Sensor design consists of a cover and base. The cover contains a
 
 * The Garage Tilt Sensor should be installed on garage door. When the door is open and the detected surface is tilted less than or equals to 35°(+-10) degrees, or when the door is closed and the detected surface is tilted more than or equals to 55°(+-10) degrees, the Garage Tilt Sensor will transmit alarm signal to the Control Panel.
 
-![](<.gitbook/assets/2 (34).jpeg>)
+![](<manuals/.gitbook/assets/2 (34).jpeg>)
 
 * The Garage Tilt Sensor should be mounted on the top panel of the garage door, as shown below.
 
-![](<.gitbook/assets/3 (36).jpeg>)
+![](<manuals/.gitbook/assets/3 (36).jpeg>)
 
 **Recommendations:**
 

@@ -4,7 +4,7 @@ PSS-29-R2-ZW
 
 ## Power Switch
 
-<figure><img src=".gitbook/assets/image (1381).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1382).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Introduction
 

@@ -6,9 +6,9 @@ icon: video-plus
 
 ## 16-channel Ultra AI Series IP NVR
 
-<figure><img src="../.gitbook/assets/image (1214).png" alt="" width="375"><figcaption><p>NVR7216-IO-PRO</p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1215).png" alt="" width="375"><figcaption><p>NVR7216-IO-PRO</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1219).png" alt=""><figcaption></figcaption></figure>
 
 ### Specifications
 

@@ -8,7 +8,7 @@ Mobile Lite R-23
 
 ## VESTA portable personal emergency system
 
-<figure><img src=".gitbook/assets/image (1058).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1059).png" alt=""><figcaption></figcaption></figure>
 
 ### Quick Start Mobile Lite VESTA-338 <a href="#puesta-en-marcha-rapida-mobile-lite-vesta-338" id="puesta-en-marcha-rapida-mobile-lite-vesta-338"></a>
 
@@ -100,7 +100,7 @@ Once the device is registered, it can be configured from MedAlert
 
 #### Programming with VESTA-461 Cable
 
-<figure><img src=".gitbook/assets/image (1257).png" alt="Mobile lite PC tool" width="375"><figcaption><p>Mobile lite PC tool</p></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1258).png" alt="Mobile lite PC tool" width="375"><figcaption><p>Mobile lite PC tool</p></figcaption></figure>
 
 To program your device using the VESTA-461 cable, follow these steps:
 
@@ -111,4 +111,4 @@ To program your device using the VESTA-461 cable, follow these steps:
 
 
 
-{% file src=".gitbook/assets/Mobile Tool (R8_V3, R23, R29, R32) V0.15.rar" %}
+{% file src="manuals/.gitbook/assets/Mobile Tool (R8_V3, R23, R29, R32) V0.15.rar" %}

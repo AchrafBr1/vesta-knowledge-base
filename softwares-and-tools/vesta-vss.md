@@ -10,7 +10,7 @@ icon: desktop
 
 VSS enables the integration of multiple cameras and enhances security operations through seamless control, intelligent video analytics, and real-time system monitoring.
 
-<figure><img src="../.gitbook/assets/image (996).png" alt=""><figcaption><p>VSS User Inteface</p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (997).png" alt=""><figcaption><p>VSS User Inteface</p></figcaption></figure>
 
 ### Monitor. Manage. Analyze.
 
@@ -33,13 +33,13 @@ Monitor real-time network, CPU, and memory usage to ensure smooth and reliable o
 
 ### Software Manual
 
-{% file src="../.gitbook/assets/User_Manual_EN_V1.0.3.pdf" %}
+{% file src="../manuals/.gitbook/assets/User_Manual_EN_V1.0.3.pdf" %}
 
 ## Download VESTA VSS
 
 To download the VSS software for VESTA Advanced Video, please use the following link:
 
-<figure><img src="../.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgDWe3-8g5HYR7wme9sgJ7wBAVGQAezsBMWW_KToYv8yI5k?e=B8Nn33"><strong>Download VSS software for windows</strong></a></p></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/exe.ico" alt=""><figcaption><p><a href="https://vestasecurity-my.sharepoint.com/:f:/g/personal/vesta_vestasecurity_eu/IgDWe3-8g5HYR7wme9sgJ7wBAVGQAezsBMWW_KToYv8yI5k?e=B8Nn33"><strong>Download VSS software for windows</strong></a></p></figcaption></figure>
 
 <p align="center">Software VSS Updated 27/08/2026 V2.7.2</p>
 

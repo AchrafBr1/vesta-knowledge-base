@@ -4,7 +4,7 @@
 
 ## **Emergency Pendant / Wrist Transmitter**
 
-<figure><img src=".gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 #### [VESTA-029 Specification](https://vestasecurity.eu/en/product/vesta-029/)
 
@@ -22,7 +22,7 @@ The WTRQ Series include the following models:
 
 ### &#x20;
 
-<figure><img src=".gitbook/assets/0 (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/0 (99).png" alt=""><figcaption></figcaption></figure>
 
 ### Active Button
 
@@ -59,7 +59,7 @@ Step 1. Take off the Wrist Band on the Transmitter.
 
 Step 2. Clip the hook onto the Transmitter.
 
-<figure><img src=".gitbook/assets/1 (124).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/1 (124).jpeg" alt=""><figcaption></figcaption></figure>
 
 Step 3. Thread Neck cord through the hook.
 

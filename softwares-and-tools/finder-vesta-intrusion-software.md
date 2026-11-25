@@ -6,7 +6,7 @@ icon: router
 
 This software enables you to connect to Vesta control units via the integrated web server.
 
-<figure><img src="../.gitbook/assets/chrome_RgDAidlnpJ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/chrome_RgDAidlnpJ.png" alt=""><figcaption></figcaption></figure>
 
 **DOWNLOAD**
 
@@ -14,7 +14,7 @@ This software enables you to connect to Vesta control units via the integrated w
 
 ## Instructions
 
-<figure><img src="../.gitbook/assets/ONENOTE_mhDjcCrCZJ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/ONENOTE_mhDjcCrCZJ.png" alt=""><figcaption></figcaption></figure>
 
 The LanType is default to **DHCP** and does not require manual input of IP/Netmask/Gateway/DNS setting. If you wish to configure these setting manually, change LanType to **Static.**
 

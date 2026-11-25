@@ -8,4 +8,4 @@ description: Manual
 
 
 
-<figure><img src=".gitbook/assets/image (1375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="manuals/.gitbook/assets/image (1376).png" alt=""><figcaption></figcaption></figure>

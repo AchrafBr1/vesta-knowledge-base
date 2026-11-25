@@ -7,7 +7,7 @@ icon: video
 
 # IPC-B35-ZAS-14X
 
-<figure><img src="../.gitbook/assets/image (1371).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../manuals/.gitbook/assets/image (1372).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Main features
 
